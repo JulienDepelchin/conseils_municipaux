@@ -1,0 +1,131 @@
+{
+  "code_commune": "62307",
+  "commune": "Escalles",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "BOUTROY",
+    "prenom": "Eric",
+    "nom_complet": "Eric BOUTROY",
+    "age": 60,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 182,
+    "votants": 135,
+    "pct_votants": 74.18,
+    "abstentions": 47,
+    "pct_abstentions": 25.82,
+    "exprimes": 124
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Ensemble, le renouveau dans la continuité",
+      "libelle_abrege_liste": "Ensemble, le renouveau dans la continuité",
+      "nuance_liste": null,
+      "voix": 124,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "BOUTROY",
+        "prenom": "Eric",
+        "nom_complet": "Eric BOUTROY",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BOUTROY",
+          "prenom": "Eric",
+          "nom_complet": "Eric BOUTROY",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "SANIEZ",
+          "prenom": "Emilie",
+          "nom_complet": "Emilie SANIEZ",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BOLLART",
+          "prenom": "Adrien",
+          "nom_complet": "Adrien BOLLART",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DELAMAERE",
+          "prenom": "Judith",
+          "nom_complet": "Judith DELAMAERE",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LEFEBVRE",
+          "prenom": "Ludovic",
+          "nom_complet": "Ludovic LEFEBVRE",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DUQUESNE",
+          "prenom": "Rose",
+          "nom_complet": "Rose DUQUESNE",
+          "sexe": "F",
+          "age": 27,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "LEJOSNE",
+          "prenom": "Alexandre",
+          "nom_complet": "Alexandre LEJOSNE",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "VERON",
+          "prenom": "Sandra",
+          "nom_complet": "Sandra VERON",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "KALTENBACH",
+          "prenom": "Louis",
+          "nom_complet": "Louis KALTENBACH",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DEMEULEMEESTER",
+          "prenom": "Marie-France",
+          "nom_complet": "Marie-France DEMEULEMEESTER",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "HAMY",
+          "prenom": "Didier",
+          "nom_complet": "Didier HAMY",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

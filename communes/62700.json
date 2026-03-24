@@ -1,0 +1,151 @@
+{
+  "code_commune": "62700",
+  "commune": "Regnauville",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "POLMART",
+    "prenom": "Julien",
+    "nom_complet": "Julien POLMART",
+    "age": 44,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 177,
+    "votants": 167,
+    "pct_votants": 94.35,
+    "abstentions": 10,
+    "pct_abstentions": 5.65,
+    "exprimes": 152
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "AGISSONS POUR L'AVENIR",
+      "libelle_abrege_liste": "AGISSONS POUR L'AVENIR",
+      "nuance_liste": null,
+      "voix": 101,
+      "pct_voix_exprimes": 66.45,
+      "sieges_cm": 9,
+      "sieges_cc": null,
+      "nb_elus": 9,
+      "tete_de_liste": {
+        "nom": "POLMART",
+        "prenom": "Julien",
+        "nom_complet": "Julien POLMART",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "POLMART",
+          "prenom": "Julien",
+          "nom_complet": "Julien POLMART",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LEFEBVRE",
+          "prenom": "Marie",
+          "nom_complet": "Marie LEFEBVRE",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "SZPAK",
+          "prenom": "Edouard",
+          "nom_complet": "Edouard SZPAK",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LARDEUR",
+          "prenom": "Camille",
+          "nom_complet": "Camille LARDEUR",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "CANDA",
+          "prenom": "Eric",
+          "nom_complet": "Eric CANDA",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LECLERCQ",
+          "prenom": "Aurore",
+          "nom_complet": "Aurore LECLERCQ",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "VERNIER",
+          "prenom": "Pierre",
+          "nom_complet": "Pierre VERNIER",
+          "sexe": "M",
+          "age": 32,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "ROHAUT",
+          "prenom": "Ophélie",
+          "nom_complet": "Ophélie ROHAUT",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "EON",
+          "prenom": "Kevin",
+          "nom_complet": "Kevin EON",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "9"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "REGNAUVILLE ENSEMBLE !",
+      "libelle_abrege_liste": "REGNAUVILLE ENSEMBLE !",
+      "nuance_liste": null,
+      "voix": 51,
+      "pct_voix_exprimes": 33.55,
+      "sieges_cm": 2,
+      "sieges_cc": null,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "POMART",
+        "prenom": "Jean-François",
+        "nom_complet": "Jean-François POMART",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "POMART",
+          "prenom": "Jean-François",
+          "nom_complet": "Jean-François POMART",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "MISOIRE",
+          "prenom": "Babette",
+          "nom_complet": "Babette MISOIRE",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

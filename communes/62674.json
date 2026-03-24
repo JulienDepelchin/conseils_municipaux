@@ -1,0 +1,163 @@
+{
+  "code_commune": "62674",
+  "commune": "Quelmes",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "DECROIX",
+    "prenom": "Michaël",
+    "nom_complet": "Michaël DECROIX",
+    "age": 50,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 456,
+    "votants": 303,
+    "pct_votants": 66.45,
+    "abstentions": 153,
+    "pct_abstentions": 33.55,
+    "exprimes": 254
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Unis pour Quelmes",
+      "libelle_abrege_liste": "Unis pour Quelmes",
+      "nuance_liste": null,
+      "voix": 254,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "DECROIX",
+        "prenom": "Michaël",
+        "nom_complet": "Michaël DECROIX",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DECROIX",
+          "prenom": "Michaël",
+          "nom_complet": "Michaël DECROIX",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "HEMBERT",
+          "prenom": "Carole",
+          "nom_complet": "Carole HEMBERT",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "TASSART",
+          "prenom": "David",
+          "nom_complet": "David TASSART",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "EVRARD",
+          "prenom": "Valérie",
+          "nom_complet": "Valérie EVRARD",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "GAZULLA",
+          "prenom": "José",
+          "nom_complet": "José GAZULLA",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "BRUGE",
+          "prenom": "Sandrine",
+          "nom_complet": "Sandrine BRUGE",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DEGREMONT",
+          "prenom": "Frederic",
+          "nom_complet": "Frederic DEGREMONT",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DECOCQ",
+          "prenom": "Éléonore",
+          "nom_complet": "Éléonore DECOCQ",
+          "sexe": "F",
+          "age": 33,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DEMOL",
+          "prenom": "Jean-François",
+          "nom_complet": "Jean-François DEMOL",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DUBOIS",
+          "prenom": "Justine",
+          "nom_complet": "Justine DUBOIS",
+          "sexe": "F",
+          "age": 31,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DELAMAERE",
+          "prenom": "Bertrand",
+          "nom_complet": "Bertrand DELAMAERE",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "SCOTTE",
+          "prenom": "Charlotte",
+          "nom_complet": "Charlotte SCOTTE",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "DUBREUCQ",
+          "prenom": "Edouard",
+          "nom_complet": "Edouard DUBREUCQ",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "CODRON",
+          "prenom": "Amandine",
+          "nom_complet": "Amandine CODRON",
+          "sexe": "F",
+          "age": 32,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "DECOCQ",
+          "prenom": "Jérémy",
+          "nom_complet": "Jérémy DECOCQ",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

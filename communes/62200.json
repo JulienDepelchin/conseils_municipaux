@@ -1,0 +1,183 @@
+{
+  "code_commune": "62200",
+  "commune": "Cambrin",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "SEBERT",
+    "prenom": "Géraldine",
+    "nom_complet": "Géraldine SEBERT",
+    "age": 66,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 883,
+    "votants": 674,
+    "pct_votants": 76.33,
+    "abstentions": 209,
+    "pct_abstentions": 23.67,
+    "exprimes": 662
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ENSEMBLE, PRÉPARONS L'AVENIR",
+      "libelle_abrege_liste": "ENSEMBLE, PRÉPARONS L'AVENIR",
+      "nuance_liste": null,
+      "voix": 340,
+      "pct_voix_exprimes": 51.36,
+      "sieges_cm": 12,
+      "sieges_cc": 1,
+      "nb_elus": 12,
+      "tete_de_liste": {
+        "nom": "SEBERT",
+        "prenom": "Géraldine",
+        "nom_complet": "Géraldine SEBERT",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "SEBERT",
+          "prenom": "Géraldine",
+          "nom_complet": "Géraldine SEBERT",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DERVEAUX",
+          "prenom": "Rémi",
+          "nom_complet": "Rémi DERVEAUX",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "CARON LECLERCQ",
+          "prenom": "Magali",
+          "nom_complet": "Magali CARON LECLERCQ",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "ROHART",
+          "prenom": "Sylvain",
+          "nom_complet": "Sylvain ROHART",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LEGRIS",
+          "prenom": "Marie-Laure",
+          "nom_complet": "Marie-Laure LEGRIS",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "VILLAIN",
+          "prenom": "Kévin",
+          "nom_complet": "Kévin VILLAIN",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "FOUILLARD",
+          "prenom": "Amandine",
+          "nom_complet": "Amandine FOUILLARD",
+          "sexe": "F",
+          "age": 31,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DEMARAIS",
+          "prenom": "Gilles",
+          "nom_complet": "Gilles DEMARAIS",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "GUISGAND",
+          "prenom": "Audrey",
+          "nom_complet": "Audrey GUISGAND",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "SMEKTALA",
+          "prenom": "Dimitri",
+          "nom_complet": "Dimitri SMEKTALA",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "CAPELAERE",
+          "prenom": "Laëtitia",
+          "nom_complet": "Laëtitia CAPELAERE",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "QUÉNIART",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno QUÉNIART",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "12"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "CONTINUONS D'AGIR ENSEMBLE POUR CAMBRIN",
+      "libelle_abrege_liste": "CONTINUONS D'AGIR ENSEMBLE POUR CAMBRIN",
+      "nuance_liste": null,
+      "voix": 322,
+      "pct_voix_exprimes": 48.64,
+      "sieges_cm": 3,
+      "sieges_cc": 0,
+      "nb_elus": 3,
+      "tete_de_liste": {
+        "nom": "DRUMEZ",
+        "prenom": "Philippe",
+        "nom_complet": "Philippe DRUMEZ",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DRUMEZ",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe DRUMEZ",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DEVALCKENAERE",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle DEVALCKENAERE",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "MARTINET",
+          "prenom": "Gilbert",
+          "nom_complet": "Gilbert MARTINET",
+          "sexe": "M",
+          "age": 77,
+          "rang_liste": "3"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

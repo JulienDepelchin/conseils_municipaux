@@ -1,0 +1,183 @@
+{
+  "code_commune": "59078",
+  "commune": "Beugnies",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "ERNESTI",
+    "prenom": "Frederic",
+    "nom_complet": "Frederic ERNESTI",
+    "age": 62,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 452,
+    "votants": 364,
+    "pct_votants": 80.53,
+    "abstentions": 88,
+    "pct_abstentions": 19.47,
+    "exprimes": 354
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Continuez avec Beugnies autrement",
+      "libelle_abrege_liste": "Continuez avec Beugnies autrement",
+      "nuance_liste": null,
+      "voix": 248,
+      "pct_voix_exprimes": 70.06,
+      "sieges_cm": 13,
+      "sieges_cc": null,
+      "nb_elus": 13,
+      "tete_de_liste": {
+        "nom": "ERNESTI",
+        "prenom": "Frederic",
+        "nom_complet": "Frederic ERNESTI",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "ERNESTI",
+          "prenom": "Frederic",
+          "nom_complet": "Frederic ERNESTI",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "PLACE",
+          "prenom": "Severine",
+          "nom_complet": "Severine PLACE",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BAUDUIN",
+          "prenom": "Vincent",
+          "nom_complet": "Vincent BAUDUIN",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "KRZYZANIAK-DAVID",
+          "prenom": "Marie-Adeline",
+          "nom_complet": "Marie-Adeline KRZYZANIAK-DAVID",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "PODEVIN",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal PODEVIN",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "CLAUTEAUX BOULENGER",
+          "prenom": "Marie",
+          "nom_complet": "Marie CLAUTEAUX BOULENGER",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "MASY",
+          "prenom": "Florent",
+          "nom_complet": "Florent MASY",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "ERNESTI",
+          "prenom": "Margaux",
+          "nom_complet": "Margaux ERNESTI",
+          "sexe": "F",
+          "age": 31,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "CARLIER",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe CARLIER",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "CHAMAILLARD",
+          "prenom": "Estelle",
+          "nom_complet": "Estelle CHAMAILLARD",
+          "sexe": "F",
+          "age": 33,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "GLOBEZ",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal GLOBEZ",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "DERUMIER",
+          "prenom": "Catherine",
+          "nom_complet": "Catherine DERUMIER",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "COUSIN",
+          "prenom": "Pierre-Marie",
+          "nom_complet": "Pierre-Marie COUSIN",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "13"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "Beugnies coeur de village",
+      "libelle_abrege_liste": "Beugnies coeur de village",
+      "nuance_liste": null,
+      "voix": 106,
+      "pct_voix_exprimes": 29.94,
+      "sieges_cm": 2,
+      "sieges_cc": null,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "PRZESZLO",
+        "prenom": "Yannick",
+        "nom_complet": "Yannick PRZESZLO",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "PRZESZLO",
+          "prenom": "Yannick",
+          "nom_complet": "Yannick PRZESZLO",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "AUBOIS",
+          "prenom": "Sandrine",
+          "nom_complet": "Sandrine AUBOIS",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "code_commune": "62392",
+  "commune": "Guémappe",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "DELFOLIE",
+    "prenom": "Christine",
+    "nom_complet": "Christine DELFOLIE",
+    "age": 57,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 309,
+    "votants": 209,
+    "pct_votants": 67.64,
+    "abstentions": 100,
+    "pct_abstentions": 32.36,
+    "exprimes": 182
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ENSEMBLE POUR GUÉMAPPE",
+      "libelle_abrege_liste": "ENSEMBLE POUR GUÉMAPPE",
+      "nuance_liste": null,
+      "voix": 182,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "DELFOLIE",
+        "prenom": "Christine",
+        "nom_complet": "Christine DELFOLIE",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "DELFOLIE",
+          "prenom": "Christine",
+          "nom_complet": "Christine DELFOLIE",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DELOFFRE",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe DELOFFRE",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "GIORGIANNI",
+          "prenom": "Christelle",
+          "nom_complet": "Christelle GIORGIANNI",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "HENRY",
+          "prenom": "Benjamin",
+          "nom_complet": "Benjamin HENRY",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LAFOND",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie LAFOND",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "PETIT",
+          "prenom": "Julien",
+          "nom_complet": "Julien PETIT",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "TRANNOY",
+          "prenom": "Sophie",
+          "nom_complet": "Sophie TRANNOY",
+          "sexe": "F",
+          "age": 27,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "TRUFFIER",
+          "prenom": "Fabrice",
+          "nom_complet": "Fabrice TRUFFIER",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "MERLOT",
+          "prenom": "Aline",
+          "nom_complet": "Aline MERLOT",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DELECROIX",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe DELECROIX",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "BOUCHEZ",
+          "prenom": "Simone",
+          "nom_complet": "Simone BOUCHEZ",
+          "sexe": "F",
+          "age": 72,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

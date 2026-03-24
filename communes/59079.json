@@ -1,0 +1,275 @@
+{
+  "code_commune": "59079",
+  "commune": "Beuvrages",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "BENYAHIA",
+    "prenom": "Ali",
+    "nom_complet": "Ali BENYAHIA",
+    "age": 60,
+    "nuance": "LDVC"
+  },
+  "resultats": {
+    "inscrits": 4642,
+    "votants": 2027,
+    "pct_votants": 43.67,
+    "abstentions": 2615,
+    "pct_abstentions": 56.33,
+    "exprimes": 1798
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "CONTINUONS A FAIRE ENSEMBLE CE QUI NOUS RASSEMBLE",
+      "libelle_abrege_liste": "CONTINUONS A FAIRE ENSEMBLE CE QUI NOUS RASSEMBLE",
+      "nuance_liste": "LDVC",
+      "voix": 1798,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 29,
+      "sieges_cc": 3,
+      "nb_elus": 29,
+      "tete_de_liste": {
+        "nom": "BENYAHIA",
+        "prenom": "Ali",
+        "nom_complet": "Ali BENYAHIA",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BENYAHIA",
+          "prenom": "Ali",
+          "nom_complet": "Ali BENYAHIA",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "ALLARD",
+          "prenom": "Maryse",
+          "nom_complet": "Maryse ALLARD",
+          "sexe": "F",
+          "age": 72,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "HOFFMANN",
+          "prenom": "Léon",
+          "nom_complet": "Léon HOFFMANN",
+          "sexe": "M",
+          "age": 76,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "COLLET",
+          "prenom": "Rébecca",
+          "nom_complet": "Rébecca COLLET",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DOUCHEZ",
+          "prenom": "Eddy",
+          "nom_complet": "Eddy DOUCHEZ",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "ARBAOUI",
+          "prenom": "Souad",
+          "nom_complet": "Souad ARBAOUI",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "MALLIA",
+          "prenom": "Mario",
+          "nom_complet": "Mario MALLIA",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "CLAISSE",
+          "prenom": "Patricia",
+          "nom_complet": "Patricia CLAISSE",
+          "sexe": "F",
+          "age": 72,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "LE COMTE",
+          "prenom": "Jean-Pierre",
+          "nom_complet": "Jean-Pierre LE COMTE",
+          "sexe": "M",
+          "age": 80,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "VASSEUR",
+          "prenom": "Christelle",
+          "nom_complet": "Christelle VASSEUR",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "KOWALCZYK",
+          "prenom": "André",
+          "nom_complet": "André KOWALCZYK",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "REGOLLE",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle REGOLLE",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "FRANCO",
+          "prenom": "Tony",
+          "nom_complet": "Tony FRANCO",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "DZIKOWSKI",
+          "prenom": "Patricia",
+          "nom_complet": "Patricia DZIKOWSKI",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "KASPRZYK",
+          "prenom": "Rémi",
+          "nom_complet": "Rémi KASPRZYK",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "MARCHINI LANNOY",
+          "prenom": "Aurélie",
+          "nom_complet": "Aurélie MARCHINI LANNOY",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "LEGRAND",
+          "prenom": "Grégory",
+          "nom_complet": "Grégory LEGRAND",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "BIGAILLON",
+          "prenom": "Magali",
+          "nom_complet": "Magali BIGAILLON",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "POTEAU",
+          "prenom": "Alexis",
+          "nom_complet": "Alexis POTEAU",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "AMAR YOUCEF",
+          "prenom": "Jamila",
+          "nom_complet": "Jamila AMAR YOUCEF",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "BECQUE",
+          "prenom": "Sullivan",
+          "nom_complet": "Sullivan BECQUE",
+          "sexe": "M",
+          "age": 30,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "GONZALEZ",
+          "prenom": "Roselyne",
+          "nom_complet": "Roselyne GONZALEZ",
+          "sexe": "F",
+          "age": 70,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "WORIGHI",
+          "prenom": "Saïd",
+          "nom_complet": "Saïd WORIGHI",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "23"
+        },
+        {
+          "nom": "DELECLUSE",
+          "prenom": "Myriam",
+          "nom_complet": "Myriam DELECLUSE",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "24"
+        },
+        {
+          "nom": "COPIN",
+          "prenom": "Théo",
+          "nom_complet": "Théo COPIN",
+          "sexe": "M",
+          "age": 23,
+          "rang_liste": "25"
+        },
+        {
+          "nom": "MASCARTE",
+          "prenom": "Sophie",
+          "nom_complet": "Sophie MASCARTE",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "26"
+        },
+        {
+          "nom": "KUTTA",
+          "prenom": "Bernard",
+          "nom_complet": "Bernard KUTTA",
+          "sexe": "M",
+          "age": 79,
+          "rang_liste": "27"
+        },
+        {
+          "nom": "SAILLY",
+          "prenom": "Véronique",
+          "nom_complet": "Véronique SAILLY",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "28"
+        },
+        {
+          "nom": "GENGEMBRE",
+          "prenom": "Michel",
+          "nom_complet": "Michel GENGEMBRE",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "29"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

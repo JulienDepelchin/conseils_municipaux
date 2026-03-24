@@ -1,0 +1,99 @@
+{
+  "code_commune": "62157",
+  "commune": "Boubers-lès-Hesmond",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "TETARD",
+    "prenom": "Francis",
+    "nom_complet": "Francis TETARD",
+    "age": 66,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 63,
+    "votants": 51,
+    "pct_votants": 80.95,
+    "abstentions": 12,
+    "pct_abstentions": 19.05,
+    "exprimes": 30
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "UNION DES GENERATIONS POUR L'AVENIR DE BOUBERS",
+      "libelle_abrege_liste": "UNION DES GENERATIONS POUR L'AVENIR DE BOUBERS",
+      "nuance_liste": null,
+      "voix": 30,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 7,
+      "sieges_cc": null,
+      "nb_elus": 7,
+      "tete_de_liste": {
+        "nom": "TETARD",
+        "prenom": "Francis",
+        "nom_complet": "Francis TETARD",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "TETARD",
+          "prenom": "Francis",
+          "nom_complet": "Francis TETARD",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "MACHIN",
+          "prenom": "Marie-Jose",
+          "nom_complet": "Marie-Jose MACHIN",
+          "sexe": "F",
+          "age": 74,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "GOSSE",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent GOSSE",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "SAINT-LEGER",
+          "prenom": "Magalie",
+          "nom_complet": "Magalie SAINT-LEGER",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "REGNIER",
+          "prenom": "Damien",
+          "nom_complet": "Damien REGNIER",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LETOILLE",
+          "prenom": "Cloe",
+          "nom_complet": "Cloe LETOILLE",
+          "sexe": "F",
+          "age": 18,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "MACHAIN",
+          "prenom": "Alain",
+          "nom_complet": "Alain MACHAIN",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "7"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

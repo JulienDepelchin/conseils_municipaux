@@ -1,0 +1,131 @@
+{
+  "code_commune": "59182",
+  "commune": "Drincham",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "THOOR",
+    "prenom": "Patrick",
+    "nom_complet": "Patrick THOOR",
+    "age": 64,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 201,
+    "votants": 119,
+    "pct_votants": 59.2,
+    "abstentions": 82,
+    "pct_abstentions": 40.8,
+    "exprimes": 105
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Construisons ensemble le Drincham de demain",
+      "libelle_abrege_liste": "Construisons ensemble le Drincham de demain",
+      "nuance_liste": null,
+      "voix": 105,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "THOOR",
+        "prenom": "Patrick",
+        "nom_complet": "Patrick THOOR",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "THOOR",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick THOOR",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DEBLONDE",
+          "prenom": "Sophie",
+          "nom_complet": "Sophie DEBLONDE",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DOYENNETTE",
+          "prenom": "Jean",
+          "nom_complet": "Jean DOYENNETTE",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DEHAESE",
+          "prenom": "Véronique",
+          "nom_complet": "Véronique DEHAESE",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "HUMEZ",
+          "prenom": "Vincent",
+          "nom_complet": "Vincent HUMEZ",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "FASQUEL",
+          "prenom": "Geraldine",
+          "nom_complet": "Geraldine FASQUEL",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "PATERNOSTER",
+          "prenom": "Frederic",
+          "nom_complet": "Frederic PATERNOSTER",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "SCHERIER",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie SCHERIER",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "RYCKEWAERT",
+          "prenom": "Ivan",
+          "nom_complet": "Ivan RYCKEWAERT",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "THOOR",
+          "prenom": "Juliette",
+          "nom_complet": "Juliette THOOR",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "VANDERSLUYS",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe VANDERSLUYS",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

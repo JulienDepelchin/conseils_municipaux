@@ -1,0 +1,151 @@
+{
+  "code_commune": "62140",
+  "commune": "Bléquin",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "MARCIANO",
+    "prenom": "Franck",
+    "nom_complet": "Franck MARCIANO",
+    "age": 59,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 384,
+    "votants": 289,
+    "pct_votants": 75.26,
+    "abstentions": 95,
+    "pct_abstentions": 24.74,
+    "exprimes": 277
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Bien vivre ensemble à Bléquin",
+      "libelle_abrege_liste": "Bien vivre ensemble à Bléquin",
+      "nuance_liste": null,
+      "voix": 166,
+      "pct_voix_exprimes": 59.93,
+      "sieges_cm": 9,
+      "sieges_cc": null,
+      "nb_elus": 9,
+      "tete_de_liste": {
+        "nom": "MARCIANO",
+        "prenom": "Franck",
+        "nom_complet": "Franck MARCIANO",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "MARCIANO",
+          "prenom": "Franck",
+          "nom_complet": "Franck MARCIANO",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "MATTE",
+          "prenom": "Emilie",
+          "nom_complet": "Emilie MATTE",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DUCROCQ",
+          "prenom": "Jordan",
+          "nom_complet": "Jordan DUCROCQ",
+          "sexe": "M",
+          "age": 30,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "MARCIANO",
+          "prenom": "Anne-Flore",
+          "nom_complet": "Anne-Flore MARCIANO",
+          "sexe": "F",
+          "age": 28,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "EUCHIN",
+          "prenom": "Guy",
+          "nom_complet": "Guy EUCHIN",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "TISSERAND",
+          "prenom": "Angélique",
+          "nom_complet": "Angélique TISSERAND",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "GOBLET",
+          "prenom": "Sylvain",
+          "nom_complet": "Sylvain GOBLET",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "VERMEERSCH",
+          "prenom": "Céline",
+          "nom_complet": "Céline VERMEERSCH",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "MAGERE",
+          "prenom": "Gatien",
+          "nom_complet": "Gatien MAGERE",
+          "sexe": "M",
+          "age": 34,
+          "rang_liste": "9"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "LISTE DE DÉFENSE DES INTÉRÊTS COMMUNAUX",
+      "libelle_abrege_liste": "LISTE DE DÉFENSE DES INTÉRÊTS COMMUNAUX",
+      "nuance_liste": null,
+      "voix": 111,
+      "pct_voix_exprimes": 40.07,
+      "sieges_cm": 2,
+      "sieges_cc": null,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "GARDIN",
+        "prenom": "Jean",
+        "nom_complet": "Jean GARDIN",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "GARDIN",
+          "prenom": "Jean",
+          "nom_complet": "Jean GARDIN",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DALLERY-BLET",
+          "prenom": "Noémie",
+          "nom_complet": "Noémie DALLERY-BLET",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

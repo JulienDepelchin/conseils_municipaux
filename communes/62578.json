@@ -1,0 +1,131 @@
+{
+  "code_commune": "62578",
+  "commune": "Monchiet",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "CAILLIEREZ",
+    "prenom": "Denis",
+    "nom_complet": "Denis CAILLIEREZ",
+    "age": 54,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 103,
+    "votants": 76,
+    "pct_votants": 73.79,
+    "abstentions": 27,
+    "pct_abstentions": 26.21,
+    "exprimes": 62
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Liste des intérêts communaux",
+      "libelle_abrege_liste": "Liste des intérêts communaux",
+      "nuance_liste": null,
+      "voix": 62,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "CAILLIEREZ",
+        "prenom": "Denis",
+        "nom_complet": "Denis CAILLIEREZ",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "CAILLIEREZ",
+          "prenom": "Denis",
+          "nom_complet": "Denis CAILLIEREZ",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "CAMUS",
+          "prenom": "Cécile",
+          "nom_complet": "Cécile CAMUS",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DELPORTE",
+          "prenom": "Michel",
+          "nom_complet": "Michel DELPORTE",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DUCRON",
+          "prenom": "Julie",
+          "nom_complet": "Julie DUCRON",
+          "sexe": "F",
+          "age": 26,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "FACHE",
+          "prenom": "Sébastien",
+          "nom_complet": "Sébastien FACHE",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LEQUETTE-JUGE",
+          "prenom": "Julie",
+          "nom_complet": "Julie LEQUETTE-JUGE",
+          "sexe": "F",
+          "age": 32,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "FAUTREZ",
+          "prenom": "Cyril",
+          "nom_complet": "Cyril FAUTREZ",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "PASCOLI",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie PASCOLI",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "FOUCAL",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric FOUCAL",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "THOMAS",
+          "prenom": "Anne-Sophie",
+          "nom_complet": "Anne-Sophie THOMAS",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "SERON",
+          "prenom": "Jean-Pierre",
+          "nom_complet": "Jean-Pierre SERON",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

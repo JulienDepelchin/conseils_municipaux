@@ -1,0 +1,163 @@
+{
+  "code_commune": "59310",
+  "commune": "Hon-Hergies",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "BERTAUX",
+    "prenom": "Luc",
+    "nom_complet": "Luc BERTAUX",
+    "age": 53,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 553,
+    "votants": 298,
+    "pct_votants": 53.89,
+    "abstentions": 255,
+    "pct_abstentions": 46.11,
+    "exprimes": 287
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Continuons d'agir pour HON-HERGIES, un village qui nous ressemble",
+      "libelle_abrege_liste": "Continuons d'agir pour HON-HERGIES, un village qui nous ressemble",
+      "nuance_liste": null,
+      "voix": 287,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "BERTAUX",
+        "prenom": "Luc",
+        "nom_complet": "Luc BERTAUX",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BERTAUX",
+          "prenom": "Luc",
+          "nom_complet": "Luc BERTAUX",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LENGLET",
+          "prenom": "Marion",
+          "nom_complet": "Marion LENGLET",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BOUTET",
+          "prenom": "Marc",
+          "nom_complet": "Marc BOUTET",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "STIEVENART",
+          "prenom": "Daniele",
+          "nom_complet": "Daniele STIEVENART",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "THOMAS",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique THOMAS",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "CARREZ",
+          "prenom": "Aurore",
+          "nom_complet": "Aurore CARREZ",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DANGUIN",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe DANGUIN",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "COSTES",
+          "prenom": "Elodie",
+          "nom_complet": "Elodie COSTES",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "LABALETTE",
+          "prenom": "Maxime",
+          "nom_complet": "Maxime LABALETTE",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "MARCHANT",
+          "prenom": "Catherine",
+          "nom_complet": "Catherine MARCHANT",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DHERBECOURT",
+          "prenom": "Cédric",
+          "nom_complet": "Cédric DHERBECOURT",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "LEROY",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie LEROY",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "LOISEAU",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal LOISEAU",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "HELIN",
+          "prenom": "Justine",
+          "nom_complet": "Justine HELIN",
+          "sexe": "F",
+          "age": 31,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "LEBRUN",
+          "prenom": "Michel",
+          "nom_complet": "Michel LEBRUN",
+          "sexe": "M",
+          "age": 76,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

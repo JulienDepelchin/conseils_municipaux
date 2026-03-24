@@ -1,0 +1,315 @@
+{
+  "code_commune": "62261",
+  "commune": "Cucq",
+  "departement": "Pas-de-Calais",
+  "tour": "T2",
+  "maire": {
+    "nom": "FLAHAUT",
+    "prenom": "David",
+    "nom_complet": "David FLAHAUT",
+    "age": 56,
+    "nuance": "LDVD"
+  },
+  "resultats": {
+    "inscrits": 4478,
+    "votants": 2958,
+    "pct_votants": 66.06,
+    "abstentions": 1520,
+    "pct_abstentions": 33.94,
+    "exprimes": 2902
+  },
+  "listes": [
+    {
+      "num_panneau": "4",
+      "libelle_liste": "Renouveau 2026",
+      "libelle_abrege_liste": "Renouveau 2026",
+      "nuance_liste": "LDVD",
+      "voix": 1663,
+      "pct_voix_exprimes": 57.31,
+      "sieges_cm": 23,
+      "sieges_cc": 4,
+      "nb_elus": 23,
+      "tete_de_liste": {
+        "nom": "FLAHAUT",
+        "prenom": "David",
+        "nom_complet": "David FLAHAUT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "FLAHAUT",
+          "prenom": "David",
+          "nom_complet": "David FLAHAUT",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "FROISSART",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle FROISSART",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "MAILLART",
+          "prenom": "Stéphane",
+          "nom_complet": "Stéphane MAILLART",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LERICHE",
+          "prenom": "Graziella",
+          "nom_complet": "Graziella LERICHE",
+          "sexe": "F",
+          "age": 33,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "HOC",
+          "prenom": "Jean-Pierre",
+          "nom_complet": "Jean-Pierre HOC",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "BRABANT",
+          "prenom": "Florence",
+          "nom_complet": "Florence BRABANT",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DEVOLDER",
+          "prenom": "Jean-Bernard",
+          "nom_complet": "Jean-Bernard DEVOLDER",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "ROCHEL",
+          "prenom": "Coraline",
+          "nom_complet": "Coraline ROCHEL",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "PRUVOT",
+          "prenom": "Jérôme",
+          "nom_complet": "Jérôme PRUVOT",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "MARCY",
+          "prenom": "Caroline",
+          "nom_complet": "Caroline MARCY",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "ADRIAENSSENS",
+          "prenom": "Eric",
+          "nom_complet": "Eric ADRIAENSSENS",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "RIGAUX",
+          "prenom": "Nadine",
+          "nom_complet": "Nadine RIGAUX",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "VAMBRE",
+          "prenom": "Didier",
+          "nom_complet": "Didier VAMBRE",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "DEVIS",
+          "prenom": "Lise",
+          "nom_complet": "Lise DEVIS",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "GOSSELIN",
+          "prenom": "Claude",
+          "nom_complet": "Claude GOSSELIN",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "LEBLANC",
+          "prenom": "Anne-Marie",
+          "nom_complet": "Anne-Marie LEBLANC",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "HODE",
+          "prenom": "Alain",
+          "nom_complet": "Alain HODE",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "BAILLET",
+          "prenom": "Lucie",
+          "nom_complet": "Lucie BAILLET",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "CARON",
+          "prenom": "Jean-Christophe",
+          "nom_complet": "Jean-Christophe CARON",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "FOURNIER",
+          "prenom": "Virginie",
+          "nom_complet": "Virginie FOURNIER",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "MARECHAL",
+          "prenom": "Jean-Philippe",
+          "nom_complet": "Jean-Philippe MARECHAL",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "TRIBOULET",
+          "prenom": "Hélène",
+          "nom_complet": "Hélène TRIBOULET",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "BULTE",
+          "prenom": "Jérôme",
+          "nom_complet": "Jérôme BULTE",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "23"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "UNIR ET AGIR",
+      "libelle_abrege_liste": "UNIR ET AGIR",
+      "nuance_liste": "LDIV",
+      "voix": 1041,
+      "pct_voix_exprimes": 35.87,
+      "sieges_cm": 5,
+      "sieges_cc": 1,
+      "nb_elus": 5,
+      "tete_de_liste": {
+        "nom": "BIGOT",
+        "prenom": "Catherine",
+        "nom_complet": "Catherine BIGOT",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "BIGOT",
+          "prenom": "Catherine",
+          "nom_complet": "Catherine BIGOT",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DUSANNIER",
+          "prenom": "François",
+          "nom_complet": "François DUSANNIER",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "MICHELI",
+          "prenom": "Karine",
+          "nom_complet": "Karine MICHELI",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "VAN ROBAIS",
+          "prenom": "Baudouin",
+          "nom_complet": "Baudouin VAN ROBAIS",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LEVENT",
+          "prenom": "Anne",
+          "nom_complet": "Anne LEVENT",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "5"
+        }
+      ],
+      "statut_conseil": "autre"
+    },
+    {
+      "num_panneau": "3",
+      "libelle_liste": "LE TRIANGLE CITOYEN",
+      "libelle_abrege_liste": "LE TRIANGLE CITOYEN",
+      "nuance_liste": "LDIV",
+      "voix": 198,
+      "pct_voix_exprimes": 6.82,
+      "sieges_cm": 1,
+      "sieges_cc": 0,
+      "nb_elus": 1,
+      "tete_de_liste": {
+        "nom": "GUIDEZ",
+        "prenom": "Pierre-Marie",
+        "nom_complet": "Pierre-Marie GUIDEZ",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "GUIDEZ",
+          "prenom": "Pierre-Marie",
+          "nom_complet": "Pierre-Marie GUIDEZ",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "1"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

@@ -1,0 +1,343 @@
+{
+  "code_commune": "59271",
+  "commune": "Grande-Synthe",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "DECLUNDER",
+    "prenom": "Arnaud",
+    "nom_complet": "Arnaud DECLUNDER",
+    "age": 53,
+    "nuance": "LDVG"
+  },
+  "resultats": {
+    "inscrits": 14318,
+    "votants": 7392,
+    "pct_votants": 51.63,
+    "abstentions": 6926,
+    "pct_abstentions": 48.37,
+    "exprimes": 7128
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "Réussir ensemble pour et avec les Grand-Synthois",
+      "libelle_abrege_liste": "REPEALGS",
+      "nuance_liste": "LDVG",
+      "voix": 4142,
+      "pct_voix_exprimes": 58.11,
+      "sieges_cm": 28,
+      "sieges_cc": 5,
+      "nb_elus": 28,
+      "tete_de_liste": {
+        "nom": "DECLUNDER",
+        "prenom": "Arnaud",
+        "nom_complet": "Arnaud DECLUNDER",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DECLUNDER",
+          "prenom": "Arnaud",
+          "nom_complet": "Arnaud DECLUNDER",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BEN MANSOUR",
+          "prenom": "Sonia",
+          "nom_complet": "Sonia BEN MANSOUR",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BECK",
+          "prenom": "Jérémy",
+          "nom_complet": "Jérémy BECK",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "ACS",
+          "prenom": "Marjorie",
+          "nom_complet": "Marjorie ACS",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "HAMADI",
+          "prenom": "Karim",
+          "nom_complet": "Karim HAMADI",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "ALGOËT",
+          "prenom": "Sandra",
+          "nom_complet": "Sandra ALGOËT",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "HALLIEZ",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick HALLIEZ",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "GERARD",
+          "prenom": "Emilie",
+          "nom_complet": "Emilie GERARD",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "BERTHE",
+          "prenom": "Jérôme",
+          "nom_complet": "Jérôme BERTHE",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "LEUCHART",
+          "prenom": "Lucie",
+          "nom_complet": "Lucie LEUCHART",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "EL ABBASSI",
+          "prenom": "Habib",
+          "nom_complet": "Habib EL ABBASSI",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "SEGHIR",
+          "prenom": "Fatima",
+          "nom_complet": "Fatima SEGHIR",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "VANLICHTERVELDE",
+          "prenom": "Julien",
+          "nom_complet": "Julien VANLICHTERVELDE",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "ELIOT",
+          "prenom": "Corinne",
+          "nom_complet": "Corinne ELIOT",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "CALONNE",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas CALONNE",
+          "sexe": "M",
+          "age": 34,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "LIEGEARD",
+          "prenom": "Yasmina",
+          "nom_complet": "Yasmina LIEGEARD",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "EL KHALOUI",
+          "prenom": "Smaïn",
+          "nom_complet": "Smaïn EL KHALOUI",
+          "sexe": "M",
+          "age": 34,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "RITO",
+          "prenom": "Angela",
+          "nom_complet": "Angela RITO",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "LOUIS",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier LOUIS",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "HAYAT",
+          "prenom": "Hizia",
+          "nom_complet": "Hizia HAYAT",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "DE-LYS",
+          "prenom": "René",
+          "nom_complet": "René DE-LYS",
+          "sexe": "M",
+          "age": 82,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "SZWAB",
+          "prenom": "Caroline",
+          "nom_complet": "Caroline SZWAB",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "BADDOU",
+          "prenom": "Abdelhakim",
+          "nom_complet": "Abdelhakim BADDOU",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "23"
+        },
+        {
+          "nom": "LIMOUSIN",
+          "prenom": "Patricia",
+          "nom_complet": "Patricia LIMOUSIN",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "24"
+        },
+        {
+          "nom": "SCHOEMACKER",
+          "prenom": "Grégory",
+          "nom_complet": "Grégory SCHOEMACKER",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "25"
+        },
+        {
+          "nom": "PHILIPPE",
+          "prenom": "Mathilde",
+          "nom_complet": "Mathilde PHILIPPE",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "26"
+        },
+        {
+          "nom": "CORSIEZ",
+          "prenom": "Warren",
+          "nom_complet": "Warren CORSIEZ",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "27"
+        },
+        {
+          "nom": "GALLET",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie GALLET",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "28"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Grande-Synthe Passionnément",
+      "libelle_abrege_liste": "GSP",
+      "nuance_liste": "LUG",
+      "voix": 2986,
+      "pct_voix_exprimes": 41.89,
+      "sieges_cm": 7,
+      "sieges_cc": 1,
+      "nb_elus": 7,
+      "tete_de_liste": {
+        "nom": "BEYAERT",
+        "prenom": "Martial",
+        "nom_complet": "Martial BEYAERT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BEYAERT",
+          "prenom": "Martial",
+          "nom_complet": "Martial BEYAERT",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DESMAZIERES",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie DESMAZIERES",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "CUVILLIER",
+          "prenom": "Benoît",
+          "nom_complet": "Benoît CUVILLIER",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "VANELLE",
+          "prenom": "Anne-Sophie",
+          "nom_complet": "Anne-Sophie VANELLE",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DA SILVA",
+          "prenom": "José",
+          "nom_complet": "José DA SILVA",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "TOUIL AYADA",
+          "prenom": "Karima",
+          "nom_complet": "Karima TOUIL AYADA",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DAMIE",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas DAMIE",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "7"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

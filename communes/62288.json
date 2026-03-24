@@ -1,0 +1,235 @@
+{
+  "code_commune": "62288",
+  "commune": "Ecques",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "CAPPE",
+    "prenom": "François",
+    "nom_complet": "François CAPPE",
+    "age": 44,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1782,
+    "votants": 1287,
+    "pct_votants": 72.22,
+    "abstentions": 495,
+    "pct_abstentions": 27.78,
+    "exprimes": 1244
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "Pour Ecques et ses hameaux",
+      "libelle_abrege_liste": "Pour Ecques et ses hameaux",
+      "nuance_liste": null,
+      "voix": 694,
+      "pct_voix_exprimes": 55.79,
+      "sieges_cm": 15,
+      "sieges_cc": 1,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "CAPPE",
+        "prenom": "François",
+        "nom_complet": "François CAPPE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "CAPPE",
+          "prenom": "François",
+          "nom_complet": "François CAPPE",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "THERET",
+          "prenom": "Aurélie",
+          "nom_complet": "Aurélie THERET",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "HERBAUT",
+          "prenom": "Grégory",
+          "nom_complet": "Grégory HERBAUT",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "THERSEN",
+          "prenom": "Mélanie",
+          "nom_complet": "Mélanie THERSEN",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "KOTKOWIAK",
+          "prenom": "Gérémi",
+          "nom_complet": "Gérémi KOTKOWIAK",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "WILLART",
+          "prenom": "Justine",
+          "nom_complet": "Justine WILLART",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DELOBEL",
+          "prenom": "Samuel",
+          "nom_complet": "Samuel DELOBEL",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LE GOHEBEL",
+          "prenom": "Harmonie",
+          "nom_complet": "Harmonie LE GOHEBEL",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DECOUVELAERE",
+          "prenom": "Luc",
+          "nom_complet": "Luc DECOUVELAERE",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DECOBERT",
+          "prenom": "Nadia",
+          "nom_complet": "Nadia DECOBERT",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "SAINT-POL",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier SAINT-POL",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "QUENSON",
+          "prenom": "Léna",
+          "nom_complet": "Léna QUENSON",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "FERLIN",
+          "prenom": "Daniel",
+          "nom_complet": "Daniel FERLIN",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "DEGUINE",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle DEGUINE",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "JOVENIN",
+          "prenom": "Alain",
+          "nom_complet": "Alain JOVENIN",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Avec vous, agissons pour notre village de demain",
+      "libelle_abrege_liste": "Avec vous, agissons pour notre village de demain",
+      "nuance_liste": null,
+      "voix": 297,
+      "pct_voix_exprimes": 23.87,
+      "sieges_cm": 2,
+      "sieges_cc": 0,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "LECOCQ",
+        "prenom": "Philippe",
+        "nom_complet": "Philippe LECOCQ",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LECOCQ",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe LECOCQ",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "POUPE GEORGE",
+          "prenom": "Valérie",
+          "nom_complet": "Valérie POUPE GEORGE",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    },
+    {
+      "num_panneau": "3",
+      "libelle_liste": "Un souffle nouveau pour Ecques",
+      "libelle_abrege_liste": "Un souffle nouveau pour Ecques",
+      "nuance_liste": null,
+      "voix": 253,
+      "pct_voix_exprimes": 20.34,
+      "sieges_cm": 2,
+      "sieges_cc": 0,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "PODVIN",
+        "prenom": "Jean-Louis",
+        "nom_complet": "Jean-Louis PODVIN",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "PODVIN",
+          "prenom": "Jean-Louis",
+          "nom_complet": "Jean-Louis PODVIN",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "GRELAIT",
+          "prenom": "Valérie",
+          "nom_complet": "Valérie GRELAIT",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

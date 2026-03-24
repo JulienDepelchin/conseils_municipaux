@@ -1,0 +1,99 @@
+{
+  "code_commune": "62554",
+  "commune": "Maresville",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "DELIANNE",
+    "prenom": "Maxime",
+    "nom_complet": "Maxime DELIANNE",
+    "age": 49,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 80,
+    "votants": 65,
+    "pct_votants": 81.25,
+    "abstentions": 15,
+    "pct_abstentions": 18.75,
+    "exprimes": 48
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Ensemble, vivons Maresville",
+      "libelle_abrege_liste": "Ensemble, vivons Maresville",
+      "nuance_liste": null,
+      "voix": 48,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 7,
+      "sieges_cc": null,
+      "nb_elus": 7,
+      "tete_de_liste": {
+        "nom": "DELIANNE",
+        "prenom": "Maxime",
+        "nom_complet": "Maxime DELIANNE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DELIANNE",
+          "prenom": "Maxime",
+          "nom_complet": "Maxime DELIANNE",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DACQUIN",
+          "prenom": "Cyrille",
+          "nom_complet": "Cyrille DACQUIN",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DELIANNE",
+          "prenom": "Henri",
+          "nom_complet": "Henri DELIANNE",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "CHOCHOY",
+          "prenom": "Karine",
+          "nom_complet": "Karine CHOCHOY",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "BATAILLE",
+          "prenom": "Ludovic",
+          "nom_complet": "Ludovic BATAILLE",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DEREUDRE",
+          "prenom": "Veronique",
+          "nom_complet": "Veronique DEREUDRE",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "TIQUET",
+          "prenom": "Marc",
+          "nom_complet": "Marc TIQUET",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "7"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "code_commune": "59538",
+  "commune": "Saint-Momelin",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "BAYART",
+    "prenom": "Christian",
+    "nom_complet": "Christian BAYART",
+    "age": 54,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 274,
+    "votants": 152,
+    "pct_votants": 55.47,
+    "abstentions": 122,
+    "pct_abstentions": 44.53,
+    "exprimes": 130
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Ensemble pour Saint Momelin",
+      "libelle_abrege_liste": "epsm",
+      "nuance_liste": null,
+      "voix": 130,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "BAYART",
+        "prenom": "Christian",
+        "nom_complet": "Christian BAYART",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BAYART",
+          "prenom": "Christian",
+          "nom_complet": "Christian BAYART",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DELETANG",
+          "prenom": "Stephanie",
+          "nom_complet": "Stephanie DELETANG",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "HIDE",
+          "prenom": "Guillaume",
+          "nom_complet": "Guillaume HIDE",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DERAM",
+          "prenom": "Emmanuelle",
+          "nom_complet": "Emmanuelle DERAM",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "BAUDENS",
+          "prenom": "Francois",
+          "nom_complet": "Francois BAUDENS",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "VANSEVEREN",
+          "prenom": "Karine",
+          "nom_complet": "Karine VANSEVEREN",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "WOETS",
+          "prenom": "Alain",
+          "nom_complet": "Alain WOETS",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DEBOMY",
+          "prenom": "Patricia",
+          "nom_complet": "Patricia DEBOMY",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "LE GOUARD",
+          "prenom": "Gilles",
+          "nom_complet": "Gilles LE GOUARD",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "BEAUCHAMP",
+          "prenom": "Fabienne",
+          "nom_complet": "Fabienne BEAUCHAMP",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "GRUSON",
+          "prenom": "Jean-Claude",
+          "nom_complet": "Jean-Claude GRUSON",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

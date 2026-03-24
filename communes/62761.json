@@ -1,0 +1,131 @@
+{
+  "code_commune": "62761",
+  "commune": "Saint-Martin-sur-Cojeul",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "DELATTRE",
+    "prenom": "Dominique",
+    "nom_complet": "Dominique DELATTRE",
+    "age": 67,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 180,
+    "votants": 110,
+    "pct_votants": 61.11,
+    "abstentions": 70,
+    "pct_abstentions": 38.89,
+    "exprimes": 95
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Pour vous avec vous",
+      "libelle_abrege_liste": "Pour vous avec vous",
+      "nuance_liste": null,
+      "voix": 95,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "DELATTRE",
+        "prenom": "Dominique",
+        "nom_complet": "Dominique DELATTRE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DELATTRE",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique DELATTRE",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "WESTERLOPPE",
+          "prenom": "Martine",
+          "nom_complet": "Martine WESTERLOPPE",
+          "sexe": "F",
+          "age": 74,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "CAILLIEREZ",
+          "prenom": "Arnaud",
+          "nom_complet": "Arnaud CAILLIEREZ",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DUMONT",
+          "prenom": "Arlette",
+          "nom_complet": "Arlette DUMONT",
+          "sexe": "F",
+          "age": 72,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "HAULTCOEUR",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal HAULTCOEUR",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LEFRERE",
+          "prenom": "Thérèse",
+          "nom_complet": "Thérèse LEFRERE",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "LEFRERE",
+          "prenom": "Fabrice",
+          "nom_complet": "Fabrice LEFRERE",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "SALEMBIER",
+          "prenom": "Angelique",
+          "nom_complet": "Angelique SALEMBIER",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "REBOUT",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno REBOUT",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "VANWALLEGHEM",
+          "prenom": "Sandrine",
+          "nom_complet": "Sandrine VANWALLEGHEM",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "THERY",
+          "prenom": "Alexis",
+          "nom_complet": "Alexis THERY",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "code_commune": "62405",
+  "commune": "Hamblain-les-Prés",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "DEREGNAUCOURT",
+    "prenom": "Patrick",
+    "nom_complet": "Patrick DEREGNAUCOURT",
+    "age": 70,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 393,
+    "votants": 230,
+    "pct_votants": 58.52,
+    "abstentions": 163,
+    "pct_abstentions": 41.48,
+    "exprimes": 201
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "J'AIME TOUJOURS MON VILLAGE",
+      "libelle_abrege_liste": "J'AIME TOUJOURS MON VILLAGE",
+      "nuance_liste": null,
+      "voix": 201,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "DEREGNAUCOURT",
+        "prenom": "Patrick",
+        "nom_complet": "Patrick DEREGNAUCOURT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DEREGNAUCOURT",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick DEREGNAUCOURT",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "COUPÉ",
+          "prenom": "Marie-Claude",
+          "nom_complet": "Marie-Claude COUPÉ",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DITTE",
+          "prenom": "Jérémy",
+          "nom_complet": "Jérémy DITTE",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "COTTINET",
+          "prenom": "Clémentine",
+          "nom_complet": "Clémentine COTTINET",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LETURCQ",
+          "prenom": "Bernard",
+          "nom_complet": "Bernard LETURCQ",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "HUMEZ",
+          "prenom": "Sandrine",
+          "nom_complet": "Sandrine HUMEZ",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "GRAS",
+          "prenom": "Régis",
+          "nom_complet": "Régis GRAS",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LAPORTE",
+          "prenom": "Alice",
+          "nom_complet": "Alice LAPORTE",
+          "sexe": "F",
+          "age": 32,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "PÉRU",
+          "prenom": "Martial",
+          "nom_complet": "Martial PÉRU",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "VINCART",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique VINCART",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DERNONCOURT",
+          "prenom": "Jonathan",
+          "nom_complet": "Jonathan DERNONCOURT",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

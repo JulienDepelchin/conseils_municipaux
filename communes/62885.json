@@ -1,0 +1,131 @@
+{
+  "code_commune": "62885",
+  "commune": "Westrehem",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "TAILLY",
+    "prenom": "Gilles",
+    "nom_complet": "Gilles TAILLY",
+    "age": 66,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 173,
+    "votants": 109,
+    "pct_votants": 63.01,
+    "abstentions": 64,
+    "pct_abstentions": 36.99,
+    "exprimes": 96
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "AGIR POUR WESTREHEM",
+      "libelle_abrege_liste": "AGIR POUR WESTREHEM",
+      "nuance_liste": null,
+      "voix": 96,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "TAILLY",
+        "prenom": "Gilles",
+        "nom_complet": "Gilles TAILLY",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "TAILLY",
+          "prenom": "Gilles",
+          "nom_complet": "Gilles TAILLY",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DENOEUDT",
+          "prenom": "Alice",
+          "nom_complet": "Alice DENOEUDT",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LEDRU",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent LEDRU",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DUTHOIT",
+          "prenom": "Raphaelle",
+          "nom_complet": "Raphaelle DUTHOIT",
+          "sexe": "F",
+          "age": 29,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DUCROCQ",
+          "prenom": "Christopher",
+          "nom_complet": "Christopher DUCROCQ",
+          "sexe": "M",
+          "age": 34,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "TAILLY",
+          "prenom": "Caroline",
+          "nom_complet": "Caroline TAILLY",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "YVAIN",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique YVAIN",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "JACQUARD",
+          "prenom": "Léa",
+          "nom_complet": "Léa JACQUARD",
+          "sexe": "F",
+          "age": 28,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "BRAQUART",
+          "prenom": "Jackie",
+          "nom_complet": "Jackie BRAQUART",
+          "sexe": "M",
+          "age": 74,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "BOUFFLERS",
+          "prenom": "Maïthé",
+          "nom_complet": "Maïthé BOUFFLERS",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "LEFEBVRE",
+          "prenom": "Vincent",
+          "nom_complet": "Vincent LEFEBVRE",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

@@ -1,0 +1,183 @@
+{
+  "code_commune": "62680",
+  "commune": "Quiéry-la-Motte",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "HUMEZ",
+    "prenom": "Frédéric",
+    "nom_complet": "Frédéric HUMEZ",
+    "age": 63,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 564,
+    "votants": 447,
+    "pct_votants": 79.26,
+    "abstentions": 117,
+    "pct_abstentions": 20.74,
+    "exprimes": 432
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "AGIR ENSEMBLE POUR QUIERY",
+      "libelle_abrege_liste": "AGIR ENSEMBLE POUR QUIERY",
+      "nuance_liste": null,
+      "voix": 283,
+      "pct_voix_exprimes": 65.51,
+      "sieges_cm": 13,
+      "sieges_cc": null,
+      "nb_elus": 13,
+      "tete_de_liste": {
+        "nom": "HUMEZ",
+        "prenom": "Frédéric",
+        "nom_complet": "Frédéric HUMEZ",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "HUMEZ",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric HUMEZ",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DEJAIGHER",
+          "prenom": "Nadine",
+          "nom_complet": "Nadine DEJAIGHER",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "GOLAWSKI",
+          "prenom": "Jacques",
+          "nom_complet": "Jacques GOLAWSKI",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "ZAJAC",
+          "prenom": "Geneviève",
+          "nom_complet": "Geneviève ZAJAC",
+          "sexe": "F",
+          "age": 72,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "SELLIÉ",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent SELLIÉ",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LHUILLERY",
+          "prenom": "Élise",
+          "nom_complet": "Élise LHUILLERY",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "GODAR",
+          "prenom": "Bernard",
+          "nom_complet": "Bernard GODAR",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "VERSTRAETE",
+          "prenom": "Marie-José",
+          "nom_complet": "Marie-José VERSTRAETE",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "LYSONICK",
+          "prenom": "Alain",
+          "nom_complet": "Alain LYSONICK",
+          "sexe": "M",
+          "age": 78,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "COURTY",
+          "prenom": "Béatrice",
+          "nom_complet": "Béatrice COURTY",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "CAMBAY",
+          "prenom": "Jérôme",
+          "nom_complet": "Jérôme CAMBAY",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "CAUSSIN",
+          "prenom": "Mélissa",
+          "nom_complet": "Mélissa CAUSSIN",
+          "sexe": "F",
+          "age": 32,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "VANDENBOSSCHE",
+          "prenom": "Alain",
+          "nom_complet": "Alain VANDENBOSSCHE",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "13"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "QUIERY LA MOTTE, NOTRE VILLAGE, NOTRE AVENIR",
+      "libelle_abrege_liste": "QUIERY LA MOTTE, NOTRE VILLAGE, NOTRE AVENIR",
+      "nuance_liste": null,
+      "voix": 149,
+      "pct_voix_exprimes": 34.49,
+      "sieges_cm": 2,
+      "sieges_cc": null,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "LEROUX",
+        "prenom": "Jean-Luc",
+        "nom_complet": "Jean-Luc LEROUX",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LEROUX",
+          "prenom": "Jean-Luc",
+          "nom_complet": "Jean-Luc LEROUX",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BRISSE",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle BRISSE",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

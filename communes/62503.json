@@ -1,0 +1,151 @@
+{
+  "code_commune": "62503",
+  "commune": "Leubringhen",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "CHIVET",
+    "prenom": "Didier",
+    "nom_complet": "Didier CHIVET",
+    "age": 57,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 242,
+    "votants": 207,
+    "pct_votants": 85.54,
+    "abstentions": 35,
+    "pct_abstentions": 14.46,
+    "exprimes": 190
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "UN NOUVEL ELAN POUR LEUBRINGHEN",
+      "libelle_abrege_liste": "UN NOUVEL ELAN POUR LEUBRINGHEN",
+      "nuance_liste": null,
+      "voix": 151,
+      "pct_voix_exprimes": 79.47,
+      "sieges_cm": 10,
+      "sieges_cc": null,
+      "nb_elus": 10,
+      "tete_de_liste": {
+        "nom": "CHIVET",
+        "prenom": "Didier",
+        "nom_complet": "Didier CHIVET",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "CHIVET",
+          "prenom": "Didier",
+          "nom_complet": "Didier CHIVET",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "PRUVOST",
+          "prenom": "Marie",
+          "nom_complet": "Marie PRUVOST",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "TOURRET",
+          "prenom": "Benoît",
+          "nom_complet": "Benoît TOURRET",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "EVERAERE",
+          "prenom": "Pauline",
+          "nom_complet": "Pauline EVERAERE",
+          "sexe": "F",
+          "age": 32,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "GARENAUX",
+          "prenom": "Rémi",
+          "nom_complet": "Rémi GARENAUX",
+          "sexe": "M",
+          "age": 33,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "POCHET",
+          "prenom": "Anna",
+          "nom_complet": "Anna POCHET",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "LEFEBVRE",
+          "prenom": "Benoît",
+          "nom_complet": "Benoît LEFEBVRE",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "MICHALSKI",
+          "prenom": "Justine",
+          "nom_complet": "Justine MICHALSKI",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "RICHARD",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe RICHARD",
+          "sexe": "M",
+          "age": 75,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "LACHERE",
+          "prenom": "Valérie",
+          "nom_complet": "Valérie LACHERE",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "10"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "TOUS ENSEMBLE POUR LEUBRINGHEN",
+      "libelle_abrege_liste": "TOUS ENSEMBLE POUR LEUBRINGHEN",
+      "nuance_liste": null,
+      "voix": 39,
+      "pct_voix_exprimes": 20.53,
+      "sieges_cm": 1,
+      "sieges_cc": null,
+      "nb_elus": 1,
+      "tete_de_liste": {
+        "nom": "RINGOT",
+        "prenom": "Sylvie",
+        "nom_complet": "Sylvie RINGOT",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "RINGOT",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie RINGOT",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "1"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

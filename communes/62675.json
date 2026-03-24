@@ -1,0 +1,151 @@
+{
+  "code_commune": "62675",
+  "commune": "Quercamps",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "BACQUET",
+    "prenom": "Jacques",
+    "nom_complet": "Jacques BACQUET",
+    "age": 84,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 215,
+    "votants": 166,
+    "pct_votants": 77.21,
+    "abstentions": 49,
+    "pct_abstentions": 22.79,
+    "exprimes": 163
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "POURSUIVRE SUR DE BONNES FONDATIONS",
+      "libelle_abrege_liste": "POURSUIVRE SUR DE BONNES FONDATIONS",
+      "nuance_liste": null,
+      "voix": 89,
+      "pct_voix_exprimes": 54.6,
+      "sieges_cm": 9,
+      "sieges_cc": null,
+      "nb_elus": 9,
+      "tete_de_liste": {
+        "nom": "BACQUET",
+        "prenom": "Jacques",
+        "nom_complet": "Jacques BACQUET",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BACQUET",
+          "prenom": "Jacques",
+          "nom_complet": "Jacques BACQUET",
+          "sexe": "M",
+          "age": 84,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DELVAL",
+          "prenom": "Christine",
+          "nom_complet": "Christine DELVAL",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BOCQUET",
+          "prenom": "Didier",
+          "nom_complet": "Didier BOCQUET",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BOSCHER",
+          "prenom": "Marguerite-Marie",
+          "nom_complet": "Marguerite-Marie BOSCHER",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DELOBEL",
+          "prenom": "Fabrice",
+          "nom_complet": "Fabrice DELOBEL",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "BAYART",
+          "prenom": "Emmanuelle",
+          "nom_complet": "Emmanuelle BAYART",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "FRANCOIS",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas FRANCOIS",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "GUERRIAT",
+          "prenom": "Sandrine",
+          "nom_complet": "Sandrine GUERRIAT",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "AMMEUX",
+          "prenom": "Cedric",
+          "nom_complet": "Cedric AMMEUX",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "9"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "En avant Quercamps !",
+      "libelle_abrege_liste": "En avant Quercamps !",
+      "nuance_liste": null,
+      "voix": 74,
+      "pct_voix_exprimes": 45.4,
+      "sieges_cm": 2,
+      "sieges_cc": null,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "VASSEUR",
+        "prenom": "Philippe",
+        "nom_complet": "Philippe VASSEUR",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "VASSEUR",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe VASSEUR",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "JOURNEAU",
+          "prenom": "Anne-Marie",
+          "nom_complet": "Anne-Marie JOURNEAU",
+          "sexe": "F",
+          "age": 72,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

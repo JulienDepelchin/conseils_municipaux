@@ -1,0 +1,195 @@
+{
+  "code_commune": "62448",
+  "commune": "Hesdin-l'Abbé",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "BENTZ",
+    "prenom": "Thierry",
+    "nom_complet": "Thierry BENTZ",
+    "age": 59,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1551,
+    "votants": 837,
+    "pct_votants": 53.97,
+    "abstentions": 714,
+    "pct_abstentions": 46.03,
+    "exprimes": 736
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "BIEN VIVRE A HESDIN L'ABBE",
+      "libelle_abrege_liste": "BIEN VIVRE A HESDIN L'ABBE",
+      "nuance_liste": null,
+      "voix": 736,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 19,
+      "sieges_cc": 1,
+      "nb_elus": 19,
+      "tete_de_liste": {
+        "nom": "BENTZ",
+        "prenom": "Thierry",
+        "nom_complet": "Thierry BENTZ",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BENTZ",
+          "prenom": "Thierry",
+          "nom_complet": "Thierry BENTZ",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "TREUNET",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique TREUNET",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "MALLEVAEY",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno MALLEVAEY",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "VACHE",
+          "prenom": "Michelle",
+          "nom_complet": "Michelle VACHE",
+          "sexe": "F",
+          "age": 81,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DESCAMPS",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique DESCAMPS",
+          "sexe": "M",
+          "age": 74,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "ROSE",
+          "prenom": "Florence",
+          "nom_complet": "Florence ROSE",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DE BOCK",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick DE BOCK",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "BLONDEL",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie BLONDEL",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DOUCHIN",
+          "prenom": "Alain",
+          "nom_complet": "Alain DOUCHIN",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DUCROCQ",
+          "prenom": "Nadège",
+          "nom_complet": "Nadège DUCROCQ",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "FORTIN",
+          "prenom": "Jean-Pierre",
+          "nom_complet": "Jean-Pierre FORTIN",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "REGNAULT",
+          "prenom": "Caroline",
+          "nom_complet": "Caroline REGNAULT",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "FAYEULLE",
+          "prenom": "Julien",
+          "nom_complet": "Julien FAYEULLE",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "GALL",
+          "prenom": "Helene",
+          "nom_complet": "Helene GALL",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "PAQUENTIN",
+          "prenom": "Herve",
+          "nom_complet": "Herve PAQUENTIN",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "DETREMMERIE",
+          "prenom": "Celine",
+          "nom_complet": "Celine DETREMMERIE",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "BACQUET",
+          "prenom": "Pierre",
+          "nom_complet": "Pierre BACQUET",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "FOURNIER",
+          "prenom": "Belynda",
+          "nom_complet": "Belynda FOURNIER",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "CAPLIER",
+          "prenom": "Julien",
+          "nom_complet": "Julien CAPLIER",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "19"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

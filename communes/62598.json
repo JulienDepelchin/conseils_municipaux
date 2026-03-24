@@ -1,0 +1,163 @@
+{
+  "code_commune": "62598",
+  "commune": "Muncq-Nieurlet",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "BIAT",
+    "prenom": "Eric",
+    "nom_complet": "Eric BIAT",
+    "age": 57,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 518,
+    "votants": 292,
+    "pct_votants": 56.37,
+    "abstentions": 226,
+    "pct_abstentions": 43.63,
+    "exprimes": 259
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Muncq-Nieurlet soyons acteurs de notre avenir",
+      "libelle_abrege_liste": "Muncq-Nieurlet soyons acteurs de notre avenir",
+      "nuance_liste": null,
+      "voix": 259,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "BIAT",
+        "prenom": "Eric",
+        "nom_complet": "Eric BIAT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BIAT",
+          "prenom": "Eric",
+          "nom_complet": "Eric BIAT",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DELANNEL",
+          "prenom": "Karine",
+          "nom_complet": "Karine DELANNEL",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LANDRON",
+          "prenom": "Richard",
+          "nom_complet": "Richard LANDRON",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "PAUX",
+          "prenom": "Céline",
+          "nom_complet": "Céline PAUX",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LIMOUSIN",
+          "prenom": "Florent",
+          "nom_complet": "Florent LIMOUSIN",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "MERESSE",
+          "prenom": "Florence",
+          "nom_complet": "Florence MERESSE",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "CUVILLIER",
+          "prenom": "Yves",
+          "nom_complet": "Yves CUVILLIER",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "COEUGNIET PETIT",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie COEUGNIET PETIT",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DRILA",
+          "prenom": "Guillaume",
+          "nom_complet": "Guillaume DRILA",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "BORIE",
+          "prenom": "Olivia",
+          "nom_complet": "Olivia BORIE",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "PAVY",
+          "prenom": "Hugues",
+          "nom_complet": "Hugues PAVY",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "WALLAERE",
+          "prenom": "Audrey",
+          "nom_complet": "Audrey WALLAERE",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "DENIS",
+          "prenom": "Pierre",
+          "nom_complet": "Pierre DENIS",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "DUPONCHELLE",
+          "prenom": "Carole",
+          "nom_complet": "Carole DUPONCHELLE",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "VANHOUTTE",
+          "prenom": "Marc",
+          "nom_complet": "Marc VANHOUTTE",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

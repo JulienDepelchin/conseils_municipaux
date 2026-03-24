@@ -1,0 +1,131 @@
+{
+  "code_commune": "59282",
+  "commune": "Hardifort",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "LANDTSHEERE",
+    "prenom": "Caroline",
+    "nom_complet": "Caroline LANDTSHEERE",
+    "age": 44,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 317,
+    "votants": 211,
+    "pct_votants": 66.56,
+    "abstentions": 106,
+    "pct_abstentions": 33.44,
+    "exprimes": 167
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "HARDIFORT, C'EST VOUS, C'EST NOUS",
+      "libelle_abrege_liste": "HCNCV",
+      "nuance_liste": null,
+      "voix": 167,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "LANDTSHEERE",
+        "prenom": "Caroline",
+        "nom_complet": "Caroline LANDTSHEERE",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "LANDTSHEERE",
+          "prenom": "Caroline",
+          "nom_complet": "Caroline LANDTSHEERE",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "VERMERSCH",
+          "prenom": "Francois",
+          "nom_complet": "Francois VERMERSCH",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "MUYL",
+          "prenom": "Noémie",
+          "nom_complet": "Noémie MUYL",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DEFOORT",
+          "prenom": "Franck",
+          "nom_complet": "Franck DEFOORT",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DESCHEPPER",
+          "prenom": "Lynda",
+          "nom_complet": "Lynda DESCHEPPER",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "TACCOEN",
+          "prenom": "Morgan",
+          "nom_complet": "Morgan TACCOEN",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "RYCKEBUSCH",
+          "prenom": "Marie",
+          "nom_complet": "Marie RYCKEBUSCH",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "PROVO",
+          "prenom": "Pierre",
+          "nom_complet": "Pierre PROVO",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "BETHLEEM",
+          "prenom": "Aurélie",
+          "nom_complet": "Aurélie BETHLEEM",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "VERMEEREN",
+          "prenom": "Hugo",
+          "nom_complet": "Hugo VERMEEREN",
+          "sexe": "M",
+          "age": 26,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "ROUSSEZ",
+          "prenom": "Judith",
+          "nom_complet": "Judith ROUSSEZ",
+          "sexe": "F",
+          "age": 25,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

@@ -1,0 +1,215 @@
+{
+  "code_commune": "59357",
+  "commune": "La Longueville",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "CAUDRELIER",
+    "prenom": "Amandine",
+    "nom_complet": "Amandine CAUDRELIER",
+    "age": 40,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1594,
+    "votants": 1022,
+    "pct_votants": 64.12,
+    "abstentions": 572,
+    "pct_abstentions": 35.88,
+    "exprimes": 990
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Rassemblons, partageons, construisons pour notre village",
+      "libelle_abrege_liste": "Rassemblons, partageons, construisons pour notre village",
+      "nuance_liste": null,
+      "voix": 518,
+      "pct_voix_exprimes": 52.32,
+      "sieges_cm": 15,
+      "sieges_cc": 2,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "CAUDRELIER",
+        "prenom": "Amandine",
+        "nom_complet": "Amandine CAUDRELIER",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "CAUDRELIER",
+          "prenom": "Amandine",
+          "nom_complet": "Amandine CAUDRELIER",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "RIDET",
+          "prenom": "Jérôme",
+          "nom_complet": "Jérôme RIDET",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LARBI",
+          "prenom": "Safia",
+          "nom_complet": "Safia LARBI",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "REGNIER",
+          "prenom": "Kévin",
+          "nom_complet": "Kévin REGNIER",
+          "sexe": "M",
+          "age": 33,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DAUX",
+          "prenom": "Gwenaëlle",
+          "nom_complet": "Gwenaëlle DAUX",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "MILON",
+          "prenom": "Gérard",
+          "nom_complet": "Gérard MILON",
+          "sexe": "M",
+          "age": 78,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "MAAD-NOUS",
+          "prenom": "Amelle",
+          "nom_complet": "Amelle MAAD-NOUS",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LOTTIAUX",
+          "prenom": "Emmanuel",
+          "nom_complet": "Emmanuel LOTTIAUX",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "LEGRAND",
+          "prenom": "Cécile",
+          "nom_complet": "Cécile LEGRAND",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "SEGAERT",
+          "prenom": "Guillaume",
+          "nom_complet": "Guillaume SEGAERT",
+          "sexe": "M",
+          "age": 34,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "BILLON",
+          "prenom": "Annabelle",
+          "nom_complet": "Annabelle BILLON",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "HELBICQ",
+          "prenom": "Florian",
+          "nom_complet": "Florian HELBICQ",
+          "sexe": "M",
+          "age": 32,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "DRUESNE",
+          "prenom": "Jennifer",
+          "nom_complet": "Jennifer DRUESNE",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "LABARRIERE",
+          "prenom": "Vianney",
+          "nom_complet": "Vianney LABARRIERE",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "CARREZ",
+          "prenom": "Christelle",
+          "nom_complet": "Christelle CARREZ",
+          "sexe": "F",
+          "age": 70,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "Avec vous, une équipe pour l'avenir",
+      "libelle_abrege_liste": "Avec vous, une équipe pour l'avenir",
+      "nuance_liste": null,
+      "voix": 472,
+      "pct_voix_exprimes": 47.68,
+      "sieges_cm": 4,
+      "sieges_cc": 1,
+      "nb_elus": 4,
+      "tete_de_liste": {
+        "nom": "LATOUCHE",
+        "prenom": "Stephane",
+        "nom_complet": "Stephane LATOUCHE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LATOUCHE",
+          "prenom": "Stephane",
+          "nom_complet": "Stephane LATOUCHE",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DUFOUR",
+          "prenom": "Betty",
+          "nom_complet": "Betty DUFOUR",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "MENET",
+          "prenom": "Marc",
+          "nom_complet": "Marc MENET",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DELPORTE",
+          "prenom": "Marie-France",
+          "nom_complet": "Marie-France DELPORTE",
+          "sexe": "F",
+          "age": 72,
+          "rang_liste": "4"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

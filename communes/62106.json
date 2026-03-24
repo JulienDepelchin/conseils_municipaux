@@ -1,0 +1,151 @@
+{
+  "code_commune": "62106",
+  "commune": "Bellonne",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "BROUCHE",
+    "prenom": "Michelle",
+    "nom_complet": "Michelle BROUCHE",
+    "age": 68,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 178,
+    "votants": 148,
+    "pct_votants": 83.15,
+    "abstentions": 30,
+    "pct_abstentions": 16.85,
+    "exprimes": 146
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "BELLONNE ENSEMBLE",
+      "libelle_abrege_liste": "BELLONNE ENSEMBLE",
+      "nuance_liste": null,
+      "voix": 104,
+      "pct_voix_exprimes": 71.23,
+      "sieges_cm": 10,
+      "sieges_cc": null,
+      "nb_elus": 10,
+      "tete_de_liste": {
+        "nom": "BROUCHE",
+        "prenom": "Michelle",
+        "nom_complet": "Michelle BROUCHE",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "BROUCHE",
+          "prenom": "Michelle",
+          "nom_complet": "Michelle BROUCHE",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "RAVIART",
+          "prenom": "Stéphane",
+          "nom_complet": "Stéphane RAVIART",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LEMAIRE",
+          "prenom": "Frédérique",
+          "nom_complet": "Frédérique LEMAIRE",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "GAUGUIN",
+          "prenom": "Joël",
+          "nom_complet": "Joël GAUGUIN",
+          "sexe": "M",
+          "age": 75,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "GOUBET",
+          "prenom": "Evelyne",
+          "nom_complet": "Evelyne GOUBET",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "FIORENTINI",
+          "prenom": "Jacques",
+          "nom_complet": "Jacques FIORENTINI",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "TOPCZENSKI",
+          "prenom": "Pascale",
+          "nom_complet": "Pascale TOPCZENSKI",
+          "sexe": "F",
+          "age": 70,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LESTIENNE",
+          "prenom": "Benjamin",
+          "nom_complet": "Benjamin LESTIENNE",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "CAILLIAU",
+          "prenom": "Mélanie",
+          "nom_complet": "Mélanie CAILLIAU",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "LESAFFRE",
+          "prenom": "Louison",
+          "nom_complet": "Louison LESAFFRE",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "10"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "ENSEMBLE, PLACE AU RENOUVEAU",
+      "libelle_abrege_liste": "ENSEMBLE, PLACE AU RENOUVEAU",
+      "nuance_liste": null,
+      "voix": 42,
+      "pct_voix_exprimes": 28.77,
+      "sieges_cm": 1,
+      "sieges_cc": null,
+      "nb_elus": 1,
+      "tete_de_liste": {
+        "nom": "MILLUY",
+        "prenom": "Olivier",
+        "nom_complet": "Olivier MILLUY",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "MILLUY",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier MILLUY",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "1"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

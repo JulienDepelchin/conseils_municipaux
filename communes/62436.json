@@ -1,0 +1,131 @@
+{
+  "code_commune": "62436",
+  "commune": "Herlin-le-Sec",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "DESBUREAUX",
+    "prenom": "Patrice",
+    "nom_complet": "Patrice DESBUREAUX",
+    "age": 55,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 101,
+    "votants": 66,
+    "pct_votants": 65.35,
+    "abstentions": 35,
+    "pct_abstentions": 34.65,
+    "exprimes": 59
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ENSEMBLE POUR HERLIN",
+      "libelle_abrege_liste": "ENSEMBLE POUR HERLIN",
+      "nuance_liste": null,
+      "voix": 59,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "DESBUREAUX",
+        "prenom": "Patrice",
+        "nom_complet": "Patrice DESBUREAUX",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DESBUREAUX",
+          "prenom": "Patrice",
+          "nom_complet": "Patrice DESBUREAUX",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "GOUILLART",
+          "prenom": "Sophie",
+          "nom_complet": "Sophie GOUILLART",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DIEVAL",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas DIEVAL",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "MALLET",
+          "prenom": "Pauline",
+          "nom_complet": "Pauline MALLET",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LEMAIRE",
+          "prenom": "Francis",
+          "nom_complet": "Francis LEMAIRE",
+          "sexe": "M",
+          "age": 76,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "FLAMENT",
+          "prenom": "Cyrielle",
+          "nom_complet": "Cyrielle FLAMENT",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "MIELET",
+          "prenom": "Denis",
+          "nom_complet": "Denis MIELET",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LANGA",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie LANGA",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DEQUIDT",
+          "prenom": "Clément",
+          "nom_complet": "Clément DEQUIDT",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "BRACAVAL",
+          "prenom": "Chloé",
+          "nom_complet": "Chloé BRACAVAL",
+          "sexe": "F",
+          "age": 26,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DUFFROY",
+          "prenom": "Victor",
+          "nom_complet": "Victor DUFFROY",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

@@ -1,0 +1,183 @@
+{
+  "code_commune": "62825",
+  "commune": "Tortequesne",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "LAFORGE",
+    "prenom": "Aline",
+    "nom_complet": "Aline LAFORGE",
+    "age": 34,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 671,
+    "votants": 478,
+    "pct_votants": 71.24,
+    "abstentions": 193,
+    "pct_abstentions": 28.76,
+    "exprimes": 468
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Tortequesne, un village qui nous rassemble",
+      "libelle_abrege_liste": "Tortequesne, un village qui nous rassemble",
+      "nuance_liste": null,
+      "voix": 261,
+      "pct_voix_exprimes": 55.77,
+      "sieges_cm": 12,
+      "sieges_cc": null,
+      "nb_elus": 12,
+      "tete_de_liste": {
+        "nom": "LAFORGE",
+        "prenom": "Aline",
+        "nom_complet": "Aline LAFORGE",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "LAFORGE",
+          "prenom": "Aline",
+          "nom_complet": "Aline LAFORGE",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "WILLEFERT",
+          "prenom": "Thierry",
+          "nom_complet": "Thierry WILLEFERT",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "GROVEN",
+          "prenom": "Jacqueline",
+          "nom_complet": "Jacqueline GROVEN",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DUBOIS",
+          "prenom": "Jérémie",
+          "nom_complet": "Jérémie DUBOIS",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "VIART",
+          "prenom": "Lucie",
+          "nom_complet": "Lucie VIART",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "PERRIN",
+          "prenom": "Hugues",
+          "nom_complet": "Hugues PERRIN",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "VISEUR",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle VISEUR",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "STIENNE",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe STIENNE",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "SAVARY",
+          "prenom": "Lydie",
+          "nom_complet": "Lydie SAVARY",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "POUX",
+          "prenom": "Thibaut",
+          "nom_complet": "Thibaut POUX",
+          "sexe": "M",
+          "age": 21,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "GUERARDEL",
+          "prenom": "Fanny",
+          "nom_complet": "Fanny GUERARDEL",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "DANIEL",
+          "prenom": "Francis",
+          "nom_complet": "Francis DANIEL",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "12"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "Préservons notre cadre de vie, préparons l'avenir",
+      "libelle_abrege_liste": "Préservons notre cadre de vie, préparons l'avenir",
+      "nuance_liste": null,
+      "voix": 207,
+      "pct_voix_exprimes": 44.23,
+      "sieges_cm": 3,
+      "sieges_cc": null,
+      "nb_elus": 3,
+      "tete_de_liste": {
+        "nom": "ZAWADZKI",
+        "prenom": "Julien",
+        "nom_complet": "Julien ZAWADZKI",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "ZAWADZKI",
+          "prenom": "Julien",
+          "nom_complet": "Julien ZAWADZKI",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "SURELLE",
+          "prenom": "Gwenaelle",
+          "nom_complet": "Gwenaelle SURELLE",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LEMAIRE",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno LEMAIRE",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "3"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

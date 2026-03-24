@@ -1,0 +1,131 @@
+{
+  "code_commune": "59494",
+  "commune": "Raucourt-au-Bois",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "LIMELETTE",
+    "prenom": "Jean-Luc",
+    "nom_complet": "Jean-Luc LIMELETTE",
+    "age": 73,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 113,
+    "votants": 67,
+    "pct_votants": 59.29,
+    "abstentions": 46,
+    "pct_abstentions": 40.71,
+    "exprimes": 63
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Raucourtois unis dans nos choix solidaires pas à pas",
+      "libelle_abrege_liste": "Raucourtois unis dans nos choix solidaires pas à pas",
+      "nuance_liste": null,
+      "voix": 63,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "LIMELETTE",
+        "prenom": "Jean-Luc",
+        "nom_complet": "Jean-Luc LIMELETTE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LIMELETTE",
+          "prenom": "Jean-Luc",
+          "nom_complet": "Jean-Luc LIMELETTE",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BRUNET",
+          "prenom": "Elisabeth",
+          "nom_complet": "Elisabeth BRUNET",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "QUENEE",
+          "prenom": "Yannick",
+          "nom_complet": "Yannick QUENEE",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "CUVILLIER",
+          "prenom": "Marie",
+          "nom_complet": "Marie CUVILLIER",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LIMBOURG",
+          "prenom": "Yvan",
+          "nom_complet": "Yvan LIMBOURG",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "QUENÉE",
+          "prenom": "Marion",
+          "nom_complet": "Marion QUENÉE",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "FLAMENT",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric FLAMENT",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "NOISETTE",
+          "prenom": "Élodie",
+          "nom_complet": "Élodie NOISETTE",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "EGOT",
+          "prenom": "Michaël",
+          "nom_complet": "Michaël EGOT",
+          "sexe": "M",
+          "age": 34,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "VERDIER",
+          "prenom": "Claudette",
+          "nom_complet": "Claudette VERDIER",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "MINIOT",
+          "prenom": "Joël",
+          "nom_complet": "Joël MINIOT",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

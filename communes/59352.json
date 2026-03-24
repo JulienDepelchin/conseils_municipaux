@@ -1,0 +1,295 @@
+{
+  "code_commune": "59352",
+  "commune": "Linselles",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "POLLET",
+    "prenom": "Isabelle",
+    "nom_complet": "Isabelle POLLET",
+    "age": 58,
+    "nuance": "LDVD"
+  },
+  "resultats": {
+    "inscrits": 6974,
+    "votants": 3900,
+    "pct_votants": 55.92,
+    "abstentions": 3074,
+    "pct_abstentions": 44.08,
+    "exprimes": 3787
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "LINSELLES CAP SUR L'AVENIR",
+      "libelle_abrege_liste": "LINSELLES CAP SUR L'AVENIR",
+      "nuance_liste": "LDVD",
+      "voix": 2416,
+      "pct_voix_exprimes": 63.8,
+      "sieges_cm": 24,
+      "sieges_cc": 1,
+      "nb_elus": 24,
+      "tete_de_liste": {
+        "nom": "POLLET",
+        "prenom": "Isabelle",
+        "nom_complet": "Isabelle POLLET",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "POLLET",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle POLLET",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "PIRES",
+          "prenom": "Antony",
+          "nom_complet": "Antony PIRES",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BROUTIN",
+          "prenom": "Joséphine",
+          "nom_complet": "Joséphine BROUTIN",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "SINNAEVE",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique SINNAEVE",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "PETIT",
+          "prenom": "Martine",
+          "nom_complet": "Martine PETIT",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "OSTYN",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier OSTYN",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "LORENT",
+          "prenom": "Fabienne",
+          "nom_complet": "Fabienne LORENT",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "MITTENAERE",
+          "prenom": "Grégory",
+          "nom_complet": "Grégory MITTENAERE",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "BOUREL",
+          "prenom": "Elisabeth",
+          "nom_complet": "Elisabeth BOUREL",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "CABIERE",
+          "prenom": "Alexis",
+          "nom_complet": "Alexis CABIERE",
+          "sexe": "M",
+          "age": 26,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "LEMERSRE",
+          "prenom": "Olivia",
+          "nom_complet": "Olivia LEMERSRE",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "MARQUET",
+          "prenom": "Pierre-Edouard",
+          "nom_complet": "Pierre-Edouard MARQUET",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "DEJONCKERE",
+          "prenom": "Delphine",
+          "nom_complet": "Delphine DEJONCKERE",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "VERHELST",
+          "prenom": "Alexandre",
+          "nom_complet": "Alexandre VERHELST",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "FERRANT-PERES",
+          "prenom": "Béatrice",
+          "nom_complet": "Béatrice FERRANT-PERES",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "MANTEZ",
+          "prenom": "Cyril",
+          "nom_complet": "Cyril MANTEZ",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "REMORY",
+          "prenom": "Alice",
+          "nom_complet": "Alice REMORY",
+          "sexe": "F",
+          "age": 28,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "VERSAILLE",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe VERSAILLE",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "CORNARD",
+          "prenom": "Christelle",
+          "nom_complet": "Christelle CORNARD",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "DUMORTIER",
+          "prenom": "Bertrand",
+          "nom_complet": "Bertrand DUMORTIER",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "DENORME",
+          "prenom": "Nadège",
+          "nom_complet": "Nadège DENORME",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "FOUCHER",
+          "prenom": "Stéphane",
+          "nom_complet": "Stéphane FOUCHER",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "LEJEUNE",
+          "prenom": "Hélène",
+          "nom_complet": "Hélène LEJEUNE",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "23"
+        },
+        {
+          "nom": "HELLIN",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick HELLIN",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "24"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "AGIR DIFFEREMENT POUR LINSELLES",
+      "libelle_abrege_liste": "AGIR DIFFEREMENT POUR LINSELLES",
+      "nuance_liste": "LDVC",
+      "voix": 1371,
+      "pct_voix_exprimes": 36.2,
+      "sieges_cm": 5,
+      "sieges_cc": 0,
+      "nb_elus": 5,
+      "tete_de_liste": {
+        "nom": "MARESCAUX",
+        "prenom": "Pascal",
+        "nom_complet": "Pascal MARESCAUX",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "MARESCAUX",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal MARESCAUX",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "PERSYN",
+          "prenom": "Justine",
+          "nom_complet": "Justine PERSYN",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LELEU",
+          "prenom": "Jean-Pierre",
+          "nom_complet": "Jean-Pierre LELEU",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "ALLEWEIRELDT",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie ALLEWEIRELDT",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "FLORIN",
+          "prenom": "Bertrand",
+          "nom_complet": "Bertrand FLORIN",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "5"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

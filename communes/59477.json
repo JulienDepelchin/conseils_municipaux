@@ -1,0 +1,279 @@
+{
+  "code_commune": "59477",
+  "commune": "Provin",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "AGBEGNA",
+    "prenom": "Kwami",
+    "nom_complet": "Kwami AGBEGNA",
+    "age": 50,
+    "nuance": "LDVD"
+  },
+  "resultats": {
+    "inscrits": 3287,
+    "votants": 2103,
+    "pct_votants": 63.98,
+    "abstentions": 1184,
+    "pct_abstentions": 36.02,
+    "exprimes": 2044
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "CONTINUONS ENSEMBLE PLUS FORTS",
+      "libelle_abrege_liste": "CONTINUONS ENSEMBLE PLUS FORTS",
+      "nuance_liste": "LDVD",
+      "voix": 1252,
+      "pct_voix_exprimes": 61.25,
+      "sieges_cm": 22,
+      "sieges_cc": 1,
+      "nb_elus": 22,
+      "tete_de_liste": {
+        "nom": "AGBEGNA",
+        "prenom": "Kwami",
+        "nom_complet": "Kwami AGBEGNA",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "AGBEGNA",
+          "prenom": "Kwami",
+          "nom_complet": "Kwami AGBEGNA",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "EMPISSE",
+          "prenom": "Coralie",
+          "nom_complet": "Coralie EMPISSE",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LEIGNEL",
+          "prenom": "Serge",
+          "nom_complet": "Serge LEIGNEL",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DELCROIX",
+          "prenom": "Tiphaine",
+          "nom_complet": "Tiphaine DELCROIX",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "CARTENI",
+          "prenom": "Thomas",
+          "nom_complet": "Thomas CARTENI",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LEGRAND",
+          "prenom": "Liliane",
+          "nom_complet": "Liliane LEGRAND",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DORGES",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier DORGES",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DEMARQUET",
+          "prenom": "Cécile",
+          "nom_complet": "Cécile DEMARQUET",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DELSAUT",
+          "prenom": "Cedric",
+          "nom_complet": "Cedric DELSAUT",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "KNOCKAERT",
+          "prenom": "Celine",
+          "nom_complet": "Celine KNOCKAERT",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "MATTE",
+          "prenom": "Jean Francois",
+          "nom_complet": "Jean Francois MATTE",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "HOEBEKE",
+          "prenom": "Aurélie",
+          "nom_complet": "Aurélie HOEBEKE",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "DÉON",
+          "prenom": "Yann",
+          "nom_complet": "Yann DÉON",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "VERHAEVERBEKE",
+          "prenom": "Chloé",
+          "nom_complet": "Chloé VERHAEVERBEKE",
+          "sexe": "F",
+          "age": 22,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "DROUVIN",
+          "prenom": "David",
+          "nom_complet": "David DROUVIN",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "PLANCQUE",
+          "prenom": "Jessica",
+          "nom_complet": "Jessica PLANCQUE",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "MARCEL",
+          "prenom": "Lucas",
+          "nom_complet": "Lucas MARCEL",
+          "sexe": "M",
+          "age": 25,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "VERDONCK",
+          "prenom": "Ophelie",
+          "nom_complet": "Ophelie VERDONCK",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "VERDONCK",
+          "prenom": "Antoine",
+          "nom_complet": "Antoine VERDONCK",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "ALZAS",
+          "prenom": "Jocelyne",
+          "nom_complet": "Jocelyne ALZAS",
+          "sexe": "F",
+          "age": 73,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "ROUSSEAU",
+          "prenom": "Jean",
+          "nom_complet": "Jean ROUSSEAU",
+          "sexe": "M",
+          "age": 83,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "WAYMEL",
+          "prenom": "Carinne",
+          "nom_complet": "Carinne WAYMEL",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "22"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "AGIR ENSEMBLE POUR PROVIN",
+      "libelle_abrege_liste": "AGIR ENSEMBLE POUR PROVIN",
+      "nuance_liste": "LDVC",
+      "voix": 792,
+      "pct_voix_exprimes": 38.75,
+      "sieges_cm": 5,
+      "sieges_cc": 0,
+      "nb_elus": 5,
+      "tete_de_liste": {
+        "nom": "COCQ",
+        "prenom": "Michael",
+        "nom_complet": "Michael COCQ",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "COCQ",
+          "prenom": "Michael",
+          "nom_complet": "Michael COCQ",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LYPHOUT",
+          "prenom": "Emilie",
+          "nom_complet": "Emilie LYPHOUT",
+          "sexe": "F",
+          "age": 31,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "HAYENNE",
+          "prenom": "Thierry",
+          "nom_complet": "Thierry HAYENNE",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "CAILLIAU",
+          "prenom": "Karine",
+          "nom_complet": "Karine CAILLIAU",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DERAEDT",
+          "prenom": "Pierre",
+          "nom_complet": "Pierre DERAEDT",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "5"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

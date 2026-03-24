@@ -1,0 +1,131 @@
+{
+  "code_commune": "62798",
+  "commune": "Sombrin",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "DURIEZ",
+    "prenom": "Ludovic",
+    "nom_complet": "Ludovic DURIEZ",
+    "age": 44,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 169,
+    "votants": 99,
+    "pct_votants": 58.58,
+    "abstentions": 70,
+    "pct_abstentions": 41.42,
+    "exprimes": 72
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Ensemble pour notre village",
+      "libelle_abrege_liste": "Ensemble pour notre village",
+      "nuance_liste": null,
+      "voix": 72,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "DURIEZ",
+        "prenom": "Ludovic",
+        "nom_complet": "Ludovic DURIEZ",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DURIEZ",
+          "prenom": "Ludovic",
+          "nom_complet": "Ludovic DURIEZ",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "TINCHON",
+          "prenom": "Marie",
+          "nom_complet": "Marie TINCHON",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "VANDROMME",
+          "prenom": "Jérémie",
+          "nom_complet": "Jérémie VANDROMME",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "PETIT",
+          "prenom": "Charlotte",
+          "nom_complet": "Charlotte PETIT",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DUBRON",
+          "prenom": "Benoît",
+          "nom_complet": "Benoît DUBRON",
+          "sexe": "M",
+          "age": 32,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "COUSIN",
+          "prenom": "Juliette",
+          "nom_complet": "Juliette COUSIN",
+          "sexe": "F",
+          "age": 24,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "VERJOT",
+          "prenom": "Romain",
+          "nom_complet": "Romain VERJOT",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "BLEZEL",
+          "prenom": "Mathilde",
+          "nom_complet": "Mathilde BLEZEL",
+          "sexe": "F",
+          "age": 33,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DURIEZ",
+          "prenom": "Julien",
+          "nom_complet": "Julien DURIEZ",
+          "sexe": "M",
+          "age": 22,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DUBRON",
+          "prenom": "Maryse",
+          "nom_complet": "Maryse DUBRON",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "LOISEAU",
+          "prenom": "Aurélien",
+          "nom_complet": "Aurélien LOISEAU",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

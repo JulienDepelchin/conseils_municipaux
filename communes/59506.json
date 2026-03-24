@@ -1,0 +1,131 @@
+{
+  "code_commune": "59506",
+  "commune": "Romeries",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "DUPONT",
+    "prenom": "Xavier",
+    "nom_complet": "Xavier DUPONT",
+    "age": 69,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 358,
+    "votants": 194,
+    "pct_votants": 54.19,
+    "abstentions": 164,
+    "pct_abstentions": 45.81,
+    "exprimes": 177
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "BIEN VIVRE A ROMERIES ET VERTIGNEUL",
+      "libelle_abrege_liste": "BIEN VIVRE A ROMERIES ET VERTIGNEUL",
+      "nuance_liste": null,
+      "voix": 177,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "DUPONT",
+        "prenom": "Xavier",
+        "nom_complet": "Xavier DUPONT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DUPONT",
+          "prenom": "Xavier",
+          "nom_complet": "Xavier DUPONT",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "FAVIER",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie FAVIER",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DEGOUYS",
+          "prenom": "Goulven",
+          "nom_complet": "Goulven DEGOUYS",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "ALLART",
+          "prenom": "Louisette",
+          "nom_complet": "Louisette ALLART",
+          "sexe": "F",
+          "age": 75,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "BOUDY",
+          "prenom": "Damien",
+          "nom_complet": "Damien BOUDY",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "BAYET",
+          "prenom": "Valérie",
+          "nom_complet": "Valérie BAYET",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "NOULIN",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier NOULIN",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "ROSSIGNOL",
+          "prenom": "Valérie",
+          "nom_complet": "Valérie ROSSIGNOL",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DELHAY",
+          "prenom": "Gérard",
+          "nom_complet": "Gérard DELHAY",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "CORRENT-DUBRAY",
+          "prenom": "Cécile",
+          "nom_complet": "Cécile CORRENT-DUBRAY",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DELSIGNE",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent DELSIGNE",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

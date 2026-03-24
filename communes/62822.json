@@ -1,0 +1,99 @@
+{
+  "code_commune": "62822",
+  "commune": "Tollent",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "BEZU",
+    "prenom": "Régis",
+    "nom_complet": "Régis BEZU",
+    "age": 54,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 67,
+    "votants": 46,
+    "pct_votants": 68.66,
+    "abstentions": 21,
+    "pct_abstentions": 31.34,
+    "exprimes": 44
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "POUR L'AVENIR DE TOLLENT",
+      "libelle_abrege_liste": "POUR L'AVENIR DE TOLLENT",
+      "nuance_liste": null,
+      "voix": 44,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 7,
+      "sieges_cc": null,
+      "nb_elus": 7,
+      "tete_de_liste": {
+        "nom": "BEZU",
+        "prenom": "Régis",
+        "nom_complet": "Régis BEZU",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BEZU",
+          "prenom": "Régis",
+          "nom_complet": "Régis BEZU",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "NIVEL",
+          "prenom": "Bernadette",
+          "nom_complet": "Bernadette NIVEL",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "NIVEL",
+          "prenom": "Mickaël",
+          "nom_complet": "Mickaël NIVEL",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DAVRIL",
+          "prenom": "Emelie",
+          "nom_complet": "Emelie DAVRIL",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LEBORGNE",
+          "prenom": "David",
+          "nom_complet": "David LEBORGNE",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "BEZU",
+          "prenom": "Marion",
+          "nom_complet": "Marion BEZU",
+          "sexe": "F",
+          "age": 25,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DECROIX",
+          "prenom": "Dimitri",
+          "nom_complet": "Dimitri DECROIX",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "7"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

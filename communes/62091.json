@@ -1,0 +1,99 @@
+{
+  "code_commune": "62091",
+  "commune": "Beaudricourt",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "DAUSSE",
+    "prenom": "Béatrice",
+    "nom_complet": "Béatrice DAUSSE",
+    "age": 62,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 83,
+    "votants": 56,
+    "pct_votants": 67.47,
+    "abstentions": 27,
+    "pct_abstentions": 32.53,
+    "exprimes": 52
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Liste menée par DAUSSE Béatrice",
+      "libelle_abrege_liste": "Liste menée par DAUSSE Béatrice",
+      "nuance_liste": null,
+      "voix": 52,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 7,
+      "sieges_cc": null,
+      "nb_elus": 7,
+      "tete_de_liste": {
+        "nom": "DAUSSE",
+        "prenom": "Béatrice",
+        "nom_complet": "Béatrice DAUSSE",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "DAUSSE",
+          "prenom": "Béatrice",
+          "nom_complet": "Béatrice DAUSSE",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "HORON",
+          "prenom": "André",
+          "nom_complet": "André HORON",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BERGES",
+          "prenom": "Armelle",
+          "nom_complet": "Armelle BERGES",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "ANTOINE",
+          "prenom": "Claude",
+          "nom_complet": "Claude ANTOINE",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "PETIT",
+          "prenom": "Céline",
+          "nom_complet": "Céline PETIT",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "HERLANT",
+          "prenom": "Cédric",
+          "nom_complet": "Cédric HERLANT",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "WYBO",
+          "prenom": "Ghislaine",
+          "nom_complet": "Ghislaine WYBO",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "7"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

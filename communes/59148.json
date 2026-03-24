@@ -1,0 +1,131 @@
+{
+  "code_commune": "59148",
+  "commune": "Clairfayts",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "LEFEBVRE",
+    "prenom": "Joelle",
+    "nom_complet": "Joelle LEFEBVRE",
+    "age": 65,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 234,
+    "votants": 141,
+    "pct_votants": 60.26,
+    "abstentions": 93,
+    "pct_abstentions": 39.74,
+    "exprimes": 127
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Continuons ensemble",
+      "libelle_abrege_liste": "Continuons ensemble",
+      "nuance_liste": null,
+      "voix": 127,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "LEFEBVRE",
+        "prenom": "Joelle",
+        "nom_complet": "Joelle LEFEBVRE",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "LEFEBVRE",
+          "prenom": "Joelle",
+          "nom_complet": "Joelle LEFEBVRE",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DIENNE",
+          "prenom": "Thierry",
+          "nom_complet": "Thierry DIENNE",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "FERLAT",
+          "prenom": "Emeline",
+          "nom_complet": "Emeline FERLAT",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DERDAELE",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick DERDAELE",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "ANDRE",
+          "prenom": "Sarah",
+          "nom_complet": "Sarah ANDRE",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "AMICO",
+          "prenom": "Kurt",
+          "nom_complet": "Kurt AMICO",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "VANHOOREN",
+          "prenom": "Kristien",
+          "nom_complet": "Kristien VANHOOREN",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "HAYET",
+          "prenom": "Marc-Antoine",
+          "nom_complet": "Marc-Antoine HAYET",
+          "sexe": "M",
+          "age": 30,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "PIROTTE",
+          "prenom": "Estelle",
+          "nom_complet": "Estelle PIROTTE",
+          "sexe": "F",
+          "age": 28,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "LEROY",
+          "prenom": "Etienne",
+          "nom_complet": "Etienne LEROY",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "HANOT",
+          "prenom": "Virginie",
+          "nom_complet": "Virginie HANOT",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

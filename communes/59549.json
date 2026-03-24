@@ -1,0 +1,131 @@
+{
+  "code_commune": "59549",
+  "commune": "Salesches",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "DA SILVA PEREIRA",
+    "prenom": "Anne Marie",
+    "nom_complet": "Anne Marie DA SILVA PEREIRA",
+    "age": 51,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 273,
+    "votants": 140,
+    "pct_votants": 51.28,
+    "abstentions": 133,
+    "pct_abstentions": 48.72,
+    "exprimes": 109
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "L'AVENIR DE SALESCHES SE DESSINE AUJOURD'HUI",
+      "libelle_abrege_liste": "L'AVENIR DE SALESCHES SE DESSINE AUJOURD'HUI",
+      "nuance_liste": null,
+      "voix": 109,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "DA SILVA PEREIRA",
+        "prenom": "Anne Marie",
+        "nom_complet": "Anne Marie DA SILVA PEREIRA",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "DA SILVA PEREIRA",
+          "prenom": "Anne Marie",
+          "nom_complet": "Anne Marie DA SILVA PEREIRA",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "PETIAU",
+          "prenom": "Rodolphe",
+          "nom_complet": "Rodolphe PETIAU",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BOURSIEZ",
+          "prenom": "Valerie",
+          "nom_complet": "Valerie BOURSIEZ",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "FAVERO",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent FAVERO",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DEHOVE",
+          "prenom": "Corinne",
+          "nom_complet": "Corinne DEHOVE",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "MENISSEZ",
+          "prenom": "Jean Luc",
+          "nom_complet": "Jean Luc MENISSEZ",
+          "sexe": "M",
+          "age": 75,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "FONTENELLE",
+          "prenom": "Christel",
+          "nom_complet": "Christel FONTENELLE",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "FEDERBE",
+          "prenom": "Patrice",
+          "nom_complet": "Patrice FEDERBE",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DEVEMY",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie DEVEMY",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "LIMELETTE",
+          "prenom": "Kevin",
+          "nom_complet": "Kevin LIMELETTE",
+          "sexe": "M",
+          "age": 32,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "LEFEBVRE",
+          "prenom": "Sidonie",
+          "nom_complet": "Sidonie LEFEBVRE",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

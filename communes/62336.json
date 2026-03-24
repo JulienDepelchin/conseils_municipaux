@@ -1,0 +1,131 @@
+{
+  "code_commune": "62336",
+  "commune": "Fléchin",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "DUMETZ",
+    "prenom": "Jacqueline",
+    "nom_complet": "Jacqueline DUMETZ",
+    "age": 76,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 396,
+    "votants": 241,
+    "pct_votants": 60.86,
+    "abstentions": 155,
+    "pct_abstentions": 39.14,
+    "exprimes": 177
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Cap sur l'avenir, agissons pour notre village",
+      "libelle_abrege_liste": "Cap sur l'avenir, agissons pour notre village",
+      "nuance_liste": null,
+      "voix": 177,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "DUMETZ",
+        "prenom": "Jacqueline",
+        "nom_complet": "Jacqueline DUMETZ",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "DUMETZ",
+          "prenom": "Jacqueline",
+          "nom_complet": "Jacqueline DUMETZ",
+          "sexe": "F",
+          "age": 76,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "GUILLE",
+          "prenom": "Alex",
+          "nom_complet": "Alex GUILLE",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DACQUIN",
+          "prenom": "Bénédicte",
+          "nom_complet": "Bénédicte DACQUIN",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "CREPIN",
+          "prenom": "Guillaume",
+          "nom_complet": "Guillaume CREPIN",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "BERTHELEMY",
+          "prenom": "Murielle",
+          "nom_complet": "Murielle BERTHELEMY",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LEFEBVRE",
+          "prenom": "Alexandre",
+          "nom_complet": "Alexandre LEFEBVRE",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "GALLET",
+          "prenom": "Laetitia",
+          "nom_complet": "Laetitia GALLET",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LIEBART",
+          "prenom": "Arnaud",
+          "nom_complet": "Arnaud LIEBART",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "BARBIER",
+          "prenom": "Laetitia",
+          "nom_complet": "Laetitia BARBIER",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DEMAGNY",
+          "prenom": "Ludovic",
+          "nom_complet": "Ludovic DEMAGNY",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "BON",
+          "prenom": "Christiane",
+          "nom_complet": "Christiane BON",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

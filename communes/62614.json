@@ -1,0 +1,163 @@
+{
+  "code_commune": "62614",
+  "commune": "Nielles-lès-Ardres",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "CALAIS",
+    "prenom": "Pierre-Eloi",
+    "nom_complet": "Pierre-Eloi CALAIS",
+    "age": 37,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 464,
+    "votants": 288,
+    "pct_votants": 62.07,
+    "abstentions": 176,
+    "pct_abstentions": 37.93,
+    "exprimes": 215
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Ruralité Positive",
+      "libelle_abrege_liste": "Ruralité Positive",
+      "nuance_liste": null,
+      "voix": 215,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "CALAIS",
+        "prenom": "Pierre-Eloi",
+        "nom_complet": "Pierre-Eloi CALAIS",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "CALAIS",
+          "prenom": "Pierre-Eloi",
+          "nom_complet": "Pierre-Eloi CALAIS",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DELPIERRE",
+          "prenom": "Christine",
+          "nom_complet": "Christine DELPIERRE",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DESSAINT",
+          "prenom": "Jean-Michel",
+          "nom_complet": "Jean-Michel DESSAINT",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "GUFFROY",
+          "prenom": "Adeline",
+          "nom_complet": "Adeline GUFFROY",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "EMPISSE",
+          "prenom": "François",
+          "nom_complet": "François EMPISSE",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "FINARD",
+          "prenom": "Céline",
+          "nom_complet": "Céline FINARD",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "FOUQUET",
+          "prenom": "Simon",
+          "nom_complet": "Simon FOUQUET",
+          "sexe": "M",
+          "age": 25,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LANGLET",
+          "prenom": "Chantal",
+          "nom_complet": "Chantal LANGLET",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "LELEU",
+          "prenom": "Jacques",
+          "nom_complet": "Jacques LELEU",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "LEULIETTE",
+          "prenom": "Ketty",
+          "nom_complet": "Ketty LEULIETTE",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "QUEVAL",
+          "prenom": "Tony",
+          "nom_complet": "Tony QUEVAL",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "RAMBOUR",
+          "prenom": "Lydia",
+          "nom_complet": "Lydia RAMBOUR",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "TOURSEL",
+          "prenom": "Jean-Pierre",
+          "nom_complet": "Jean-Pierre TOURSEL",
+          "sexe": "M",
+          "age": 74,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "SPECQ",
+          "prenom": "Christine",
+          "nom_complet": "Christine SPECQ",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "TROUILLE",
+          "prenom": "Gaëtan",
+          "nom_complet": "Gaëtan TROUILLE",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

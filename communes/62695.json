@@ -1,0 +1,131 @@
+{
+  "code_commune": "62695",
+  "commune": "Rebreuviette",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "COQUART",
+    "prenom": "François",
+    "nom_complet": "François COQUART",
+    "age": 52,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 224,
+    "votants": 143,
+    "pct_votants": 63.84,
+    "abstentions": 81,
+    "pct_abstentions": 36.16,
+    "exprimes": 124
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "REBREUVIETTE 2026",
+      "libelle_abrege_liste": "REBREUVIETTE 2026",
+      "nuance_liste": null,
+      "voix": 124,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "COQUART",
+        "prenom": "François",
+        "nom_complet": "François COQUART",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "COQUART",
+          "prenom": "François",
+          "nom_complet": "François COQUART",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DESUTTER",
+          "prenom": "Régine",
+          "nom_complet": "Régine DESUTTER",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DARRAS",
+          "prenom": "Arnaud",
+          "nom_complet": "Arnaud DARRAS",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BRIOUT",
+          "prenom": "Josiane",
+          "nom_complet": "Josiane BRIOUT",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "BOULAIN",
+          "prenom": "Alain",
+          "nom_complet": "Alain BOULAIN",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "SARRAZIN",
+          "prenom": "Monique",
+          "nom_complet": "Monique SARRAZIN",
+          "sexe": "F",
+          "age": 74,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DURAND",
+          "prenom": "Julien",
+          "nom_complet": "Julien DURAND",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DECOBERT",
+          "prenom": "Aurélie",
+          "nom_complet": "Aurélie DECOBERT",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "KLEINPETER",
+          "prenom": "Damien",
+          "nom_complet": "Damien KLEINPETER",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "BARDOU",
+          "prenom": "Elodie",
+          "nom_complet": "Elodie BARDOU",
+          "sexe": "F",
+          "age": 33,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "CHOQUET",
+          "prenom": "David",
+          "nom_complet": "David CHOQUET",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

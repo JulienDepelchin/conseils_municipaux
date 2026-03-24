@@ -1,0 +1,131 @@
+{
+  "code_commune": "62840",
+  "commune": "Vélu",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "DEMORY",
+    "prenom": "Nadine",
+    "nom_complet": "Nadine DEMORY",
+    "age": 75,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 112,
+    "votants": 74,
+    "pct_votants": 66.07,
+    "abstentions": 38,
+    "pct_abstentions": 33.93,
+    "exprimes": 60
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Défense des Intérêts Communaux",
+      "libelle_abrege_liste": "Défense des Intérêts Communaux",
+      "nuance_liste": null,
+      "voix": 60,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "DEMORY",
+        "prenom": "Nadine",
+        "nom_complet": "Nadine DEMORY",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "DEMORY",
+          "prenom": "Nadine",
+          "nom_complet": "Nadine DEMORY",
+          "sexe": "F",
+          "age": 75,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BOUQUILLON",
+          "prenom": "Daniel",
+          "nom_complet": "Daniel BOUQUILLON",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "KOCIALKOWSKI",
+          "prenom": "Marika",
+          "nom_complet": "Marika KOCIALKOWSKI",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "CAUDROIT",
+          "prenom": "Michel",
+          "nom_complet": "Michel CAUDROIT",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "GUIDEZ",
+          "prenom": "Nadège",
+          "nom_complet": "Nadège GUIDEZ",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "KOCIALKOWSKI",
+          "prenom": "Eddy",
+          "nom_complet": "Eddy KOCIALKOWSKI",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "SIGGILLINO",
+          "prenom": "Delphine",
+          "nom_complet": "Delphine SIGGILLINO",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LECOQ",
+          "prenom": "Damien",
+          "nom_complet": "Damien LECOQ",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "FOULON",
+          "prenom": "Justine",
+          "nom_complet": "Justine FOULON",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "MATTIOLI",
+          "prenom": "Tommy",
+          "nom_complet": "Tommy MATTIOLI",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DELABORDE--SANNIER",
+          "prenom": "Noémie",
+          "nom_complet": "Noémie DELABORDE--SANNIER",
+          "sexe": "F",
+          "age": 20,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

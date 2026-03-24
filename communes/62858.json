@@ -1,0 +1,131 @@
+{
+  "code_commune": "62858",
+  "commune": "Villers-lès-Cagnicourt",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "PETIT",
+    "prenom": "Cynthia",
+    "nom_complet": "Cynthia PETIT",
+    "age": 46,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 179,
+    "votants": 120,
+    "pct_votants": 67.04,
+    "abstentions": 59,
+    "pct_abstentions": 32.96,
+    "exprimes": 92
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Villers-les-Cagnicourt : près de vous, avec vous !",
+      "libelle_abrege_liste": "Villers-les-Cagnicourt : près de vous, avec vous !",
+      "nuance_liste": null,
+      "voix": 92,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "PETIT",
+        "prenom": "Cynthia",
+        "nom_complet": "Cynthia PETIT",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "PETIT",
+          "prenom": "Cynthia",
+          "nom_complet": "Cynthia PETIT",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "KERFI",
+          "prenom": "Maxime",
+          "nom_complet": "Maxime KERFI",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "KISUCKY",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie KISUCKY",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "ROGER",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick ROGER",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "MARTIN",
+          "prenom": "Aurore",
+          "nom_complet": "Aurore MARTIN",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "KISUCKY",
+          "prenom": "Louis",
+          "nom_complet": "Louis KISUCKY",
+          "sexe": "M",
+          "age": 26,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "RICHARD",
+          "prenom": "Caroline",
+          "nom_complet": "Caroline RICHARD",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "QUINDROIT",
+          "prenom": "Cédric",
+          "nom_complet": "Cédric QUINDROIT",
+          "sexe": "M",
+          "age": 33,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "LEGROS",
+          "prenom": "Charlotte",
+          "nom_complet": "Charlotte LEGROS",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "GALOO",
+          "prenom": "Jean-Sébastien",
+          "nom_complet": "Jean-Sébastien GALOO",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "LAINE",
+          "prenom": "Ludivine",
+          "nom_complet": "Ludivine LAINE",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

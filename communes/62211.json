@@ -1,0 +1,131 @@
+{
+  "code_commune": "62211",
+  "commune": "Capelle-Fermont",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "KOZAK",
+    "prenom": "Thomas",
+    "nom_complet": "Thomas KOZAK",
+    "age": 41,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 174,
+    "votants": 128,
+    "pct_votants": 73.56,
+    "abstentions": 46,
+    "pct_abstentions": 26.44,
+    "exprimes": 103
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Préserver notre village, préparer son avenir",
+      "libelle_abrege_liste": "Préserver notre village, préparer son avenir",
+      "nuance_liste": null,
+      "voix": 103,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "KOZAK",
+        "prenom": "Thomas",
+        "nom_complet": "Thomas KOZAK",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "KOZAK",
+          "prenom": "Thomas",
+          "nom_complet": "Thomas KOZAK",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "SURELLE",
+          "prenom": "Sabine",
+          "nom_complet": "Sabine SURELLE",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DHERIN",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric DHERIN",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "COQUEL",
+          "prenom": "Émilie",
+          "nom_complet": "Émilie COQUEL",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "STERNADEL",
+          "prenom": "Maxime",
+          "nom_complet": "Maxime STERNADEL",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "D'AMICO",
+          "prenom": "Élodie",
+          "nom_complet": "Élodie D'AMICO",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "FOULON",
+          "prenom": "Sébastien",
+          "nom_complet": "Sébastien FOULON",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "OUSALEM",
+          "prenom": "Manon",
+          "nom_complet": "Manon OUSALEM",
+          "sexe": "F",
+          "age": 29,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "PINTAPARIS",
+          "prenom": "Guillaume",
+          "nom_complet": "Guillaume PINTAPARIS",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DANEL",
+          "prenom": "Annie",
+          "nom_complet": "Annie DANEL",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "BOUCHEND'HOMME",
+          "prenom": "Pierre",
+          "nom_complet": "Pierre BOUCHEND'HOMME",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

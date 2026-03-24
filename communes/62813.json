@@ -1,0 +1,131 @@
+{
+  "code_commune": "62813",
+  "commune": "La Thieuloye",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "FLAMENT",
+    "prenom": "André",
+    "nom_complet": "André FLAMENT",
+    "age": 57,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 377,
+    "votants": 213,
+    "pct_votants": 56.5,
+    "abstentions": 164,
+    "pct_abstentions": 43.5,
+    "exprimes": 176
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Vivre et Agir pour La Thieuloye",
+      "libelle_abrege_liste": "Vivre et Agir pour La Thieuloye",
+      "nuance_liste": null,
+      "voix": 176,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "FLAMENT",
+        "prenom": "André",
+        "nom_complet": "André FLAMENT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "FLAMENT",
+          "prenom": "André",
+          "nom_complet": "André FLAMENT",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "SELOM",
+          "prenom": "Corinne",
+          "nom_complet": "Corinne SELOM",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BLONDEL",
+          "prenom": "Guillaume",
+          "nom_complet": "Guillaume BLONDEL",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DAUCHY",
+          "prenom": "Hélène",
+          "nom_complet": "Hélène DAUCHY",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "AUGAIT",
+          "prenom": "Quentin",
+          "nom_complet": "Quentin AUGAIT",
+          "sexe": "M",
+          "age": 33,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "CREPY",
+          "prenom": "Grétel",
+          "nom_complet": "Grétel CREPY",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "GAJEK",
+          "prenom": "Stéphane",
+          "nom_complet": "Stéphane GAJEK",
+          "sexe": "M",
+          "age": 34,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DUROT",
+          "prenom": "Julie",
+          "nom_complet": "Julie DUROT",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "RENOULT",
+          "prenom": "Jonathan",
+          "nom_complet": "Jonathan RENOULT",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "GAUTIER",
+          "prenom": "Dorothée",
+          "nom_complet": "Dorothée GAUTIER",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DELMOTTE",
+          "prenom": "Francky",
+          "nom_complet": "Francky DELMOTTE",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

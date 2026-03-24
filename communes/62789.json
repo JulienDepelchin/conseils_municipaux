@@ -1,0 +1,131 @@
+{
+  "code_commune": "62789",
+  "commune": "Senlecques",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "FOURCROY",
+    "prenom": "Christophe",
+    "nom_complet": "Christophe FOURCROY",
+    "age": 54,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 210,
+    "votants": 143,
+    "pct_votants": 68.1,
+    "abstentions": 67,
+    "pct_abstentions": 31.9,
+    "exprimes": 114
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ENSEMBLE POUR SENLECQUES",
+      "libelle_abrege_liste": "ENSEMBLE POUR SENLECQUES",
+      "nuance_liste": null,
+      "voix": 114,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "FOURCROY",
+        "prenom": "Christophe",
+        "nom_complet": "Christophe FOURCROY",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "FOURCROY",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe FOURCROY",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LACHERE",
+          "prenom": "Christiane",
+          "nom_complet": "Christiane LACHERE",
+          "sexe": "F",
+          "age": 71,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "CAUX",
+          "prenom": "Michaël",
+          "nom_complet": "Michaël CAUX",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "MACQUET",
+          "prenom": "Margaux",
+          "nom_complet": "Margaux MACQUET",
+          "sexe": "F",
+          "age": 31,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "HIBON",
+          "prenom": "Vincent",
+          "nom_complet": "Vincent HIBON",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "MASSET",
+          "prenom": "Adeline",
+          "nom_complet": "Adeline MASSET",
+          "sexe": "F",
+          "age": 29,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "LAMIRAULT",
+          "prenom": "Anthony",
+          "nom_complet": "Anthony LAMIRAULT",
+          "sexe": "M",
+          "age": 33,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "TASSART",
+          "prenom": "Chantale",
+          "nom_complet": "Chantale TASSART",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "VASSEUR",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno VASSEUR",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "PRUD'HOMME",
+          "prenom": "Mélanie",
+          "nom_complet": "Mélanie PRUD'HOMME",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "WALLET",
+          "prenom": "Sébastien",
+          "nom_complet": "Sébastien WALLET",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

@@ -1,0 +1,195 @@
+{
+  "code_commune": "59099",
+  "commune": "Bousies",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "DUCARNE",
+    "prenom": "André",
+    "nom_complet": "André DUCARNE",
+    "age": 81,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1287,
+    "votants": 815,
+    "pct_votants": 63.33,
+    "abstentions": 472,
+    "pct_abstentions": 36.67,
+    "exprimes": 702
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Pour Bousies continuons ensemble",
+      "libelle_abrege_liste": "Pour Bousies continuons ensemble",
+      "nuance_liste": null,
+      "voix": 702,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 19,
+      "sieges_cc": 2,
+      "nb_elus": 19,
+      "tete_de_liste": {
+        "nom": "DUCARNE",
+        "prenom": "André",
+        "nom_complet": "André DUCARNE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DUCARNE",
+          "prenom": "André",
+          "nom_complet": "André DUCARNE",
+          "sexe": "M",
+          "age": 81,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BRIATTE-FLAMENT",
+          "prenom": "Aurélie",
+          "nom_complet": "Aurélie BRIATTE-FLAMENT",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "JACQUINET",
+          "prenom": "Thierry",
+          "nom_complet": "Thierry JACQUINET",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BRICOUT-CONTESSE",
+          "prenom": "Monique",
+          "nom_complet": "Monique BRICOUT-CONTESSE",
+          "sexe": "F",
+          "age": 78,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LENOIR",
+          "prenom": "Jean-Michel",
+          "nom_complet": "Jean-Michel LENOIR",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "BACOUT-BOLZONELLO",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie BACOUT-BOLZONELLO",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DARRAS",
+          "prenom": "Didier",
+          "nom_complet": "Didier DARRAS",
+          "sexe": "M",
+          "age": 77,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "FOSSIEZ-CAUCHY",
+          "prenom": "Anne",
+          "nom_complet": "Anne FOSSIEZ-CAUCHY",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "BURLION",
+          "prenom": "Gilbert",
+          "nom_complet": "Gilbert BURLION",
+          "sexe": "M",
+          "age": 77,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "REUMONT",
+          "prenom": "Bénédicte",
+          "nom_complet": "Bénédicte REUMONT",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "BAUVOIS",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick BAUVOIS",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "CREQUIT-BAILLON",
+          "prenom": "Laurence",
+          "nom_complet": "Laurence CREQUIT-BAILLON",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "GOSSELIN",
+          "prenom": "Lionel",
+          "nom_complet": "Lionel GOSSELIN",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "THOMAS-MATHIEU",
+          "prenom": "Pascale",
+          "nom_complet": "Pascale THOMAS-MATHIEU",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "NOIRET",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric NOIRET",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "GUERITTE",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie GUERITTE",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "LEGRAND",
+          "prenom": "Samuel",
+          "nom_complet": "Samuel LEGRAND",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "FRANCOIS-DUCROCQ",
+          "prenom": "Rebecca",
+          "nom_complet": "Rebecca FRANCOIS-DUCROCQ",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "RENVERSEZ",
+          "prenom": "Alain",
+          "nom_complet": "Alain RENVERSEZ",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "19"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

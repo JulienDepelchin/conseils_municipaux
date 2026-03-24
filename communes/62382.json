@@ -1,0 +1,203 @@
+{
+  "code_commune": "62382",
+  "commune": "Gouy-Saint-André",
+  "departement": "Pas-de-Calais",
+  "tour": "T2",
+  "maire": {
+    "nom": "LEROY",
+    "prenom": "Grégory",
+    "nom_complet": "Grégory LEROY",
+    "age": 53,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 580,
+    "votants": 498,
+    "pct_votants": 85.86,
+    "abstentions": 82,
+    "pct_abstentions": 14.14,
+    "exprimes": 475
+  },
+  "listes": [
+    {
+      "num_panneau": "4",
+      "libelle_liste": "S'UNIR POUR REUSSIR",
+      "libelle_abrege_liste": "S'UNIR POUR REUSSIR",
+      "nuance_liste": null,
+      "voix": 224,
+      "pct_voix_exprimes": 47.16,
+      "sieges_cm": 12,
+      "sieges_cc": null,
+      "nb_elus": 12,
+      "tete_de_liste": {
+        "nom": "LEROY",
+        "prenom": "Grégory",
+        "nom_complet": "Grégory LEROY",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LEROY",
+          "prenom": "Grégory",
+          "nom_complet": "Grégory LEROY",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LEFEBVRE",
+          "prenom": "Jessica",
+          "nom_complet": "Jessica LEFEBVRE",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "TETU",
+          "prenom": "Jérôme",
+          "nom_complet": "Jérôme TETU",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "POCLET",
+          "prenom": "Amélie",
+          "nom_complet": "Amélie POCLET",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LECUL",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier LECUL",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "FAUVEAUX",
+          "prenom": "Audrey",
+          "nom_complet": "Audrey FAUVEAUX",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DARRY",
+          "prenom": "Steven",
+          "nom_complet": "Steven DARRY",
+          "sexe": "M",
+          "age": 31,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DE SAINT LEGER",
+          "prenom": "Renée",
+          "nom_complet": "Renée DE SAINT LEGER",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "LECUL",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal LECUL",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "PONT",
+          "prenom": "Françoise",
+          "nom_complet": "Françoise PONT",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "LONGUET",
+          "prenom": "Kévin",
+          "nom_complet": "Kévin LONGUET",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "DUQUENOY",
+          "prenom": "Aurore",
+          "nom_complet": "Aurore DUQUENOY",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "12"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "UN NOUVEAU SOUFFLE POUR NOTRE VILLAGE",
+      "libelle_abrege_liste": "UN NOUVEAU SOUFFLE POUR NOTRE VILLAGE",
+      "nuance_liste": null,
+      "voix": 159,
+      "pct_voix_exprimes": 33.47,
+      "sieges_cm": 2,
+      "sieges_cc": null,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "DUQUENOY",
+        "prenom": "Sophie",
+        "nom_complet": "Sophie DUQUENOY",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "DUQUENOY",
+          "prenom": "Sophie",
+          "nom_complet": "Sophie DUQUENOY",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LEULIET",
+          "prenom": "Sylvain",
+          "nom_complet": "Sylvain LEULIET",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    },
+    {
+      "num_panneau": "3",
+      "libelle_liste": "Agir ensemble pour Gouy",
+      "libelle_abrege_liste": "Agir ensemble pour Gouy",
+      "nuance_liste": null,
+      "voix": 92,
+      "pct_voix_exprimes": 19.37,
+      "sieges_cm": 1,
+      "sieges_cc": null,
+      "nb_elus": 1,
+      "tete_de_liste": {
+        "nom": "MARIETTE",
+        "prenom": "Stéphane",
+        "nom_complet": "Stéphane MARIETTE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "MARIETTE",
+          "prenom": "Stéphane",
+          "nom_complet": "Stéphane MARIETTE",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "1"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

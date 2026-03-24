@@ -1,0 +1,131 @@
+{
+  "code_commune": "62272",
+  "commune": "Douchy-lès-Ayette",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "DERUE",
+    "prenom": "Jean-Charles",
+    "nom_complet": "Jean-Charles DERUE",
+    "age": 74,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 205,
+    "votants": 128,
+    "pct_votants": 62.44,
+    "abstentions": 77,
+    "pct_abstentions": 37.56,
+    "exprimes": 100
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "CITOYENS ENGAGÉS POUR UN AVENIR PARTAGÉ",
+      "libelle_abrege_liste": "CITOYENS ENGAGÉS POUR UN AVENIR PARTAGÉ",
+      "nuance_liste": null,
+      "voix": 100,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "DERUE",
+        "prenom": "Jean-Charles",
+        "nom_complet": "Jean-Charles DERUE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DERUE",
+          "prenom": "Jean-Charles",
+          "nom_complet": "Jean-Charles DERUE",
+          "sexe": "M",
+          "age": 74,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DERUY",
+          "prenom": "Marie-Pierre",
+          "nom_complet": "Marie-Pierre DERUY",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "COURTY",
+          "prenom": "Jean-Louis",
+          "nom_complet": "Jean-Louis COURTY",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DERANCOURT",
+          "prenom": "Valérie",
+          "nom_complet": "Valérie DERANCOURT",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "BULCOURT",
+          "prenom": "Ludovic",
+          "nom_complet": "Ludovic BULCOURT",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "VAQUETTE",
+          "prenom": "Chantal",
+          "nom_complet": "Chantal VAQUETTE",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "COUQ",
+          "prenom": "Cyrille",
+          "nom_complet": "Cyrille COUQ",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LANCIAL",
+          "prenom": "Audrey",
+          "nom_complet": "Audrey LANCIAL",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "MALVOISIN",
+          "prenom": "Florent",
+          "nom_complet": "Florent MALVOISIN",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DECOUPIGNY",
+          "prenom": "Céline",
+          "nom_complet": "Céline DECOUPIGNY",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "PORQUET",
+          "prenom": "Cyril",
+          "nom_complet": "Cyril PORQUET",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

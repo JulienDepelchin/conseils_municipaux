@@ -1,0 +1,131 @@
+{
+  "code_commune": "62760",
+  "commune": "Saint-Martin-d'Hardinghem",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "HANQUEZ THION",
+    "prenom": "Catherine",
+    "nom_complet": "Catherine HANQUEZ THION",
+    "age": 63,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 210,
+    "votants": 159,
+    "pct_votants": 75.71,
+    "abstentions": 51,
+    "pct_abstentions": 24.29,
+    "exprimes": 134
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Bien-vivre à Saint-Martin-d'Hardinghem",
+      "libelle_abrege_liste": "Bien-vivre à Saint-Martin-d'Hardinghem",
+      "nuance_liste": null,
+      "voix": 134,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "HANQUEZ THION",
+        "prenom": "Catherine",
+        "nom_complet": "Catherine HANQUEZ THION",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "HANQUEZ THION",
+          "prenom": "Catherine",
+          "nom_complet": "Catherine HANQUEZ THION",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "COURBOIS",
+          "prenom": "Bernard",
+          "nom_complet": "Bernard COURBOIS",
+          "sexe": "M",
+          "age": 74,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DELATTRE",
+          "prenom": "Monique",
+          "nom_complet": "Monique DELATTRE",
+          "sexe": "F",
+          "age": 78,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BAURAIN",
+          "prenom": "Pierre-Samuel",
+          "nom_complet": "Pierre-Samuel BAURAIN",
+          "sexe": "M",
+          "age": 29,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "FROMENT",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie FROMENT",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DUREY",
+          "prenom": "Régis",
+          "nom_complet": "Régis DUREY",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BAUVAIS",
+          "prenom": "Marine",
+          "nom_complet": "Marine BAUVAIS",
+          "sexe": "F",
+          "age": 31,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "SPECQUE",
+          "prenom": "Bernard",
+          "nom_complet": "Bernard SPECQUE",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "CLETON",
+          "prenom": "Manon",
+          "nom_complet": "Manon CLETON",
+          "sexe": "F",
+          "age": 32,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "FLOURET",
+          "prenom": "Alexandre",
+          "nom_complet": "Alexandre FLOURET",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "MARIETTE",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle MARIETTE",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "code_commune": "62306",
+  "commune": "Ervillers",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "LEFEBVRE",
+    "prenom": "Alain",
+    "nom_complet": "Alain LEFEBVRE",
+    "age": 65,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 291,
+    "votants": 208,
+    "pct_votants": 71.48,
+    "abstentions": 83,
+    "pct_abstentions": 28.52,
+    "exprimes": 160
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "VIVRE ENSEMBLE, AGIR ENSEMBLE",
+      "libelle_abrege_liste": "VIVRE ENSEMBLE, AGIR ENSEMBLE",
+      "nuance_liste": null,
+      "voix": 160,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "LEFEBVRE",
+        "prenom": "Alain",
+        "nom_complet": "Alain LEFEBVRE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LEFEBVRE",
+          "prenom": "Alain",
+          "nom_complet": "Alain LEFEBVRE",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "AMBROISE",
+          "prenom": "Adélaide",
+          "nom_complet": "Adélaide AMBROISE",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BACQUET",
+          "prenom": "Mathieu",
+          "nom_complet": "Mathieu BACQUET",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "CHOQUE",
+          "prenom": "Marie-Lise",
+          "nom_complet": "Marie-Lise CHOQUE",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "BIZART",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent BIZART",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "GUIDEZ",
+          "prenom": "Audrey",
+          "nom_complet": "Audrey GUIDEZ",
+          "sexe": "F",
+          "age": 22,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "HARBION",
+          "prenom": "Sylvain",
+          "nom_complet": "Sylvain HARBION",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "HAIGNERÉ",
+          "prenom": "Virginie",
+          "nom_complet": "Virginie HAIGNERÉ",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "HAUWELLE",
+          "prenom": "Rémi",
+          "nom_complet": "Rémi HAUWELLE",
+          "sexe": "M",
+          "age": 27,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "LOYER",
+          "prenom": "Catherine",
+          "nom_complet": "Catherine LOYER",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "VARLET",
+          "prenom": "Pierre",
+          "nom_complet": "Pierre VARLET",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

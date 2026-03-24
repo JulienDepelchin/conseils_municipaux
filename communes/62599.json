@@ -1,0 +1,151 @@
+{
+  "code_commune": "62599",
+  "commune": "Nabringhen",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "BROUART",
+    "prenom": "Hervé",
+    "nom_complet": "Hervé BROUART",
+    "age": 74,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 174,
+    "votants": 150,
+    "pct_votants": 86.21,
+    "abstentions": 24,
+    "pct_abstentions": 13.79,
+    "exprimes": 148
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "ENSEMBLE POUR NOTRE VILLAGE",
+      "libelle_abrege_liste": "ENSEMBLE POUR NOTRE VILLAGE",
+      "nuance_liste": null,
+      "voix": 77,
+      "pct_voix_exprimes": 52.03,
+      "sieges_cm": 9,
+      "sieges_cc": null,
+      "nb_elus": 9,
+      "tete_de_liste": {
+        "nom": "BROUART",
+        "prenom": "Hervé",
+        "nom_complet": "Hervé BROUART",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BROUART",
+          "prenom": "Hervé",
+          "nom_complet": "Hervé BROUART",
+          "sexe": "M",
+          "age": 74,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "GUILBERT",
+          "prenom": "Sandrine",
+          "nom_complet": "Sandrine GUILBERT",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "CATOEN",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier CATOEN",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BAYARD",
+          "prenom": "Patricia",
+          "nom_complet": "Patricia BAYARD",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "HAMY",
+          "prenom": "Vincent",
+          "nom_complet": "Vincent HAMY",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "HERBEZ",
+          "prenom": "Martine",
+          "nom_complet": "Martine HERBEZ",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "LEDEMAZEL",
+          "prenom": "Yoni",
+          "nom_complet": "Yoni LEDEMAZEL",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "FORESTIER",
+          "prenom": "Pascaline",
+          "nom_complet": "Pascaline FORESTIER",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "PORQUET",
+          "prenom": "Gregory",
+          "nom_complet": "Gregory PORQUET",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "9"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "NABRINGHEN, VOTRE VILLAGE",
+      "libelle_abrege_liste": "NABRINGHEN, VOTRE VILLAGE",
+      "nuance_liste": null,
+      "voix": 71,
+      "pct_voix_exprimes": 47.97,
+      "sieges_cm": 2,
+      "sieges_cc": null,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "LEMAIRE",
+        "prenom": "Jean-François",
+        "nom_complet": "Jean-François LEMAIRE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LEMAIRE",
+          "prenom": "Jean-François",
+          "nom_complet": "Jean-François LEMAIRE",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LOUCHEZ",
+          "prenom": "Anne-Sophie",
+          "nom_complet": "Anne-Sophie LOUCHEZ",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

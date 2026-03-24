@@ -1,0 +1,163 @@
+{
+  "code_commune": "62279",
+  "commune": "Duisans",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "CUISINIER",
+    "prenom": "Christophe",
+    "nom_complet": "Christophe CUISINIER",
+    "age": 55,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1212,
+    "votants": 658,
+    "pct_votants": 54.29,
+    "abstentions": 554,
+    "pct_abstentions": 45.71,
+    "exprimes": 600
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "BIEN VIVRE ENSEMBLE - DUISANS ET SES HAMEAUX",
+      "libelle_abrege_liste": "BIEN VIVRE ENSEMBLE - DUISANS ET SES HAMEAUX",
+      "nuance_liste": null,
+      "voix": 600,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": 4,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "CUISINIER",
+        "prenom": "Christophe",
+        "nom_complet": "Christophe CUISINIER",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "CUISINIER",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe CUISINIER",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "MEURICE",
+          "prenom": "Geneviève",
+          "nom_complet": "Geneviève MEURICE",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "HEMERY",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal HEMERY",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LARIVIÈRE",
+          "prenom": "Magalie",
+          "nom_complet": "Magalie LARIVIÈRE",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "FOUCART",
+          "prenom": "David",
+          "nom_complet": "David FOUCART",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "MARCHAND",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle MARCHAND",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BOURGOIS",
+          "prenom": "Michaël",
+          "nom_complet": "Michaël BOURGOIS",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "VOGEL",
+          "prenom": "Laura",
+          "nom_complet": "Laura VOGEL",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DENNE",
+          "prenom": "Sébastien",
+          "nom_complet": "Sébastien DENNE",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "ZANDECKI",
+          "prenom": "Bernadette",
+          "nom_complet": "Bernadette ZANDECKI",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "FERNANDES",
+          "prenom": "Fernando",
+          "nom_complet": "Fernando FERNANDES",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "GRILLON",
+          "prenom": "Julie",
+          "nom_complet": "Julie GRILLON",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "HANOT",
+          "prenom": "Régis",
+          "nom_complet": "Régis HANOT",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "PARSY",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle PARSY",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "LECLERCQ",
+          "prenom": "Arnaud",
+          "nom_complet": "Arnaud LECLERCQ",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

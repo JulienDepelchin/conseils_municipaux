@@ -1,0 +1,163 @@
+{
+  "code_commune": "59300",
+  "commune": "Hem-Lenglet",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "BLANCHARD",
+    "prenom": "Yvette",
+    "nom_complet": "Yvette BLANCHARD",
+    "age": 66,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 418,
+    "votants": 281,
+    "pct_votants": 67.22,
+    "abstentions": 137,
+    "pct_abstentions": 32.78,
+    "exprimes": 251
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Liste d'Union",
+      "libelle_abrege_liste": "LISTE D'UNION",
+      "nuance_liste": null,
+      "voix": 251,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "BLANCHARD",
+        "prenom": "Yvette",
+        "nom_complet": "Yvette BLANCHARD",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "BLANCHARD",
+          "prenom": "Yvette",
+          "nom_complet": "Yvette BLANCHARD",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DESCAMPS",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent DESCAMPS",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DE COCK",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie DE COCK",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "COQUELLE",
+          "prenom": "Jean-Luc",
+          "nom_complet": "Jean-Luc COQUELLE",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LELEU",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie LELEU",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DEL FABRO",
+          "prenom": "Gérald",
+          "nom_complet": "Gérald DEL FABRO",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "D'HALLUIN",
+          "prenom": "Chantal",
+          "nom_complet": "Chantal D'HALLUIN",
+          "sexe": "F",
+          "age": 75,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DUBIEL",
+          "prenom": "Michaël",
+          "nom_complet": "Michaël DUBIEL",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "KLEINERT",
+          "prenom": "Jessy",
+          "nom_complet": "Jessy KLEINERT",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "NOËL",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas NOËL",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "JOOSTEN",
+          "prenom": "Denise",
+          "nom_complet": "Denise JOOSTEN",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "VAN MOORLEGHEM",
+          "prenom": "Yoann",
+          "nom_complet": "Yoann VAN MOORLEGHEM",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "ANSELME",
+          "prenom": "Kelly",
+          "nom_complet": "Kelly ANSELME",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "DÉFONTAINE",
+          "prenom": "Jean-François",
+          "nom_complet": "Jean-François DÉFONTAINE",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "SELTENSPERGER",
+          "prenom": "Véronique",
+          "nom_complet": "Véronique SELTENSPERGER",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

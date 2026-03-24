@@ -1,0 +1,315 @@
+{
+  "code_commune": "62270",
+  "commune": "Divion",
+  "departement": "Pas-de-Calais",
+  "tour": "T2",
+  "maire": {
+    "nom": "LEMOINE",
+    "prenom": "Jacky",
+    "nom_complet": "Jacky LEMOINE",
+    "age": 64,
+    "nuance": "LDVG"
+  },
+  "resultats": {
+    "inscrits": 5240,
+    "votants": 2921,
+    "pct_votants": 55.74,
+    "abstentions": 2319,
+    "pct_abstentions": 44.26,
+    "exprimes": 2845
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ENSEMBLE, DIVION - VISION 2032",
+      "libelle_abrege_liste": "ENSEMBLE, DIVION - VISION 2032",
+      "nuance_liste": "LDVG",
+      "voix": 1284,
+      "pct_voix_exprimes": 45.13,
+      "sieges_cm": 21,
+      "sieges_cc": 2,
+      "nb_elus": 21,
+      "tete_de_liste": {
+        "nom": "LEMOINE",
+        "prenom": "Jacky",
+        "nom_complet": "Jacky LEMOINE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LEMOINE",
+          "prenom": "Jacky",
+          "nom_complet": "Jacky LEMOINE",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BLOCH",
+          "prenom": "Karine",
+          "nom_complet": "Karine BLOCH",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "COURTIN",
+          "prenom": "Lionel",
+          "nom_complet": "Lionel COURTIN",
+          "sexe": "M",
+          "age": 76,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DENEUFEGLISE",
+          "prenom": "Patricia",
+          "nom_complet": "Patricia DENEUFEGLISE",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "BAYART",
+          "prenom": "Pierre",
+          "nom_complet": "Pierre BAYART",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "RIGOBERT",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie RIGOBERT",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "HAINAUT",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent HAINAUT",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "CABARET",
+          "prenom": "Gaetane",
+          "nom_complet": "Gaetane CABARET",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "SISTEK",
+          "prenom": "Patrice",
+          "nom_complet": "Patrice SISTEK",
+          "sexe": "M",
+          "age": 74,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "BRUNELLE",
+          "prenom": "Sabine",
+          "nom_complet": "Sabine BRUNELLE",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "FLINOIS",
+          "prenom": "Rene",
+          "nom_complet": "Rene FLINOIS",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "DELATTRE",
+          "prenom": "Noemie",
+          "nom_complet": "Noemie DELATTRE",
+          "sexe": "F",
+          "age": 20,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "BLOCH",
+          "prenom": "Arnaud",
+          "nom_complet": "Arnaud BLOCH",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "DERNONCOURT",
+          "prenom": "Laure",
+          "nom_complet": "Laure DERNONCOURT",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "LAVEDRINE",
+          "prenom": "Romain",
+          "nom_complet": "Romain LAVEDRINE",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "VANQUELEF",
+          "prenom": "Corinne",
+          "nom_complet": "Corinne VANQUELEF",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "DUBOIS",
+          "prenom": "Didier",
+          "nom_complet": "Didier DUBOIS",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "ULATOWSKI",
+          "prenom": "Michele",
+          "nom_complet": "Michele ULATOWSKI",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "KASPEREK",
+          "prenom": "Thomas",
+          "nom_complet": "Thomas KASPEREK",
+          "sexe": "M",
+          "age": 25,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "CYBULSKI",
+          "prenom": "Rose-Marie",
+          "nom_complet": "Rose-Marie CYBULSKI",
+          "sexe": "F",
+          "age": 76,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "NOEUVEGLISE",
+          "prenom": "Sylvain",
+          "nom_complet": "Sylvain NOEUVEGLISE",
+          "sexe": "M",
+          "age": 33,
+          "rang_liste": "21"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "DIVION, VOTRE VISION",
+      "libelle_abrege_liste": "DIVION, VOTRE VISION",
+      "nuance_liste": "LRN",
+      "voix": 1002,
+      "pct_voix_exprimes": 35.22,
+      "sieges_cm": 5,
+      "sieges_cc": 1,
+      "nb_elus": 5,
+      "tete_de_liste": {
+        "nom": "RENAUT",
+        "prenom": "Cédric",
+        "nom_complet": "Cédric RENAUT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "RENAUT",
+          "prenom": "Cédric",
+          "nom_complet": "Cédric RENAUT",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BRIOIS",
+          "prenom": "Fanny",
+          "nom_complet": "Fanny BRIOIS",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "CARESMEL",
+          "prenom": "Jordan",
+          "nom_complet": "Jordan CARESMEL",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "GALLET",
+          "prenom": "Annie",
+          "nom_complet": "Annie GALLET",
+          "sexe": "F",
+          "age": 70,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "GOUILLART",
+          "prenom": "Jean-Luc",
+          "nom_complet": "Jean-Luc GOUILLART",
+          "sexe": "M",
+          "age": 75,
+          "rang_liste": "5"
+        }
+      ],
+      "statut_conseil": "autre"
+    },
+    {
+      "num_panneau": "4",
+      "libelle_liste": "DIVION POUR VOUS",
+      "libelle_abrege_liste": "DIVION POUR VOUS",
+      "nuance_liste": "LDVG",
+      "voix": 559,
+      "pct_voix_exprimes": 19.65,
+      "sieges_cm": 3,
+      "sieges_cc": 0,
+      "nb_elus": 3,
+      "tete_de_liste": {
+        "nom": "DELPLANQUE",
+        "prenom": "Emeline",
+        "nom_complet": "Emeline DELPLANQUE",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "DELPLANQUE",
+          "prenom": "Emeline",
+          "nom_complet": "Emeline DELPLANQUE",
+          "sexe": "F",
+          "age": 29,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BRIKI",
+          "prenom": "Abdel",
+          "nom_complet": "Abdel BRIKI",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DUPONT",
+          "prenom": "Christelle",
+          "nom_complet": "Christelle DUPONT",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "3"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

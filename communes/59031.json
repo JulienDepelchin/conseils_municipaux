@@ -1,0 +1,131 @@
+{
+  "code_commune": "59031",
+  "commune": "Audignies",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "BOURGOIS",
+    "prenom": "Henry-Louis",
+    "nom_complet": "Henry-Louis BOURGOIS",
+    "age": 53,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 293,
+    "votants": 152,
+    "pct_votants": 51.88,
+    "abstentions": 141,
+    "pct_abstentions": 48.12,
+    "exprimes": 141
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "AUDIGNIES, NOTRE VILLAGE",
+      "libelle_abrege_liste": "AUDIGNIES, NOTRE VILLAGE",
+      "nuance_liste": null,
+      "voix": 141,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "BOURGOIS",
+        "prenom": "Henry-Louis",
+        "nom_complet": "Henry-Louis BOURGOIS",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BOURGOIS",
+          "prenom": "Henry-Louis",
+          "nom_complet": "Henry-Louis BOURGOIS",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "ADAM",
+          "prenom": "Brigitte",
+          "nom_complet": "Brigitte ADAM",
+          "sexe": "F",
+          "age": 79,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BULAT",
+          "prenom": "Christian",
+          "nom_complet": "Christian BULAT",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "RENKIN",
+          "prenom": "Marjolaine",
+          "nom_complet": "Marjolaine RENKIN",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "PAINDAVOINE",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick PAINDAVOINE",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "CARTAPATTI",
+          "prenom": "Aurélie",
+          "nom_complet": "Aurélie CARTAPATTI",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "MOREAU",
+          "prenom": "Michaël",
+          "nom_complet": "Michaël MOREAU",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "BLAREAU",
+          "prenom": "Anne-Marie",
+          "nom_complet": "Anne-Marie BLAREAU",
+          "sexe": "F",
+          "age": 74,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "PAINCHART",
+          "prenom": "Alain",
+          "nom_complet": "Alain PAINCHART",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "LAVAQUERIE",
+          "prenom": "Jennifer",
+          "nom_complet": "Jennifer LAVAQUERIE",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DECOBERT",
+          "prenom": "Eric",
+          "nom_complet": "Eric DECOBERT",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

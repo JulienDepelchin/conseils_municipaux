@@ -1,0 +1,299 @@
+{
+  "code_commune": "62139",
+  "commune": "Blendecques",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "CAPITAINE",
+    "prenom": "David",
+    "nom_complet": "David CAPITAINE",
+    "age": 54,
+    "nuance": "LDVG"
+  },
+  "resultats": {
+    "inscrits": 3786,
+    "votants": 2571,
+    "pct_votants": 67.91,
+    "abstentions": 1215,
+    "pct_abstentions": 32.09,
+    "exprimes": 2527
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "Blendecques plus belle ma ville",
+      "libelle_abrege_liste": "Blendecques plus belle ma ville",
+      "nuance_liste": "LDVG",
+      "voix": 1612,
+      "pct_voix_exprimes": 63.79,
+      "sieges_cm": 23,
+      "sieges_cc": 4,
+      "nb_elus": 23,
+      "tete_de_liste": {
+        "nom": "CAPITAINE",
+        "prenom": "David",
+        "nom_complet": "David CAPITAINE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "CAPITAINE",
+          "prenom": "David",
+          "nom_complet": "David CAPITAINE",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LAMAL",
+          "prenom": "Michèle",
+          "nom_complet": "Michèle LAMAL",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DENQUIN",
+          "prenom": "David",
+          "nom_complet": "David DENQUIN",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "CARON",
+          "prenom": "Valérie",
+          "nom_complet": "Valérie CARON",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "HAVET",
+          "prenom": "Thierry",
+          "nom_complet": "Thierry HAVET",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "WIDENT-DOURLENS",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie WIDENT-DOURLENS",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "HUCHIN",
+          "prenom": "José",
+          "nom_complet": "José HUCHIN",
+          "sexe": "M",
+          "age": 75,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LEMAIRE COCQUET",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie LEMAIRE COCQUET",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "BERNARD",
+          "prenom": "Jérémie",
+          "nom_complet": "Jérémie BERNARD",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "LEICHT DELANNOY",
+          "prenom": "Catherine",
+          "nom_complet": "Catherine LEICHT DELANNOY",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "COUSIN",
+          "prenom": "Luc",
+          "nom_complet": "Luc COUSIN",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "DELRUE",
+          "prenom": "Sonia",
+          "nom_complet": "Sonia DELRUE",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "DUBOIS",
+          "prenom": "Gilles",
+          "nom_complet": "Gilles DUBOIS",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "BARBIEUX PRUVOST",
+          "prenom": "Emilie",
+          "nom_complet": "Emilie BARBIEUX PRUVOST",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "COZE WAROT",
+          "prenom": "Esteban",
+          "nom_complet": "Esteban COZE WAROT",
+          "sexe": "M",
+          "age": 20,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "BULTEL FASQUELLE",
+          "prenom": "Martine",
+          "nom_complet": "Martine BULTEL FASQUELLE",
+          "sexe": "F",
+          "age": 72,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "CHOINET",
+          "prenom": "Jean-Luc",
+          "nom_complet": "Jean-Luc CHOINET",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "CABARET",
+          "prenom": "Anne-Sophie",
+          "nom_complet": "Anne-Sophie CABARET",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "CASTELAIN",
+          "prenom": "Jordan",
+          "nom_complet": "Jordan CASTELAIN",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "LEMORT",
+          "prenom": "Samuelle",
+          "nom_complet": "Samuelle LEMORT",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "DAUCHY",
+          "prenom": "Mathieu",
+          "nom_complet": "Mathieu DAUCHY",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "CASTELEYN",
+          "prenom": "Lauriane",
+          "nom_complet": "Lauriane CASTELEYN",
+          "sexe": "F",
+          "age": 33,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "DETOUT",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal DETOUT",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "23"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Au Service de Blendecques, Aujourd'hui et Demain",
+      "libelle_abrege_liste": "Au Service de Blendecques, Aujourd'hui et Demain",
+      "nuance_liste": "LDVC",
+      "voix": 482,
+      "pct_voix_exprimes": 19.07,
+      "sieges_cm": 2,
+      "sieges_cc": 0,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "CASTELAIN",
+        "prenom": "Jean-Christophe",
+        "nom_complet": "Jean-Christophe CASTELAIN",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "CASTELAIN",
+          "prenom": "Jean-Christophe",
+          "nom_complet": "Jean-Christophe CASTELAIN",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BILLIET",
+          "prenom": "Alison",
+          "nom_complet": "Alison BILLIET",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    },
+    {
+      "num_panneau": "3",
+      "libelle_liste": "AU-DELÀ DE NOS DIFFÉRENCES, BLENDECQUES D'ABORD",
+      "libelle_abrege_liste": "AU-DELÀ DE NOS DIFFÉRENCES, BLENDECQUES D'ABORD",
+      "nuance_liste": "LDVC",
+      "voix": 433,
+      "pct_voix_exprimes": 17.13,
+      "sieges_cm": 2,
+      "sieges_cc": 0,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "IBOUANGA",
+        "prenom": "Florent",
+        "nom_complet": "Florent IBOUANGA",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "IBOUANGA",
+          "prenom": "Florent",
+          "nom_complet": "Florent IBOUANGA",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DEBRUYNE",
+          "prenom": "Lucie",
+          "nom_complet": "Lucie DEBRUYNE",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

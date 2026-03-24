@@ -1,0 +1,329 @@
+{
+  "code_commune": "59449",
+  "commune": "Orchies",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "ROHART",
+    "prenom": "Ludovic",
+    "nom_complet": "Ludovic ROHART",
+    "age": 55,
+    "nuance": "LDVC"
+  },
+  "resultats": {
+    "inscrits": 7269,
+    "votants": 4278,
+    "pct_votants": 58.85,
+    "abstentions": 2991,
+    "pct_abstentions": 41.15,
+    "exprimes": 4192
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "POUR ORCHIES NOTRE PASSION COMMUNE",
+      "libelle_abrege_liste": "POUR ORCHIES NOTRE PASSION COMMUNE",
+      "nuance_liste": "LDVC",
+      "voix": 2913,
+      "pct_voix_exprimes": 69.49,
+      "sieges_cm": 26,
+      "sieges_cc": 5,
+      "nb_elus": 26,
+      "tete_de_liste": {
+        "nom": "ROHART",
+        "prenom": "Ludovic",
+        "nom_complet": "Ludovic ROHART",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "ROHART",
+          "prenom": "Ludovic",
+          "nom_complet": "Ludovic ROHART",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "GABRYELEWICZ",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie GABRYELEWICZ",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DUPUIS",
+          "prenom": "Marc",
+          "nom_complet": "Marc DUPUIS",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "GUÉNOT",
+          "prenom": "Carine",
+          "nom_complet": "Carine GUÉNOT",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "FRÉMAUT",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick FRÉMAUT",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DORCHIES",
+          "prenom": "Mady",
+          "nom_complet": "Mady DORCHIES",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "LARTISIEN",
+          "prenom": "Adrien",
+          "nom_complet": "Adrien LARTISIEN",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "FOUCART",
+          "prenom": "Lise",
+          "nom_complet": "Lise FOUCART",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "ACHIN",
+          "prenom": "David",
+          "nom_complet": "David ACHIN",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "MASSON",
+          "prenom": "Marie-Josée",
+          "nom_complet": "Marie-Josée MASSON",
+          "sexe": "F",
+          "age": 72,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "HENNON",
+          "prenom": "Sébastien",
+          "nom_complet": "Sébastien HENNON",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "MILLET",
+          "prenom": "Audrey",
+          "nom_complet": "Audrey MILLET",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "DEMULIER",
+          "prenom": "Cécil",
+          "nom_complet": "Cécil DEMULIER",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "DUPUIS",
+          "prenom": "Cécile",
+          "nom_complet": "Cécile DUPUIS",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "DERVAUX",
+          "prenom": "Jérôme",
+          "nom_complet": "Jérôme DERVAUX",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "WATTEAU",
+          "prenom": "Allison",
+          "nom_complet": "Allison WATTEAU",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "D'HERBOMEZ",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier D'HERBOMEZ",
+          "sexe": "M",
+          "age": 21,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "BLIN",
+          "prenom": "Céline",
+          "nom_complet": "Céline BLIN",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "THOMAS",
+          "prenom": "Régis",
+          "nom_complet": "Régis THOMAS",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "GAVIGNET-DELARUE",
+          "prenom": "Camille",
+          "nom_complet": "Camille GAVIGNET-DELARUE",
+          "sexe": "F",
+          "age": 33,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "DERACHE",
+          "prenom": "Guy",
+          "nom_complet": "Guy DERACHE",
+          "sexe": "M",
+          "age": 79,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "PIERKOT",
+          "prenom": "Fabienne",
+          "nom_complet": "Fabienne PIERKOT",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "DEWEZ",
+          "prenom": "Éric",
+          "nom_complet": "Éric DEWEZ",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "23"
+        },
+        {
+          "nom": "DI DIO CONSTANZO",
+          "prenom": "Leïla",
+          "nom_complet": "Leïla DI DIO CONSTANZO",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "24"
+        },
+        {
+          "nom": "DELANNOY",
+          "prenom": "Éric",
+          "nom_complet": "Éric DELANNOY",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "25"
+        },
+        {
+          "nom": "JONCKHEERE",
+          "prenom": "Chantal",
+          "nom_complet": "Chantal JONCKHEERE",
+          "sexe": "F",
+          "age": 73,
+          "rang_liste": "26"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Liste citoyenne Orchies 2026",
+      "libelle_abrege_liste": "Liste citoyenne Orchies 2026",
+      "nuance_liste": "LDVD",
+      "voix": 687,
+      "pct_voix_exprimes": 16.39,
+      "sieges_cm": 2,
+      "sieges_cc": 0,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "BLEUZET",
+        "prenom": "Jean-Pierre",
+        "nom_complet": "Jean-Pierre BLEUZET",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BLEUZET",
+          "prenom": "Jean-Pierre",
+          "nom_complet": "Jean-Pierre BLEUZET",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DEBERDT",
+          "prenom": "Anne-Sophie",
+          "nom_complet": "Anne-Sophie DEBERDT",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    },
+    {
+      "num_panneau": "3",
+      "libelle_liste": "Orchies, dynamique et vivante",
+      "libelle_abrege_liste": "Orchies, dynamique et vivante",
+      "nuance_liste": "LUG",
+      "voix": 503,
+      "pct_voix_exprimes": 12,
+      "sieges_cm": 1,
+      "sieges_cc": 0,
+      "nb_elus": 1,
+      "tete_de_liste": {
+        "nom": "CAUVIN",
+        "prenom": "Matthieu",
+        "nom_complet": "Matthieu CAUVIN",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "CAUVIN",
+          "prenom": "Matthieu",
+          "nom_complet": "Matthieu CAUVIN",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "1"
+        }
+      ],
+      "statut_conseil": "autre"
+    },
+    {
+      "num_panneau": "4",
+      "libelle_liste": "LUTTE OUVRIERE - LE CAMP DES TRAVAILLEURS",
+      "libelle_abrege_liste": "LUTTE OUVRIERE - LE CAMP DES TRAVAILLEURS",
+      "nuance_liste": "LEXG",
+      "voix": 89,
+      "pct_voix_exprimes": 2.12,
+      "sieges_cm": 0,
+      "sieges_cc": 0,
+      "nb_elus": 0,
+      "tete_de_liste": null,
+      "elus": [],
+      "statut_conseil": "sans_elu"
+    }
+  ]
+}

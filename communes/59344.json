@@ -1,0 +1,195 @@
+{
+  "code_commune": "59344",
+  "commune": "Leval",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "THURETTE",
+    "prenom": "Jacques",
+    "nom_complet": "Jacques THURETTE",
+    "age": 64,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1800,
+    "votants": 886,
+    "pct_votants": 49.22,
+    "abstentions": 914,
+    "pct_abstentions": 50.78,
+    "exprimes": 824
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "AVEC VOUS POUR LEVAL",
+      "libelle_abrege_liste": "AVEC VOUS POUR LEVAL",
+      "nuance_liste": null,
+      "voix": 824,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 19,
+      "sieges_cc": 1,
+      "nb_elus": 19,
+      "tete_de_liste": {
+        "nom": "THURETTE",
+        "prenom": "Jacques",
+        "nom_complet": "Jacques THURETTE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "THURETTE",
+          "prenom": "Jacques",
+          "nom_complet": "Jacques THURETTE",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "VANGHERSDAELE",
+          "prenom": "Céline",
+          "nom_complet": "Céline VANGHERSDAELE",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "GASNOT",
+          "prenom": "Jean-Michel",
+          "nom_complet": "Jean-Michel GASNOT",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "POUILLY",
+          "prenom": "Christelle",
+          "nom_complet": "Christelle POUILLY",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "MERLANT",
+          "prenom": "Jean-Yves",
+          "nom_complet": "Jean-Yves MERLANT",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "BILLOIR",
+          "prenom": "Angélique",
+          "nom_complet": "Angélique BILLOIR",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "KUBIESA",
+          "prenom": "David",
+          "nom_complet": "David KUBIESA",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "CROIX",
+          "prenom": "Chrystelle",
+          "nom_complet": "Chrystelle CROIX",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "LAJOIE",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe LAJOIE",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "HOTTELET",
+          "prenom": "Françoise",
+          "nom_complet": "Françoise HOTTELET",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "LEBOIS",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe LEBOIS",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "HUSSON",
+          "prenom": "Flore",
+          "nom_complet": "Flore HUSSON",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "MERLANT",
+          "prenom": "Jean-Pierre",
+          "nom_complet": "Jean-Pierre MERLANT",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "TRANCART",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie TRANCART",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "GY",
+          "prenom": "Jean-Marc",
+          "nom_complet": "Jean-Marc GY",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "SOUFFLET",
+          "prenom": "Annie",
+          "nom_complet": "Annie SOUFFLET",
+          "sexe": "F",
+          "age": 70,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "BAILLON",
+          "prenom": "Franck",
+          "nom_complet": "Franck BAILLON",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "CAUDRELIER",
+          "prenom": "Alexandra",
+          "nom_complet": "Alexandra CAUDRELIER",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "FRANCESCHI",
+          "prenom": "Renato",
+          "nom_complet": "Renato FRANCESCHI",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "19"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "code_commune": "59577",
+  "commune": "Staple",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "DELATTRE",
+    "prenom": "Bérengère",
+    "nom_complet": "Bérengère DELATTRE",
+    "age": 48,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 559,
+    "votants": 339,
+    "pct_votants": 60.64,
+    "abstentions": 220,
+    "pct_abstentions": 39.36,
+    "exprimes": 283
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "BIEN VIVRE A STAPLE",
+      "libelle_abrege_liste": "BVAS",
+      "nuance_liste": null,
+      "voix": 283,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "DELATTRE",
+        "prenom": "Bérengère",
+        "nom_complet": "Bérengère DELATTRE",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "DELATTRE",
+          "prenom": "Bérengère",
+          "nom_complet": "Bérengère DELATTRE",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DULONGCOURTY",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric DULONGCOURTY",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DEMOL",
+          "prenom": "Bénédicte",
+          "nom_complet": "Bénédicte DEMOL",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "VANDERBEKEN",
+          "prenom": "Thierry",
+          "nom_complet": "Thierry VANDERBEKEN",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "BARET",
+          "prenom": "Cindy",
+          "nom_complet": "Cindy BARET",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DA PONTE",
+          "prenom": "Narciso",
+          "nom_complet": "Narciso DA PONTE",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DUTHOIT",
+          "prenom": "Armelle",
+          "nom_complet": "Armelle DUTHOIT",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "VERHILLE",
+          "prenom": "Rémi",
+          "nom_complet": "Rémi VERHILLE",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "SALOMON-CLÉTON",
+          "prenom": "Mariecke",
+          "nom_complet": "Mariecke SALOMON-CLÉTON",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "LEFEBVRE",
+          "prenom": "Sylvain",
+          "nom_complet": "Sylvain LEFEBVRE",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DELAVAL",
+          "prenom": "Mélanie",
+          "nom_complet": "Mélanie DELAVAL",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "MAECKEREEL",
+          "prenom": "Julien",
+          "nom_complet": "Julien MAECKEREEL",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "LOOTEN",
+          "prenom": "Aurélie",
+          "nom_complet": "Aurélie LOOTEN",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "GRESSIER",
+          "prenom": "Antoine",
+          "nom_complet": "Antoine GRESSIER",
+          "sexe": "M",
+          "age": 34,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "TIMMERMAN",
+          "prenom": "Marie-Laure",
+          "nom_complet": "Marie-Laure TIMMERMAN",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

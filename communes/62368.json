@@ -1,0 +1,131 @@
+{
+  "code_commune": "62368",
+  "commune": "Gaudiempré",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "DELAPORTE",
+    "prenom": "Luc",
+    "nom_complet": "Luc DELAPORTE",
+    "age": 70,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 146,
+    "votants": 102,
+    "pct_votants": 69.86,
+    "abstentions": 44,
+    "pct_abstentions": 30.14,
+    "exprimes": 77
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Liste menée par DELAPORTE Luc",
+      "libelle_abrege_liste": "Liste menée par DELAPORTE Luc",
+      "nuance_liste": null,
+      "voix": 77,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "DELAPORTE",
+        "prenom": "Luc",
+        "nom_complet": "Luc DELAPORTE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DELAPORTE",
+          "prenom": "Luc",
+          "nom_complet": "Luc DELAPORTE",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "CAMUS",
+          "prenom": "Francine",
+          "nom_complet": "Francine CAMUS",
+          "sexe": "F",
+          "age": 72,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DEPREZ",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe DEPREZ",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DEVAUX",
+          "prenom": "Elisabeth",
+          "nom_complet": "Elisabeth DEVAUX",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "NUYTTENS",
+          "prenom": "Pierre",
+          "nom_complet": "Pierre NUYTTENS",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "PIERROT",
+          "prenom": "Nadine",
+          "nom_complet": "Nadine PIERROT",
+          "sexe": "F",
+          "age": 70,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "CAILLIERET",
+          "prenom": "Eugène",
+          "nom_complet": "Eugène CAILLIERET",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DAMBREVILLE",
+          "prenom": "Marie-Hélène",
+          "nom_complet": "Marie-Hélène DAMBREVILLE",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "ROHRBACHER",
+          "prenom": "Yann",
+          "nom_complet": "Yann ROHRBACHER",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DENEUVILLE",
+          "prenom": "Camille",
+          "nom_complet": "Camille DENEUVILLE",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "MERVILLE",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick MERVILLE",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

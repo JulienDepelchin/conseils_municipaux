@@ -1,0 +1,131 @@
+{
+  "code_commune": "62629",
+  "commune": "Noyellette",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "LARIVIERE",
+    "prenom": "Anne-Sophie",
+    "nom_complet": "Anne-Sophie LARIVIERE",
+    "age": 46,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 127,
+    "votants": 98,
+    "pct_votants": 77.17,
+    "abstentions": 29,
+    "pct_abstentions": 22.83,
+    "exprimes": 72
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Ensemble pour NOYELETTE",
+      "libelle_abrege_liste": "Ensemble pour NOYELETTE",
+      "nuance_liste": null,
+      "voix": 72,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "LARIVIERE",
+        "prenom": "Anne-Sophie",
+        "nom_complet": "Anne-Sophie LARIVIERE",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "LARIVIERE",
+          "prenom": "Anne-Sophie",
+          "nom_complet": "Anne-Sophie LARIVIERE",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "COLLIEZ",
+          "prenom": "Guillaume",
+          "nom_complet": "Guillaume COLLIEZ",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BOLIN",
+          "prenom": "Maryline",
+          "nom_complet": "Maryline BOLIN",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DOMANIECKI",
+          "prenom": "Antoine",
+          "nom_complet": "Antoine DOMANIECKI",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "GOURLANT",
+          "prenom": "Elisabeth",
+          "nom_complet": "Elisabeth GOURLANT",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "PEZZA",
+          "prenom": "Nicola",
+          "nom_complet": "Nicola PEZZA",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "SZUBA",
+          "prenom": "Renata",
+          "nom_complet": "Renata SZUBA",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DELANOY",
+          "prenom": "Lucien",
+          "nom_complet": "Lucien DELANOY",
+          "sexe": "M",
+          "age": 75,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "COUPPÉ",
+          "prenom": "Aurore",
+          "nom_complet": "Aurore COUPPÉ",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "REYMBAUT",
+          "prenom": "Jérèmy",
+          "nom_complet": "Jérèmy REYMBAUT",
+          "sexe": "M",
+          "age": 30,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "LALET",
+          "prenom": "Marie Thérèse",
+          "nom_complet": "Marie Thérèse LALET",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

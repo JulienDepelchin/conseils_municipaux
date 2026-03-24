@@ -1,0 +1,131 @@
+{
+  "code_commune": "62465",
+  "commune": "Humbercamps",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "VERDEL",
+    "prenom": "Dominique",
+    "nom_complet": "Dominique VERDEL",
+    "age": 63,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 195,
+    "votants": 122,
+    "pct_votants": 62.56,
+    "abstentions": 73,
+    "pct_abstentions": 37.44,
+    "exprimes": 100
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Liste de défense des intérêts communaux",
+      "libelle_abrege_liste": "Liste de défense des intérêts communaux",
+      "nuance_liste": null,
+      "voix": 100,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "VERDEL",
+        "prenom": "Dominique",
+        "nom_complet": "Dominique VERDEL",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "VERDEL",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique VERDEL",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "MOODY",
+          "prenom": "Shirley",
+          "nom_complet": "Shirley MOODY",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DEFOSSEUX",
+          "prenom": "Romain",
+          "nom_complet": "Romain DEFOSSEUX",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "RADENNE",
+          "prenom": "Monique",
+          "nom_complet": "Monique RADENNE",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LANCIAL",
+          "prenom": "Fabrice",
+          "nom_complet": "Fabrice LANCIAL",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "TEMPEZ",
+          "prenom": "Catherine",
+          "nom_complet": "Catherine TEMPEZ",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "LARDEMELLE",
+          "prenom": "Frederic",
+          "nom_complet": "Frederic LARDEMELLE",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "VERDEL",
+          "prenom": "Brigitte",
+          "nom_complet": "Brigitte VERDEL",
+          "sexe": "F",
+          "age": 70,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "TEMPEZ",
+          "prenom": "Jérémy",
+          "nom_complet": "Jérémy TEMPEZ",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "LETURGEZ",
+          "prenom": "Evelyne",
+          "nom_complet": "Evelyne LETURGEZ",
+          "sexe": "F",
+          "age": 76,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "GARBÉ",
+          "prenom": "Hugo",
+          "nom_complet": "Hugo GARBÉ",
+          "sexe": "M",
+          "age": 23,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

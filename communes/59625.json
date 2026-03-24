@@ -1,0 +1,131 @@
+{
+  "code_commune": "59625",
+  "commune": "Villers-Plouich",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "PARMENTIER",
+    "prenom": "Sandrine",
+    "nom_complet": "Sandrine PARMENTIER",
+    "age": 61,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 293,
+    "votants": 163,
+    "pct_votants": 55.63,
+    "abstentions": 130,
+    "pct_abstentions": 44.37,
+    "exprimes": 137
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "BIEN VIVRE A VILLERS-PLOUICH",
+      "libelle_abrege_liste": "BIEN VIVRE A VILLERS-PLOUICH",
+      "nuance_liste": null,
+      "voix": 137,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "PARMENTIER",
+        "prenom": "Sandrine",
+        "nom_complet": "Sandrine PARMENTIER",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "PARMENTIER",
+          "prenom": "Sandrine",
+          "nom_complet": "Sandrine PARMENTIER",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BRUNIAUX",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal BRUNIAUX",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "ROBERT",
+          "prenom": "Claire",
+          "nom_complet": "Claire ROBERT",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "THOMAS",
+          "prenom": "Jean-Pierre",
+          "nom_complet": "Jean-Pierre THOMAS",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "FAREZ",
+          "prenom": "Pauline",
+          "nom_complet": "Pauline FAREZ",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "GOSSELET",
+          "prenom": "Damien",
+          "nom_complet": "Damien GOSSELET",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "RACKELBOOM",
+          "prenom": "Aline",
+          "nom_complet": "Aline RACKELBOOM",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "BRUHIER",
+          "prenom": "Jules",
+          "nom_complet": "Jules BRUHIER",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DEVAUX",
+          "prenom": "Maryline",
+          "nom_complet": "Maryline DEVAUX",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "PETIT",
+          "prenom": "Antoine",
+          "nom_complet": "Antoine PETIT",
+          "sexe": "M",
+          "age": 31,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "MARIVOET",
+          "prenom": "Françoise",
+          "nom_complet": "Françoise MARIVOET",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

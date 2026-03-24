@@ -1,0 +1,183 @@
+{
+  "code_commune": "62078",
+  "commune": "Balinghem",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "PICQUET",
+    "prenom": "Nicolas",
+    "nom_complet": "Nicolas PICQUET",
+    "age": 49,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 938,
+    "votants": 663,
+    "pct_votants": 70.68,
+    "abstentions": 275,
+    "pct_abstentions": 29.32,
+    "exprimes": 639
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "BALINGHEM, UNE ÉQUIPE  ENGAGÉE, UN AVENIR PARTAGÉ",
+      "libelle_abrege_liste": "BALINGHEM, UNE ÉQUIPE  ENGAGÉE, UN AVENIR PARTAGÉ",
+      "nuance_liste": null,
+      "voix": 488,
+      "pct_voix_exprimes": 76.37,
+      "sieges_cm": 14,
+      "sieges_cc": 2,
+      "nb_elus": 14,
+      "tete_de_liste": {
+        "nom": "PICQUET",
+        "prenom": "Nicolas",
+        "nom_complet": "Nicolas PICQUET",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "PICQUET",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas PICQUET",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LEPRINCE FOUBERT",
+          "prenom": "Sandrine",
+          "nom_complet": "Sandrine LEPRINCE FOUBERT",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BRACHET",
+          "prenom": "Paul",
+          "nom_complet": "Paul BRACHET",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BUCHE KREMER",
+          "prenom": "Clairette",
+          "nom_complet": "Clairette BUCHE KREMER",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "GOIDIN",
+          "prenom": "Sébastien",
+          "nom_complet": "Sébastien GOIDIN",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "COENS",
+          "prenom": "Carine",
+          "nom_complet": "Carine COENS",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "TRISTRAM",
+          "prenom": "Jordan",
+          "nom_complet": "Jordan TRISTRAM",
+          "sexe": "M",
+          "age": 33,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LECOCQ DEMILLY",
+          "prenom": "Dorothée",
+          "nom_complet": "Dorothée LECOCQ DEMILLY",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "COCQUET",
+          "prenom": "Bertrand",
+          "nom_complet": "Bertrand COCQUET",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "BALLY DROUETTE",
+          "prenom": "Laurence",
+          "nom_complet": "Laurence BALLY DROUETTE",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DALIBON",
+          "prenom": "Yves",
+          "nom_complet": "Yves DALIBON",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "TRISTRAM BEAUGRAND",
+          "prenom": "Agnèla",
+          "nom_complet": "Agnèla TRISTRAM BEAUGRAND",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "TERRIER",
+          "prenom": "Fabrice",
+          "nom_complet": "Fabrice TERRIER",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "DELABI DUBOIS",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie DELABI DUBOIS",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "14"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "Tous ensemble pour Balinghem",
+      "libelle_abrege_liste": "Tous ensemble pour Balinghem",
+      "nuance_liste": null,
+      "voix": 151,
+      "pct_voix_exprimes": 23.63,
+      "sieges_cm": 1,
+      "sieges_cc": 0,
+      "nb_elus": 1,
+      "tete_de_liste": {
+        "nom": "LEVAVASSEUR",
+        "prenom": "Eric",
+        "nom_complet": "Eric LEVAVASSEUR",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LEVAVASSEUR",
+          "prenom": "Eric",
+          "nom_complet": "Eric LEVAVASSEUR",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "1"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "code_commune": "62278",
+  "commune": "Drouvin-le-Marais",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "BACQUET",
+    "prenom": "Alain",
+    "nom_complet": "Alain BACQUET",
+    "age": 63,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 516,
+    "votants": 281,
+    "pct_votants": 54.46,
+    "abstentions": 235,
+    "pct_abstentions": 45.54,
+    "exprimes": 241
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "DROUVIN LE MARAIS : VOS IDÉES, NOS CHANTIERS, UN AVENIR PARTAGÉ",
+      "libelle_abrege_liste": "DROUVIN LE MARAIS : VOS IDÉES, NOS CHANTIERS, UN AVENIR PARTAGÉ",
+      "nuance_liste": null,
+      "voix": 241,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "BACQUET",
+        "prenom": "Alain",
+        "nom_complet": "Alain BACQUET",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BACQUET",
+          "prenom": "Alain",
+          "nom_complet": "Alain BACQUET",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DECOURCELLE",
+          "prenom": "Astrid",
+          "nom_complet": "Astrid DECOURCELLE",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DELMAIRE",
+          "prenom": "Gérald",
+          "nom_complet": "Gérald DELMAIRE",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DECOURCELLE",
+          "prenom": "Catherine",
+          "nom_complet": "Catherine DECOURCELLE",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "FOUCART",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric FOUCART",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DELEMARRE",
+          "prenom": "Jocelyne",
+          "nom_complet": "Jocelyne DELEMARRE",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "JAKOBCZYK",
+          "prenom": "Alexandre",
+          "nom_complet": "Alexandre JAKOBCZYK",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "GIEZEK",
+          "prenom": "Marie-Christine",
+          "nom_complet": "Marie-Christine GIEZEK",
+          "sexe": "F",
+          "age": 71,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "LOMBART",
+          "prenom": "Daniel",
+          "nom_complet": "Daniel LOMBART",
+          "sexe": "M",
+          "age": 77,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "GIEZEK",
+          "prenom": "Michèle",
+          "nom_complet": "Michèle GIEZEK",
+          "sexe": "F",
+          "age": 70,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "QUINT",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe QUINT",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "GILBERT VANDEVELDE",
+          "prenom": "Séverine",
+          "nom_complet": "Séverine GILBERT VANDEVELDE",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "VALEMBOIS",
+          "prenom": "Vincent",
+          "nom_complet": "Vincent VALEMBOIS",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "WATTIER",
+          "prenom": "Valérie",
+          "nom_complet": "Valérie WATTIER",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "WESOLEK",
+          "prenom": "Gérald",
+          "nom_complet": "Gérald WESOLEK",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

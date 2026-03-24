@@ -1,0 +1,131 @@
+{
+  "code_commune": "62837",
+  "commune": "Vaudringhem",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "VASSEUR",
+    "prenom": "Dany",
+    "nom_complet": "Dany VASSEUR",
+    "age": 54,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 381,
+    "votants": 283,
+    "pct_votants": 74.28,
+    "abstentions": 98,
+    "pct_abstentions": 25.72,
+    "exprimes": 225
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ENSEMBLE POUR VAUDRINGHEM",
+      "libelle_abrege_liste": "ENSEMBLE POUR VAUDRINGHEM",
+      "nuance_liste": null,
+      "voix": 225,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "VASSEUR",
+        "prenom": "Dany",
+        "nom_complet": "Dany VASSEUR",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "VASSEUR",
+          "prenom": "Dany",
+          "nom_complet": "Dany VASSEUR",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LEMAIRE",
+          "prenom": "Anne",
+          "nom_complet": "Anne LEMAIRE",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "VASSEUR",
+          "prenom": "Eric",
+          "nom_complet": "Eric VASSEUR",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "VASSEUR",
+          "prenom": "Muriel",
+          "nom_complet": "Muriel VASSEUR",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DEREU",
+          "prenom": "Michel",
+          "nom_complet": "Michel DEREU",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "WEPIERRE",
+          "prenom": "Delphine",
+          "nom_complet": "Delphine WEPIERRE",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DUFOUR",
+          "prenom": "Freddy",
+          "nom_complet": "Freddy DUFOUR",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "SOURDEVAL",
+          "prenom": "Justine",
+          "nom_complet": "Justine SOURDEVAL",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DEBROUCKER",
+          "prenom": "Gilles",
+          "nom_complet": "Gilles DEBROUCKER",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "HOIN",
+          "prenom": "Lise",
+          "nom_complet": "Lise HOIN",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "EVRARD",
+          "prenom": "Julien",
+          "nom_complet": "Julien EVRARD",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "code_commune": "62285",
+  "commune": "Ecoust-Saint-Mein",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "HOUPLAIN",
+    "prenom": "Olivier",
+    "nom_complet": "Olivier HOUPLAIN",
+    "age": 50,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 374,
+    "votants": 252,
+    "pct_votants": 67.38,
+    "abstentions": 122,
+    "pct_abstentions": 32.62,
+    "exprimes": 209
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Ensemble pour Ecoust 2026",
+      "libelle_abrege_liste": "Ensemble pour Ecoust 2026",
+      "nuance_liste": null,
+      "voix": 209,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "HOUPLAIN",
+        "prenom": "Olivier",
+        "nom_complet": "Olivier HOUPLAIN",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "HOUPLAIN",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier HOUPLAIN",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "ROYON",
+          "prenom": "Marie-Christelle",
+          "nom_complet": "Marie-Christelle ROYON",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "PETOUILLAT",
+          "prenom": "Fabrice",
+          "nom_complet": "Fabrice PETOUILLAT",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "ROUVILLAIN",
+          "prenom": "Julie",
+          "nom_complet": "Julie ROUVILLAIN",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DE GAVRE",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas DE GAVRE",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "CAMIER",
+          "prenom": "Emilie",
+          "nom_complet": "Emilie CAMIER",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "TANTART",
+          "prenom": "Eric",
+          "nom_complet": "Eric TANTART",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "MOREL",
+          "prenom": "Angélique",
+          "nom_complet": "Angélique MOREL",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DERAY",
+          "prenom": "Alain",
+          "nom_complet": "Alain DERAY",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DEMEY",
+          "prenom": "Céline",
+          "nom_complet": "Céline DEMEY",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "LECLAIRE",
+          "prenom": "David",
+          "nom_complet": "David LECLAIRE",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

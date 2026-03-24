@@ -1,0 +1,99 @@
+{
+  "code_commune": "62129",
+  "commune": "Biefvillers-lès-Bapaume",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "THIEBAUT",
+    "prenom": "Véronique",
+    "nom_complet": "Véronique THIEBAUT",
+    "age": 66,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 70,
+    "votants": 56,
+    "pct_votants": 80,
+    "abstentions": 14,
+    "pct_abstentions": 20,
+    "exprimes": 49
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ENSEMBLE POUR BIEFVILLERS",
+      "libelle_abrege_liste": "ENSEMBLE POUR BIEFVILLERS",
+      "nuance_liste": null,
+      "voix": 49,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 7,
+      "sieges_cc": null,
+      "nb_elus": 7,
+      "tete_de_liste": {
+        "nom": "THIEBAUT",
+        "prenom": "Véronique",
+        "nom_complet": "Véronique THIEBAUT",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "THIEBAUT",
+          "prenom": "Véronique",
+          "nom_complet": "Véronique THIEBAUT",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "SUDOLSKI",
+          "prenom": "Michel",
+          "nom_complet": "Michel SUDOLSKI",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "MADRZYK",
+          "prenom": "Eva",
+          "nom_complet": "Eva MADRZYK",
+          "sexe": "F",
+          "age": 78,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BACQUET",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno BACQUET",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "AMMEUX",
+          "prenom": "Marion",
+          "nom_complet": "Marion AMMEUX",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DETANT",
+          "prenom": "Ludovic",
+          "nom_complet": "Ludovic DETANT",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "CNOCKAERT",
+          "prenom": "Catherine",
+          "nom_complet": "Catherine CNOCKAERT",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "7"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

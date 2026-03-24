@@ -1,0 +1,131 @@
+{
+  "code_commune": "62485",
+  "commune": "Laires",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "LAGACHE",
+    "prenom": "Eric",
+    "nom_complet": "Eric LAGACHE",
+    "age": 64,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 245,
+    "votants": 177,
+    "pct_votants": 72.24,
+    "abstentions": 68,
+    "pct_abstentions": 27.76,
+    "exprimes": 134
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "\"Une nouvelle équipe qui s'engage pour notre village\"",
+      "libelle_abrege_liste": "\"Une nouvelle équipe qui s'engage pour notre village\"",
+      "nuance_liste": null,
+      "voix": 134,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "LAGACHE",
+        "prenom": "Eric",
+        "nom_complet": "Eric LAGACHE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LAGACHE",
+          "prenom": "Eric",
+          "nom_complet": "Eric LAGACHE",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "RHODON",
+          "prenom": "Amélie",
+          "nom_complet": "Amélie RHODON",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DUFOUR",
+          "prenom": "Guillaume",
+          "nom_complet": "Guillaume DUFOUR",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "HUCHIN",
+          "prenom": "Karine",
+          "nom_complet": "Karine HUCHIN",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DELATTRE",
+          "prenom": "Jean-Gabriel",
+          "nom_complet": "Jean-Gabriel DELATTRE",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "MASSENOT",
+          "prenom": "Aurélie",
+          "nom_complet": "Aurélie MASSENOT",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "ANDRE",
+          "prenom": "Christopher",
+          "nom_complet": "Christopher ANDRE",
+          "sexe": "M",
+          "age": 29,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "PINOT",
+          "prenom": "Elodie",
+          "nom_complet": "Elodie PINOT",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "RAMBERT",
+          "prenom": "Jérémie",
+          "nom_complet": "Jérémie RAMBERT",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DE BOSSCHER",
+          "prenom": "Olivia",
+          "nom_complet": "Olivia DE BOSSCHER",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "BREBION",
+          "prenom": "Thierry",
+          "nom_complet": "Thierry BREBION",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

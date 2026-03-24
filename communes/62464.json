@@ -1,0 +1,227 @@
+{
+  "code_commune": "62464",
+  "commune": "Hulluch",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "KUCHCINSKI",
+    "prenom": "André",
+    "nom_complet": "André KUCHCINSKI",
+    "age": 68,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 2708,
+    "votants": 1312,
+    "pct_votants": 48.45,
+    "abstentions": 1396,
+    "pct_abstentions": 51.55,
+    "exprimes": 1215
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "LISTE DE DEFENSE DES INTERETS COMMUNAUX",
+      "libelle_abrege_liste": "LISTE DE DEFENSE DES INTERETS COMMUNAUX",
+      "nuance_liste": null,
+      "voix": 1215,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 23,
+      "sieges_cc": 2,
+      "nb_elus": 23,
+      "tete_de_liste": {
+        "nom": "KUCHCINSKI",
+        "prenom": "André",
+        "nom_complet": "André KUCHCINSKI",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "KUCHCINSKI",
+          "prenom": "André",
+          "nom_complet": "André KUCHCINSKI",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DUFOUR",
+          "prenom": "Violette",
+          "nom_complet": "Violette DUFOUR",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "PINHEIRO",
+          "prenom": "Hervé",
+          "nom_complet": "Hervé PINHEIRO",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "PECQUEUX",
+          "prenom": "Evelyne",
+          "nom_complet": "Evelyne PECQUEUX",
+          "sexe": "F",
+          "age": 70,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DALLE",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe DALLE",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "VERCLEYEN",
+          "prenom": "Laurence",
+          "nom_complet": "Laurence VERCLEYEN",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "FEVRIER",
+          "prenom": "Stéphane",
+          "nom_complet": "Stéphane FEVRIER",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "HERFAUT",
+          "prenom": "Corinne",
+          "nom_complet": "Corinne HERFAUT",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "KOZAK",
+          "prenom": "Eric",
+          "nom_complet": "Eric KOZAK",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "ROGER-VALENTINI",
+          "prenom": "Sylvana",
+          "nom_complet": "Sylvana ROGER-VALENTINI",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "LEGRIN",
+          "prenom": "Alain",
+          "nom_complet": "Alain LEGRIN",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "PLATEL",
+          "prenom": "Anita",
+          "nom_complet": "Anita PLATEL",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "VANLANDE",
+          "prenom": "Gregory",
+          "nom_complet": "Gregory VANLANDE",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "DELRUE",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle DELRUE",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "PAUL",
+          "prenom": "Jeremie",
+          "nom_complet": "Jeremie PAUL",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "BROUX",
+          "prenom": "Marjorie",
+          "nom_complet": "Marjorie BROUX",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "PAVICH",
+          "prenom": "Michael",
+          "nom_complet": "Michael PAVICH",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "HOCHEDEZ",
+          "prenom": "Audrey",
+          "nom_complet": "Audrey HOCHEDEZ",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "COMBLE",
+          "prenom": "Antoine",
+          "nom_complet": "Antoine COMBLE",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "PACKET-MALOLEPSZY",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie PACKET-MALOLEPSZY",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "ASSET",
+          "prenom": "Arnaud",
+          "nom_complet": "Arnaud ASSET",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "GUILBERT",
+          "prenom": "Virginie",
+          "nom_complet": "Virginie GUILBERT",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "EROUART",
+          "prenom": "Guillaume",
+          "nom_complet": "Guillaume EROUART",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "23"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

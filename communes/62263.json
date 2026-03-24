@@ -1,0 +1,295 @@
+{
+  "code_commune": "62263",
+  "commune": "Dainville",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "ROSSIGNOL",
+    "prenom": "Françoise",
+    "nom_complet": "Françoise ROSSIGNOL",
+    "age": 77,
+    "nuance": "LDVG"
+  },
+  "resultats": {
+    "inscrits": 4644,
+    "votants": 3189,
+    "pct_votants": 68.67,
+    "abstentions": 1455,
+    "pct_abstentions": 31.33,
+    "exprimes": 3070
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "Dainville, ensemble au quotidien",
+      "libelle_abrege_liste": "Dainville, ensemble au quotidien",
+      "nuance_liste": "LDVG",
+      "voix": 1783,
+      "pct_voix_exprimes": 58.08,
+      "sieges_cm": 23,
+      "sieges_cc": 3,
+      "nb_elus": 23,
+      "tete_de_liste": {
+        "nom": "ROSSIGNOL",
+        "prenom": "Françoise",
+        "nom_complet": "Françoise ROSSIGNOL",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "ROSSIGNOL",
+          "prenom": "Françoise",
+          "nom_complet": "Françoise ROSSIGNOL",
+          "sexe": "F",
+          "age": 77,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "PETIT",
+          "prenom": "David",
+          "nom_complet": "David PETIT",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "VERET",
+          "prenom": "Béatrice",
+          "nom_complet": "Béatrice VERET",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "QUANDALLE",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe QUANDALLE",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DUPAYAGE",
+          "prenom": "Laurence",
+          "nom_complet": "Laurence DUPAYAGE",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DOUCHÉ",
+          "prenom": "Jérôme",
+          "nom_complet": "Jérôme DOUCHÉ",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BONELLO",
+          "prenom": "Brigitte",
+          "nom_complet": "Brigitte BONELLO",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "RAVEZ",
+          "prenom": "Yannick",
+          "nom_complet": "Yannick RAVEZ",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "HAVET",
+          "prenom": "Maryline",
+          "nom_complet": "Maryline HAVET",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "CARLIER",
+          "prenom": "Maxime",
+          "nom_complet": "Maxime CARLIER",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "CAVÉ",
+          "prenom": "Michelle",
+          "nom_complet": "Michelle CAVÉ",
+          "sexe": "F",
+          "age": 74,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "DELPORTE",
+          "prenom": "Eric",
+          "nom_complet": "Eric DELPORTE",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "GLEIZES",
+          "prenom": "Aurélie",
+          "nom_complet": "Aurélie GLEIZES",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "MOLIN",
+          "prenom": "Christian",
+          "nom_complet": "Christian MOLIN",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "ARBINET",
+          "prenom": "Ludivine",
+          "nom_complet": "Ludivine ARBINET",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "LE BOT",
+          "prenom": "Thierry",
+          "nom_complet": "Thierry LE BOT",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "FATOUS",
+          "prenom": "Amandine",
+          "nom_complet": "Amandine FATOUS",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "ACCART",
+          "prenom": "Michael",
+          "nom_complet": "Michael ACCART",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "FAFINSKI",
+          "prenom": "Caroline",
+          "nom_complet": "Caroline FAFINSKI",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "LEFEBVRE",
+          "prenom": "Quentin",
+          "nom_complet": "Quentin LEFEBVRE",
+          "sexe": "M",
+          "age": 27,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "CHALON",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique CHALON",
+          "sexe": "F",
+          "age": 70,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "SARAIVA",
+          "prenom": "Maxime",
+          "nom_complet": "Maxime SARAIVA",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "MUSTIN",
+          "prenom": "Pascale",
+          "nom_complet": "Pascale MUSTIN",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "23"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Dainville Autrement",
+      "libelle_abrege_liste": "Dainville Autrement",
+      "nuance_liste": "LDVG",
+      "voix": 1287,
+      "pct_voix_exprimes": 41.92,
+      "sieges_cm": 6,
+      "sieges_cc": 1,
+      "nb_elus": 6,
+      "tete_de_liste": {
+        "nom": "DELCROIX",
+        "prenom": "Marcel",
+        "nom_complet": "Marcel DELCROIX",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DELCROIX",
+          "prenom": "Marcel",
+          "nom_complet": "Marcel DELCROIX",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "CAILLERETZ",
+          "prenom": "Virginie",
+          "nom_complet": "Virginie CAILLERETZ",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BOULET",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique BOULET",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DE CALMÈS",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie DE CALMÈS",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DAMBRINE",
+          "prenom": "Hervé",
+          "nom_complet": "Hervé DAMBRINE",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "HOCQUINGHEM",
+          "prenom": "Véronique",
+          "nom_complet": "Véronique HOCQUINGHEM",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "6"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "code_commune": "62395",
+  "commune": "Guigny",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "COLLIEZ",
+    "prenom": "Michel",
+    "nom_complet": "Michel COLLIEZ",
+    "age": 71,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 137,
+    "votants": 77,
+    "pct_votants": 56.2,
+    "abstentions": 60,
+    "pct_abstentions": 43.8,
+    "exprimes": 65
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ENSEMBLE POUR GUIGNY",
+      "libelle_abrege_liste": "ENSEMBLE POUR GUIGNY",
+      "nuance_liste": null,
+      "voix": 65,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "COLLIEZ",
+        "prenom": "Michel",
+        "nom_complet": "Michel COLLIEZ",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "COLLIEZ",
+          "prenom": "Michel",
+          "nom_complet": "Michel COLLIEZ",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "MASSALON",
+          "prenom": "Aurore",
+          "nom_complet": "Aurore MASSALON",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "COLLIEZ",
+          "prenom": "Jean-Paul",
+          "nom_complet": "Jean-Paul COLLIEZ",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "FEVRIER",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie FEVRIER",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "VICTORIA",
+          "prenom": "Jean-Philippe",
+          "nom_complet": "Jean-Philippe VICTORIA",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "GLAÇON",
+          "prenom": "Elina",
+          "nom_complet": "Elina GLAÇON",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BEUGNET",
+          "prenom": "Julien",
+          "nom_complet": "Julien BEUGNET",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "BOIDIN",
+          "prenom": "Jeanne-Marie",
+          "nom_complet": "Jeanne-Marie BOIDIN",
+          "sexe": "F",
+          "age": 88,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "PAQUE",
+          "prenom": "Eric",
+          "nom_complet": "Eric PAQUE",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DEMORGNY",
+          "prenom": "Christelle",
+          "nom_complet": "Christelle DEMORGNY",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "MASSALON",
+          "prenom": "Jérémy",
+          "nom_complet": "Jérémy MASSALON",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

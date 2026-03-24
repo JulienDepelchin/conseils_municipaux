@@ -1,0 +1,131 @@
+{
+  "code_commune": "59483",
+  "commune": "Quiévelon",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "HAZARD",
+    "prenom": "Michel",
+    "nom_complet": "Michel HAZARD",
+    "age": 49,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 111,
+    "votants": 73,
+    "pct_votants": 65.77,
+    "abstentions": 38,
+    "pct_abstentions": 34.23,
+    "exprimes": 63
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Tous ensemble pour Quiévelon",
+      "libelle_abrege_liste": "Tous ensemble pour Quiévelon",
+      "nuance_liste": null,
+      "voix": 63,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "HAZARD",
+        "prenom": "Michel",
+        "nom_complet": "Michel HAZARD",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "HAZARD",
+          "prenom": "Michel",
+          "nom_complet": "Michel HAZARD",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "MOUTON",
+          "prenom": "Florie",
+          "nom_complet": "Florie MOUTON",
+          "sexe": "F",
+          "age": 33,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "RIFFE",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent RIFFE",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BUGUIN",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie BUGUIN",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "GILLIARD",
+          "prenom": "Jérôme",
+          "nom_complet": "Jérôme GILLIARD",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "CANIOT",
+          "prenom": "Myriam",
+          "nom_complet": "Myriam CANIOT",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "HUFTIER",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier HUFTIER",
+          "sexe": "M",
+          "age": 34,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "CARLIER",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie CARLIER",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "LEVEQUE",
+          "prenom": "Yves",
+          "nom_complet": "Yves LEVEQUE",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "THILOT",
+          "prenom": "Nadine",
+          "nom_complet": "Nadine THILOT",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "MATON",
+          "prenom": "Pierre",
+          "nom_complet": "Pierre MATON",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

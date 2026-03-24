@@ -1,0 +1,131 @@
+{
+  "code_commune": "62460",
+  "commune": "Hubersent",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "DUVAL",
+    "prenom": "Maxime",
+    "nom_complet": "Maxime DUVAL",
+    "age": 43,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 209,
+    "votants": 144,
+    "pct_votants": 68.9,
+    "abstentions": 65,
+    "pct_abstentions": 31.1,
+    "exprimes": 103
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "HUBERSENT ENSEMBLE POUR DEMAIN",
+      "libelle_abrege_liste": "HUBERSENT ENSEMBLE POUR DEMAIN",
+      "nuance_liste": null,
+      "voix": 103,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "DUVAL",
+        "prenom": "Maxime",
+        "nom_complet": "Maxime DUVAL",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DUVAL",
+          "prenom": "Maxime",
+          "nom_complet": "Maxime DUVAL",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DUCROCQ",
+          "prenom": "Amandine",
+          "nom_complet": "Amandine DUCROCQ",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "FORESTIER",
+          "prenom": "Jean-Michel",
+          "nom_complet": "Jean-Michel FORESTIER",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "MACREL",
+          "prenom": "Aline",
+          "nom_complet": "Aline MACREL",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "WALLOIS",
+          "prenom": "Pierre",
+          "nom_complet": "Pierre WALLOIS",
+          "sexe": "M",
+          "age": 33,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "PIEDBOIS",
+          "prenom": "Johanna",
+          "nom_complet": "Johanna PIEDBOIS",
+          "sexe": "F",
+          "age": 33,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "TARDIEU",
+          "prenom": "Charles",
+          "nom_complet": "Charles TARDIEU",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DALLE",
+          "prenom": "Ghislaine",
+          "nom_complet": "Ghislaine DALLE",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "MOREL",
+          "prenom": "Maxime",
+          "nom_complet": "Maxime MOREL",
+          "sexe": "M",
+          "age": 34,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "FOURNIER",
+          "prenom": "Priscille",
+          "nom_complet": "Priscille FOURNIER",
+          "sexe": "F",
+          "age": 31,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "CARLY",
+          "prenom": "Stephane",
+          "nom_complet": "Stephane CARLY",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

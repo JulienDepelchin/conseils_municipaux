@@ -1,0 +1,131 @@
+{
+  "code_commune": "59439",
+  "commune": "Noyelles-sur-Sambre",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "MONNIER",
+    "prenom": "Jean-Pierre",
+    "nom_complet": "Jean-Pierre MONNIER",
+    "age": 68,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 243,
+    "votants": 150,
+    "pct_votants": 61.73,
+    "abstentions": 93,
+    "pct_abstentions": 38.27,
+    "exprimes": 136
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Tous pour Noyelles",
+      "libelle_abrege_liste": "Tous pour Noyelles",
+      "nuance_liste": null,
+      "voix": 136,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "MONNIER",
+        "prenom": "Jean-Pierre",
+        "nom_complet": "Jean-Pierre MONNIER",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "MONNIER",
+          "prenom": "Jean-Pierre",
+          "nom_complet": "Jean-Pierre MONNIER",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DELSERT",
+          "prenom": "Brigitte",
+          "nom_complet": "Brigitte DELSERT",
+          "sexe": "F",
+          "age": 75,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BUTIN",
+          "prenom": "Bernard",
+          "nom_complet": "Bernard BUTIN",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "HELLE",
+          "prenom": "Martine",
+          "nom_complet": "Martine HELLE",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "POSKO",
+          "prenom": "Alain",
+          "nom_complet": "Alain POSKO",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "VIN",
+          "prenom": "Sabrina",
+          "nom_complet": "Sabrina VIN",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "PARENT",
+          "prenom": "Jean-Pierre",
+          "nom_complet": "Jean-Pierre PARENT",
+          "sexe": "M",
+          "age": 78,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DURAND",
+          "prenom": "Lydie",
+          "nom_complet": "Lydie DURAND",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "COQUART",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe COQUART",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DUPAGNY",
+          "prenom": "Flavie",
+          "nom_complet": "Flavie DUPAGNY",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "BROMBIN",
+          "prenom": "Guillaume",
+          "nom_complet": "Guillaume BROMBIN",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

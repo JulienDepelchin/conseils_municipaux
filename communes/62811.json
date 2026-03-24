@@ -1,0 +1,163 @@
+{
+  "code_commune": "62811",
+  "commune": "Thérouanne",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "CARON",
+    "prenom": "Patrice",
+    "nom_complet": "Patrice CARON",
+    "age": 55,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 947,
+    "votants": 554,
+    "pct_votants": 58.5,
+    "abstentions": 393,
+    "pct_abstentions": 41.5,
+    "exprimes": 444
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Un nouvel élan pour Thérouanne",
+      "libelle_abrege_liste": "Un nouvel élan pour Thérouanne",
+      "nuance_liste": null,
+      "voix": 444,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": 1,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "CARON",
+        "prenom": "Patrice",
+        "nom_complet": "Patrice CARON",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "CARON",
+          "prenom": "Patrice",
+          "nom_complet": "Patrice CARON",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LEFEBVRE",
+          "prenom": "Marine",
+          "nom_complet": "Marine LEFEBVRE",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "TETART",
+          "prenom": "Gérard",
+          "nom_complet": "Gérard TETART",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BECQUART",
+          "prenom": "Cathy",
+          "nom_complet": "Cathy BECQUART",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "PEROT",
+          "prenom": "Emmanuel",
+          "nom_complet": "Emmanuel PEROT",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "VERMEERSCH",
+          "prenom": "Caroline",
+          "nom_complet": "Caroline VERMEERSCH",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DUMONT",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric DUMONT",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DELCROIX",
+          "prenom": "Mélanie",
+          "nom_complet": "Mélanie DELCROIX",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "MEQUINION",
+          "prenom": "Alain",
+          "nom_complet": "Alain MEQUINION",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "LIEVIN",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle LIEVIN",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "MAILLARD",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas MAILLARD",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "MEQUINION",
+          "prenom": "Valérie",
+          "nom_complet": "Valérie MEQUINION",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "MONCHY",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe MONCHY",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "SAUVAGE",
+          "prenom": "Elodie",
+          "nom_complet": "Elodie SAUVAGE",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "GOZET",
+          "prenom": "José",
+          "nom_complet": "José GOZET",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

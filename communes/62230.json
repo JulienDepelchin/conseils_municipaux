@@ -1,0 +1,163 @@
+{
+  "code_commune": "62230",
+  "commune": "Colembert",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "MAES",
+    "prenom": "Etienne",
+    "nom_complet": "Etienne MAES",
+    "age": 68,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 654,
+    "votants": 477,
+    "pct_votants": 72.94,
+    "abstentions": 177,
+    "pct_abstentions": 27.06,
+    "exprimes": 424
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "COLEMBERT",
+      "libelle_abrege_liste": "COLEMBERT",
+      "nuance_liste": null,
+      "voix": 424,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "MAES",
+        "prenom": "Etienne",
+        "nom_complet": "Etienne MAES",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "MAES",
+          "prenom": "Etienne",
+          "nom_complet": "Etienne MAES",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DENIS",
+          "prenom": "Sophie",
+          "nom_complet": "Sophie DENIS",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "SERGENT",
+          "prenom": "Jean-Christophe",
+          "nom_complet": "Jean-Christophe SERGENT",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "VERLIE",
+          "prenom": "Géraldine",
+          "nom_complet": "Géraldine VERLIE",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "BUTEZ",
+          "prenom": "Patrice",
+          "nom_complet": "Patrice BUTEZ",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "SAINT-MAXENT",
+          "prenom": "Jocelyne",
+          "nom_complet": "Jocelyne SAINT-MAXENT",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DE LAURISTON",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier DE LAURISTON",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "BLANC",
+          "prenom": "Sabrina",
+          "nom_complet": "Sabrina BLANC",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "COQUERELLE",
+          "prenom": "Jean Patrick",
+          "nom_complet": "Jean Patrick COQUERELLE",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "LEBLOND",
+          "prenom": "Caroline",
+          "nom_complet": "Caroline LEBLOND",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "RETAUX",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal RETAUX",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "MACHEN",
+          "prenom": "Céline",
+          "nom_complet": "Céline MACHEN",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "LESOT",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric LESOT",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "PICOUT",
+          "prenom": "Anne-Sophie",
+          "nom_complet": "Anne-Sophie PICOUT",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "LOUVET",
+          "prenom": "Alexis",
+          "nom_complet": "Alexis LOUVET",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

@@ -1,0 +1,195 @@
+{
+  "code_commune": "59173",
+  "commune": "Deûlémont",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "LIENART",
+    "prenom": "Christophe",
+    "nom_complet": "Christophe LIENART",
+    "age": 64,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1555,
+    "votants": 755,
+    "pct_votants": 48.55,
+    "abstentions": 800,
+    "pct_abstentions": 51.45,
+    "exprimes": 673
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "DEULEMONT, ENSEMBLE POUR NOTRE VILLAGE",
+      "libelle_abrege_liste": "DEULEMONT, ENSEMBLE POUR NOTRE VILLAGE",
+      "nuance_liste": null,
+      "voix": 673,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 19,
+      "sieges_cc": 1,
+      "nb_elus": 19,
+      "tete_de_liste": {
+        "nom": "LIENART",
+        "prenom": "Christophe",
+        "nom_complet": "Christophe LIENART",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LIENART",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe LIENART",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "HOEDEMAKER",
+          "prenom": "Virginie",
+          "nom_complet": "Virginie HOEDEMAKER",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LOOTENS",
+          "prenom": "Dimitri",
+          "nom_complet": "Dimitri LOOTENS",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DUHAYON",
+          "prenom": "Claude",
+          "nom_complet": "Claude DUHAYON",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DESMET",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier DESMET",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DAVID",
+          "prenom": "Céline",
+          "nom_complet": "Céline DAVID",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DELVALLE",
+          "prenom": "Claude",
+          "nom_complet": "Claude DELVALLE",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "BILLET",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie BILLET",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "VANDERMERSCH",
+          "prenom": "François",
+          "nom_complet": "François VANDERMERSCH",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "LEROY",
+          "prenom": "Julie",
+          "nom_complet": "Julie LEROY",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "HEMELSDAEL",
+          "prenom": "Eric",
+          "nom_complet": "Eric HEMELSDAEL",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "FRETIN",
+          "prenom": "Céline",
+          "nom_complet": "Céline FRETIN",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "DEMAN",
+          "prenom": "Alain",
+          "nom_complet": "Alain DEMAN",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "DELEAU",
+          "prenom": "Hélène",
+          "nom_complet": "Hélène DELEAU",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "LEMOINE",
+          "prenom": "Ludovic",
+          "nom_complet": "Ludovic LEMOINE",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "NOYELLE",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie NOYELLE",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "LEROY",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier LEROY",
+          "sexe": "M",
+          "age": 23,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "DEQUAND",
+          "prenom": "Marjorie",
+          "nom_complet": "Marjorie DEQUAND",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "HONORE",
+          "prenom": "Anthony",
+          "nom_complet": "Anthony HONORE",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "19"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

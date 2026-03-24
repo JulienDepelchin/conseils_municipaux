@@ -1,0 +1,163 @@
+{
+  "code_commune": "62422",
+  "commune": "Hébuterne",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "CARON",
+    "prenom": "Denis",
+    "nom_complet": "Denis CARON",
+    "age": 62,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 422,
+    "votants": 252,
+    "pct_votants": 59.72,
+    "abstentions": 170,
+    "pct_abstentions": 40.28,
+    "exprimes": 164
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Même cap, nouvelle équipe",
+      "libelle_abrege_liste": "Même cap, nouvelle équipe",
+      "nuance_liste": null,
+      "voix": 164,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "CARON",
+        "prenom": "Denis",
+        "nom_complet": "Denis CARON",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "CARON",
+          "prenom": "Denis",
+          "nom_complet": "Denis CARON",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "VINCENTE",
+          "prenom": "Elise",
+          "nom_complet": "Elise VINCENTE",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DARRAS",
+          "prenom": "Roger",
+          "nom_complet": "Roger DARRAS",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "YTHIER",
+          "prenom": "Celine",
+          "nom_complet": "Celine YTHIER",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "HOLTON",
+          "prenom": "Denis",
+          "nom_complet": "Denis HOLTON",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "WIART",
+          "prenom": "Evangeline",
+          "nom_complet": "Evangeline WIART",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DARTUS",
+          "prenom": "Gaëtan",
+          "nom_complet": "Gaëtan DARTUS",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "MORVAN",
+          "prenom": "Sophie",
+          "nom_complet": "Sophie MORVAN",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "RACHEZ",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick RACHEZ",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "BRUYANT",
+          "prenom": "Emilie",
+          "nom_complet": "Emilie BRUYANT",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DINOUARD",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno DINOUARD",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "HOUPLAIN",
+          "prenom": "Carine",
+          "nom_complet": "Carine HOUPLAIN",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "KAISIN",
+          "prenom": "Alexandre",
+          "nom_complet": "Alexandre KAISIN",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "GACOZY",
+          "prenom": "Adeline",
+          "nom_complet": "Adeline GACOZY",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "DURIEUX",
+          "prenom": "Eric",
+          "nom_complet": "Eric DURIEUX",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

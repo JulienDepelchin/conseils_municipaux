@@ -1,0 +1,183 @@
+{
+  "code_commune": "59587",
+  "commune": "Terdeghem",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "DEMON",
+    "prenom": "Jean-Francois",
+    "nom_complet": "Jean-Francois DEMON",
+    "age": 47,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 439,
+    "votants": 326,
+    "pct_votants": 74.26,
+    "abstentions": 113,
+    "pct_abstentions": 25.74,
+    "exprimes": 303
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "tous ensemble pour terdeghem",
+      "libelle_abrege_liste": "TEPT",
+      "nuance_liste": null,
+      "voix": 227,
+      "pct_voix_exprimes": 74.92,
+      "sieges_cm": 13,
+      "sieges_cc": null,
+      "nb_elus": 13,
+      "tete_de_liste": {
+        "nom": "DEMON",
+        "prenom": "Jean-Francois",
+        "nom_complet": "Jean-Francois DEMON",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DEMON",
+          "prenom": "Jean-Francois",
+          "nom_complet": "Jean-Francois DEMON",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "CAILLIAU",
+          "prenom": "Rosine",
+          "nom_complet": "Rosine CAILLIAU",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "GEORGE",
+          "prenom": "Michel",
+          "nom_complet": "Michel GEORGE",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "SANTRAIN",
+          "prenom": "Marie-Josephe",
+          "nom_complet": "Marie-Josephe SANTRAIN",
+          "sexe": "F",
+          "age": 74,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DEFRANCQ",
+          "prenom": "Michael",
+          "nom_complet": "Michael DEFRANCQ",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DEKERVEL",
+          "prenom": "Daniele",
+          "nom_complet": "Daniele DEKERVEL",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "PARENT",
+          "prenom": "Arnaud",
+          "nom_complet": "Arnaud PARENT",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "MALESYS",
+          "prenom": "Dorothee",
+          "nom_complet": "Dorothee MALESYS",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "CAEYSEELE",
+          "prenom": "Thomas",
+          "nom_complet": "Thomas CAEYSEELE",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "VITSE",
+          "prenom": "Melanie",
+          "nom_complet": "Melanie VITSE",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DESAEVER",
+          "prenom": "Paul",
+          "nom_complet": "Paul DESAEVER",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "ANDRIES",
+          "prenom": "Celine",
+          "nom_complet": "Celine ANDRIES",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "CATRYCKE",
+          "prenom": "Guillaume",
+          "nom_complet": "Guillaume CATRYCKE",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "13"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "LE RENOUVEAU",
+      "libelle_abrege_liste": "LRE",
+      "nuance_liste": null,
+      "voix": 76,
+      "pct_voix_exprimes": 25.08,
+      "sieges_cm": 2,
+      "sieges_cc": null,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "GIRAUDET",
+        "prenom": "Jean-Paul",
+        "nom_complet": "Jean-Paul GIRAUDET",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "GIRAUDET",
+          "prenom": "Jean-Paul",
+          "nom_complet": "Jean-Paul GIRAUDET",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DUTHOIT",
+          "prenom": "Aurélie",
+          "nom_complet": "Aurélie DUTHOIT",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

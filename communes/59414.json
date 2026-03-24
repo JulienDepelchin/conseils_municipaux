@@ -1,0 +1,299 @@
+{
+  "code_commune": "59414",
+  "commune": "Montigny-en-Ostrevent",
+  "departement": "Nord",
+  "tour": "T2",
+  "maire": {
+    "nom": "JUMEAUX",
+    "prenom": "Pascal",
+    "nom_complet": "Pascal JUMEAUX",
+    "age": 50,
+    "nuance": "LDIV"
+  },
+  "resultats": {
+    "inscrits": 3486,
+    "votants": 2365,
+    "pct_votants": 67.84,
+    "abstentions": 1121,
+    "pct_abstentions": 32.16,
+    "exprimes": 2310
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "MIEUX VIVRE A MONTIGNY",
+      "libelle_abrege_liste": "MIEUX VIVRE A MONTIGNY",
+      "nuance_liste": "LDIV",
+      "voix": 946,
+      "pct_voix_exprimes": 40.95,
+      "sieges_cm": 19,
+      "sieges_cc": 3,
+      "nb_elus": 19,
+      "tete_de_liste": {
+        "nom": "JUMEAUX",
+        "prenom": "Pascal",
+        "nom_complet": "Pascal JUMEAUX",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "JUMEAUX",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal JUMEAUX",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "FEHLICH",
+          "prenom": "Martine",
+          "nom_complet": "Martine FEHLICH",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LAURENT",
+          "prenom": "Gérard",
+          "nom_complet": "Gérard LAURENT",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DELSERT",
+          "prenom": "Marie-Ange",
+          "nom_complet": "Marie-Ange DELSERT",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "KAHAL",
+          "prenom": "Yazid",
+          "nom_complet": "Yazid KAHAL",
+          "sexe": "M",
+          "age": 34,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DOLATA",
+          "prenom": "Wendy",
+          "nom_complet": "Wendy DOLATA",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "SZPERKA",
+          "prenom": "Stanislas",
+          "nom_complet": "Stanislas SZPERKA",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "GENEL",
+          "prenom": "Cathy",
+          "nom_complet": "Cathy GENEL",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "GUINCHI",
+          "prenom": "Jean-Christophe",
+          "nom_complet": "Jean-Christophe GUINCHI",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "RICCELLI",
+          "prenom": "Malika",
+          "nom_complet": "Malika RICCELLI",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "SIRIU",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe SIRIU",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "WAILLY",
+          "prenom": "Henriette",
+          "nom_complet": "Henriette WAILLY",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "HUGOO",
+          "prenom": "Daniel",
+          "nom_complet": "Daniel HUGOO",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "WOJCIECHOWSKI",
+          "prenom": "Fabienne",
+          "nom_complet": "Fabienne WOJCIECHOWSKI",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "BUQUET",
+          "prenom": "Julien",
+          "nom_complet": "Julien BUQUET",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "TEMPESTA",
+          "prenom": "Fanny",
+          "nom_complet": "Fanny TEMPESTA",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "LEBECQ",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas LEBECQ",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "JAMBART",
+          "prenom": "Gyliane",
+          "nom_complet": "Gyliane JAMBART",
+          "sexe": "F",
+          "age": 19,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "JAKEL",
+          "prenom": "Christian",
+          "nom_complet": "Christian JAKEL",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "19"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "MONTIGNY TERRE D'OSTREVENT",
+      "libelle_abrege_liste": "MONTIGNY TERRE D'OSTREVENT",
+      "nuance_liste": "LDVG",
+      "voix": 731,
+      "pct_voix_exprimes": 31.65,
+      "sieges_cm": 4,
+      "sieges_cc": 1,
+      "nb_elus": 4,
+      "tete_de_liste": {
+        "nom": "DE CESARE",
+        "prenom": "Salvatore",
+        "nom_complet": "Salvatore DE CESARE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DE CESARE",
+          "prenom": "Salvatore",
+          "nom_complet": "Salvatore DE CESARE",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "KFOURY",
+          "prenom": "Rita",
+          "nom_complet": "Rita KFOURY",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LAMOUR",
+          "prenom": "René",
+          "nom_complet": "René LAMOUR",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "JACQUIN",
+          "prenom": "Anne-Marie",
+          "nom_complet": "Anne-Marie JACQUIN",
+          "sexe": "F",
+          "age": 72,
+          "rang_liste": "4"
+        }
+      ],
+      "statut_conseil": "autre"
+    },
+    {
+      "num_panneau": "3",
+      "libelle_liste": "MONTIGNY RASSEMBLEMENT",
+      "libelle_abrege_liste": "MONTIGNY RASSEMBLEMENT",
+      "nuance_liste": "LEXD",
+      "voix": 633,
+      "pct_voix_exprimes": 27.4,
+      "sieges_cm": 4,
+      "sieges_cc": 0,
+      "nb_elus": 4,
+      "tete_de_liste": {
+        "nom": "MORELLE",
+        "prenom": "Hervé",
+        "nom_complet": "Hervé MORELLE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "MORELLE",
+          "prenom": "Hervé",
+          "nom_complet": "Hervé MORELLE",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DELCROIX",
+          "prenom": "Caroline",
+          "nom_complet": "Caroline DELCROIX",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "VARELLA",
+          "prenom": "Kévin",
+          "nom_complet": "Kévin VARELLA",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LELEUX",
+          "prenom": "Karine",
+          "nom_complet": "Karine LELEUX",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "4"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

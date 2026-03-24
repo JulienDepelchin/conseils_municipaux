@@ -1,0 +1,131 @@
+{
+  "code_commune": "62304",
+  "commune": "Erny-Saint-Julien",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "DUCRISTEL",
+    "prenom": "Damiens",
+    "nom_complet": "Damiens DUCRISTEL",
+    "age": 54,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 270,
+    "votants": 172,
+    "pct_votants": 63.7,
+    "abstentions": 98,
+    "pct_abstentions": 36.3,
+    "exprimes": 122
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Ensemble pour notre village",
+      "libelle_abrege_liste": "Ensemble pour notre village",
+      "nuance_liste": null,
+      "voix": 122,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "DUCRISTEL",
+        "prenom": "Damiens",
+        "nom_complet": "Damiens DUCRISTEL",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DUCRISTEL",
+          "prenom": "Damiens",
+          "nom_complet": "Damiens DUCRISTEL",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DUCROCQ",
+          "prenom": "Bernadette",
+          "nom_complet": "Bernadette DUCROCQ",
+          "sexe": "F",
+          "age": 70,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BUIRE",
+          "prenom": "Daniel",
+          "nom_complet": "Daniel BUIRE",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LIEVIN",
+          "prenom": "Fabienne",
+          "nom_complet": "Fabienne LIEVIN",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DUCROCQ",
+          "prenom": "Yvon",
+          "nom_complet": "Yvon DUCROCQ",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "BENDRE",
+          "prenom": "Hélène",
+          "nom_complet": "Hélène BENDRE",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "HENRI",
+          "prenom": "Cédric",
+          "nom_complet": "Cédric HENRI",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DURIEZ",
+          "prenom": "Florence",
+          "nom_complet": "Florence DURIEZ",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "MACREZ",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe MACREZ",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "QUÉRÉ",
+          "prenom": "Lydie",
+          "nom_complet": "Lydie QUÉRÉ",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "BAURAIN",
+          "prenom": "Florian",
+          "nom_complet": "Florian BAURAIN",
+          "sexe": "M",
+          "age": 32,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

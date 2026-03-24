@@ -1,0 +1,183 @@
+{
+  "code_commune": "59434",
+  "commune": "Nivelle",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "DEROO",
+    "prenom": "Matthieu",
+    "nom_complet": "Matthieu DEROO",
+    "age": 45,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1137,
+    "votants": 849,
+    "pct_votants": 74.67,
+    "abstentions": 288,
+    "pct_abstentions": 25.33,
+    "exprimes": 825
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "Nivelle en action",
+      "libelle_abrege_liste": "Nivelle en action",
+      "nuance_liste": null,
+      "voix": 449,
+      "pct_voix_exprimes": 54.42,
+      "sieges_cm": 12,
+      "sieges_cc": 1,
+      "nb_elus": 12,
+      "tete_de_liste": {
+        "nom": "DEROO",
+        "prenom": "Matthieu",
+        "nom_complet": "Matthieu DEROO",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DEROO",
+          "prenom": "Matthieu",
+          "nom_complet": "Matthieu DEROO",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LEMAY",
+          "prenom": "Anne",
+          "nom_complet": "Anne LEMAY",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "SENECHAL",
+          "prenom": "Valentin",
+          "nom_complet": "Valentin SENECHAL",
+          "sexe": "M",
+          "age": 31,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DAREL CLABAUT",
+          "prenom": "Caroline",
+          "nom_complet": "Caroline DAREL CLABAUT",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DECOBECQ",
+          "prenom": "Jean Michel",
+          "nom_complet": "Jean Michel DECOBECQ",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "BUSIERE",
+          "prenom": "Jeannine",
+          "nom_complet": "Jeannine BUSIERE",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DUFERNEZ",
+          "prenom": "Jérôme",
+          "nom_complet": "Jérôme DUFERNEZ",
+          "sexe": "M",
+          "age": 34,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LIBERT",
+          "prenom": "Elodie",
+          "nom_complet": "Elodie LIBERT",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "FRERE",
+          "prenom": "Gregory",
+          "nom_complet": "Gregory FRERE",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "LATTEUR",
+          "prenom": "Véronique",
+          "nom_complet": "Véronique LATTEUR",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "UNIDA",
+          "prenom": "Quentin",
+          "nom_complet": "Quentin UNIDA",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "NOEL",
+          "prenom": "Sandrine",
+          "nom_complet": "Sandrine NOEL",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "12"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "NIVELLE, L'AVENIR AVEC VOUS",
+      "libelle_abrege_liste": "NIVELLE, L'AVENIR AVEC VOUS",
+      "nuance_liste": null,
+      "voix": 376,
+      "pct_voix_exprimes": 45.58,
+      "sieges_cm": 3,
+      "sieges_cc": 0,
+      "nb_elus": 3,
+      "tete_de_liste": {
+        "nom": "DEFAUT",
+        "prenom": "Pascal",
+        "nom_complet": "Pascal DEFAUT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DEFAUT",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal DEFAUT",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "SVEC",
+          "prenom": "Alexandra",
+          "nom_complet": "Alexandra SVEC",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LAURENT",
+          "prenom": "Frederic",
+          "nom_complet": "Frederic LAURENT",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "3"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

@@ -1,0 +1,247 @@
+{
+  "code_commune": "62770",
+  "commune": "Saint-Venant",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "DELBECQUE",
+    "prenom": "Benoît",
+    "nom_complet": "Benoît DELBECQUE",
+    "age": 54,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 2298,
+    "votants": 1610,
+    "pct_votants": 70.06,
+    "abstentions": 688,
+    "pct_abstentions": 29.94,
+    "exprimes": 1541
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "SAINT-VENANT NOTRE VILLE",
+      "libelle_abrege_liste": "SAINT-VENANT NOTRE VILLE",
+      "nuance_liste": null,
+      "voix": 933,
+      "pct_voix_exprimes": 60.55,
+      "sieges_cm": 19,
+      "sieges_cc": 1,
+      "nb_elus": 19,
+      "tete_de_liste": {
+        "nom": "DELBECQUE",
+        "prenom": "Benoît",
+        "nom_complet": "Benoît DELBECQUE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DELBECQUE",
+          "prenom": "Benoît",
+          "nom_complet": "Benoît DELBECQUE",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "HANNEDOUCHE",
+          "prenom": "Sandrine",
+          "nom_complet": "Sandrine HANNEDOUCHE",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "SANNIER",
+          "prenom": "Jean-Pierre",
+          "nom_complet": "Jean-Pierre SANNIER",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "GALFRE",
+          "prenom": "Carmen",
+          "nom_complet": "Carmen GALFRE",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "VANDERBEKE",
+          "prenom": "Stéphane",
+          "nom_complet": "Stéphane VANDERBEKE",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "VENET-MILON",
+          "prenom": "Alice",
+          "nom_complet": "Alice VENET-MILON",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DOYELLE",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent DOYELLE",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "TOULOTTE",
+          "prenom": "Christine",
+          "nom_complet": "Christine TOULOTTE",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DELPLACE",
+          "prenom": "Francis",
+          "nom_complet": "Francis DELPLACE",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "BECUE-CORDONNIER",
+          "prenom": "Sandrine",
+          "nom_complet": "Sandrine BECUE-CORDONNIER",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "GONTIER",
+          "prenom": "Benjamin",
+          "nom_complet": "Benjamin GONTIER",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "LACOQUELLE",
+          "prenom": "Florence",
+          "nom_complet": "Florence LACOQUELLE",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "FLAJOLET",
+          "prenom": "André",
+          "nom_complet": "André FLAJOLET",
+          "sexe": "M",
+          "age": 79,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "GEUJON",
+          "prenom": "Julie",
+          "nom_complet": "Julie GEUJON",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "COTTREZ",
+          "prenom": "Marc",
+          "nom_complet": "Marc COTTREZ",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "HOUVENAGHEL",
+          "prenom": "Anne-Claire",
+          "nom_complet": "Anne-Claire HOUVENAGHEL",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "CORDONNIER",
+          "prenom": "Romain",
+          "nom_complet": "Romain CORDONNIER",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "VERGOTEN",
+          "prenom": "Danièle",
+          "nom_complet": "Danièle VERGOTEN",
+          "sexe": "F",
+          "age": 71,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "BIRGY",
+          "prenom": "Jean",
+          "nom_complet": "Jean BIRGY",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "19"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "ENSEMBLE POUR SAINT-VENANT",
+      "libelle_abrege_liste": "ENSEMBLE POUR SAINT-VENANT",
+      "nuance_liste": null,
+      "voix": 608,
+      "pct_voix_exprimes": 39.45,
+      "sieges_cm": 4,
+      "sieges_cc": 0,
+      "nb_elus": 4,
+      "tete_de_liste": {
+        "nom": "GALLOIS",
+        "prenom": "Dominique",
+        "nom_complet": "Dominique GALLOIS",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "GALLOIS",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique GALLOIS",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "CALONNE",
+          "prenom": "Annie",
+          "nom_complet": "Annie CALONNE",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "VANBERGUE",
+          "prenom": "Guy",
+          "nom_complet": "Guy VANBERGUE",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "PLUQUIN",
+          "prenom": "Céline",
+          "nom_complet": "Céline PLUQUIN",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "4"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

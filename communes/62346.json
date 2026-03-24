@@ -1,0 +1,131 @@
+{
+  "code_commune": "62346",
+  "commune": "Fortel-en-Artois",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "DOURLENS",
+    "prenom": "Dominique",
+    "nom_complet": "Dominique DOURLENS",
+    "age": 67,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 162,
+    "votants": 109,
+    "pct_votants": 67.28,
+    "abstentions": 53,
+    "pct_abstentions": 32.72,
+    "exprimes": 72
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "AVEC VOUS POUR L'AVENIR DE FORTEL",
+      "libelle_abrege_liste": "AVEC VOUS POUR L'AVENIR DE FORTEL",
+      "nuance_liste": null,
+      "voix": 72,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "DOURLENS",
+        "prenom": "Dominique",
+        "nom_complet": "Dominique DOURLENS",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DOURLENS",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique DOURLENS",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "POTRIQUIER BEAUCHET",
+          "prenom": "Marylise",
+          "nom_complet": "Marylise POTRIQUIER BEAUCHET",
+          "sexe": "F",
+          "age": 71,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "NIVEL",
+          "prenom": "Benoît",
+          "nom_complet": "Benoît NIVEL",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "COUSIN",
+          "prenom": "Anne-Sophie",
+          "nom_complet": "Anne-Sophie COUSIN",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LOMBART",
+          "prenom": "Jérôme",
+          "nom_complet": "Jérôme LOMBART",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DIACRE LEPÈRE",
+          "prenom": "Cindy",
+          "nom_complet": "Cindy DIACRE LEPÈRE",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DEVIENNE",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick DEVIENNE",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "SOISSONS",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie SOISSONS",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "SOISSONS",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe SOISSONS",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "WOLCZYK",
+          "prenom": "Martine",
+          "nom_complet": "Martine WOLCZYK",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "BOMY",
+          "prenom": "Janick",
+          "nom_complet": "Janick BOMY",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

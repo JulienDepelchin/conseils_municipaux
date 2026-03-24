@@ -1,0 +1,151 @@
+{
+  "code_commune": "62092",
+  "commune": "Beaufort-Blavincourt",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "DIONNET",
+    "prenom": "Pascal",
+    "nom_complet": "Pascal DIONNET",
+    "age": 63,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 315,
+    "votants": 264,
+    "pct_votants": 83.81,
+    "abstentions": 51,
+    "pct_abstentions": 16.19,
+    "exprimes": 260
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "C'EST ENSEMBLE QUE LE VILLAGE PEUT VIVRE",
+      "libelle_abrege_liste": "C'EST ENSEMBLE QUE LE VILLAGE PEUT VIVRE",
+      "nuance_liste": null,
+      "voix": 158,
+      "pct_voix_exprimes": 60.77,
+      "sieges_cm": 9,
+      "sieges_cc": null,
+      "nb_elus": 9,
+      "tete_de_liste": {
+        "nom": "DIONNET",
+        "prenom": "Pascal",
+        "nom_complet": "Pascal DIONNET",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DIONNET",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal DIONNET",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "VAAST",
+          "prenom": "Patricia",
+          "nom_complet": "Patricia VAAST",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BRIOUT",
+          "prenom": "Didier",
+          "nom_complet": "Didier BRIOUT",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DUEZ-BALAVOINE",
+          "prenom": "Valérie",
+          "nom_complet": "Valérie DUEZ-BALAVOINE",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DUMONT",
+          "prenom": "Stéphane",
+          "nom_complet": "Stéphane DUMONT",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "BAILLET-BALAVOINE",
+          "prenom": "Caroline",
+          "nom_complet": "Caroline BAILLET-BALAVOINE",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DELIENCOURT",
+          "prenom": "Julien",
+          "nom_complet": "Julien DELIENCOURT",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "HURET",
+          "prenom": "Karine",
+          "nom_complet": "Karine HURET",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "BONAMI",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier BONAMI",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "9"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "NOTRE VILLAGE, NOTRE AVENIR",
+      "libelle_abrege_liste": "NOTRE VILLAGE, NOTRE AVENIR",
+      "nuance_liste": null,
+      "voix": 102,
+      "pct_voix_exprimes": 39.23,
+      "sieges_cm": 2,
+      "sieges_cc": null,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "SOBCZAK",
+        "prenom": "Daniel",
+        "nom_complet": "Daniel SOBCZAK",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "SOBCZAK",
+          "prenom": "Daniel",
+          "nom_complet": "Daniel SOBCZAK",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DEVOS-PARENT",
+          "prenom": "Audrey",
+          "nom_complet": "Audrey DEVOS-PARENT",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

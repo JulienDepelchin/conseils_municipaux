@@ -1,0 +1,215 @@
+{
+  "code_commune": "59105",
+  "commune": "Bouvignies",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "PRADALIER",
+    "prenom": "Frédéric",
+    "nom_complet": "Frédéric PRADALIER",
+    "age": 66,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1193,
+    "votants": 960,
+    "pct_votants": 80.47,
+    "abstentions": 233,
+    "pct_abstentions": 19.53,
+    "exprimes": 928
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "BIEN VIVRE A BOUVIGNIES",
+      "libelle_abrege_liste": "BIEN VIVRE A BOUVIGNIES",
+      "nuance_liste": null,
+      "voix": 560,
+      "pct_voix_exprimes": 60.34,
+      "sieges_cm": 16,
+      "sieges_cc": 1,
+      "nb_elus": 16,
+      "tete_de_liste": {
+        "nom": "PRADALIER",
+        "prenom": "Frédéric",
+        "nom_complet": "Frédéric PRADALIER",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "PRADALIER",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric PRADALIER",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "HULOUX",
+          "prenom": "Martine",
+          "nom_complet": "Martine HULOUX",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "VALIN",
+          "prenom": "Jean-Marie",
+          "nom_complet": "Jean-Marie VALIN",
+          "sexe": "M",
+          "age": 79,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "THERET",
+          "prenom": "Elodie",
+          "nom_complet": "Elodie THERET",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DANGREMONT",
+          "prenom": "Romain",
+          "nom_complet": "Romain DANGREMONT",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "COUTEAU",
+          "prenom": "Odile",
+          "nom_complet": "Odile COUTEAU",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DEBAISIEUX",
+          "prenom": "Romaric",
+          "nom_complet": "Romaric DEBAISIEUX",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "PIEDANNA VALDIX",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle PIEDANNA VALDIX",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "FENAIN",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno FENAIN",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "MOERMAN",
+          "prenom": "Ericka",
+          "nom_complet": "Ericka MOERMAN",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "HOUSSIN",
+          "prenom": "Daniel",
+          "nom_complet": "Daniel HOUSSIN",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "LOSCIUTO",
+          "prenom": "Martine",
+          "nom_complet": "Martine LOSCIUTO",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "D'HONT",
+          "prenom": "Didier",
+          "nom_complet": "Didier D'HONT",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "DEMURIEZ",
+          "prenom": "Virgnie",
+          "nom_complet": "Virgnie DEMURIEZ",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "PETIT",
+          "prenom": "Benjamin",
+          "nom_complet": "Benjamin PETIT",
+          "sexe": "M",
+          "age": 24,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "VANPOUILLE",
+          "prenom": "Gaëlle",
+          "nom_complet": "Gaëlle VANPOUILLE",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "16"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "BOUVIGNIES AUTREMENT",
+      "libelle_abrege_liste": "BOUVIGNIES AUTREMENT",
+      "nuance_liste": null,
+      "voix": 368,
+      "pct_voix_exprimes": 39.66,
+      "sieges_cm": 3,
+      "sieges_cc": 0,
+      "nb_elus": 3,
+      "tete_de_liste": {
+        "nom": "FEVRIER",
+        "prenom": "Gilles",
+        "nom_complet": "Gilles FEVRIER",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "FEVRIER",
+          "prenom": "Gilles",
+          "nom_complet": "Gilles FEVRIER",
+          "sexe": "M",
+          "age": 76,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "VEREUILLE",
+          "prenom": "Marine",
+          "nom_complet": "Marine VEREUILLE",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BAR",
+          "prenom": "Jean-Christophe",
+          "nom_complet": "Jean-Christophe BAR",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "3"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

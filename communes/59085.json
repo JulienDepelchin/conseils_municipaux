@@ -1,0 +1,151 @@
+{
+  "code_commune": "59085",
+  "commune": "Blécourt",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "BASSELET",
+    "prenom": "Jean-Paul",
+    "nom_complet": "Jean-Paul BASSELET",
+    "age": 76,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 309,
+    "votants": 232,
+    "pct_votants": 75.08,
+    "abstentions": 77,
+    "pct_abstentions": 24.92,
+    "exprimes": 228
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Liste de défense et gestion des intérêts communaux",
+      "libelle_abrege_liste": "Liste de défense et gestion des intérêts communaux",
+      "nuance_liste": null,
+      "voix": 158,
+      "pct_voix_exprimes": 69.3,
+      "sieges_cm": 10,
+      "sieges_cc": null,
+      "nb_elus": 10,
+      "tete_de_liste": {
+        "nom": "BASSELET",
+        "prenom": "Jean-Paul",
+        "nom_complet": "Jean-Paul BASSELET",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BASSELET",
+          "prenom": "Jean-Paul",
+          "nom_complet": "Jean-Paul BASSELET",
+          "sexe": "M",
+          "age": 76,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "SOUFFLET",
+          "prenom": "Dominique Louisette",
+          "nom_complet": "Dominique Louisette SOUFFLET",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "HEDBAUT",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric HEDBAUT",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BIANCHI",
+          "prenom": "Amélie",
+          "nom_complet": "Amélie BIANCHI",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "BOCQUET",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick BOCQUET",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "POTTIEZ",
+          "prenom": "Mélissa",
+          "nom_complet": "Mélissa POTTIEZ",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "LEVEQUE",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal LEVEQUE",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "PECQUEUR",
+          "prenom": "Valérie",
+          "nom_complet": "Valérie PECQUEUR",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "PREVOST",
+          "prenom": "Stéphane",
+          "nom_complet": "Stéphane PREVOST",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "SALEZ",
+          "prenom": "Christelle",
+          "nom_complet": "Christelle SALEZ",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "10"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "POUR BLECOURT",
+      "libelle_abrege_liste": "POUR BLECOURT",
+      "nuance_liste": null,
+      "voix": 70,
+      "pct_voix_exprimes": 30.7,
+      "sieges_cm": 1,
+      "sieges_cc": null,
+      "nb_elus": 1,
+      "tete_de_liste": {
+        "nom": "LEFEBVRE",
+        "prenom": "Amandine",
+        "nom_complet": "Amandine LEFEBVRE",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "LEFEBVRE",
+          "prenom": "Amandine",
+          "nom_complet": "Amandine LEFEBVRE",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "1"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

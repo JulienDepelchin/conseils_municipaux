@@ -1,0 +1,131 @@
+{
+  "code_commune": "62872",
+  "commune": "Wamin",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "LEJOSNE",
+    "prenom": "Philippe",
+    "nom_complet": "Philippe LEJOSNE",
+    "age": 64,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 202,
+    "votants": 113,
+    "pct_votants": 55.94,
+    "abstentions": 89,
+    "pct_abstentions": 44.06,
+    "exprimes": 89
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Bien vivre à Wamin",
+      "libelle_abrege_liste": "Bien vivre à Wamin",
+      "nuance_liste": null,
+      "voix": 89,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "LEJOSNE",
+        "prenom": "Philippe",
+        "nom_complet": "Philippe LEJOSNE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LEJOSNE",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe LEJOSNE",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "CROSNIER",
+          "prenom": "Lise",
+          "nom_complet": "Lise CROSNIER",
+          "sexe": "F",
+          "age": 74,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BRANLY",
+          "prenom": "Sébastien",
+          "nom_complet": "Sébastien BRANLY",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DE BAERDEMACKER",
+          "prenom": "Lucette",
+          "nom_complet": "Lucette DE BAERDEMACKER",
+          "sexe": "F",
+          "age": 75,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "VAUCHEL",
+          "prenom": "Romain",
+          "nom_complet": "Romain VAUCHEL",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DARRÉ",
+          "prenom": "Frédérique",
+          "nom_complet": "Frédérique DARRÉ",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "LEFEBVRE DE GOUY DE MILLY",
+          "prenom": "François",
+          "nom_complet": "François LEFEBVRE DE GOUY DE MILLY",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LEJOSNE",
+          "prenom": "Juliane",
+          "nom_complet": "Juliane LEJOSNE",
+          "sexe": "F",
+          "age": 27,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DESMONS",
+          "prenom": "Gilles",
+          "nom_complet": "Gilles DESMONS",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "JEAUNEAU",
+          "prenom": "Mylène",
+          "nom_complet": "Mylène JEAUNEAU",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DEPREZ",
+          "prenom": "François",
+          "nom_complet": "François DEPREZ",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

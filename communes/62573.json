@@ -1,0 +1,279 @@
+{
+  "code_commune": "62573",
+  "commune": "Meurchin",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "WASYLIKOW",
+    "prenom": "Cathy",
+    "nom_complet": "Cathy WASYLIKOW",
+    "age": 60,
+    "nuance": "LDVG"
+  },
+  "resultats": {
+    "inscrits": 2957,
+    "votants": 1610,
+    "pct_votants": 54.45,
+    "abstentions": 1347,
+    "pct_abstentions": 45.55,
+    "exprimes": 1501
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "MEURCHIN, NOTRE AVENIR COMMUN",
+      "libelle_abrege_liste": "MEURCHIN, NOTRE AVENIR COMMUN",
+      "nuance_liste": "LDVG",
+      "voix": 1015,
+      "pct_voix_exprimes": 67.62,
+      "sieges_cm": 23,
+      "sieges_cc": 2,
+      "nb_elus": 23,
+      "tete_de_liste": {
+        "nom": "WASYLIKOW",
+        "prenom": "Cathy",
+        "nom_complet": "Cathy WASYLIKOW",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "WASYLIKOW",
+          "prenom": "Cathy",
+          "nom_complet": "Cathy WASYLIKOW",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "TIRLOIT",
+          "prenom": "Steve",
+          "nom_complet": "Steve TIRLOIT",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "MILON-POIGNANT",
+          "prenom": "Sandrine",
+          "nom_complet": "Sandrine MILON-POIGNANT",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "RAJCZYK",
+          "prenom": "Eric",
+          "nom_complet": "Eric RAJCZYK",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DELATTRE",
+          "prenom": "Anne",
+          "nom_complet": "Anne DELATTRE",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "MAYEUR",
+          "prenom": "Guillaume",
+          "nom_complet": "Guillaume MAYEUR",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "HAELVOET",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie HAELVOET",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "OUVRY",
+          "prenom": "Daniel",
+          "nom_complet": "Daniel OUVRY",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "SUCKY",
+          "prenom": "Celine",
+          "nom_complet": "Celine SUCKY",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "PIRC",
+          "prenom": "Ludovic",
+          "nom_complet": "Ludovic PIRC",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "SION",
+          "prenom": "Lorelei",
+          "nom_complet": "Lorelei SION",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "DUPUIS",
+          "prenom": "Patrice",
+          "nom_complet": "Patrice DUPUIS",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "PARSY",
+          "prenom": "Cathy",
+          "nom_complet": "Cathy PARSY",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "DEPRAETERE",
+          "prenom": "Loic",
+          "nom_complet": "Loic DEPRAETERE",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "DUBART",
+          "prenom": "Martine",
+          "nom_complet": "Martine DUBART",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "ROY",
+          "prenom": "Noel",
+          "nom_complet": "Noel ROY",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "DRUMETZ",
+          "prenom": "Athenais",
+          "nom_complet": "Athenais DRUMETZ",
+          "sexe": "F",
+          "age": 18,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "MALBRANQUE",
+          "prenom": "David",
+          "nom_complet": "David MALBRANQUE",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "DELORY",
+          "prenom": "Alexane",
+          "nom_complet": "Alexane DELORY",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "DELPLACE",
+          "prenom": "Guillaume",
+          "nom_complet": "Guillaume DELPLACE",
+          "sexe": "M",
+          "age": 33,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "DEVOS",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie DEVOS",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "MILON",
+          "prenom": "Maxime",
+          "nom_complet": "Maxime MILON",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "HERENG",
+          "prenom": "Christelle",
+          "nom_complet": "Christelle HERENG",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "23"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "CONTINUONS ENSEMBLE UNIS POUR MEURCHIN",
+      "libelle_abrege_liste": "CONTINUONS ENSEMBLE UNIS POUR MEURCHIN",
+      "nuance_liste": "LDVG",
+      "voix": 486,
+      "pct_voix_exprimes": 32.38,
+      "sieges_cm": 4,
+      "sieges_cc": 0,
+      "nb_elus": 4,
+      "tete_de_liste": {
+        "nom": "ALLOÏ",
+        "prenom": "Frédéric",
+        "nom_complet": "Frédéric ALLOÏ",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "ALLOÏ",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric ALLOÏ",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "HENNACHE",
+          "prenom": "Christine",
+          "nom_complet": "Christine HENNACHE",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "MONTAGNE",
+          "prenom": "Ludovic",
+          "nom_complet": "Ludovic MONTAGNE",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BAILLET",
+          "prenom": "Maryline",
+          "nom_complet": "Maryline BAILLET",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "4"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

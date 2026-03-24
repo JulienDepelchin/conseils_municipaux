@@ -1,0 +1,131 @@
+{
+  "code_commune": "62546",
+  "commune": "Maninghen-Henne",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "BEAL",
+    "prenom": "Didier",
+    "nom_complet": "Didier BEAL",
+    "age": 56,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 269,
+    "votants": 202,
+    "pct_votants": 75.09,
+    "abstentions": 67,
+    "pct_abstentions": 24.91,
+    "exprimes": 193
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ENSEMBLE POUR NOTRE VILLAGE",
+      "libelle_abrege_liste": "ENSEMBLE POUR NOTRE VILLAGE",
+      "nuance_liste": null,
+      "voix": 193,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "BEAL",
+        "prenom": "Didier",
+        "nom_complet": "Didier BEAL",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BEAL",
+          "prenom": "Didier",
+          "nom_complet": "Didier BEAL",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BARBET",
+          "prenom": "Lise",
+          "nom_complet": "Lise BARBET",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "FAÏEULLE",
+          "prenom": "Alain",
+          "nom_complet": "Alain FAÏEULLE",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "WALLON",
+          "prenom": "Viviane",
+          "nom_complet": "Viviane WALLON",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "HAMY",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric HAMY",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "BIASSE",
+          "prenom": "Véronique",
+          "nom_complet": "Véronique BIASSE",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "LAMBERT",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier LAMBERT",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "POIREL",
+          "prenom": "Véronique",
+          "nom_complet": "Véronique POIREL",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "CARLIER",
+          "prenom": "Emmanuel",
+          "nom_complet": "Emmanuel CARLIER",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "PAINSET",
+          "prenom": "Marilyne",
+          "nom_complet": "Marilyne PAINSET",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "CANVA",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal CANVA",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

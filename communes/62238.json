@@ -1,0 +1,99 @@
+{
+  "code_commune": "62238",
+  "commune": "Conteville-en-Ternois",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "KIELBASA",
+    "prenom": "Raymond",
+    "nom_complet": "Raymond KIELBASA",
+    "age": 71,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 79,
+    "votants": 47,
+    "pct_votants": 59.49,
+    "abstentions": 32,
+    "pct_abstentions": 40.51,
+    "exprimes": 28
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ENSEMBLE POUR CONTEVILLE",
+      "libelle_abrege_liste": "ENSEMBLE POUR CONTEVILLE",
+      "nuance_liste": null,
+      "voix": 28,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 7,
+      "sieges_cc": null,
+      "nb_elus": 7,
+      "tete_de_liste": {
+        "nom": "KIELBASA",
+        "prenom": "Raymond",
+        "nom_complet": "Raymond KIELBASA",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "KIELBASA",
+          "prenom": "Raymond",
+          "nom_complet": "Raymond KIELBASA",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BOUCLY",
+          "prenom": "Anne-Marie",
+          "nom_complet": "Anne-Marie BOUCLY",
+          "sexe": "F",
+          "age": 72,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DELMOTTE",
+          "prenom": "Mathieu",
+          "nom_complet": "Mathieu DELMOTTE",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "TRUBLIN",
+          "prenom": "Anne-Marie",
+          "nom_complet": "Anne-Marie TRUBLIN",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "ANSART",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas ANSART",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DELAMAIDE",
+          "prenom": "Marie-Jeanne",
+          "nom_complet": "Marie-Jeanne DELAMAIDE",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DESMIS",
+          "prenom": "Hervé",
+          "nom_complet": "Hervé DESMIS",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "7"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

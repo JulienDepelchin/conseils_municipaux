@@ -1,0 +1,163 @@
+{
+  "code_commune": "62440",
+  "commune": "Hermies",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "CARRE",
+    "prenom": "Jean-François",
+    "nom_complet": "Jean-François CARRE",
+    "age": 66,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 847,
+    "votants": 466,
+    "pct_votants": 55.02,
+    "abstentions": 381,
+    "pct_abstentions": 44.98,
+    "exprimes": 338
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "UNIS pour HERMIES-DEMICOURT",
+      "libelle_abrege_liste": "UNIS pour HERMIES-DEMICOURT",
+      "nuance_liste": null,
+      "voix": 338,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": 3,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "CARRE",
+        "prenom": "Jean-François",
+        "nom_complet": "Jean-François CARRE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "CARRE",
+          "prenom": "Jean-François",
+          "nom_complet": "Jean-François CARRE",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "VERET",
+          "prenom": "Pascale",
+          "nom_complet": "Pascale VERET",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "NAWROCKI",
+          "prenom": "Eric",
+          "nom_complet": "Eric NAWROCKI",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "CARRE",
+          "prenom": "Véronique",
+          "nom_complet": "Véronique CARRE",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "CAPELLE",
+          "prenom": "Jacques",
+          "nom_complet": "Jacques CAPELLE",
+          "sexe": "M",
+          "age": 79,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "BEDU",
+          "prenom": "Carine",
+          "nom_complet": "Carine BEDU",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DIDIER",
+          "prenom": "Eric",
+          "nom_complet": "Eric DIDIER",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "GARCIA",
+          "prenom": "Sandrine",
+          "nom_complet": "Sandrine GARCIA",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "CAMIER",
+          "prenom": "Jérome",
+          "nom_complet": "Jérome CAMIER",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "LECOMPTE",
+          "prenom": "Laëtitia",
+          "nom_complet": "Laëtitia LECOMPTE",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "CLERCQ",
+          "prenom": "Cédric",
+          "nom_complet": "Cédric CLERCQ",
+          "sexe": "M",
+          "age": 33,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "HENNEBICQ",
+          "prenom": "Catherine",
+          "nom_complet": "Catherine HENNEBICQ",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "ALEXANDRE",
+          "prenom": "Jérome",
+          "nom_complet": "Jérome ALEXANDRE",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "CAPELLE",
+          "prenom": "Karine",
+          "nom_complet": "Karine CAPELLE",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "DELVAL",
+          "prenom": "Michel",
+          "nom_complet": "Michel DELVAL",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

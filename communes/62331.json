@@ -1,0 +1,183 @@
+{
+  "code_commune": "62331",
+  "commune": "Feuchy",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "POTEZ",
+    "prenom": "Roger",
+    "nom_complet": "Roger POTEZ",
+    "age": 80,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 798,
+    "votants": 563,
+    "pct_votants": 70.55,
+    "abstentions": 235,
+    "pct_abstentions": 29.45,
+    "exprimes": 548
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "De l'expérience et de l'engagement pour FEUCHY",
+      "libelle_abrege_liste": "De l'expérience et de l'engagement pour FEUCHY",
+      "nuance_liste": null,
+      "voix": 307,
+      "pct_voix_exprimes": 56.02,
+      "sieges_cm": 12,
+      "sieges_cc": null,
+      "nb_elus": 12,
+      "tete_de_liste": {
+        "nom": "POTEZ",
+        "prenom": "Roger",
+        "nom_complet": "Roger POTEZ",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "POTEZ",
+          "prenom": "Roger",
+          "nom_complet": "Roger POTEZ",
+          "sexe": "M",
+          "age": 80,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BOUTTEMY",
+          "prenom": "Corinne",
+          "nom_complet": "Corinne BOUTTEMY",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "PECQUEUR",
+          "prenom": "Jean-Luc",
+          "nom_complet": "Jean-Luc PECQUEUR",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BÉCU",
+          "prenom": "Mélanie",
+          "nom_complet": "Mélanie BÉCU",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DUBLEUMORTIER",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier DUBLEUMORTIER",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "MARTIN",
+          "prenom": "Béatrice",
+          "nom_complet": "Béatrice MARTIN",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "CHIVOT",
+          "prenom": "Serge",
+          "nom_complet": "Serge CHIVOT",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "GRIMBERT",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie GRIMBERT",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "GIVRY",
+          "prenom": "Jean-Michel",
+          "nom_complet": "Jean-Michel GIVRY",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "CAPON",
+          "prenom": "Audrey",
+          "nom_complet": "Audrey CAPON",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "MERCIER",
+          "prenom": "Gilles",
+          "nom_complet": "Gilles MERCIER",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "DOUCHET",
+          "prenom": "Lidwine",
+          "nom_complet": "Lidwine DOUCHET",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "12"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ENSEMBLE POUR FEUCHY",
+      "libelle_abrege_liste": "ENSEMBLE POUR FEUCHY",
+      "nuance_liste": null,
+      "voix": 241,
+      "pct_voix_exprimes": 43.98,
+      "sieges_cm": 3,
+      "sieges_cc": null,
+      "nb_elus": 3,
+      "tete_de_liste": {
+        "nom": "COUSSIN RUMAUX",
+        "prenom": "Amélie",
+        "nom_complet": "Amélie COUSSIN RUMAUX",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "COUSSIN RUMAUX",
+          "prenom": "Amélie",
+          "nom_complet": "Amélie COUSSIN RUMAUX",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "CORREIA",
+          "prenom": "Damien",
+          "nom_complet": "Damien CORREIA",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "HALBOT",
+          "prenom": "Sonia",
+          "nom_complet": "Sonia HALBOT",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "3"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

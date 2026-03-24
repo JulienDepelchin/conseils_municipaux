@@ -1,0 +1,163 @@
+{
+  "code_commune": "59505",
+  "commune": "Rombies-et-Marchipont",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "DOLET",
+    "prenom": "Agnès",
+    "nom_complet": "Agnès DOLET",
+    "age": 68,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 586,
+    "votants": 355,
+    "pct_votants": 60.58,
+    "abstentions": 231,
+    "pct_abstentions": 39.42,
+    "exprimes": 340
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "AGIR ENSEMBLE POUR ROMBIES-ET-MARCHIPONT",
+      "libelle_abrege_liste": "AGIR ENSEMBLE POUR ROMBIES-ET-MARCHIPONT",
+      "nuance_liste": null,
+      "voix": 340,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "DOLET",
+        "prenom": "Agnès",
+        "nom_complet": "Agnès DOLET",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "DOLET",
+          "prenom": "Agnès",
+          "nom_complet": "Agnès DOLET",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DUPONT",
+          "prenom": "Hubert",
+          "nom_complet": "Hubert DUPONT",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "ROGER",
+          "prenom": "Françoise",
+          "nom_complet": "Françoise ROGER",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LEDUC",
+          "prenom": "Thomas",
+          "nom_complet": "Thomas LEDUC",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "CHARLET",
+          "prenom": "Audrey",
+          "nom_complet": "Audrey CHARLET",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DUPONT",
+          "prenom": "Benoît",
+          "nom_complet": "Benoît DUPONT",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DELHUILLE",
+          "prenom": "Angélique",
+          "nom_complet": "Angélique DELHUILLE",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "POIX",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric POIX",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "HUART",
+          "prenom": "Marie-Laure",
+          "nom_complet": "Marie-Laure HUART",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "ZIDOURI",
+          "prenom": "Samuel",
+          "nom_complet": "Samuel ZIDOURI",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "PIGNATARO",
+          "prenom": "Joëlle",
+          "nom_complet": "Joëlle PIGNATARO",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "CHIARELLI",
+          "prenom": "Andy",
+          "nom_complet": "Andy CHIARELLI",
+          "sexe": "M",
+          "age": 33,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "DUQUESNE",
+          "prenom": "Magali",
+          "nom_complet": "Magali DUQUESNE",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "LAUDE",
+          "prenom": "Adrien",
+          "nom_complet": "Adrien LAUDE",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "CARTON",
+          "prenom": "Marie-Pierre",
+          "nom_complet": "Marie-Pierre CARTON",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

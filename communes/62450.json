@@ -1,0 +1,131 @@
+{
+  "code_commune": "62450",
+  "commune": "Hestrus",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "CARON",
+    "prenom": "Olivier",
+    "nom_complet": "Olivier CARON",
+    "age": 53,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 167,
+    "votants": 139,
+    "pct_votants": 83.23,
+    "abstentions": 28,
+    "pct_abstentions": 16.77,
+    "exprimes": 114
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "HESTRUS ENSEMBLE POUR DEMAIN",
+      "libelle_abrege_liste": "HESTRUS ENSEMBLE POUR DEMAIN",
+      "nuance_liste": null,
+      "voix": 114,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "CARON",
+        "prenom": "Olivier",
+        "nom_complet": "Olivier CARON",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "CARON",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier CARON",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BAUDEL",
+          "prenom": "Annie",
+          "nom_complet": "Annie BAUDEL",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "WAREMBOURG",
+          "prenom": "Jean-Marie",
+          "nom_complet": "Jean-Marie WAREMBOURG",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "VASSEUR",
+          "prenom": "Elodie",
+          "nom_complet": "Elodie VASSEUR",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "VASSEUR",
+          "prenom": "Benoît",
+          "nom_complet": "Benoît VASSEUR",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LOUCHART",
+          "prenom": "Maïté",
+          "nom_complet": "Maïté LOUCHART",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BOCHU",
+          "prenom": "Sébastien",
+          "nom_complet": "Sébastien BOCHU",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LEGAULT",
+          "prenom": "Laetitia",
+          "nom_complet": "Laetitia LEGAULT",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "LAQUAY",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno LAQUAY",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DEBOOM",
+          "prenom": "Julie",
+          "nom_complet": "Julie DEBOOM",
+          "sexe": "F",
+          "age": 31,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "SYS",
+          "prenom": "Xavier",
+          "nom_complet": "Xavier SYS",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

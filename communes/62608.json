@@ -1,0 +1,131 @@
+{
+  "code_commune": "62608",
+  "commune": "Neuville-Bourjonval",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "DEMARLE",
+    "prenom": "Lonni",
+    "nom_complet": "Lonni DEMARLE",
+    "age": 32,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 142,
+    "votants": 90,
+    "pct_votants": 63.38,
+    "abstentions": 52,
+    "pct_abstentions": 36.62,
+    "exprimes": 67
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Défense des intérêts communaux",
+      "libelle_abrege_liste": "Défense des intérêts communaux",
+      "nuance_liste": null,
+      "voix": 67,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "DEMARLE",
+        "prenom": "Lonni",
+        "nom_complet": "Lonni DEMARLE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DEMARLE",
+          "prenom": "Lonni",
+          "nom_complet": "Lonni DEMARLE",
+          "sexe": "M",
+          "age": 32,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DOLLE",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie DOLLE",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "PAJOT",
+          "prenom": "Pierre",
+          "nom_complet": "Pierre PAJOT",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DECOMBLE",
+          "prenom": "Bernadette",
+          "nom_complet": "Bernadette DECOMBLE",
+          "sexe": "F",
+          "age": 78,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "CARLIER",
+          "prenom": "Jean-Luc",
+          "nom_complet": "Jean-Luc CARLIER",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "BOURLON",
+          "prenom": "Dorothée",
+          "nom_complet": "Dorothée BOURLON",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "CATHELAIN",
+          "prenom": "Mathieu",
+          "nom_complet": "Mathieu CATHELAIN",
+          "sexe": "M",
+          "age": 24,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "BAILLEUL",
+          "prenom": "Alison",
+          "nom_complet": "Alison BAILLEUL",
+          "sexe": "F",
+          "age": 32,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "POUILLAUDE",
+          "prenom": "Romain",
+          "nom_complet": "Romain POUILLAUDE",
+          "sexe": "M",
+          "age": 26,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "NOE",
+          "prenom": "Mélanie",
+          "nom_complet": "Mélanie NOE",
+          "sexe": "F",
+          "age": 28,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "LEBRET",
+          "prenom": "Paul",
+          "nom_complet": "Paul LEBRET",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

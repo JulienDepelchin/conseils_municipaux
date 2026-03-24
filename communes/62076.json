@@ -1,0 +1,151 @@
+{
+  "code_commune": "62076",
+  "commune": "Bainghen",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "TERLUTTE",
+    "prenom": "Thierry",
+    "nom_complet": "Thierry TERLUTTE",
+    "age": 55,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 158,
+    "votants": 138,
+    "pct_votants": 87.34,
+    "abstentions": 20,
+    "pct_abstentions": 12.66,
+    "exprimes": 134
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Continuons ensemble pour Bainghen",
+      "libelle_abrege_liste": "Continuons ensemble pour Bainghen",
+      "nuance_liste": null,
+      "voix": 77,
+      "pct_voix_exprimes": 57.46,
+      "sieges_cm": 9,
+      "sieges_cc": null,
+      "nb_elus": 9,
+      "tete_de_liste": {
+        "nom": "TERLUTTE",
+        "prenom": "Thierry",
+        "nom_complet": "Thierry TERLUTTE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "TERLUTTE",
+          "prenom": "Thierry",
+          "nom_complet": "Thierry TERLUTTE",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "EVRARD",
+          "prenom": "Angélique",
+          "nom_complet": "Angélique EVRARD",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "HACHE",
+          "prenom": "Ludovic",
+          "nom_complet": "Ludovic HACHE",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DEKETER",
+          "prenom": "Michèle",
+          "nom_complet": "Michèle DEKETER",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "TASSART",
+          "prenom": "Gilles",
+          "nom_complet": "Gilles TASSART",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "AUBERT",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie AUBERT",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "TASSART",
+          "prenom": "Samuel",
+          "nom_complet": "Samuel TASSART",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "KHEDDACHE",
+          "prenom": "Sophie",
+          "nom_complet": "Sophie KHEDDACHE",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DALLERY",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent DALLERY",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "9"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "Ensemble pour l'avenir de Bainghen",
+      "libelle_abrege_liste": "Ensemble pour l'avenir de Bainghen",
+      "nuance_liste": null,
+      "voix": 57,
+      "pct_voix_exprimes": 42.54,
+      "sieges_cm": 2,
+      "sieges_cc": null,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "SZELAG",
+        "prenom": "Jean-Victor",
+        "nom_complet": "Jean-Victor SZELAG",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "SZELAG",
+          "prenom": "Jean-Victor",
+          "nom_complet": "Jean-Victor SZELAG",
+          "sexe": "M",
+          "age": 76,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "ALIZIER",
+          "prenom": "Florence",
+          "nom_complet": "Florence ALIZIER",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

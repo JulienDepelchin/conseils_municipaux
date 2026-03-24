@@ -1,0 +1,307 @@
+{
+  "code_commune": "59508",
+  "commune": "Roncq",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "DESMET",
+    "prenom": "Rodrigue",
+    "nom_complet": "Rodrigue DESMET",
+    "age": 51,
+    "nuance": "LDVD"
+  },
+  "resultats": {
+    "inscrits": 11026,
+    "votants": 3993,
+    "pct_votants": 36.21,
+    "abstentions": 7033,
+    "pct_abstentions": 63.79,
+    "exprimes": 3330
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ENSEMBLE POUR RONCQ AVEC RODRIGUE DESMET",
+      "libelle_abrege_liste": "ENSEMBLE POUR RONCQ AVEC RODRIGUE DESMET",
+      "nuance_liste": "LDVD",
+      "voix": 3330,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 33,
+      "sieges_cc": 1,
+      "nb_elus": 33,
+      "tete_de_liste": {
+        "nom": "DESMET",
+        "prenom": "Rodrigue",
+        "nom_complet": "Rodrigue DESMET",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DESMET",
+          "prenom": "Rodrigue",
+          "nom_complet": "Rodrigue DESMET",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "THOREZ",
+          "prenom": "Anne",
+          "nom_complet": "Anne THOREZ",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "WAQUET",
+          "prenom": "Romain",
+          "nom_complet": "Romain WAQUET",
+          "sexe": "M",
+          "age": 27,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "CASTELEIN",
+          "prenom": "Annick",
+          "nom_complet": "Annick CASTELEIN",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DA SILVA",
+          "prenom": "Antonio",
+          "nom_complet": "Antonio DA SILVA",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "ACKOU",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique ACKOU",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "TELLIER",
+          "prenom": "Thibault",
+          "nom_complet": "Thibault TELLIER",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "CARDENIA",
+          "prenom": "Edwige",
+          "nom_complet": "Edwige CARDENIA",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "MARIEN",
+          "prenom": "Julien",
+          "nom_complet": "Julien MARIEN",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "BUCHET",
+          "prenom": "Rose-Marie",
+          "nom_complet": "Rose-Marie BUCHET",
+          "sexe": "F",
+          "age": 75,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "MOTUELLE",
+          "prenom": "Jean",
+          "nom_complet": "Jean MOTUELLE",
+          "sexe": "M",
+          "age": 30,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "RIUS",
+          "prenom": "Claudie",
+          "nom_complet": "Claudie RIUS",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "GILME",
+          "prenom": "Franck",
+          "nom_complet": "Franck GILME",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "COUSTY",
+          "prenom": "Alexandra",
+          "nom_complet": "Alexandra COUSTY",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "GUIROUS",
+          "prenom": "Mustapha",
+          "nom_complet": "Mustapha GUIROUS",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "LAMBLIN",
+          "prenom": "Virginie",
+          "nom_complet": "Virginie LAMBLIN",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "DHONT",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier DHONT",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "LEDOUX LIVET",
+          "prenom": "Emilie",
+          "nom_complet": "Emilie LEDOUX LIVET",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "DUQUESNE",
+          "prenom": "Xavier",
+          "nom_complet": "Xavier DUQUESNE",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "PENET",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie PENET",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "PETILLON",
+          "prenom": "Michel",
+          "nom_complet": "Michel PETILLON",
+          "sexe": "M",
+          "age": 78,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "ZAHM",
+          "prenom": "Claudine",
+          "nom_complet": "Claudine ZAHM",
+          "sexe": "F",
+          "age": 82,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "HAZEBROUCK",
+          "prenom": "Hervé",
+          "nom_complet": "Hervé HAZEBROUCK",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "23"
+        },
+        {
+          "nom": "LESCOUFFE",
+          "prenom": "Caroline",
+          "nom_complet": "Caroline LESCOUFFE",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "24"
+        },
+        {
+          "nom": "DJERNI-HAYTE",
+          "prenom": "Nathan",
+          "nom_complet": "Nathan DJERNI-HAYTE",
+          "sexe": "M",
+          "age": 21,
+          "rang_liste": "25"
+        },
+        {
+          "nom": "BECQUART",
+          "prenom": "Charline",
+          "nom_complet": "Charline BECQUART",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "26"
+        },
+        {
+          "nom": "LEROY",
+          "prenom": "Paul André",
+          "nom_complet": "Paul André LEROY",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "27"
+        },
+        {
+          "nom": "CHEROUTRE",
+          "prenom": "Lana",
+          "nom_complet": "Lana CHEROUTRE",
+          "sexe": "F",
+          "age": 22,
+          "rang_liste": "28"
+        },
+        {
+          "nom": "DELEPIERRE",
+          "prenom": "Ludovic",
+          "nom_complet": "Ludovic DELEPIERRE",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "29"
+        },
+        {
+          "nom": "IBAZ",
+          "prenom": "Nassima",
+          "nom_complet": "Nassima IBAZ",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "30"
+        },
+        {
+          "nom": "DI BARTOLO",
+          "prenom": "Alexandre",
+          "nom_complet": "Alexandre DI BARTOLO",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "31"
+        },
+        {
+          "nom": "LECLUYSE",
+          "prenom": "Virginie",
+          "nom_complet": "Virginie LECLUYSE",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "32"
+        },
+        {
+          "nom": "DECROCK",
+          "prenom": "Baptiste",
+          "nom_complet": "Baptiste DECROCK",
+          "sexe": "M",
+          "age": 24,
+          "rang_liste": "33"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

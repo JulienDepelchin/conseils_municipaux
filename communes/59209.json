@@ -1,0 +1,183 @@
+{
+  "code_commune": "59209",
+  "commune": "Esnes",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "KOMAR",
+    "prenom": "Michel",
+    "nom_complet": "Michel KOMAR",
+    "age": 60,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 510,
+    "votants": 353,
+    "pct_votants": 69.22,
+    "abstentions": 157,
+    "pct_abstentions": 30.78,
+    "exprimes": 349
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "ESNES UN VILLAGE QUI NOUS RASSEMBLE ET NOUS RESSEMBLE",
+      "libelle_abrege_liste": "ESNES UN VILLAGE QUI NOUS RASSEMBLE ET NOUS RESSEMBLE",
+      "nuance_liste": null,
+      "voix": 200,
+      "pct_voix_exprimes": 57.31,
+      "sieges_cm": 12,
+      "sieges_cc": null,
+      "nb_elus": 12,
+      "tete_de_liste": {
+        "nom": "KOMAR",
+        "prenom": "Michel",
+        "nom_complet": "Michel KOMAR",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "KOMAR",
+          "prenom": "Michel",
+          "nom_complet": "Michel KOMAR",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "MAMOH",
+          "prenom": "Valérie",
+          "nom_complet": "Valérie MAMOH",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "GALIEGUE",
+          "prenom": "Dimitri",
+          "nom_complet": "Dimitri GALIEGUE",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LERICHE",
+          "prenom": "Marie",
+          "nom_complet": "Marie LERICHE",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "CARDON",
+          "prenom": "Denis",
+          "nom_complet": "Denis CARDON",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "PION",
+          "prenom": "Justine",
+          "nom_complet": "Justine PION",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "MAMOH",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal MAMOH",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "PILLET-WILL",
+          "prenom": "Mathilde",
+          "nom_complet": "Mathilde PILLET-WILL",
+          "sexe": "F",
+          "age": 33,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "MERIAUX",
+          "prenom": "Damien",
+          "nom_complet": "Damien MERIAUX",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "TRANCHANT",
+          "prenom": "Marie",
+          "nom_complet": "Marie TRANCHANT",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DERIEUX",
+          "prenom": "Gonzague",
+          "nom_complet": "Gonzague DERIEUX",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "GRENEZ",
+          "prenom": "Chantal",
+          "nom_complet": "Chantal GRENEZ",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "12"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "UNE EQUIPE UNIE POUR ESNES",
+      "libelle_abrege_liste": "UNE EQUIPE UNIE POUR ESNES",
+      "nuance_liste": null,
+      "voix": 149,
+      "pct_voix_exprimes": 42.69,
+      "sieges_cm": 3,
+      "sieges_cc": null,
+      "nb_elus": 3,
+      "tete_de_liste": {
+        "nom": "GOBERT",
+        "prenom": "Olivier",
+        "nom_complet": "Olivier GOBERT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "GOBERT",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier GOBERT",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "PREVOST",
+          "prenom": "Danielle",
+          "nom_complet": "Danielle PREVOST",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LERICHE",
+          "prenom": "Donatien",
+          "nom_complet": "Donatien LERICHE",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "3"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "code_commune": "59127",
+  "commune": "Capelle",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "BISIAUX",
+    "prenom": "Christophe",
+    "nom_complet": "Christophe BISIAUX",
+    "age": 36,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 128,
+    "votants": 70,
+    "pct_votants": 54.69,
+    "abstentions": 58,
+    "pct_abstentions": 45.31,
+    "exprimes": 59
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Cap Avenir",
+      "libelle_abrege_liste": "Cap Avenir",
+      "nuance_liste": null,
+      "voix": 59,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "BISIAUX",
+        "prenom": "Christophe",
+        "nom_complet": "Christophe BISIAUX",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BISIAUX",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe BISIAUX",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DECAUDIN",
+          "prenom": "Anne Sophie",
+          "nom_complet": "Anne Sophie DECAUDIN",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "STIÉVENARD",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal STIÉVENARD",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "NIGOT",
+          "prenom": "Véronique",
+          "nom_complet": "Véronique NIGOT",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LAURETTE",
+          "prenom": "Gérald",
+          "nom_complet": "Gérald LAURETTE",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DELAPORTE-MOUCHOTTE",
+          "prenom": "Perrine",
+          "nom_complet": "Perrine DELAPORTE-MOUCHOTTE",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BRUYANT",
+          "prenom": "Franck",
+          "nom_complet": "Franck BRUYANT",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DURANT",
+          "prenom": "Claire",
+          "nom_complet": "Claire DURANT",
+          "sexe": "F",
+          "age": 33,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "ZAKROCKI",
+          "prenom": "Aurélien",
+          "nom_complet": "Aurélien ZAKROCKI",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "VERCHAIN",
+          "prenom": "Marie-Anne",
+          "nom_complet": "Marie-Anne VERCHAIN",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "BISIAU",
+          "prenom": "Théo",
+          "nom_complet": "Théo BISIAU",
+          "sexe": "M",
+          "age": 25,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

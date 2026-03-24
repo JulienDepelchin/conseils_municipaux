@@ -1,0 +1,151 @@
+{
+  "code_commune": "59304",
+  "commune": "Herrin",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "KOLAR",
+    "prenom": "Thomas",
+    "nom_complet": "Thomas KOLAR",
+    "age": 48,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 345,
+    "votants": 276,
+    "pct_votants": 80,
+    "abstentions": 69,
+    "pct_abstentions": 20,
+    "exprimes": 269
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "L'âme Herrinoise",
+      "libelle_abrege_liste": "L'âme Herrinoise",
+      "nuance_liste": null,
+      "voix": 182,
+      "pct_voix_exprimes": 67.66,
+      "sieges_cm": 10,
+      "sieges_cc": null,
+      "nb_elus": 10,
+      "tete_de_liste": {
+        "nom": "KOLAR",
+        "prenom": "Thomas",
+        "nom_complet": "Thomas KOLAR",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "KOLAR",
+          "prenom": "Thomas",
+          "nom_complet": "Thomas KOLAR",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "PIERRINE",
+          "prenom": "Emma",
+          "nom_complet": "Emma PIERRINE",
+          "sexe": "F",
+          "age": 30,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BAUDUIN",
+          "prenom": "Dimitri",
+          "nom_complet": "Dimitri BAUDUIN",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "FAUQUEMBERGUE",
+          "prenom": "Claudine",
+          "nom_complet": "Claudine FAUQUEMBERGUE",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "CAPELLE",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno CAPELLE",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "PLANQUE",
+          "prenom": "Céline",
+          "nom_complet": "Céline PLANQUE",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "CHUFFART",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric CHUFFART",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "BILLIET",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie BILLIET",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "PASCHINA",
+          "prenom": "Serge",
+          "nom_complet": "Serge PASCHINA",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "LEROY",
+          "prenom": "Marie-José",
+          "nom_complet": "Marie-José LEROY",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "10"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "HERRIN avec Vous et pour Vous",
+      "libelle_abrege_liste": "HERRIN avec Vous et pour Vous",
+      "nuance_liste": null,
+      "voix": 87,
+      "pct_voix_exprimes": 32.34,
+      "sieges_cm": 1,
+      "sieges_cc": null,
+      "nb_elus": 1,
+      "tete_de_liste": {
+        "nom": "PROCUREUR",
+        "prenom": "Marcel",
+        "nom_complet": "Marcel PROCUREUR",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "PROCUREUR",
+          "prenom": "Marcel",
+          "nom_complet": "Marcel PROCUREUR",
+          "sexe": "M",
+          "age": 87,
+          "rang_liste": "1"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

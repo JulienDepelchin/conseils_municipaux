@@ -1,0 +1,183 @@
+{
+  "code_commune": "59190",
+  "commune": "Elesmes",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "HANNECART",
+    "prenom": "Corinne",
+    "nom_complet": "Corinne HANNECART",
+    "age": 63,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 783,
+    "votants": 634,
+    "pct_votants": 80.97,
+    "abstentions": 149,
+    "pct_abstentions": 19.03,
+    "exprimes": 623
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "ELESMES, L'ENGAGEMENT CONTINUE",
+      "libelle_abrege_liste": "ELESMES, L'ENGAGEMENT CONTINUE",
+      "nuance_liste": null,
+      "voix": 422,
+      "pct_voix_exprimes": 67.74,
+      "sieges_cm": 13,
+      "sieges_cc": 1,
+      "nb_elus": 13,
+      "tete_de_liste": {
+        "nom": "HANNECART",
+        "prenom": "Corinne",
+        "nom_complet": "Corinne HANNECART",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "HANNECART",
+          "prenom": "Corinne",
+          "nom_complet": "Corinne HANNECART",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "FEDDI",
+          "prenom": "Eric",
+          "nom_complet": "Eric FEDDI",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "VITRANT",
+          "prenom": "Brigitte",
+          "nom_complet": "Brigitte VITRANT",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LECLERCQ",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier LECLERCQ",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LEJONG",
+          "prenom": "Carole",
+          "nom_complet": "Carole LEJONG",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DEPARIS",
+          "prenom": "Thierry",
+          "nom_complet": "Thierry DEPARIS",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "APPLINCOURT",
+          "prenom": "Maryse",
+          "nom_complet": "Maryse APPLINCOURT",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "BOUBBICHE",
+          "prenom": "Fatah",
+          "nom_complet": "Fatah BOUBBICHE",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "HERMANT",
+          "prenom": "Christelle",
+          "nom_complet": "Christelle HERMANT",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "LIENARD",
+          "prenom": "Sebastien",
+          "nom_complet": "Sebastien LIENARD",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "GUIDEZ",
+          "prenom": "Sidonie",
+          "nom_complet": "Sidonie GUIDEZ",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "HENNEBERT",
+          "prenom": "Gaetan",
+          "nom_complet": "Gaetan HENNEBERT",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "FLAMANT",
+          "prenom": "Eve",
+          "nom_complet": "Eve FLAMANT",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "13"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ELESMES : ENSEMBLE",
+      "libelle_abrege_liste": "ELESMES : ENSEMBLE",
+      "nuance_liste": null,
+      "voix": 201,
+      "pct_voix_exprimes": 32.26,
+      "sieges_cm": 2,
+      "sieges_cc": 0,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "BATAILLE",
+        "prenom": "Patrick",
+        "nom_complet": "Patrick BATAILLE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BATAILLE",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick BATAILLE",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "NOEL",
+          "prenom": "Sabine",
+          "nom_complet": "Sabine NOEL",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

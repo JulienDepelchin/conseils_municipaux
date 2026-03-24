@@ -1,0 +1,163 @@
+{
+  "code_commune": "62785",
+  "commune": "Savy-Berlette",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "VAROQUI",
+    "prenom": "Jean-François",
+    "nom_complet": "Jean-François VAROQUI",
+    "age": 69,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 796,
+    "votants": 482,
+    "pct_votants": 60.55,
+    "abstentions": 314,
+    "pct_abstentions": 39.45,
+    "exprimes": 383
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "SAVY-BERLETTE - NOTRE VILLAGE - NOTRE AVENIR",
+      "libelle_abrege_liste": "SAVY-BERLETTE - NOTRE VILLAGE - NOTRE AVENIR",
+      "nuance_liste": null,
+      "voix": 383,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "VAROQUI",
+        "prenom": "Jean-François",
+        "nom_complet": "Jean-François VAROQUI",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "VAROQUI",
+          "prenom": "Jean-François",
+          "nom_complet": "Jean-François VAROQUI",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LEGRAND",
+          "prenom": "Emmanuelle",
+          "nom_complet": "Emmanuelle LEGRAND",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "TOURSEL",
+          "prenom": "Joël",
+          "nom_complet": "Joël TOURSEL",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BLONDEL",
+          "prenom": "Jacqueline",
+          "nom_complet": "Jacqueline BLONDEL",
+          "sexe": "F",
+          "age": 81,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "SAINT-LEGER",
+          "prenom": "Gilles",
+          "nom_complet": "Gilles SAINT-LEGER",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "HERBER",
+          "prenom": "Aurélie",
+          "nom_complet": "Aurélie HERBER",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DELFOSSE",
+          "prenom": "Damien",
+          "nom_complet": "Damien DELFOSSE",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "GERARD",
+          "prenom": "Vanessa",
+          "nom_complet": "Vanessa GERARD",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "GALAND",
+          "prenom": "André",
+          "nom_complet": "André GALAND",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "PRUVOST",
+          "prenom": "Martine",
+          "nom_complet": "Martine PRUVOST",
+          "sexe": "F",
+          "age": 71,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "WATTEBLED",
+          "prenom": "Benjamin",
+          "nom_complet": "Benjamin WATTEBLED",
+          "sexe": "M",
+          "age": 30,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "LOUBERT",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie LOUBERT",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "LAUZY",
+          "prenom": "Alexandre",
+          "nom_complet": "Alexandre LAUZY",
+          "sexe": "M",
+          "age": 29,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "THELLIER",
+          "prenom": "Anne",
+          "nom_complet": "Anne THELLIER",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "VAILLANT",
+          "prenom": "Romain",
+          "nom_complet": "Romain VAILLANT",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

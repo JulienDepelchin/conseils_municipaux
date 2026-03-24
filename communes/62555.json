@@ -1,0 +1,309 @@
+{
+  "code_commune": "62555",
+  "commune": "Marles-les-Mines",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "MOREAU",
+    "prenom": "Mason",
+    "nom_complet": "Mason MOREAU",
+    "age": 31,
+    "nuance": "LRN"
+  },
+  "resultats": {
+    "inscrits": 3981,
+    "votants": 2480,
+    "pct_votants": 62.3,
+    "abstentions": 1501,
+    "pct_abstentions": 37.7,
+    "exprimes": 2419
+  },
+  "listes": [
+    {
+      "num_panneau": "3",
+      "libelle_liste": "UN NOUVEL ELAN POUR MARLES",
+      "libelle_abrege_liste": "UN NOUVEL ELAN POUR MARLES",
+      "nuance_liste": "LRN",
+      "voix": 1544,
+      "pct_voix_exprimes": 63.83,
+      "sieges_cm": 24,
+      "sieges_cc": 2,
+      "nb_elus": 24,
+      "tete_de_liste": {
+        "nom": "MOREAU",
+        "prenom": "Mason",
+        "nom_complet": "Mason MOREAU",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "MOREAU",
+          "prenom": "Mason",
+          "nom_complet": "Mason MOREAU",
+          "sexe": "M",
+          "age": 31,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LEGAY",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie LEGAY",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "ROBBE",
+          "prenom": "Jérémy",
+          "nom_complet": "Jérémy ROBBE",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "MOREAU",
+          "prenom": "Aline",
+          "nom_complet": "Aline MOREAU",
+          "sexe": "F",
+          "age": 25,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "TURLURE",
+          "prenom": "Thierry",
+          "nom_complet": "Thierry TURLURE",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "GREVET",
+          "prenom": "Jennifer",
+          "nom_complet": "Jennifer GREVET",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "PAUWELS",
+          "prenom": "Fabien",
+          "nom_complet": "Fabien PAUWELS",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "VANNECKE",
+          "prenom": "Aurélie",
+          "nom_complet": "Aurélie VANNECKE",
+          "sexe": "F",
+          "age": 31,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "LAISNÉ",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe LAISNÉ",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DESMARETZ",
+          "prenom": "Charlotte",
+          "nom_complet": "Charlotte DESMARETZ",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DUBRAY",
+          "prenom": "Fabrice",
+          "nom_complet": "Fabrice DUBRAY",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "VICHERY",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie VICHERY",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "TASSEZ",
+          "prenom": "José",
+          "nom_complet": "José TASSEZ",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "BOULOGNE",
+          "prenom": "Marie",
+          "nom_complet": "Marie BOULOGNE",
+          "sexe": "F",
+          "age": 29,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "GRESSIER",
+          "prenom": "Alain",
+          "nom_complet": "Alain GRESSIER",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "FOURCROY",
+          "prenom": "Jessica",
+          "nom_complet": "Jessica FOURCROY",
+          "sexe": "F",
+          "age": 33,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "PAILLART",
+          "prenom": "Didier",
+          "nom_complet": "Didier PAILLART",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "POCQUET",
+          "prenom": "Karine",
+          "nom_complet": "Karine POCQUET",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "DELPLACE",
+          "prenom": "Jérôme",
+          "nom_complet": "Jérôme DELPLACE",
+          "sexe": "M",
+          "age": 33,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "LONCKE",
+          "prenom": "Marina",
+          "nom_complet": "Marina LONCKE",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "GARNIER",
+          "prenom": "Wesley",
+          "nom_complet": "Wesley GARNIER",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "DUBRULLE",
+          "prenom": "Audrey",
+          "nom_complet": "Audrey DUBRULLE",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "DEMOL",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal DEMOL",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "23"
+        },
+        {
+          "nom": "DAUTREMEPUICH",
+          "prenom": "Loetitia",
+          "nom_complet": "Loetitia DAUTREMEPUICH",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "24"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "MARLES, UNE VILLE QU'ON M!",
+      "libelle_abrege_liste": "MARLES, UNE VILLE QU'ON M!",
+      "nuance_liste": "LDIV",
+      "voix": 777,
+      "pct_voix_exprimes": 32.12,
+      "sieges_cm": 5,
+      "sieges_cc": 0,
+      "nb_elus": 5,
+      "tete_de_liste": {
+        "nom": "DERUELLE",
+        "prenom": "Karine",
+        "nom_complet": "Karine DERUELLE",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "DERUELLE",
+          "prenom": "Karine",
+          "nom_complet": "Karine DERUELLE",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "COUVILLERS",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas COUVILLERS",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "SZCZEPANIAK",
+          "prenom": "Caroline",
+          "nom_complet": "Caroline SZCZEPANIAK",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "WATTEL",
+          "prenom": "Jean-Marc",
+          "nom_complet": "Jean-Marc WATTEL",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "GOZET",
+          "prenom": "Annette",
+          "nom_complet": "Annette GOZET",
+          "sexe": "F",
+          "age": 70,
+          "rang_liste": "5"
+        }
+      ],
+      "statut_conseil": "autre"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "ENSEMBLE, TOUT DEVIENT POSSIBLE",
+      "libelle_abrege_liste": "ENSEMBLE, TOUT DEVIENT POSSIBLEL",
+      "nuance_liste": "LDIV",
+      "voix": 98,
+      "pct_voix_exprimes": 4.05,
+      "sieges_cm": 0,
+      "sieges_cc": 0,
+      "nb_elus": 0,
+      "tete_de_liste": null,
+      "elus": [],
+      "statut_conseil": "sans_elu"
+    }
+  ]
+}

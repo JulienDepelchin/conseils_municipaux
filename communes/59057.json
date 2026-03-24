@@ -1,0 +1,163 @@
+{
+  "code_commune": "59057",
+  "commune": "Beaudignies",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "FONTAINE",
+    "prenom": "Dominique",
+    "nom_complet": "Dominique FONTAINE",
+    "age": 69,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 422,
+    "votants": 247,
+    "pct_votants": 58.53,
+    "abstentions": 175,
+    "pct_abstentions": 41.47,
+    "exprimes": 207
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Bien être à Beaudignies",
+      "libelle_abrege_liste": "Bien être à Beaudignies",
+      "nuance_liste": null,
+      "voix": 207,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "FONTAINE",
+        "prenom": "Dominique",
+        "nom_complet": "Dominique FONTAINE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "FONTAINE",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique FONTAINE",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DUWEZ",
+          "prenom": "Dorothée",
+          "nom_complet": "Dorothée DUWEZ",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "FAUVILLE",
+          "prenom": "Bertrand",
+          "nom_complet": "Bertrand FAUVILLE",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "CONSILLE",
+          "prenom": "Fabienne",
+          "nom_complet": "Fabienne CONSILLE",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "ELIE",
+          "prenom": "Noël",
+          "nom_complet": "Noël ELIE",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "WUILLOT",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle WUILLOT",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BOSQUELLE",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique BOSQUELLE",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "NOTREDAME",
+          "prenom": "Delphine",
+          "nom_complet": "Delphine NOTREDAME",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "HENRARD",
+          "prenom": "Maxime",
+          "nom_complet": "Maxime HENRARD",
+          "sexe": "M",
+          "age": 29,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "MAUVIEL",
+          "prenom": "Brigitte",
+          "nom_complet": "Brigitte MAUVIEL",
+          "sexe": "F",
+          "age": 73,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "NOISETTE",
+          "prenom": "Thomas",
+          "nom_complet": "Thomas NOISETTE",
+          "sexe": "M",
+          "age": 30,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "BILOÉ",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie BILOÉ",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "BOURGE",
+          "prenom": "Stéphane",
+          "nom_complet": "Stéphane BOURGE",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "COULON",
+          "prenom": "Julie",
+          "nom_complet": "Julie COULON",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "BILLIET",
+          "prenom": "Gauthier",
+          "nom_complet": "Gauthier BILLIET",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

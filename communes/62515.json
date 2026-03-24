@@ -1,0 +1,163 @@
+{
+  "code_commune": "62515",
+  "commune": "Ligny-Thilloy",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "PORET",
+    "prenom": "Daniel",
+    "nom_complet": "Daniel PORET",
+    "age": 74,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 451,
+    "votants": 265,
+    "pct_votants": 58.76,
+    "abstentions": 186,
+    "pct_abstentions": 41.24,
+    "exprimes": 218
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Vivre Ensemble la Ruralité",
+      "libelle_abrege_liste": "Vivre Ensemble la Ruralité",
+      "nuance_liste": null,
+      "voix": 218,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "PORET",
+        "prenom": "Daniel",
+        "nom_complet": "Daniel PORET",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "PORET",
+          "prenom": "Daniel",
+          "nom_complet": "Daniel PORET",
+          "sexe": "M",
+          "age": 74,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DELESALLE",
+          "prenom": "Maryvonne",
+          "nom_complet": "Maryvonne DELESALLE",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "GOUDEMAND",
+          "prenom": "Bernard",
+          "nom_complet": "Bernard GOUDEMAND",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LEROY",
+          "prenom": "Chantal",
+          "nom_complet": "Chantal LEROY",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "SAUVAGE",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe SAUVAGE",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "BOUSSU",
+          "prenom": "Virginie",
+          "nom_complet": "Virginie BOUSSU",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "GRESELLE",
+          "prenom": "Lionel",
+          "nom_complet": "Lionel GRESELLE",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LAVERSIN",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie LAVERSIN",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "PETIT",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal PETIT",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "LEFEBVRE",
+          "prenom": "Elodie",
+          "nom_complet": "Elodie LEFEBVRE",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "TABARY",
+          "prenom": "Marc",
+          "nom_complet": "Marc TABARY",
+          "sexe": "M",
+          "age": 75,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "LEMAIRE",
+          "prenom": "Florinda",
+          "nom_complet": "Florinda LEMAIRE",
+          "sexe": "F",
+          "age": 33,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "DUPLOUYE",
+          "prenom": "Claude",
+          "nom_complet": "Claude DUPLOUYE",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "HENIQUE",
+          "prenom": "Jacqueline",
+          "nom_complet": "Jacqueline HENIQUE",
+          "sexe": "F",
+          "age": 74,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "TERNEL",
+          "prenom": "Jacky",
+          "nom_complet": "Jacky TERNEL",
+          "sexe": "M",
+          "age": 74,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

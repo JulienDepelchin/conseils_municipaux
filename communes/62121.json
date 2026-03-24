@@ -1,0 +1,131 @@
+{
+  "code_commune": "62121",
+  "commune": "Beugnâtre",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "BIENCOURT",
+    "prenom": "Hélène",
+    "nom_complet": "Hélène BIENCOURT",
+    "age": 52,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 111,
+    "votants": 65,
+    "pct_votants": 58.56,
+    "abstentions": 46,
+    "pct_abstentions": 41.44,
+    "exprimes": 51
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "NOTRE VILLAGE, NOTRE AVENIR",
+      "libelle_abrege_liste": "NOTRE VILLAGE, NOTRE AVENIR",
+      "nuance_liste": null,
+      "voix": 51,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "BIENCOURT",
+        "prenom": "Hélène",
+        "nom_complet": "Hélène BIENCOURT",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "BIENCOURT",
+          "prenom": "Hélène",
+          "nom_complet": "Hélène BIENCOURT",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "ROBIQUET",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe ROBIQUET",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DEMAY",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle DEMAY",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DEROODE",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe DEROODE",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "CRAMPON",
+          "prenom": "Sylviane",
+          "nom_complet": "Sylviane CRAMPON",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "CAILLERET",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas CAILLERET",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "CODEVELLE",
+          "prenom": "Séverine",
+          "nom_complet": "Séverine CODEVELLE",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DEKEYNE",
+          "prenom": "Hervé",
+          "nom_complet": "Hervé DEKEYNE",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "GRENDA",
+          "prenom": "Edwige",
+          "nom_complet": "Edwige GRENDA",
+          "sexe": "F",
+          "age": 78,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "THERY",
+          "prenom": "Fabrice",
+          "nom_complet": "Fabrice THERY",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "MUCHEMBLED",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie MUCHEMBLED",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

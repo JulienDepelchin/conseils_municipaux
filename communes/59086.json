@@ -1,0 +1,215 @@
+{
+  "code_commune": "59086",
+  "commune": "Boeschepe",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "VAN INGHELANDT",
+    "prenom": "Luc",
+    "nom_complet": "Luc VAN INGHELANDT",
+    "age": 66,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1752,
+    "votants": 1232,
+    "pct_votants": 70.32,
+    "abstentions": 520,
+    "pct_abstentions": 29.68,
+    "exprimes": 1173
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Tous ensemble pour Boeschepe",
+      "libelle_abrege_liste": "tepb",
+      "nuance_liste": null,
+      "voix": 899,
+      "pct_voix_exprimes": 76.64,
+      "sieges_cm": 17,
+      "sieges_cc": 1,
+      "nb_elus": 17,
+      "tete_de_liste": {
+        "nom": "VAN INGHELANDT",
+        "prenom": "Luc",
+        "nom_complet": "Luc VAN INGHELANDT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "VAN INGHELANDT",
+          "prenom": "Luc",
+          "nom_complet": "Luc VAN INGHELANDT",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DUPONT",
+          "prenom": "Marie José",
+          "nom_complet": "Marie José DUPONT",
+          "sexe": "F",
+          "age": 73,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "HALLOSSERIE",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent HALLOSSERIE",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DUVAL",
+          "prenom": "Lucile",
+          "nom_complet": "Lucile DUVAL",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "GOMBERT",
+          "prenom": "Romain",
+          "nom_complet": "Romain GOMBERT",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "VIEILLAME",
+          "prenom": "Maria",
+          "nom_complet": "Maria VIEILLAME",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "VERMEULEN",
+          "prenom": "Michel",
+          "nom_complet": "Michel VERMEULEN",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "ELIET",
+          "prenom": "Sylviane",
+          "nom_complet": "Sylviane ELIET",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "QUILLIOT",
+          "prenom": "Jean-Bernard",
+          "nom_complet": "Jean-Bernard QUILLIOT",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "HALLOSSERIE",
+          "prenom": "Cindy",
+          "nom_complet": "Cindy HALLOSSERIE",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "KNOCKAERT",
+          "prenom": "Michaël",
+          "nom_complet": "Michaël KNOCKAERT",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "COORNAERT",
+          "prenom": "Laetitia",
+          "nom_complet": "Laetitia COORNAERT",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "MONTAGNE",
+          "prenom": "Lionel",
+          "nom_complet": "Lionel MONTAGNE",
+          "sexe": "M",
+          "age": 76,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "DERHILLE",
+          "prenom": "Laurence",
+          "nom_complet": "Laurence DERHILLE",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "BOURGEOIS",
+          "prenom": "Pierre",
+          "nom_complet": "Pierre BOURGEOIS",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "PANNEKOUCKE",
+          "prenom": "Virginie",
+          "nom_complet": "Virginie PANNEKOUCKE",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "DECAYEUX",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe DECAYEUX",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "17"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "Avec vous Boeschepe",
+      "libelle_abrege_liste": "AVB",
+      "nuance_liste": null,
+      "voix": 274,
+      "pct_voix_exprimes": 23.36,
+      "sieges_cm": 2,
+      "sieges_cc": 0,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "VANENGELANDT",
+        "prenom": "Marylène",
+        "nom_complet": "Marylène VANENGELANDT",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "VANENGELANDT",
+          "prenom": "Marylène",
+          "nom_complet": "Marylène VANENGELANDT",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "CAPPON",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier CAPPON",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

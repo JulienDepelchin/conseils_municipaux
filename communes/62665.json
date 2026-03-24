@@ -1,0 +1,151 @@
+{
+  "code_commune": "62665",
+  "commune": "Le Ponchel",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "BALLART",
+    "prenom": "Sébastien",
+    "nom_complet": "Sébastien BALLART",
+    "age": 43,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 174,
+    "votants": 152,
+    "pct_votants": 87.36,
+    "abstentions": 22,
+    "pct_abstentions": 12.64,
+    "exprimes": 144
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Ensemble pour demain",
+      "libelle_abrege_liste": "Ensemble pour demain",
+      "nuance_liste": null,
+      "voix": 74,
+      "pct_voix_exprimes": 51.39,
+      "sieges_cm": 9,
+      "sieges_cc": null,
+      "nb_elus": 9,
+      "tete_de_liste": {
+        "nom": "BALLART",
+        "prenom": "Sébastien",
+        "nom_complet": "Sébastien BALLART",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BALLART",
+          "prenom": "Sébastien",
+          "nom_complet": "Sébastien BALLART",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "MALLART",
+          "prenom": "Aline",
+          "nom_complet": "Aline MALLART",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "TÊTU",
+          "prenom": "David",
+          "nom_complet": "David TÊTU",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "COZETTE",
+          "prenom": "Élodie",
+          "nom_complet": "Élodie COZETTE",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "MALLART",
+          "prenom": "Thierry",
+          "nom_complet": "Thierry MALLART",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "BARRÉ",
+          "prenom": "Chantal",
+          "nom_complet": "Chantal BARRÉ",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BARRÉ",
+          "prenom": "Ludovic",
+          "nom_complet": "Ludovic BARRÉ",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "COZETTE",
+          "prenom": "Evelyne",
+          "nom_complet": "Evelyne COZETTE",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "FRELIER",
+          "prenom": "Jean-François",
+          "nom_complet": "Jean-François FRELIER",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "9"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "ENSEMBLE POUR VOUS",
+      "libelle_abrege_liste": "ENSEMBLE POUR VOUS",
+      "nuance_liste": null,
+      "voix": 70,
+      "pct_voix_exprimes": 48.61,
+      "sieges_cm": 2,
+      "sieges_cc": null,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "DEWARUMETZ",
+        "prenom": "Jacqueline",
+        "nom_complet": "Jacqueline DEWARUMETZ",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "DEWARUMETZ",
+          "prenom": "Jacqueline",
+          "nom_complet": "Jacqueline DEWARUMETZ",
+          "sexe": "F",
+          "age": 71,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "COUVILLERS",
+          "prenom": "Romain",
+          "nom_complet": "Romain COUVILLERS",
+          "sexe": "M",
+          "age": 34,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

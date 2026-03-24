@@ -1,0 +1,247 @@
+{
+  "code_commune": "59647",
+  "commune": "Watten",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "BLIN",
+    "prenom": "Eric",
+    "nom_complet": "Eric BLIN",
+    "age": 63,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 2030,
+    "votants": 1275,
+    "pct_votants": 62.81,
+    "abstentions": 755,
+    "pct_abstentions": 37.19,
+    "exprimes": 1242
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "Le devenir pour Watten",
+      "libelle_abrege_liste": "Ldpw",
+      "nuance_liste": null,
+      "voix": 702,
+      "pct_voix_exprimes": 56.52,
+      "sieges_cm": 18,
+      "sieges_cc": 2,
+      "nb_elus": 18,
+      "tete_de_liste": {
+        "nom": "BLIN",
+        "prenom": "Eric",
+        "nom_complet": "Eric BLIN",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BLIN",
+          "prenom": "Eric",
+          "nom_complet": "Eric BLIN",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "TEMPERVILLE",
+          "prenom": "Christine",
+          "nom_complet": "Christine TEMPERVILLE",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "MARIE",
+          "prenom": "Freddy",
+          "nom_complet": "Freddy MARIE",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "GUILBERT",
+          "prenom": "Maggy",
+          "nom_complet": "Maggy GUILBERT",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DEU",
+          "prenom": "Yannick",
+          "nom_complet": "Yannick DEU",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LEBLANC",
+          "prenom": "Vanessa",
+          "nom_complet": "Vanessa LEBLANC",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BERTHELEMY",
+          "prenom": "Matthieu",
+          "nom_complet": "Matthieu BERTHELEMY",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LISE",
+          "prenom": "Juliette",
+          "nom_complet": "Juliette LISE",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "LECAT",
+          "prenom": "Gilles",
+          "nom_complet": "Gilles LECAT",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "BOSQUET",
+          "prenom": "Carole",
+          "nom_complet": "Carole BOSQUET",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "LEHMANN",
+          "prenom": "Wolfgang",
+          "nom_complet": "Wolfgang LEHMANN",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "GUILBERT",
+          "prenom": "Valérie",
+          "nom_complet": "Valérie GUILBERT",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "COUSIN",
+          "prenom": "Jean-Marie",
+          "nom_complet": "Jean-Marie COUSIN",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "VOET",
+          "prenom": "Evelyne",
+          "nom_complet": "Evelyne VOET",
+          "sexe": "F",
+          "age": 74,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "DUCATEZ",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas DUCATEZ",
+          "sexe": "M",
+          "age": 33,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "LEGRAND",
+          "prenom": "Delphine",
+          "nom_complet": "Delphine LEGRAND",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "VANGROOTENBRUELE",
+          "prenom": "Alvin",
+          "nom_complet": "Alvin VANGROOTENBRUELE",
+          "sexe": "M",
+          "age": 29,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "DARSY",
+          "prenom": "Nadia",
+          "nom_complet": "Nadia DARSY",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "18"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Objectif Watten",
+      "libelle_abrege_liste": "OW",
+      "nuance_liste": null,
+      "voix": 540,
+      "pct_voix_exprimes": 43.48,
+      "sieges_cm": 5,
+      "sieges_cc": 0,
+      "nb_elus": 5,
+      "tete_de_liste": {
+        "nom": "DESCHODT",
+        "prenom": "Daniel",
+        "nom_complet": "Daniel DESCHODT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DESCHODT",
+          "prenom": "Daniel",
+          "nom_complet": "Daniel DESCHODT",
+          "sexe": "M",
+          "age": 78,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "ROUSSELLE",
+          "prenom": "Anne",
+          "nom_complet": "Anne ROUSSELLE",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "AVART",
+          "prenom": "Jean-Luc",
+          "nom_complet": "Jean-Luc AVART",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "SCOTTÉ",
+          "prenom": "Sandra",
+          "nom_complet": "Sandra SCOTTÉ",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DUCROCQ",
+          "prenom": "Joël",
+          "nom_complet": "Joël DUCROCQ",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "5"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "code_commune": "62719",
+  "commune": "Rollancourt",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "GERMAIN",
+    "prenom": "Antoine",
+    "nom_complet": "Antoine GERMAIN",
+    "age": 33,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 204,
+    "votants": 141,
+    "pct_votants": 69.12,
+    "abstentions": 63,
+    "pct_abstentions": 30.88,
+    "exprimes": 97
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "TERRE DE ROLLANCOURT",
+      "libelle_abrege_liste": "TERRE DE ROLLANCOURT",
+      "nuance_liste": null,
+      "voix": 97,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "GERMAIN",
+        "prenom": "Antoine",
+        "nom_complet": "Antoine GERMAIN",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "GERMAIN",
+          "prenom": "Antoine",
+          "nom_complet": "Antoine GERMAIN",
+          "sexe": "M",
+          "age": 33,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BARBE",
+          "prenom": "Anne",
+          "nom_complet": "Anne BARBE",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "VERNY",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe VERNY",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BERNARD",
+          "prenom": "Solène",
+          "nom_complet": "Solène BERNARD",
+          "sexe": "F",
+          "age": 27,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "GUFFROY",
+          "prenom": "David",
+          "nom_complet": "David GUFFROY",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LEPRÊTRE",
+          "prenom": "Charlotte",
+          "nom_complet": "Charlotte LEPRÊTRE",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "ALISSE",
+          "prenom": "Charles",
+          "nom_complet": "Charles ALISSE",
+          "sexe": "M",
+          "age": 28,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "PONT",
+          "prenom": "Sophie",
+          "nom_complet": "Sophie PONT",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "THUILLIEZ",
+          "prenom": "Jérôme",
+          "nom_complet": "Jérôme THUILLIEZ",
+          "sexe": "M",
+          "age": 29,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "LAMOTTE",
+          "prenom": "Lucy",
+          "nom_complet": "Lucy LAMOTTE",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "KINOO",
+          "prenom": "André",
+          "nom_complet": "André KINOO",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

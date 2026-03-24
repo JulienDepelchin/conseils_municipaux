@@ -1,0 +1,183 @@
+{
+  "code_commune": "59130",
+  "commune": "Cappelle-Brouck",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "OLIVIERI",
+    "prenom": "Guillaume",
+    "nom_complet": "Guillaume OLIVIERI",
+    "age": 49,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 966,
+    "votants": 687,
+    "pct_votants": 71.12,
+    "abstentions": 279,
+    "pct_abstentions": 28.88,
+    "exprimes": 672
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Cappelle Brouck : Un héritage à faire vivre, un futur à bâtir !",
+      "libelle_abrege_liste": "CBHF",
+      "nuance_liste": null,
+      "voix": 374,
+      "pct_voix_exprimes": 55.65,
+      "sieges_cm": 11,
+      "sieges_cc": 2,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "OLIVIERI",
+        "prenom": "Guillaume",
+        "nom_complet": "Guillaume OLIVIERI",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "OLIVIERI",
+          "prenom": "Guillaume",
+          "nom_complet": "Guillaume OLIVIERI",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "VERCAMER",
+          "prenom": "Audrey",
+          "nom_complet": "Audrey VERCAMER",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BAYART",
+          "prenom": "Thierry",
+          "nom_complet": "Thierry BAYART",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "POUMAËR",
+          "prenom": "Prescillia",
+          "nom_complet": "Prescillia POUMAËR",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DEBOUDT",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique DEBOUDT",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "JOSSE",
+          "prenom": "Marion",
+          "nom_complet": "Marion JOSSE",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DUYTSCHE",
+          "prenom": "Jean-Luc",
+          "nom_complet": "Jean-Luc DUYTSCHE",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "MERLEN",
+          "prenom": "Mathilde",
+          "nom_complet": "Mathilde MERLEN",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DEMESSANGE-JACQUES",
+          "prenom": "Simon",
+          "nom_complet": "Simon DEMESSANGE-JACQUES",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "CATRIX",
+          "prenom": "Céline",
+          "nom_complet": "Céline CATRIX",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "ZAWODA",
+          "prenom": "Désiré",
+          "nom_complet": "Désiré ZAWODA",
+          "sexe": "M",
+          "age": 30,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "Liste unie pour les intérêts de Cappelle-Brouck",
+      "libelle_abrege_liste": "LUPICB",
+      "nuance_liste": null,
+      "voix": 298,
+      "pct_voix_exprimes": 44.35,
+      "sieges_cm": 4,
+      "sieges_cc": 0,
+      "nb_elus": 4,
+      "tete_de_liste": {
+        "nom": "BROUCKE",
+        "prenom": "Bernadette",
+        "nom_complet": "Bernadette BROUCKE",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "BROUCKE",
+          "prenom": "Bernadette",
+          "nom_complet": "Bernadette BROUCKE",
+          "sexe": "F",
+          "age": 71,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "TERNYNCK",
+          "prenom": "Jean-Louis",
+          "nom_complet": "Jean-Louis TERNYNCK",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DAUCHY",
+          "prenom": "Christine",
+          "nom_complet": "Christine DAUCHY",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "POULAIN",
+          "prenom": "Eric",
+          "nom_complet": "Eric POULAIN",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "4"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

@@ -1,0 +1,197 @@
+{
+  "code_commune": "59613",
+  "commune": "Vicq",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "DULION",
+    "prenom": "Jean-Charles",
+    "nom_complet": "Jean-Charles DULION",
+    "age": 63,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1003,
+    "votants": 675,
+    "pct_votants": 67.3,
+    "abstentions": 328,
+    "pct_abstentions": 32.7,
+    "exprimes": 475
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "Vicq Ensemble",
+      "libelle_abrege_liste": "Vicq Ensemble",
+      "nuance_liste": null,
+      "voix": 282,
+      "pct_voix_exprimes": 59.37,
+      "sieges_cm": 12,
+      "sieges_cc": 1,
+      "nb_elus": 12,
+      "tete_de_liste": {
+        "nom": "DULION",
+        "prenom": "Jean-Charles",
+        "nom_complet": "Jean-Charles DULION",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DULION",
+          "prenom": "Jean-Charles",
+          "nom_complet": "Jean-Charles DULION",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "MARCANT",
+          "prenom": "Arlette",
+          "nom_complet": "Arlette MARCANT",
+          "sexe": "F",
+          "age": 77,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "MIKULA",
+          "prenom": "Pierre",
+          "nom_complet": "Pierre MIKULA",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "GMEINDL",
+          "prenom": "Séverine",
+          "nom_complet": "Séverine GMEINDL",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DUMINY",
+          "prenom": "Eric",
+          "nom_complet": "Eric DUMINY",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "MORCHIPONT",
+          "prenom": "Muriel",
+          "nom_complet": "Muriel MORCHIPONT",
+          "sexe": "F",
+          "age": 70,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "FUGALDI",
+          "prenom": "Stéphane",
+          "nom_complet": "Stéphane FUGALDI",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "PAMELARD",
+          "prenom": "Alexandra",
+          "nom_complet": "Alexandra PAMELARD",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "PETIAU",
+          "prenom": "Geoffrey",
+          "nom_complet": "Geoffrey PETIAU",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "FIQUET",
+          "prenom": "Typhanie",
+          "nom_complet": "Typhanie FIQUET",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "LAMBERT",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas LAMBERT",
+          "sexe": "M",
+          "age": 30,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "MONARD",
+          "prenom": "Ludivine",
+          "nom_complet": "Ludivine MONARD",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "12"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "VICQ BOUGEONS ENSEMBLE",
+      "libelle_abrege_liste": "VICQ BOUGEONS ENSEMBLE",
+      "nuance_liste": null,
+      "voix": 193,
+      "pct_voix_exprimes": 40.63,
+      "sieges_cm": 3,
+      "sieges_cc": 0,
+      "nb_elus": 3,
+      "tete_de_liste": {
+        "nom": "GLOWACKI",
+        "prenom": "Christian",
+        "nom_complet": "Christian GLOWACKI",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "GLOWACKI",
+          "prenom": "Christian",
+          "nom_complet": "Christian GLOWACKI",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "MARIE-RIZZO",
+          "prenom": "Emilie",
+          "nom_complet": "Emilie MARIE-RIZZO",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BATON",
+          "prenom": "Jean-Bernard",
+          "nom_complet": "Jean-Bernard BATON",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "3"
+        }
+      ],
+      "statut_conseil": "autre"
+    },
+    {
+      "num_panneau": "3",
+      "libelle_liste": "UN NOUVEAU SOUFFLE POUR VICQ",
+      "libelle_abrege_liste": "UN NOUVEAU SOUFFLE POUR VICQ",
+      "nuance_liste": null,
+      "voix": 0,
+      "pct_voix_exprimes": 0,
+      "sieges_cm": 0,
+      "sieges_cc": 0,
+      "nb_elus": 0,
+      "tete_de_liste": null,
+      "elus": [],
+      "statut_conseil": "sans_elu"
+    }
+  ]
+}

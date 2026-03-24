@@ -1,0 +1,99 @@
+{
+  "code_commune": "62547",
+  "commune": "Marant",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "BOUCHARD",
+    "prenom": "Dany",
+    "nom_complet": "Dany BOUCHARD",
+    "age": 65,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 66,
+    "votants": 44,
+    "pct_votants": 66.67,
+    "abstentions": 22,
+    "pct_abstentions": 33.33,
+    "exprimes": 39
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Pour les intérêts de la commune et dans la limite du budget",
+      "libelle_abrege_liste": "Pour les intérêts de la commune et dans la limite du budget",
+      "nuance_liste": null,
+      "voix": 39,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 7,
+      "sieges_cc": null,
+      "nb_elus": 7,
+      "tete_de_liste": {
+        "nom": "BOUCHARD",
+        "prenom": "Dany",
+        "nom_complet": "Dany BOUCHARD",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BOUCHARD",
+          "prenom": "Dany",
+          "nom_complet": "Dany BOUCHARD",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DERAM",
+          "prenom": "Sandrine",
+          "nom_complet": "Sandrine DERAM",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "CARPENTIER",
+          "prenom": "Alain",
+          "nom_complet": "Alain CARPENTIER",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BERNARD",
+          "prenom": "Cathy",
+          "nom_complet": "Cathy BERNARD",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "MAGNIER",
+          "prenom": "Maxime",
+          "nom_complet": "Maxime MAGNIER",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "MLINAR-POPOWICZ",
+          "prenom": "Natacha",
+          "nom_complet": "Natacha MLINAR-POPOWICZ",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "VALOUR",
+          "prenom": "Eric",
+          "nom_complet": "Eric VALOUR",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "7"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "code_commune": "62052",
+  "commune": "Audembert",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "ADMONT",
+    "prenom": "Jean-Pierre",
+    "nom_complet": "Jean-Pierre ADMONT",
+    "age": 65,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 343,
+    "votants": 283,
+    "pct_votants": 82.51,
+    "abstentions": 60,
+    "pct_abstentions": 17.49,
+    "exprimes": 275
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "POURSUIVRE ENSEMBLE POUR AUDEMBERT",
+      "libelle_abrege_liste": "POURSUIVRE ENSEMBLE POUR AUDEMBERT",
+      "nuance_liste": null,
+      "voix": 186,
+      "pct_voix_exprimes": 67.64,
+      "sieges_cm": 10,
+      "sieges_cc": null,
+      "nb_elus": 10,
+      "tete_de_liste": {
+        "nom": "ADMONT",
+        "prenom": "Jean-Pierre",
+        "nom_complet": "Jean-Pierre ADMONT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "ADMONT",
+          "prenom": "Jean-Pierre",
+          "nom_complet": "Jean-Pierre ADMONT",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "GUFFROY",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie GUFFROY",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "MARTEL",
+          "prenom": "Jean-Rene",
+          "nom_complet": "Jean-Rene MARTEL",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "MUCHERY",
+          "prenom": "Anne-Sylvie",
+          "nom_complet": "Anne-Sylvie MUCHERY",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "BONNINGUE",
+          "prenom": "Guy",
+          "nom_complet": "Guy BONNINGUE",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "POLY",
+          "prenom": "Mathilde",
+          "nom_complet": "Mathilde POLY",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DEVIN",
+          "prenom": "Raymond",
+          "nom_complet": "Raymond DEVIN",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "PREVISANI",
+          "prenom": "Sophie",
+          "nom_complet": "Sophie PREVISANI",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "GUYOT",
+          "prenom": "Bastien",
+          "nom_complet": "Bastien GUYOT",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "HONVAULT",
+          "prenom": "Cecile",
+          "nom_complet": "Cecile HONVAULT",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "10"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "CAPS POUR AUDEMBERT",
+      "libelle_abrege_liste": "CAPS POUR AUDEMBERT",
+      "nuance_liste": null,
+      "voix": 89,
+      "pct_voix_exprimes": 32.36,
+      "sieges_cm": 1,
+      "sieges_cc": null,
+      "nb_elus": 1,
+      "tete_de_liste": {
+        "nom": "DRUART",
+        "prenom": "Quentin",
+        "nom_complet": "Quentin DRUART",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DRUART",
+          "prenom": "Quentin",
+          "nom_complet": "Quentin DRUART",
+          "sexe": "M",
+          "age": 33,
+          "rang_liste": "1"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

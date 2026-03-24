@@ -1,0 +1,163 @@
+{
+  "code_commune": "62487",
+  "commune": "Landrethun-le-Nord",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "DELMAIRE",
+    "prenom": "Michel",
+    "nom_complet": "Michel DELMAIRE",
+    "age": 58,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1003,
+    "votants": 558,
+    "pct_votants": 55.63,
+    "abstentions": 445,
+    "pct_abstentions": 44.37,
+    "exprimes": 468
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ENSEMBLE POUR UN AVENIR SEREIN",
+      "libelle_abrege_liste": "ENSEMBLE POUR UN AVENIR SEREIN",
+      "nuance_liste": null,
+      "voix": 468,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": 2,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "DELMAIRE",
+        "prenom": "Michel",
+        "nom_complet": "Michel DELMAIRE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DELMAIRE",
+          "prenom": "Michel",
+          "nom_complet": "Michel DELMAIRE",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DELAVIER",
+          "prenom": "Séverine",
+          "nom_complet": "Séverine DELAVIER",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LATTAIGNANT",
+          "prenom": "Franck",
+          "nom_complet": "Franck LATTAIGNANT",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DIEUSAERT",
+          "prenom": "Marie-Christine",
+          "nom_complet": "Marie-Christine DIEUSAERT",
+          "sexe": "F",
+          "age": 73,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "BOURE",
+          "prenom": "Gérald",
+          "nom_complet": "Gérald BOURE",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DUBOIS",
+          "prenom": "Anne-Sophie",
+          "nom_complet": "Anne-Sophie DUBOIS",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "MANIEZ",
+          "prenom": "Jean-Marc",
+          "nom_complet": "Jean-Marc MANIEZ",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "BRONET",
+          "prenom": "Ingrid",
+          "nom_complet": "Ingrid BRONET",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "SINGER",
+          "prenom": "Bernard",
+          "nom_complet": "Bernard SINGER",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DECLERCQ",
+          "prenom": "Sonia",
+          "nom_complet": "Sonia DECLERCQ",
+          "sexe": "F",
+          "age": 70,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DEMARET",
+          "prenom": "David",
+          "nom_complet": "David DEMARET",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "TETTART",
+          "prenom": "Ludivine",
+          "nom_complet": "Ludivine TETTART",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "GUYOT",
+          "prenom": "Benjamin",
+          "nom_complet": "Benjamin GUYOT",
+          "sexe": "M",
+          "age": 32,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "LEFEBVRE",
+          "prenom": "Sindy",
+          "nom_complet": "Sindy LEFEBVRE",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "BETHENCOURT",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe BETHENCOURT",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

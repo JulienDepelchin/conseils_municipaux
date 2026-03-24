@@ -1,0 +1,131 @@
+{
+  "code_commune": "62283",
+  "commune": "Ecoivres",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "BRIDOUX",
+    "prenom": "Hervé",
+    "nom_complet": "Hervé BRIDOUX",
+    "age": 59,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 91,
+    "votants": 61,
+    "pct_votants": 67.03,
+    "abstentions": 30,
+    "pct_abstentions": 32.97,
+    "exprimes": 50
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ECOIVRES ENSEMBLE",
+      "libelle_abrege_liste": "ECOIVRES ENSEMBLE",
+      "nuance_liste": null,
+      "voix": 50,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "BRIDOUX",
+        "prenom": "Hervé",
+        "nom_complet": "Hervé BRIDOUX",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BRIDOUX",
+          "prenom": "Hervé",
+          "nom_complet": "Hervé BRIDOUX",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "TIMMERMAN",
+          "prenom": "Nadine",
+          "nom_complet": "Nadine TIMMERMAN",
+          "sexe": "F",
+          "age": 70,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BILLAUD",
+          "prenom": "Gauthier",
+          "nom_complet": "Gauthier BILLAUD",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BRIDOUX",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie BRIDOUX",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "WARON",
+          "prenom": "Jean-Marie",
+          "nom_complet": "Jean-Marie WARON",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "COUSTENOBLE",
+          "prenom": "Françoise",
+          "nom_complet": "Françoise COUSTENOBLE",
+          "sexe": "F",
+          "age": 78,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "HOUCHE",
+          "prenom": "Jean-Michel",
+          "nom_complet": "Jean-Michel HOUCHE",
+          "sexe": "M",
+          "age": 74,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "SCHNEIDER",
+          "prenom": "Krystel",
+          "nom_complet": "Krystel SCHNEIDER",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "BILLAUD",
+          "prenom": "Matthieu",
+          "nom_complet": "Matthieu BILLAUD",
+          "sexe": "M",
+          "age": 25,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "BUTET",
+          "prenom": "Marion",
+          "nom_complet": "Marion BUTET",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DOZINEL",
+          "prenom": "Bastien",
+          "nom_complet": "Bastien DOZINEL",
+          "sexe": "M",
+          "age": 19,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

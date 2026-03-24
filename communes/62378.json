@@ -1,0 +1,131 @@
+{
+  "code_commune": "62378",
+  "commune": "Gouves",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "DELATTRE",
+    "prenom": "Romuald",
+    "nom_complet": "Romuald DELATTRE",
+    "age": 44,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 161,
+    "votants": 99,
+    "pct_votants": 61.49,
+    "abstentions": 62,
+    "pct_abstentions": 38.51,
+    "exprimes": 94
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Ensemble pour Gouves",
+      "libelle_abrege_liste": "Ensemble pour Gouves",
+      "nuance_liste": null,
+      "voix": 94,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "DELATTRE",
+        "prenom": "Romuald",
+        "nom_complet": "Romuald DELATTRE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DELATTRE",
+          "prenom": "Romuald",
+          "nom_complet": "Romuald DELATTRE",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LECOSSOIS",
+          "prenom": "Jacqueline",
+          "nom_complet": "Jacqueline LECOSSOIS",
+          "sexe": "F",
+          "age": 70,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LIÉNARD",
+          "prenom": "Hugues",
+          "nom_complet": "Hugues LIÉNARD",
+          "sexe": "M",
+          "age": 78,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DUCROTOY",
+          "prenom": "Catherine",
+          "nom_complet": "Catherine DUCROTOY",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "WATRELOT",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal WATRELOT",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DESFRANCOIS",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie DESFRANCOIS",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DEGORRE",
+          "prenom": "Jean-Bernard",
+          "nom_complet": "Jean-Bernard DEGORRE",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "BOURIEZ",
+          "prenom": "Emmanuelle",
+          "nom_complet": "Emmanuelle BOURIEZ",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "VERTAIN",
+          "prenom": "Félix",
+          "nom_complet": "Félix VERTAIN",
+          "sexe": "M",
+          "age": 31,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "LEBLOND",
+          "prenom": "Carine",
+          "nom_complet": "Carine LEBLOND",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "MERVILLE",
+          "prenom": "Denis",
+          "nom_complet": "Denis MERVILLE",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

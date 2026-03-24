@@ -1,0 +1,163 @@
+{
+  "code_commune": "59318",
+  "commune": "Houtkerque",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "BEVER",
+    "prenom": "Samuel",
+    "nom_complet": "Samuel BEVER",
+    "age": 66,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 743,
+    "votants": 430,
+    "pct_votants": 57.87,
+    "abstentions": 313,
+    "pct_abstentions": 42.13,
+    "exprimes": 367
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ENSEMBLE POUR UN VILLAGE QUI NOUS RASSEMBLE",
+      "libelle_abrege_liste": "ENSEMBLE POUR UN VILLAGE QUI NOUS RASSEMBLE",
+      "nuance_liste": null,
+      "voix": 367,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "BEVER",
+        "prenom": "Samuel",
+        "nom_complet": "Samuel BEVER",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BEVER",
+          "prenom": "Samuel",
+          "nom_complet": "Samuel BEVER",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "AUDEGON",
+          "prenom": "Blandine",
+          "nom_complet": "Blandine AUDEGON",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DEMADE",
+          "prenom": "Arnaud",
+          "nom_complet": "Arnaud DEMADE",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "CARON",
+          "prenom": "Sabine",
+          "nom_complet": "Sabine CARON",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LAMOTE",
+          "prenom": "Julien",
+          "nom_complet": "Julien LAMOTE",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DELESALLE",
+          "prenom": "Marie",
+          "nom_complet": "Marie DELESALLE",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "LAREAL",
+          "prenom": "Didier",
+          "nom_complet": "Didier LAREAL",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "ELLEBOUDT",
+          "prenom": "Edith",
+          "nom_complet": "Edith ELLEBOUDT",
+          "sexe": "F",
+          "age": 78,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "PEEL",
+          "prenom": "Eric",
+          "nom_complet": "Eric PEEL",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "FLORENT",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie FLORENT",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "POUCHELE",
+          "prenom": "Stéphane",
+          "nom_complet": "Stéphane POUCHELE",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "LACROIX",
+          "prenom": "Jennifer",
+          "nom_complet": "Jennifer LACROIX",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "TORCQ",
+          "prenom": "Rémi",
+          "nom_complet": "Rémi TORCQ",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "THORIS",
+          "prenom": "Caroline",
+          "nom_complet": "Caroline THORIS",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "VERRYSER",
+          "prenom": "Stéphane",
+          "nom_complet": "Stéphane VERRYSER",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

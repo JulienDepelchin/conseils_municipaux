@@ -1,0 +1,131 @@
+{
+  "code_commune": "59176",
+  "commune": "Doignies",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "MOMPACH",
+    "prenom": "Pascal",
+    "nom_complet": "Pascal MOMPACH",
+    "age": 65,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 262,
+    "votants": 156,
+    "pct_votants": 59.54,
+    "abstentions": 106,
+    "pct_abstentions": 40.46,
+    "exprimes": 119
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Continuons ensemble pour l'avenir",
+      "libelle_abrege_liste": "Continuons ensemble pour l'avenir",
+      "nuance_liste": null,
+      "voix": 119,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "MOMPACH",
+        "prenom": "Pascal",
+        "nom_complet": "Pascal MOMPACH",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "MOMPACH",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal MOMPACH",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DUQUESNE",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie DUQUESNE",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "SCHRYVE",
+          "prenom": "Stéphane",
+          "nom_complet": "Stéphane SCHRYVE",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LEDO",
+          "prenom": "Edith",
+          "nom_complet": "Edith LEDO",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "MANOUVRIER",
+          "prenom": "Jean-Luc",
+          "nom_complet": "Jean-Luc MANOUVRIER",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "BAUDUIN",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie BAUDUIN",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "RICHARD",
+          "prenom": "Jean-Michel",
+          "nom_complet": "Jean-Michel RICHARD",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "ROUZÉ",
+          "prenom": "Marion",
+          "nom_complet": "Marion ROUZÉ",
+          "sexe": "F",
+          "age": 33,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "MERCIER",
+          "prenom": "Francis",
+          "nom_complet": "Francis MERCIER",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "VACHER",
+          "prenom": "Florence",
+          "nom_complet": "Florence VACHER",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "LELY",
+          "prenom": "François Lionel",
+          "nom_complet": "François Lionel LELY",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

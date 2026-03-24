@@ -1,0 +1,183 @@
+{
+  "code_commune": "62874",
+  "commune": "Wanquetin",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "LEFEBVRE",
+    "prenom": "Guillaume",
+    "nom_complet": "Guillaume LEFEBVRE",
+    "age": 51,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 582,
+    "votants": 457,
+    "pct_votants": 78.52,
+    "abstentions": 125,
+    "pct_abstentions": 21.48,
+    "exprimes": 442
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "WANQUETIN, UN VILLAGE UNI, UN VILLAGE QUI VIT",
+      "libelle_abrege_liste": "WANQUETIN, UN VILLAGE UNI, UN VILLAGE QUI VIT",
+      "nuance_liste": null,
+      "voix": 281,
+      "pct_voix_exprimes": 63.57,
+      "sieges_cm": 13,
+      "sieges_cc": null,
+      "nb_elus": 13,
+      "tete_de_liste": {
+        "nom": "LEFEBVRE",
+        "prenom": "Guillaume",
+        "nom_complet": "Guillaume LEFEBVRE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LEFEBVRE",
+          "prenom": "Guillaume",
+          "nom_complet": "Guillaume LEFEBVRE",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "FLAMENT",
+          "prenom": "Sonia",
+          "nom_complet": "Sonia FLAMENT",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "PENIN",
+          "prenom": "Cyril",
+          "nom_complet": "Cyril PENIN",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BRABANT",
+          "prenom": "Carine",
+          "nom_complet": "Carine BRABANT",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "JAGOURY",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick JAGOURY",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LEMAIRE",
+          "prenom": "Marie-José",
+          "nom_complet": "Marie-José LEMAIRE",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "ZURAWSKI",
+          "prenom": "Christian",
+          "nom_complet": "Christian ZURAWSKI",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "CARON",
+          "prenom": "Janique",
+          "nom_complet": "Janique CARON",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "BEN",
+          "prenom": "Stéphane",
+          "nom_complet": "Stéphane BEN",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "PHILIPPE",
+          "prenom": "Céline",
+          "nom_complet": "Céline PHILIPPE",
+          "sexe": "F",
+          "age": 32,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "FROMENT",
+          "prenom": "Maxime",
+          "nom_complet": "Maxime FROMENT",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "CONFURON",
+          "prenom": "Amélie",
+          "nom_complet": "Amélie CONFURON",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "BOULANGER",
+          "prenom": "Jonathan",
+          "nom_complet": "Jonathan BOULANGER",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "13"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "WANQUETIN NOTRE AMBITION COMMUNE",
+      "libelle_abrege_liste": "WANQUETIN NOTRE AMBITION COMMUNE",
+      "nuance_liste": null,
+      "voix": 161,
+      "pct_voix_exprimes": 36.43,
+      "sieges_cm": 2,
+      "sieges_cc": null,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "ROMAND",
+        "prenom": "Jean-Yves",
+        "nom_complet": "Jean-Yves ROMAND",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "ROMAND",
+          "prenom": "Jean-Yves",
+          "nom_complet": "Jean-Yves ROMAND",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "CAUDRON",
+          "prenom": "Claudie",
+          "nom_complet": "Claudie CAUDRON",
+          "sexe": "F",
+          "age": 72,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

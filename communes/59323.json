@@ -1,0 +1,163 @@
+{
+  "code_commune": "59323",
+  "commune": "Jenlain",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "DREMAUX",
+    "prenom": "Johan",
+    "nom_complet": "Johan DREMAUX",
+    "age": 57,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 931,
+    "votants": 524,
+    "pct_votants": 56.28,
+    "abstentions": 407,
+    "pct_abstentions": 43.72,
+    "exprimes": 453
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "JENLAIN, NOTRE AVENIR COMMUN",
+      "libelle_abrege_liste": "JENLAIN, NOTRE AVENIR COMMUN",
+      "nuance_liste": null,
+      "voix": 453,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": 1,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "DREMAUX",
+        "prenom": "Johan",
+        "nom_complet": "Johan DREMAUX",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DREMAUX",
+          "prenom": "Johan",
+          "nom_complet": "Johan DREMAUX",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "TERPOORTER",
+          "prenom": "Anaïs",
+          "nom_complet": "Anaïs TERPOORTER",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "GRAVEZ",
+          "prenom": "Jean-Louis",
+          "nom_complet": "Jean-Louis GRAVEZ",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BULTOT",
+          "prenom": "Anne",
+          "nom_complet": "Anne BULTOT",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DERCHEZ",
+          "prenom": "Ludovic",
+          "nom_complet": "Ludovic DERCHEZ",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "NOBECOURT",
+          "prenom": "Charlotte",
+          "nom_complet": "Charlotte NOBECOURT",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "SZABLA",
+          "prenom": "Frederic",
+          "nom_complet": "Frederic SZABLA",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "CARLES",
+          "prenom": "Coline",
+          "nom_complet": "Coline CARLES",
+          "sexe": "F",
+          "age": 25,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "PORTIER",
+          "prenom": "Yves",
+          "nom_complet": "Yves PORTIER",
+          "sexe": "M",
+          "age": 75,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DELVALLEE",
+          "prenom": "Amandine",
+          "nom_complet": "Amandine DELVALLEE",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "PREVOST",
+          "prenom": "Eddy",
+          "nom_complet": "Eddy PREVOST",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "SCOYER",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie SCOYER",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "CHARPENTIER",
+          "prenom": "Jacky",
+          "nom_complet": "Jacky CHARPENTIER",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "SCHAFFAUSER",
+          "prenom": "Caroline",
+          "nom_complet": "Caroline SCHAFFAUSER",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "DERBAY",
+          "prenom": "Daniel",
+          "nom_complet": "Daniel DERBAY",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

@@ -1,0 +1,195 @@
+{
+  "code_commune": "59123",
+  "commune": "Camphin-en-Carembault",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "LESTOQUOY",
+    "prenom": "Matthieu",
+    "nom_complet": "Matthieu LESTOQUOY",
+    "age": 48,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1389,
+    "votants": 778,
+    "pct_votants": 56.01,
+    "abstentions": 611,
+    "pct_abstentions": 43.99,
+    "exprimes": 725
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "CAMPHIN, VIVRE ET AGIR ENSEMBLE",
+      "libelle_abrege_liste": "CAMPHIN, VIVRE ET AGIR ENSEMBLE",
+      "nuance_liste": null,
+      "voix": 725,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 19,
+      "sieges_cc": 1,
+      "nb_elus": 19,
+      "tete_de_liste": {
+        "nom": "LESTOQUOY",
+        "prenom": "Matthieu",
+        "nom_complet": "Matthieu LESTOQUOY",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LESTOQUOY",
+          "prenom": "Matthieu",
+          "nom_complet": "Matthieu LESTOQUOY",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "POIDEVIN",
+          "prenom": "Cathy",
+          "nom_complet": "Cathy POIDEVIN",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "ACQUART",
+          "prenom": "Mathieu",
+          "nom_complet": "Mathieu ACQUART",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DE COCK",
+          "prenom": "Laurence",
+          "nom_complet": "Laurence DE COCK",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DELEIGNIES",
+          "prenom": "Sébastien",
+          "nom_complet": "Sébastien DELEIGNIES",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "ROBIQUET",
+          "prenom": "Pascale",
+          "nom_complet": "Pascale ROBIQUET",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "POTTIAU",
+          "prenom": "Alain",
+          "nom_complet": "Alain POTTIAU",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LEMAIRE",
+          "prenom": "Marina",
+          "nom_complet": "Marina LEMAIRE",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "ANDRE",
+          "prenom": "Jean-Christophe",
+          "nom_complet": "Jean-Christophe ANDRE",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "OSTANSKI",
+          "prenom": "Dorothee",
+          "nom_complet": "Dorothee OSTANSKI",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "AYROLE",
+          "prenom": "Samuel",
+          "nom_complet": "Samuel AYROLE",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "DAUTHIEU",
+          "prenom": "Cathy",
+          "nom_complet": "Cathy DAUTHIEU",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "ALEXANDRE",
+          "prenom": "Samuel",
+          "nom_complet": "Samuel ALEXANDRE",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "LALLEZ",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique LALLEZ",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "RIOM",
+          "prenom": "Christian",
+          "nom_complet": "Christian RIOM",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "GODART",
+          "prenom": "Marie-France",
+          "nom_complet": "Marie-France GODART",
+          "sexe": "F",
+          "age": 78,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "THERET",
+          "prenom": "Jocelyn",
+          "nom_complet": "Jocelyn THERET",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "FABRE",
+          "prenom": "Florence",
+          "nom_complet": "Florence FABRE",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "DEBLANDER",
+          "prenom": "Marc",
+          "nom_complet": "Marc DEBLANDER",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "19"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "code_commune": "62565",
+  "commune": "Mencas",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "MILLE",
+    "prenom": "Christian",
+    "nom_complet": "Christian MILLE",
+    "age": 68,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 64,
+    "votants": 53,
+    "pct_votants": 82.81,
+    "abstentions": 11,
+    "pct_abstentions": 17.19,
+    "exprimes": 45
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "AGIR ENSEMBLE",
+      "libelle_abrege_liste": "AGIR ENSEMBLE",
+      "nuance_liste": null,
+      "voix": 45,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 7,
+      "sieges_cc": null,
+      "nb_elus": 7,
+      "tete_de_liste": {
+        "nom": "MILLE",
+        "prenom": "Christian",
+        "nom_complet": "Christian MILLE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "MILLE",
+          "prenom": "Christian",
+          "nom_complet": "Christian MILLE",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LEPRETRE",
+          "prenom": "Marie-Hélène",
+          "nom_complet": "Marie-Hélène LEPRETRE",
+          "sexe": "F",
+          "age": 77,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DANDRE",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique DANDRE",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "PERARD",
+          "prenom": "Anita",
+          "nom_complet": "Anita PERARD",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "MARLE",
+          "prenom": "André",
+          "nom_complet": "André MARLE",
+          "sexe": "M",
+          "age": 75,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LEPRETRE",
+          "prenom": "Gwendoline",
+          "nom_complet": "Gwendoline LEPRETRE",
+          "sexe": "F",
+          "age": 26,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "AZELART",
+          "prenom": "Didier",
+          "nom_complet": "Didier AZELART",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "7"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

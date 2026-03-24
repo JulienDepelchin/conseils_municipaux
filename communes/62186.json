@@ -1,0 +1,347 @@
+{
+  "code_commune": "62186",
+  "commune": "Bully-les-Mines",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "LEMAIRE",
+    "prenom": "François",
+    "nom_complet": "François LEMAIRE",
+    "age": 58,
+    "nuance": "LSOC"
+  },
+  "resultats": {
+    "inscrits": 9416,
+    "votants": 5092,
+    "pct_votants": 54.08,
+    "abstentions": 4324,
+    "pct_abstentions": 45.92,
+    "exprimes": 4999
+  },
+  "listes": [
+    {
+      "num_panneau": "3",
+      "libelle_liste": "AU COEUR DE VOTRE QUOTIDIEN, AVEC FRANCOIS LEMAIRE",
+      "libelle_abrege_liste": "AU COEUR DE VOTRE QUOTIDIEN, AVEC FRANCOIS LEMAIRE",
+      "nuance_liste": "LSOC",
+      "voix": 2594,
+      "pct_voix_exprimes": 51.89,
+      "sieges_cm": 25,
+      "sieges_cc": 3,
+      "nb_elus": 25,
+      "tete_de_liste": {
+        "nom": "LEMAIRE",
+        "prenom": "François",
+        "nom_complet": "François LEMAIRE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LEMAIRE",
+          "prenom": "François",
+          "nom_complet": "François LEMAIRE",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BLANQUET",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie BLANQUET",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "ROBILLART",
+          "prenom": "Jérémy",
+          "nom_complet": "Jérémy ROBILLART",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "CHAUMORCEL",
+          "prenom": "Florence",
+          "nom_complet": "Florence CHAUMORCEL",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "BEN FRAJ",
+          "prenom": "Ali",
+          "nom_complet": "Ali BEN FRAJ",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "CZEKALOWSKI",
+          "prenom": "Martine",
+          "nom_complet": "Martine CZEKALOWSKI",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "PENKALLA",
+          "prenom": "Francis",
+          "nom_complet": "Francis PENKALLA",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DELENCLOS",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique DELENCLOS",
+          "sexe": "F",
+          "age": 70,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DEFRANCE",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal DEFRANCE",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "FAUCHOIS",
+          "prenom": "Véronique",
+          "nom_complet": "Véronique FAUCHOIS",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "BACCIONI",
+          "prenom": "Didier",
+          "nom_complet": "Didier BACCIONI",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "BIGET",
+          "prenom": "Magali",
+          "nom_complet": "Magali BIGET",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "RAGUENET",
+          "prenom": "Rudy",
+          "nom_complet": "Rudy RAGUENET",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "BONDOIS",
+          "prenom": "Anne",
+          "nom_complet": "Anne BONDOIS",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "BROULIN",
+          "prenom": "Denis",
+          "nom_complet": "Denis BROULIN",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "POUCHAIN",
+          "prenom": "Jeannine",
+          "nom_complet": "Jeannine POUCHAIN",
+          "sexe": "F",
+          "age": 85,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "CORDONNIER",
+          "prenom": "Vincent",
+          "nom_complet": "Vincent CORDONNIER",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "WATRÉ",
+          "prenom": "Josiane",
+          "nom_complet": "Josiane WATRÉ",
+          "sexe": "F",
+          "age": 75,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "OCZACHOWSKI",
+          "prenom": "Mickaël",
+          "nom_complet": "Mickaël OCZACHOWSKI",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "DESMIS",
+          "prenom": "Marine",
+          "nom_complet": "Marine DESMIS",
+          "sexe": "F",
+          "age": 26,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "VERBRUGGE",
+          "prenom": "Noé",
+          "nom_complet": "Noé VERBRUGGE",
+          "sexe": "M",
+          "age": 22,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "KARCZEWSKI",
+          "prenom": "Alexia",
+          "nom_complet": "Alexia KARCZEWSKI",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "BIGOT",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric BIGOT",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "23"
+        },
+        {
+          "nom": "KOPERSKI",
+          "prenom": "Salima",
+          "nom_complet": "Salima KOPERSKI",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "24"
+        },
+        {
+          "nom": "MONTABONE",
+          "prenom": "Pierre",
+          "nom_complet": "Pierre MONTABONE",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "25"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "BULLY-LES-MINES AVANT TOUT !",
+      "libelle_abrege_liste": "BULLY-LES-MINES AVANT TOUT !",
+      "nuance_liste": "LRN",
+      "voix": 1771,
+      "pct_voix_exprimes": 35.43,
+      "sieges_cm": 6,
+      "sieges_cc": 1,
+      "nb_elus": 6,
+      "tete_de_liste": {
+        "nom": "MELONI",
+        "prenom": "Caroline",
+        "nom_complet": "Caroline MELONI",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "MELONI",
+          "prenom": "Caroline",
+          "nom_complet": "Caroline MELONI",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "GANTIEZ",
+          "prenom": "Jean-Jacques",
+          "nom_complet": "Jean-Jacques GANTIEZ",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DUCHATEL",
+          "prenom": "Dany",
+          "nom_complet": "Dany DUCHATEL",
+          "sexe": "F",
+          "age": 72,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "CANEL",
+          "prenom": "Stephane",
+          "nom_complet": "Stephane CANEL",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "SCALISE",
+          "prenom": "Daisy",
+          "nom_complet": "Daisy SCALISE",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LEFEBVRE",
+          "prenom": "Herve",
+          "nom_complet": "Herve LEFEBVRE",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "6"
+        }
+      ],
+      "statut_conseil": "autre"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "BULLY DEMAIN, UN AVENIR EN COMMUN",
+      "libelle_abrege_liste": "BULLY DEMAIN, UN AVENIR EN COMMUN",
+      "nuance_liste": "LDIV",
+      "voix": 634,
+      "pct_voix_exprimes": 12.68,
+      "sieges_cm": 2,
+      "sieges_cc": 0,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "RIGAUD",
+        "prenom": "Christopher",
+        "nom_complet": "Christopher RIGAUD",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "RIGAUD",
+          "prenom": "Christopher",
+          "nom_complet": "Christopher RIGAUD",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "HODIN",
+          "prenom": "Brigitte",
+          "nom_complet": "Brigitte HODIN",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

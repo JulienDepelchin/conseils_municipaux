@@ -1,0 +1,131 @@
+{
+  "code_commune": "62192",
+  "commune": "Cagnicourt",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "SAMIER",
+    "prenom": "Thibaut",
+    "nom_complet": "Thibaut SAMIER",
+    "age": 42,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 298,
+    "votants": 193,
+    "pct_votants": 64.77,
+    "abstentions": 105,
+    "pct_abstentions": 35.23,
+    "exprimes": 173
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "AVEC VOUS, CONTINUONS ENSEMBLE",
+      "libelle_abrege_liste": "AVEC VOUS, CONTINUONS ENSEMBLE",
+      "nuance_liste": null,
+      "voix": 173,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "SAMIER",
+        "prenom": "Thibaut",
+        "nom_complet": "Thibaut SAMIER",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "SAMIER",
+          "prenom": "Thibaut",
+          "nom_complet": "Thibaut SAMIER",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BEAUCAMP",
+          "prenom": "Christine",
+          "nom_complet": "Christine BEAUCAMP",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "COURCOL",
+          "prenom": "Jean-Pierre",
+          "nom_complet": "Jean-Pierre COURCOL",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BUFFENOIR",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie BUFFENOIR",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "COURSIER",
+          "prenom": "Matthieu",
+          "nom_complet": "Matthieu COURSIER",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LEROUX",
+          "prenom": "Alice",
+          "nom_complet": "Alice LEROUX",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "HAVRANSART",
+          "prenom": "Guillaume",
+          "nom_complet": "Guillaume HAVRANSART",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DINCQ",
+          "prenom": "Amaria",
+          "nom_complet": "Amaria DINCQ",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "LABRE",
+          "prenom": "Luc",
+          "nom_complet": "Luc LABRE",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "TELLE",
+          "prenom": "Magali",
+          "nom_complet": "Magali TELLE",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "STRIQUE",
+          "prenom": "Vincent",
+          "nom_complet": "Vincent STRIQUE",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

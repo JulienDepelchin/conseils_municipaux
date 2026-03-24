@@ -1,0 +1,131 @@
+{
+  "code_commune": "62180",
+  "commune": "Brias",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "CLAY",
+    "prenom": "Gérard",
+    "nom_complet": "Gérard CLAY",
+    "age": 66,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 240,
+    "votants": 148,
+    "pct_votants": 61.67,
+    "abstentions": 92,
+    "pct_abstentions": 38.33,
+    "exprimes": 113
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "BRIAS ENSEMBLE",
+      "libelle_abrege_liste": "BRIAS ENSEMBLE",
+      "nuance_liste": null,
+      "voix": 113,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "CLAY",
+        "prenom": "Gérard",
+        "nom_complet": "Gérard CLAY",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "CLAY",
+          "prenom": "Gérard",
+          "nom_complet": "Gérard CLAY",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BACOT",
+          "prenom": "Sandra",
+          "nom_complet": "Sandra BACOT",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DEGRENDELE",
+          "prenom": "Mathieu",
+          "nom_complet": "Mathieu DEGRENDELE",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BACQUET",
+          "prenom": "Jennifer",
+          "nom_complet": "Jennifer BACQUET",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DEMONT",
+          "prenom": "Benjamin",
+          "nom_complet": "Benjamin DEMONT",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "CHAVOT-RICART",
+          "prenom": "Caroline",
+          "nom_complet": "Caroline CHAVOT-RICART",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DEMOULIN",
+          "prenom": "Cédric",
+          "nom_complet": "Cédric DEMOULIN",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DE CRAENE",
+          "prenom": "Véronique",
+          "nom_complet": "Véronique DE CRAENE",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "ROUSSEL",
+          "prenom": "Fabrice",
+          "nom_complet": "Fabrice ROUSSEL",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "HARTMANN",
+          "prenom": "Sabine",
+          "nom_complet": "Sabine HARTMANN",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "TALON",
+          "prenom": "Guillaume",
+          "nom_complet": "Guillaume TALON",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

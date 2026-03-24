@@ -1,0 +1,131 @@
+{
+  "code_commune": "62398",
+  "commune": "Guisy",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "COLLIEZ",
+    "prenom": "Claude",
+    "nom_complet": "Claude COLLIEZ",
+    "age": 69,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 229,
+    "votants": 148,
+    "pct_votants": 64.63,
+    "abstentions": 81,
+    "pct_abstentions": 35.37,
+    "exprimes": 134
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "GUISY, UN AVENIR CONSTRUIT ENSEMBLE",
+      "libelle_abrege_liste": "GUISY, UN AVENIR CONSTRUIT ENSEMBLE",
+      "nuance_liste": null,
+      "voix": 134,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "COLLIEZ",
+        "prenom": "Claude",
+        "nom_complet": "Claude COLLIEZ",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "COLLIEZ",
+          "prenom": "Claude",
+          "nom_complet": "Claude COLLIEZ",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "MASSON",
+          "prenom": "Renée",
+          "nom_complet": "Renée MASSON",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "CONFRÈRE",
+          "prenom": "Gilbert",
+          "nom_complet": "Gilbert CONFRÈRE",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "SART",
+          "prenom": "Martine",
+          "nom_complet": "Martine SART",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "TAHON",
+          "prenom": "Jean-Marc",
+          "nom_complet": "Jean-Marc TAHON",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DELEENS",
+          "prenom": "Claudine",
+          "nom_complet": "Claudine DELEENS",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DAULT",
+          "prenom": "Grégory",
+          "nom_complet": "Grégory DAULT",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DHOLLANDE",
+          "prenom": "Valérie",
+          "nom_complet": "Valérie DHOLLANDE",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DEVIGNE",
+          "prenom": "Alain",
+          "nom_complet": "Alain DEVIGNE",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "MORENT",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie MORENT",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DUCROCQ",
+          "prenom": "Stéphane",
+          "nom_complet": "Stéphane DUCROCQ",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

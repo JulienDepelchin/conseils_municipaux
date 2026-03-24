@@ -1,0 +1,259 @@
+{
+  "code_commune": "62863",
+  "commune": "Violaines",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "CASTELL",
+    "prenom": "Jean-François",
+    "nom_complet": "Jean-François CASTELL",
+    "age": 56,
+    "nuance": "LDIV"
+  },
+  "resultats": {
+    "inscrits": 3083,
+    "votants": 2012,
+    "pct_votants": 65.26,
+    "abstentions": 1071,
+    "pct_abstentions": 34.74,
+    "exprimes": 1940
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Violaines avec vous",
+      "libelle_abrege_liste": "Violaines avec vous",
+      "nuance_liste": "LDIV",
+      "voix": 1940,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 27,
+      "sieges_cc": 1,
+      "nb_elus": 27,
+      "tete_de_liste": {
+        "nom": "CASTELL",
+        "prenom": "Jean-François",
+        "nom_complet": "Jean-François CASTELL",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "CASTELL",
+          "prenom": "Jean-François",
+          "nom_complet": "Jean-François CASTELL",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DERANSY",
+          "prenom": "Véronique",
+          "nom_complet": "Véronique DERANSY",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LELONG",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric LELONG",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BILLAUD",
+          "prenom": "Corinne",
+          "nom_complet": "Corinne BILLAUD",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "GODSENS",
+          "prenom": "Jean-Jacques",
+          "nom_complet": "Jean-Jacques GODSENS",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "FAVIER",
+          "prenom": "Marie-Aurélie",
+          "nom_complet": "Marie-Aurélie FAVIER",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DELELIS",
+          "prenom": "Jean-Claude",
+          "nom_complet": "Jean-Claude DELELIS",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "WNUCZEK",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle WNUCZEK",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "BRAME",
+          "prenom": "Sébastien",
+          "nom_complet": "Sébastien BRAME",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "MORIEUX",
+          "prenom": "Corinne",
+          "nom_complet": "Corinne MORIEUX",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "HOCHART",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent HOCHART",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "LOGEZ",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle LOGEZ",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "HOMO",
+          "prenom": "Sébastien",
+          "nom_complet": "Sébastien HOMO",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "PLANQUE",
+          "prenom": "Ghislaine",
+          "nom_complet": "Ghislaine PLANQUE",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "LEMAIRE",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier LEMAIRE",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "GRANGIER",
+          "prenom": "Lucie",
+          "nom_complet": "Lucie GRANGIER",
+          "sexe": "F",
+          "age": 19,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "HECQUET",
+          "prenom": "Bernard",
+          "nom_complet": "Bernard HECQUET",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "HARFAUX",
+          "prenom": "Marion",
+          "nom_complet": "Marion HARFAUX",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "PAQUET",
+          "prenom": "Samuel",
+          "nom_complet": "Samuel PAQUET",
+          "sexe": "M",
+          "age": 29,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "COURIOLE",
+          "prenom": "Amélie",
+          "nom_complet": "Amélie COURIOLE",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "FLEURQUIN",
+          "prenom": "Loïc",
+          "nom_complet": "Loïc FLEURQUIN",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "CROKAERT",
+          "prenom": "Audrey",
+          "nom_complet": "Audrey CROKAERT",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "HAEYAERT",
+          "prenom": "Vincent",
+          "nom_complet": "Vincent HAEYAERT",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "23"
+        },
+        {
+          "nom": "SENAVE",
+          "prenom": "Manuela",
+          "nom_complet": "Manuela SENAVE",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "24"
+        },
+        {
+          "nom": "MELE",
+          "prenom": "Renaldo",
+          "nom_complet": "Renaldo MELE",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "25"
+        },
+        {
+          "nom": "COGET",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie COGET",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "26"
+        },
+        {
+          "nom": "VERLY",
+          "prenom": "Bernard",
+          "nom_complet": "Bernard VERLY",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "27"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

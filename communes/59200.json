@@ -1,0 +1,151 @@
+{
+  "code_commune": "59200",
+  "commune": "Eringhem",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "FERYN",
+    "prenom": "Murielle",
+    "nom_complet": "Murielle FERYN",
+    "age": 57,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 378,
+    "votants": 304,
+    "pct_votants": 80.42,
+    "abstentions": 74,
+    "pct_abstentions": 19.58,
+    "exprimes": 300
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "un village une equipe un avenir",
+      "libelle_abrege_liste": "vea",
+      "nuance_liste": null,
+      "voix": 173,
+      "pct_voix_exprimes": 57.67,
+      "sieges_cm": 9,
+      "sieges_cc": null,
+      "nb_elus": 9,
+      "tete_de_liste": {
+        "nom": "FERYN",
+        "prenom": "Murielle",
+        "nom_complet": "Murielle FERYN",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "FERYN",
+          "prenom": "Murielle",
+          "nom_complet": "Murielle FERYN",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "JANSSEN",
+          "prenom": "Paul",
+          "nom_complet": "Paul JANSSEN",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "GRISOLET",
+          "prenom": "Carole",
+          "nom_complet": "Carole GRISOLET",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "ARNOUTS",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal ARNOUTS",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "PLUCHART",
+          "prenom": "Claudine",
+          "nom_complet": "Claudine PLUCHART",
+          "sexe": "F",
+          "age": 74,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "MENEBOO",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick MENEBOO",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "MATTHYS",
+          "prenom": "Alexia",
+          "nom_complet": "Alexia MATTHYS",
+          "sexe": "F",
+          "age": 33,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DEBROUWER",
+          "prenom": "Lucien",
+          "nom_complet": "Lucien DEBROUWER",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "MAES",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie MAES",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "9"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "ensemble pour notre village",
+      "libelle_abrege_liste": "EPNV",
+      "nuance_liste": null,
+      "voix": 127,
+      "pct_voix_exprimes": 42.33,
+      "sieges_cm": 2,
+      "sieges_cc": null,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "VANLERBERGHE",
+        "prenom": "Philippe",
+        "nom_complet": "Philippe VANLERBERGHE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "VANLERBERGHE",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe VANLERBERGHE",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DELANNOYE",
+          "prenom": "Anne",
+          "nom_complet": "Anne DELANNOYE",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "code_commune": "62241",
+  "commune": "Cormont",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "CREPIN",
+    "prenom": "Emile",
+    "nom_complet": "Emile CREPIN",
+    "age": 71,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 256,
+    "votants": 201,
+    "pct_votants": 78.52,
+    "abstentions": 55,
+    "pct_abstentions": 21.48,
+    "exprimes": 193
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Tous Unis pour Cormont",
+      "libelle_abrege_liste": "Tous Unis pour Cormont",
+      "nuance_liste": null,
+      "voix": 111,
+      "pct_voix_exprimes": 57.51,
+      "sieges_cm": 9,
+      "sieges_cc": null,
+      "nb_elus": 9,
+      "tete_de_liste": {
+        "nom": "CREPIN",
+        "prenom": "Emile",
+        "nom_complet": "Emile CREPIN",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "CREPIN",
+          "prenom": "Emile",
+          "nom_complet": "Emile CREPIN",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "CORNET",
+          "prenom": "Maryline",
+          "nom_complet": "Maryline CORNET",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DUMONT",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal DUMONT",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "MIONNET",
+          "prenom": "Caroline",
+          "nom_complet": "Caroline MIONNET",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LEGROS",
+          "prenom": "Hervé",
+          "nom_complet": "Hervé LEGROS",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "CORBEAU",
+          "prenom": "Estelle",
+          "nom_complet": "Estelle CORBEAU",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BAILLET",
+          "prenom": "Jacques",
+          "nom_complet": "Jacques BAILLET",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "VIGIÉ",
+          "prenom": "Ingrid",
+          "nom_complet": "Ingrid VIGIÉ",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "BYHET",
+          "prenom": "Eric",
+          "nom_complet": "Eric BYHET",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "9"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "CORMONT POUR TOUS",
+      "libelle_abrege_liste": "CORMONT POUR TOUS",
+      "nuance_liste": null,
+      "voix": 82,
+      "pct_voix_exprimes": 42.49,
+      "sieges_cm": 2,
+      "sieges_cc": null,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "LIGNY",
+        "prenom": "Regis",
+        "nom_complet": "Regis LIGNY",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LIGNY",
+          "prenom": "Regis",
+          "nom_complet": "Regis LIGNY",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "FATOME",
+          "prenom": "Laurence",
+          "nom_complet": "Laurence FATOME",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

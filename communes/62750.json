@@ -1,0 +1,183 @@
+{
+  "code_commune": "62750",
+  "commune": "Saint-Hilaire-Cottes",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "LECOCQ",
+    "prenom": "Bernadette",
+    "nom_complet": "Bernadette LECOCQ",
+    "age": 66,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 652,
+    "votants": 523,
+    "pct_votants": 80.21,
+    "abstentions": 129,
+    "pct_abstentions": 19.79,
+    "exprimes": 512
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "BIEN VIVRE A SAINT HILAIRE COTTES",
+      "libelle_abrege_liste": "BIEN VIVRE A SAINT HILAIRE COTTES",
+      "nuance_liste": null,
+      "voix": 319,
+      "pct_voix_exprimes": 62.3,
+      "sieges_cm": 12,
+      "sieges_cc": null,
+      "nb_elus": 12,
+      "tete_de_liste": {
+        "nom": "LECOCQ",
+        "prenom": "Bernadette",
+        "nom_complet": "Bernadette LECOCQ",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "LECOCQ",
+          "prenom": "Bernadette",
+          "nom_complet": "Bernadette LECOCQ",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BENTEUR",
+          "prenom": "Michel",
+          "nom_complet": "Michel BENTEUR",
+          "sexe": "M",
+          "age": 75,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "KERFYSER",
+          "prenom": "Céline",
+          "nom_complet": "Céline KERFYSER",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BECOURT",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas BECOURT",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "MAYEUX",
+          "prenom": "Marie-Lise",
+          "nom_complet": "Marie-Lise MAYEUX",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "PARISIS",
+          "prenom": "Tony",
+          "nom_complet": "Tony PARISIS",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BARBARA",
+          "prenom": "Pauline",
+          "nom_complet": "Pauline BARBARA",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "BLONDEL",
+          "prenom": "Denis",
+          "nom_complet": "Denis BLONDEL",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "LELEU",
+          "prenom": "Anaëlle",
+          "nom_complet": "Anaëlle LELEU",
+          "sexe": "F",
+          "age": 31,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DURIEZ",
+          "prenom": "Jean-Pierre",
+          "nom_complet": "Jean-Pierre DURIEZ",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "COEUGNET",
+          "prenom": "Justine",
+          "nom_complet": "Justine COEUGNET",
+          "sexe": "F",
+          "age": 25,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "CARLIER",
+          "prenom": "Adrien",
+          "nom_complet": "Adrien CARLIER",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "12"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "POUR VOUS ET AVEC NOUS, CHANGEONS SAINT HILAIRE COTTES",
+      "libelle_abrege_liste": "POUR VOUS ET AVEC NOUS, CHANGEONS SAINT HILAIRE COTTES",
+      "nuance_liste": null,
+      "voix": 193,
+      "pct_voix_exprimes": 37.7,
+      "sieges_cm": 3,
+      "sieges_cc": null,
+      "nb_elus": 3,
+      "tete_de_liste": {
+        "nom": "DUBOIS",
+        "prenom": "Sébastien",
+        "nom_complet": "Sébastien DUBOIS",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DUBOIS",
+          "prenom": "Sébastien",
+          "nom_complet": "Sébastien DUBOIS",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DELATTRE",
+          "prenom": "Cassandra",
+          "nom_complet": "Cassandra DELATTRE",
+          "sexe": "F",
+          "age": 29,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "CAPRON",
+          "prenom": "Vincent",
+          "nom_complet": "Vincent CAPRON",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "3"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

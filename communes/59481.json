@@ -1,0 +1,279 @@
+{
+  "code_commune": "59481",
+  "commune": "Le Quesnoy",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "LESNE",
+    "prenom": "Marie-Sophie",
+    "nom_complet": "Marie-Sophie LESNE",
+    "age": 54,
+    "nuance": "LDVD"
+  },
+  "resultats": {
+    "inscrits": 3607,
+    "votants": 2090,
+    "pct_votants": 57.94,
+    "abstentions": 1517,
+    "pct_abstentions": 42.06,
+    "exprimes": 2007
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Le Quesnoy, la ville qu'on aime",
+      "libelle_abrege_liste": "Le Quesnoy, la ville qu'on aime",
+      "nuance_liste": "LDVD",
+      "voix": 1383,
+      "pct_voix_exprimes": 68.91,
+      "sieges_cm": 23,
+      "sieges_cc": 6,
+      "nb_elus": 23,
+      "tete_de_liste": {
+        "nom": "LESNE",
+        "prenom": "Marie-Sophie",
+        "nom_complet": "Marie-Sophie LESNE",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "LESNE",
+          "prenom": "Marie-Sophie",
+          "nom_complet": "Marie-Sophie LESNE",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "CARPENTIER",
+          "prenom": "Renaud",
+          "nom_complet": "Renaud CARPENTIER",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DECLERCK",
+          "prenom": "Axelle",
+          "nom_complet": "Axelle DECLERCK",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DEVILLERS",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric DEVILLERS",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "VERDIERE",
+          "prenom": "Delphine",
+          "nom_complet": "Delphine VERDIERE",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "CHERMEUX",
+          "prenom": "Gregory",
+          "nom_complet": "Gregory CHERMEUX",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "GOSSELIN",
+          "prenom": "Stephanie",
+          "nom_complet": "Stephanie GOSSELIN",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "PAMART",
+          "prenom": "Alain",
+          "nom_complet": "Alain PAMART",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "WALKENS",
+          "prenom": "Marie",
+          "nom_complet": "Marie WALKENS",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "MALAPEL",
+          "prenom": "Justin",
+          "nom_complet": "Justin MALAPEL",
+          "sexe": "M",
+          "age": 31,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "ZDUNIAK",
+          "prenom": "Michèle",
+          "nom_complet": "Michèle ZDUNIAK",
+          "sexe": "F",
+          "age": 73,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "LONGUEPEE",
+          "prenom": "Cedric",
+          "nom_complet": "Cedric LONGUEPEE",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "ALLAMANDO",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle ALLAMANDO",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "GOUGA",
+          "prenom": "Ammar",
+          "nom_complet": "Ammar GOUGA",
+          "sexe": "M",
+          "age": 75,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "HENRY",
+          "prenom": "Marie-Antoinette",
+          "nom_complet": "Marie-Antoinette HENRY",
+          "sexe": "F",
+          "age": 81,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "LECOMPTE",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe LECOMPTE",
+          "sexe": "M",
+          "age": 32,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "GIET",
+          "prenom": "Sandrine",
+          "nom_complet": "Sandrine GIET",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "BEAUBOUCHER",
+          "prenom": "François",
+          "nom_complet": "François BEAUBOUCHER",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "EVRARD",
+          "prenom": "Victoria",
+          "nom_complet": "Victoria EVRARD",
+          "sexe": "F",
+          "age": 22,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "BACHY",
+          "prenom": "Julien",
+          "nom_complet": "Julien BACHY",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "DEBROUX",
+          "prenom": "Françoise",
+          "nom_complet": "Françoise DEBROUX",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "DUREUX",
+          "prenom": "Fabrice",
+          "nom_complet": "Fabrice DUREUX",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "LANGELIN",
+          "prenom": "Véronique",
+          "nom_complet": "Véronique LANGELIN",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "23"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "UNIR LE QUESNOY VERS L'AVENIR",
+      "libelle_abrege_liste": "UNIR LE QUESNOY VERS L'AVENIR",
+      "nuance_liste": "LDVG",
+      "voix": 624,
+      "pct_voix_exprimes": 31.09,
+      "sieges_cm": 4,
+      "sieges_cc": 1,
+      "nb_elus": 4,
+      "tete_de_liste": {
+        "nom": "GRAVET",
+        "prenom": "Jean-Luc",
+        "nom_complet": "Jean-Luc GRAVET",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "GRAVET",
+          "prenom": "Jean-Luc",
+          "nom_complet": "Jean-Luc GRAVET",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "CIUPA",
+          "prenom": "Betty",
+          "nom_complet": "Betty CIUPA",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "COLPIN",
+          "prenom": "Jérôme",
+          "nom_complet": "Jérôme COLPIN",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "GEORGES",
+          "prenom": "Christine",
+          "nom_complet": "Christine GEORGES",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "4"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

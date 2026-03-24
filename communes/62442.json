@@ -1,0 +1,163 @@
+{
+  "code_commune": "62442",
+  "commune": "Hernicourt",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "BOITEL",
+    "prenom": "Lionel",
+    "nom_complet": "Lionel BOITEL",
+    "age": 56,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 410,
+    "votants": 260,
+    "pct_votants": 63.41,
+    "abstentions": 150,
+    "pct_abstentions": 36.59,
+    "exprimes": 225
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "AGIR ENSEMBLE",
+      "libelle_abrege_liste": "AGIR ENSEMBLE",
+      "nuance_liste": null,
+      "voix": 225,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "BOITEL",
+        "prenom": "Lionel",
+        "nom_complet": "Lionel BOITEL",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BOITEL",
+          "prenom": "Lionel",
+          "nom_complet": "Lionel BOITEL",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BARTOUX",
+          "prenom": "Émilie",
+          "nom_complet": "Émilie BARTOUX",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BILLION",
+          "prenom": "Benoit",
+          "nom_complet": "Benoit BILLION",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "CABAJ",
+          "prenom": "Sonia",
+          "nom_complet": "Sonia CABAJ",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "MESUREUR",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe MESUREUR",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LELOIR",
+          "prenom": "Virginie",
+          "nom_complet": "Virginie LELOIR",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DELEPIERRE",
+          "prenom": "Jean-Baptiste",
+          "nom_complet": "Jean-Baptiste DELEPIERRE",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DUQUENNE VAMBERGUE",
+          "prenom": "Mélanie",
+          "nom_complet": "Mélanie DUQUENNE VAMBERGUE",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "GUILLE",
+          "prenom": "Sébastien",
+          "nom_complet": "Sébastien GUILLE",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "BONNIER",
+          "prenom": "Caroline",
+          "nom_complet": "Caroline BONNIER",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "MARTIN",
+          "prenom": "Jean-François",
+          "nom_complet": "Jean-François MARTIN",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "GADOUX",
+          "prenom": "Anne",
+          "nom_complet": "Anne GADOUX",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "DHALLEINE",
+          "prenom": "Jérome",
+          "nom_complet": "Jérome DHALLEINE",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "DAUCHEZ",
+          "prenom": "Blanche",
+          "nom_complet": "Blanche DAUCHEZ",
+          "sexe": "F",
+          "age": 31,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "GALLET",
+          "prenom": "Daniel",
+          "nom_complet": "Daniel GALLET",
+          "sexe": "M",
+          "age": 75,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

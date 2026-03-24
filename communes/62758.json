@@ -1,0 +1,327 @@
+{
+  "code_commune": "62758",
+  "commune": "Saint-Martin-Boulogne",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "LEBON",
+    "prenom": "Pascale",
+    "nom_complet": "Pascale LEBON",
+    "age": 68,
+    "nuance": "LSOC"
+  },
+  "resultats": {
+    "inscrits": 9005,
+    "votants": 5850,
+    "pct_votants": 64.96,
+    "abstentions": 3155,
+    "pct_abstentions": 35.04,
+    "exprimes": 5628
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "CHANGER AUJOURD'HUI REUSSIR DEMAIN",
+      "libelle_abrege_liste": "CHANGER AUJOURD'HUI REUSSIR DEMAIN",
+      "nuance_liste": "LSOC",
+      "voix": 3114,
+      "pct_voix_exprimes": 55.33,
+      "sieges_cm": 26,
+      "sieges_cc": 4,
+      "nb_elus": 26,
+      "tete_de_liste": {
+        "nom": "LEBON",
+        "prenom": "Pascale",
+        "nom_complet": "Pascale LEBON",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "LEBON",
+          "prenom": "Pascale",
+          "nom_complet": "Pascale LEBON",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "SCIMIA",
+          "prenom": "Clément",
+          "nom_complet": "Clément SCIMIA",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BOUKO",
+          "prenom": "Frédérique",
+          "nom_complet": "Frédérique BOUKO",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "SAVEANT",
+          "prenom": "Guillaume",
+          "nom_complet": "Guillaume SAVEANT",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "BOULOGNE",
+          "prenom": "Betty",
+          "nom_complet": "Betty BOULOGNE",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DELACOUR",
+          "prenom": "Christian",
+          "nom_complet": "Christian DELACOUR",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BERNAERT",
+          "prenom": "Hélène",
+          "nom_complet": "Hélène BERNAERT",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "THEILLEZ",
+          "prenom": "Yannick",
+          "nom_complet": "Yannick THEILLEZ",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "GORI",
+          "prenom": "Gisèle",
+          "nom_complet": "Gisèle GORI",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "CONDETTE",
+          "prenom": "Jean-Claude",
+          "nom_complet": "Jean-Claude CONDETTE",
+          "sexe": "M",
+          "age": 83,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "LACROIX",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie LACROIX",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "DEMILLY",
+          "prenom": "Sylvain",
+          "nom_complet": "Sylvain DEMILLY",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "LEPORCQ",
+          "prenom": "Annie",
+          "nom_complet": "Annie LEPORCQ",
+          "sexe": "F",
+          "age": 71,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "GALBY",
+          "prenom": "Pierre",
+          "nom_complet": "Pierre GALBY",
+          "sexe": "M",
+          "age": 25,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "LEGAGNEUR",
+          "prenom": "Sophie",
+          "nom_complet": "Sophie LEGAGNEUR",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "NEYRAT",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe NEYRAT",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "RIVET",
+          "prenom": "Valérie",
+          "nom_complet": "Valérie RIVET",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "FIEVET",
+          "prenom": "Valentin",
+          "nom_complet": "Valentin FIEVET",
+          "sexe": "M",
+          "age": 28,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "CORDIER",
+          "prenom": "Christele",
+          "nom_complet": "Christele CORDIER",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "PERNET",
+          "prenom": "Jacques",
+          "nom_complet": "Jacques PERNET",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "MOLMY",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie MOLMY",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "BAUDRY",
+          "prenom": "Grégory",
+          "nom_complet": "Grégory BAUDRY",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "GÉRARD",
+          "prenom": "Frédérique",
+          "nom_complet": "Frédérique GÉRARD",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "23"
+        },
+        {
+          "nom": "HERCOUET",
+          "prenom": "Guillaume",
+          "nom_complet": "Guillaume HERCOUET",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "24"
+        },
+        {
+          "nom": "MULLER",
+          "prenom": "Corinne",
+          "nom_complet": "Corinne MULLER",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "25"
+        },
+        {
+          "nom": "MANIER",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas MANIER",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "26"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "SAINT-MARTIN EN ACTION",
+      "libelle_abrege_liste": "SAINT-MARTIN EN ACTION",
+      "nuance_liste": "LDVG",
+      "voix": 2514,
+      "pct_voix_exprimes": 44.67,
+      "sieges_cm": 7,
+      "sieges_cc": 1,
+      "nb_elus": 7,
+      "tete_de_liste": {
+        "nom": "JULES",
+        "prenom": "Raphaël",
+        "nom_complet": "Raphaël JULES",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "JULES",
+          "prenom": "Raphaël",
+          "nom_complet": "Raphaël JULES",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "MILLE",
+          "prenom": "Sandra",
+          "nom_complet": "Sandra MILLE",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LATRY",
+          "prenom": "Ludovic",
+          "nom_complet": "Ludovic LATRY",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "CARON",
+          "prenom": "Caroline",
+          "nom_complet": "Caroline CARON",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "PASCHAL",
+          "prenom": "Matthias",
+          "nom_complet": "Matthias PASCHAL",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "BERNARDINI",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie BERNARDINI",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "PRUVOST",
+          "prenom": "Guillaume",
+          "nom_complet": "Guillaume PRUVOST",
+          "sexe": "M",
+          "age": 33,
+          "rang_liste": "7"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

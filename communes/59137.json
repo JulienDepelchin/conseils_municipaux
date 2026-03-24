@@ -1,0 +1,183 @@
+{
+  "code_commune": "59137",
+  "commune": "Catillon-sur-Sambre",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "SCHILLERS",
+    "prenom": "Thierry",
+    "nom_complet": "Thierry SCHILLERS",
+    "age": 64,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 564,
+    "votants": 447,
+    "pct_votants": 79.26,
+    "abstentions": 117,
+    "pct_abstentions": 20.74,
+    "exprimes": 426
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "UN NOUVEAU SOUFFLE POUR UN VILLAGE TOURNÉ VERS L'AVENIR",
+      "libelle_abrege_liste": "UN NOUVEAU SOUFFLE POUR UN VILLAGE TOURNÉ VERS L'AVENIR",
+      "nuance_liste": null,
+      "voix": 215,
+      "pct_voix_exprimes": 50.47,
+      "sieges_cm": 12,
+      "sieges_cc": null,
+      "nb_elus": 12,
+      "tete_de_liste": {
+        "nom": "SCHILLERS",
+        "prenom": "Thierry",
+        "nom_complet": "Thierry SCHILLERS",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "SCHILLERS",
+          "prenom": "Thierry",
+          "nom_complet": "Thierry SCHILLERS",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BERA WILLEKENS",
+          "prenom": "Audrey",
+          "nom_complet": "Audrey BERA WILLEKENS",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BAUDRY",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique BAUDRY",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DEVRED HAUTMONT",
+          "prenom": "Amandine",
+          "nom_complet": "Amandine DEVRED HAUTMONT",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DIPAYEN",
+          "prenom": "Julien",
+          "nom_complet": "Julien DIPAYEN",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "THELLIER-CUISSET",
+          "prenom": "Géraldine",
+          "nom_complet": "Géraldine THELLIER-CUISSET",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DUMORTIER",
+          "prenom": "Sylvain",
+          "nom_complet": "Sylvain DUMORTIER",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DUQUESNE",
+          "prenom": "Frédérique",
+          "nom_complet": "Frédérique DUQUESNE",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "PROCUREUR",
+          "prenom": "Julien",
+          "nom_complet": "Julien PROCUREUR",
+          "sexe": "M",
+          "age": 24,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "PLET",
+          "prenom": "Myriam",
+          "nom_complet": "Myriam PLET",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "LEROY",
+          "prenom": "Nathan",
+          "nom_complet": "Nathan LEROY",
+          "sexe": "M",
+          "age": 24,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "MENEGATTI",
+          "prenom": "Laurine",
+          "nom_complet": "Laurine MENEGATTI",
+          "sexe": "F",
+          "age": 23,
+          "rang_liste": "12"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Tous ensemble pour Catillon",
+      "libelle_abrege_liste": "Tous ensemble pour Catillon",
+      "nuance_liste": null,
+      "voix": 211,
+      "pct_voix_exprimes": 49.53,
+      "sieges_cm": 3,
+      "sieges_cc": null,
+      "nb_elus": 3,
+      "tete_de_liste": {
+        "nom": "LEDUC",
+        "prenom": "Brigitte",
+        "nom_complet": "Brigitte LEDUC",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "LEDUC",
+          "prenom": "Brigitte",
+          "nom_complet": "Brigitte LEDUC",
+          "sexe": "F",
+          "age": 73,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LELEU",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent LELEU",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "HENRIET",
+          "prenom": "Cécile",
+          "nom_complet": "Cécile HENRIET",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "3"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

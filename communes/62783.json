@@ -1,0 +1,151 @@
+{
+  "code_commune": "62783",
+  "commune": "Saulchoy",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "POIRRIEZ",
+    "prenom": "Jeremy",
+    "nom_complet": "Jeremy POIRRIEZ",
+    "age": 36,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 284,
+    "votants": 247,
+    "pct_votants": 86.97,
+    "abstentions": 37,
+    "pct_abstentions": 13.03,
+    "exprimes": 244
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ENSEMBLE POUR LE RENOUVEAU",
+      "libelle_abrege_liste": "ENSEMBLE POUR LE RENOUVEAU",
+      "nuance_liste": null,
+      "voix": 128,
+      "pct_voix_exprimes": 52.46,
+      "sieges_cm": 9,
+      "sieges_cc": null,
+      "nb_elus": 9,
+      "tete_de_liste": {
+        "nom": "POIRRIEZ",
+        "prenom": "Jeremy",
+        "nom_complet": "Jeremy POIRRIEZ",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "POIRRIEZ",
+          "prenom": "Jeremy",
+          "nom_complet": "Jeremy POIRRIEZ",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "RIXENS",
+          "prenom": "Angelique",
+          "nom_complet": "Angelique RIXENS",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BERTIAUX",
+          "prenom": "Alain",
+          "nom_complet": "Alain BERTIAUX",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "FROIDEVAL",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie FROIDEVAL",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "RIXENS",
+          "prenom": "Michael",
+          "nom_complet": "Michael RIXENS",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DERING",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie DERING",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BELIN",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier BELIN",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "MARIETTE",
+          "prenom": "Sabine",
+          "nom_complet": "Sabine MARIETTE",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "MATHIAS",
+          "prenom": "Franck",
+          "nom_complet": "Franck MATHIAS",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "9"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "Ensemble pour notre village",
+      "libelle_abrege_liste": "Ensemble pour notre village",
+      "nuance_liste": null,
+      "voix": 116,
+      "pct_voix_exprimes": 47.54,
+      "sieges_cm": 2,
+      "sieges_cc": null,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "VASSEUR",
+        "prenom": "Guy",
+        "nom_complet": "Guy VASSEUR",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "VASSEUR",
+          "prenom": "Guy",
+          "nom_complet": "Guy VASSEUR",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "SCHERPEREEL",
+          "prenom": "Pauline",
+          "nom_complet": "Pauline SCHERPEREEL",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

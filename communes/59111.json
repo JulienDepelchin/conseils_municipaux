@@ -1,0 +1,131 @@
+{
+  "code_commune": "59111",
+  "commune": "Broxeele",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "PAUWELS",
+    "prenom": "Vincent",
+    "nom_complet": "Vincent PAUWELS",
+    "age": 53,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 341,
+    "votants": 221,
+    "pct_votants": 64.81,
+    "abstentions": 120,
+    "pct_abstentions": 35.19,
+    "exprimes": 184
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ensemble, faisons l'avenir des broxeeloises et broxeelois",
+      "libelle_abrege_liste": "ensemble, faisons l'avenir des broxeeloises et broxeelois",
+      "nuance_liste": null,
+      "voix": 184,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "PAUWELS",
+        "prenom": "Vincent",
+        "nom_complet": "Vincent PAUWELS",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "PAUWELS",
+          "prenom": "Vincent",
+          "nom_complet": "Vincent PAUWELS",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "PARESYS",
+          "prenom": "Laure",
+          "nom_complet": "Laure PARESYS",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "ARNOUTS",
+          "prenom": "Thierry",
+          "nom_complet": "Thierry ARNOUTS",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BUCELLONI",
+          "prenom": "Melanie",
+          "nom_complet": "Melanie BUCELLONI",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "MASSART",
+          "prenom": "Matthieu",
+          "nom_complet": "Matthieu MASSART",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DEBREUCQ",
+          "prenom": "Bea",
+          "nom_complet": "Bea DEBREUCQ",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "STAELEN",
+          "prenom": "Didier",
+          "nom_complet": "Didier STAELEN",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LOPEZ",
+          "prenom": "Elise",
+          "nom_complet": "Elise LOPEZ",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "LEMAIRE",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno LEMAIRE",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "MARLIER",
+          "prenom": "Emilie",
+          "nom_complet": "Emilie MARLIER",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "LEVELEUX",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal LEVELEUX",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

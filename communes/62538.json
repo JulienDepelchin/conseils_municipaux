@@ -1,0 +1,131 @@
+{
+  "code_commune": "62538",
+  "commune": "Maintenay",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "DENOEUX",
+    "prenom": "Reynald",
+    "nom_complet": "Reynald DENOEUX",
+    "age": 53,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 337,
+    "votants": 201,
+    "pct_votants": 59.64,
+    "abstentions": 136,
+    "pct_abstentions": 40.36,
+    "exprimes": 164
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Un nouvel élan pour Maintenay",
+      "libelle_abrege_liste": "Un nouvel élan pour Maintenay",
+      "nuance_liste": null,
+      "voix": 164,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "DENOEUX",
+        "prenom": "Reynald",
+        "nom_complet": "Reynald DENOEUX",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DENOEUX",
+          "prenom": "Reynald",
+          "nom_complet": "Reynald DENOEUX",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BOURGOIS",
+          "prenom": "Pascaline",
+          "nom_complet": "Pascaline BOURGOIS",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BRUTEL",
+          "prenom": "Régis",
+          "nom_complet": "Régis BRUTEL",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DE FRANCE",
+          "prenom": "Astrid",
+          "nom_complet": "Astrid DE FRANCE",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "BEUVAIN",
+          "prenom": "Kévin",
+          "nom_complet": "Kévin BEUVAIN",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "HURÉ",
+          "prenom": "Nadège",
+          "nom_complet": "Nadège HURÉ",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "SENESCHAL",
+          "prenom": "Patrice",
+          "nom_complet": "Patrice SENESCHAL",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "COMPAGNON",
+          "prenom": "Gaëlle",
+          "nom_complet": "Gaëlle COMPAGNON",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "CABAS",
+          "prenom": "Gontran",
+          "nom_complet": "Gontran CABAS",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "MORTREUX",
+          "prenom": "Bérénice",
+          "nom_complet": "Bérénice MORTREUX",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "MOUILLARD",
+          "prenom": "Alain",
+          "nom_complet": "Alain MOUILLARD",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

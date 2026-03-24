@@ -1,0 +1,163 @@
+{
+  "code_commune": "62028",
+  "commune": "Ames",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "PREIN",
+    "prenom": "Eric",
+    "nom_complet": "Eric PREIN",
+    "age": 54,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 496,
+    "votants": 311,
+    "pct_votants": 62.7,
+    "abstentions": 185,
+    "pct_abstentions": 37.3,
+    "exprimes": 269
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "AMES EN MOUVEMENT",
+      "libelle_abrege_liste": "AMES EN MOUVEMENT",
+      "nuance_liste": null,
+      "voix": 269,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "PREIN",
+        "prenom": "Eric",
+        "nom_complet": "Eric PREIN",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "PREIN",
+          "prenom": "Eric",
+          "nom_complet": "Eric PREIN",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "MOLINIER",
+          "prenom": "Maggy",
+          "nom_complet": "Maggy MOLINIER",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "COCQ",
+          "prenom": "Marcel",
+          "nom_complet": "Marcel COCQ",
+          "sexe": "M",
+          "age": 75,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "AUGUSTE",
+          "prenom": "Chloé",
+          "nom_complet": "Chloé AUGUSTE",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LAIGLE",
+          "prenom": "Gérard",
+          "nom_complet": "Gérard LAIGLE",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "PONCHEL",
+          "prenom": "Pauline",
+          "nom_complet": "Pauline PONCHEL",
+          "sexe": "F",
+          "age": 26,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "CAREL",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric CAREL",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DEFLANDRE",
+          "prenom": "Laurence",
+          "nom_complet": "Laurence DEFLANDRE",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DESFONTAINES",
+          "prenom": "Stéphane",
+          "nom_complet": "Stéphane DESFONTAINES",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DENIS",
+          "prenom": "Adeline",
+          "nom_complet": "Adeline DENIS",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "MOLINIER",
+          "prenom": "Grégory",
+          "nom_complet": "Grégory MOLINIER",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "FRUCHART",
+          "prenom": "Justine",
+          "nom_complet": "Justine FRUCHART",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "HOCHART",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier HOCHART",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "TAFFIN",
+          "prenom": "Lindsay",
+          "nom_complet": "Lindsay TAFFIN",
+          "sexe": "F",
+          "age": 32,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "POULAIN",
+          "prenom": "Yoan",
+          "nom_complet": "Yoan POULAIN",
+          "sexe": "M",
+          "age": 34,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

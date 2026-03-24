@@ -1,0 +1,131 @@
+{
+  "code_commune": "62299",
+  "commune": "Eps",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "HERMANT",
+    "prenom": "Patrick",
+    "nom_complet": "Patrick HERMANT",
+    "age": 53,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 195,
+    "votants": 123,
+    "pct_votants": 63.08,
+    "abstentions": 72,
+    "pct_abstentions": 36.92,
+    "exprimes": 99
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ENSEMBLE POUR EPS-HERBEVAL",
+      "libelle_abrege_liste": "ENSEMBLE POUR EPS-HERBEVAL",
+      "nuance_liste": null,
+      "voix": 99,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "HERMANT",
+        "prenom": "Patrick",
+        "nom_complet": "Patrick HERMANT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "HERMANT",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick HERMANT",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BALESDENT",
+          "prenom": "Francine",
+          "nom_complet": "Francine BALESDENT",
+          "sexe": "F",
+          "age": 75,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "PETAIN",
+          "prenom": "Sébastien",
+          "nom_complet": "Sébastien PETAIN",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "PERARD",
+          "prenom": "Karine",
+          "nom_complet": "Karine PERARD",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "GALLET",
+          "prenom": "Jérôme",
+          "nom_complet": "Jérôme GALLET",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "MOUQUE",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie MOUQUE",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "CLAIRET",
+          "prenom": "Guillaume",
+          "nom_complet": "Guillaume CLAIRET",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "GUYOT",
+          "prenom": "Déborah",
+          "nom_complet": "Déborah GUYOT",
+          "sexe": "F",
+          "age": 30,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "LOMBART",
+          "prenom": "Benjamin",
+          "nom_complet": "Benjamin LOMBART",
+          "sexe": "M",
+          "age": 27,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "HELLE",
+          "prenom": "Beatrice",
+          "nom_complet": "Beatrice HELLE",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "MONTIGNY",
+          "prenom": "Anthony",
+          "nom_complet": "Anthony MONTIGNY",
+          "sexe": "M",
+          "age": 30,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "code_commune": "62445",
+  "commune": "Hesdigneul-lès-Béthune",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "PATOUX",
+    "prenom": "Joël",
+    "nom_complet": "Joël PATOUX",
+    "age": 71,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 682,
+    "votants": 395,
+    "pct_votants": 57.92,
+    "abstentions": 287,
+    "pct_abstentions": 42.08,
+    "exprimes": 334
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "NOS ENERGIES POUR HESDIGNEUL-LES-BETHUNE",
+      "libelle_abrege_liste": "NOS ENERGIES POUR HESDIGNEUL-LES-BETHUNE",
+      "nuance_liste": null,
+      "voix": 334,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "PATOUX",
+        "prenom": "Joël",
+        "nom_complet": "Joël PATOUX",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "PATOUX",
+          "prenom": "Joël",
+          "nom_complet": "Joël PATOUX",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "CANESSE",
+          "prenom": "Delphine",
+          "nom_complet": "Delphine CANESSE",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LEFEBVRE",
+          "prenom": "Cédric",
+          "nom_complet": "Cédric LEFEBVRE",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "TALLEU",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique TALLEU",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "HAMEZ",
+          "prenom": "Sébastien",
+          "nom_complet": "Sébastien HAMEZ",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "MARTIN",
+          "prenom": "Lise-Marie",
+          "nom_complet": "Lise-Marie MARTIN",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DESQUIRET",
+          "prenom": "Matthieu",
+          "nom_complet": "Matthieu DESQUIRET",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "FLAHAUT",
+          "prenom": "Lucie",
+          "nom_complet": "Lucie FLAHAUT",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "AMIC",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe AMIC",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DENOIR",
+          "prenom": "Sabine",
+          "nom_complet": "Sabine DENOIR",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "LEFEBVRE",
+          "prenom": "Thierry",
+          "nom_complet": "Thierry LEFEBVRE",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "LECAILLE",
+          "prenom": "Amandine",
+          "nom_complet": "Amandine LECAILLE",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "CHAUMETTE",
+          "prenom": "Jean-François",
+          "nom_complet": "Jean-François CHAUMETTE",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "POUPART",
+          "prenom": "Anne",
+          "nom_complet": "Anne POUPART",
+          "sexe": "F",
+          "age": 31,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "TOUPET",
+          "prenom": "Dany",
+          "nom_complet": "Dany TOUPET",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

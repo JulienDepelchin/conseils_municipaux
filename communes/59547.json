@@ -1,0 +1,163 @@
+{
+  "code_commune": "59547",
+  "commune": "Saint-Vaast-en-Cambrésis",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "JUMEAUX",
+    "prenom": "Stéphane",
+    "nom_complet": "Stéphane JUMEAUX",
+    "age": 54,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 599,
+    "votants": 306,
+    "pct_votants": 51.09,
+    "abstentions": 293,
+    "pct_abstentions": 48.91,
+    "exprimes": 225
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "SAINT VAAST L'ESPRIT VILLAGE AU COEUR DU CAMBRESIS",
+      "libelle_abrege_liste": "SAINT VAAST L'ESPRIT VILLAGE AU COEUR DU CAMBRESIS",
+      "nuance_liste": null,
+      "voix": 225,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "JUMEAUX",
+        "prenom": "Stéphane",
+        "nom_complet": "Stéphane JUMEAUX",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "JUMEAUX",
+          "prenom": "Stéphane",
+          "nom_complet": "Stéphane JUMEAUX",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LANDA",
+          "prenom": "Marie-Christine",
+          "nom_complet": "Marie-Christine LANDA",
+          "sexe": "F",
+          "age": 70,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LANGRAND",
+          "prenom": "Michael",
+          "nom_complet": "Michael LANGRAND",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LLONG JUMEAUX",
+          "prenom": "Barbara",
+          "nom_complet": "Barbara LLONG JUMEAUX",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "RICHALET",
+          "prenom": "Jérôme",
+          "nom_complet": "Jérôme RICHALET",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DEVAUX",
+          "prenom": "Elodie",
+          "nom_complet": "Elodie DEVAUX",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "SAUCY",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal SAUCY",
+          "sexe": "M",
+          "age": 26,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "PAVAUX RICHALET",
+          "prenom": "Lydie",
+          "nom_complet": "Lydie PAVAUX RICHALET",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "FAYOLA",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe FAYOLA",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "MARTINACHE",
+          "prenom": "Anne Charlotte",
+          "nom_complet": "Anne Charlotte MARTINACHE",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DEMADE",
+          "prenom": "Rémy",
+          "nom_complet": "Rémy DEMADE",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "POTIEZ",
+          "prenom": "Hélène",
+          "nom_complet": "Hélène POTIEZ",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "GALET",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe GALET",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "BRONSARD CAILLAUX",
+          "prenom": "Carole",
+          "nom_complet": "Carole BRONSARD CAILLAUX",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "SAUCY",
+          "prenom": "Killian",
+          "nom_complet": "Killian SAUCY",
+          "sexe": "M",
+          "age": 24,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

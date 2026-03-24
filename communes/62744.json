@@ -1,0 +1,247 @@
+{
+  "code_commune": "62744",
+  "commune": "Sainte-Catherine",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "LECHON",
+    "prenom": "Séverine",
+    "nom_complet": "Séverine LECHON",
+    "age": 54,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 2611,
+    "votants": 1776,
+    "pct_votants": 68.02,
+    "abstentions": 835,
+    "pct_abstentions": 31.98,
+    "exprimes": 1706
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Un Nouveau Souffle pour Sainte-Catherine",
+      "libelle_abrege_liste": "Un Nouveau Souffle pour Sainte-Catherine",
+      "nuance_liste": null,
+      "voix": 874,
+      "pct_voix_exprimes": 51.23,
+      "sieges_cm": 18,
+      "sieges_cc": 2,
+      "nb_elus": 18,
+      "tete_de_liste": {
+        "nom": "LECHON",
+        "prenom": "Séverine",
+        "nom_complet": "Séverine LECHON",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "LECHON",
+          "prenom": "Séverine",
+          "nom_complet": "Séverine LECHON",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "GLUSZAK",
+          "prenom": "Thierry",
+          "nom_complet": "Thierry GLUSZAK",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "AERNOUT",
+          "prenom": "Sophie",
+          "nom_complet": "Sophie AERNOUT",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "CAMPAGNE",
+          "prenom": "Jean-Michel",
+          "nom_complet": "Jean-Michel CAMPAGNE",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "FOURNIER",
+          "prenom": "Sandrine",
+          "nom_complet": "Sandrine FOURNIER",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "STAEHLI",
+          "prenom": "Matthieu",
+          "nom_complet": "Matthieu STAEHLI",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "LAURENT",
+          "prenom": "Amélie",
+          "nom_complet": "Amélie LAURENT",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LEGRAND",
+          "prenom": "David",
+          "nom_complet": "David LEGRAND",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DELBECQ",
+          "prenom": "Perrine",
+          "nom_complet": "Perrine DELBECQ",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "MOREL",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe MOREL",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "COURSEAUX",
+          "prenom": "Adeline",
+          "nom_complet": "Adeline COURSEAUX",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "DELORY",
+          "prenom": "Michael",
+          "nom_complet": "Michael DELORY",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "UDALA",
+          "prenom": "Sarah",
+          "nom_complet": "Sarah UDALA",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "NOË",
+          "prenom": "Pierre",
+          "nom_complet": "Pierre NOË",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "POLART",
+          "prenom": "Hélène",
+          "nom_complet": "Hélène POLART",
+          "sexe": "F",
+          "age": 74,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "MORISOT",
+          "prenom": "Sebastien",
+          "nom_complet": "Sebastien MORISOT",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "PERNES",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie PERNES",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "DUFOUR",
+          "prenom": "Julien",
+          "nom_complet": "Julien DUFOUR",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "18"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "BIEN VIVRE A SAINTE CATHERINE",
+      "libelle_abrege_liste": "BIEN VIVRE A SAINTE CATHERINE",
+      "nuance_liste": null,
+      "voix": 832,
+      "pct_voix_exprimes": 48.77,
+      "sieges_cm": 5,
+      "sieges_cc": 0,
+      "nb_elus": 5,
+      "tete_de_liste": {
+        "nom": "VAN GHELDER",
+        "prenom": "Alain",
+        "nom_complet": "Alain VAN GHELDER",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "VAN GHELDER",
+          "prenom": "Alain",
+          "nom_complet": "Alain VAN GHELDER",
+          "sexe": "M",
+          "age": 75,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "ZUBORA",
+          "prenom": "Céline",
+          "nom_complet": "Céline ZUBORA",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "CARON",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent CARON",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "ROUX",
+          "prenom": "Carole",
+          "nom_complet": "Carole ROUX",
+          "sexe": "F",
+          "age": 73,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "FANIEN",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe FANIEN",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "5"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

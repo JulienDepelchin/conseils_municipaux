@@ -1,0 +1,259 @@
+{
+  "code_commune": "59168",
+  "commune": "Cysoing",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "DUMORTIER",
+    "prenom": "Benjamin",
+    "nom_complet": "Benjamin DUMORTIER",
+    "age": 49,
+    "nuance": "LDVC"
+  },
+  "resultats": {
+    "inscrits": 4097,
+    "votants": 1883,
+    "pct_votants": 45.96,
+    "abstentions": 2214,
+    "pct_abstentions": 54.04,
+    "exprimes": 1679
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Vivons Cysoing",
+      "libelle_abrege_liste": "VIVONS CYSOING",
+      "nuance_liste": "LDVC",
+      "voix": 1679,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 27,
+      "sieges_cc": 2,
+      "nb_elus": 27,
+      "tete_de_liste": {
+        "nom": "DUMORTIER",
+        "prenom": "Benjamin",
+        "nom_complet": "Benjamin DUMORTIER",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DUMORTIER",
+          "prenom": "Benjamin",
+          "nom_complet": "Benjamin DUMORTIER",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DUBOIS",
+          "prenom": "Marion",
+          "nom_complet": "Marion DUBOIS",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BOILEAU",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal BOILEAU",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "CASTEL",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie CASTEL",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "SILVESTRI",
+          "prenom": "Antoine",
+          "nom_complet": "Antoine SILVESTRI",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "COURBEZ",
+          "prenom": "Nadia",
+          "nom_complet": "Nadia COURBEZ",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "ENNIQUE",
+          "prenom": "Renaud",
+          "nom_complet": "Renaud ENNIQUE",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LEPERS",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle LEPERS",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "FOCKENOY",
+          "prenom": "Marc",
+          "nom_complet": "Marc FOCKENOY",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "FREMAUX",
+          "prenom": "Céline",
+          "nom_complet": "Céline FREMAUX",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "LESY",
+          "prenom": "Denis",
+          "nom_complet": "Denis LESY",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "HEURTEAUX",
+          "prenom": "Martine",
+          "nom_complet": "Martine HEURTEAUX",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "MINET",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric MINET",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "VIAU",
+          "prenom": "Gaëlle",
+          "nom_complet": "Gaëlle VIAU",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "POUILLART",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent POUILLART",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "BARETS-WALLE",
+          "prenom": "Aline",
+          "nom_complet": "Aline BARETS-WALLE",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "ABIWE",
+          "prenom": "Lionel",
+          "nom_complet": "Lionel ABIWE",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "ROSSIE",
+          "prenom": "Perrine",
+          "nom_complet": "Perrine ROSSIE",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "LEFEBVRE",
+          "prenom": "Ludovic",
+          "nom_complet": "Ludovic LEFEBVRE",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "MAPPUS",
+          "prenom": "Raphaelle",
+          "nom_complet": "Raphaelle MAPPUS",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "COLIN",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick COLIN",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "LE GODEC",
+          "prenom": "Brigitte",
+          "nom_complet": "Brigitte LE GODEC",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "COUSIN",
+          "prenom": "Didier",
+          "nom_complet": "Didier COUSIN",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "23"
+        },
+        {
+          "nom": "DEWAELE",
+          "prenom": "Salomé",
+          "nom_complet": "Salomé DEWAELE",
+          "sexe": "F",
+          "age": 20,
+          "rang_liste": "24"
+        },
+        {
+          "nom": "DUMORTIER",
+          "prenom": "Daniel",
+          "nom_complet": "Daniel DUMORTIER",
+          "sexe": "M",
+          "age": 78,
+          "rang_liste": "25"
+        },
+        {
+          "nom": "LUCHIER",
+          "prenom": "Catherine",
+          "nom_complet": "Catherine LUCHIER",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "26"
+        },
+        {
+          "nom": "CARPENTIER",
+          "prenom": "Guy",
+          "nom_complet": "Guy CARPENTIER",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "27"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

@@ -1,0 +1,215 @@
+{
+  "code_commune": "62852",
+  "commune": "Vieille-Eglise",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "LEVREAY",
+    "prenom": "Olivier",
+    "nom_complet": "Olivier LEVREAY",
+    "age": 59,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1193,
+    "votants": 849,
+    "pct_votants": 71.17,
+    "abstentions": 344,
+    "pct_abstentions": 28.83,
+    "exprimes": 823
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "Avançons ensemble pour Vieille-Eglise",
+      "libelle_abrege_liste": "Avançons ensemble pour Vieille-Eglise",
+      "nuance_liste": null,
+      "voix": 461,
+      "pct_voix_exprimes": 56.01,
+      "sieges_cm": 15,
+      "sieges_cc": 2,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "LEVREAY",
+        "prenom": "Olivier",
+        "nom_complet": "Olivier LEVREAY",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LEVREAY",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier LEVREAY",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BRIDENNE",
+          "prenom": "Brigitte",
+          "nom_complet": "Brigitte BRIDENNE",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "COCQUET",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent COCQUET",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "GIRARDOT",
+          "prenom": "Marylène",
+          "nom_complet": "Marylène GIRARDOT",
+          "sexe": "F",
+          "age": 72,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "BAERT",
+          "prenom": "Pierre",
+          "nom_complet": "Pierre BAERT",
+          "sexe": "M",
+          "age": 77,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "CRÉPIN",
+          "prenom": "Émilie",
+          "nom_complet": "Émilie CRÉPIN",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "RAFF",
+          "prenom": "Pierre-Edouard",
+          "nom_complet": "Pierre-Edouard RAFF",
+          "sexe": "M",
+          "age": 34,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LEJUSTE",
+          "prenom": "Marie-Jeanne",
+          "nom_complet": "Marie-Jeanne LEJUSTE",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DECRETON",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick DECRETON",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "CARPENTIER",
+          "prenom": "Chantal",
+          "nom_complet": "Chantal CARPENTIER",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "SCHABAILLIE",
+          "prenom": "Guy-Noël",
+          "nom_complet": "Guy-Noël SCHABAILLIE",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "COLIN",
+          "prenom": "Aurélie",
+          "nom_complet": "Aurélie COLIN",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "SEYNAEVE",
+          "prenom": "Thibaut",
+          "nom_complet": "Thibaut SEYNAEVE",
+          "sexe": "M",
+          "age": 29,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "ROUSSELLE",
+          "prenom": "Sophie",
+          "nom_complet": "Sophie ROUSSELLE",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "COCQUET",
+          "prenom": "Gaël",
+          "nom_complet": "Gaël COCQUET",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Ensemble, construisons l'avenir de Vieille-Eglise",
+      "libelle_abrege_liste": "Ensemble, construisons l'avenir de Vieille-Eglise",
+      "nuance_liste": null,
+      "voix": 362,
+      "pct_voix_exprimes": 43.99,
+      "sieges_cm": 4,
+      "sieges_cc": 0,
+      "nb_elus": 4,
+      "tete_de_liste": {
+        "nom": "GUILBERT",
+        "prenom": "Anthony",
+        "nom_complet": "Anthony GUILBERT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "GUILBERT",
+          "prenom": "Anthony",
+          "nom_complet": "Anthony GUILBERT",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "AGNERAY",
+          "prenom": "Virginie",
+          "nom_complet": "Virginie AGNERAY",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DOYER",
+          "prenom": "Adrien",
+          "nom_complet": "Adrien DOYER",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "MUSZYNSKI",
+          "prenom": "Angélique",
+          "nom_complet": "Angélique MUSZYNSKI",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "4"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "code_commune": "59583",
+  "commune": "Taisnières-en-Thiérache",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "VERLOO",
+    "prenom": "Romuald",
+    "nom_complet": "Romuald VERLOO",
+    "age": 44,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 362,
+    "votants": 276,
+    "pct_votants": 76.24,
+    "abstentions": 86,
+    "pct_abstentions": 23.76,
+    "exprimes": 268
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "TAISNIERES EN THIERACHE AUTREMENT",
+      "libelle_abrege_liste": "TAISNIERES EN THIERACHE AUTREMENT",
+      "nuance_liste": null,
+      "voix": 147,
+      "pct_voix_exprimes": 54.85,
+      "sieges_cm": 9,
+      "sieges_cc": null,
+      "nb_elus": 9,
+      "tete_de_liste": {
+        "nom": "VERLOO",
+        "prenom": "Romuald",
+        "nom_complet": "Romuald VERLOO",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "VERLOO",
+          "prenom": "Romuald",
+          "nom_complet": "Romuald VERLOO",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "ELIAS",
+          "prenom": "Vanessa",
+          "nom_complet": "Vanessa ELIAS",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LELORE",
+          "prenom": "Julien",
+          "nom_complet": "Julien LELORE",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "FLOREZ",
+          "prenom": "Diana",
+          "nom_complet": "Diana FLOREZ",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "HURBIN",
+          "prenom": "Jean Luc",
+          "nom_complet": "Jean Luc HURBIN",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "HURSON",
+          "prenom": "Adeline",
+          "nom_complet": "Adeline HURSON",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DELEVAQUE",
+          "prenom": "Maxime",
+          "nom_complet": "Maxime DELEVAQUE",
+          "sexe": "M",
+          "age": 29,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "BEAUDOUX",
+          "prenom": "Francoise",
+          "nom_complet": "Francoise BEAUDOUX",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DUBOIS",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe DUBOIS",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "9"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "VIVRE ET AGIR A TAISNIERES",
+      "libelle_abrege_liste": "VIVRE ET AGIR A TAISNIERES",
+      "nuance_liste": null,
+      "voix": 121,
+      "pct_voix_exprimes": 45.15,
+      "sieges_cm": 2,
+      "sieges_cc": null,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "LIESSE",
+        "prenom": "Christophe",
+        "nom_complet": "Christophe LIESSE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LIESSE",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe LIESSE",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DREVET",
+          "prenom": "Servane",
+          "nom_complet": "Servane DREVET",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

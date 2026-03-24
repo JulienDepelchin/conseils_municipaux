@@ -1,0 +1,215 @@
+{
+  "code_commune": "59238",
+  "commune": "Flines-lès-Mortagne",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "LEBRUN VANDERMOUTEN",
+    "prenom": "Bernard",
+    "nom_complet": "Bernard LEBRUN VANDERMOUTEN",
+    "age": 76,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1306,
+    "votants": 754,
+    "pct_votants": 57.73,
+    "abstentions": 552,
+    "pct_abstentions": 42.27,
+    "exprimes": 737
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "LISTE D'UNION COMMUNALE",
+      "libelle_abrege_liste": "LISTE D'UNION COMMUNALE",
+      "nuance_liste": null,
+      "voix": 477,
+      "pct_voix_exprimes": 64.72,
+      "sieges_cm": 16,
+      "sieges_cc": 1,
+      "nb_elus": 16,
+      "tete_de_liste": {
+        "nom": "LEBRUN VANDERMOUTEN",
+        "prenom": "Bernard",
+        "nom_complet": "Bernard LEBRUN VANDERMOUTEN",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LEBRUN VANDERMOUTEN",
+          "prenom": "Bernard",
+          "nom_complet": "Bernard LEBRUN VANDERMOUTEN",
+          "sexe": "M",
+          "age": 76,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DELFOSSE",
+          "prenom": "Muriel",
+          "nom_complet": "Muriel DELFOSSE",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "NOLLET",
+          "prenom": "Denis",
+          "nom_complet": "Denis NOLLET",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DELPLACE",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle DELPLACE",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DE BRUYCKER",
+          "prenom": "Daniel",
+          "nom_complet": "Daniel DE BRUYCKER",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "KOVACS",
+          "prenom": "Annie",
+          "nom_complet": "Annie KOVACS",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BOURGHELLE",
+          "prenom": "Jacques",
+          "nom_complet": "Jacques BOURGHELLE",
+          "sexe": "M",
+          "age": 75,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "GERARD",
+          "prenom": "Leïla",
+          "nom_complet": "Leïla GERARD",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "BOUKLA",
+          "prenom": "Jacques",
+          "nom_complet": "Jacques BOUKLA",
+          "sexe": "M",
+          "age": 79,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "SINAF",
+          "prenom": "Jennifer",
+          "nom_complet": "Jennifer SINAF",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "VANGANSBEKE",
+          "prenom": "Hervé",
+          "nom_complet": "Hervé VANGANSBEKE",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "JOUGLET",
+          "prenom": "Magali",
+          "nom_complet": "Magali JOUGLET",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "MERIAUX",
+          "prenom": "Mathieu",
+          "nom_complet": "Mathieu MERIAUX",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "HAIDON",
+          "prenom": "Mélanie",
+          "nom_complet": "Mélanie HAIDON",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "RYNDERS",
+          "prenom": "Georges",
+          "nom_complet": "Georges RYNDERS",
+          "sexe": "M",
+          "age": 76,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "CAZIN",
+          "prenom": "Justine",
+          "nom_complet": "Justine CAZIN",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "16"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Unis pour l'avenir de Flines-Lez-Mortagne",
+      "libelle_abrege_liste": "Unis pour l'avenir de Flines-Lez-Mortagne",
+      "nuance_liste": null,
+      "voix": 260,
+      "pct_voix_exprimes": 35.28,
+      "sieges_cm": 3,
+      "sieges_cc": 0,
+      "nb_elus": 3,
+      "tete_de_liste": {
+        "nom": "MERLIN",
+        "prenom": "Marc",
+        "nom_complet": "Marc MERLIN",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "MERLIN",
+          "prenom": "Marc",
+          "nom_complet": "Marc MERLIN",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DUVILLERS",
+          "prenom": "Emeline",
+          "nom_complet": "Emeline DUVILLERS",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "GREGOIRE",
+          "prenom": "Franck",
+          "nom_complet": "Franck GREGOIRE",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "3"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

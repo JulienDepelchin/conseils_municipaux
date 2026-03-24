@@ -1,0 +1,197 @@
+{
+  "code_commune": "59226",
+  "commune": "Felleries",
+  "departement": "Nord",
+  "tour": "T2",
+  "maire": {
+    "nom": "NOYON",
+    "prenom": "Pascal",
+    "nom_complet": "Pascal NOYON",
+    "age": 64,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1010,
+    "votants": 770,
+    "pct_votants": 76.24,
+    "abstentions": 240,
+    "pct_abstentions": 23.76,
+    "exprimes": 761
+  },
+  "listes": [
+    {
+      "num_panneau": "3",
+      "libelle_liste": "FELLERIES, AVEC VOUS ET POUR VOUS",
+      "libelle_abrege_liste": "FELLERIES, AVEC VOUS ET POUR VOUS",
+      "nuance_liste": null,
+      "voix": 393,
+      "pct_voix_exprimes": 51.64,
+      "sieges_cm": 12,
+      "sieges_cc": 2,
+      "nb_elus": 12,
+      "tete_de_liste": {
+        "nom": "NOYON",
+        "prenom": "Pascal",
+        "nom_complet": "Pascal NOYON",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "NOYON",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal NOYON",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BERNARD",
+          "prenom": "Maryse",
+          "nom_complet": "Maryse BERNARD",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BINOIT",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent BINOIT",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DEMANET",
+          "prenom": "Christelle",
+          "nom_complet": "Christelle DEMANET",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "CARPENTIER",
+          "prenom": "Pierre",
+          "nom_complet": "Pierre CARPENTIER",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "SCULFORT",
+          "prenom": "Aline",
+          "nom_complet": "Aline SCULFORT",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "STURIONE",
+          "prenom": "Bertrand",
+          "nom_complet": "Bertrand STURIONE",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "EBEL",
+          "prenom": "Aurelie",
+          "nom_complet": "Aurelie EBEL",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "SANTOS",
+          "prenom": "Diego",
+          "nom_complet": "Diego SANTOS",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "MAES",
+          "prenom": "Christine",
+          "nom_complet": "Christine MAES",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "BRIATTE",
+          "prenom": "Ludovic",
+          "nom_complet": "Ludovic BRIATTE",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "GLOBEZ",
+          "prenom": "Jennifer",
+          "nom_complet": "Jennifer GLOBEZ",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "12"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "Un nouvel élan pour Felleries",
+      "libelle_abrege_liste": "Un nouvel élan pour Felleries",
+      "nuance_liste": null,
+      "voix": 304,
+      "pct_voix_exprimes": 39.95,
+      "sieges_cm": 3,
+      "sieges_cc": 1,
+      "nb_elus": 3,
+      "tete_de_liste": {
+        "nom": "DUHAMEL",
+        "prenom": "Sandrine",
+        "nom_complet": "Sandrine DUHAMEL",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "DUHAMEL",
+          "prenom": "Sandrine",
+          "nom_complet": "Sandrine DUHAMEL",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "SOHIER",
+          "prenom": "Victor",
+          "nom_complet": "Victor SOHIER",
+          "sexe": "M",
+          "age": 25,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DUMEZ",
+          "prenom": "Marie-Danièle",
+          "nom_complet": "Marie-Danièle DUMEZ",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "3"
+        }
+      ],
+      "statut_conseil": "autre"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Felleries, l'Avenir Ensemble",
+      "libelle_abrege_liste": "Felleries, l'Avenir Ensemble",
+      "nuance_liste": null,
+      "voix": 64,
+      "pct_voix_exprimes": 8.41,
+      "sieges_cm": 0,
+      "sieges_cc": 0,
+      "nb_elus": 0,
+      "tete_de_liste": null,
+      "elus": [],
+      "statut_conseil": "sans_elu"
+    }
+  ]
+}

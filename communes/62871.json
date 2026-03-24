@@ -1,0 +1,131 @@
+{
+  "code_commune": "62871",
+  "commune": "Wambercourt",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "TAFFIN",
+    "prenom": "Bernard",
+    "nom_complet": "Bernard TAFFIN",
+    "age": 57,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 191,
+    "votants": 123,
+    "pct_votants": 64.4,
+    "abstentions": 68,
+    "pct_abstentions": 35.6,
+    "exprimes": 94
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "NOTRE VILLAGE - NOTRE AVENIR",
+      "libelle_abrege_liste": "NOTRE VILLAGE - NOTRE AVENIR",
+      "nuance_liste": null,
+      "voix": 94,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "TAFFIN",
+        "prenom": "Bernard",
+        "nom_complet": "Bernard TAFFIN",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "TAFFIN",
+          "prenom": "Bernard",
+          "nom_complet": "Bernard TAFFIN",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DELECAMBRE",
+          "prenom": "Josette",
+          "nom_complet": "Josette DELECAMBRE",
+          "sexe": "F",
+          "age": 73,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "GRUMETZ",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal GRUMETZ",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "CAVIGNAUX",
+          "prenom": "Corinne",
+          "nom_complet": "Corinne CAVIGNAUX",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LEBOEUF",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick LEBOEUF",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LEBOEUF",
+          "prenom": "Emeline",
+          "nom_complet": "Emeline LEBOEUF",
+          "sexe": "F",
+          "age": 30,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DELECAMBRE",
+          "prenom": "Julien",
+          "nom_complet": "Julien DELECAMBRE",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "BEAUJOIS",
+          "prenom": "Nadine",
+          "nom_complet": "Nadine BEAUJOIS",
+          "sexe": "F",
+          "age": 78,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "POCHOLLE",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno POCHOLLE",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "FARCY",
+          "prenom": "Christine",
+          "nom_complet": "Christine FARCY",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "ASPEELE",
+          "prenom": "Cédric",
+          "nom_complet": "Cédric ASPEELE",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

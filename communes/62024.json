@@ -1,0 +1,183 @@
+{
+  "code_commune": "62024",
+  "commune": "Alquines",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "PRUD'HOMME",
+    "prenom": "Isabelle",
+    "nom_complet": "Isabelle PRUD'HOMME",
+    "age": 51,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 708,
+    "votants": 511,
+    "pct_votants": 72.18,
+    "abstentions": 197,
+    "pct_abstentions": 27.82,
+    "exprimes": 492
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "AGIR ENSEMBLE POUR ALQUINES",
+      "libelle_abrege_liste": "AGIR ENSEMBLE POUR ALQUINES",
+      "nuance_liste": null,
+      "voix": 258,
+      "pct_voix_exprimes": 52.44,
+      "sieges_cm": 12,
+      "sieges_cc": null,
+      "nb_elus": 12,
+      "tete_de_liste": {
+        "nom": "PRUD'HOMME",
+        "prenom": "Isabelle",
+        "nom_complet": "Isabelle PRUD'HOMME",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "PRUD'HOMME",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle PRUD'HOMME",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DUCHATEAU",
+          "prenom": "Jerome",
+          "nom_complet": "Jerome DUCHATEAU",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "ANDRIEU",
+          "prenom": "Amandine",
+          "nom_complet": "Amandine ANDRIEU",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "FOURRIER",
+          "prenom": "Sylvain",
+          "nom_complet": "Sylvain FOURRIER",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "COLIN-GILLET",
+          "prenom": "Sylvia",
+          "nom_complet": "Sylvia COLIN-GILLET",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "BILLAIN",
+          "prenom": "Thibaut",
+          "nom_complet": "Thibaut BILLAIN",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BERTIN",
+          "prenom": "Candice",
+          "nom_complet": "Candice BERTIN",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LEROY",
+          "prenom": "Alex",
+          "nom_complet": "Alex LEROY",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "TROUSSEL-HERBEZ",
+          "prenom": "Amelia",
+          "nom_complet": "Amelia TROUSSEL-HERBEZ",
+          "sexe": "F",
+          "age": 33,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "HOCHART",
+          "prenom": "Charly",
+          "nom_complet": "Charly HOCHART",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "CARPENTIER",
+          "prenom": "Laetitia",
+          "nom_complet": "Laetitia CARPENTIER",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "BOULANGER",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno BOULANGER",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "12"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Un nouveau souffle pour Alquines",
+      "libelle_abrege_liste": "Un nouveau souffle pour Alquines",
+      "nuance_liste": null,
+      "voix": 234,
+      "pct_voix_exprimes": 47.56,
+      "sieges_cm": 3,
+      "sieges_cc": null,
+      "nb_elus": 3,
+      "tete_de_liste": {
+        "nom": "VASSEUR",
+        "prenom": "Claude",
+        "nom_complet": "Claude VASSEUR",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "VASSEUR",
+          "prenom": "Claude",
+          "nom_complet": "Claude VASSEUR",
+          "sexe": "M",
+          "age": 75,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "ROHART",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique ROHART",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "MORRIEN",
+          "prenom": "Sébastien",
+          "nom_complet": "Sébastien MORRIEN",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "3"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

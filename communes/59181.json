@@ -1,0 +1,155 @@
+{
+  "code_commune": "59181",
+  "commune": "Dourlers",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "THERY",
+    "prenom": "Freddy",
+    "nom_complet": "Freddy THERY",
+    "age": 62,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 426,
+    "votants": 226,
+    "pct_votants": 53.05,
+    "abstentions": 200,
+    "pct_abstentions": 46.95,
+    "exprimes": 175
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "DOULERS, VILLAGE D'AVENIR",
+      "libelle_abrege_liste": "DOURLERS, VILLAGE D'AVENIR",
+      "nuance_liste": null,
+      "voix": 175,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 14,
+      "sieges_cc": null,
+      "nb_elus": 14,
+      "tete_de_liste": {
+        "nom": "THERY",
+        "prenom": "Freddy",
+        "nom_complet": "Freddy THERY",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "THERY",
+          "prenom": "Freddy",
+          "nom_complet": "Freddy THERY",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "WILLOT",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle WILLOT",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "MARQUET",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier MARQUET",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "JAMME",
+          "prenom": "Catherine",
+          "nom_complet": "Catherine JAMME",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DELLACHERIE",
+          "prenom": "Axel",
+          "nom_complet": "Axel DELLACHERIE",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "THERY",
+          "prenom": "Sandrine",
+          "nom_complet": "Sandrine THERY",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "HOURDEAUX",
+          "prenom": "Romain",
+          "nom_complet": "Romain HOURDEAUX",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "HAŸ",
+          "prenom": "Clotilde",
+          "nom_complet": "Clotilde HAŸ",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "BAUDIN",
+          "prenom": "Raynald",
+          "nom_complet": "Raynald BAUDIN",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "HOURDEAUX",
+          "prenom": "Nicole",
+          "nom_complet": "Nicole HOURDEAUX",
+          "sexe": "F",
+          "age": 70,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DUTEIL",
+          "prenom": "Jonathan",
+          "nom_complet": "Jonathan DUTEIL",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "RIERA",
+          "prenom": "Marie",
+          "nom_complet": "Marie RIERA",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "GROSFILS",
+          "prenom": "Mathieu",
+          "nom_complet": "Mathieu GROSFILS",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "GILLET",
+          "prenom": "Alice",
+          "nom_complet": "Alice GILLET",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "14"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

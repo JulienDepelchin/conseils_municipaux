@@ -1,0 +1,299 @@
+{
+  "code_commune": "62534",
+  "commune": "Lumbres",
+  "departement": "Pas-de-Calais",
+  "tour": "T2",
+  "maire": {
+    "nom": "DELRUE",
+    "prenom": "Joëlle",
+    "nom_complet": "Joëlle DELRUE",
+    "age": 73,
+    "nuance": "LDVG"
+  },
+  "resultats": {
+    "inscrits": 2456,
+    "votants": 1854,
+    "pct_votants": 75.49,
+    "abstentions": 602,
+    "pct_abstentions": 24.51,
+    "exprimes": 1808
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "Continuons d'agir pour Lumbres",
+      "libelle_abrege_liste": "Continuons d'agir pour Lumbres",
+      "nuance_liste": "LDVG",
+      "voix": 766,
+      "pct_voix_exprimes": 42.37,
+      "sieges_cm": 20,
+      "sieges_cc": 6,
+      "nb_elus": 20,
+      "tete_de_liste": {
+        "nom": "DELRUE",
+        "prenom": "Joëlle",
+        "nom_complet": "Joëlle DELRUE",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "DELRUE",
+          "prenom": "Joëlle",
+          "nom_complet": "Joëlle DELRUE",
+          "sexe": "F",
+          "age": 73,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "PRINGAULT",
+          "prenom": "Gérard",
+          "nom_complet": "Gérard PRINGAULT",
+          "sexe": "M",
+          "age": 74,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BERQUEZ",
+          "prenom": "Marie-Laurence",
+          "nom_complet": "Marie-Laurence BERQUEZ",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "COLLIEZ",
+          "prenom": "Jacques",
+          "nom_complet": "Jacques COLLIEZ",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "VERON",
+          "prenom": "Sandrine",
+          "nom_complet": "Sandrine VERON",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "GUCHE",
+          "prenom": "Francis",
+          "nom_complet": "Francis GUCHE",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DUBOIS",
+          "prenom": "Virginie",
+          "nom_complet": "Virginie DUBOIS",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LELIEVRE",
+          "prenom": "Serge",
+          "nom_complet": "Serge LELIEVRE",
+          "sexe": "M",
+          "age": 74,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DELATTRE",
+          "prenom": "Celine",
+          "nom_complet": "Celine DELATTRE",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "SPECQUE",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric SPECQUE",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "LEPINE",
+          "prenom": "Claudine",
+          "nom_complet": "Claudine LEPINE",
+          "sexe": "F",
+          "age": 75,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "LOUIS",
+          "prenom": "Daniel",
+          "nom_complet": "Daniel LOUIS",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "LAGERSIE",
+          "prenom": "Danielle",
+          "nom_complet": "Danielle LAGERSIE",
+          "sexe": "F",
+          "age": 74,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "COUVELARD",
+          "prenom": "Joel",
+          "nom_complet": "Joel COUVELARD",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "PIERRU",
+          "prenom": "Nadege",
+          "nom_complet": "Nadege PIERRU",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "SCHRIFVE",
+          "prenom": "Johann",
+          "nom_complet": "Johann SCHRIFVE",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "LANNOY",
+          "prenom": "Maïte",
+          "nom_complet": "Maïte LANNOY",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "BONNAIRE",
+          "prenom": "Serge",
+          "nom_complet": "Serge BONNAIRE",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "GAUDIN",
+          "prenom": "Cindy",
+          "nom_complet": "Cindy GAUDIN",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "DELFLY",
+          "prenom": "Regis",
+          "nom_complet": "Regis DELFLY",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "20"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "3",
+      "libelle_liste": "Ensemble pour Lumbres",
+      "libelle_abrege_liste": "Ensemble pour Lumbres",
+      "nuance_liste": "LDVG",
+      "voix": 682,
+      "pct_voix_exprimes": 37.72,
+      "sieges_cm": 5,
+      "sieges_cc": 1,
+      "nb_elus": 5,
+      "tete_de_liste": {
+        "nom": "QUAGEBEUR",
+        "prenom": "Jean-Philippe",
+        "nom_complet": "Jean-Philippe QUAGEBEUR",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "QUAGEBEUR",
+          "prenom": "Jean-Philippe",
+          "nom_complet": "Jean-Philippe QUAGEBEUR",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "SCHLEICH",
+          "prenom": "Ingrid",
+          "nom_complet": "Ingrid SCHLEICH",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "HANSSE",
+          "prenom": "Thierry",
+          "nom_complet": "Thierry HANSSE",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "VINCENT",
+          "prenom": "Eulalie",
+          "nom_complet": "Eulalie VINCENT",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "QUENON",
+          "prenom": "Sylvain",
+          "nom_complet": "Sylvain QUENON",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "5"
+        }
+      ],
+      "statut_conseil": "autre"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "LUMBRES AUTREMENT",
+      "libelle_abrege_liste": "LUMBRES AUTREMENT",
+      "nuance_liste": "LDIV",
+      "voix": 360,
+      "pct_voix_exprimes": 19.91,
+      "sieges_cm": 2,
+      "sieges_cc": 1,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "MONBAILLY",
+        "prenom": "Vincent",
+        "nom_complet": "Vincent MONBAILLY",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "MONBAILLY",
+          "prenom": "Vincent",
+          "nom_complet": "Vincent MONBAILLY",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DESESQUELLE",
+          "prenom": "Véronique",
+          "nom_complet": "Véronique DESESQUELLE",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

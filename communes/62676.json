@@ -1,0 +1,131 @@
+{
+  "code_commune": "62676",
+  "commune": "Quernes",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "VERWAERDE",
+    "prenom": "Patrick",
+    "nom_complet": "Patrick VERWAERDE",
+    "age": 54,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 355,
+    "votants": 239,
+    "pct_votants": 67.32,
+    "abstentions": 116,
+    "pct_abstentions": 32.68,
+    "exprimes": 197
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "LISTE D'UNION POUR LA DEFENSE DES INTERETS COMMUNAUX",
+      "libelle_abrege_liste": "LISTE D'UNION POUR LA DEFENSE DES INTERETS COMMUNAUX",
+      "nuance_liste": null,
+      "voix": 197,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "VERWAERDE",
+        "prenom": "Patrick",
+        "nom_complet": "Patrick VERWAERDE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "VERWAERDE",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick VERWAERDE",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "AMMEUX",
+          "prenom": "Lucile",
+          "nom_complet": "Lucile AMMEUX",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DELABRE",
+          "prenom": "Hervé",
+          "nom_complet": "Hervé DELABRE",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BECQUART",
+          "prenom": "Thérèse",
+          "nom_complet": "Thérèse BECQUART",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "RINGARD",
+          "prenom": "Ludovic",
+          "nom_complet": "Ludovic RINGARD",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "BREBION",
+          "prenom": "Michèle",
+          "nom_complet": "Michèle BREBION",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "CARPENTIER",
+          "prenom": "Eric",
+          "nom_complet": "Eric CARPENTIER",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DELPOUVE",
+          "prenom": "Annie",
+          "nom_complet": "Annie DELPOUVE",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "GILLOOTS",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique GILLOOTS",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "BROCQUET",
+          "prenom": "Jessica",
+          "nom_complet": "Jessica BROCQUET",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "PINOTEAU",
+          "prenom": "Jean-François",
+          "nom_complet": "Jean-François PINOTEAU",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

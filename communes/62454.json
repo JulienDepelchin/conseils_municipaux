@@ -1,0 +1,215 @@
+{
+  "code_commune": "62454",
+  "commune": "Hinges",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "JOMBART",
+    "prenom": "Simon",
+    "nom_complet": "Simon JOMBART",
+    "age": 36,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 2019,
+    "votants": 1511,
+    "pct_votants": 74.84,
+    "abstentions": 508,
+    "pct_abstentions": 25.16,
+    "exprimes": 1480
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Hinges, notre village",
+      "libelle_abrege_liste": "Hinges, notre village",
+      "nuance_liste": null,
+      "voix": 830,
+      "pct_voix_exprimes": 56.08,
+      "sieges_cm": 15,
+      "sieges_cc": 1,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "JOMBART",
+        "prenom": "Simon",
+        "nom_complet": "Simon JOMBART",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "JOMBART",
+          "prenom": "Simon",
+          "nom_complet": "Simon JOMBART",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LEFEBVRE",
+          "prenom": "Valérie",
+          "nom_complet": "Valérie LEFEBVRE",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "PINCHON",
+          "prenom": "Matthieu",
+          "nom_complet": "Matthieu PINCHON",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "QUETIEZ",
+          "prenom": "Orphyse",
+          "nom_complet": "Orphyse QUETIEZ",
+          "sexe": "F",
+          "age": 27,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "BENTIVEGNA",
+          "prenom": "Cyrille",
+          "nom_complet": "Cyrille BENTIVEGNA",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "BROGNIART",
+          "prenom": "Alice",
+          "nom_complet": "Alice BROGNIART",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DELABRE",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe DELABRE",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "TACLET",
+          "prenom": "Marie France",
+          "nom_complet": "Marie France TACLET",
+          "sexe": "F",
+          "age": 79,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "ABRAHAM",
+          "prenom": "Daniel",
+          "nom_complet": "Daniel ABRAHAM",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DELBREUVE",
+          "prenom": "Isis",
+          "nom_complet": "Isis DELBREUVE",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "BORTOLOTTI",
+          "prenom": "Eric",
+          "nom_complet": "Eric BORTOLOTTI",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "BLEARD",
+          "prenom": "Céline",
+          "nom_complet": "Céline BLEARD",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "PAGIES",
+          "prenom": "Jean-Luc",
+          "nom_complet": "Jean-Luc PAGIES",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "BOMBA",
+          "prenom": "Mélanie",
+          "nom_complet": "Mélanie BOMBA",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "CARNET",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas CARNET",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "HINGES L'ESSENTIEL ENSEMBLE",
+      "libelle_abrege_liste": "HINGES L'ESSENTIEL ENSEMBLE",
+      "nuance_liste": null,
+      "voix": 650,
+      "pct_voix_exprimes": 43.92,
+      "sieges_cm": 4,
+      "sieges_cc": 0,
+      "nb_elus": 4,
+      "tete_de_liste": {
+        "nom": "BOULANGER",
+        "prenom": "Jonathan",
+        "nom_complet": "Jonathan BOULANGER",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BOULANGER",
+          "prenom": "Jonathan",
+          "nom_complet": "Jonathan BOULANGER",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BECQUE",
+          "prenom": "Helene",
+          "nom_complet": "Helene BECQUE",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "KLIMASZEWSKI",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas KLIMASZEWSKI",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "STIEVENART",
+          "prenom": "Elodie",
+          "nom_complet": "Elodie STIEVENART",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "4"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "code_commune": "62010",
+  "commune": "Affringues",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "POURCHEL",
+    "prenom": "Isabelle",
+    "nom_complet": "Isabelle POURCHEL",
+    "age": 54,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 217,
+    "votants": 145,
+    "pct_votants": 66.82,
+    "abstentions": 72,
+    "pct_abstentions": 33.18,
+    "exprimes": 114
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Affringues, un village pour vous avec nous !",
+      "libelle_abrege_liste": "Affringues, un village pour vous avec nous !",
+      "nuance_liste": null,
+      "voix": 114,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "POURCHEL",
+        "prenom": "Isabelle",
+        "nom_complet": "Isabelle POURCHEL",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "POURCHEL",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle POURCHEL",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "VERWAERDE",
+          "prenom": "Dany",
+          "nom_complet": "Dany VERWAERDE",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "TELLIER",
+          "prenom": "Bernadette",
+          "nom_complet": "Bernadette TELLIER",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DESQUIREZ",
+          "prenom": "Guillaume",
+          "nom_complet": "Guillaume DESQUIREZ",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "SENECAT",
+          "prenom": "Estelle",
+          "nom_complet": "Estelle SENECAT",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "VANIET",
+          "prenom": "Arnaud",
+          "nom_complet": "Arnaud VANIET",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "LECLERCQ",
+          "prenom": "Marie-Ange",
+          "nom_complet": "Marie-Ange LECLERCQ",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "HESPELLE",
+          "prenom": "Sébastien",
+          "nom_complet": "Sébastien HESPELLE",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "MEQUIGNON",
+          "prenom": "Sophie",
+          "nom_complet": "Sophie MEQUIGNON",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "VERRIEST",
+          "prenom": "Cyril",
+          "nom_complet": "Cyril VERRIEST",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "LECLERCQ",
+          "prenom": "Catherine",
+          "nom_complet": "Catherine LECLERCQ",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

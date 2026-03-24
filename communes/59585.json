@@ -1,0 +1,279 @@
+{
+  "code_commune": "59585",
+  "commune": "Templemars",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "DESMETTRE",
+    "prenom": "Pierre-Henri",
+    "nom_complet": "Pierre-Henri DESMETTRE",
+    "age": 72,
+    "nuance": "LDVC"
+  },
+  "resultats": {
+    "inscrits": 2842,
+    "votants": 1643,
+    "pct_votants": 57.81,
+    "abstentions": 1199,
+    "pct_abstentions": 42.19,
+    "exprimes": 1600
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "AGISSONS ENSEMBLE POUR TEMPLEMARS",
+      "libelle_abrege_liste": "AGISSONS ENSEMBLE POUR TEMPLEMARS",
+      "nuance_liste": "LDVC",
+      "voix": 856,
+      "pct_voix_exprimes": 53.5,
+      "sieges_cm": 21,
+      "sieges_cc": 1,
+      "nb_elus": 21,
+      "tete_de_liste": {
+        "nom": "DESMETTRE",
+        "prenom": "Pierre-Henri",
+        "nom_complet": "Pierre-Henri DESMETTRE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DESMETTRE",
+          "prenom": "Pierre-Henri",
+          "nom_complet": "Pierre-Henri DESMETTRE",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DE SEIXAS",
+          "prenom": "Elise",
+          "nom_complet": "Elise DE SEIXAS",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "PONTHIEU",
+          "prenom": "Vincent",
+          "nom_complet": "Vincent PONTHIEU",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DUHAUT",
+          "prenom": "Elodie",
+          "nom_complet": "Elodie DUHAUT",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "VINDREAU",
+          "prenom": "David",
+          "nom_complet": "David VINDREAU",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LION DUVIVIER",
+          "prenom": "Marie-Line",
+          "nom_complet": "Marie-Line LION DUVIVIER",
+          "sexe": "F",
+          "age": 72,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DUHAUT",
+          "prenom": "Xavier",
+          "nom_complet": "Xavier DUHAUT",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "CAILLETEAU",
+          "prenom": "Elisabeth",
+          "nom_complet": "Elisabeth CAILLETEAU",
+          "sexe": "F",
+          "age": 70,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "VANUXEM",
+          "prenom": "Frederic",
+          "nom_complet": "Frederic VANUXEM",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "MENIEL",
+          "prenom": "Delphine",
+          "nom_complet": "Delphine MENIEL",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "BAILLOEUL",
+          "prenom": "Eric",
+          "nom_complet": "Eric BAILLOEUL",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "GODEFROOD",
+          "prenom": "Janick",
+          "nom_complet": "Janick GODEFROOD",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "DENYS",
+          "prenom": "Serge",
+          "nom_complet": "Serge DENYS",
+          "sexe": "M",
+          "age": 76,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "MONTAGNON LION",
+          "prenom": "Stephanie",
+          "nom_complet": "Stephanie MONTAGNON LION",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "PRUVOST",
+          "prenom": "Bernard",
+          "nom_complet": "Bernard PRUVOST",
+          "sexe": "M",
+          "age": 76,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "WAGROWSKI",
+          "prenom": "Amélie",
+          "nom_complet": "Amélie WAGROWSKI",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "HYVOZ",
+          "prenom": "Jacques",
+          "nom_complet": "Jacques HYVOZ",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "ANDREU",
+          "prenom": "Pauline",
+          "nom_complet": "Pauline ANDREU",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "BOUMAZA",
+          "prenom": "Farid",
+          "nom_complet": "Farid BOUMAZA",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "BOUCQUEY MAIRESSE",
+          "prenom": "Nadine",
+          "nom_complet": "Nadine BOUCQUEY MAIRESSE",
+          "sexe": "F",
+          "age": 70,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "DEGILA",
+          "prenom": "Hermann",
+          "nom_complet": "Hermann DEGILA",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "21"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "REUSSIR TEMPLEMARS",
+      "libelle_abrege_liste": "REUSSIR TEMPLEMARS",
+      "nuance_liste": "LDVG",
+      "voix": 744,
+      "pct_voix_exprimes": 46.5,
+      "sieges_cm": 6,
+      "sieges_cc": 0,
+      "nb_elus": 6,
+      "tete_de_liste": {
+        "nom": "GRIFFARD",
+        "prenom": "Juliette",
+        "nom_complet": "Juliette GRIFFARD",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "GRIFFARD",
+          "prenom": "Juliette",
+          "nom_complet": "Juliette GRIFFARD",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DUPONT",
+          "prenom": "Eric",
+          "nom_complet": "Eric DUPONT",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DOBBELAERE",
+          "prenom": "Emilie",
+          "nom_complet": "Emilie DOBBELAERE",
+          "sexe": "F",
+          "age": 28,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "FACOMPRE",
+          "prenom": "James",
+          "nom_complet": "James FACOMPRE",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DELEMER",
+          "prenom": "Marianne",
+          "nom_complet": "Marianne DELEMER",
+          "sexe": "F",
+          "age": 70,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DEBEIRE",
+          "prenom": "David",
+          "nom_complet": "David DEBEIRE",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "6"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

@@ -1,0 +1,183 @@
+{
+  "code_commune": "62264",
+  "commune": "Dannes",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "PUDWELL",
+    "prenom": "Karine",
+    "nom_complet": "Karine PUDWELL",
+    "age": 49,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1088,
+    "votants": 807,
+    "pct_votants": 74.17,
+    "abstentions": 281,
+    "pct_abstentions": 25.83,
+    "exprimes": 756
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "CAP SUR L'AVENIR",
+      "libelle_abrege_liste": "CAP SUR L'AVENIR",
+      "nuance_liste": null,
+      "voix": 545,
+      "pct_voix_exprimes": 72.09,
+      "sieges_cm": 13,
+      "sieges_cc": 1,
+      "nb_elus": 13,
+      "tete_de_liste": {
+        "nom": "PUDWELL",
+        "prenom": "Karine",
+        "nom_complet": "Karine PUDWELL",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "PUDWELL",
+          "prenom": "Karine",
+          "nom_complet": "Karine PUDWELL",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BEAUMONT",
+          "prenom": "Denis",
+          "nom_complet": "Denis BEAUMONT",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "PRUDHOMME",
+          "prenom": "Cindy",
+          "nom_complet": "Cindy PRUDHOMME",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DELPLACE",
+          "prenom": "David",
+          "nom_complet": "David DELPLACE",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "BAHEUX",
+          "prenom": "Marjorie",
+          "nom_complet": "Marjorie BAHEUX",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "FOURCROY",
+          "prenom": "Dany",
+          "nom_complet": "Dany FOURCROY",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "ROUSSEL",
+          "prenom": "Magali",
+          "nom_complet": "Magali ROUSSEL",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "MAGNIER",
+          "prenom": "François",
+          "nom_complet": "François MAGNIER",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "MAILLARD",
+          "prenom": "Mathilde",
+          "nom_complet": "Mathilde MAILLARD",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "HUCHIN",
+          "prenom": "Cyrille",
+          "nom_complet": "Cyrille HUCHIN",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "MAGRIT",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie MAGRIT",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "NOREL",
+          "prenom": "Roger",
+          "nom_complet": "Roger NOREL",
+          "sexe": "M",
+          "age": 84,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "HENOT",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie HENOT",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "13"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "DANNES : AVEC VOUS ! POUR VOUS !",
+      "libelle_abrege_liste": "DANNES : AVEC VOUS ! POUR VOUS !",
+      "nuance_liste": null,
+      "voix": 211,
+      "pct_voix_exprimes": 27.91,
+      "sieges_cm": 2,
+      "sieges_cc": 0,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "DEBRIS",
+        "prenom": "Peggy",
+        "nom_complet": "Peggy DEBRIS",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "DEBRIS",
+          "prenom": "Peggy",
+          "nom_complet": "Peggy DEBRIS",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "SAILLY",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe SAILLY",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "code_commune": "59147",
+  "commune": "Choisies",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "PAQUET",
+    "prenom": "Bernard",
+    "nom_complet": "Bernard PAQUET",
+    "age": 73,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 46,
+    "votants": 39,
+    "pct_votants": 84.78,
+    "abstentions": 7,
+    "pct_abstentions": 15.22,
+    "exprimes": 37
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Choisies Ensemble",
+      "libelle_abrege_liste": "Choisies Ensemble",
+      "nuance_liste": null,
+      "voix": 37,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 7,
+      "sieges_cc": null,
+      "nb_elus": 7,
+      "tete_de_liste": {
+        "nom": "PAQUET",
+        "prenom": "Bernard",
+        "nom_complet": "Bernard PAQUET",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "PAQUET",
+          "prenom": "Bernard",
+          "nom_complet": "Bernard PAQUET",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BROUWEZ-LEVEQUE",
+          "prenom": "Laurence",
+          "nom_complet": "Laurence BROUWEZ-LEVEQUE",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BROUWEZ",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent BROUWEZ",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "PAQUET HEMBISE",
+          "prenom": "Valérie",
+          "nom_complet": "Valérie PAQUET HEMBISE",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "PAQUET",
+          "prenom": "Ghislain",
+          "nom_complet": "Ghislain PAQUET",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "GUERY",
+          "prenom": "Gwladys",
+          "nom_complet": "Gwladys GUERY",
+          "sexe": "F",
+          "age": 27,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DUTREMEE",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno DUTREMEE",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "7"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

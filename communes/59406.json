@@ -1,0 +1,151 @@
+{
+  "code_commune": "59406",
+  "commune": "Monceau-Saint-Waast",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "GUILLAUME-MAINGUIN",
+    "prenom": "Serge",
+    "nom_complet": "Serge GUILLAUME-MAINGUIN",
+    "age": 57,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 324,
+    "votants": 225,
+    "pct_votants": 69.44,
+    "abstentions": 99,
+    "pct_abstentions": 30.56,
+    "exprimes": 223
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "Unis pour Monceau-Saint-Waast",
+      "libelle_abrege_liste": "Unis pour Monceau-Saint-Waast",
+      "nuance_liste": null,
+      "voix": 165,
+      "pct_voix_exprimes": 73.99,
+      "sieges_cm": 9,
+      "sieges_cc": null,
+      "nb_elus": 9,
+      "tete_de_liste": {
+        "nom": "GUILLAUME-MAINGUIN",
+        "prenom": "Serge",
+        "nom_complet": "Serge GUILLAUME-MAINGUIN",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "GUILLAUME-MAINGUIN",
+          "prenom": "Serge",
+          "nom_complet": "Serge GUILLAUME-MAINGUIN",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "STAMANNE BILS",
+          "prenom": "Sophie",
+          "nom_complet": "Sophie STAMANNE BILS",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LEGOIS",
+          "prenom": "Jerome",
+          "nom_complet": "Jerome LEGOIS",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "WIEDERKEHR DUBREUCQ",
+          "prenom": "Pauline",
+          "nom_complet": "Pauline WIEDERKEHR DUBREUCQ",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "NIMPER",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick NIMPER",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LENOBLE",
+          "prenom": "Marion",
+          "nom_complet": "Marion LENOBLE",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "THURETTE",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique THURETTE",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "BOULEAU",
+          "prenom": "Sabrina",
+          "nom_complet": "Sabrina BOULEAU",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "CORDELLE",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe CORDELLE",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "9"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "MONCEAU-SAINT-WAAST AUTREMENT",
+      "libelle_abrege_liste": "MONCEAU-SAINT-WAAST AUTREMENT",
+      "nuance_liste": null,
+      "voix": 58,
+      "pct_voix_exprimes": 26.01,
+      "sieges_cm": 2,
+      "sieges_cc": null,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "BULTEZ",
+        "prenom": "Boris",
+        "nom_complet": "Boris BULTEZ",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BULTEZ",
+          "prenom": "Boris",
+          "nom_complet": "Boris BULTEZ",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DELHAYE",
+          "prenom": "Roselyne",
+          "nom_complet": "Roselyne DELHAYE",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

@@ -1,0 +1,183 @@
+{
+  "code_commune": "59618",
+  "commune": "Vieux-Reng",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "MANFROY",
+    "prenom": "Jean Pierre",
+    "nom_complet": "Jean Pierre MANFROY",
+    "age": 65,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 598,
+    "votants": 446,
+    "pct_votants": 74.58,
+    "abstentions": 152,
+    "pct_abstentions": 25.42,
+    "exprimes": 432
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "VIEUX RENG LAMERIES AU COEUR DE NOTRE ENGAGMENT",
+      "libelle_abrege_liste": "VIEUX RENG LAMERIES AU COEUR DE NOTRE ENGAGMENT",
+      "nuance_liste": null,
+      "voix": 249,
+      "pct_voix_exprimes": 57.64,
+      "sieges_cm": 12,
+      "sieges_cc": null,
+      "nb_elus": 12,
+      "tete_de_liste": {
+        "nom": "MANFROY",
+        "prenom": "Jean Pierre",
+        "nom_complet": "Jean Pierre MANFROY",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "MANFROY",
+          "prenom": "Jean Pierre",
+          "nom_complet": "Jean Pierre MANFROY",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BRISSON",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle BRISSON",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LAURENT",
+          "prenom": "Ghislain",
+          "nom_complet": "Ghislain LAURENT",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LISSE",
+          "prenom": "Amandine",
+          "nom_complet": "Amandine LISSE",
+          "sexe": "F",
+          "age": 32,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "STOCKER",
+          "prenom": "Michael",
+          "nom_complet": "Michael STOCKER",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "BORDERIEUX",
+          "prenom": "Monique",
+          "nom_complet": "Monique BORDERIEUX",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "ROCUL",
+          "prenom": "Claude",
+          "nom_complet": "Claude ROCUL",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "HOEL",
+          "prenom": "Nadege",
+          "nom_complet": "Nadege HOEL",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "BLANCHARD",
+          "prenom": "Francois",
+          "nom_complet": "Francois BLANCHARD",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DEVOUGE",
+          "prenom": "Gwladys",
+          "nom_complet": "Gwladys DEVOUGE",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "CHERONT",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier CHERONT",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "DAUBIE",
+          "prenom": "Virginie",
+          "nom_complet": "Virginie DAUBIE",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "12"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "VIEUX-RENG TERRE DE TRADITION UNE VISION RENOUVELEE",
+      "libelle_abrege_liste": "VIEUX-RENG TERRE DE TRADITION UNE VISION RENOUVELEE",
+      "nuance_liste": null,
+      "voix": 183,
+      "pct_voix_exprimes": 42.36,
+      "sieges_cm": 3,
+      "sieges_cc": null,
+      "nb_elus": 3,
+      "tete_de_liste": {
+        "nom": "GENTILE",
+        "prenom": "Saverio",
+        "nom_complet": "Saverio GENTILE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "GENTILE",
+          "prenom": "Saverio",
+          "nom_complet": "Saverio GENTILE",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DEMASSIEUX",
+          "prenom": "Karine",
+          "nom_complet": "Karine DEMASSIEUX",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "JOURDAIN",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe JOURDAIN",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "3"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

@@ -1,0 +1,215 @@
+{
+  "code_commune": "62423",
+  "commune": "Helfaut",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "MARQUANT",
+    "prenom": "Francis",
+    "nom_complet": "Francis MARQUANT",
+    "age": 71,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1259,
+    "votants": 988,
+    "pct_votants": 78.47,
+    "abstentions": 271,
+    "pct_abstentions": 21.53,
+    "exprimes": 937
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "l'Expérience au service de Demain",
+      "libelle_abrege_liste": "l'Expérience au service de Demain",
+      "nuance_liste": null,
+      "voix": 515,
+      "pct_voix_exprimes": 54.96,
+      "sieges_cm": 15,
+      "sieges_cc": 1,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "MARQUANT",
+        "prenom": "Francis",
+        "nom_complet": "Francis MARQUANT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "MARQUANT",
+          "prenom": "Francis",
+          "nom_complet": "Francis MARQUANT",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BUTIN DECLOITRE",
+          "prenom": "Carole",
+          "nom_complet": "Carole BUTIN DECLOITRE",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "PENET",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal PENET",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "D'HAILLECOURT-BEN",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle D'HAILLECOURT-BEN",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "ANSEL",
+          "prenom": "Aymeric",
+          "nom_complet": "Aymeric ANSEL",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "BLONDEL-BAROIS",
+          "prenom": "Colette",
+          "nom_complet": "Colette BLONDEL-BAROIS",
+          "sexe": "F",
+          "age": 73,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DELOBEL",
+          "prenom": "Pierre",
+          "nom_complet": "Pierre DELOBEL",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "FIOLET GOZE",
+          "prenom": "Hélène",
+          "nom_complet": "Hélène FIOLET GOZE",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "SAMBOURG",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe SAMBOURG",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "POPRAWKA MOUQUET",
+          "prenom": "Sabine",
+          "nom_complet": "Sabine POPRAWKA MOUQUET",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "MONSAURET",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal MONSAURET",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "DEMOL RENAUT",
+          "prenom": "Hélène",
+          "nom_complet": "Hélène DEMOL RENAUT",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "SAUVAGE",
+          "prenom": "Gauthier",
+          "nom_complet": "Gauthier SAUVAGE",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "SAVARY",
+          "prenom": "Sandra",
+          "nom_complet": "Sandra SAVARY",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "COURTIN",
+          "prenom": "Alexis",
+          "nom_complet": "Alexis COURTIN",
+          "sexe": "M",
+          "age": 34,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "HELFAUT, ensemble et pour demain",
+      "libelle_abrege_liste": "HELFAUT, ensemble et pour demain",
+      "nuance_liste": null,
+      "voix": 422,
+      "pct_voix_exprimes": 45.04,
+      "sieges_cm": 4,
+      "sieges_cc": 0,
+      "nb_elus": 4,
+      "tete_de_liste": {
+        "nom": "BODELLE",
+        "prenom": "Romain",
+        "nom_complet": "Romain BODELLE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BODELLE",
+          "prenom": "Romain",
+          "nom_complet": "Romain BODELLE",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "COURBET",
+          "prenom": "Catherine",
+          "nom_complet": "Catherine COURBET",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "CAILLIEZ",
+          "prenom": "Thierry",
+          "nom_complet": "Thierry CAILLIEZ",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DUHAUTOY",
+          "prenom": "Aline",
+          "nom_complet": "Aline DUHAUTOY",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "4"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

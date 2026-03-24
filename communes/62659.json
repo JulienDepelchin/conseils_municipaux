@@ -1,0 +1,131 @@
+{
+  "code_commune": "62659",
+  "commune": "Planques",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "BECUWE",
+    "prenom": "Damien",
+    "nom_complet": "Damien BECUWE",
+    "age": 34,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 73,
+    "votants": 55,
+    "pct_votants": 75.34,
+    "abstentions": 18,
+    "pct_abstentions": 24.66,
+    "exprimes": 44
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "l'avenir de planques",
+      "libelle_abrege_liste": "l'avenir de planques",
+      "nuance_liste": null,
+      "voix": 44,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "BECUWE",
+        "prenom": "Damien",
+        "nom_complet": "Damien BECUWE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BECUWE",
+          "prenom": "Damien",
+          "nom_complet": "Damien BECUWE",
+          "sexe": "M",
+          "age": 34,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LEGRAND",
+          "prenom": "Ludivine",
+          "nom_complet": "Ludivine LEGRAND",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LAQUAY",
+          "prenom": "Aurélien",
+          "nom_complet": "Aurélien LAQUAY",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "ROGEZ",
+          "prenom": "Elisabeth",
+          "nom_complet": "Elisabeth ROGEZ",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "KOSCIELNY",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal KOSCIELNY",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "BAILLY",
+          "prenom": "Julie",
+          "nom_complet": "Julie BAILLY",
+          "sexe": "F",
+          "age": 26,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "LESENNE",
+          "prenom": "Jérôme",
+          "nom_complet": "Jérôme LESENNE",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "BARBIER",
+          "prenom": "Marion",
+          "nom_complet": "Marion BARBIER",
+          "sexe": "F",
+          "age": 31,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "HIEL",
+          "prenom": "Jean-Luc",
+          "nom_complet": "Jean-Luc HIEL",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "ROUGEGREZ",
+          "prenom": "Christelle",
+          "nom_complet": "Christelle ROUGEGREZ",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "LESENNE",
+          "prenom": "Jean-Marie",
+          "nom_complet": "Jean-Marie LESENNE",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

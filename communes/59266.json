@@ -1,0 +1,299 @@
+{
+  "code_commune": "59266",
+  "commune": "Gondecourt",
+  "departement": "Nord",
+  "tour": "T2",
+  "maire": {
+    "nom": "BUÉ",
+    "prenom": "Régis",
+    "nom_complet": "Régis BUÉ",
+    "age": 64,
+    "nuance": "LDVC"
+  },
+  "resultats": {
+    "inscrits": 3435,
+    "votants": 2024,
+    "pct_votants": 58.92,
+    "abstentions": 1411,
+    "pct_abstentions": 41.08,
+    "exprimes": 1981
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "GONDECOURT DEMAIN",
+      "libelle_abrege_liste": "GONDECOURT DEMAIN",
+      "nuance_liste": "LDVC",
+      "voix": 941,
+      "pct_voix_exprimes": 47.5,
+      "sieges_cm": 20,
+      "sieges_cc": 2,
+      "nb_elus": 20,
+      "tete_de_liste": {
+        "nom": "BUÉ",
+        "prenom": "Régis",
+        "nom_complet": "Régis BUÉ",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BUÉ",
+          "prenom": "Régis",
+          "nom_complet": "Régis BUÉ",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DELOBEL",
+          "prenom": "Véronique",
+          "nom_complet": "Véronique DELOBEL",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "VANOOSTEN",
+          "prenom": "Pierre-Eugène",
+          "nom_complet": "Pierre-Eugène VANOOSTEN",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "MULLIER",
+          "prenom": "Céline",
+          "nom_complet": "Céline MULLIER",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "TRACKOEN",
+          "prenom": "Ruddy",
+          "nom_complet": "Ruddy TRACKOEN",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DUPONT",
+          "prenom": "Sabine",
+          "nom_complet": "Sabine DUPONT",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "CHAVATTE",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe CHAVATTE",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "MAHIEU",
+          "prenom": "Jocelyne",
+          "nom_complet": "Jocelyne MAHIEU",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "FLEUREAU",
+          "prenom": "David",
+          "nom_complet": "David FLEUREAU",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "LEJEUNE ÉPOUSE BRINGUEZ",
+          "prenom": "Christine",
+          "nom_complet": "Christine LEJEUNE ÉPOUSE BRINGUEZ",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DAMBRE",
+          "prenom": "Luc",
+          "nom_complet": "Luc DAMBRE",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "CASTEL ÉPOUSE DELACROIX",
+          "prenom": "Thérèse-Marie",
+          "nom_complet": "Thérèse-Marie CASTEL ÉPOUSE DELACROIX",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "LEFEBVRE",
+          "prenom": "Arnaud",
+          "nom_complet": "Arnaud LEFEBVRE",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "LEHOUCQ",
+          "prenom": "Audrey",
+          "nom_complet": "Audrey LEHOUCQ",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "VANPEPERSTRAETE",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe VANPEPERSTRAETE",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "DEFIVES",
+          "prenom": "Louise",
+          "nom_complet": "Louise DEFIVES",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "LECLERCQ",
+          "prenom": "Hervé",
+          "nom_complet": "Hervé LECLERCQ",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "JOAN",
+          "prenom": "Sandrine",
+          "nom_complet": "Sandrine JOAN",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "DERROT",
+          "prenom": "Vincent",
+          "nom_complet": "Vincent DERROT",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "VERDIER-CARLIER",
+          "prenom": "Catherine",
+          "nom_complet": "Catherine VERDIER-CARLIER",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "20"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "3",
+      "libelle_liste": "Ensemble Vivons Gondecourt",
+      "libelle_abrege_liste": "Ensemble Vivons Gondecourt",
+      "nuance_liste": "LDVG",
+      "voix": 893,
+      "pct_voix_exprimes": 45.08,
+      "sieges_cm": 6,
+      "sieges_cc": 0,
+      "nb_elus": 6,
+      "tete_de_liste": {
+        "nom": "HALLOT",
+        "prenom": "Vincent",
+        "nom_complet": "Vincent HALLOT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "HALLOT",
+          "prenom": "Vincent",
+          "nom_complet": "Vincent HALLOT",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "FERNANDEZ",
+          "prenom": "Emeline",
+          "nom_complet": "Emeline FERNANDEZ",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "MERLY",
+          "prenom": "Thomas",
+          "nom_complet": "Thomas MERLY",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LEMAITRE",
+          "prenom": "Emeline",
+          "nom_complet": "Emeline LEMAITRE",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "GABELLE",
+          "prenom": "Lilian",
+          "nom_complet": "Lilian GABELLE",
+          "sexe": "M",
+          "age": 34,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "CALLIGARO",
+          "prenom": "Angelina",
+          "nom_complet": "Angelina CALLIGARO",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "6"
+        }
+      ],
+      "statut_conseil": "autre"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Mon parti c'est Gondecourt",
+      "libelle_abrege_liste": "Mon parti c'est Gondecourt",
+      "nuance_liste": "LDVD",
+      "voix": 147,
+      "pct_voix_exprimes": 7.42,
+      "sieges_cm": 1,
+      "sieges_cc": 0,
+      "nb_elus": 1,
+      "tete_de_liste": {
+        "nom": "LÉVECQ",
+        "prenom": "Guillaume François Charles",
+        "nom_complet": "Guillaume François Charles LÉVECQ",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LÉVECQ",
+          "prenom": "Guillaume François Charles",
+          "nom_complet": "Guillaume François Charles LÉVECQ",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "1"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

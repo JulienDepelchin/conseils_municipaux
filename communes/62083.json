@@ -1,0 +1,295 @@
+{
+  "code_commune": "62083",
+  "commune": "Barlin",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "DAGBERT",
+    "prenom": "Julien",
+    "nom_complet": "Julien DAGBERT",
+    "age": 38,
+    "nuance": "LDVC"
+  },
+  "resultats": {
+    "inscrits": 5751,
+    "votants": 3084,
+    "pct_votants": 53.63,
+    "abstentions": 2667,
+    "pct_abstentions": 46.37,
+    "exprimes": 2890
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "Barlin, continuons ensemble avec passion",
+      "libelle_abrege_liste": "Barlin, continuons ensemble avec passion",
+      "nuance_liste": "LDVC",
+      "voix": 2328,
+      "pct_voix_exprimes": 80.55,
+      "sieges_cm": 27,
+      "sieges_cc": 3,
+      "nb_elus": 27,
+      "tete_de_liste": {
+        "nom": "DAGBERT",
+        "prenom": "Julien",
+        "nom_complet": "Julien DAGBERT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DAGBERT",
+          "prenom": "Julien",
+          "nom_complet": "Julien DAGBERT",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "VOLCKAERT",
+          "prenom": "Maryse",
+          "nom_complet": "Maryse VOLCKAERT",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "CONSTANCE",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick CONSTANCE",
+          "sexe": "M",
+          "age": 74,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DZIERWA",
+          "prenom": "Martine",
+          "nom_complet": "Martine DZIERWA",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "BULOT",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe BULOT",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "MIKULA",
+          "prenom": "Sandrine",
+          "nom_complet": "Sandrine MIKULA",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DELEU",
+          "prenom": "Mickaël",
+          "nom_complet": "Mickaël DELEU",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "MICHEL",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie MICHEL",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "PIECKOWIAK",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno PIECKOWIAK",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "WILLEMAND",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle WILLEMAND",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DUMONT",
+          "prenom": "Gérard",
+          "nom_complet": "Gérard DUMONT",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "SASIELA",
+          "prenom": "Bernadette",
+          "nom_complet": "Bernadette SASIELA",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "NOYELLE",
+          "prenom": "Rémi",
+          "nom_complet": "Rémi NOYELLE",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "POMART",
+          "prenom": "Marie",
+          "nom_complet": "Marie POMART",
+          "sexe": "F",
+          "age": 28,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "PRUD'HOMME",
+          "prenom": "Renaud",
+          "nom_complet": "Renaud PRUD'HOMME",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "VANDENBUSSCHE",
+          "prenom": "Karine",
+          "nom_complet": "Karine VANDENBUSSCHE",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "KALEK",
+          "prenom": "Daniel",
+          "nom_complet": "Daniel KALEK",
+          "sexe": "M",
+          "age": 77,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "DUCATEL",
+          "prenom": "Pierrette",
+          "nom_complet": "Pierrette DUCATEL",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "BUTA",
+          "prenom": "Stéphane",
+          "nom_complet": "Stéphane BUTA",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "MARIN",
+          "prenom": "Elisabeth",
+          "nom_complet": "Elisabeth MARIN",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "PICART",
+          "prenom": "Axel",
+          "nom_complet": "Axel PICART",
+          "sexe": "M",
+          "age": 30,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "DELETOILLE",
+          "prenom": "Catherine",
+          "nom_complet": "Catherine DELETOILLE",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "POIDEVIN",
+          "prenom": "André",
+          "nom_complet": "André POIDEVIN",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "23"
+        },
+        {
+          "nom": "HEROT",
+          "prenom": "Mélissa",
+          "nom_complet": "Mélissa HEROT",
+          "sexe": "F",
+          "age": 23,
+          "rang_liste": "24"
+        },
+        {
+          "nom": "ATTAGNIANT",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent ATTAGNIANT",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "25"
+        },
+        {
+          "nom": "DEMUYNCK",
+          "prenom": "Aline",
+          "nom_complet": "Aline DEMUYNCK",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "26"
+        },
+        {
+          "nom": "STRYCHAREK",
+          "prenom": "Florian",
+          "nom_complet": "Florian STRYCHAREK",
+          "sexe": "M",
+          "age": 29,
+          "rang_liste": "27"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "BARLIN N'A PAS DIT SON DERNIER MOT",
+      "libelle_abrege_liste": "BARLIN N'A PAS DIT SON DERNIER MOT",
+      "nuance_liste": "LEXD",
+      "voix": 562,
+      "pct_voix_exprimes": 19.45,
+      "sieges_cm": 2,
+      "sieges_cc": 0,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "MAJORCZYK",
+        "prenom": "Rémy",
+        "nom_complet": "Rémy MAJORCZYK",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "MAJORCZYK",
+          "prenom": "Rémy",
+          "nom_complet": "Rémy MAJORCZYK",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "GRABAREK",
+          "prenom": "Virginie",
+          "nom_complet": "Virginie GRABAREK",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

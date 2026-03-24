@@ -1,0 +1,119 @@
+{
+  "code_commune": "62828",
+  "commune": "Tramecourt",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "CARLU",
+    "prenom": "Julien",
+    "nom_complet": "Julien CARLU",
+    "age": 30,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 64,
+    "votants": 58,
+    "pct_votants": 90.63,
+    "abstentions": 6,
+    "pct_abstentions": 9.38,
+    "exprimes": 58
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Agir ensemble pour Tramecourt",
+      "libelle_abrege_liste": "Agir ensemble pour Tramecourt",
+      "nuance_liste": null,
+      "voix": 36,
+      "pct_voix_exprimes": 62.07,
+      "sieges_cm": 6,
+      "sieges_cc": null,
+      "nb_elus": 6,
+      "tete_de_liste": {
+        "nom": "CARLU",
+        "prenom": "Julien",
+        "nom_complet": "Julien CARLU",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "CARLU",
+          "prenom": "Julien",
+          "nom_complet": "Julien CARLU",
+          "sexe": "M",
+          "age": 30,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "JONVILLE",
+          "prenom": "Michele",
+          "nom_complet": "Michele JONVILLE",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DE CHABOT-TRAMECOURT",
+          "prenom": "Baudouin",
+          "nom_complet": "Baudouin DE CHABOT-TRAMECOURT",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DE CHABOT-TRAMECOURT",
+          "prenom": "Fleur",
+          "nom_complet": "Fleur DE CHABOT-TRAMECOURT",
+          "sexe": "F",
+          "age": 22,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "ROPITAL",
+          "prenom": "Grégoire",
+          "nom_complet": "Grégoire ROPITAL",
+          "sexe": "M",
+          "age": 30,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "BACHELET",
+          "prenom": "Chloé",
+          "nom_complet": "Chloé BACHELET",
+          "sexe": "F",
+          "age": 33,
+          "rang_liste": "6"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "LES HABITANTS D'ABORD",
+      "libelle_abrege_liste": "LES HABITANTS D'ABORD",
+      "nuance_liste": null,
+      "voix": 22,
+      "pct_voix_exprimes": 37.93,
+      "sieges_cm": 1,
+      "sieges_cc": null,
+      "nb_elus": 1,
+      "tete_de_liste": {
+        "nom": "HENNEGUELLE",
+        "prenom": "Delphine",
+        "nom_complet": "Delphine HENNEGUELLE",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "HENNEGUELLE",
+          "prenom": "Delphine",
+          "nom_complet": "Delphine HENNEGUELLE",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "1"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "code_commune": "59607",
+  "commune": "Vendegies-au-Bois",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "GHEZZOU",
+    "prenom": "Zahra",
+    "nom_complet": "Zahra GHEZZOU",
+    "age": 75,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 399,
+    "votants": 265,
+    "pct_votants": 66.42,
+    "abstentions": 134,
+    "pct_abstentions": 33.58,
+    "exprimes": 244
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Notre village ensemble",
+      "libelle_abrege_liste": "Notre village ensemble",
+      "nuance_liste": null,
+      "voix": 244,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "GHEZZOU",
+        "prenom": "Zahra",
+        "nom_complet": "Zahra GHEZZOU",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "GHEZZOU",
+          "prenom": "Zahra",
+          "nom_complet": "Zahra GHEZZOU",
+          "sexe": "F",
+          "age": 75,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BISIAUX",
+          "prenom": "Jean-Jacques",
+          "nom_complet": "Jean-Jacques BISIAUX",
+          "sexe": "M",
+          "age": 74,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "SEGOND",
+          "prenom": "Anne-Sophie",
+          "nom_complet": "Anne-Sophie SEGOND",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BAUDOUX",
+          "prenom": "Francis",
+          "nom_complet": "Francis BAUDOUX",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "WYART",
+          "prenom": "Caroline",
+          "nom_complet": "Caroline WYART",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LABEAU",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric LABEAU",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "MACKOWIAK",
+          "prenom": "Valerie",
+          "nom_complet": "Valerie MACKOWIAK",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LELONG",
+          "prenom": "Luc",
+          "nom_complet": "Luc LELONG",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "SARACINO",
+          "prenom": "Justine",
+          "nom_complet": "Justine SARACINO",
+          "sexe": "F",
+          "age": 30,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DELMOTTE",
+          "prenom": "Jerome",
+          "nom_complet": "Jerome DELMOTTE",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "PECQUEUR LIEVIN",
+          "prenom": "Carole",
+          "nom_complet": "Carole PECQUEUR LIEVIN",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

@@ -1,0 +1,183 @@
+{
+  "code_commune": "59424",
+  "commune": "Neuf-Mesnil",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "LEFERME",
+    "prenom": "Daniel",
+    "nom_complet": "Daniel LEFERME",
+    "age": 77,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 815,
+    "votants": 527,
+    "pct_votants": 64.66,
+    "abstentions": 288,
+    "pct_abstentions": 35.34,
+    "exprimes": 512
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "ENSEMBLE POUR NEUF MESNIL",
+      "libelle_abrege_liste": "ENSEMBLE POUR NEUF MESNIL",
+      "nuance_liste": null,
+      "voix": 269,
+      "pct_voix_exprimes": 52.54,
+      "sieges_cm": 12,
+      "sieges_cc": 1,
+      "nb_elus": 12,
+      "tete_de_liste": {
+        "nom": "LEFERME",
+        "prenom": "Daniel",
+        "nom_complet": "Daniel LEFERME",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LEFERME",
+          "prenom": "Daniel",
+          "nom_complet": "Daniel LEFERME",
+          "sexe": "M",
+          "age": 77,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DACOSSE",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique DACOSSE",
+          "sexe": "F",
+          "age": 74,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "SELOSSE",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick SELOSSE",
+          "sexe": "M",
+          "age": 75,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "MASURE",
+          "prenom": "Genevieve",
+          "nom_complet": "Genevieve MASURE",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DAUMERIES",
+          "prenom": "Daniel",
+          "nom_complet": "Daniel DAUMERIES",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "PIRE",
+          "prenom": "Marie-Helene",
+          "nom_complet": "Marie-Helene PIRE",
+          "sexe": "F",
+          "age": 75,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "RADOUAN",
+          "prenom": "Abel",
+          "nom_complet": "Abel RADOUAN",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "MANAA",
+          "prenom": "Yamina",
+          "nom_complet": "Yamina MANAA",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "CYFFKA",
+          "prenom": "Damien",
+          "nom_complet": "Damien CYFFKA",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "HAKELBERG",
+          "prenom": "Angelique",
+          "nom_complet": "Angelique HAKELBERG",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DHOOGHE",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno DHOOGHE",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "CAPRON",
+          "prenom": "Cathy",
+          "nom_complet": "Cathy CAPRON",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "12"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Neuf-Mesnil le renouveau",
+      "libelle_abrege_liste": "Neuf-Mesnil le renouveau",
+      "nuance_liste": null,
+      "voix": 243,
+      "pct_voix_exprimes": 47.46,
+      "sieges_cm": 3,
+      "sieges_cc": 0,
+      "nb_elus": 3,
+      "tete_de_liste": {
+        "nom": "VASSEUX",
+        "prenom": "Marc",
+        "nom_complet": "Marc VASSEUX",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "VASSEUX",
+          "prenom": "Marc",
+          "nom_complet": "Marc VASSEUX",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DELAPORTE",
+          "prenom": "Charlotte",
+          "nom_complet": "Charlotte DELAPORTE",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "ZITTERBART",
+          "prenom": "Robert",
+          "nom_complet": "Robert ZITTERBART",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "3"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

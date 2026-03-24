@@ -1,0 +1,131 @@
+{
+  "code_commune": "59277",
+  "commune": "Gussignies",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "KOLASA",
+    "prenom": "Sabine",
+    "nom_complet": "Sabine KOLASA",
+    "age": 69,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 236,
+    "votants": 112,
+    "pct_votants": 47.46,
+    "abstentions": 124,
+    "pct_abstentions": 52.54,
+    "exprimes": 108
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ENSEMBLE POUR GUSSIGNIES",
+      "libelle_abrege_liste": "ENSEMBLE POUR GUSSIGNIES",
+      "nuance_liste": null,
+      "voix": 108,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "KOLASA",
+        "prenom": "Sabine",
+        "nom_complet": "Sabine KOLASA",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "KOLASA",
+          "prenom": "Sabine",
+          "nom_complet": "Sabine KOLASA",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BAILLEUX",
+          "prenom": "Xavier",
+          "nom_complet": "Xavier BAILLEUX",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "GRACI",
+          "prenom": "Laetitia",
+          "nom_complet": "Laetitia GRACI",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "CAMUS",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas CAMUS",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "GOUBET",
+          "prenom": "Barberine",
+          "nom_complet": "Barberine GOUBET",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "KLEIN",
+          "prenom": "Gérard",
+          "nom_complet": "Gérard KLEIN",
+          "sexe": "M",
+          "age": 78,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "MUYLE",
+          "prenom": "Maite",
+          "nom_complet": "Maite MUYLE",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LEFEBVRE",
+          "prenom": "Noe",
+          "nom_complet": "Noe LEFEBVRE",
+          "sexe": "M",
+          "age": 25,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "ROSSIGNON",
+          "prenom": "Patricia",
+          "nom_complet": "Patricia ROSSIGNON",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "MEURANT",
+          "prenom": "Frederic",
+          "nom_complet": "Frederic MEURANT",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "TAQUET",
+          "prenom": "Marie",
+          "nom_complet": "Marie TAQUET",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

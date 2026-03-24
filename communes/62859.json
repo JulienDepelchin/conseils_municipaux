@@ -1,0 +1,131 @@
+{
+  "code_commune": "62859",
+  "commune": "Villers-l'Hôpital",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "RIMBAULT",
+    "prenom": "Dominique",
+    "nom_complet": "Dominique RIMBAULT",
+    "age": 67,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 207,
+    "votants": 129,
+    "pct_votants": 62.32,
+    "abstentions": 78,
+    "pct_abstentions": 37.68,
+    "exprimes": 101
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Agir ensemble pour l'avenir",
+      "libelle_abrege_liste": "Agir ensemble pour l'avenir",
+      "nuance_liste": null,
+      "voix": 101,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "RIMBAULT",
+        "prenom": "Dominique",
+        "nom_complet": "Dominique RIMBAULT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "RIMBAULT",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique RIMBAULT",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DESJARDIN",
+          "prenom": "Karine",
+          "nom_complet": "Karine DESJARDIN",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DAMIENS",
+          "prenom": "Jean-Jacques",
+          "nom_complet": "Jean-Jacques DAMIENS",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "SAELEN",
+          "prenom": "Alexandra",
+          "nom_complet": "Alexandra SAELEN",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "BERNARD",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe BERNARD",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "NIVEL",
+          "prenom": "Aurélie",
+          "nom_complet": "Aurélie NIVEL",
+          "sexe": "F",
+          "age": 32,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DEMAREST",
+          "prenom": "Jérôme",
+          "nom_complet": "Jérôme DEMAREST",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "BELLETTE",
+          "prenom": "Emmanuelle",
+          "nom_complet": "Emmanuelle BELLETTE",
+          "sexe": "F",
+          "age": 31,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "LECOUFFE",
+          "prenom": "Julien",
+          "nom_complet": "Julien LECOUFFE",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "BLOND",
+          "prenom": "Agathe",
+          "nom_complet": "Agathe BLOND",
+          "sexe": "F",
+          "age": 31,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "HOCHART",
+          "prenom": "Jean-Marie",
+          "nom_complet": "Jean-Marie HOCHART",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

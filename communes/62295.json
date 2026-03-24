@@ -1,0 +1,227 @@
+{
+  "code_commune": "62295",
+  "commune": "Enquin-lez-Guinegatte",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "DUPONT",
+    "prenom": "Hervé",
+    "nom_complet": "Hervé DUPONT",
+    "age": 64,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1197,
+    "votants": 694,
+    "pct_votants": 57.98,
+    "abstentions": 503,
+    "pct_abstentions": 42.02,
+    "exprimes": 573
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Ensemble pour enquin lez guinegatte",
+      "libelle_abrege_liste": "Ensemble pour enquin lez guinegatte",
+      "nuance_liste": null,
+      "voix": 573,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 23,
+      "sieges_cc": 1,
+      "nb_elus": 23,
+      "tete_de_liste": {
+        "nom": "DUPONT",
+        "prenom": "Hervé",
+        "nom_complet": "Hervé DUPONT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DUPONT",
+          "prenom": "Hervé",
+          "nom_complet": "Hervé DUPONT",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BULOT",
+          "prenom": "Martine",
+          "nom_complet": "Martine BULOT",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "PICQUET",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric PICQUET",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LALOY",
+          "prenom": "Michèle",
+          "nom_complet": "Michèle LALOY",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DEHURTEVENT",
+          "prenom": "Jérôme",
+          "nom_complet": "Jérôme DEHURTEVENT",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "CORROYETTE",
+          "prenom": "Gwendoline",
+          "nom_complet": "Gwendoline CORROYETTE",
+          "sexe": "F",
+          "age": 33,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BRODEL",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent BRODEL",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "CLERBOUT",
+          "prenom": "Manuelle",
+          "nom_complet": "Manuelle CLERBOUT",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "MASSON",
+          "prenom": "Nathanaël",
+          "nom_complet": "Nathanaël MASSON",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "LENGAGNE",
+          "prenom": "Anne",
+          "nom_complet": "Anne LENGAGNE",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "BODDAERT",
+          "prenom": "Emmanuel",
+          "nom_complet": "Emmanuel BODDAERT",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "MAES",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle MAES",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "PLAYE",
+          "prenom": "Yannick",
+          "nom_complet": "Yannick PLAYE",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "MOLIN DELEPINE",
+          "prenom": "Valérie",
+          "nom_complet": "Valérie MOLIN DELEPINE",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "DENIS",
+          "prenom": "Alain",
+          "nom_complet": "Alain DENIS",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "CLETON",
+          "prenom": "Elodie",
+          "nom_complet": "Elodie CLETON",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "GRESSIER",
+          "prenom": "Romain",
+          "nom_complet": "Romain GRESSIER",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "FROMENT",
+          "prenom": "Josée",
+          "nom_complet": "Josée FROMENT",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "DEQUIEDT",
+          "prenom": "Thierry",
+          "nom_complet": "Thierry DEQUIEDT",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "BODDAERT",
+          "prenom": "Corinne",
+          "nom_complet": "Corinne BODDAERT",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "DEBOMY",
+          "prenom": "Bernard",
+          "nom_complet": "Bernard DEBOMY",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "GARCIA",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle GARCIA",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "BUIRE",
+          "prenom": "Fabien",
+          "nom_complet": "Fabien BUIRE",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "23"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

@@ -1,0 +1,195 @@
+{
+  "code_commune": "62906",
+  "commune": "Zutkerque",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "DURIEZ",
+    "prenom": "Daniel",
+    "nom_complet": "Daniel DURIEZ",
+    "age": 67,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1392,
+    "votants": 751,
+    "pct_votants": 53.95,
+    "abstentions": 641,
+    "pct_abstentions": 46.05,
+    "exprimes": 611
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Continuons ensemble pour le village",
+      "libelle_abrege_liste": "Continuons ensemble pour le village",
+      "nuance_liste": null,
+      "voix": 611,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 19,
+      "sieges_cc": 2,
+      "nb_elus": 19,
+      "tete_de_liste": {
+        "nom": "DURIEZ",
+        "prenom": "Daniel",
+        "nom_complet": "Daniel DURIEZ",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DURIEZ",
+          "prenom": "Daniel",
+          "nom_complet": "Daniel DURIEZ",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "CARON",
+          "prenom": "Evelyne",
+          "nom_complet": "Evelyne CARON",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BOURET",
+          "prenom": "Christian",
+          "nom_complet": "Christian BOURET",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "VAMPARYS",
+          "prenom": "Brigitte",
+          "nom_complet": "Brigitte VAMPARYS",
+          "sexe": "F",
+          "age": 70,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DEGRAVE",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe DEGRAVE",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "ROBILLIART",
+          "prenom": "Emilie",
+          "nom_complet": "Emilie ROBILLIART",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "MAECKEREEL",
+          "prenom": "Jean-Marc",
+          "nom_complet": "Jean-Marc MAECKEREEL",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "BOLLART",
+          "prenom": "Monique",
+          "nom_complet": "Monique BOLLART",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "FABRE",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric FABRE",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "BOURBIAUX",
+          "prenom": "Marie-Françoise",
+          "nom_complet": "Marie-Françoise BOURBIAUX",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "VERCOUTRE",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier VERCOUTRE",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "VANDEWALLE",
+          "prenom": "Anne-Sophie",
+          "nom_complet": "Anne-Sophie VANDEWALLE",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "MERLEN",
+          "prenom": "Jean-Baptiste",
+          "nom_complet": "Jean-Baptiste MERLEN",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "DEDECKER",
+          "prenom": "Florence",
+          "nom_complet": "Florence DEDECKER",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "PAUCHARD",
+          "prenom": "Gregory",
+          "nom_complet": "Gregory PAUCHARD",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "DELMOTTE",
+          "prenom": "Julie",
+          "nom_complet": "Julie DELMOTTE",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "MAYEUR",
+          "prenom": "Gautier",
+          "nom_complet": "Gautier MAYEUR",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "BOUREL",
+          "prenom": "Sophie",
+          "nom_complet": "Sophie BOUREL",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "BRAME",
+          "prenom": "Eric",
+          "nom_complet": "Eric BRAME",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "19"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

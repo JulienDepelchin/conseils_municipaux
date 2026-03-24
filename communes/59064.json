@@ -1,0 +1,183 @@
+{
+  "code_commune": "59064",
+  "commune": "Bellaing",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "LACOUR",
+    "prenom": "Fabrice",
+    "nom_complet": "Fabrice LACOUR",
+    "age": 53,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 977,
+    "votants": 704,
+    "pct_votants": 72.06,
+    "abstentions": 273,
+    "pct_abstentions": 27.94,
+    "exprimes": 691
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "Ensemble Pour Bellaing",
+      "libelle_abrege_liste": "Ensemble Pour Bellaing",
+      "nuance_liste": null,
+      "voix": 431,
+      "pct_voix_exprimes": 62.37,
+      "sieges_cm": 12,
+      "sieges_cc": 1,
+      "nb_elus": 12,
+      "tete_de_liste": {
+        "nom": "LACOUR",
+        "prenom": "Fabrice",
+        "nom_complet": "Fabrice LACOUR",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LACOUR",
+          "prenom": "Fabrice",
+          "nom_complet": "Fabrice LACOUR",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "GORISSE",
+          "prenom": "Carole",
+          "nom_complet": "Carole GORISSE",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DELATTRE",
+          "prenom": "Patrice",
+          "nom_complet": "Patrice DELATTRE",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DE GEA",
+          "prenom": "France",
+          "nom_complet": "France DE GEA",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "VANDENBERGUE",
+          "prenom": "Yves",
+          "nom_complet": "Yves VANDENBERGUE",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DURAN",
+          "prenom": "Marie-Christine",
+          "nom_complet": "Marie-Christine DURAN",
+          "sexe": "F",
+          "age": 73,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "FOUET",
+          "prenom": "Alban",
+          "nom_complet": "Alban FOUET",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "HETUIN",
+          "prenom": "Cécile",
+          "nom_complet": "Cécile HETUIN",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DUPONT",
+          "prenom": "Etienne",
+          "nom_complet": "Etienne DUPONT",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "HANSMANN",
+          "prenom": "Delphine",
+          "nom_complet": "Delphine HANSMANN",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "BARBE",
+          "prenom": "Julien",
+          "nom_complet": "Julien BARBE",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "DUEZ",
+          "prenom": "Gina",
+          "nom_complet": "Gina DUEZ",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "12"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "BELLAING LE RENOUVEAU",
+      "libelle_abrege_liste": "BELLAING LE RENOUVEAU",
+      "nuance_liste": null,
+      "voix": 260,
+      "pct_voix_exprimes": 37.63,
+      "sieges_cm": 3,
+      "sieges_cc": 0,
+      "nb_elus": 3,
+      "tete_de_liste": {
+        "nom": "DEBOUVRY",
+        "prenom": "Benoit",
+        "nom_complet": "Benoit DEBOUVRY",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DEBOUVRY",
+          "prenom": "Benoit",
+          "nom_complet": "Benoit DEBOUVRY",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "POUX",
+          "prenom": "Elodie",
+          "nom_complet": "Elodie POUX",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LAMOTTE",
+          "prenom": "Loic",
+          "nom_complet": "Loic LAMOTTE",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "3"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

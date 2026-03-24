@@ -1,0 +1,131 @@
+{
+  "code_commune": "62725",
+  "commune": "Royon",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "CORNUEL",
+    "prenom": "Jean-Marie",
+    "nom_complet": "Jean-Marie CORNUEL",
+    "age": 69,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 106,
+    "votants": 83,
+    "pct_votants": 78.3,
+    "abstentions": 23,
+    "pct_abstentions": 21.7,
+    "exprimes": 57
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "FAIRE VIVRE ROYON AUJOURD'HUI ET DEMAIN",
+      "libelle_abrege_liste": "FAIRE VIVRE ROYON AUJOURD'HUI ET DEMAIN",
+      "nuance_liste": null,
+      "voix": 57,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "CORNUEL",
+        "prenom": "Jean-Marie",
+        "nom_complet": "Jean-Marie CORNUEL",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "CORNUEL",
+          "prenom": "Jean-Marie",
+          "nom_complet": "Jean-Marie CORNUEL",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LEROY",
+          "prenom": "Huguette",
+          "nom_complet": "Huguette LEROY",
+          "sexe": "F",
+          "age": 75,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "ROUGEGREZ",
+          "prenom": "Rene",
+          "nom_complet": "Rene ROUGEGREZ",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "GEVAS",
+          "prenom": "Cecile",
+          "nom_complet": "Cecile GEVAS",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "BOUTIN",
+          "prenom": "Sebastien",
+          "nom_complet": "Sebastien BOUTIN",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "HENNI",
+          "prenom": "Jennifer",
+          "nom_complet": "Jennifer HENNI",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "FOURDIN",
+          "prenom": "Florian",
+          "nom_complet": "Florian FOURDIN",
+          "sexe": "M",
+          "age": 22,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "MONTIGNY",
+          "prenom": "Wendy",
+          "nom_complet": "Wendy MONTIGNY",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "LEJEUNE",
+          "prenom": "Alain",
+          "nom_complet": "Alain LEJEUNE",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "TONINO",
+          "prenom": "Ottelina",
+          "nom_complet": "Ottelina TONINO",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "LOUCHEZ",
+          "prenom": "Sylvain",
+          "nom_complet": "Sylvain LOUCHEZ",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

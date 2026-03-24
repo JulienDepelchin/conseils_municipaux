@@ -1,0 +1,151 @@
+{
+  "code_commune": "62206",
+  "commune": "Campigneulles-les-Grandes",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "GAVOIS",
+    "prenom": "Mickaël",
+    "nom_complet": "Mickaël GAVOIS",
+    "age": 53,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 275,
+    "votants": 236,
+    "pct_votants": 85.82,
+    "abstentions": 39,
+    "pct_abstentions": 14.18,
+    "exprimes": 232
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "Campigneulles autrement",
+      "libelle_abrege_liste": "Campigneulles autrement",
+      "nuance_liste": null,
+      "voix": 161,
+      "pct_voix_exprimes": 69.4,
+      "sieges_cm": 10,
+      "sieges_cc": null,
+      "nb_elus": 10,
+      "tete_de_liste": {
+        "nom": "GAVOIS",
+        "prenom": "Mickaël",
+        "nom_complet": "Mickaël GAVOIS",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "GAVOIS",
+          "prenom": "Mickaël",
+          "nom_complet": "Mickaël GAVOIS",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "QUETTIER",
+          "prenom": "Florianne",
+          "nom_complet": "Florianne QUETTIER",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LACROIX",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal LACROIX",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "FOURDINIER",
+          "prenom": "Aurore",
+          "nom_complet": "Aurore FOURDINIER",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "CARON",
+          "prenom": "Quentin",
+          "nom_complet": "Quentin CARON",
+          "sexe": "M",
+          "age": 32,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "SERGENT",
+          "prenom": "Laëtitia",
+          "nom_complet": "Laëtitia SERGENT",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DELAHAYE",
+          "prenom": "Cédric",
+          "nom_complet": "Cédric DELAHAYE",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "WALLE",
+          "prenom": "Marion",
+          "nom_complet": "Marion WALLE",
+          "sexe": "F",
+          "age": 32,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "BETHOUART",
+          "prenom": "Charles",
+          "nom_complet": "Charles BETHOUART",
+          "sexe": "M",
+          "age": 30,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "LOZINGUEZ",
+          "prenom": "Emeline",
+          "nom_complet": "Emeline LOZINGUEZ",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "10"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "UN NOUVEAU SOUFFLE POUR CAMPIGNEULLES",
+      "libelle_abrege_liste": "UN NOUVEAU SOUFFLE POUR CAMPIGNEULLES",
+      "nuance_liste": null,
+      "voix": 71,
+      "pct_voix_exprimes": 30.6,
+      "sieges_cm": 1,
+      "sieges_cc": null,
+      "nb_elus": 1,
+      "tete_de_liste": {
+        "nom": "DOUAY",
+        "prenom": "Hubert",
+        "nom_complet": "Hubert DOUAY",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DOUAY",
+          "prenom": "Hubert",
+          "nom_complet": "Hubert DOUAY",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "1"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

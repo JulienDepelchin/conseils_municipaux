@@ -1,0 +1,131 @@
+{
+  "code_commune": "62759",
+  "commune": "Saint-Martin-Choquel",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "QUIERTANT",
+    "prenom": "Patrick",
+    "nom_complet": "Patrick QUIERTANT",
+    "age": 49,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 345,
+    "votants": 252,
+    "pct_votants": 73.04,
+    "abstentions": 93,
+    "pct_abstentions": 26.96,
+    "exprimes": 207
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "SAINT-MARTIN-CHOQUEL : CONTINUONS ENSEMBLE !",
+      "libelle_abrege_liste": "SAINT-MARTIN-CHOQUEL : CONTINUONS ENSEMBLE !",
+      "nuance_liste": null,
+      "voix": 207,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "QUIERTANT",
+        "prenom": "Patrick",
+        "nom_complet": "Patrick QUIERTANT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "QUIERTANT",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick QUIERTANT",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "FOULON",
+          "prenom": "Béatrice",
+          "nom_complet": "Béatrice FOULON",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "GUCHE",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe GUCHE",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "WATTEZ",
+          "prenom": "Françoise",
+          "nom_complet": "Françoise WATTEZ",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "GOMEL",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno GOMEL",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "GRARE",
+          "prenom": "Marie-Jeanne",
+          "nom_complet": "Marie-Jeanne GRARE",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DELAFORGE",
+          "prenom": "Ismaël",
+          "nom_complet": "Ismaël DELAFORGE",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LACHERE",
+          "prenom": "Suzy",
+          "nom_complet": "Suzy LACHERE",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "LONGAVESNE",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe LONGAVESNE",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "BOULY",
+          "prenom": "Aurore",
+          "nom_complet": "Aurore BOULY",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "CARLU",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe CARLU",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

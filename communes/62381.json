@@ -1,0 +1,151 @@
+{
+  "code_commune": "62381",
+  "commune": "Gouy-en-Ternois",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "TAQUIN",
+    "prenom": "Gregory",
+    "nom_complet": "Gregory TAQUIN",
+    "age": 45,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 124,
+    "votants": 101,
+    "pct_votants": 81.45,
+    "abstentions": 23,
+    "pct_abstentions": 18.55,
+    "exprimes": 94
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "liste menée par Mr TAQUIN Grégory",
+      "libelle_abrege_liste": "liste menée par Mr TAQUIN Grégory",
+      "nuance_liste": null,
+      "voix": 49,
+      "pct_voix_exprimes": 52.13,
+      "sieges_cm": 9,
+      "sieges_cc": null,
+      "nb_elus": 9,
+      "tete_de_liste": {
+        "nom": "TAQUIN",
+        "prenom": "Gregory",
+        "nom_complet": "Gregory TAQUIN",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "TAQUIN",
+          "prenom": "Gregory",
+          "nom_complet": "Gregory TAQUIN",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BRACHET",
+          "prenom": "Sabrina",
+          "nom_complet": "Sabrina BRACHET",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "MAILLOT",
+          "prenom": "Jérémy",
+          "nom_complet": "Jérémy MAILLOT",
+          "sexe": "M",
+          "age": 32,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "TAILLY",
+          "prenom": "Aude",
+          "nom_complet": "Aude TAILLY",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DERUELLE",
+          "prenom": "Ludovic",
+          "nom_complet": "Ludovic DERUELLE",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DELOFFRE",
+          "prenom": "Emilie",
+          "nom_complet": "Emilie DELOFFRE",
+          "sexe": "F",
+          "age": 32,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "GASLY",
+          "prenom": "Manuel",
+          "nom_complet": "Manuel GASLY",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "GANTIER",
+          "prenom": "Valerie",
+          "nom_complet": "Valerie GANTIER",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DINANCEAU",
+          "prenom": "Jeremy",
+          "nom_complet": "Jeremy DINANCEAU",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "9"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Gouy Solidaire et Dynamique",
+      "libelle_abrege_liste": "Gouy Solidaire et Dynamique",
+      "nuance_liste": null,
+      "voix": 45,
+      "pct_voix_exprimes": 47.87,
+      "sieges_cm": 2,
+      "sieges_cc": null,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "ROGIEZ",
+        "prenom": "Bruno",
+        "nom_complet": "Bruno ROGIEZ",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "ROGIEZ",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno ROGIEZ",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DEMARLE",
+          "prenom": "Carole",
+          "nom_complet": "Carole DEMARLE",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

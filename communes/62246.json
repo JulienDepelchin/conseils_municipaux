@@ -1,0 +1,131 @@
+{
+  "code_commune": "62246",
+  "commune": "Coupelle-Neuve",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "MARGUET",
+    "prenom": "Emmanuel",
+    "nom_complet": "Emmanuel MARGUET",
+    "age": 49,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 140,
+    "votants": 93,
+    "pct_votants": 66.43,
+    "abstentions": 47,
+    "pct_abstentions": 33.57,
+    "exprimes": 73
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Tous unis pour Coupelle-Neuve",
+      "libelle_abrege_liste": "Tous unis pour Coupelle-Neuve",
+      "nuance_liste": null,
+      "voix": 73,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "MARGUET",
+        "prenom": "Emmanuel",
+        "nom_complet": "Emmanuel MARGUET",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "MARGUET",
+          "prenom": "Emmanuel",
+          "nom_complet": "Emmanuel MARGUET",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "SAMIER",
+          "prenom": "Sophie",
+          "nom_complet": "Sophie SAMIER",
+          "sexe": "F",
+          "age": 32,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "WAREMBOURG",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe WAREMBOURG",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "NEDONCHEL",
+          "prenom": "Delphine",
+          "nom_complet": "Delphine NEDONCHEL",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "NEDONCHEL",
+          "prenom": "Gaëtan",
+          "nom_complet": "Gaëtan NEDONCHEL",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "CECCHI",
+          "prenom": "Marina",
+          "nom_complet": "Marina CECCHI",
+          "sexe": "F",
+          "age": 31,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "LEFEBVRE",
+          "prenom": "Stéphane",
+          "nom_complet": "Stéphane LEFEBVRE",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "WAREMBOURG",
+          "prenom": "Célia",
+          "nom_complet": "Célia WAREMBOURG",
+          "sexe": "F",
+          "age": 21,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "BOUBET",
+          "prenom": "Ludovic",
+          "nom_complet": "Ludovic BOUBET",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "MARIETTE",
+          "prenom": "Perline",
+          "nom_complet": "Perline MARIETTE",
+          "sexe": "F",
+          "age": 29,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "LEMAÎTRE",
+          "prenom": "Quentin",
+          "nom_complet": "Quentin LEMAÎTRE",
+          "sexe": "M",
+          "age": 30,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

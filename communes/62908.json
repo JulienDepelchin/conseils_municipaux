@@ -1,0 +1,195 @@
+{
+  "code_commune": "62908",
+  "commune": "La Capelle-lès-Boulogne",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "DEGREMONT",
+    "prenom": "Jean-Michel",
+    "nom_complet": "Jean-Michel DEGREMONT",
+    "age": 66,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1445,
+    "votants": 846,
+    "pct_votants": 58.55,
+    "abstentions": 599,
+    "pct_abstentions": 41.45,
+    "exprimes": 791
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ENSEMBLE POUR LES CAPELLOIS",
+      "libelle_abrege_liste": "ENSEMBLE POUR LES CAPELLOIS",
+      "nuance_liste": null,
+      "voix": 791,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 19,
+      "sieges_cc": 1,
+      "nb_elus": 19,
+      "tete_de_liste": {
+        "nom": "DEGREMONT",
+        "prenom": "Jean-Michel",
+        "nom_complet": "Jean-Michel DEGREMONT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DEGREMONT",
+          "prenom": "Jean-Michel",
+          "nom_complet": "Jean-Michel DEGREMONT",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "VANDEKERKHOVE",
+          "prenom": "Catherine",
+          "nom_complet": "Catherine VANDEKERKHOVE",
+          "sexe": "F",
+          "age": 73,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "NAVET",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique NAVET",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LECUYER",
+          "prenom": "Tatiana",
+          "nom_complet": "Tatiana LECUYER",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "FIX",
+          "prenom": "Alain",
+          "nom_complet": "Alain FIX",
+          "sexe": "M",
+          "age": 75,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DELATTRE",
+          "prenom": "Valérie",
+          "nom_complet": "Valérie DELATTRE",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "MOUSSAY",
+          "prenom": "Bernard",
+          "nom_complet": "Bernard MOUSSAY",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "CORNET",
+          "prenom": "Sylviane",
+          "nom_complet": "Sylviane CORNET",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "FLOUR",
+          "prenom": "Jean-Pierre",
+          "nom_complet": "Jean-Pierre FLOUR",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "MAGNIER",
+          "prenom": "Nicole",
+          "nom_complet": "Nicole MAGNIER",
+          "sexe": "F",
+          "age": 71,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "LELIEVRE",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe LELIEVRE",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "MANCHUELLE GILLET",
+          "prenom": "Valérie",
+          "nom_complet": "Valérie MANCHUELLE GILLET",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "DIEU",
+          "prenom": "Julien",
+          "nom_complet": "Julien DIEU",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "HOLUIGUE",
+          "prenom": "Calypso",
+          "nom_complet": "Calypso HOLUIGUE",
+          "sexe": "F",
+          "age": 28,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "DESENCLOS",
+          "prenom": "Benjamin",
+          "nom_complet": "Benjamin DESENCLOS",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "LANNOY",
+          "prenom": "Marion",
+          "nom_complet": "Marion LANNOY",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "KINOO",
+          "prenom": "Jean-Pierre",
+          "nom_complet": "Jean-Pierre KINOO",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "LEDOUX",
+          "prenom": "Delphine",
+          "nom_complet": "Delphine LEDOUX",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "GOMEL",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick GOMEL",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "19"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

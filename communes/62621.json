@@ -1,0 +1,195 @@
+{
+  "code_commune": "62621",
+  "commune": "Nortkerque",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "MELCHIOR",
+    "prenom": "Frédéric",
+    "nom_complet": "Frédéric MELCHIOR",
+    "age": 62,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1304,
+    "votants": 794,
+    "pct_votants": 60.89,
+    "abstentions": 510,
+    "pct_abstentions": 39.11,
+    "exprimes": 685
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Avec Vous, Continuons d'Agir pour notre Village.",
+      "libelle_abrege_liste": "Avec Vous, Continuons d'Agir pour notre Village.",
+      "nuance_liste": null,
+      "voix": 685,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 19,
+      "sieges_cc": 2,
+      "nb_elus": 19,
+      "tete_de_liste": {
+        "nom": "MELCHIOR",
+        "prenom": "Frédéric",
+        "nom_complet": "Frédéric MELCHIOR",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "MELCHIOR",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric MELCHIOR",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "MONTUY",
+          "prenom": "Amandine",
+          "nom_complet": "Amandine MONTUY",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DELMOTTE",
+          "prenom": "Antoine",
+          "nom_complet": "Antoine DELMOTTE",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "CUGNY",
+          "prenom": "Françoise",
+          "nom_complet": "Françoise CUGNY",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DANIEL",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric DANIEL",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "FLANDRIN",
+          "prenom": "Virginie",
+          "nom_complet": "Virginie FLANDRIN",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "CAILLEUX",
+          "prenom": "Claude",
+          "nom_complet": "Claude CAILLEUX",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "FOURNIER",
+          "prenom": "Noëlla",
+          "nom_complet": "Noëlla FOURNIER",
+          "sexe": "F",
+          "age": 78,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "TRONET",
+          "prenom": "Gilles",
+          "nom_complet": "Gilles TRONET",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DUSSART",
+          "prenom": "Laurence",
+          "nom_complet": "Laurence DUSSART",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "BANQUART",
+          "prenom": "Gauthier",
+          "nom_complet": "Gauthier BANQUART",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "TALON",
+          "prenom": "Michèle",
+          "nom_complet": "Michèle TALON",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "DURIEZ",
+          "prenom": "Aurélien",
+          "nom_complet": "Aurélien DURIEZ",
+          "sexe": "M",
+          "age": 24,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "TRONET",
+          "prenom": "Ingrid",
+          "nom_complet": "Ingrid TRONET",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "DEBEUSSCHER",
+          "prenom": "Florian",
+          "nom_complet": "Florian DEBEUSSCHER",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "LECOUSTRE",
+          "prenom": "Karine",
+          "nom_complet": "Karine LECOUSTRE",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "LIMOUSIN",
+          "prenom": "David",
+          "nom_complet": "David LIMOUSIN",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "POUCHAIN",
+          "prenom": "Delphine",
+          "nom_complet": "Delphine POUCHAIN",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "BOULOGNE",
+          "prenom": "Hubert",
+          "nom_complet": "Hubert BOULOGNE",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "19"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

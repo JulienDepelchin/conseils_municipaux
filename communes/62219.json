@@ -1,0 +1,131 @@
+{
+  "code_commune": "62219",
+  "commune": "Caumont",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "REVILLION",
+    "prenom": "Eric",
+    "nom_complet": "Eric REVILLION",
+    "age": 64,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 145,
+    "votants": 99,
+    "pct_votants": 68.28,
+    "abstentions": 46,
+    "pct_abstentions": 31.72,
+    "exprimes": 77
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Unis pour la continuité",
+      "libelle_abrege_liste": "Unis pour la continuité",
+      "nuance_liste": null,
+      "voix": 77,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "REVILLION",
+        "prenom": "Eric",
+        "nom_complet": "Eric REVILLION",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "REVILLION",
+          "prenom": "Eric",
+          "nom_complet": "Eric REVILLION",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BELVAL-BRANQUART",
+          "prenom": "Virginie",
+          "nom_complet": "Virginie BELVAL-BRANQUART",
+          "sexe": "F",
+          "age": 31,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "WAMBERGUE",
+          "prenom": "André",
+          "nom_complet": "André WAMBERGUE",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "SEK",
+          "prenom": "Cindy",
+          "nom_complet": "Cindy SEK",
+          "sexe": "F",
+          "age": 33,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "FENAUX",
+          "prenom": "André",
+          "nom_complet": "André FENAUX",
+          "sexe": "M",
+          "age": 74,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "TETART",
+          "prenom": "Marine",
+          "nom_complet": "Marine TETART",
+          "sexe": "F",
+          "age": 29,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DONTGEZ",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier DONTGEZ",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "BOUTIN-ROGER",
+          "prenom": "Françoise",
+          "nom_complet": "Françoise BOUTIN-ROGER",
+          "sexe": "F",
+          "age": 71,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "FLORY",
+          "prenom": "Hubert",
+          "nom_complet": "Hubert FLORY",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "TINEZ-FLORY",
+          "prenom": "Nadine",
+          "nom_complet": "Nadine TINEZ-FLORY",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "SAVREUX",
+          "prenom": "Bertrand",
+          "nom_complet": "Bertrand SAVREUX",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

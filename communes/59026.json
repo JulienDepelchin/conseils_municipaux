@@ -1,0 +1,203 @@
+{
+  "code_commune": "59026",
+  "commune": "Aubigny-au-Bac",
+  "departement": "Nord",
+  "tour": "T2",
+  "maire": {
+    "nom": "ANSART",
+    "prenom": "Joseph",
+    "nom_complet": "Joseph ANSART",
+    "age": 66,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 876,
+    "votants": 678,
+    "pct_votants": 77.4,
+    "abstentions": 198,
+    "pct_abstentions": 22.6,
+    "exprimes": 672
+  },
+  "listes": [
+    {
+      "num_panneau": "3",
+      "libelle_liste": "CONTINUONS ENSEMBLE POUR AUBIGNY-AU-BAC",
+      "libelle_abrege_liste": "CONTINUONS ENSEMBLE POUR AUBIGNY-AU-BAC",
+      "nuance_liste": null,
+      "voix": 246,
+      "pct_voix_exprimes": 36.61,
+      "sieges_cm": 11,
+      "sieges_cc": 1,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "ANSART",
+        "prenom": "Joseph",
+        "nom_complet": "Joseph ANSART",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "ANSART",
+          "prenom": "Joseph",
+          "nom_complet": "Joseph ANSART",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BATAILLE-DELILLE",
+          "prenom": "Marie-Pierre",
+          "nom_complet": "Marie-Pierre BATAILLE-DELILLE",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BENOIT",
+          "prenom": "Alain",
+          "nom_complet": "Alain BENOIT",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LEFEBVRE",
+          "prenom": "Marie-Madeleine",
+          "nom_complet": "Marie-Madeleine LEFEBVRE",
+          "sexe": "F",
+          "age": 76,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "GRESIAK",
+          "prenom": "Gilles",
+          "nom_complet": "Gilles GRESIAK",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "ROBERT",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie ROBERT",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "FLAMENT",
+          "prenom": "Gonzague",
+          "nom_complet": "Gonzague FLAMENT",
+          "sexe": "M",
+          "age": 22,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DELESCAUT",
+          "prenom": "Sandrine",
+          "nom_complet": "Sandrine DELESCAUT",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "BERLY",
+          "prenom": "Jean-Louis",
+          "nom_complet": "Jean-Louis BERLY",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "ROQUET",
+          "prenom": "Delphine",
+          "nom_complet": "Delphine ROQUET",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "MAZUY",
+          "prenom": "Eric",
+          "nom_complet": "Eric MAZUY",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "UNE NOUVELLE ENERGIE POUR AUBIGNY",
+      "libelle_abrege_liste": "UNE NOUVELLE ENERGIE POUR AUBIGNY",
+      "nuance_liste": null,
+      "voix": 221,
+      "pct_voix_exprimes": 32.89,
+      "sieges_cm": 2,
+      "sieges_cc": 0,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "DERASSE",
+        "prenom": "Henri",
+        "nom_complet": "Henri DERASSE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DERASSE",
+          "prenom": "Henri",
+          "nom_complet": "Henri DERASSE",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DUBUS DELSAUX",
+          "prenom": "Lisiane",
+          "nom_complet": "Lisiane DUBUS DELSAUX",
+          "sexe": "F",
+          "age": 72,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ENSEMBLE POUR NOTRE AVENIR",
+      "libelle_abrege_liste": "ENSEMBLE POUR NOTRE AVENIR",
+      "nuance_liste": null,
+      "voix": 205,
+      "pct_voix_exprimes": 30.51,
+      "sieges_cm": 2,
+      "sieges_cc": 0,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "PLANTIN",
+        "prenom": "Mathieu",
+        "nom_complet": "Mathieu PLANTIN",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "PLANTIN",
+          "prenom": "Mathieu",
+          "nom_complet": "Mathieu PLANTIN",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "KAMEZAC",
+          "prenom": "Barbara",
+          "nom_complet": "Barbara KAMEZAC",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

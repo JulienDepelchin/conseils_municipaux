@@ -1,0 +1,131 @@
+{
+  "code_commune": "62070",
+  "commune": "Bailleul-aux-Cornailles",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "SOYEZ",
+    "prenom": "Maurice",
+    "nom_complet": "Maurice SOYEZ",
+    "age": 62,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 202,
+    "votants": 129,
+    "pct_votants": 63.86,
+    "abstentions": 73,
+    "pct_abstentions": 36.14,
+    "exprimes": 88
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "DEFENSE DES INTERETS COMMUNAUX",
+      "libelle_abrege_liste": "DEFENSE DES INTERETS COMMUNAUX",
+      "nuance_liste": null,
+      "voix": 88,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "SOYEZ",
+        "prenom": "Maurice",
+        "nom_complet": "Maurice SOYEZ",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "SOYEZ",
+          "prenom": "Maurice",
+          "nom_complet": "Maurice SOYEZ",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "HOLLE TURPIN",
+          "prenom": "Fanny",
+          "nom_complet": "Fanny HOLLE TURPIN",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "HAUTTECOEUR",
+          "prenom": "Paul",
+          "nom_complet": "Paul HAUTTECOEUR",
+          "sexe": "M",
+          "age": 78,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BAROUX",
+          "prenom": "Sandra",
+          "nom_complet": "Sandra BAROUX",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "AUGAIT",
+          "prenom": "Lucas",
+          "nom_complet": "Lucas AUGAIT",
+          "sexe": "M",
+          "age": 29,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "HAUTTECOEUR",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie HAUTTECOEUR",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BARBAUT",
+          "prenom": "Thomas",
+          "nom_complet": "Thomas BARBAUT",
+          "sexe": "M",
+          "age": 33,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "RUFFIN",
+          "prenom": "Nadia",
+          "nom_complet": "Nadia RUFFIN",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DURANEL",
+          "prenom": "Guillaume",
+          "nom_complet": "Guillaume DURANEL",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "SOYEZ",
+          "prenom": "Betty",
+          "nom_complet": "Betty SOYEZ",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "VIART",
+          "prenom": "Dimitri",
+          "nom_complet": "Dimitri VIART",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

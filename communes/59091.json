@@ -1,0 +1,163 @@
+{
+  "code_commune": "59091",
+  "commune": "Borre",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "POPELIER",
+    "prenom": "Bernadette",
+    "nom_complet": "Bernadette POPELIER",
+    "age": 67,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 472,
+    "votants": 303,
+    "pct_votants": 64.19,
+    "abstentions": 169,
+    "pct_abstentions": 35.81,
+    "exprimes": 273
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ENSEMBLE POUR NOTRE VILLAGE",
+      "libelle_abrege_liste": "ENSEMBLE POUR NOTRE VILLAGE",
+      "nuance_liste": null,
+      "voix": 273,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "POPELIER",
+        "prenom": "Bernadette",
+        "nom_complet": "Bernadette POPELIER",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "POPELIER",
+          "prenom": "Bernadette",
+          "nom_complet": "Bernadette POPELIER",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "PÉLISSIER",
+          "prenom": "Didier",
+          "nom_complet": "Didier PÉLISSIER",
+          "sexe": "M",
+          "age": 76,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "MACREL",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie MACREL",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DUCROQUET",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier DUCROQUET",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "GOUDEFROYE",
+          "prenom": "Virgine",
+          "nom_complet": "Virgine GOUDEFROYE",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "TITRENT",
+          "prenom": "Pierre",
+          "nom_complet": "Pierre TITRENT",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "EVERAERE",
+          "prenom": "Christine",
+          "nom_complet": "Christine EVERAERE",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "MAERTEN",
+          "prenom": "Jean-François",
+          "nom_complet": "Jean-François MAERTEN",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "MALET",
+          "prenom": "Elisabeth",
+          "nom_complet": "Elisabeth MALET",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "LYOËN",
+          "prenom": "Clément",
+          "nom_complet": "Clément LYOËN",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DELMOTTE",
+          "prenom": "Sophie",
+          "nom_complet": "Sophie DELMOTTE",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "EVERAERE",
+          "prenom": "Michael",
+          "nom_complet": "Michael EVERAERE",
+          "sexe": "M",
+          "age": 34,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "HEYMAN",
+          "prenom": "Modestie",
+          "nom_complet": "Modestie HEYMAN",
+          "sexe": "F",
+          "age": 33,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "BECART",
+          "prenom": "Michaël",
+          "nom_complet": "Michaël BECART",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "PAQUENTIN",
+          "prenom": "Camille",
+          "nom_complet": "Camille PAQUENTIN",
+          "sexe": "F",
+          "age": 33,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

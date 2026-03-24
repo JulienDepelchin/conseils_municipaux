@@ -1,0 +1,131 @@
+{
+  "code_commune": "59333",
+  "commune": "Larouillies",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "JACQUET",
+    "prenom": "Marc",
+    "nom_complet": "Marc JACQUET",
+    "age": 52,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 187,
+    "votants": 141,
+    "pct_votants": 75.4,
+    "abstentions": 46,
+    "pct_abstentions": 24.6,
+    "exprimes": 121
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "RACINES ET AVENIR A LAROUILLIES",
+      "libelle_abrege_liste": "RACINES ET AVENIR A LAROUILLIES",
+      "nuance_liste": null,
+      "voix": 121,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "JACQUET",
+        "prenom": "Marc",
+        "nom_complet": "Marc JACQUET",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "JACQUET",
+          "prenom": "Marc",
+          "nom_complet": "Marc JACQUET",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "PRISSETTE",
+          "prenom": "Amélie",
+          "nom_complet": "Amélie PRISSETTE",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "WAIGNIER",
+          "prenom": "Emmanuel",
+          "nom_complet": "Emmanuel WAIGNIER",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "GUISLAIN",
+          "prenom": "Laurence",
+          "nom_complet": "Laurence GUISLAIN",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "SAELENS",
+          "prenom": "Alain",
+          "nom_complet": "Alain SAELENS",
+          "sexe": "M",
+          "age": 78,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "JACQUET",
+          "prenom": "Laurine",
+          "nom_complet": "Laurine JACQUET",
+          "sexe": "F",
+          "age": 21,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "JACQUINET",
+          "prenom": "Pierre-Alexandre",
+          "nom_complet": "Pierre-Alexandre JACQUINET",
+          "sexe": "M",
+          "age": 33,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "CANART",
+          "prenom": "Emilie",
+          "nom_complet": "Emilie CANART",
+          "sexe": "F",
+          "age": 28,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "ALAVOINE",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier ALAVOINE",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "LESAFFRE",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie LESAFFRE",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "BRIATTE",
+          "prenom": "Ludovic",
+          "nom_complet": "Ludovic BRIATTE",
+          "sexe": "M",
+          "age": 34,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

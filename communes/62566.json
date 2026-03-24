@@ -1,0 +1,163 @@
+{
+  "code_commune": "62566",
+  "commune": "Menneville",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "TASSART",
+    "prenom": "Bernard",
+    "nom_complet": "Bernard TASSART",
+    "age": 64,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 564,
+    "votants": 422,
+    "pct_votants": 74.82,
+    "abstentions": 142,
+    "pct_abstentions": 25.18,
+    "exprimes": 328
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "MENNEVILLE A L'ECOUTE",
+      "libelle_abrege_liste": "MENNEVILLE A L'ECOUTE",
+      "nuance_liste": null,
+      "voix": 328,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "TASSART",
+        "prenom": "Bernard",
+        "nom_complet": "Bernard TASSART",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "TASSART",
+          "prenom": "Bernard",
+          "nom_complet": "Bernard TASSART",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "THULLIEZ",
+          "prenom": "Colette",
+          "nom_complet": "Colette THULLIEZ",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "RANDOUX",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick RANDOUX",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "FRAMMERY",
+          "prenom": "Virginie",
+          "nom_complet": "Virginie FRAMMERY",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "HODIQUE",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe HODIQUE",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "FLAGOLLET",
+          "prenom": "Laura",
+          "nom_complet": "Laura FLAGOLLET",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "PRUVOST",
+          "prenom": "Antoine-Marie",
+          "nom_complet": "Antoine-Marie PRUVOST",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DEBOVE",
+          "prenom": "Clarisse",
+          "nom_complet": "Clarisse DEBOVE",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "LEBAS",
+          "prenom": "Eric",
+          "nom_complet": "Eric LEBAS",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "LEBLANC",
+          "prenom": "Géraldine",
+          "nom_complet": "Géraldine LEBLANC",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "PEUVION",
+          "prenom": "Grégory",
+          "nom_complet": "Grégory PEUVION",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "SAILLY",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle SAILLY",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "CARON",
+          "prenom": "Jérémy",
+          "nom_complet": "Jérémy CARON",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "BEUTIN",
+          "prenom": "Carole",
+          "nom_complet": "Carole BEUTIN",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "TERNISIEN",
+          "prenom": "Jérôme",
+          "nom_complet": "Jérôme TERNISIEN",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

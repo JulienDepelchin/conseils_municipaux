@@ -1,0 +1,299 @@
+{
+  "code_commune": "59024",
+  "commune": "Auberchicourt",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "BAELUS",
+    "prenom": "Olivier",
+    "nom_complet": "Olivier BAELUS",
+    "age": 49,
+    "nuance": "LDVG"
+  },
+  "resultats": {
+    "inscrits": 3363,
+    "votants": 2123,
+    "pct_votants": 63.13,
+    "abstentions": 1240,
+    "pct_abstentions": 36.87,
+    "exprimes": 2062
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Pour Auberchicourt",
+      "libelle_abrege_liste": "Pour Auberchicourt",
+      "nuance_liste": "LDVG",
+      "voix": 1086,
+      "pct_voix_exprimes": 52.67,
+      "sieges_cm": 21,
+      "sieges_cc": 4,
+      "nb_elus": 21,
+      "tete_de_liste": {
+        "nom": "BAELUS",
+        "prenom": "Olivier",
+        "nom_complet": "Olivier BAELUS",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BAELUS",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier BAELUS",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "RIOS",
+          "prenom": "Patricia",
+          "nom_complet": "Patricia RIOS",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "FLEURY",
+          "prenom": "Jean-Christophe",
+          "nom_complet": "Jean-Christophe FLEURY",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BOLEUX",
+          "prenom": "Véronique",
+          "nom_complet": "Véronique BOLEUX",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "SIERADZKI",
+          "prenom": "Marc",
+          "nom_complet": "Marc SIERADZKI",
+          "sexe": "M",
+          "age": 32,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "OFFROY",
+          "prenom": "Cathy",
+          "nom_complet": "Cathy OFFROY",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "CERGNUL",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric CERGNUL",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "BOEZ",
+          "prenom": "Florine",
+          "nom_complet": "Florine BOEZ",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DEBAISIEUX",
+          "prenom": "Jean-Claude",
+          "nom_complet": "Jean-Claude DEBAISIEUX",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "LEMPEREUR",
+          "prenom": "Emilie",
+          "nom_complet": "Emilie LEMPEREUR",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "LEMICHEL",
+          "prenom": "Gérard",
+          "nom_complet": "Gérard LEMICHEL",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "STINGRE",
+          "prenom": "Laetitia",
+          "nom_complet": "Laetitia STINGRE",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "VANDERSTRAETEN",
+          "prenom": "Thomas",
+          "nom_complet": "Thomas VANDERSTRAETEN",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "MROCZKOWSKI",
+          "prenom": "Marie-Françoise",
+          "nom_complet": "Marie-Françoise MROCZKOWSKI",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "DELCOURT",
+          "prenom": "David",
+          "nom_complet": "David DELCOURT",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "MARY",
+          "prenom": "Mélanie",
+          "nom_complet": "Mélanie MARY",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "MAHIEU",
+          "prenom": "Jonathan",
+          "nom_complet": "Jonathan MAHIEU",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "POLLET",
+          "prenom": "Sandra",
+          "nom_complet": "Sandra POLLET",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "DELVILLE",
+          "prenom": "Davy",
+          "nom_complet": "Davy DELVILLE",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "FIEVET",
+          "prenom": "Emilie",
+          "nom_complet": "Emilie FIEVET",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "CAMBAY",
+          "prenom": "Florimond",
+          "nom_complet": "Florimond CAMBAY",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "21"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "ENGAGÉS POUR AUJOURD'HUI ET POUR DEMAIN",
+      "libelle_abrege_liste": "ENGAGÉS POUR AUJOURD'HUI ET POUR DEMAIN",
+      "nuance_liste": "LDVG",
+      "voix": 506,
+      "pct_voix_exprimes": 24.54,
+      "sieges_cm": 3,
+      "sieges_cc": 0,
+      "nb_elus": 3,
+      "tete_de_liste": {
+        "nom": "LEROY",
+        "prenom": "Marie-Hélène",
+        "nom_complet": "Marie-Hélène LEROY",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "LEROY",
+          "prenom": "Marie-Hélène",
+          "nom_complet": "Marie-Hélène LEROY",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "SURELLE",
+          "prenom": "Fabien",
+          "nom_complet": "Fabien SURELLE",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "CARON",
+          "prenom": "Murielle",
+          "nom_complet": "Murielle CARON",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "3"
+        }
+      ],
+      "statut_conseil": "autre"
+    },
+    {
+      "num_panneau": "3",
+      "libelle_liste": "Auberchicourt agit",
+      "libelle_abrege_liste": "Auberchicourt agit",
+      "nuance_liste": "LDVG",
+      "voix": 470,
+      "pct_voix_exprimes": 22.79,
+      "sieges_cm": 3,
+      "sieges_cc": 0,
+      "nb_elus": 3,
+      "tete_de_liste": {
+        "nom": "OTTAVIANI",
+        "prenom": "Serge",
+        "nom_complet": "Serge OTTAVIANI",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "OTTAVIANI",
+          "prenom": "Serge",
+          "nom_complet": "Serge OTTAVIANI",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "RICHARD",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie RICHARD",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DEVENOT",
+          "prenom": "Georges",
+          "nom_complet": "Georges DEVENOT",
+          "sexe": "M",
+          "age": 80,
+          "rang_liste": "3"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "code_commune": "59167",
+  "commune": "Cuvillers",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "LAURENT",
+    "prenom": "Jacky",
+    "nom_complet": "Jacky LAURENT",
+    "age": 61,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 137,
+    "votants": 90,
+    "pct_votants": 65.69,
+    "abstentions": 47,
+    "pct_abstentions": 34.31,
+    "exprimes": 80
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Ensemble pour Cuvillers",
+      "libelle_abrege_liste": "Ensemble pour Cuvillers",
+      "nuance_liste": null,
+      "voix": 80,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "LAURENT",
+        "prenom": "Jacky",
+        "nom_complet": "Jacky LAURENT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LAURENT",
+          "prenom": "Jacky",
+          "nom_complet": "Jacky LAURENT",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LEMAIRE",
+          "prenom": "Audrey",
+          "nom_complet": "Audrey LEMAIRE",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "MILLIOT",
+          "prenom": "Pierre",
+          "nom_complet": "Pierre MILLIOT",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LESNE",
+          "prenom": "Marie-Andrée",
+          "nom_complet": "Marie-Andrée LESNE",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "CARON",
+          "prenom": "André",
+          "nom_complet": "André CARON",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "BOURRÉ",
+          "prenom": "Angélique",
+          "nom_complet": "Angélique BOURRÉ",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "HOLIN",
+          "prenom": "Benjamin",
+          "nom_complet": "Benjamin HOLIN",
+          "sexe": "M",
+          "age": 31,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "BEAUVAIS",
+          "prenom": "Céline",
+          "nom_complet": "Céline BEAUVAIS",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "LECLERCQ",
+          "prenom": "Thierry",
+          "nom_complet": "Thierry LECLERCQ",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "VANNUFEL",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique VANNUFEL",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "LEFEBVRE",
+          "prenom": "Guillaume",
+          "nom_complet": "Guillaume LEFEBVRE",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

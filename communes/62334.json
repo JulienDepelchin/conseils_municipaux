@@ -1,0 +1,183 @@
+{
+  "code_commune": "62334",
+  "commune": "Fiennes",
+  "departement": "Pas-de-Calais",
+  "tour": "T2",
+  "maire": {
+    "nom": "BONNINGUES",
+    "prenom": "Eloi",
+    "nom_complet": "Eloi BONNINGUES",
+    "age": 61,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 729,
+    "votants": 550,
+    "pct_votants": 75.45,
+    "abstentions": 179,
+    "pct_abstentions": 24.55,
+    "exprimes": 531
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Fiennes, coeur de village",
+      "libelle_abrege_liste": "Fiennes, coeur de village",
+      "nuance_liste": null,
+      "voix": 281,
+      "pct_voix_exprimes": 52.92,
+      "sieges_cm": 12,
+      "sieges_cc": null,
+      "nb_elus": 12,
+      "tete_de_liste": {
+        "nom": "BONNINGUES",
+        "prenom": "Eloi",
+        "nom_complet": "Eloi BONNINGUES",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BONNINGUES",
+          "prenom": "Eloi",
+          "nom_complet": "Eloi BONNINGUES",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LAVOISIER",
+          "prenom": "Marion",
+          "nom_complet": "Marion LAVOISIER",
+          "sexe": "F",
+          "age": 26,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "MARCQUE",
+          "prenom": "Franck",
+          "nom_complet": "Franck MARCQUE",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LEGROS",
+          "prenom": "Sidonie",
+          "nom_complet": "Sidonie LEGROS",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "FLAHAUT",
+          "prenom": "Thomas",
+          "nom_complet": "Thomas FLAHAUT",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LAVOISIER",
+          "prenom": "Véronique",
+          "nom_complet": "Véronique LAVOISIER",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "FAINE",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas FAINE",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "CARON",
+          "prenom": "Aurore",
+          "nom_complet": "Aurore CARON",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "CARPENTIER",
+          "prenom": "Gaëtan",
+          "nom_complet": "Gaëtan CARPENTIER",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "MAQUINGHEN",
+          "prenom": "Laurence",
+          "nom_complet": "Laurence MAQUINGHEN",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DESCAMPS",
+          "prenom": "Jacky",
+          "nom_complet": "Jacky DESCAMPS",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "MALLE",
+          "prenom": "Laetitia",
+          "nom_complet": "Laetitia MALLE",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "12"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "3",
+      "libelle_liste": "Une énergie nouvelle pour Fiennes",
+      "libelle_abrege_liste": "Une énergie nouvelle pour Fiennes",
+      "nuance_liste": null,
+      "voix": 250,
+      "pct_voix_exprimes": 47.08,
+      "sieges_cm": 3,
+      "sieges_cc": null,
+      "nb_elus": 3,
+      "tete_de_liste": {
+        "nom": "DELHAYE",
+        "prenom": "Patricia",
+        "nom_complet": "Patricia DELHAYE",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "DELHAYE",
+          "prenom": "Patricia",
+          "nom_complet": "Patricia DELHAYE",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BEHAGUE",
+          "prenom": "Richard",
+          "nom_complet": "Richard BEHAGUE",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BLOQUET",
+          "prenom": "Vanina",
+          "nom_complet": "Vanina BLOQUET",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "3"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

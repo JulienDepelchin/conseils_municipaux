@@ -1,0 +1,131 @@
+{
+  "code_commune": "62187",
+  "commune": "Buneville",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "MARTIN",
+    "prenom": "Joël",
+    "nom_complet": "Joël MARTIN",
+    "age": 70,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 128,
+    "votants": 105,
+    "pct_votants": 82.03,
+    "abstentions": 23,
+    "pct_abstentions": 17.97,
+    "exprimes": 67
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Commune de Buneville",
+      "libelle_abrege_liste": "Commune de Buneville",
+      "nuance_liste": null,
+      "voix": 67,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "MARTIN",
+        "prenom": "Joël",
+        "nom_complet": "Joël MARTIN",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "MARTIN",
+          "prenom": "Joël",
+          "nom_complet": "Joël MARTIN",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DURAND",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle DURAND",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "COUSIN",
+          "prenom": "Gervais",
+          "nom_complet": "Gervais COUSIN",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "PAILLARD",
+          "prenom": "Corinne",
+          "nom_complet": "Corinne PAILLARD",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LEFEBVRE",
+          "prenom": "Alain",
+          "nom_complet": "Alain LEFEBVRE",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "VASSEUR",
+          "prenom": "Amelie",
+          "nom_complet": "Amelie VASSEUR",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "ANSELIN",
+          "prenom": "David",
+          "nom_complet": "David ANSELIN",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "THERET",
+          "prenom": "Valerie",
+          "nom_complet": "Valerie THERET",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "CARLIER",
+          "prenom": "Jean François",
+          "nom_complet": "Jean François CARLIER",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DELOO",
+          "prenom": "Marie-Ange",
+          "nom_complet": "Marie-Ange DELOO",
+          "sexe": "F",
+          "age": 73,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "PREVOST",
+          "prenom": "Richard",
+          "nom_complet": "Richard PREVOST",
+          "sexe": "M",
+          "age": 76,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

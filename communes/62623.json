@@ -1,0 +1,163 @@
+{
+  "code_commune": "62623",
+  "commune": "Nouvelle-Eglise",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "WAY",
+    "prenom": "Patrick",
+    "nom_complet": "Patrick WAY",
+    "age": 74,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 491,
+    "votants": 278,
+    "pct_votants": 56.62,
+    "abstentions": 213,
+    "pct_abstentions": 43.38,
+    "exprimes": 256
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "TOUS ENSEMBLE POUR NOUVELLE-EGLISE",
+      "libelle_abrege_liste": "TOUS ENSEMBLE POUR NOUVELLE-EGLISE",
+      "nuance_liste": null,
+      "voix": 256,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "WAY",
+        "prenom": "Patrick",
+        "nom_complet": "Patrick WAY",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "WAY",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick WAY",
+          "sexe": "M",
+          "age": 74,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BIJOK",
+          "prenom": "Marie-Pierre",
+          "nom_complet": "Marie-Pierre BIJOK",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DAULLÉ",
+          "prenom": "François",
+          "nom_complet": "François DAULLÉ",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "HANNEQUIN",
+          "prenom": "Christine",
+          "nom_complet": "Christine HANNEQUIN",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "CANDAS",
+          "prenom": "Mathieu",
+          "nom_complet": "Mathieu CANDAS",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LOIRE",
+          "prenom": "Mathilde",
+          "nom_complet": "Mathilde LOIRE",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DENEUVILLE",
+          "prenom": "Gabriel",
+          "nom_complet": "Gabriel DENEUVILLE",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LEFEBVRE",
+          "prenom": "Amandine",
+          "nom_complet": "Amandine LEFEBVRE",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DRIEUX",
+          "prenom": "Éric",
+          "nom_complet": "Éric DRIEUX",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "PETIT",
+          "prenom": "Julie",
+          "nom_complet": "Julie PETIT",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "LEFEBVRE",
+          "prenom": "Jonathan",
+          "nom_complet": "Jonathan LEFEBVRE",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "VERSTRAETE",
+          "prenom": "Cécile",
+          "nom_complet": "Cécile VERSTRAETE",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "PAGNERRE",
+          "prenom": "Jean-Luc",
+          "nom_complet": "Jean-Luc PAGNERRE",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "WULLENS",
+          "prenom": "Colette",
+          "nom_complet": "Colette WULLENS",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "SCHAUTERDEN",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier SCHAUTERDEN",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

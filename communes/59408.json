@@ -1,0 +1,195 @@
+{
+  "code_commune": "59408",
+  "commune": "Moncheaux",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "DESCAMPS",
+    "prenom": "François-Hubert",
+    "nom_complet": "François-Hubert DESCAMPS",
+    "age": 55,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1365,
+    "votants": 646,
+    "pct_votants": 47.33,
+    "abstentions": 719,
+    "pct_abstentions": 52.67,
+    "exprimes": 477
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ENSEMBLE POUR L'AVENIR DU VILLAGE",
+      "libelle_abrege_liste": "ENSEMBLE POUR L'AVENIR DU VILLAGE",
+      "nuance_liste": null,
+      "voix": 477,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 19,
+      "sieges_cc": 1,
+      "nb_elus": 19,
+      "tete_de_liste": {
+        "nom": "DESCAMPS",
+        "prenom": "François-Hubert",
+        "nom_complet": "François-Hubert DESCAMPS",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DESCAMPS",
+          "prenom": "François-Hubert",
+          "nom_complet": "François-Hubert DESCAMPS",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "XERRA",
+          "prenom": "Sophie",
+          "nom_complet": "Sophie XERRA",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "OSINSKI",
+          "prenom": "Sebastien",
+          "nom_complet": "Sebastien OSINSKI",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "COUCKE",
+          "prenom": "Christiane",
+          "nom_complet": "Christiane COUCKE",
+          "sexe": "F",
+          "age": 71,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "VANLITSENBURGH",
+          "prenom": "Maxence",
+          "nom_complet": "Maxence VANLITSENBURGH",
+          "sexe": "M",
+          "age": 74,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "WOELFFEL",
+          "prenom": "Laura",
+          "nom_complet": "Laura WOELFFEL",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "LEGRAND",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier LEGRAND",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DESCAMPS",
+          "prenom": "Veronique",
+          "nom_complet": "Veronique DESCAMPS",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "REINA",
+          "prenom": "Alexandre",
+          "nom_complet": "Alexandre REINA",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "LAGACHE",
+          "prenom": "Paule",
+          "nom_complet": "Paule LAGACHE",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "VANDENHELSKEN",
+          "prenom": "Jean-Charles",
+          "nom_complet": "Jean-Charles VANDENHELSKEN",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "DELOBEL",
+          "prenom": "Amandine",
+          "nom_complet": "Amandine DELOBEL",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "BARONE",
+          "prenom": "Andréa",
+          "nom_complet": "Andréa BARONE",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "MONTMIRAIL",
+          "prenom": "Coline",
+          "nom_complet": "Coline MONTMIRAIL",
+          "sexe": "F",
+          "age": 27,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "DEBEVE",
+          "prenom": "Jean-Michel",
+          "nom_complet": "Jean-Michel DEBEVE",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "HOULIEZ",
+          "prenom": "Adeline",
+          "nom_complet": "Adeline HOULIEZ",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "DESSILY",
+          "prenom": "Andy",
+          "nom_complet": "Andy DESSILY",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "LADUREAU",
+          "prenom": "Odile",
+          "nom_complet": "Odile LADUREAU",
+          "sexe": "F",
+          "age": 89,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "BILLET",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno BILLET",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "19"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

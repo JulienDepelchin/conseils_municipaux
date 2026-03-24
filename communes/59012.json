@@ -1,0 +1,247 @@
+{
+  "code_commune": "59012",
+  "commune": "Anor",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "LAMRANI",
+    "prenom": "Ali",
+    "nom_complet": "Ali LAMRANI",
+    "age": 44,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 2388,
+    "votants": 1412,
+    "pct_votants": 59.13,
+    "abstentions": 976,
+    "pct_abstentions": 40.87,
+    "exprimes": 1338
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "ANOR, GRANDIR ENSEMBLE",
+      "libelle_abrege_liste": "ANOR, GRANDIR ENSEMBLE",
+      "nuance_liste": null,
+      "voix": 1002,
+      "pct_voix_exprimes": 74.89,
+      "sieges_cm": 20,
+      "sieges_cc": 5,
+      "nb_elus": 20,
+      "tete_de_liste": {
+        "nom": "LAMRANI",
+        "prenom": "Ali",
+        "nom_complet": "Ali LAMRANI",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LAMRANI",
+          "prenom": "Ali",
+          "nom_complet": "Ali LAMRANI",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DEHOUX",
+          "prenom": "Christine",
+          "nom_complet": "Christine DEHOUX",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DHAMELINCOURT",
+          "prenom": "Jérémy",
+          "nom_complet": "Jérémy DHAMELINCOURT",
+          "sexe": "M",
+          "age": 31,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BERTRAND",
+          "prenom": "Julie",
+          "nom_complet": "Julie BERTRAND",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "WALLERAND",
+          "prenom": "Benjamin",
+          "nom_complet": "Benjamin WALLERAND",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LEBRUN",
+          "prenom": "Bernadette",
+          "nom_complet": "Bernadette LEBRUN",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BAILLEUL",
+          "prenom": "Bernard",
+          "nom_complet": "Bernard BAILLEUL",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "ROZE",
+          "prenom": "Sergine",
+          "nom_complet": "Sergine ROZE",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "NEUMOHR",
+          "prenom": "Grégory",
+          "nom_complet": "Grégory NEUMOHR",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "THIÉFAINE",
+          "prenom": "Angélique",
+          "nom_complet": "Angélique THIÉFAINE",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "CAUDRELIER",
+          "prenom": "Jérémie",
+          "nom_complet": "Jérémie CAUDRELIER",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "RECOURT",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie RECOURT",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "DÉJARDIN",
+          "prenom": "Clément",
+          "nom_complet": "Clément DÉJARDIN",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "DUPONT",
+          "prenom": "Sandrine",
+          "nom_complet": "Sandrine DUPONT",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "PÉRAT",
+          "prenom": "Régis",
+          "nom_complet": "Régis PÉRAT",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "ALAVOINE",
+          "prenom": "Marlène",
+          "nom_complet": "Marlène ALAVOINE",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "CHRÉTIEN",
+          "prenom": "Lionel",
+          "nom_complet": "Lionel CHRÉTIEN",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "VILLERMOIS",
+          "prenom": "Mélanie",
+          "nom_complet": "Mélanie VILLERMOIS",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "MARTIN",
+          "prenom": "François",
+          "nom_complet": "François MARTIN",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "COURAUD",
+          "prenom": "Édith",
+          "nom_complet": "Édith COURAUD",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "20"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "La voix d'Anor",
+      "libelle_abrege_liste": "La voix d'Anor",
+      "nuance_liste": null,
+      "voix": 336,
+      "pct_voix_exprimes": 25.11,
+      "sieges_cm": 3,
+      "sieges_cc": 0,
+      "nb_elus": 3,
+      "tete_de_liste": {
+        "nom": "WAROCQUIER",
+        "prenom": "Benjamin",
+        "nom_complet": "Benjamin WAROCQUIER",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "WAROCQUIER",
+          "prenom": "Benjamin",
+          "nom_complet": "Benjamin WAROCQUIER",
+          "sexe": "M",
+          "age": 33,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DACQUET",
+          "prenom": "Andréa",
+          "nom_complet": "Andréa DACQUET",
+          "sexe": "F",
+          "age": 30,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "CHEMIEL",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier CHEMIEL",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "3"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

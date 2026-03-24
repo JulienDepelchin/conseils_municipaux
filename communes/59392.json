@@ -1,0 +1,397 @@
+{
+  "code_commune": "59392",
+  "commune": "Maubeuge",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "DECAGNY",
+    "prenom": "Arnaud",
+    "nom_complet": "Arnaud DECAGNY",
+    "age": 53,
+    "nuance": "LDVD"
+  },
+  "resultats": {
+    "inscrits": 18331,
+    "votants": 8396,
+    "pct_votants": 45.8,
+    "abstentions": 9935,
+    "pct_abstentions": 54.2,
+    "exprimes": 8176
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Ensemble.Maubeuge avance !",
+      "libelle_abrege_liste": "Ensemble, Maubeuge avance !",
+      "nuance_liste": "LDVD",
+      "voix": 4141,
+      "pct_voix_exprimes": 50.65,
+      "sieges_cm": 27,
+      "sieges_cc": 14,
+      "nb_elus": 27,
+      "tete_de_liste": {
+        "nom": "DECAGNY",
+        "prenom": "Arnaud",
+        "nom_complet": "Arnaud DECAGNY",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DECAGNY",
+          "prenom": "Arnaud",
+          "nom_complet": "Arnaud DECAGNY",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "PAQUE",
+          "prenom": "Jeannine",
+          "nom_complet": "Jeannine PAQUE",
+          "sexe": "F",
+          "age": 76,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LEBLANC",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas LEBLANC",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "SERHANI",
+          "prenom": "Samia",
+          "nom_complet": "Samia SERHANI",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LOCOCCIOLO",
+          "prenom": "Emmanuel",
+          "nom_complet": "Emmanuel LOCOCCIOLO",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "MORIAMÉ",
+          "prenom": "Bernadette",
+          "nom_complet": "Bernadette MORIAMÉ",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DEJARDIN",
+          "prenom": "Denis",
+          "nom_complet": "Denis DEJARDIN",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "BERTAUX",
+          "prenom": "Myriam",
+          "nom_complet": "Myriam BERTAUX",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "REFFAS",
+          "prenom": "Naguib",
+          "nom_complet": "Naguib REFFAS",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "RASSCHAERT",
+          "prenom": "Brigitte",
+          "nom_complet": "Brigitte RASSCHAERT",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "BOUNOUA",
+          "prenom": "Boufeldja",
+          "nom_complet": "Boufeldja BOUNOUA",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "SEOUDI",
+          "prenom": "Annie",
+          "nom_complet": "Annie SEOUDI",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "PIEGAY",
+          "prenom": "André",
+          "nom_complet": "André PIEGAY",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "GALLAND",
+          "prenom": "Florence",
+          "nom_complet": "Florence GALLAND",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "WAVRIN",
+          "prenom": "Antoine",
+          "nom_complet": "Antoine WAVRIN",
+          "sexe": "M",
+          "age": 23,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "LEBRUN",
+          "prenom": "Annick",
+          "nom_complet": "Annick LEBRUN",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "ZEKHNINI",
+          "prenom": "Azzeddine",
+          "nom_complet": "Azzeddine ZEKHNINI",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "AUQUIERT",
+          "prenom": "Lucie",
+          "nom_complet": "Lucie AUQUIERT",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "HADDA",
+          "prenom": "Djilali",
+          "nom_complet": "Djilali HADDA",
+          "sexe": "M",
+          "age": 76,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "TAJDIRT",
+          "prenom": "Malika",
+          "nom_complet": "Malika TAJDIRT",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "COURTIN",
+          "prenom": "Julien",
+          "nom_complet": "Julien COURTIN",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "AOUDJ",
+          "prenom": "Nadia",
+          "nom_complet": "Nadia AOUDJ",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "BENAZET",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric BENAZET",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "23"
+        },
+        {
+          "nom": "POLET",
+          "prenom": "Patrica",
+          "nom_complet": "Patrica POLET",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "24"
+        },
+        {
+          "nom": "BELHADJOUDJA",
+          "prenom": "Saïd",
+          "nom_complet": "Saïd BELHADJOUDJA",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "25"
+        },
+        {
+          "nom": "LALY",
+          "prenom": "Marie-Charles",
+          "nom_complet": "Marie-Charles LALY",
+          "sexe": "F",
+          "age": 79,
+          "rang_liste": "26"
+        },
+        {
+          "nom": "TAVERNE",
+          "prenom": "Julien",
+          "nom_complet": "Julien TAVERNE",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "27"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "4",
+      "libelle_liste": "Notre Maubeuge",
+      "libelle_abrege_liste": "Notre Maubeuge",
+      "nuance_liste": "LDVD",
+      "voix": 2165,
+      "pct_voix_exprimes": 26.48,
+      "sieges_cm": 5,
+      "sieges_cc": 2,
+      "nb_elus": 5,
+      "tete_de_liste": {
+        "nom": "ROMBEAUT",
+        "prenom": "Jean-Pierre",
+        "nom_complet": "Jean-Pierre ROMBEAUT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "ROMBEAUT",
+          "prenom": "Jean-Pierre",
+          "nom_complet": "Jean-Pierre ROMBEAUT",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "FUENTES",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie FUENTES",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DE KEPPER",
+          "prenom": "Fabrice",
+          "nom_complet": "Fabrice DE KEPPER",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "CATERINA",
+          "prenom": "Liliane",
+          "nom_complet": "Liliane CATERINA",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "ALLUITTE",
+          "prenom": "Michel",
+          "nom_complet": "Michel ALLUITTE",
+          "sexe": "M",
+          "age": 81,
+          "rang_liste": "5"
+        }
+      ],
+      "statut_conseil": "autre"
+    },
+    {
+      "num_panneau": "5",
+      "libelle_liste": "Pour Maubeuge, le nouveau souffle !",
+      "libelle_abrege_liste": "Pour Maubeuge, le nouveau souffle !",
+      "nuance_liste": "LFI",
+      "voix": 1207,
+      "pct_voix_exprimes": 14.76,
+      "sieges_cm": 2,
+      "sieges_cc": 1,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "BOUGHAZI",
+        "prenom": "Abdoullah",
+        "nom_complet": "Abdoullah BOUGHAZI",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BOUGHAZI",
+          "prenom": "Abdoullah",
+          "nom_complet": "Abdoullah BOUGHAZI",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "MERLIN",
+          "prenom": "Melodie",
+          "nom_complet": "Melodie MERLIN",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "Maubeuge, pour vous !",
+      "libelle_abrege_liste": "Maubeuge, pour vous !",
+      "nuance_liste": "LDVG",
+      "voix": 537,
+      "pct_voix_exprimes": 6.57,
+      "sieges_cm": 1,
+      "sieges_cc": 0,
+      "nb_elus": 1,
+      "tete_de_liste": {
+        "nom": "VILLETTE",
+        "prenom": "Sophie",
+        "nom_complet": "Sophie VILLETTE",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "VILLETTE",
+          "prenom": "Sophie",
+          "nom_complet": "Sophie VILLETTE",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "1"
+        }
+      ],
+      "statut_conseil": "autre"
+    },
+    {
+      "num_panneau": "3",
+      "libelle_liste": "Lutte ouvrière - le camp des travailleurs",
+      "libelle_abrege_liste": "Lutte ouvrière - le camp des travailleurs",
+      "nuance_liste": "LEXG",
+      "voix": 126,
+      "pct_voix_exprimes": 1.54,
+      "sieges_cm": 0,
+      "sieges_cc": 0,
+      "nb_elus": 0,
+      "tete_de_liste": null,
+      "elus": [],
+      "statut_conseil": "sans_elu"
+    }
+  ]
+}

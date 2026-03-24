@@ -1,0 +1,315 @@
+{
+  "code_commune": "59028",
+  "commune": "Auby",
+  "departement": "Nord",
+  "tour": "T2",
+  "maire": {
+    "nom": "CZECH",
+    "prenom": "Bernard",
+    "nom_complet": "Bernard CZECH",
+    "age": 71,
+    "nuance": "LDVG"
+  },
+  "resultats": {
+    "inscrits": 4999,
+    "votants": 3132,
+    "pct_votants": 62.65,
+    "abstentions": 1867,
+    "pct_abstentions": 37.35,
+    "exprimes": 3078
+  },
+  "listes": [
+    {
+      "num_panneau": "3",
+      "libelle_liste": "AUBY UN AVENIR EN COMMUN",
+      "libelle_abrege_liste": "AUBY UN AVENIR EN COMMUN",
+      "nuance_liste": "LDVG",
+      "voix": 1248,
+      "pct_voix_exprimes": 40.55,
+      "sieges_cm": 21,
+      "sieges_cc": 2,
+      "nb_elus": 21,
+      "tete_de_liste": {
+        "nom": "CZECH",
+        "prenom": "Bernard",
+        "nom_complet": "Bernard CZECH",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "CZECH",
+          "prenom": "Bernard",
+          "nom_complet": "Bernard CZECH",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LAUTRIE",
+          "prenom": "Aline",
+          "nom_complet": "Aline LAUTRIE",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "SZYMANEK",
+          "prenom": "Didier",
+          "nom_complet": "Didier SZYMANEK",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "VALLIN",
+          "prenom": "Lydie",
+          "nom_complet": "Lydie VALLIN",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "SINI",
+          "prenom": "Abdelmalik",
+          "nom_complet": "Abdelmalik SINI",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LORTHIOS",
+          "prenom": "Dorothée",
+          "nom_complet": "Dorothée LORTHIOS",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "NOUI",
+          "prenom": "Brahim",
+          "nom_complet": "Brahim NOUI",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "WAGON EPOUSE DUBOIS",
+          "prenom": "Chantal",
+          "nom_complet": "Chantal WAGON EPOUSE DUBOIS",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "CARLIER",
+          "prenom": "Rudy",
+          "nom_complet": "Rudy CARLIER",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "PLESSIS",
+          "prenom": "Marie-Paule",
+          "nom_complet": "Marie-Paule PLESSIS",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "BOUTECHICHE",
+          "prenom": "Djamel",
+          "nom_complet": "Djamel BOUTECHICHE",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "LEVRAY",
+          "prenom": "Anne-Cécile",
+          "nom_complet": "Anne-Cécile LEVRAY",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "ZELAZNY",
+          "prenom": "Eric",
+          "nom_complet": "Eric ZELAZNY",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "PLATEAU",
+          "prenom": "Françoise",
+          "nom_complet": "Françoise PLATEAU",
+          "sexe": "F",
+          "age": 74,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "LOURDAUX",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe LOURDAUX",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "SAIDI",
+          "prenom": "Amel",
+          "nom_complet": "Amel SAIDI",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "ALVAREZ",
+          "prenom": "Ludovic",
+          "nom_complet": "Ludovic ALVAREZ",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "DESPREZ",
+          "prenom": "Corinne",
+          "nom_complet": "Corinne DESPREZ",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "MOREL",
+          "prenom": "Bernard",
+          "nom_complet": "Bernard MOREL",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "CARLIER",
+          "prenom": "Marie-Françoise",
+          "nom_complet": "Marie-Françoise CARLIER",
+          "sexe": "F",
+          "age": 72,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "VALLADARES",
+          "prenom": "Miguel",
+          "nom_complet": "Miguel VALLADARES",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "21"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "4",
+      "libelle_liste": "PROCHE DE VOUS",
+      "libelle_abrege_liste": "PROCHE DE VOUS",
+      "nuance_liste": "LDIV",
+      "voix": 1023,
+      "pct_voix_exprimes": 33.24,
+      "sieges_cm": 5,
+      "sieges_cc": 1,
+      "nb_elus": 5,
+      "tete_de_liste": {
+        "nom": "TASZAREK",
+        "prenom": "Anne-Sophie",
+        "nom_complet": "Anne-Sophie TASZAREK",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "TASZAREK",
+          "prenom": "Anne-Sophie",
+          "nom_complet": "Anne-Sophie TASZAREK",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "SKRZYSZOWSKI",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas SKRZYSZOWSKI",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "ARTISSON",
+          "prenom": "Peggy",
+          "nom_complet": "Peggy ARTISSON",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "MARIE",
+          "prenom": "Gilles",
+          "nom_complet": "Gilles MARIE",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DEVAUX",
+          "prenom": "Laetitia",
+          "nom_complet": "Laetitia DEVAUX",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "5"
+        }
+      ],
+      "statut_conseil": "autre"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "DE L'AMBITION POUR AUBY",
+      "libelle_abrege_liste": "DE L'AMBITION POUR AUBY",
+      "nuance_liste": "LDVG",
+      "voix": 807,
+      "pct_voix_exprimes": 26.22,
+      "sieges_cm": 3,
+      "sieges_cc": 0,
+      "nb_elus": 3,
+      "tete_de_liste": {
+        "nom": "KACZMAREK",
+        "prenom": "Freddy",
+        "nom_complet": "Freddy KACZMAREK",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "KACZMAREK",
+          "prenom": "Freddy",
+          "nom_complet": "Freddy KACZMAREK",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DANIELCZYK",
+          "prenom": "Alexandra",
+          "nom_complet": "Alexandra DANIELCZYK",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "TRARI",
+          "prenom": "Walid",
+          "nom_complet": "Walid TRARI",
+          "sexe": "M",
+          "age": 27,
+          "rang_liste": "3"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

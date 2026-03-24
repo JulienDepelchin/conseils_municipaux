@@ -1,0 +1,195 @@
+{
+  "code_commune": "59018",
+  "commune": "Arnèke",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "ADJOVI",
+    "prenom": "Julie",
+    "nom_complet": "Julie ADJOVI",
+    "age": 36,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1165,
+    "votants": 709,
+    "pct_votants": 60.86,
+    "abstentions": 456,
+    "pct_abstentions": 39.14,
+    "exprimes": 622
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Avec vous pour Arnèke",
+      "libelle_abrege_liste": "AVPA",
+      "nuance_liste": null,
+      "voix": 622,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 19,
+      "sieges_cc": 1,
+      "nb_elus": 19,
+      "tete_de_liste": {
+        "nom": "ADJOVI",
+        "prenom": "Julie",
+        "nom_complet": "Julie ADJOVI",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "ADJOVI",
+          "prenom": "Julie",
+          "nom_complet": "Julie ADJOVI",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "PICOTIN",
+          "prenom": "Michel",
+          "nom_complet": "Michel PICOTIN",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "VANDENAMEEL",
+          "prenom": "Bérengère",
+          "nom_complet": "Bérengère VANDENAMEEL",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "VIDRIL",
+          "prenom": "Sylvain",
+          "nom_complet": "Sylvain VIDRIL",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DEVOS",
+          "prenom": "Martine",
+          "nom_complet": "Martine DEVOS",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "KERCKHOVE",
+          "prenom": "Fabrice",
+          "nom_complet": "Fabrice KERCKHOVE",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "FRANCOIS",
+          "prenom": "Daisy",
+          "nom_complet": "Daisy FRANCOIS",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DELASSUS",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno DELASSUS",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "PYCKAERT",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie PYCKAERT",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "VANDEWALLE",
+          "prenom": "Marc",
+          "nom_complet": "Marc VANDEWALLE",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "BAK",
+          "prenom": "Justine",
+          "nom_complet": "Justine BAK",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "SOLUJIC",
+          "prenom": "Mickael",
+          "nom_complet": "Mickael SOLUJIC",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "HUYGHE",
+          "prenom": "Marie-Anne",
+          "nom_complet": "Marie-Anne HUYGHE",
+          "sexe": "F",
+          "age": 71,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "DELOBEL",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas DELOBEL",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "DUBOIS",
+          "prenom": "Chantal",
+          "nom_complet": "Chantal DUBOIS",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "DECODTS",
+          "prenom": "Yannick",
+          "nom_complet": "Yannick DECODTS",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "COUSYN",
+          "prenom": "Justine",
+          "nom_complet": "Justine COUSYN",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "DEVOS",
+          "prenom": "Tony",
+          "nom_complet": "Tony DEVOS",
+          "sexe": "M",
+          "age": 30,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "FLANDRINCK",
+          "prenom": "Axelle",
+          "nom_complet": "Axelle FLANDRINCK",
+          "sexe": "F",
+          "age": 25,
+          "rang_liste": "19"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

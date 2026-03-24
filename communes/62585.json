@@ -1,0 +1,131 @@
+{
+  "code_commune": "62585",
+  "commune": "Montcavrel",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "DURANT",
+    "prenom": "Guillaume",
+    "nom_complet": "Guillaume DURANT",
+    "age": 40,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 339,
+    "votants": 260,
+    "pct_votants": 76.7,
+    "abstentions": 79,
+    "pct_abstentions": 23.3,
+    "exprimes": 204
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ENSEMBLE POUR MONTCAVREL",
+      "libelle_abrege_liste": "ENSEMBLE POUR MONTCAVREL",
+      "nuance_liste": null,
+      "voix": 204,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "DURANT",
+        "prenom": "Guillaume",
+        "nom_complet": "Guillaume DURANT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DURANT",
+          "prenom": "Guillaume",
+          "nom_complet": "Guillaume DURANT",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "VASSEUR",
+          "prenom": "Fanny",
+          "nom_complet": "Fanny VASSEUR",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LASSERON",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique LASSERON",
+          "sexe": "M",
+          "age": 76,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "HOCHART-DESSEAUX",
+          "prenom": "Marie-Charlotte",
+          "nom_complet": "Marie-Charlotte HOCHART-DESSEAUX",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LEVELEUX",
+          "prenom": "Thibaut",
+          "nom_complet": "Thibaut LEVELEUX",
+          "sexe": "M",
+          "age": 33,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LEGRAND",
+          "prenom": "Clémence",
+          "nom_complet": "Clémence LEGRAND",
+          "sexe": "F",
+          "age": 27,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "QUILLET",
+          "prenom": "Jean-Marie",
+          "nom_complet": "Jean-Marie QUILLET",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "BROUTIER",
+          "prenom": "Catherine",
+          "nom_complet": "Catherine BROUTIER",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "VASSEUR",
+          "prenom": "Quentin",
+          "nom_complet": "Quentin VASSEUR",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "LEJEUNE",
+          "prenom": "Émilie",
+          "nom_complet": "Émilie LEJEUNE",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "MACREZ",
+          "prenom": "Louis",
+          "nom_complet": "Louis MACREZ",
+          "sexe": "M",
+          "age": 21,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

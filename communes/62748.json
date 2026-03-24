@@ -1,0 +1,195 @@
+{
+  "code_commune": "62748",
+  "commune": "Saint-Folquin",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "ENGRAND",
+    "prenom": "Yves",
+    "nom_complet": "Yves ENGRAND",
+    "age": 76,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1788,
+    "votants": 1024,
+    "pct_votants": 57.27,
+    "abstentions": 764,
+    "pct_abstentions": 42.73,
+    "exprimes": 928
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "AGIR POUR SAINT-FOLQUIN",
+      "libelle_abrege_liste": "AGIR POUR SAINT-FOLQUIN",
+      "nuance_liste": null,
+      "voix": 928,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 19,
+      "sieges_cc": 3,
+      "nb_elus": 19,
+      "tete_de_liste": {
+        "nom": "ENGRAND",
+        "prenom": "Yves",
+        "nom_complet": "Yves ENGRAND",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "ENGRAND",
+          "prenom": "Yves",
+          "nom_complet": "Yves ENGRAND",
+          "sexe": "M",
+          "age": 76,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "CHARLET",
+          "prenom": "Brigitte",
+          "nom_complet": "Brigitte CHARLET",
+          "sexe": "F",
+          "age": 71,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DELACRE",
+          "prenom": "Jacques-André",
+          "nom_complet": "Jacques-André DELACRE",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "PECQUEUX",
+          "prenom": "Marie-José",
+          "nom_complet": "Marie-José PECQUEUX",
+          "sexe": "F",
+          "age": 76,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DENOLF",
+          "prenom": "Daniel",
+          "nom_complet": "Daniel DENOLF",
+          "sexe": "M",
+          "age": 76,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "GUEANT",
+          "prenom": "Jeanine",
+          "nom_complet": "Jeanine GUEANT",
+          "sexe": "F",
+          "age": 77,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BISCARAS",
+          "prenom": "Xavier",
+          "nom_complet": "Xavier BISCARAS",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "AGEZ",
+          "prenom": "Monique",
+          "nom_complet": "Monique AGEZ",
+          "sexe": "F",
+          "age": 74,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "BRICHE",
+          "prenom": "Michel",
+          "nom_complet": "Michel BRICHE",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "LHERBIER",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie LHERBIER",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "JOAN",
+          "prenom": "Jérôme",
+          "nom_complet": "Jérôme JOAN",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "BARBET",
+          "prenom": "Brigitte",
+          "nom_complet": "Brigitte BARBET",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "VANTHOURNOUT",
+          "prenom": "Arnaud",
+          "nom_complet": "Arnaud VANTHOURNOUT",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "DUBOIS",
+          "prenom": "Séverine",
+          "nom_complet": "Séverine DUBOIS",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "SUBIRANA",
+          "prenom": "Gino",
+          "nom_complet": "Gino SUBIRANA",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "FORTEVILLE",
+          "prenom": "Anne-Marie",
+          "nom_complet": "Anne-Marie FORTEVILLE",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "BLOCKLET",
+          "prenom": "Rémy",
+          "nom_complet": "Rémy BLOCKLET",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "CZAPNICK",
+          "prenom": "Carole",
+          "nom_complet": "Carole CZAPNICK",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "BAUDRIN",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe BAUDRIN",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "19"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

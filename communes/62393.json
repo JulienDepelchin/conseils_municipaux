@@ -1,0 +1,163 @@
+{
+  "code_commune": "62393",
+  "commune": "Guemps",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "COUSIN",
+    "prenom": "Charles",
+    "nom_complet": "Charles COUSIN",
+    "age": 41,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 920,
+    "votants": 480,
+    "pct_votants": 52.17,
+    "abstentions": 440,
+    "pct_abstentions": 47.83,
+    "exprimes": 443
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Bien vivre ensembe à Guemps",
+      "libelle_abrege_liste": "Bien vivre ensembe à Guemps",
+      "nuance_liste": null,
+      "voix": 443,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": 2,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "COUSIN",
+        "prenom": "Charles",
+        "nom_complet": "Charles COUSIN",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "COUSIN",
+          "prenom": "Charles",
+          "nom_complet": "Charles COUSIN",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "VANDEVYVERE",
+          "prenom": "Catherine",
+          "nom_complet": "Catherine VANDEVYVERE",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DOMAIN",
+          "prenom": "Jean-Paul",
+          "nom_complet": "Jean-Paul DOMAIN",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "SENICOURT",
+          "prenom": "Francine",
+          "nom_complet": "Francine SENICOURT",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "PETIT",
+          "prenom": "Didier",
+          "nom_complet": "Didier PETIT",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "GORAIN",
+          "prenom": "Justine",
+          "nom_complet": "Justine GORAIN",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DESTREZ",
+          "prenom": "Yannis",
+          "nom_complet": "Yannis DESTREZ",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "TACQUET",
+          "prenom": "Emilie",
+          "nom_complet": "Emilie TACQUET",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DEBOVES",
+          "prenom": "Alexandre",
+          "nom_complet": "Alexandre DEBOVES",
+          "sexe": "M",
+          "age": 27,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "BONNET",
+          "prenom": "Clarisse",
+          "nom_complet": "Clarisse BONNET",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "GOMEZ",
+          "prenom": "Dimitri",
+          "nom_complet": "Dimitri GOMEZ",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "DEWET",
+          "prenom": "Dorine",
+          "nom_complet": "Dorine DEWET",
+          "sexe": "F",
+          "age": 20,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "COUTIEZ",
+          "prenom": "Geoffrey",
+          "nom_complet": "Geoffrey COUTIEZ",
+          "sexe": "M",
+          "age": 33,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "LEMAÎTRE",
+          "prenom": "Elodie",
+          "nom_complet": "Elodie LEMAÎTRE",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "CARTON",
+          "prenom": "Severin",
+          "nom_complet": "Severin CARTON",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

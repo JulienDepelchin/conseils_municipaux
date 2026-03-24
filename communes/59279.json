@@ -1,0 +1,343 @@
+{
+  "code_commune": "59279",
+  "commune": "Halluin",
+  "departement": "Nord",
+  "tour": "T2",
+  "maire": {
+    "nom": "CAURE",
+    "prenom": "Laurent",
+    "nom_complet": "Laurent CAURE",
+    "age": 53,
+    "nuance": "LDVC"
+  },
+  "resultats": {
+    "inscrits": 15417,
+    "votants": 7582,
+    "pct_votants": 49.18,
+    "abstentions": 7835,
+    "pct_abstentions": 50.82,
+    "exprimes": 7305
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "VOUS ÊTES HALLUIN",
+      "libelle_abrege_liste": "VOUS ÊTES HALLUIN",
+      "nuance_liste": "LDVC",
+      "voix": 4925,
+      "pct_voix_exprimes": 67.42,
+      "sieges_cm": 30,
+      "sieges_cc": 2,
+      "nb_elus": 30,
+      "tete_de_liste": {
+        "nom": "CAURE",
+        "prenom": "Laurent",
+        "nom_complet": "Laurent CAURE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "CAURE",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent CAURE",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "FAIDHERBE",
+          "prenom": "Caroline",
+          "nom_complet": "Caroline FAIDHERBE",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "CARON",
+          "prenom": "Jean-François",
+          "nom_complet": "Jean-François CARON",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DERDEYN",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie DERDEYN",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "JULIEN",
+          "prenom": "Arnaud",
+          "nom_complet": "Arnaud JULIEN",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "MONNIER",
+          "prenom": "Magaly",
+          "nom_complet": "Magaly MONNIER",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "HASBROUCQ",
+          "prenom": "Robert",
+          "nom_complet": "Robert HASBROUCQ",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DEMARCK",
+          "prenom": "Delphine",
+          "nom_complet": "Delphine DEMARCK",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "HEBERLE",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe HEBERLE",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "HENRY",
+          "prenom": "Bérangère",
+          "nom_complet": "Bérangère HENRY",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "OULAD MOUSSA",
+          "prenom": "Mohamed Saïd",
+          "nom_complet": "Mohamed Saïd OULAD MOUSSA",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "DE BUE",
+          "prenom": "Marie",
+          "nom_complet": "Marie DE BUE",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "COONE",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique COONE",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "BEYENS",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie BEYENS",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "VINCIGUERRA",
+          "prenom": "Natale",
+          "nom_complet": "Natale VINCIGUERRA",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "JONNEKIN",
+          "prenom": "Lucile",
+          "nom_complet": "Lucile JONNEKIN",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "NOPPE",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique NOPPE",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "BOUCOURT",
+          "prenom": "Sloane",
+          "nom_complet": "Sloane BOUCOURT",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "BERTRAND",
+          "prenom": "Éric",
+          "nom_complet": "Éric BERTRAND",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "GEVAERT",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie GEVAERT",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "DE CARVALHO",
+          "prenom": "José",
+          "nom_complet": "José DE CARVALHO",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "FAUQUEMBERGUE",
+          "prenom": "Capucine",
+          "nom_complet": "Capucine FAUQUEMBERGUE",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "MOREL",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique MOREL",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "23"
+        },
+        {
+          "nom": "EGHERMANNE",
+          "prenom": "Séverine",
+          "nom_complet": "Séverine EGHERMANNE",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "24"
+        },
+        {
+          "nom": "DEDRIE",
+          "prenom": "Éric",
+          "nom_complet": "Éric DEDRIE",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "25"
+        },
+        {
+          "nom": "WAGON",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie WAGON",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "26"
+        },
+        {
+          "nom": "MENET",
+          "prenom": "Jean-Joseph",
+          "nom_complet": "Jean-Joseph MENET",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "27"
+        },
+        {
+          "nom": "DUHAIN",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie DUHAIN",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "28"
+        },
+        {
+          "nom": "COVEMACKER",
+          "prenom": "Johnny",
+          "nom_complet": "Johnny COVEMACKER",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "29"
+        },
+        {
+          "nom": "GADEYNE",
+          "prenom": "Virginie",
+          "nom_complet": "Virginie GADEYNE",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "30"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "UN SAVOIR-FAIRE, UNE ÉNERGIE NOUVELLE",
+      "libelle_abrege_liste": "UN SAVOIR-FAIRE, UNE ÉNERGIE NOUVELLE",
+      "nuance_liste": "LDVD",
+      "voix": 2380,
+      "pct_voix_exprimes": 32.58,
+      "sieges_cm": 5,
+      "sieges_cc": 0,
+      "nb_elus": 5,
+      "tete_de_liste": {
+        "nom": "DESTAILLEUR",
+        "prenom": "Jean-Christophe",
+        "nom_complet": "Jean-Christophe DESTAILLEUR",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DESTAILLEUR",
+          "prenom": "Jean-Christophe",
+          "nom_complet": "Jean-Christophe DESTAILLEUR",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BELVAL",
+          "prenom": "Vanessa",
+          "nom_complet": "Vanessa BELVAL",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "GENELLE",
+          "prenom": "Louis",
+          "nom_complet": "Louis GENELLE",
+          "sexe": "M",
+          "age": 32,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "GUETTAF",
+          "prenom": "Fatima",
+          "nom_complet": "Fatima GUETTAF",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "BOUTIGNON",
+          "prenom": "Corentin",
+          "nom_complet": "Corentin BOUTIGNON",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "5"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

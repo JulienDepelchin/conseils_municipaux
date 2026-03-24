@@ -1,0 +1,163 @@
+{
+  "code_commune": "62627",
+  "commune": "Noyelles-sous-Bellonne",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "LEFRERE",
+    "prenom": "Rodrigue",
+    "nom_complet": "Rodrigue LEFRERE",
+    "age": 53,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 653,
+    "votants": 362,
+    "pct_votants": 55.44,
+    "abstentions": 291,
+    "pct_abstentions": 44.56,
+    "exprimes": 318
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Noyelles sous Bellonne Village convivial",
+      "libelle_abrege_liste": "Noyelles sous Bellonne Village convivial",
+      "nuance_liste": null,
+      "voix": 318,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "LEFRERE",
+        "prenom": "Rodrigue",
+        "nom_complet": "Rodrigue LEFRERE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LEFRERE",
+          "prenom": "Rodrigue",
+          "nom_complet": "Rodrigue LEFRERE",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BELLET",
+          "prenom": "Maryline",
+          "nom_complet": "Maryline BELLET",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "WILLAUME",
+          "prenom": "Sébastien",
+          "nom_complet": "Sébastien WILLAUME",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "PLATH",
+          "prenom": "Muriel",
+          "nom_complet": "Muriel PLATH",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "CARPENTIER",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe CARPENTIER",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "ALLAIRE",
+          "prenom": "Franciane",
+          "nom_complet": "Franciane ALLAIRE",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "REMY",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric REMY",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "SLIMANI",
+          "prenom": "Marie-Jeanne",
+          "nom_complet": "Marie-Jeanne SLIMANI",
+          "sexe": "F",
+          "age": 75,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "GERARD",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe GERARD",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "LARDET",
+          "prenom": "Amandine",
+          "nom_complet": "Amandine LARDET",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DOYEN",
+          "prenom": "Timothée",
+          "nom_complet": "Timothée DOYEN",
+          "sexe": "M",
+          "age": 22,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "PILLOT",
+          "prenom": "Sandrine",
+          "nom_complet": "Sandrine PILLOT",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "MERCIER",
+          "prenom": "Jean-Marie",
+          "nom_complet": "Jean-Marie MERCIER",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "LATURELLE",
+          "prenom": "Hélène",
+          "nom_complet": "Hélène LATURELLE",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "POUCHAIN",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno POUCHAIN",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

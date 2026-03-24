@@ -1,0 +1,131 @@
+{
+  "code_commune": "62513",
+  "commune": "Ligny-sur-Canche",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "DELMOTTE",
+    "prenom": "Jean-Marie",
+    "nom_complet": "Jean-Marie DELMOTTE",
+    "age": 69,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 154,
+    "votants": 97,
+    "pct_votants": 62.99,
+    "abstentions": 57,
+    "pct_abstentions": 37.01,
+    "exprimes": 67
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "CONTINUONS D'AGIR",
+      "libelle_abrege_liste": "CONTINUONS D'AGIR",
+      "nuance_liste": null,
+      "voix": 67,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "DELMOTTE",
+        "prenom": "Jean-Marie",
+        "nom_complet": "Jean-Marie DELMOTTE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DELMOTTE",
+          "prenom": "Jean-Marie",
+          "nom_complet": "Jean-Marie DELMOTTE",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "CADE",
+          "prenom": "Adeline",
+          "nom_complet": "Adeline CADE",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "VIEZ",
+          "prenom": "Jean-Paul",
+          "nom_complet": "Jean-Paul VIEZ",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "HOUBART",
+          "prenom": "Marjorie",
+          "nom_complet": "Marjorie HOUBART",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LECLERCQ",
+          "prenom": "Marcel",
+          "nom_complet": "Marcel LECLERCQ",
+          "sexe": "M",
+          "age": 77,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "ABEL",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle ABEL",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "NANTOIS",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier NANTOIS",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "MOLIN",
+          "prenom": "Sandrine",
+          "nom_complet": "Sandrine MOLIN",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "BILLET",
+          "prenom": "Jean-François",
+          "nom_complet": "Jean-François BILLET",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "PRUVOST",
+          "prenom": "Mélanie",
+          "nom_complet": "Mélanie PRUVOST",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "QUESNEL",
+          "prenom": "Guillaume",
+          "nom_complet": "Guillaume QUESNEL",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "code_commune": "62190",
+  "commune": "Busnes",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "HANNEBICQ",
+    "prenom": "Franck",
+    "nom_complet": "Franck HANNEBICQ",
+    "age": 55,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1004,
+    "votants": 624,
+    "pct_votants": 62.15,
+    "abstentions": 380,
+    "pct_abstentions": 37.85,
+    "exprimes": 511
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "BUSNES NOTRE VILLAGE",
+      "libelle_abrege_liste": "BUSNES NOTRE VILLAGE",
+      "nuance_liste": null,
+      "voix": 511,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": 1,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "HANNEBICQ",
+        "prenom": "Franck",
+        "nom_complet": "Franck HANNEBICQ",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "HANNEBICQ",
+          "prenom": "Franck",
+          "nom_complet": "Franck HANNEBICQ",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "PATTIN",
+          "prenom": "Laurence",
+          "nom_complet": "Laurence PATTIN",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "RAMETTE",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent RAMETTE",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "SOUDAN",
+          "prenom": "Virginie",
+          "nom_complet": "Virginie SOUDAN",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "GRYMONPREZ",
+          "prenom": "Jean Valéry",
+          "nom_complet": "Jean Valéry GRYMONPREZ",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LESAGE",
+          "prenom": "Brigitte",
+          "nom_complet": "Brigitte LESAGE",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DEVAUX",
+          "prenom": "Fabrice",
+          "nom_complet": "Fabrice DEVAUX",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "TRINEL",
+          "prenom": "Alexandra",
+          "nom_complet": "Alexandra TRINEL",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DELANNOY",
+          "prenom": "Grégory",
+          "nom_complet": "Grégory DELANNOY",
+          "sexe": "M",
+          "age": 23,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "MULLET",
+          "prenom": "Delphine",
+          "nom_complet": "Delphine MULLET",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DURAND",
+          "prenom": "Georges",
+          "nom_complet": "Georges DURAND",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "DEBIENNE",
+          "prenom": "Corinne",
+          "nom_complet": "Corinne DEBIENNE",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "DELBENDE",
+          "prenom": "Loïc",
+          "nom_complet": "Loïc DELBENDE",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "TAFFIN",
+          "prenom": "Francine",
+          "nom_complet": "Francine TAFFIN",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "DANEL",
+          "prenom": "Dany",
+          "nom_complet": "Dany DANEL",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

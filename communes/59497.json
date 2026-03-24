@@ -1,0 +1,195 @@
+{
+  "code_commune": "59497",
+  "commune": "Renescure",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "JUDE",
+    "prenom": "Frédéric",
+    "nom_complet": "Frédéric JUDE",
+    "age": 62,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1807,
+    "votants": 1042,
+    "pct_votants": 57.66,
+    "abstentions": 765,
+    "pct_abstentions": 42.34,
+    "exprimes": 868
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "unis pour renescure",
+      "libelle_abrege_liste": "unis pour renescure",
+      "nuance_liste": null,
+      "voix": 868,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 19,
+      "sieges_cc": 1,
+      "nb_elus": 19,
+      "tete_de_liste": {
+        "nom": "JUDE",
+        "prenom": "Frédéric",
+        "nom_complet": "Frédéric JUDE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "JUDE",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric JUDE",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "MAY",
+          "prenom": "Christelle",
+          "nom_complet": "Christelle MAY",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DAUCHEL",
+          "prenom": "Loïc",
+          "nom_complet": "Loïc DAUCHEL",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "HARCHY",
+          "prenom": "Aurélie",
+          "nom_complet": "Aurélie HARCHY",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LEPERE",
+          "prenom": "Alexandre",
+          "nom_complet": "Alexandre LEPERE",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "MAHIEU",
+          "prenom": "Magali",
+          "nom_complet": "Magali MAHIEU",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BAES",
+          "prenom": "Franck",
+          "nom_complet": "Franck BAES",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DEBERT",
+          "prenom": "Angélique",
+          "nom_complet": "Angélique DEBERT",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "BÉTOURNÉ",
+          "prenom": "Cédric",
+          "nom_complet": "Cédric BÉTOURNÉ",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DUHAMEAU",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie DUHAMEAU",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "LEMATTRE",
+          "prenom": "Thomas",
+          "nom_complet": "Thomas LEMATTRE",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "LEROY",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie LEROY",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "JUDE",
+          "prenom": "Fabien",
+          "nom_complet": "Fabien JUDE",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "BOVAERE",
+          "prenom": "Joëlle",
+          "nom_complet": "Joëlle BOVAERE",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "PEIGNE",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric PEIGNE",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "LEURS",
+          "prenom": "Christine",
+          "nom_complet": "Christine LEURS",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "LEPROHON",
+          "prenom": "Grégory",
+          "nom_complet": "Grégory LEPROHON",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "LECAP",
+          "prenom": "Claudine",
+          "nom_complet": "Claudine LECAP",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "CORTEQUISSE",
+          "prenom": "Jean-Christophe",
+          "nom_complet": "Jean-Christophe CORTEQUISSE",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "19"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

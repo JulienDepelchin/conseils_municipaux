@@ -1,0 +1,183 @@
+{
+  "code_commune": "62176",
+  "commune": "Bréxent-Enocq",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "SÉBERT",
+    "prenom": "Yvon",
+    "nom_complet": "Yvon SÉBERT",
+    "age": 58,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 582,
+    "votants": 418,
+    "pct_votants": 71.82,
+    "abstentions": 164,
+    "pct_abstentions": 28.18,
+    "exprimes": 410
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Ensemble, Continuons d'Avancer",
+      "libelle_abrege_liste": "Ensemble, Continuons d'Avancer",
+      "nuance_liste": null,
+      "voix": 217,
+      "pct_voix_exprimes": 52.93,
+      "sieges_cm": 12,
+      "sieges_cc": null,
+      "nb_elus": 12,
+      "tete_de_liste": {
+        "nom": "SÉBERT",
+        "prenom": "Yvon",
+        "nom_complet": "Yvon SÉBERT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "SÉBERT",
+          "prenom": "Yvon",
+          "nom_complet": "Yvon SÉBERT",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "FASQUEL",
+          "prenom": "Marie-Christine",
+          "nom_complet": "Marie-Christine FASQUEL",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "CODRON",
+          "prenom": "Mathieu",
+          "nom_complet": "Mathieu CODRON",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "HÉNO",
+          "prenom": "Céline",
+          "nom_complet": "Céline HÉNO",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DELORY",
+          "prenom": "Fabien",
+          "nom_complet": "Fabien DELORY",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "BOITREL",
+          "prenom": "Maryline",
+          "nom_complet": "Maryline BOITREL",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "LAMBERT",
+          "prenom": "Gauthier",
+          "nom_complet": "Gauthier LAMBERT",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "HEDIN",
+          "prenom": "Laëtitia",
+          "nom_complet": "Laëtitia HEDIN",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "BLOND",
+          "prenom": "Mickaël",
+          "nom_complet": "Mickaël BLOND",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "RIGHETTI",
+          "prenom": "Véronique",
+          "nom_complet": "Véronique RIGHETTI",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "WALCZAK",
+          "prenom": "Fabien",
+          "nom_complet": "Fabien WALCZAK",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "BOONE",
+          "prenom": "Ann",
+          "nom_complet": "Ann BOONE",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "12"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "BREXENT-ENOCQ-HODICQ : MIEUX ENSEMBLE",
+      "libelle_abrege_liste": "BREXENT-ENOCQ-HODICQ : MIEUX ENSEMBLE",
+      "nuance_liste": null,
+      "voix": 193,
+      "pct_voix_exprimes": 47.07,
+      "sieges_cm": 3,
+      "sieges_cc": null,
+      "nb_elus": 3,
+      "tete_de_liste": {
+        "nom": "WARMOES",
+        "prenom": "Thierry",
+        "nom_complet": "Thierry WARMOES",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "WARMOES",
+          "prenom": "Thierry",
+          "nom_complet": "Thierry WARMOES",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "TANFIN",
+          "prenom": "Céline",
+          "nom_complet": "Céline TANFIN",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LHOTELLIER",
+          "prenom": "Christian",
+          "nom_complet": "Christian LHOTELLIER",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "3"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

@@ -1,0 +1,215 @@
+{
+  "code_commune": "62309",
+  "commune": "Esquerdes",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "OBERT",
+    "prenom": "Olivier",
+    "nom_complet": "Olivier OBERT",
+    "age": 63,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1256,
+    "votants": 956,
+    "pct_votants": 76.11,
+    "abstentions": 300,
+    "pct_abstentions": 23.89,
+    "exprimes": 940
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Esquerdes au coeur",
+      "libelle_abrege_liste": "Esquerdes au coeur",
+      "nuance_liste": null,
+      "voix": 678,
+      "pct_voix_exprimes": 72.13,
+      "sieges_cm": 17,
+      "sieges_cc": 3,
+      "nb_elus": 17,
+      "tete_de_liste": {
+        "nom": "OBERT",
+        "prenom": "Olivier",
+        "nom_complet": "Olivier OBERT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "OBERT",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier OBERT",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "CADIX",
+          "prenom": "Amandine",
+          "nom_complet": "Amandine CADIX",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "WAROT",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal WAROT",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "MINEBOIS",
+          "prenom": "Laura",
+          "nom_complet": "Laura MINEBOIS",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DELOBEL",
+          "prenom": "Anthony",
+          "nom_complet": "Anthony DELOBEL",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LAGERSIE",
+          "prenom": "Marie-Line",
+          "nom_complet": "Marie-Line LAGERSIE",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DOURNEL",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe DOURNEL",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DUBUISSON",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle DUBUISSON",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DEMOL",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier DEMOL",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "CLETY",
+          "prenom": "Priscilla",
+          "nom_complet": "Priscilla CLETY",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "BECART",
+          "prenom": "Jean-Paul",
+          "nom_complet": "Jean-Paul BECART",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "MULLER",
+          "prenom": "Martine",
+          "nom_complet": "Martine MULLER",
+          "sexe": "F",
+          "age": 71,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "LECOUSTRE",
+          "prenom": "Emmanuel",
+          "nom_complet": "Emmanuel LECOUSTRE",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "DEVIGNES",
+          "prenom": "Laetitia",
+          "nom_complet": "Laetitia DEVIGNES",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "LEFEBVRE",
+          "prenom": "Pierre-Emmanuel",
+          "nom_complet": "Pierre-Emmanuel LEFEBVRE",
+          "sexe": "M",
+          "age": 32,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "DUFAY",
+          "prenom": "Marie-Astrid",
+          "nom_complet": "Marie-Astrid DUFAY",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "BEAUX",
+          "prenom": "Franck",
+          "nom_complet": "Franck BEAUX",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "17"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "ESQUERDES, Ensemble et pour tous",
+      "libelle_abrege_liste": "ESQUERDES, Ensemble et pour tous",
+      "nuance_liste": null,
+      "voix": 262,
+      "pct_voix_exprimes": 27.87,
+      "sieges_cm": 2,
+      "sieges_cc": 0,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "COFFIN",
+        "prenom": "Hélène",
+        "nom_complet": "Hélène COFFIN",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "COFFIN",
+          "prenom": "Hélène",
+          "nom_complet": "Hélène COFFIN",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DERMENGHEM",
+          "prenom": "Benjamin",
+          "nom_complet": "Benjamin DERMENGHEM",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

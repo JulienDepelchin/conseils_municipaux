@@ -1,0 +1,163 @@
+{
+  "code_commune": "59487",
+  "commune": "Radinghem-en-Weppes",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "WOLFCARIUS",
+    "prenom": "Loïc",
+    "nom_complet": "Loïc WOLFCARIUS",
+    "age": 54,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1240,
+    "votants": 745,
+    "pct_votants": 60.08,
+    "abstentions": 495,
+    "pct_abstentions": 39.92,
+    "exprimes": 661
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "VIVRE ENSEMBLE A RADINGHEM-EN-WEPPES",
+      "libelle_abrege_liste": "VIVRE ENSEMBLE A RADINGHEM-EN-WEPPES",
+      "nuance_liste": null,
+      "voix": 661,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": 1,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "WOLFCARIUS",
+        "prenom": "Loïc",
+        "nom_complet": "Loïc WOLFCARIUS",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "WOLFCARIUS",
+          "prenom": "Loïc",
+          "nom_complet": "Loïc WOLFCARIUS",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BOCHER",
+          "prenom": "Claudie",
+          "nom_complet": "Claudie BOCHER",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "D'HEM",
+          "prenom": "Fabrice",
+          "nom_complet": "Fabrice D'HEM",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "CLEMENT",
+          "prenom": "Odile",
+          "nom_complet": "Odile CLEMENT",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DURAND",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier DURAND",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DAMBLEMONT",
+          "prenom": "Anne-Sophie",
+          "nom_complet": "Anne-Sophie DAMBLEMONT",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "KERRINCKX",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe KERRINCKX",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "CAPPON",
+          "prenom": "Pauline",
+          "nom_complet": "Pauline CAPPON",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "ROGGEMAN",
+          "prenom": "Bryan",
+          "nom_complet": "Bryan ROGGEMAN",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "CLIQUENNOIS",
+          "prenom": "Anne",
+          "nom_complet": "Anne CLIQUENNOIS",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "BAJEUX",
+          "prenom": "Julien",
+          "nom_complet": "Julien BAJEUX",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "HEYMAN",
+          "prenom": "Martine",
+          "nom_complet": "Martine HEYMAN",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "BASTIEN",
+          "prenom": "Ludovic",
+          "nom_complet": "Ludovic BASTIEN",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "RUHANT",
+          "prenom": "Emilie",
+          "nom_complet": "Emilie RUHANT",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "DELASSUS",
+          "prenom": "Maxime",
+          "nom_complet": "Maxime DELASSUS",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "code_commune": "62729",
+  "commune": "Rumilly",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "LAVOGEZ",
+    "prenom": "Patrick",
+    "nom_complet": "Patrick LAVOGEZ",
+    "age": 54,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 187,
+    "votants": 122,
+    "pct_votants": 65.24,
+    "abstentions": 65,
+    "pct_abstentions": 34.76,
+    "exprimes": 102
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ENSEMBLE POUR RUMILLY BEAUSSART",
+      "libelle_abrege_liste": "ENSEMBLE POUR RUMILLY BEAUSSART",
+      "nuance_liste": null,
+      "voix": 102,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "LAVOGEZ",
+        "prenom": "Patrick",
+        "nom_complet": "Patrick LAVOGEZ",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LAVOGEZ",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick LAVOGEZ",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "GRESSIER",
+          "prenom": "Jacqueline",
+          "nom_complet": "Jacqueline GRESSIER",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DEROLLEZ",
+          "prenom": "Christian",
+          "nom_complet": "Christian DEROLLEZ",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "KOSCIARZ",
+          "prenom": "Therese",
+          "nom_complet": "Therese KOSCIARZ",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DEROLLEZ",
+          "prenom": "Guillaume",
+          "nom_complet": "Guillaume DEROLLEZ",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LAMORT",
+          "prenom": "Corinne",
+          "nom_complet": "Corinne LAMORT",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "GRESSIER",
+          "prenom": "Alain",
+          "nom_complet": "Alain GRESSIER",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "VASSEUR",
+          "prenom": "Ludivine",
+          "nom_complet": "Ludivine VASSEUR",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "LEMAITRE",
+          "prenom": "Jean-Marc",
+          "nom_complet": "Jean-Marc LEMAITRE",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "VERDONCK",
+          "prenom": "Marie-France",
+          "nom_complet": "Marie-France VERDONCK",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "TALLEUX",
+          "prenom": "Arnaud",
+          "nom_complet": "Arnaud TALLEUX",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

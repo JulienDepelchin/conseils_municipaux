@@ -1,0 +1,131 @@
+{
+  "code_commune": "59448",
+  "commune": "Oost-Cappel",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "PORREYE",
+    "prenom": "Stéphanie",
+    "nom_complet": "Stéphanie PORREYE",
+    "age": 52,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 385,
+    "votants": 222,
+    "pct_votants": 57.66,
+    "abstentions": 163,
+    "pct_abstentions": 42.34,
+    "exprimes": 202
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Agissons ensemble pour notre village de demain",
+      "libelle_abrege_liste": "aepnvd",
+      "nuance_liste": null,
+      "voix": 202,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "PORREYE",
+        "prenom": "Stéphanie",
+        "nom_complet": "Stéphanie PORREYE",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "PORREYE",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie PORREYE",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "SOHIER",
+          "prenom": "Guillaume",
+          "nom_complet": "Guillaume SOHIER",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "MOSTAERT",
+          "prenom": "Claudine",
+          "nom_complet": "Claudine MOSTAERT",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "RANCHY",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent RANCHY",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "HAMEZ",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie HAMEZ",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "BOLLENGIER",
+          "prenom": "Jérémy",
+          "nom_complet": "Jérémy BOLLENGIER",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "VITEL",
+          "prenom": "Elisabeth",
+          "nom_complet": "Elisabeth VITEL",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "ROELS",
+          "prenom": "Moïse",
+          "nom_complet": "Moïse ROELS",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "VANBLEU",
+          "prenom": "Aurore",
+          "nom_complet": "Aurore VANBLEU",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DECROUE",
+          "prenom": "David",
+          "nom_complet": "David DECROUE",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "TEUF",
+          "prenom": "Marie",
+          "nom_complet": "Marie TEUF",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

@@ -1,0 +1,183 @@
+{
+  "code_commune": "59384",
+  "commune": "Maroilles",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "QUINZIN",
+    "prenom": "Dominique",
+    "nom_complet": "Dominique QUINZIN",
+    "age": 62,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1251,
+    "votants": 851,
+    "pct_votants": 68.03,
+    "abstentions": 400,
+    "pct_abstentions": 31.97,
+    "exprimes": 837
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "BIEN VIVRE A MAROILLES",
+      "libelle_abrege_liste": "BIEN VIVRE A MAROILLES",
+      "nuance_liste": null,
+      "voix": 701,
+      "pct_voix_exprimes": 83.75,
+      "sieges_cm": 14,
+      "sieges_cc": 2,
+      "nb_elus": 14,
+      "tete_de_liste": {
+        "nom": "QUINZIN",
+        "prenom": "Dominique",
+        "nom_complet": "Dominique QUINZIN",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "QUINZIN",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique QUINZIN",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DESOBLIN",
+          "prenom": "Chantal",
+          "nom_complet": "Chantal DESOBLIN",
+          "sexe": "F",
+          "age": 72,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "MOYSE",
+          "prenom": "Alain",
+          "nom_complet": "Alain MOYSE",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "FLAMENT",
+          "prenom": "Véronique",
+          "nom_complet": "Véronique FLAMENT",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "BERTAUX",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique BERTAUX",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "SCULFORT",
+          "prenom": "Anne-Juliette",
+          "nom_complet": "Anne-Juliette SCULFORT",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "SIONCKE",
+          "prenom": "Hervé",
+          "nom_complet": "Hervé SIONCKE",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "VAUBOURGEIX ALLIOT",
+          "prenom": "Camille",
+          "nom_complet": "Camille VAUBOURGEIX ALLIOT",
+          "sexe": "F",
+          "age": 26,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DREVET",
+          "prenom": "Cyril",
+          "nom_complet": "Cyril DREVET",
+          "sexe": "M",
+          "age": 34,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DEMARET",
+          "prenom": "Cécile",
+          "nom_complet": "Cécile DEMARET",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "RONCHIN",
+          "prenom": "Edouard",
+          "nom_complet": "Edouard RONCHIN",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "DELBRUYERE",
+          "prenom": "Véronique",
+          "nom_complet": "Véronique DELBRUYERE",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "AZAMBRE",
+          "prenom": "Daniel",
+          "nom_complet": "Daniel AZAMBRE",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "BEDENEL",
+          "prenom": "Françoise",
+          "nom_complet": "Françoise BEDENEL",
+          "sexe": "F",
+          "age": 70,
+          "rang_liste": "14"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "MAROILLES ENSEMBLE POUR UNE VILLE PROPRE, SURE ET BIEN GEREE",
+      "libelle_abrege_liste": "MAROILLES ENSEMBLE POUR UNE VILLE PROPRE, SURE ET BIEN GEREE",
+      "nuance_liste": null,
+      "voix": 136,
+      "pct_voix_exprimes": 16.25,
+      "sieges_cm": 1,
+      "sieges_cc": 0,
+      "nb_elus": 1,
+      "tete_de_liste": {
+        "nom": "NOIREAUX",
+        "prenom": "Franck",
+        "nom_complet": "Franck NOIREAUX",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "NOIREAUX",
+          "prenom": "Franck",
+          "nom_complet": "Franck NOIREAUX",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "1"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

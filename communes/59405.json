@@ -1,0 +1,131 @@
+{
+  "code_commune": "59405",
+  "commune": "Moeuvres",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "PLATAUX",
+    "prenom": "Damien",
+    "nom_complet": "Damien PLATAUX",
+    "age": 47,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 341,
+    "votants": 219,
+    "pct_votants": 64.22,
+    "abstentions": 122,
+    "pct_abstentions": 35.78,
+    "exprimes": 183
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Moeuvres Petit village Grande énergie",
+      "libelle_abrege_liste": "Moeuvres Petit village Grande énergie",
+      "nuance_liste": null,
+      "voix": 183,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "PLATAUX",
+        "prenom": "Damien",
+        "nom_complet": "Damien PLATAUX",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "PLATAUX",
+          "prenom": "Damien",
+          "nom_complet": "Damien PLATAUX",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "GUILLOT",
+          "prenom": "Marcelle",
+          "nom_complet": "Marcelle GUILLOT",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "SCAFURO",
+          "prenom": "Vincent",
+          "nom_complet": "Vincent SCAFURO",
+          "sexe": "M",
+          "age": 28,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BOULET",
+          "prenom": "Anne-Flore",
+          "nom_complet": "Anne-Flore BOULET",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "TERRASSE",
+          "prenom": "Antoine",
+          "nom_complet": "Antoine TERRASSE",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "MIONNET",
+          "prenom": "Julie",
+          "nom_complet": "Julie MIONNET",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "SOUFFLET",
+          "prenom": "Noah",
+          "nom_complet": "Noah SOUFFLET",
+          "sexe": "M",
+          "age": 18,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LEFEBVRE",
+          "prenom": "Noémie",
+          "nom_complet": "Noémie LEFEBVRE",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "PETIT",
+          "prenom": "Rudy",
+          "nom_complet": "Rudy PETIT",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "CAPPELAERE",
+          "prenom": "Marion",
+          "nom_complet": "Marion CAPPELAERE",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "SILVAIN",
+          "prenom": "Thibault",
+          "nom_complet": "Thibault SILVAIN",
+          "sexe": "M",
+          "age": 30,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "code_commune": "62673",
+  "commune": "Quéant",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "DARTUS",
+    "prenom": "Jérôme",
+    "nom_complet": "Jérôme DARTUS",
+    "age": 53,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 524,
+    "votants": 293,
+    "pct_votants": 55.92,
+    "abstentions": 231,
+    "pct_abstentions": 44.08,
+    "exprimes": 269
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "UNIS POUR FAIRE GRANDIR QUEANT",
+      "libelle_abrege_liste": "UNIS POUR FAIRE GRANDIR QUEANT",
+      "nuance_liste": null,
+      "voix": 269,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "DARTUS",
+        "prenom": "Jérôme",
+        "nom_complet": "Jérôme DARTUS",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DARTUS",
+          "prenom": "Jérôme",
+          "nom_complet": "Jérôme DARTUS",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "GRUMIAUX",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie GRUMIAUX",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "MIRAMONT",
+          "prenom": "Didier",
+          "nom_complet": "Didier MIRAMONT",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "PATRYAS",
+          "prenom": "Audrey",
+          "nom_complet": "Audrey PATRYAS",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "BENOIT",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier BENOIT",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DALUIN",
+          "prenom": "Caroline",
+          "nom_complet": "Caroline DALUIN",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DEVAUX",
+          "prenom": "Cédric",
+          "nom_complet": "Cédric DEVAUX",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DELASSUS",
+          "prenom": "Sandrine",
+          "nom_complet": "Sandrine DELASSUS",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "FERLIER",
+          "prenom": "Morgan",
+          "nom_complet": "Morgan FERLIER",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "GOUBET",
+          "prenom": "Véronique",
+          "nom_complet": "Véronique GOUBET",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "GOUBET",
+          "prenom": "Didier",
+          "nom_complet": "Didier GOUBET",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "PESIN",
+          "prenom": "Carole",
+          "nom_complet": "Carole PESIN",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "JAMROZ",
+          "prenom": "Jean-Marc",
+          "nom_complet": "Jean-Marc JAMROZ",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "ROZNIECKI",
+          "prenom": "Ludivine",
+          "nom_complet": "Ludivine ROZNIECKI",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "WALCZAK",
+          "prenom": "Ludovic",
+          "nom_complet": "Ludovic WALCZAK",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

@@ -1,0 +1,279 @@
+{
+  "code_commune": "59375",
+  "commune": "Marchiennes",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "MERLY",
+    "prenom": "Claude",
+    "nom_complet": "Claude MERLY",
+    "age": 68,
+    "nuance": "LDVD"
+  },
+  "resultats": {
+    "inscrits": 3702,
+    "votants": 2327,
+    "pct_votants": 62.86,
+    "abstentions": 1375,
+    "pct_abstentions": 37.14,
+    "exprimes": 2219
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "MARCHIENNES DE TOUTES LES FORCES",
+      "libelle_abrege_liste": "MARCHIENNES DE TOUTES LES FORCES",
+      "nuance_liste": "LDVD",
+      "voix": 1440,
+      "pct_voix_exprimes": 64.89,
+      "sieges_cm": 23,
+      "sieges_cc": 3,
+      "nb_elus": 23,
+      "tete_de_liste": {
+        "nom": "MERLY",
+        "prenom": "Claude",
+        "nom_complet": "Claude MERLY",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "MERLY",
+          "prenom": "Claude",
+          "nom_complet": "Claude MERLY",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "GOUPY",
+          "prenom": "Valérie",
+          "nom_complet": "Valérie GOUPY",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "MARTINEZ",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent MARTINEZ",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "HURIAU",
+          "prenom": "Carole",
+          "nom_complet": "Carole HURIAU",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DESCHODT",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe DESCHODT",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "NOTOT-GOS",
+          "prenom": "Cathy",
+          "nom_complet": "Cathy NOTOT-GOS",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "MIRAGLIA",
+          "prenom": "Donato",
+          "nom_complet": "Donato MIRAGLIA",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "KOPEC",
+          "prenom": "Catherine",
+          "nom_complet": "Catherine KOPEC",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "ROUSSEAU",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal ROUSSEAU",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "FERREIRA",
+          "prenom": "Frédérique",
+          "nom_complet": "Frédérique FERREIRA",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "BEAREZ",
+          "prenom": "Serge",
+          "nom_complet": "Serge BEAREZ",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "ROUSSELLE",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie ROUSSELLE",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "BERNARD",
+          "prenom": "Quentin",
+          "nom_complet": "Quentin BERNARD",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "DELANNOIS",
+          "prenom": "Mélanie",
+          "nom_complet": "Mélanie DELANNOIS",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "WOLICKI",
+          "prenom": "Raymond",
+          "nom_complet": "Raymond WOLICKI",
+          "sexe": "M",
+          "age": 75,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "SPARTY",
+          "prenom": "Sandrine",
+          "nom_complet": "Sandrine SPARTY",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "NOTOT",
+          "prenom": "Régis",
+          "nom_complet": "Régis NOTOT",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "LUPINO",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique LUPINO",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "RENARD",
+          "prenom": "Eric",
+          "nom_complet": "Eric RENARD",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "GARCIA",
+          "prenom": "Gwendoline",
+          "nom_complet": "Gwendoline GARCIA",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "HALLUIN",
+          "prenom": "Antoine",
+          "nom_complet": "Antoine HALLUIN",
+          "sexe": "M",
+          "age": 31,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "MASTROMONACO",
+          "prenom": "Agathe",
+          "nom_complet": "Agathe MASTROMONACO",
+          "sexe": "F",
+          "age": 27,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "HOURIEZ",
+          "prenom": "Fabrice",
+          "nom_complet": "Fabrice HOURIEZ",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "23"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "Marchiennes autrement avec toi",
+      "libelle_abrege_liste": "Marchiennes autrement avec toi",
+      "nuance_liste": "LDVC",
+      "voix": 779,
+      "pct_voix_exprimes": 35.11,
+      "sieges_cm": 4,
+      "sieges_cc": 1,
+      "nb_elus": 4,
+      "tete_de_liste": {
+        "nom": "OGER",
+        "prenom": "Jocelyn",
+        "nom_complet": "Jocelyn OGER",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "OGER",
+          "prenom": "Jocelyn",
+          "nom_complet": "Jocelyn OGER",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LECLEIRE",
+          "prenom": "Pascale",
+          "nom_complet": "Pascale LECLEIRE",
+          "sexe": "F",
+          "age": 73,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "MANGIN",
+          "prenom": "Arnaud",
+          "nom_complet": "Arnaud MANGIN",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DEJONGE",
+          "prenom": "Marie-Louise",
+          "nom_complet": "Marie-Louise DEJONGE",
+          "sexe": "F",
+          "age": 72,
+          "rang_liste": "4"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

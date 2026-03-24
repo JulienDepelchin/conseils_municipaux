@@ -1,0 +1,315 @@
+{
+  "code_commune": "59339",
+  "commune": "Leers",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "ROTSAERT",
+    "prenom": "Jérémy",
+    "nom_complet": "Jérémy ROTSAERT",
+    "age": 48,
+    "nuance": "LDVC"
+  },
+  "resultats": {
+    "inscrits": 8435,
+    "votants": 4351,
+    "pct_votants": 51.58,
+    "abstentions": 4084,
+    "pct_abstentions": 48.42,
+    "exprimes": 4211
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "VIVRE A LEERS - PROCHE DE VOUS",
+      "libelle_abrege_liste": "VAL - PDV",
+      "nuance_liste": "LDVC",
+      "voix": 2318,
+      "pct_voix_exprimes": 55.05,
+      "sieges_cm": 23,
+      "sieges_cc": 1,
+      "nb_elus": 23,
+      "tete_de_liste": {
+        "nom": "ROTSAERT",
+        "prenom": "Jérémy",
+        "nom_complet": "Jérémy ROTSAERT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "ROTSAERT",
+          "prenom": "Jérémy",
+          "nom_complet": "Jérémy ROTSAERT",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "SALOMEZ",
+          "prenom": "Marie",
+          "nom_complet": "Marie SALOMEZ",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LAMOITTE",
+          "prenom": "Patrice",
+          "nom_complet": "Patrice LAMOITTE",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "ROBERTS",
+          "prenom": "Mélanie",
+          "nom_complet": "Mélanie ROBERTS",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "PILLET",
+          "prenom": "Pierre",
+          "nom_complet": "Pierre PILLET",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "FRANÇOIS",
+          "prenom": "Christelle",
+          "nom_complet": "Christelle FRANÇOIS",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "LECONTE",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe LECONTE",
+          "sexe": "M",
+          "age": 77,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "PLUQUET",
+          "prenom": "Magali",
+          "nom_complet": "Magali PLUQUET",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "BOULAHOUACHE",
+          "prenom": "Kamel",
+          "nom_complet": "Kamel BOULAHOUACHE",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "LHOMME",
+          "prenom": "Muriel",
+          "nom_complet": "Muriel LHOMME",
+          "sexe": "F",
+          "age": 71,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "LEPERS",
+          "prenom": "Jean-Paul",
+          "nom_complet": "Jean-Paul LEPERS",
+          "sexe": "M",
+          "age": 74,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "ROSIERS",
+          "prenom": "Peggy",
+          "nom_complet": "Peggy ROSIERS",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "HALLO",
+          "prenom": "Valentin",
+          "nom_complet": "Valentin HALLO",
+          "sexe": "M",
+          "age": 32,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "CHEVALIER PLAYE",
+          "prenom": "Élise",
+          "nom_complet": "Élise CHEVALIER PLAYE",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "FONTAINE",
+          "prenom": "Grégory",
+          "nom_complet": "Grégory FONTAINE",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "VANSTRAESSELLE",
+          "prenom": "Camille",
+          "nom_complet": "Camille VANSTRAESSELLE",
+          "sexe": "F",
+          "age": 24,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "SEYS",
+          "prenom": "Éric",
+          "nom_complet": "Éric SEYS",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "DILLIES HARLÉ",
+          "prenom": "Ségolène",
+          "nom_complet": "Ségolène DILLIES HARLÉ",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "QUIEVREUX",
+          "prenom": "Arthur",
+          "nom_complet": "Arthur QUIEVREUX",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "LAGACHE DELEMEULE",
+          "prenom": "Marie-Alice",
+          "nom_complet": "Marie-Alice LAGACHE DELEMEULE",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "LEGRAND",
+          "prenom": "Bernard",
+          "nom_complet": "Bernard LEGRAND",
+          "sexe": "M",
+          "age": 78,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "VILLERS",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique VILLERS",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "GAILLET",
+          "prenom": "Cédric",
+          "nom_complet": "Cédric GAILLET",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "23"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "VITALISER LEERS",
+      "libelle_abrege_liste": "VITALISER LEERS",
+      "nuance_liste": "LUC",
+      "voix": 1147,
+      "pct_voix_exprimes": 27.24,
+      "sieges_cm": 4,
+      "sieges_cc": 0,
+      "nb_elus": 4,
+      "tete_de_liste": {
+        "nom": "JOHNSTON",
+        "prenom": "Mathieu",
+        "nom_complet": "Mathieu JOHNSTON",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "JOHNSTON",
+          "prenom": "Mathieu",
+          "nom_complet": "Mathieu JOHNSTON",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "VANDERMEIRSSCHE",
+          "prenom": "Christelle",
+          "nom_complet": "Christelle VANDERMEIRSSCHE",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BOURGOIS",
+          "prenom": "Daniel",
+          "nom_complet": "Daniel BOURGOIS",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "WATRELOT",
+          "prenom": "Angélique",
+          "nom_complet": "Angélique WATRELOT",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "4"
+        }
+      ],
+      "statut_conseil": "autre"
+    },
+    {
+      "num_panneau": "3",
+      "libelle_liste": "Goupement Leersois d'Action Municipale (GLAM)",
+      "libelle_abrege_liste": "Goupement Leersois d'Action Municipale GLAM",
+      "nuance_liste": "LDVC",
+      "voix": 746,
+      "pct_voix_exprimes": 17.72,
+      "sieges_cm": 2,
+      "sieges_cc": 0,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "FURNARI",
+        "prenom": "Carmelo",
+        "nom_complet": "Carmelo FURNARI",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "FURNARI",
+          "prenom": "Carmelo",
+          "nom_complet": "Carmelo FURNARI",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LEPLA",
+          "prenom": "Joëlle",
+          "nom_complet": "Joëlle LEPLA",
+          "sexe": "F",
+          "age": 71,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

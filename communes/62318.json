@@ -1,0 +1,347 @@
+{
+  "code_commune": "62318",
+  "commune": "Etaples",
+  "departement": "Pas-de-Calais",
+  "tour": "T2",
+  "maire": {
+    "nom": "BAILLET",
+    "prenom": "Sébastien",
+    "nom_complet": "Sébastien BAILLET",
+    "age": 52,
+    "nuance": "LDIV"
+  },
+  "resultats": {
+    "inscrits": 8034,
+    "votants": 5268,
+    "pct_votants": 65.57,
+    "abstentions": 2766,
+    "pct_abstentions": 34.43,
+    "exprimes": 5191
+  },
+  "listes": [
+    {
+      "num_panneau": "3",
+      "libelle_liste": "ÉTAPLES-SUR-MER PASSIONNÉMENT",
+      "libelle_abrege_liste": "ÉTAPLES-SUR-MER PASSIONNÉMENT",
+      "nuance_liste": "LDIV",
+      "voix": 2184,
+      "pct_voix_exprimes": 42.07,
+      "sieges_cm": 24,
+      "sieges_cc": 8,
+      "nb_elus": 24,
+      "tete_de_liste": {
+        "nom": "BAILLET",
+        "prenom": "Sébastien",
+        "nom_complet": "Sébastien BAILLET",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BAILLET",
+          "prenom": "Sébastien",
+          "nom_complet": "Sébastien BAILLET",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "TILLIER",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie TILLIER",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BONVOISIN",
+          "prenom": "René",
+          "nom_complet": "René BONVOISIN",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "WACOGNE",
+          "prenom": "Aurore",
+          "nom_complet": "Aurore WACOGNE",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LEPRÊTRE",
+          "prenom": "Emmanuel",
+          "nom_complet": "Emmanuel LEPRÊTRE",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "POMMIER",
+          "prenom": "Marie-José",
+          "nom_complet": "Marie-José POMMIER",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "HAGNERÉ",
+          "prenom": "Damien",
+          "nom_complet": "Damien HAGNERÉ",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "PHILIPPOT",
+          "prenom": "Loëtitia",
+          "nom_complet": "Loëtitia PHILIPPOT",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "RAMET",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe RAMET",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "LEPRÊTRE",
+          "prenom": "Pauline",
+          "nom_complet": "Pauline LEPRÊTRE",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "GOSSELIN",
+          "prenom": "Jean-Michel",
+          "nom_complet": "Jean-Michel GOSSELIN",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "ROUX",
+          "prenom": "Bérénice",
+          "nom_complet": "Bérénice ROUX",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "MATHIAS",
+          "prenom": "Serge",
+          "nom_complet": "Serge MATHIAS",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "BONVOISIN",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie BONVOISIN",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "LEPRÊTRE",
+          "prenom": "Régis",
+          "nom_complet": "Régis LEPRÊTRE",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "CALOIN",
+          "prenom": "Allison",
+          "nom_complet": "Allison CALOIN",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "RAMET",
+          "prenom": "Fabien",
+          "nom_complet": "Fabien RAMET",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "HENRIETTE",
+          "prenom": "Aurélie",
+          "nom_complet": "Aurélie HENRIETTE",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "HOLMES",
+          "prenom": "Arnaud",
+          "nom_complet": "Arnaud HOLMES",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "CATHERIN",
+          "prenom": "Athénaïs",
+          "nom_complet": "Athénaïs CATHERIN",
+          "sexe": "F",
+          "age": 19,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "CARALP",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe CARALP",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "ELYSÉ",
+          "prenom": "Andréa",
+          "nom_complet": "Andréa ELYSÉ",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "WAROT",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent WAROT",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "23"
+        },
+        {
+          "nom": "LOTH",
+          "prenom": "Cécile",
+          "nom_complet": "Cécile LOTH",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "24"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "UNIS POUR L'AVENIR D'ETAPLES-SUR-MER",
+      "libelle_abrege_liste": "UNIS POUR L'AVENIR D'ETAPLES-SUR-MER",
+      "nuance_liste": "LDVD",
+      "voix": 1940,
+      "pct_voix_exprimes": 37.37,
+      "sieges_cm": 6,
+      "sieges_cc": 2,
+      "nb_elus": 6,
+      "tete_de_liste": {
+        "nom": "TINDILLER",
+        "prenom": "Franck",
+        "nom_complet": "Franck TINDILLER",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "TINDILLER",
+          "prenom": "Franck",
+          "nom_complet": "Franck TINDILLER",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "ROSSIGNOL",
+          "prenom": "Caroline",
+          "nom_complet": "Caroline ROSSIGNOL",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "CAUX",
+          "prenom": "Franck",
+          "nom_complet": "Franck CAUX",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "WACOGNE-RAMET",
+          "prenom": "Mélanie",
+          "nom_complet": "Mélanie WACOGNE-RAMET",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LANQUETIN",
+          "prenom": "Charles",
+          "nom_complet": "Charles LANQUETIN",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "MAILLART",
+          "prenom": "Maryse",
+          "nom_complet": "Maryse MAILLART",
+          "sexe": "F",
+          "age": 71,
+          "rang_liste": "6"
+        }
+      ],
+      "statut_conseil": "autre"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ETAPLES EN GRAND",
+      "libelle_abrege_liste": "ETAPLES EN GRAND",
+      "nuance_liste": "LDIV",
+      "voix": 1067,
+      "pct_voix_exprimes": 20.55,
+      "sieges_cm": 3,
+      "sieges_cc": 1,
+      "nb_elus": 3,
+      "tete_de_liste": {
+        "nom": "BERRIER",
+        "prenom": "Paul",
+        "nom_complet": "Paul BERRIER",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BERRIER",
+          "prenom": "Paul",
+          "nom_complet": "Paul BERRIER",
+          "sexe": "M",
+          "age": 27,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DHALENNE",
+          "prenom": "Brigitte",
+          "nom_complet": "Brigitte DHALENNE",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "RAMET",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique RAMET",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "3"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

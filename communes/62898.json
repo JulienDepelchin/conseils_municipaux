@@ -1,0 +1,131 @@
+{
+  "code_commune": "62898",
+  "commune": "Wisques",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "CLABAUT",
+    "prenom": "Romuald",
+    "nom_complet": "Romuald CLABAUT",
+    "age": 52,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 194,
+    "votants": 132,
+    "pct_votants": 68.04,
+    "abstentions": 62,
+    "pct_abstentions": 31.96,
+    "exprimes": 124
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Wisques s'écrit ensemble !",
+      "libelle_abrege_liste": "Wisques s'écrit ensemble !",
+      "nuance_liste": null,
+      "voix": 124,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "CLABAUT",
+        "prenom": "Romuald",
+        "nom_complet": "Romuald CLABAUT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "CLABAUT",
+          "prenom": "Romuald",
+          "nom_complet": "Romuald CLABAUT",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LENGAIGNE",
+          "prenom": "Geneviève",
+          "nom_complet": "Geneviève LENGAIGNE",
+          "sexe": "F",
+          "age": 76,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "MURRAY",
+          "prenom": "Raphaël",
+          "nom_complet": "Raphaël MURRAY",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "CHIQUET",
+          "prenom": "Bernadette",
+          "nom_complet": "Bernadette CHIQUET",
+          "sexe": "F",
+          "age": 74,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "CHALLON",
+          "prenom": "Thierry",
+          "nom_complet": "Thierry CHALLON",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "FONTAINE",
+          "prenom": "Audrey",
+          "nom_complet": "Audrey FONTAINE",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "CHEVREAU",
+          "prenom": "Eric",
+          "nom_complet": "Eric CHEVREAU",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "GHIDOSSI",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie GHIDOSSI",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "EVRARD",
+          "prenom": "Bernard",
+          "nom_complet": "Bernard EVRARD",
+          "sexe": "M",
+          "age": 75,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "LAMBRETH",
+          "prenom": "Daniele",
+          "nom_complet": "Daniele LAMBRETH",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "LEHOUX",
+          "prenom": "Antoine",
+          "nom_complet": "Antoine LEHOUX",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

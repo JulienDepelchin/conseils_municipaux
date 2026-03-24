@@ -1,0 +1,183 @@
+{
+  "code_commune": "62714",
+  "commune": "Roclincourt",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "MOULIN",
+    "prenom": "Thierry",
+    "nom_complet": "Thierry MOULIN",
+    "age": 61,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 698,
+    "votants": 555,
+    "pct_votants": 79.51,
+    "abstentions": 143,
+    "pct_abstentions": 20.49,
+    "exprimes": 544
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "Unis, continuons d'agir",
+      "libelle_abrege_liste": "Unis, continuons d'agir",
+      "nuance_liste": null,
+      "voix": 399,
+      "pct_voix_exprimes": 73.35,
+      "sieges_cm": 13,
+      "sieges_cc": null,
+      "nb_elus": 13,
+      "tete_de_liste": {
+        "nom": "MOULIN",
+        "prenom": "Thierry",
+        "nom_complet": "Thierry MOULIN",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "MOULIN",
+          "prenom": "Thierry",
+          "nom_complet": "Thierry MOULIN",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DELAIRE",
+          "prenom": "Cathy",
+          "nom_complet": "Cathy DELAIRE",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "PLONCZAK",
+          "prenom": "Ludovic",
+          "nom_complet": "Ludovic PLONCZAK",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "HURET",
+          "prenom": "Carole",
+          "nom_complet": "Carole HURET",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "BOUDRINGHIN",
+          "prenom": "Richard",
+          "nom_complet": "Richard BOUDRINGHIN",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DESRUMAUX",
+          "prenom": "Regine",
+          "nom_complet": "Regine DESRUMAUX",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "MARIMOUTOU",
+          "prenom": "Franckies",
+          "nom_complet": "Franckies MARIMOUTOU",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "MARTIN",
+          "prenom": "Blandine",
+          "nom_complet": "Blandine MARTIN",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DELATTRE",
+          "prenom": "Robert",
+          "nom_complet": "Robert DELATTRE",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "GIRARDET-CAPELLE",
+          "prenom": "Audrey",
+          "nom_complet": "Audrey GIRARDET-CAPELLE",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DELÉCOLLE",
+          "prenom": "Francis",
+          "nom_complet": "Francis DELÉCOLLE",
+          "sexe": "M",
+          "age": 77,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "PALASZ",
+          "prenom": "Patience",
+          "nom_complet": "Patience PALASZ",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "KARASIEWICZ",
+          "prenom": "Thomas",
+          "nom_complet": "Thomas KARASIEWICZ",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "13"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ENSEMBLE POUR DEMAIN",
+      "libelle_abrege_liste": "ENSEMBLE POUR DEMAIN",
+      "nuance_liste": null,
+      "voix": 145,
+      "pct_voix_exprimes": 26.65,
+      "sieges_cm": 2,
+      "sieges_cc": null,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "DEMUYNCK",
+        "prenom": "Christophe",
+        "nom_complet": "Christophe DEMUYNCK",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DEMUYNCK",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe DEMUYNCK",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "NEVEU",
+          "prenom": "Laëtitia",
+          "nom_complet": "Laëtitia NEVEU",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

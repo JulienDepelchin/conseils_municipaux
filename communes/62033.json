@@ -1,0 +1,299 @@
+{
+  "code_commune": "62033",
+  "commune": "Annay",
+  "departement": "Pas-de-Calais",
+  "tour": "T2",
+  "maire": {
+    "nom": "KUSNIREK",
+    "prenom": "David",
+    "nom_complet": "David KUSNIREK",
+    "age": 55,
+    "nuance": "LECO"
+  },
+  "resultats": {
+    "inscrits": 3382,
+    "votants": 2114,
+    "pct_votants": 62.51,
+    "abstentions": 1268,
+    "pct_abstentions": 37.49,
+    "exprimes": 2041
+  },
+  "listes": [
+    {
+      "num_panneau": "4",
+      "libelle_liste": "L'AVENIR D'ANNAY ENTRE VOS MAINS",
+      "libelle_abrege_liste": "L'AVENIR D'ANNAY ENTRE VOS MAINS",
+      "nuance_liste": "LECO",
+      "voix": 1117,
+      "pct_voix_exprimes": 54.73,
+      "sieges_cm": 22,
+      "sieges_cc": 2,
+      "nb_elus": 22,
+      "tete_de_liste": {
+        "nom": "KUSNIREK",
+        "prenom": "David",
+        "nom_complet": "David KUSNIREK",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "KUSNIREK",
+          "prenom": "David",
+          "nom_complet": "David KUSNIREK",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DUSSOSSOY",
+          "prenom": "Annick",
+          "nom_complet": "Annick DUSSOSSOY",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BONARDEL",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal BONARDEL",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "VILCOT",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie VILCOT",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "SAMBON",
+          "prenom": "Sullivan",
+          "nom_complet": "Sullivan SAMBON",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "GOUY",
+          "prenom": "Lucienne",
+          "nom_complet": "Lucienne GOUY",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "APRILE",
+          "prenom": "Mathieu",
+          "nom_complet": "Mathieu APRILE",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "CARTON",
+          "prenom": "Myriam",
+          "nom_complet": "Myriam CARTON",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "TOURNEMINE",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe TOURNEMINE",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "LEROY",
+          "prenom": "Nadine",
+          "nom_complet": "Nadine LEROY",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "BILLET",
+          "prenom": "Hervé",
+          "nom_complet": "Hervé BILLET",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "GOUSSEN",
+          "prenom": "Véronique",
+          "nom_complet": "Véronique GOUSSEN",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "MARTIN",
+          "prenom": "Eric",
+          "nom_complet": "Eric MARTIN",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "AIT KEDDOUR",
+          "prenom": "Sabrina",
+          "nom_complet": "Sabrina AIT KEDDOUR",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "PRZYBYSZ",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno PRZYBYSZ",
+          "sexe": "M",
+          "age": 34,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "DELACOURT",
+          "prenom": "Martine",
+          "nom_complet": "Martine DELACOURT",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "RIVIERE",
+          "prenom": "Thomas",
+          "nom_complet": "Thomas RIVIERE",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "LENTREMY",
+          "prenom": "Célina",
+          "nom_complet": "Célina LENTREMY",
+          "sexe": "F",
+          "age": 23,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "FELGUEIRAS",
+          "prenom": "Anthony",
+          "nom_complet": "Anthony FELGUEIRAS",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "BOCHU",
+          "prenom": "Béatrice",
+          "nom_complet": "Béatrice BOCHU",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "LESIRE",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal LESIRE",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "GUILMAIN",
+          "prenom": "Cassandra",
+          "nom_complet": "Cassandra GUILMAIN",
+          "sexe": "F",
+          "age": 30,
+          "rang_liste": "22"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "3",
+      "libelle_liste": "LISTE DE RASSEMBLEMENT UNION ANNAYSIENNE-CHANGER VRAIMENT",
+      "libelle_abrege_liste": "LISTE DE RASSEMBLEMENT UNION ANNAYSIENNE-CHANGER VRAIMENT",
+      "nuance_liste": "LDVG",
+      "voix": 646,
+      "pct_voix_exprimes": 31.65,
+      "sieges_cm": 4,
+      "sieges_cc": 0,
+      "nb_elus": 4,
+      "tete_de_liste": {
+        "nom": "TERLAT",
+        "prenom": "Yves",
+        "nom_complet": "Yves TERLAT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "TERLAT",
+          "prenom": "Yves",
+          "nom_complet": "Yves TERLAT",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "CRETEUR",
+          "prenom": "Hélène",
+          "nom_complet": "Hélène CRETEUR",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DANCOISNE",
+          "prenom": "Albert",
+          "nom_complet": "Albert DANCOISNE",
+          "sexe": "M",
+          "age": 74,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DESCAMPS",
+          "prenom": "Magalie",
+          "nom_complet": "Magalie DESCAMPS",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "4"
+        }
+      ],
+      "statut_conseil": "autre"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ENSEMBLE REVEILLONS ANNAY",
+      "libelle_abrege_liste": "ENSEMBLE REVEILLONS ANNAY",
+      "nuance_liste": "LDVG",
+      "voix": 278,
+      "pct_voix_exprimes": 13.62,
+      "sieges_cm": 1,
+      "sieges_cc": 0,
+      "nb_elus": 1,
+      "tete_de_liste": {
+        "nom": "CAMPEL",
+        "prenom": "Pascal",
+        "nom_complet": "Pascal CAMPEL",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "CAMPEL",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal CAMPEL",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "1"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

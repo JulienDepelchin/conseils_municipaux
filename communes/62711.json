@@ -1,0 +1,227 @@
+{
+  "code_commune": "62711",
+  "commune": "Rinxent",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "LOEUILLET",
+    "prenom": "Nicolas",
+    "nom_complet": "Nicolas LOEUILLET",
+    "age": 41,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 2394,
+    "votants": 1123,
+    "pct_votants": 46.91,
+    "abstentions": 1271,
+    "pct_abstentions": 53.09,
+    "exprimes": 1004
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "CONTINUONS ENSEMBLE",
+      "libelle_abrege_liste": "CONTINUONS ENSEMBLE",
+      "nuance_liste": null,
+      "voix": 1004,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 23,
+      "sieges_cc": 5,
+      "nb_elus": 23,
+      "tete_de_liste": {
+        "nom": "LOEUILLET",
+        "prenom": "Nicolas",
+        "nom_complet": "Nicolas LOEUILLET",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LOEUILLET",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas LOEUILLET",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "CARON",
+          "prenom": "Béatrice",
+          "nom_complet": "Béatrice CARON",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DELANNOY",
+          "prenom": "Alain",
+          "nom_complet": "Alain DELANNOY",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LELEU",
+          "prenom": "Lucie",
+          "nom_complet": "Lucie LELEU",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "PENEL",
+          "prenom": "Emmanuel",
+          "nom_complet": "Emmanuel PENEL",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "BARBAZON",
+          "prenom": "Nadège",
+          "nom_complet": "Nadège BARBAZON",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "WIMET",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe WIMET",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "VIDOR",
+          "prenom": "Anne-Sophie",
+          "nom_complet": "Anne-Sophie VIDOR",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "LENGAGNE",
+          "prenom": "Bernard",
+          "nom_complet": "Bernard LENGAGNE",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DEHOUCK",
+          "prenom": "Claire",
+          "nom_complet": "Claire DEHOUCK",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "TREHOU",
+          "prenom": "Guillaume",
+          "nom_complet": "Guillaume TREHOU",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "BRUNET",
+          "prenom": "Ludivine",
+          "nom_complet": "Ludivine BRUNET",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "VIANDIER",
+          "prenom": "Ludovic",
+          "nom_complet": "Ludovic VIANDIER",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "DREUILLET",
+          "prenom": "Agnès",
+          "nom_complet": "Agnès DREUILLET",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "PARIS",
+          "prenom": "Jérémy",
+          "nom_complet": "Jérémy PARIS",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "MERLOT",
+          "prenom": "Virginie",
+          "nom_complet": "Virginie MERLOT",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "POURE",
+          "prenom": "Kenjy",
+          "nom_complet": "Kenjy POURE",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "TONUS-PERSYN",
+          "prenom": "Lucile",
+          "nom_complet": "Lucile TONUS-PERSYN",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "BOURDON",
+          "prenom": "Bernard",
+          "nom_complet": "Bernard BOURDON",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "ROCHEFORT",
+          "prenom": "Emilie",
+          "nom_complet": "Emilie ROCHEFORT",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "CHOQUEL",
+          "prenom": "Guillaume",
+          "nom_complet": "Guillaume CHOQUEL",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "VASSEUR",
+          "prenom": "Irène",
+          "nom_complet": "Irène VASSEUR",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "QUEVAL",
+          "prenom": "Hervé",
+          "nom_complet": "Hervé QUEVAL",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "23"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

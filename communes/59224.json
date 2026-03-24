@@ -1,0 +1,215 @@
+{
+  "code_commune": "59224",
+  "commune": "Féchain",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "CHARLET",
+    "prenom": "Sylvain",
+    "nom_complet": "Sylvain CHARLET",
+    "age": 64,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1312,
+    "votants": 777,
+    "pct_votants": 59.22,
+    "abstentions": 535,
+    "pct_abstentions": 40.78,
+    "exprimes": 744
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "Féchain, avec vous, pour vous",
+      "libelle_abrege_liste": "Féchain, avec vous, pour vous",
+      "nuance_liste": null,
+      "voix": 592,
+      "pct_voix_exprimes": 79.57,
+      "sieges_cm": 17,
+      "sieges_cc": 1,
+      "nb_elus": 17,
+      "tete_de_liste": {
+        "nom": "CHARLET",
+        "prenom": "Sylvain",
+        "nom_complet": "Sylvain CHARLET",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "CHARLET",
+          "prenom": "Sylvain",
+          "nom_complet": "Sylvain CHARLET",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "JASPART",
+          "prenom": "Mariannick",
+          "nom_complet": "Mariannick JASPART",
+          "sexe": "F",
+          "age": 73,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "HOCHART",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique HOCHART",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "VITEZ",
+          "prenom": "Céline",
+          "nom_complet": "Céline VITEZ",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DELILLE",
+          "prenom": "Didier",
+          "nom_complet": "Didier DELILLE",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "BERNARD",
+          "prenom": "Françoise",
+          "nom_complet": "Françoise BERNARD",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "JASPART",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal JASPART",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "VANHAELEWYN",
+          "prenom": "Patricia",
+          "nom_complet": "Patricia VANHAELEWYN",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DESSERY",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe DESSERY",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DELCOURT",
+          "prenom": "Bernadette",
+          "nom_complet": "Bernadette DELCOURT",
+          "sexe": "F",
+          "age": 72,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "POPLAWSKI",
+          "prenom": "Hervé",
+          "nom_complet": "Hervé POPLAWSKI",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "BOTTE",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie BOTTE",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "SIMINSKI",
+          "prenom": "Loïc",
+          "nom_complet": "Loïc SIMINSKI",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "DELILLE",
+          "prenom": "Marie-Agnès",
+          "nom_complet": "Marie-Agnès DELILLE",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "MORET",
+          "prenom": "Alexandre",
+          "nom_complet": "Alexandre MORET",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "TETAR",
+          "prenom": "Camille",
+          "nom_complet": "Camille TETAR",
+          "sexe": "F",
+          "age": 24,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "VOLCKCRICK",
+          "prenom": "Eric",
+          "nom_complet": "Eric VOLCKCRICK",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "17"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "FECHAIN LE RASSEMBLEMENT 2026",
+      "libelle_abrege_liste": "FECHAIN LE RASSEMBLEMENT 2026",
+      "nuance_liste": null,
+      "voix": 152,
+      "pct_voix_exprimes": 20.43,
+      "sieges_cm": 2,
+      "sieges_cc": 0,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "PETAIN",
+        "prenom": "Yves",
+        "nom_complet": "Yves PETAIN",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "PETAIN",
+          "prenom": "Yves",
+          "nom_complet": "Yves PETAIN",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "SCHROEYERS",
+          "prenom": "Laurence",
+          "nom_complet": "Laurence SCHROEYERS",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

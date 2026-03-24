@@ -1,0 +1,195 @@
+{
+  "code_commune": "59297",
+  "commune": "Hélesmes",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "HUGUES",
+    "prenom": "Stéphanie",
+    "nom_complet": "Stéphanie HUGUES",
+    "age": 50,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1426,
+    "votants": 850,
+    "pct_votants": 59.61,
+    "abstentions": 576,
+    "pct_abstentions": 40.39,
+    "exprimes": 782
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "HÉLESMES A DU TALENT, POURSUIVONS NOTRE ENGAGEMENT !",
+      "libelle_abrege_liste": "HÉLESMES A DU TALENT, POURSUIVONS NOTRE ENGAGEMENT !",
+      "nuance_liste": null,
+      "voix": 782,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 19,
+      "sieges_cc": 1,
+      "nb_elus": 19,
+      "tete_de_liste": {
+        "nom": "HUGUES",
+        "prenom": "Stéphanie",
+        "nom_complet": "Stéphanie HUGUES",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "HUGUES",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie HUGUES",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LARCANCHÉ",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas LARCANCHÉ",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DEDISE",
+          "prenom": "Christine",
+          "nom_complet": "Christine DEDISE",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "PIGOZZI",
+          "prenom": "Sébastien",
+          "nom_complet": "Sébastien PIGOZZI",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DEBERDT",
+          "prenom": "Josette",
+          "nom_complet": "Josette DEBERDT",
+          "sexe": "F",
+          "age": 75,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "MAROUSEZ",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier MAROUSEZ",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BAUDRY",
+          "prenom": "Aurélie",
+          "nom_complet": "Aurélie BAUDRY",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "ROUSSEAUX",
+          "prenom": "Bernard",
+          "nom_complet": "Bernard ROUSSEAUX",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "SONNAERT",
+          "prenom": "Véronique",
+          "nom_complet": "Véronique SONNAERT",
+          "sexe": "F",
+          "age": 72,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DUPRET",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas DUPRET",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "VERMEULEN",
+          "prenom": "Orane",
+          "nom_complet": "Orane VERMEULEN",
+          "sexe": "F",
+          "age": 21,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "BLEUSEZ",
+          "prenom": "Henri",
+          "nom_complet": "Henri BLEUSEZ",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "VARLEZ",
+          "prenom": "Laetitia",
+          "nom_complet": "Laetitia VARLEZ",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "LOOSE",
+          "prenom": "Alexandre",
+          "nom_complet": "Alexandre LOOSE",
+          "sexe": "M",
+          "age": 28,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "PRUZACK",
+          "prenom": "Anne-Sophie",
+          "nom_complet": "Anne-Sophie PRUZACK",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "LEFEBVRE",
+          "prenom": "David",
+          "nom_complet": "David LEFEBVRE",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "GAJDA",
+          "prenom": "Valérie",
+          "nom_complet": "Valérie GAJDA",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "FIEVEZ",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent FIEVEZ",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "STIEVET",
+          "prenom": "Christiane",
+          "nom_complet": "Christiane STIEVET",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "19"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

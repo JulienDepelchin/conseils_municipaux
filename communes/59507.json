@@ -1,0 +1,327 @@
+{
+  "code_commune": "59507",
+  "commune": "Ronchin",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "VANACKER",
+    "prenom": "Ulric",
+    "nom_complet": "Ulric VANACKER",
+    "age": 50,
+    "nuance": "LDVG"
+  },
+  "resultats": {
+    "inscrits": 12628,
+    "votants": 6310,
+    "pct_votants": 49.97,
+    "abstentions": 6318,
+    "pct_abstentions": 50.03,
+    "exprimes": 6010
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "PROTEGER & SOUTENIR AVEC ULRIC VANACKER",
+      "libelle_abrege_liste": "PROTEGER & SOUTENIR AVEC ULRIC VANACKER",
+      "nuance_liste": "LDVG",
+      "voix": 3107,
+      "pct_voix_exprimes": 51.7,
+      "sieges_cm": 25,
+      "sieges_cc": 2,
+      "nb_elus": 25,
+      "tete_de_liste": {
+        "nom": "VANACKER",
+        "prenom": "Ulric",
+        "nom_complet": "Ulric VANACKER",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "VANACKER",
+          "prenom": "Ulric",
+          "nom_complet": "Ulric VANACKER",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "AMMEUX MINGUET",
+          "prenom": "Aurelie",
+          "nom_complet": "Aurelie AMMEUX MINGUET",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DUPRE",
+          "prenom": "Frederic",
+          "nom_complet": "Frederic DUPRE",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "HOFLACK",
+          "prenom": "Beatrice",
+          "nom_complet": "Beatrice HOFLACK",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "ESTIEVENART",
+          "prenom": "Claude",
+          "nom_complet": "Claude ESTIEVENART",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "WEYENBERGH",
+          "prenom": "Therese",
+          "nom_complet": "Therese WEYENBERGH",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DELAHAYE",
+          "prenom": "Benjamin",
+          "nom_complet": "Benjamin DELAHAYE",
+          "sexe": "M",
+          "age": 34,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DELACROIX",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle DELACROIX",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "ADAMSKI",
+          "prenom": "Maxime",
+          "nom_complet": "Maxime ADAMSKI",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "AMOURI",
+          "prenom": "Meriem",
+          "nom_complet": "Meriem AMOURI",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "LERUSTE",
+          "prenom": "Georges",
+          "nom_complet": "Georges LERUSTE",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "DUROT",
+          "prenom": "Celine",
+          "nom_complet": "Celine DUROT",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "GIMENEZ",
+          "prenom": "Francois",
+          "nom_complet": "Francois GIMENEZ",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "DIMUS",
+          "prenom": "Sarah",
+          "nom_complet": "Sarah DIMUS",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "DUFORET",
+          "prenom": "Enzo",
+          "nom_complet": "Enzo DUFORET",
+          "sexe": "M",
+          "age": 23,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "PLUNIAN",
+          "prenom": "Celine",
+          "nom_complet": "Celine PLUNIAN",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "BOUMEZLAG",
+          "prenom": "Boubeker",
+          "nom_complet": "Boubeker BOUMEZLAG",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "LAURIER",
+          "prenom": "Perrine",
+          "nom_complet": "Perrine LAURIER",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "MEBARKIA",
+          "prenom": "Abdel Halim",
+          "nom_complet": "Abdel Halim MEBARKIA",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "CURNELLE",
+          "prenom": "Stephanie",
+          "nom_complet": "Stephanie CURNELLE",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "DEBACKERE",
+          "prenom": "Gregory",
+          "nom_complet": "Gregory DEBACKERE",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "GUERVAIN",
+          "prenom": "Justine",
+          "nom_complet": "Justine GUERVAIN",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "BERNARD",
+          "prenom": "Antoine",
+          "nom_complet": "Antoine BERNARD",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "23"
+        },
+        {
+          "nom": "DUPONT",
+          "prenom": "Marie",
+          "nom_complet": "Marie DUPONT",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "24"
+        },
+        {
+          "nom": "LE FRIEC",
+          "prenom": "Edouard",
+          "nom_complet": "Edouard LE FRIEC",
+          "sexe": "M",
+          "age": 24,
+          "rang_liste": "25"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "Unis pour Ronchin",
+      "libelle_abrege_liste": "Unis pour Ronchin",
+      "nuance_liste": "LUG",
+      "voix": 2903,
+      "pct_voix_exprimes": 48.3,
+      "sieges_cm": 8,
+      "sieges_cc": 0,
+      "nb_elus": 8,
+      "tete_de_liste": {
+        "nom": "KEBDANI",
+        "prenom": "Damien",
+        "nom_complet": "Damien KEBDANI",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "KEBDANI",
+          "prenom": "Damien",
+          "nom_complet": "Damien KEBDANI",
+          "sexe": "M",
+          "age": 32,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DRAPIER",
+          "prenom": "Virginie",
+          "nom_complet": "Virginie DRAPIER",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "MECHOUEK",
+          "prenom": "Massinissa",
+          "nom_complet": "Massinissa MECHOUEK",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "CELET",
+          "prenom": "Maureen",
+          "nom_complet": "Maureen CELET",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DEMEULEMEESTER",
+          "prenom": "Joseph",
+          "nom_complet": "Joseph DEMEULEMEESTER",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "PIERRE-RENARD",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique PIERRE-RENARD",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BRETON",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas BRETON",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "MONTREUIL",
+          "prenom": "Estelle",
+          "nom_complet": "Estelle MONTREUIL",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "8"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

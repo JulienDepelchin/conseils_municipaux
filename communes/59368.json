@@ -1,0 +1,363 @@
+{
+  "code_commune": "59368",
+  "commune": "La Madeleine",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "LEPRÊTRE",
+    "prenom": "Sébastien",
+    "nom_complet": "Sébastien LEPRÊTRE",
+    "age": 55,
+    "nuance": "LDVD"
+  },
+  "resultats": {
+    "inscrits": 15972,
+    "votants": 8325,
+    "pct_votants": 52.12,
+    "abstentions": 7647,
+    "pct_abstentions": 47.88,
+    "exprimes": 8212
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "LA MADELEINE CE LIEN ENTRE NOUS",
+      "libelle_abrege_liste": "LA MADELEINE CE LIEN ENTRE NOUS",
+      "nuance_liste": "LDVD",
+      "voix": 4153,
+      "pct_voix_exprimes": 50.57,
+      "sieges_cm": 27,
+      "sieges_cc": 2,
+      "nb_elus": 27,
+      "tete_de_liste": {
+        "nom": "LEPRÊTRE",
+        "prenom": "Sébastien",
+        "nom_complet": "Sébastien LEPRÊTRE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LEPRÊTRE",
+          "prenom": "Sébastien",
+          "nom_complet": "Sébastien LEPRÊTRE",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "MONIOT",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie MONIOT",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "GALIAY",
+          "prenom": "Artus",
+          "nom_complet": "Artus GALIAY",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "NIELOUD",
+          "prenom": "Mélanie",
+          "nom_complet": "Mélanie NIELOUD",
+          "sexe": "F",
+          "age": 32,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "COLSON",
+          "prenom": "Pierre",
+          "nom_complet": "Pierre COLSON",
+          "sexe": "M",
+          "age": 31,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "POULLIE",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie POULLIE",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BOURSIQUOT",
+          "prenom": "David",
+          "nom_complet": "David BOURSIQUOT",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "REMY",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique REMY",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "BRONSART",
+          "prenom": "François",
+          "nom_complet": "François BRONSART",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "LE ROY",
+          "prenom": "Céline",
+          "nom_complet": "Céline LE ROY",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "ROBIN",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier ROBIN",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "COLIN",
+          "prenom": "Virginie",
+          "nom_complet": "Virginie COLIN",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "SINGER",
+          "prenom": "Martial",
+          "nom_complet": "Martial SINGER",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "FAUCON",
+          "prenom": "Caroline",
+          "nom_complet": "Caroline FAUCON",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "DELAVAL",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier DELAVAL",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "BRICHET",
+          "prenom": "Céline",
+          "nom_complet": "Céline BRICHET",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "SAMSON",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier SAMSON",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "MARTIN",
+          "prenom": "Charlotte",
+          "nom_complet": "Charlotte MARTIN",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "ZIZA",
+          "prenom": "Eryck",
+          "nom_complet": "Eryck ZIZA",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "SENSE",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle SENSE",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "POUTRAIN",
+          "prenom": "Arnaud",
+          "nom_complet": "Arnaud POUTRAIN",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "TELLIER",
+          "prenom": "Doriane",
+          "nom_complet": "Doriane TELLIER",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "LAURENT",
+          "prenom": "Quentin",
+          "nom_complet": "Quentin LAURENT",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "23"
+        },
+        {
+          "nom": "LECLERCQ",
+          "prenom": "Sylvine",
+          "nom_complet": "Sylvine LECLERCQ",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "24"
+        },
+        {
+          "nom": "TYRAN",
+          "prenom": "François",
+          "nom_complet": "François TYRAN",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "25"
+        },
+        {
+          "nom": "FRÉTÉ-BLONDIN",
+          "prenom": "Mathilde",
+          "nom_complet": "Mathilde FRÉTÉ-BLONDIN",
+          "sexe": "F",
+          "age": 29,
+          "rang_liste": "26"
+        },
+        {
+          "nom": "FEDER",
+          "prenom": "Luc",
+          "nom_complet": "Luc FEDER",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "27"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "La Madeleine au Coeur de Demain",
+      "libelle_abrege_liste": "La Madeleine au Coeur de Demain",
+      "nuance_liste": "LDVC",
+      "voix": 2374,
+      "pct_voix_exprimes": 28.91,
+      "sieges_cm": 5,
+      "sieges_cc": 1,
+      "nb_elus": 5,
+      "tete_de_liste": {
+        "nom": "LONGUENESSE",
+        "prenom": "Justin",
+        "nom_complet": "Justin LONGUENESSE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LONGUENESSE",
+          "prenom": "Justin",
+          "nom_complet": "Justin LONGUENESSE",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "JEANNEAU",
+          "prenom": "Claire",
+          "nom_complet": "Claire JEANNEAU",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DEZOTEUX",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric DEZOTEUX",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "PETIT",
+          "prenom": "Valérie",
+          "nom_complet": "Valérie PETIT",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "FAUVET",
+          "prenom": "Jean",
+          "nom_complet": "Jean FAUVET",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "5"
+        }
+      ],
+      "statut_conseil": "autre"
+    },
+    {
+      "num_panneau": "3",
+      "libelle_liste": "La Madeleine Demain / Agir pour l'Avenir",
+      "libelle_abrege_liste": "La Madeleine Demain / Agir pour l'Avenir",
+      "nuance_liste": "LUG",
+      "voix": 1685,
+      "pct_voix_exprimes": 20.52,
+      "sieges_cm": 3,
+      "sieges_cc": 0,
+      "nb_elus": 3,
+      "tete_de_liste": {
+        "nom": "ROUSSEL",
+        "prenom": "Hélène",
+        "nom_complet": "Hélène ROUSSEL",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "ROUSSEL",
+          "prenom": "Hélène",
+          "nom_complet": "Hélène ROUSSEL",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "RINALDI",
+          "prenom": "Roberto",
+          "nom_complet": "Roberto RINALDI",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LACOSTE",
+          "prenom": "Marie Dominique",
+          "nom_complet": "Marie Dominique LACOSTE",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "3"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

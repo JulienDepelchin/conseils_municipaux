@@ -1,0 +1,163 @@
+{
+  "code_commune": "59432",
+  "commune": "Niergnies",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "GOSSELET-CAMBRAI",
+    "prenom": "Marjorie",
+    "nom_complet": "Marjorie GOSSELET-CAMBRAI",
+    "age": 53,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 425,
+    "votants": 304,
+    "pct_votants": 71.53,
+    "abstentions": 121,
+    "pct_abstentions": 28.47,
+    "exprimes": 287
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Bien vivre à Niergnies",
+      "libelle_abrege_liste": "Bien vivre à Niergnies",
+      "nuance_liste": null,
+      "voix": 287,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "GOSSELET-CAMBRAI",
+        "prenom": "Marjorie",
+        "nom_complet": "Marjorie GOSSELET-CAMBRAI",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "GOSSELET-CAMBRAI",
+          "prenom": "Marjorie",
+          "nom_complet": "Marjorie GOSSELET-CAMBRAI",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "SEGARD",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric SEGARD",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DENIMAL",
+          "prenom": "Brigitte",
+          "nom_complet": "Brigitte DENIMAL",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "VANESSE",
+          "prenom": "Damien",
+          "nom_complet": "Damien VANESSE",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LEBLANC",
+          "prenom": "Martine",
+          "nom_complet": "Martine LEBLANC",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "ANCKAER",
+          "prenom": "Michel",
+          "nom_complet": "Michel ANCKAER",
+          "sexe": "M",
+          "age": 85,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "MACE",
+          "prenom": "Marie-Françoise",
+          "nom_complet": "Marie-Françoise MACE",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "FAZENDA",
+          "prenom": "Luis",
+          "nom_complet": "Luis FAZENDA",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "MASSY",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle MASSY",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "COTTON",
+          "prenom": "Ludovic",
+          "nom_complet": "Ludovic COTTON",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "MOSCHKAU",
+          "prenom": "Roselyne",
+          "nom_complet": "Roselyne MOSCHKAU",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "FAGNON",
+          "prenom": "David",
+          "nom_complet": "David FAGNON",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "STOURBES",
+          "prenom": "Sophie",
+          "nom_complet": "Sophie STOURBES",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "NICOLAS",
+          "prenom": "Bertrand",
+          "nom_complet": "Bertrand NICOLAS",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "TOULLEC",
+          "prenom": "Séverine",
+          "nom_complet": "Séverine TOULLEC",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

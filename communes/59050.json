@@ -1,0 +1,151 @@
+{
+  "code_commune": "59050",
+  "commune": "Bas-Lieu",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "FRANÇOIS",
+    "prenom": "Ghislain",
+    "nom_complet": "Ghislain FRANÇOIS",
+    "age": 64,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 251,
+    "votants": 194,
+    "pct_votants": 77.29,
+    "abstentions": 57,
+    "pct_abstentions": 22.71,
+    "exprimes": 190
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "BAS LIEU POUR TOUS",
+      "libelle_abrege_liste": "BAS LIEU POUR TOUS",
+      "nuance_liste": null,
+      "voix": 142,
+      "pct_voix_exprimes": 74.74,
+      "sieges_cm": 10,
+      "sieges_cc": null,
+      "nb_elus": 10,
+      "tete_de_liste": {
+        "nom": "FRANÇOIS",
+        "prenom": "Ghislain",
+        "nom_complet": "Ghislain FRANÇOIS",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "FRANÇOIS",
+          "prenom": "Ghislain",
+          "nom_complet": "Ghislain FRANÇOIS",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LACROIX",
+          "prenom": "Marie-Françoise",
+          "nom_complet": "Marie-Françoise LACROIX",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LANDOUZY",
+          "prenom": "Michel",
+          "nom_complet": "Michel LANDOUZY",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "TRICHOT",
+          "prenom": "Maryse",
+          "nom_complet": "Maryse TRICHOT",
+          "sexe": "F",
+          "age": 70,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "ROUSSELLE",
+          "prenom": "Reynald",
+          "nom_complet": "Reynald ROUSSELLE",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DUPALE",
+          "prenom": "Sandrine",
+          "nom_complet": "Sandrine DUPALE",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "MERLANT",
+          "prenom": "Sebastien",
+          "nom_complet": "Sebastien MERLANT",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "JUSTE",
+          "prenom": "Severine",
+          "nom_complet": "Severine JUSTE",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "CASTELLE",
+          "prenom": "Didier",
+          "nom_complet": "Didier CASTELLE",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "BROGNET",
+          "prenom": "Pascale",
+          "nom_complet": "Pascale BROGNET",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "10"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "ENSEMBLE REVEILLONS BAS LIEU",
+      "libelle_abrege_liste": "ENSEMBLE REVEILLONS BAS LIEU",
+      "nuance_liste": null,
+      "voix": 48,
+      "pct_voix_exprimes": 25.26,
+      "sieges_cm": 1,
+      "sieges_cc": null,
+      "nb_elus": 1,
+      "tete_de_liste": {
+        "nom": "GHEZAL",
+        "prenom": "Mohamed",
+        "nom_complet": "Mohamed GHEZAL",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "GHEZAL",
+          "prenom": "Mohamed",
+          "nom_complet": "Mohamed GHEZAL",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "1"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

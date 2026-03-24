@@ -1,0 +1,151 @@
+{
+  "code_commune": "62223",
+  "commune": "Chérisy",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "VISENTIN",
+    "prenom": "Patrick",
+    "nom_complet": "Patrick VISENTIN",
+    "age": 66,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 224,
+    "votants": 189,
+    "pct_votants": 84.38,
+    "abstentions": 35,
+    "pct_abstentions": 15.63,
+    "exprimes": 184
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "PRÉS DE VOUS, POUR NOTRE COMMUNE",
+      "libelle_abrege_liste": "PRÉS DE VOUS, POUR NOTRE COMMUNE",
+      "nuance_liste": null,
+      "voix": 103,
+      "pct_voix_exprimes": 55.98,
+      "sieges_cm": 9,
+      "sieges_cc": null,
+      "nb_elus": 9,
+      "tete_de_liste": {
+        "nom": "VISENTIN",
+        "prenom": "Patrick",
+        "nom_complet": "Patrick VISENTIN",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "VISENTIN",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick VISENTIN",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "REGNIER",
+          "prenom": "Dorothée",
+          "nom_complet": "Dorothée REGNIER",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LALIN",
+          "prenom": "Vincent",
+          "nom_complet": "Vincent LALIN",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "REVERSEZ",
+          "prenom": "Elodie",
+          "nom_complet": "Elodie REVERSEZ",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "BENOIT",
+          "prenom": "Didier",
+          "nom_complet": "Didier BENOIT",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "PRUVOST",
+          "prenom": "Laurie",
+          "nom_complet": "Laurie PRUVOST",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "REGNIER",
+          "prenom": "David",
+          "nom_complet": "David REGNIER",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "PLANCKE",
+          "prenom": "Marine",
+          "nom_complet": "Marine PLANCKE",
+          "sexe": "F",
+          "age": 26,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "MONPAYS",
+          "prenom": "Jordan",
+          "nom_complet": "Jordan MONPAYS",
+          "sexe": "M",
+          "age": 30,
+          "rang_liste": "9"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "CHERISY, L'HISTOIRE ET L'AVENIR S'ECRIVENT AVEC VOUS",
+      "libelle_abrege_liste": "CHERISY, L'HISTOIRE ET L'AVENIR S'ECRIVENT AVEC VOUS",
+      "nuance_liste": null,
+      "voix": 81,
+      "pct_voix_exprimes": 44.02,
+      "sieges_cm": 2,
+      "sieges_cc": null,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "COUADIER",
+        "prenom": "Béatrice",
+        "nom_complet": "Béatrice COUADIER",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "COUADIER",
+          "prenom": "Béatrice",
+          "nom_complet": "Béatrice COUADIER",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "JACOTIN",
+          "prenom": "Aurélien",
+          "nom_complet": "Aurélien JACOTIN",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

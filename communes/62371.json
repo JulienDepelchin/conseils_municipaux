@@ -1,0 +1,195 @@
+{
+  "code_commune": "62371",
+  "commune": "Givenchy-en-Gohelle",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "SENECHAL",
+    "prenom": "Pierre",
+    "nom_complet": "Pierre SENECHAL",
+    "age": 67,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1579,
+    "votants": 1033,
+    "pct_votants": 65.42,
+    "abstentions": 546,
+    "pct_abstentions": 34.58,
+    "exprimes": 869
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "VIVRE ENSEMBLE A GIVENCHY",
+      "libelle_abrege_liste": "VIVRE ENSEMBLE A GIVENCHY",
+      "nuance_liste": null,
+      "voix": 869,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 19,
+      "sieges_cc": 1,
+      "nb_elus": 19,
+      "tete_de_liste": {
+        "nom": "SENECHAL",
+        "prenom": "Pierre",
+        "nom_complet": "Pierre SENECHAL",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "SENECHAL",
+          "prenom": "Pierre",
+          "nom_complet": "Pierre SENECHAL",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BARLET",
+          "prenom": "Virginie",
+          "nom_complet": "Virginie BARLET",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BECQUET",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick BECQUET",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BACQ",
+          "prenom": "Geneviève",
+          "nom_complet": "Geneviève BACQ",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "VEGA",
+          "prenom": "Guillaume",
+          "nom_complet": "Guillaume VEGA",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "VANDOMME",
+          "prenom": "Sabine",
+          "nom_complet": "Sabine VANDOMME",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "HULOT",
+          "prenom": "Jean-Michel",
+          "nom_complet": "Jean-Michel HULOT",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "NOE",
+          "prenom": "Virginie",
+          "nom_complet": "Virginie NOE",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "EVRARD",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier EVRARD",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "FILIPIAK",
+          "prenom": "Blandine",
+          "nom_complet": "Blandine FILIPIAK",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "BRUYERE",
+          "prenom": "Jérôme",
+          "nom_complet": "Jérôme BRUYERE",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "DEFONTAINE",
+          "prenom": "Monique",
+          "nom_complet": "Monique DEFONTAINE",
+          "sexe": "F",
+          "age": 70,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "HASTEY",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric HASTEY",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "RINGEVAL",
+          "prenom": "Alice",
+          "nom_complet": "Alice RINGEVAL",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "LECOCQ",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas LECOCQ",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "PARENT-MILLAIRE",
+          "prenom": "Aline",
+          "nom_complet": "Aline PARENT-MILLAIRE",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "BINIENDA",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent BINIENDA",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "WEPPE",
+          "prenom": "Marjorie",
+          "nom_complet": "Marjorie WEPPE",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "DUBOIS",
+          "prenom": "Claude",
+          "nom_complet": "Claude DUBOIS",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "19"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

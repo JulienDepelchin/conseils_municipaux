@@ -1,0 +1,163 @@
+{
+  "code_commune": "59289",
+  "commune": "Haussy",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "PLICHON",
+    "prenom": "Julien",
+    "nom_complet": "Julien PLICHON",
+    "age": 47,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1173,
+    "votants": 625,
+    "pct_votants": 53.28,
+    "abstentions": 548,
+    "pct_abstentions": 46.72,
+    "exprimes": 528
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "HAUSSY ENSEMBLE",
+      "libelle_abrege_liste": "HAUSSY ENSEMBLE",
+      "nuance_liste": null,
+      "voix": 528,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": 3,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "PLICHON",
+        "prenom": "Julien",
+        "nom_complet": "Julien PLICHON",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "PLICHON",
+          "prenom": "Julien",
+          "nom_complet": "Julien PLICHON",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LEVREZ",
+          "prenom": "Hélène",
+          "nom_complet": "Hélène LEVREZ",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "ROGER",
+          "prenom": "Benoit",
+          "nom_complet": "Benoit ROGER",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "COUSIN",
+          "prenom": "Angèlique",
+          "nom_complet": "Angèlique COUSIN",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "ANTOINE",
+          "prenom": "Éric",
+          "nom_complet": "Éric ANTOINE",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "BADOR",
+          "prenom": "Sandra",
+          "nom_complet": "Sandra BADOR",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "VILETTE",
+          "prenom": "Jérôme",
+          "nom_complet": "Jérôme VILETTE",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "SOYEZ",
+          "prenom": "Camille",
+          "nom_complet": "Camille SOYEZ",
+          "sexe": "F",
+          "age": 24,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "LOIRE",
+          "prenom": "Sébastien",
+          "nom_complet": "Sébastien LOIRE",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "BERLEMONT",
+          "prenom": "Carine",
+          "nom_complet": "Carine BERLEMONT",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "CATTEEUW",
+          "prenom": "Davy",
+          "nom_complet": "Davy CATTEEUW",
+          "sexe": "M",
+          "age": 33,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "LANCELLE",
+          "prenom": "Géraldine",
+          "nom_complet": "Géraldine LANCELLE",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "PAMART",
+          "prenom": "Jean Baptiste",
+          "nom_complet": "Jean Baptiste PAMART",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "LYS",
+          "prenom": "Elise",
+          "nom_complet": "Elise LYS",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "MANSOURI",
+          "prenom": "Grégory",
+          "nom_complet": "Grégory MANSOURI",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

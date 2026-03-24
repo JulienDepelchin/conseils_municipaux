@@ -1,0 +1,131 @@
+{
+  "code_commune": "59045",
+  "commune": "Baives",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "GAUDOUX",
+    "prenom": "Thierry",
+    "nom_complet": "Thierry GAUDOUX",
+    "age": 61,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 109,
+    "votants": 71,
+    "pct_votants": 65.14,
+    "abstentions": 38,
+    "pct_abstentions": 34.86,
+    "exprimes": 66
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "NOUVEL ELAN POUR BAIVES",
+      "libelle_abrege_liste": "NOUVEL ELAN POUR BAIVES",
+      "nuance_liste": null,
+      "voix": 66,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "GAUDOUX",
+        "prenom": "Thierry",
+        "nom_complet": "Thierry GAUDOUX",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "GAUDOUX",
+          "prenom": "Thierry",
+          "nom_complet": "Thierry GAUDOUX",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BEAUDY",
+          "prenom": "Virginie",
+          "nom_complet": "Virginie BEAUDY",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "PEROT",
+          "prenom": "Etienne",
+          "nom_complet": "Etienne PEROT",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BERNARD",
+          "prenom": "Marianne",
+          "nom_complet": "Marianne BERNARD",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DEPIENNE",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier DEPIENNE",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "FONTESSE",
+          "prenom": "Elodie",
+          "nom_complet": "Elodie FONTESSE",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "SOISSONS",
+          "prenom": "Cedric",
+          "nom_complet": "Cedric SOISSONS",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "PEROT",
+          "prenom": "Marie",
+          "nom_complet": "Marie PEROT",
+          "sexe": "F",
+          "age": 28,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "MONNOYE",
+          "prenom": "Xavier",
+          "nom_complet": "Xavier MONNOYE",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "PARILLAUD",
+          "prenom": "Rachel",
+          "nom_complet": "Rachel PARILLAUD",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "GARY",
+          "prenom": "Claude",
+          "nom_complet": "Claude GARY",
+          "sexe": "M",
+          "age": 83,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

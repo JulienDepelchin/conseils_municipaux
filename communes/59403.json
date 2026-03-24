@@ -1,0 +1,163 @@
+{
+  "code_commune": "59403",
+  "commune": "Millonfosse",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "THURU",
+    "prenom": "Gérald",
+    "nom_complet": "Gérald THURU",
+    "age": 73,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 559,
+    "votants": 277,
+    "pct_votants": 49.55,
+    "abstentions": 282,
+    "pct_abstentions": 50.45,
+    "exprimes": 237
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Une équipe engagée et à votre écoute",
+      "libelle_abrege_liste": "Une équipe engagée et à votre écoute",
+      "nuance_liste": null,
+      "voix": 237,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "THURU",
+        "prenom": "Gérald",
+        "nom_complet": "Gérald THURU",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "THURU",
+          "prenom": "Gérald",
+          "nom_complet": "Gérald THURU",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "NOTTER",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie NOTTER",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "MONIER",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier MONIER",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BAUW",
+          "prenom": "Martine",
+          "nom_complet": "Martine BAUW",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "WARDZIAK",
+          "prenom": "Jean-Claude",
+          "nom_complet": "Jean-Claude WARDZIAK",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "MENU",
+          "prenom": "Fabienne",
+          "nom_complet": "Fabienne MENU",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "REMY",
+          "prenom": "Alain",
+          "nom_complet": "Alain REMY",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "BOURLET",
+          "prenom": "Alexnadra",
+          "nom_complet": "Alexnadra BOURLET",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "PONIE",
+          "prenom": "Gaëtan",
+          "nom_complet": "Gaëtan PONIE",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "MANARD",
+          "prenom": "Camille",
+          "nom_complet": "Camille MANARD",
+          "sexe": "F",
+          "age": 22,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "BROUSSE",
+          "prenom": "Mickaël",
+          "nom_complet": "Mickaël BROUSSE",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "GIRARDOT",
+          "prenom": "Anne-Marie",
+          "nom_complet": "Anne-Marie GIRARDOT",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "DEBEER",
+          "prenom": "Bertrand",
+          "nom_complet": "Bertrand DEBEER",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "D'HERBOMEZ",
+          "prenom": "Brigitte",
+          "nom_complet": "Brigitte D'HERBOMEZ",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "BREJNAKOWSKI",
+          "prenom": "Damien",
+          "nom_complet": "Damien BREJNAKOWSKI",
+          "sexe": "M",
+          "age": 28,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

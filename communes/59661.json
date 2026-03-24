@@ -1,0 +1,131 @@
+{
+  "code_commune": "59661",
+  "commune": "Willies",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "LANDA",
+    "prenom": "Patrick",
+    "nom_complet": "Patrick LANDA",
+    "age": 53,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 105,
+    "votants": 56,
+    "pct_votants": 53.33,
+    "abstentions": 49,
+    "pct_abstentions": 46.67,
+    "exprimes": 48
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "BIEN VIVRE A WILLIES",
+      "libelle_abrege_liste": "BIEN VIVRE A WILLIES",
+      "nuance_liste": null,
+      "voix": 48,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "LANDA",
+        "prenom": "Patrick",
+        "nom_complet": "Patrick LANDA",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LANDA",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick LANDA",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BETREMIEUX",
+          "prenom": "Daphné",
+          "nom_complet": "Daphné BETREMIEUX",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BETREMIEUX",
+          "prenom": "Vincent",
+          "nom_complet": "Vincent BETREMIEUX",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LEROY",
+          "prenom": "Christine",
+          "nom_complet": "Christine LEROY",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DURIN",
+          "prenom": "Michel",
+          "nom_complet": "Michel DURIN",
+          "sexe": "M",
+          "age": 74,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "BEAURENT",
+          "prenom": "Florence",
+          "nom_complet": "Florence BEAURENT",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "CLERBOIS",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal CLERBOIS",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "TACHEVIN-TABARY",
+          "prenom": "Isella",
+          "nom_complet": "Isella TACHEVIN-TABARY",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "LALLEMANT",
+          "prenom": "Louis",
+          "nom_complet": "Louis LALLEMANT",
+          "sexe": "M",
+          "age": 27,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "MEURANT",
+          "prenom": "Chanelle",
+          "nom_complet": "Chanelle MEURANT",
+          "sexe": "F",
+          "age": 31,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "LEROY",
+          "prenom": "Eric",
+          "nom_complet": "Eric LEROY",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

@@ -1,0 +1,183 @@
+{
+  "code_commune": "62901",
+  "commune": "Wittes",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "MARTEL",
+    "prenom": "Camille",
+    "nom_complet": "Camille MARTEL",
+    "age": 33,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 735,
+    "votants": 563,
+    "pct_votants": 76.6,
+    "abstentions": 172,
+    "pct_abstentions": 23.4,
+    "exprimes": 539
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Ensemble, agissons pour l'avenir de Wittes!",
+      "libelle_abrege_liste": "Ensemble, agissons pour l'avenir de Wittes!",
+      "nuance_liste": null,
+      "voix": 338,
+      "pct_voix_exprimes": 62.71,
+      "sieges_cm": 13,
+      "sieges_cc": null,
+      "nb_elus": 13,
+      "tete_de_liste": {
+        "nom": "MARTEL",
+        "prenom": "Camille",
+        "nom_complet": "Camille MARTEL",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "MARTEL",
+          "prenom": "Camille",
+          "nom_complet": "Camille MARTEL",
+          "sexe": "M",
+          "age": 33,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "CARPREAU",
+          "prenom": "Sophie",
+          "nom_complet": "Sophie CARPREAU",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "PRUDHOMME",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe PRUDHOMME",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LEMETTRE",
+          "prenom": "Patricia",
+          "nom_complet": "Patricia LEMETTRE",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "BLOT",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas BLOT",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "RIQUET",
+          "prenom": "Sandrine",
+          "nom_complet": "Sandrine RIQUET",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "THIRET",
+          "prenom": "Jean-Pierre",
+          "nom_complet": "Jean-Pierre THIRET",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "CLERBOUT",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie CLERBOUT",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "LAMPS",
+          "prenom": "Régis",
+          "nom_complet": "Régis LAMPS",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "PRIEM",
+          "prenom": "Hélène",
+          "nom_complet": "Hélène PRIEM",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "PETIT",
+          "prenom": "Rodrigue",
+          "nom_complet": "Rodrigue PETIT",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "MAURICE",
+          "prenom": "Gwendoline",
+          "nom_complet": "Gwendoline MAURICE",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "MOUFLIN",
+          "prenom": "Maxime",
+          "nom_complet": "Maxime MOUFLIN",
+          "sexe": "M",
+          "age": 25,
+          "rang_liste": "13"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "ENSEMBLE CONSTRUISONS LE WITTES DE DEMAIN",
+      "libelle_abrege_liste": "ENSEMBLE CONSTRUISONS LE WITTES DE DEMAIN",
+      "nuance_liste": null,
+      "voix": 201,
+      "pct_voix_exprimes": 37.29,
+      "sieges_cm": 2,
+      "sieges_cc": null,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "AVERLANT",
+        "prenom": "Jérôme",
+        "nom_complet": "Jérôme AVERLANT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "AVERLANT",
+          "prenom": "Jérôme",
+          "nom_complet": "Jérôme AVERLANT",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "TUYTENS",
+          "prenom": "Julie",
+          "nom_complet": "Julie TUYTENS",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "code_commune": "59445",
+  "commune": "Ohain",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "OXOBY",
+    "prenom": "Sylvain",
+    "nom_complet": "Sylvain OXOBY",
+    "age": 42,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 914,
+    "votants": 575,
+    "pct_votants": 62.91,
+    "abstentions": 339,
+    "pct_abstentions": 37.09,
+    "exprimes": 528
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "OHAIN POUR VOUS ET AVEC VOUS",
+      "libelle_abrege_liste": "OHAIN POUR VOUS ET AVEC VOUS",
+      "nuance_liste": null,
+      "voix": 528,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": 2,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "OXOBY",
+        "prenom": "Sylvain",
+        "nom_complet": "Sylvain OXOBY",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "OXOBY",
+          "prenom": "Sylvain",
+          "nom_complet": "Sylvain OXOBY",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LEGAIE",
+          "prenom": "Beatrice",
+          "nom_complet": "Beatrice LEGAIE",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LEROI",
+          "prenom": "Jean-Luc",
+          "nom_complet": "Jean-Luc LEROI",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DUPONT",
+          "prenom": "Aurore",
+          "nom_complet": "Aurore DUPONT",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "VAN LERBERGHE",
+          "prenom": "Alexis",
+          "nom_complet": "Alexis VAN LERBERGHE",
+          "sexe": "M",
+          "age": 34,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DESTAILLEURS",
+          "prenom": "Ghislaine",
+          "nom_complet": "Ghislaine DESTAILLEURS",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "OSSELAER",
+          "prenom": "Frederic",
+          "nom_complet": "Frederic OSSELAER",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "HERISSE",
+          "prenom": "Lucie",
+          "nom_complet": "Lucie HERISSE",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "HANOTEAU",
+          "prenom": "Gerard",
+          "nom_complet": "Gerard HANOTEAU",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "COCHART",
+          "prenom": "Edeline",
+          "nom_complet": "Edeline COCHART",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DESSE",
+          "prenom": "Roger",
+          "nom_complet": "Roger DESSE",
+          "sexe": "M",
+          "age": 80,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "BIQUET",
+          "prenom": "Caroline",
+          "nom_complet": "Caroline BIQUET",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "CAMUS",
+          "prenom": "Alain",
+          "nom_complet": "Alain CAMUS",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "POUBEL",
+          "prenom": "Veronique",
+          "nom_complet": "Veronique POUBEL",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "LOUIS",
+          "prenom": "Theo",
+          "nom_complet": "Theo LOUIS",
+          "sexe": "M",
+          "age": 24,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

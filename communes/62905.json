@@ -1,0 +1,183 @@
+{
+  "code_commune": "62905",
+  "commune": "Zudausques",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "BEE",
+    "prenom": "Didier",
+    "nom_complet": "Didier BEE",
+    "age": 63,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 856,
+    "votants": 763,
+    "pct_votants": 89.14,
+    "abstentions": 93,
+    "pct_abstentions": 10.86,
+    "exprimes": 743
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "Continuons Ensemble pour Zudausques",
+      "libelle_abrege_liste": "Continuons Ensemble pour Zudausques",
+      "nuance_liste": null,
+      "voix": 430,
+      "pct_voix_exprimes": 57.87,
+      "sieges_cm": 12,
+      "sieges_cc": 2,
+      "nb_elus": 12,
+      "tete_de_liste": {
+        "nom": "BEE",
+        "prenom": "Didier",
+        "nom_complet": "Didier BEE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BEE",
+          "prenom": "Didier",
+          "nom_complet": "Didier BEE",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "GIOVACCHINI",
+          "prenom": "Arminda",
+          "nom_complet": "Arminda GIOVACCHINI",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "HELLEBOID",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno HELLEBOID",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "GAWLOWICZ",
+          "prenom": "Anne-Gaëlle",
+          "nom_complet": "Anne-Gaëlle GAWLOWICZ",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "BOCQUET",
+          "prenom": "Jacques",
+          "nom_complet": "Jacques BOCQUET",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "WISSOCQ",
+          "prenom": "Lucie",
+          "nom_complet": "Lucie WISSOCQ",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DECLERCK",
+          "prenom": "Jean-Pierre",
+          "nom_complet": "Jean-Pierre DECLERCK",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DELUEN",
+          "prenom": "Audrey",
+          "nom_complet": "Audrey DELUEN",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "GUILLEMANT",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe GUILLEMANT",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "MOUQUET",
+          "prenom": "Maryne",
+          "nom_complet": "Maryne MOUQUET",
+          "sexe": "F",
+          "age": 25,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "RIBREUX",
+          "prenom": "Ludovic",
+          "nom_complet": "Ludovic RIBREUX",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "LEMAIRE",
+          "prenom": "Colette",
+          "nom_complet": "Colette LEMAIRE",
+          "sexe": "F",
+          "age": 76,
+          "rang_liste": "12"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Avec vous, un nouvel élan pour Zudausques",
+      "libelle_abrege_liste": "Avec vous, un nouvel élan pour Zudausques",
+      "nuance_liste": null,
+      "voix": 313,
+      "pct_voix_exprimes": 42.13,
+      "sieges_cm": 3,
+      "sieges_cc": 0,
+      "nb_elus": 3,
+      "tete_de_liste": {
+        "nom": "POPIEUL",
+        "prenom": "Didier",
+        "nom_complet": "Didier POPIEUL",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "POPIEUL",
+          "prenom": "Didier",
+          "nom_complet": "Didier POPIEUL",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LEROY",
+          "prenom": "Christelle",
+          "nom_complet": "Christelle LEROY",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DEROO",
+          "prenom": "Yannick",
+          "nom_complet": "Yannick DEROO",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "3"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

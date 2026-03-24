@@ -1,0 +1,131 @@
+{
+  "code_commune": "62677",
+  "commune": "Le Quesnoy-en-Artois",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "BOULENGER",
+    "prenom": "Georges",
+    "nom_complet": "Georges BOULENGER",
+    "age": 53,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 253,
+    "votants": 123,
+    "pct_votants": 48.62,
+    "abstentions": 130,
+    "pct_abstentions": 51.38,
+    "exprimes": 82
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Des Femmes et des Hommes au Service de tous",
+      "libelle_abrege_liste": "Des Femmes et des Hommes au Service de tous",
+      "nuance_liste": null,
+      "voix": 82,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "BOULENGER",
+        "prenom": "Georges",
+        "nom_complet": "Georges BOULENGER",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BOULENGER",
+          "prenom": "Georges",
+          "nom_complet": "Georges BOULENGER",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BUIGNET",
+          "prenom": "Laurence",
+          "nom_complet": "Laurence BUIGNET",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "GEIGER",
+          "prenom": "Luc",
+          "nom_complet": "Luc GEIGER",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DELAIDE",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie DELAIDE",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "ROUSSEL",
+          "prenom": "Arnaud",
+          "nom_complet": "Arnaud ROUSSEL",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DAVRINCHE",
+          "prenom": "Odile",
+          "nom_complet": "Odile DAVRINCHE",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "PIHET",
+          "prenom": "Gilbert",
+          "nom_complet": "Gilbert PIHET",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "PRUVOST",
+          "prenom": "Betty",
+          "nom_complet": "Betty PRUVOST",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "CHOQUET",
+          "prenom": "Xavier",
+          "nom_complet": "Xavier CHOQUET",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DELCUSE",
+          "prenom": "Caroline",
+          "nom_complet": "Caroline DELCUSE",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "ETIENNE",
+          "prenom": "Benoit",
+          "nom_complet": "Benoit ETIENNE",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

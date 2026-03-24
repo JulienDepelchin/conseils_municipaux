@@ -1,0 +1,99 @@
+{
+  "code_commune": "62682",
+  "commune": "Quilen",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "CARON",
+    "prenom": "Pascal",
+    "nom_complet": "Pascal CARON",
+    "age": 60,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 44,
+    "votants": 37,
+    "pct_votants": 84.09,
+    "abstentions": 7,
+    "pct_abstentions": 15.91,
+    "exprimes": 26
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ENSEMBLE POUR QUILEN",
+      "libelle_abrege_liste": "ENSEMBLE POUR QUILEN",
+      "nuance_liste": null,
+      "voix": 26,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 7,
+      "sieges_cc": null,
+      "nb_elus": 7,
+      "tete_de_liste": {
+        "nom": "CARON",
+        "prenom": "Pascal",
+        "nom_complet": "Pascal CARON",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "CARON",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal CARON",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "CUVILLIER",
+          "prenom": "Maryline",
+          "nom_complet": "Maryline CUVILLIER",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "TERRIER",
+          "prenom": "Frederic",
+          "nom_complet": "Frederic TERRIER",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "FOUILLAND",
+          "prenom": "Brigitte",
+          "nom_complet": "Brigitte FOUILLAND",
+          "sexe": "F",
+          "age": 73,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "VAN DEN BOSSCHE",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier VAN DEN BOSSCHE",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "BLERARD",
+          "prenom": "Marion",
+          "nom_complet": "Marion BLERARD",
+          "sexe": "F",
+          "age": 25,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "LAMOUR",
+          "prenom": "Jerome",
+          "nom_complet": "Jerome LAMOUR",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "7"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

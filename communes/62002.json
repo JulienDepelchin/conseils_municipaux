@@ -1,0 +1,131 @@
+{
+  "code_commune": "62002",
+  "commune": "Ablainzevelle",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "LALY",
+    "prenom": "Jean-François",
+    "nom_complet": "Jean-François LALY",
+    "age": 54,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 165,
+    "votants": 103,
+    "pct_votants": 62.42,
+    "abstentions": 62,
+    "pct_abstentions": 37.58,
+    "exprimes": 93
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "POURSUIVONS ENSEMBLE POUR NOTRE VILLAGE",
+      "libelle_abrege_liste": "POURSUIVONS ENSEMBLE POUR NOTRE VILLAGE",
+      "nuance_liste": null,
+      "voix": 93,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "LALY",
+        "prenom": "Jean-François",
+        "nom_complet": "Jean-François LALY",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LALY",
+          "prenom": "Jean-François",
+          "nom_complet": "Jean-François LALY",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "MICHAUX",
+          "prenom": "Valérie",
+          "nom_complet": "Valérie MICHAUX",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LAMOTTE",
+          "prenom": "Guy",
+          "nom_complet": "Guy LAMOTTE",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "AMBEZA",
+          "prenom": "Peggy",
+          "nom_complet": "Peggy AMBEZA",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DEBEUGNY",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique DEBEUGNY",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "RAIMBAUX",
+          "prenom": "Adelaïde",
+          "nom_complet": "Adelaïde RAIMBAUX",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BOURRÉ",
+          "prenom": "Alex",
+          "nom_complet": "Alex BOURRÉ",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DERANCOURT",
+          "prenom": "Maggy",
+          "nom_complet": "Maggy DERANCOURT",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DERANCOURT",
+          "prenom": "Arnaud",
+          "nom_complet": "Arnaud DERANCOURT",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "LEBEURRE",
+          "prenom": "Monique",
+          "nom_complet": "Monique LEBEURRE",
+          "sexe": "F",
+          "age": 71,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "LOUCHET",
+          "prenom": "Arnaud",
+          "nom_complet": "Arnaud LOUCHET",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

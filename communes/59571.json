@@ -1,0 +1,299 @@
+{
+  "code_commune": "59571",
+  "commune": "Solesmes",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "SAGNIEZ",
+    "prenom": "Paul",
+    "nom_complet": "Paul SAGNIEZ",
+    "age": 65,
+    "nuance": "LDVD"
+  },
+  "resultats": {
+    "inscrits": 3256,
+    "votants": 2075,
+    "pct_votants": 63.73,
+    "abstentions": 1181,
+    "pct_abstentions": 36.27,
+    "exprimes": 2011
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "SOLESMES AVENIR",
+      "libelle_abrege_liste": "SOLESMES AVENIR",
+      "nuance_liste": "LDVD",
+      "voix": 1349,
+      "pct_voix_exprimes": 67.08,
+      "sieges_cm": 24,
+      "sieges_cc": 8,
+      "nb_elus": 24,
+      "tete_de_liste": {
+        "nom": "SAGNIEZ",
+        "prenom": "Paul",
+        "nom_complet": "Paul SAGNIEZ",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "SAGNIEZ",
+          "prenom": "Paul",
+          "nom_complet": "Paul SAGNIEZ",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DURIEUX",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie DURIEUX",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "SANIEZ",
+          "prenom": "Jean-Marie",
+          "nom_complet": "Jean-Marie SANIEZ",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LERIQUE",
+          "prenom": "Véronique",
+          "nom_complet": "Véronique LERIQUE",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "HOOGE",
+          "prenom": "Stéphane",
+          "nom_complet": "Stéphane HOOGE",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "SOLAUX",
+          "prenom": "Nicole",
+          "nom_complet": "Nicole SOLAUX",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "CLAISSE",
+          "prenom": "Adrien",
+          "nom_complet": "Adrien CLAISSE",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "SOYSÜREN",
+          "prenom": "Hatice",
+          "nom_complet": "Hatice SOYSÜREN",
+          "sexe": "F",
+          "age": 20,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DEGARDIN",
+          "prenom": "Eric",
+          "nom_complet": "Eric DEGARDIN",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "SAGNIEZ",
+          "prenom": "Anne",
+          "nom_complet": "Anne SAGNIEZ",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "LEMAIRE",
+          "prenom": "Jacques",
+          "nom_complet": "Jacques LEMAIRE",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "SENEZ",
+          "prenom": "Christine",
+          "nom_complet": "Christine SENEZ",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "KIK",
+          "prenom": "Fernand",
+          "nom_complet": "Fernand KIK",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "RENARD",
+          "prenom": "Aurélie",
+          "nom_complet": "Aurélie RENARD",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "BARRÉ",
+          "prenom": "Romain",
+          "nom_complet": "Romain BARRÉ",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "KALAWSKI",
+          "prenom": "Dorothée",
+          "nom_complet": "Dorothée KALAWSKI",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "RICHALET",
+          "prenom": "Sandy",
+          "nom_complet": "Sandy RICHALET",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "DELACROIX",
+          "prenom": "Marie",
+          "nom_complet": "Marie DELACROIX",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "COUSIN",
+          "prenom": "André",
+          "nom_complet": "André COUSIN",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "COVIN",
+          "prenom": "Marie-Andrée",
+          "nom_complet": "Marie-Andrée COVIN",
+          "sexe": "F",
+          "age": 73,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "CAPON",
+          "prenom": "Christian",
+          "nom_complet": "Christian CAPON",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "LEROY",
+          "prenom": "Marie-Pierre",
+          "nom_complet": "Marie-Pierre LEROY",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "RUFFIN",
+          "prenom": "Guillaume",
+          "nom_complet": "Guillaume RUFFIN",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "23"
+        },
+        {
+          "nom": "BOUTELIER",
+          "prenom": "Mégane",
+          "nom_complet": "Mégane BOUTELIER",
+          "sexe": "F",
+          "age": 30,
+          "rang_liste": "24"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "3",
+      "libelle_liste": "J'aime Solesmes",
+      "libelle_abrege_liste": "J'aime Solesmes",
+      "nuance_liste": "LRN",
+      "voix": 403,
+      "pct_voix_exprimes": 20.04,
+      "sieges_cm": 2,
+      "sieges_cc": 1,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "RUFFIN",
+        "prenom": "Jérémie",
+        "nom_complet": "Jérémie RUFFIN",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "RUFFIN",
+          "prenom": "Jérémie",
+          "nom_complet": "Jérémie RUFFIN",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "WATREMEZ",
+          "prenom": "Marie-Ève",
+          "nom_complet": "Marie-Ève WATREMEZ",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "SOLESMES AUTREMENT",
+      "libelle_abrege_liste": "SOLESMES AUTREMENT",
+      "nuance_liste": "LDVD",
+      "voix": 259,
+      "pct_voix_exprimes": 12.88,
+      "sieges_cm": 1,
+      "sieges_cc": 0,
+      "nb_elus": 1,
+      "tete_de_liste": {
+        "nom": "REAL",
+        "prenom": "Nicolas",
+        "nom_complet": "Nicolas REAL",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "REAL",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas REAL",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "1"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

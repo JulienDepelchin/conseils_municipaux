@@ -1,0 +1,131 @@
+{
+  "code_commune": "62878",
+  "commune": "Warlus",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "LIBESSART",
+    "prenom": "Catherine",
+    "nom_complet": "Catherine LIBESSART",
+    "age": 51,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 312,
+    "votants": 212,
+    "pct_votants": 67.95,
+    "abstentions": 100,
+    "pct_abstentions": 32.05,
+    "exprimes": 171
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Unis pour l'avenir de WARLUS",
+      "libelle_abrege_liste": "Unis pour l'avenir de WARLUS",
+      "nuance_liste": null,
+      "voix": 171,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "LIBESSART",
+        "prenom": "Catherine",
+        "nom_complet": "Catherine LIBESSART",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "LIBESSART",
+          "prenom": "Catherine",
+          "nom_complet": "Catherine LIBESSART",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "FONTAINE",
+          "prenom": "Martial",
+          "nom_complet": "Martial FONTAINE",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "MERCIER",
+          "prenom": "Annabelle",
+          "nom_complet": "Annabelle MERCIER",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DUHAMEL",
+          "prenom": "Benoît",
+          "nom_complet": "Benoît DUHAMEL",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "AUCREMANNE",
+          "prenom": "Sandra",
+          "nom_complet": "Sandra AUCREMANNE",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "ACCART",
+          "prenom": "Joël",
+          "nom_complet": "Joël ACCART",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "LEFEBVRE",
+          "prenom": "Carole",
+          "nom_complet": "Carole LEFEBVRE",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "FOURNIER",
+          "prenom": "Quentin",
+          "nom_complet": "Quentin FOURNIER",
+          "sexe": "M",
+          "age": 30,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "ELOY",
+          "prenom": "Mélody",
+          "nom_complet": "Mélody ELOY",
+          "sexe": "F",
+          "age": 29,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "WATTEBLED",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent WATTEBLED",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "GRAVELEINE",
+          "prenom": "Mathilde",
+          "nom_complet": "Mathilde GRAVELEINE",
+          "sexe": "F",
+          "age": 31,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

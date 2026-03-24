@@ -1,0 +1,247 @@
+{
+  "code_commune": "59104",
+  "commune": "Boussois",
+  "departement": "Nord",
+  "tour": "T2",
+  "maire": {
+    "nom": "CORBEAUX",
+    "prenom": "Didier",
+    "nom_complet": "Didier CORBEAUX",
+    "age": 67,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 2077,
+    "votants": 1354,
+    "pct_votants": 65.19,
+    "abstentions": 723,
+    "pct_abstentions": 34.81,
+    "exprimes": 1315
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "POUR BOUSSOIS, VOTRE VILLE",
+      "libelle_abrege_liste": "POUR BOUSSOIS, VOTRE VILLE",
+      "nuance_liste": null,
+      "voix": 745,
+      "pct_voix_exprimes": 56.65,
+      "sieges_cm": 18,
+      "sieges_cc": 1,
+      "nb_elus": 18,
+      "tete_de_liste": {
+        "nom": "CORBEAUX",
+        "prenom": "Didier",
+        "nom_complet": "Didier CORBEAUX",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "CORBEAUX",
+          "prenom": "Didier",
+          "nom_complet": "Didier CORBEAUX",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "NARDUCCI",
+          "prenom": "Laura",
+          "nom_complet": "Laura NARDUCCI",
+          "sexe": "F",
+          "age": 30,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "ROUSIES",
+          "prenom": "Jeremy",
+          "nom_complet": "Jeremy ROUSIES",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LA GUERCHE",
+          "prenom": "Chrystel",
+          "nom_complet": "Chrystel LA GUERCHE",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LAURENT",
+          "prenom": "Jean Christian",
+          "nom_complet": "Jean Christian LAURENT",
+          "sexe": "M",
+          "age": 32,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "ABARO",
+          "prenom": "Nadege",
+          "nom_complet": "Nadege ABARO",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "MARIE",
+          "prenom": "Stephane",
+          "nom_complet": "Stephane MARIE",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "HASSAINI",
+          "prenom": "Lila",
+          "nom_complet": "Lila HASSAINI",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "GREVREND",
+          "prenom": "Stephane",
+          "nom_complet": "Stephane GREVREND",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "ELIE",
+          "prenom": "Ines",
+          "nom_complet": "Ines ELIE",
+          "sexe": "F",
+          "age": 31,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "HERBECQ",
+          "prenom": "Emmanuel",
+          "nom_complet": "Emmanuel HERBECQ",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "PAUMAT AJAX",
+          "prenom": "Aude",
+          "nom_complet": "Aude PAUMAT AJAX",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "GHAFLA",
+          "prenom": "Nordine",
+          "nom_complet": "Nordine GHAFLA",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "GUEGANT",
+          "prenom": "Kathleen",
+          "nom_complet": "Kathleen GUEGANT",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "OLIVIER",
+          "prenom": "Emmanuel",
+          "nom_complet": "Emmanuel OLIVIER",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "WILMOTTE",
+          "prenom": "Christine",
+          "nom_complet": "Christine WILMOTTE",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "CROIX",
+          "prenom": "Jean Marc",
+          "nom_complet": "Jean Marc CROIX",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "BROSGOL",
+          "prenom": "Laetitia",
+          "nom_complet": "Laetitia BROSGOL",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "18"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "BOUSSOIS ENSEMBLE BATISSONS NOTRE AVENIR",
+      "libelle_abrege_liste": "BOUSSOIS ENSEMBLE BATISSONS NOTRE AVENIR",
+      "nuance_liste": null,
+      "voix": 570,
+      "pct_voix_exprimes": 43.35,
+      "sieges_cm": 5,
+      "sieges_cc": 0,
+      "nb_elus": 5,
+      "tete_de_liste": {
+        "nom": "CROIX",
+        "prenom": "Evelyne",
+        "nom_complet": "Evelyne CROIX",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "CROIX",
+          "prenom": "Evelyne",
+          "nom_complet": "Evelyne CROIX",
+          "sexe": "F",
+          "age": 75,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "NEMES",
+          "prenom": "Mickael",
+          "nom_complet": "Mickael NEMES",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "OURRAD",
+          "prenom": "Severine",
+          "nom_complet": "Severine OURRAD",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "TILMANT",
+          "prenom": "Jean",
+          "nom_complet": "Jean TILMANT",
+          "sexe": "M",
+          "age": 78,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "CHOINET",
+          "prenom": "Muriel",
+          "nom_complet": "Muriel CHOINET",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "5"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

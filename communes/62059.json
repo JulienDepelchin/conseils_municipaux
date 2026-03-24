@@ -1,0 +1,151 @@
+{
+  "code_commune": "62059",
+  "commune": "Autingues",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "DE SAINT JUST",
+    "prenom": "Blaise",
+    "nom_complet": "Blaise DE SAINT JUST",
+    "age": 62,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 259,
+    "votants": 207,
+    "pct_votants": 79.92,
+    "abstentions": 52,
+    "pct_abstentions": 20.08,
+    "exprimes": 202
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "Liste d'union et d'intérêt local",
+      "libelle_abrege_liste": "Liste d'union et d'intérêt local",
+      "nuance_liste": null,
+      "voix": 143,
+      "pct_voix_exprimes": 70.79,
+      "sieges_cm": 10,
+      "sieges_cc": null,
+      "nb_elus": 10,
+      "tete_de_liste": {
+        "nom": "DE SAINT JUST",
+        "prenom": "Blaise",
+        "nom_complet": "Blaise DE SAINT JUST",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DE SAINT JUST",
+          "prenom": "Blaise",
+          "nom_complet": "Blaise DE SAINT JUST",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DARQUES",
+          "prenom": "Rosine",
+          "nom_complet": "Rosine DARQUES",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LARUE",
+          "prenom": "Etienne",
+          "nom_complet": "Etienne LARUE",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DEVOS",
+          "prenom": "Julie",
+          "nom_complet": "Julie DEVOS",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "SOUILLARD",
+          "prenom": "David",
+          "nom_complet": "David SOUILLARD",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "KLOUDA",
+          "prenom": "Béatrice",
+          "nom_complet": "Béatrice KLOUDA",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "QUEVA",
+          "prenom": "Tony",
+          "nom_complet": "Tony QUEVA",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "CRAVERO",
+          "prenom": "Mélanie",
+          "nom_complet": "Mélanie CRAVERO",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "VANDENBROUCKE",
+          "prenom": "Quentin",
+          "nom_complet": "Quentin VANDENBROUCKE",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "PLEE",
+          "prenom": "Karine",
+          "nom_complet": "Karine PLEE",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "10"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Décidons Ensemble",
+      "libelle_abrege_liste": "Décidons Ensemble",
+      "nuance_liste": null,
+      "voix": 59,
+      "pct_voix_exprimes": 29.21,
+      "sieges_cm": 1,
+      "sieges_cc": null,
+      "nb_elus": 1,
+      "tete_de_liste": {
+        "nom": "HEMBERT",
+        "prenom": "Gaëtan",
+        "nom_complet": "Gaëtan HEMBERT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "HEMBERT",
+          "prenom": "Gaëtan",
+          "nom_complet": "Gaëtan HEMBERT",
+          "sexe": "M",
+          "age": 76,
+          "rang_liste": "1"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

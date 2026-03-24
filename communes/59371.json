@@ -1,0 +1,163 @@
+{
+  "code_commune": "59371",
+  "commune": "Le Maisnil",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "CHARLOT",
+    "prenom": "Catherine",
+    "nom_complet": "Catherine CHARLOT",
+    "age": 61,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 539,
+    "votants": 327,
+    "pct_votants": 60.67,
+    "abstentions": 212,
+    "pct_abstentions": 39.33,
+    "exprimes": 294
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "LE MAISNIL, ENSEMBLE AUJOURD'HUI POUR DEMAIN",
+      "libelle_abrege_liste": "LE MAISNIL, ENSEMBLE AUJOURD'HUI POUR DEMAIN",
+      "nuance_liste": null,
+      "voix": 294,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "CHARLOT",
+        "prenom": "Catherine",
+        "nom_complet": "Catherine CHARLOT",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "CHARLOT",
+          "prenom": "Catherine",
+          "nom_complet": "Catherine CHARLOT",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "COUCHE",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe COUCHE",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DELHAIZE",
+          "prenom": "Catherine",
+          "nom_complet": "Catherine DELHAIZE",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "GOUTIERRE",
+          "prenom": "Gilles",
+          "nom_complet": "Gilles GOUTIERRE",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "BOUTTEMY",
+          "prenom": "Marie-Françoise",
+          "nom_complet": "Marie-Françoise BOUTTEMY",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "MAROYE",
+          "prenom": "Thierry",
+          "nom_complet": "Thierry MAROYE",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "GAUTIER",
+          "prenom": "Vincente",
+          "nom_complet": "Vincente GAUTIER",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DELECLUSE",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas DELECLUSE",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "JACINTO",
+          "prenom": "Valérie",
+          "nom_complet": "Valérie JACINTO",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "CRUTEL",
+          "prenom": "Kévin",
+          "nom_complet": "Kévin CRUTEL",
+          "sexe": "M",
+          "age": 33,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "BASTAERT",
+          "prenom": "Florence",
+          "nom_complet": "Florence BASTAERT",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "LENGLART",
+          "prenom": "Jean-Marc",
+          "nom_complet": "Jean-Marc LENGLART",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "BÉRANGER",
+          "prenom": "Emeline",
+          "nom_complet": "Emeline BÉRANGER",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "HENNEBEL",
+          "prenom": "Xavier",
+          "nom_complet": "Xavier HENNEBEL",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "LEFORT",
+          "prenom": "Juliette",
+          "nom_complet": "Juliette LEFORT",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

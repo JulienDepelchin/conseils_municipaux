@@ -1,0 +1,131 @@
+{
+  "code_commune": "62179",
+  "commune": "Brunembert",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "LONGUET",
+    "prenom": "Benoît",
+    "nom_complet": "Benoît LONGUET",
+    "age": 43,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 315,
+    "votants": 203,
+    "pct_votants": 64.44,
+    "abstentions": 112,
+    "pct_abstentions": 35.56,
+    "exprimes": 186
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "LA FORCE D'UN VILLAGE, L'AVENIR D'UN TERRITOIRE",
+      "libelle_abrege_liste": "LA FORCE D'UN VILLAGE, L'AVENIR D'UN TERRITOIRE",
+      "nuance_liste": null,
+      "voix": 186,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "LONGUET",
+        "prenom": "Benoît",
+        "nom_complet": "Benoît LONGUET",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LONGUET",
+          "prenom": "Benoît",
+          "nom_complet": "Benoît LONGUET",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LELEU",
+          "prenom": "Corinne",
+          "nom_complet": "Corinne LELEU",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "HIBON",
+          "prenom": "Sébastien",
+          "nom_complet": "Sébastien HIBON",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "FEUTRY",
+          "prenom": "Charlotte",
+          "nom_complet": "Charlotte FEUTRY",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "COZE",
+          "prenom": "Michaël",
+          "nom_complet": "Michaël COZE",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "CHOCHOIS",
+          "prenom": "Benedicte",
+          "nom_complet": "Benedicte CHOCHOIS",
+          "sexe": "F",
+          "age": 29,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "WASSELIN",
+          "prenom": "Emilien",
+          "nom_complet": "Emilien WASSELIN",
+          "sexe": "M",
+          "age": 34,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "OBRY",
+          "prenom": "Anne-Sophie",
+          "nom_complet": "Anne-Sophie OBRY",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DE SAINTE MARESVILLE",
+          "prenom": "Ludovic",
+          "nom_complet": "Ludovic DE SAINTE MARESVILLE",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "VASSEUR",
+          "prenom": "Fanny",
+          "nom_complet": "Fanny VASSEUR",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "PAINSET",
+          "prenom": "Didier",
+          "nom_complet": "Didier PAINSET",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

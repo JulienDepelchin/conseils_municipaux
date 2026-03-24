@@ -1,0 +1,131 @@
+{
+  "code_commune": "62553",
+  "commune": "Marest",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "SENSE",
+    "prenom": "Marcel",
+    "nom_complet": "Marcel SENSE",
+    "age": 79,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 229,
+    "votants": 150,
+    "pct_votants": 65.5,
+    "abstentions": 79,
+    "pct_abstentions": 34.5,
+    "exprimes": 127
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "POUR QUE VIVE MAREST",
+      "libelle_abrege_liste": "POUR QUE VIVE MAREST",
+      "nuance_liste": null,
+      "voix": 127,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "SENSE",
+        "prenom": "Marcel",
+        "nom_complet": "Marcel SENSE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "SENSE",
+          "prenom": "Marcel",
+          "nom_complet": "Marcel SENSE",
+          "sexe": "M",
+          "age": 79,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "CABAS",
+          "prenom": "Marie-Emmanuelle",
+          "nom_complet": "Marie-Emmanuelle CABAS",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "FOUILLE",
+          "prenom": "Rémi",
+          "nom_complet": "Rémi FOUILLE",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "SAINPOL",
+          "prenom": "Estelle",
+          "nom_complet": "Estelle SAINPOL",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "MELLIER",
+          "prenom": "Marc",
+          "nom_complet": "Marc MELLIER",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DEMYTTENAERE",
+          "prenom": "Camille",
+          "nom_complet": "Camille DEMYTTENAERE",
+          "sexe": "F",
+          "age": 33,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "CABAS",
+          "prenom": "Cyril",
+          "nom_complet": "Cyril CABAS",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DESPLANQUES",
+          "prenom": "Véronique",
+          "nom_complet": "Véronique DESPLANQUES",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "SANIEZ",
+          "prenom": "Gaëtan",
+          "nom_complet": "Gaëtan SANIEZ",
+          "sexe": "M",
+          "age": 28,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "THUMEREL",
+          "prenom": "Suzy",
+          "nom_complet": "Suzy THUMEREL",
+          "sexe": "F",
+          "age": 77,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "COURBET",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe COURBET",
+          "sexe": "M",
+          "age": 34,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

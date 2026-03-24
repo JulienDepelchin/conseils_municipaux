@@ -1,0 +1,163 @@
+{
+  "code_commune": "59056",
+  "commune": "Beaucamps-Ligny",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "BEHAREL",
+    "prenom": "Kilien",
+    "nom_complet": "Kilien BEHAREL",
+    "age": 35,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 781,
+    "votants": 470,
+    "pct_votants": 60.18,
+    "abstentions": 311,
+    "pct_abstentions": 39.82,
+    "exprimes": 427
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Bien vivre à Beaucamps-Ligny",
+      "libelle_abrege_liste": "Bien vivre à Beaucamps-Ligny",
+      "nuance_liste": null,
+      "voix": 427,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "BEHAREL",
+        "prenom": "Kilien",
+        "nom_complet": "Kilien BEHAREL",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BEHAREL",
+          "prenom": "Kilien",
+          "nom_complet": "Kilien BEHAREL",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BERGER",
+          "prenom": "Charlotte",
+          "nom_complet": "Charlotte BERGER",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "JUMAUCOURT",
+          "prenom": "Bernard",
+          "nom_complet": "Bernard JUMAUCOURT",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "MAURO",
+          "prenom": "Gaelle",
+          "nom_complet": "Gaelle MAURO",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "RENARD",
+          "prenom": "Ronny",
+          "nom_complet": "Ronny RENARD",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DERONNE",
+          "prenom": "Brigitte",
+          "nom_complet": "Brigitte DERONNE",
+          "sexe": "F",
+          "age": 72,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DIGNE",
+          "prenom": "Eric",
+          "nom_complet": "Eric DIGNE",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DE JENLIS",
+          "prenom": "Agathe",
+          "nom_complet": "Agathe DE JENLIS",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "RITTER",
+          "prenom": "Roger",
+          "nom_complet": "Roger RITTER",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "CARON",
+          "prenom": "Christine",
+          "nom_complet": "Christine CARON",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DEPOIX",
+          "prenom": "Eric",
+          "nom_complet": "Eric DEPOIX",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "LELEU",
+          "prenom": "Clémentine",
+          "nom_complet": "Clémentine LELEU",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "DELANNOY",
+          "prenom": "Pierre-Antoine",
+          "nom_complet": "Pierre-Antoine DELANNOY",
+          "sexe": "M",
+          "age": 31,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "SCHOUTETENS",
+          "prenom": "Sigrid",
+          "nom_complet": "Sigrid SCHOUTETENS",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "BALCAEN",
+          "prenom": "Gauthier",
+          "nom_complet": "Gauthier BALCAEN",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "code_commune": "62511",
+  "commune": "Lignereuil",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "DEBERLES",
+    "prenom": "Patrick",
+    "nom_complet": "Patrick DEBERLES",
+    "age": 62,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 112,
+    "votants": 63,
+    "pct_votants": 56.25,
+    "abstentions": 49,
+    "pct_abstentions": 43.75,
+    "exprimes": 52
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Liste menée par DEBERLES Patrick",
+      "libelle_abrege_liste": "Liste menée par DEBERLES Patrick",
+      "nuance_liste": null,
+      "voix": 52,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 9,
+      "sieges_cc": null,
+      "nb_elus": 9,
+      "tete_de_liste": {
+        "nom": "DEBERLES",
+        "prenom": "Patrick",
+        "nom_complet": "Patrick DEBERLES",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DEBERLES",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick DEBERLES",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DELABRE",
+          "prenom": "Audrey",
+          "nom_complet": "Audrey DELABRE",
+          "sexe": "F",
+          "age": 33,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BERTIN",
+          "prenom": "Michel",
+          "nom_complet": "Michel BERTIN",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DEBERLES",
+          "prenom": "Ophélie",
+          "nom_complet": "Ophélie DEBERLES",
+          "sexe": "F",
+          "age": 24,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DETEVE",
+          "prenom": "David",
+          "nom_complet": "David DETEVE",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LULKA",
+          "prenom": "Yvette",
+          "nom_complet": "Yvette LULKA",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "JACQUEMONT",
+          "prenom": "Maxime",
+          "nom_complet": "Maxime JACQUEMONT",
+          "sexe": "M",
+          "age": 29,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DEBERLES",
+          "prenom": "Myriam",
+          "nom_complet": "Myriam DEBERLES",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "MABILLE",
+          "prenom": "Alexis",
+          "nom_complet": "Alexis MABILLE",
+          "sexe": "M",
+          "age": 33,
+          "rang_liste": "9"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

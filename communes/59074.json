@@ -1,0 +1,215 @@
+{
+  "code_commune": "59074",
+  "commune": "Bertry",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "CAFFIAUX",
+    "prenom": "Alban",
+    "nom_complet": "Alban CAFFIAUX",
+    "age": 42,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1694,
+    "votants": 1105,
+    "pct_votants": 65.23,
+    "abstentions": 589,
+    "pct_abstentions": 34.77,
+    "exprimes": 1061
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Ensemble, Tissons l'avenir",
+      "libelle_abrege_liste": "Ensemble, Tissons l'avenir",
+      "nuance_liste": null,
+      "voix": 589,
+      "pct_voix_exprimes": 55.51,
+      "sieges_cm": 15,
+      "sieges_cc": 2,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "CAFFIAUX",
+        "prenom": "Alban",
+        "nom_complet": "Alban CAFFIAUX",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "CAFFIAUX",
+          "prenom": "Alban",
+          "nom_complet": "Alban CAFFIAUX",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "GAVE",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie GAVE",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BOISDENGHIEN",
+          "prenom": "Gaetan",
+          "nom_complet": "Gaetan BOISDENGHIEN",
+          "sexe": "M",
+          "age": 34,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "FOUREZ",
+          "prenom": "Angèle Rachel",
+          "nom_complet": "Angèle Rachel FOUREZ",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "FONTAINE",
+          "prenom": "Alexandre",
+          "nom_complet": "Alexandre FONTAINE",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "CACHEUX",
+          "prenom": "Adeline",
+          "nom_complet": "Adeline CACHEUX",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "LECLAIRE",
+          "prenom": "Loïc",
+          "nom_complet": "Loïc LECLAIRE",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DMYTRUS",
+          "prenom": "Cécile",
+          "nom_complet": "Cécile DMYTRUS",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "OLIVIER",
+          "prenom": "Jacques",
+          "nom_complet": "Jacques OLIVIER",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "ANCELET",
+          "prenom": "Annie",
+          "nom_complet": "Annie ANCELET",
+          "sexe": "F",
+          "age": 71,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DUMEZ",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique DUMEZ",
+          "sexe": "M",
+          "age": 76,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "GABET",
+          "prenom": "Amélie",
+          "nom_complet": "Amélie GABET",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "LEFORT",
+          "prenom": "Damien",
+          "nom_complet": "Damien LEFORT",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "CREVISIER",
+          "prenom": "Florence",
+          "nom_complet": "Florence CREVISIER",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "LENGLET",
+          "prenom": "Lucien",
+          "nom_complet": "Lucien LENGLET",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "FAISONS VIVRE BERTRY AVEC VOUS",
+      "libelle_abrege_liste": "FAISONS VIVRE BERTRY AVEC VOUS",
+      "nuance_liste": null,
+      "voix": 472,
+      "pct_voix_exprimes": 44.49,
+      "sieges_cm": 4,
+      "sieges_cc": 0,
+      "nb_elus": 4,
+      "tete_de_liste": {
+        "nom": "MORELLE",
+        "prenom": "Laurent",
+        "nom_complet": "Laurent MORELLE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "MORELLE",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent MORELLE",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "ZWIERZYNSKI",
+          "prenom": "Édith",
+          "nom_complet": "Édith ZWIERZYNSKI",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "GRAS",
+          "prenom": "Sébastien",
+          "nom_complet": "Sébastien GRAS",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BOCQUET",
+          "prenom": "Aurélie",
+          "nom_complet": "Aurélie BOCQUET",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "4"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

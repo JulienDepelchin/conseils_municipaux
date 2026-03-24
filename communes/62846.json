@@ -1,0 +1,279 @@
+{
+  "code_commune": "62846",
+  "commune": "Vermelles",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "DE CARRION",
+    "prenom": "Alain",
+    "nom_complet": "Alain DE CARRION",
+    "age": 60,
+    "nuance": "LDVG"
+  },
+  "resultats": {
+    "inscrits": 3633,
+    "votants": 2177,
+    "pct_votants": 59.92,
+    "abstentions": 1456,
+    "pct_abstentions": 40.08,
+    "exprimes": 2095
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "ENSEMBLE POUR VERMELLES",
+      "libelle_abrege_liste": "ENSEMBLE POUR VERMELLES",
+      "nuance_liste": "LDVG",
+      "voix": 1171,
+      "pct_voix_exprimes": 55.89,
+      "sieges_cm": 21,
+      "sieges_cc": 2,
+      "nb_elus": 21,
+      "tete_de_liste": {
+        "nom": "DE CARRION",
+        "prenom": "Alain",
+        "nom_complet": "Alain DE CARRION",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DE CARRION",
+          "prenom": "Alain",
+          "nom_complet": "Alain DE CARRION",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DELBARRE LIMEUX",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie DELBARRE LIMEUX",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DEGUERRE",
+          "prenom": "Alain",
+          "nom_complet": "Alain DEGUERRE",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "FLAHAUT",
+          "prenom": "Karine",
+          "nom_complet": "Karine FLAHAUT",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "FRERE",
+          "prenom": "Patrice",
+          "nom_complet": "Patrice FRERE",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LENNE",
+          "prenom": "Christine",
+          "nom_complet": "Christine LENNE",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "CALLAUX",
+          "prenom": "Yves",
+          "nom_complet": "Yves CALLAUX",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DUBOIS DUFOUR",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie DUBOIS DUFOUR",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "ACTHERGAL",
+          "prenom": "Gerard",
+          "nom_complet": "Gerard ACTHERGAL",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "SALMON DEGUERRE",
+          "prenom": "Patricia",
+          "nom_complet": "Patricia SALMON DEGUERRE",
+          "sexe": "F",
+          "age": 73,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "LANGLET",
+          "prenom": "Vincent",
+          "nom_complet": "Vincent LANGLET",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "PETIT FRANCOIS",
+          "prenom": "Francyne",
+          "nom_complet": "Francyne PETIT FRANCOIS",
+          "sexe": "F",
+          "age": 71,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "PECQUEUR",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe PECQUEUR",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "CHARTREZ REHBER",
+          "prenom": "Cecile",
+          "nom_complet": "Cecile CHARTREZ REHBER",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "PENNEQUIN",
+          "prenom": "Vincent",
+          "nom_complet": "Vincent PENNEQUIN",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "BUTELLE",
+          "prenom": "Melanie",
+          "nom_complet": "Melanie BUTELLE",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "PENTIAUX",
+          "prenom": "Gwenael",
+          "nom_complet": "Gwenael PENTIAUX",
+          "sexe": "M",
+          "age": 33,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "HARRIS PATRON",
+          "prenom": "Veronique",
+          "nom_complet": "Veronique HARRIS PATRON",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "MASSE",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal MASSE",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "MAES CERRI",
+          "prenom": "Cathy",
+          "nom_complet": "Cathy MAES CERRI",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "DECEUNINCK",
+          "prenom": "Jeremy",
+          "nom_complet": "Jeremy DECEUNINCK",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "21"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "VERMELLES MA PRIORITE !",
+      "libelle_abrege_liste": "VERMELLES MA PRIORITE !",
+      "nuance_liste": "LRN",
+      "voix": 924,
+      "pct_voix_exprimes": 44.11,
+      "sieges_cm": 6,
+      "sieges_cc": 0,
+      "nb_elus": 6,
+      "tete_de_liste": {
+        "nom": "CRETON",
+        "prenom": "Sylvie",
+        "nom_complet": "Sylvie CRETON",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "CRETON",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie CRETON",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "FAYEULLE",
+          "prenom": "Rainald",
+          "nom_complet": "Rainald FAYEULLE",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LEROUX",
+          "prenom": "Michele",
+          "nom_complet": "Michele LEROUX",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BARBIER",
+          "prenom": "Benjamin",
+          "nom_complet": "Benjamin BARBIER",
+          "sexe": "M",
+          "age": 34,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "MORTREUX",
+          "prenom": "Adeline",
+          "nom_complet": "Adeline MORTREUX",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "CHEVALIER",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe CHEVALIER",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "6"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

@@ -1,0 +1,195 @@
+{
+  "code_commune": "62284",
+  "commune": "Ecourt-Saint-Quentin",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "TONELLE",
+    "prenom": "Stéphane",
+    "nom_complet": "Stéphane TONELLE",
+    "age": 50,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1313,
+    "votants": 818,
+    "pct_votants": 62.3,
+    "abstentions": 495,
+    "pct_abstentions": 37.7,
+    "exprimes": 717
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ENSEMBLE POUR UNE COMMUNE QUI VOUS RESSEMBLE",
+      "libelle_abrege_liste": "ENSEMBLE POUR UNE COMMUNE QUI VOUS RESSEMBLE",
+      "nuance_liste": null,
+      "voix": 717,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 19,
+      "sieges_cc": 2,
+      "nb_elus": 19,
+      "tete_de_liste": {
+        "nom": "TONELLE",
+        "prenom": "Stéphane",
+        "nom_complet": "Stéphane TONELLE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "TONELLE",
+          "prenom": "Stéphane",
+          "nom_complet": "Stéphane TONELLE",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "PONCHAUX",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie PONCHAUX",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "YUX",
+          "prenom": "Alain",
+          "nom_complet": "Alain YUX",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DUBOIS",
+          "prenom": "Charlène",
+          "nom_complet": "Charlène DUBOIS",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "STERCKX",
+          "prenom": "Yannick",
+          "nom_complet": "Yannick STERCKX",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "HOCQ",
+          "prenom": "Celinie",
+          "nom_complet": "Celinie HOCQ",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "EFFNER",
+          "prenom": "Jean-Michel",
+          "nom_complet": "Jean-Michel EFFNER",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "SILVAIN",
+          "prenom": "Marie-Pierre",
+          "nom_complet": "Marie-Pierre SILVAIN",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "WIART",
+          "prenom": "Jean-Marie",
+          "nom_complet": "Jean-Marie WIART",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "TALFER",
+          "prenom": "Martine",
+          "nom_complet": "Martine TALFER",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "MIROIR",
+          "prenom": "Thibaut",
+          "nom_complet": "Thibaut MIROIR",
+          "sexe": "M",
+          "age": 24,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "GODON",
+          "prenom": "Méline",
+          "nom_complet": "Méline GODON",
+          "sexe": "F",
+          "age": 19,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "BACQUET",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas BACQUET",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "DABIN",
+          "prenom": "Florence",
+          "nom_complet": "Florence DABIN",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "LELOROUX",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick LELOROUX",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "BERNARD",
+          "prenom": "Hélène",
+          "nom_complet": "Hélène BERNARD",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "CAUDRON",
+          "prenom": "Gilles",
+          "nom_complet": "Gilles CAUDRON",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "CARNEAUX",
+          "prenom": "Mélissa",
+          "nom_complet": "Mélissa CARNEAUX",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "HALLEN",
+          "prenom": "Matthieu",
+          "nom_complet": "Matthieu HALLEN",
+          "sexe": "M",
+          "age": 33,
+          "rang_liste": "19"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

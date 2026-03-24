@@ -1,0 +1,197 @@
+{
+  "code_commune": "59502",
+  "commune": "Rieux-en-Cambrésis",
+  "departement": "Nord",
+  "tour": "T2",
+  "maire": {
+    "nom": "MACHUT",
+    "prenom": "Florentin",
+    "nom_complet": "Florentin MACHUT",
+    "age": 27,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1007,
+    "votants": 779,
+    "pct_votants": 77.36,
+    "abstentions": 228,
+    "pct_abstentions": 22.64,
+    "exprimes": 770
+  },
+  "listes": [
+    {
+      "num_panneau": "3",
+      "libelle_liste": "Tous unis pour Rieux",
+      "libelle_abrege_liste": "Tous unis pour Rieux",
+      "nuance_liste": null,
+      "voix": 359,
+      "pct_voix_exprimes": 46.62,
+      "sieges_cm": 12,
+      "sieges_cc": 1,
+      "nb_elus": 12,
+      "tete_de_liste": {
+        "nom": "MACHUT",
+        "prenom": "Florentin",
+        "nom_complet": "Florentin MACHUT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "MACHUT",
+          "prenom": "Florentin",
+          "nom_complet": "Florentin MACHUT",
+          "sexe": "M",
+          "age": 27,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "GRIÈRE",
+          "prenom": "Danièle",
+          "nom_complet": "Danièle GRIÈRE",
+          "sexe": "F",
+          "age": 73,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "RAOULT",
+          "prenom": "Bertrand",
+          "nom_complet": "Bertrand RAOULT",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BRABANT",
+          "prenom": "Magali",
+          "nom_complet": "Magali BRABANT",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "CROMBEZ",
+          "prenom": "Yannick",
+          "nom_complet": "Yannick CROMBEZ",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DEFOSSEZ",
+          "prenom": "Rose-Marie",
+          "nom_complet": "Rose-Marie DEFOSSEZ",
+          "sexe": "F",
+          "age": 72,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "HUTIN",
+          "prenom": "Théo",
+          "nom_complet": "Théo HUTIN",
+          "sexe": "M",
+          "age": 24,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "RAUX",
+          "prenom": "Amandine",
+          "nom_complet": "Amandine RAUX",
+          "sexe": "F",
+          "age": 33,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "BLASI",
+          "prenom": "Luigi",
+          "nom_complet": "Luigi BLASI",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "BRICOUT",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique BRICOUT",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DOISE",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas DOISE",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "MERCHIER - HERBIN",
+          "prenom": "Sabine",
+          "nom_complet": "Sabine MERCHIER - HERBIN",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "12"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "BIEN VIVRE ENSEMBLE À RIEUX",
+      "libelle_abrege_liste": "BIEN VIVRE ENSEMBLE À RIEUX",
+      "nuance_liste": null,
+      "voix": 345,
+      "pct_voix_exprimes": 44.81,
+      "sieges_cm": 3,
+      "sieges_cc": 0,
+      "nb_elus": 3,
+      "tete_de_liste": {
+        "nom": "MOUSSI",
+        "prenom": "Michel",
+        "nom_complet": "Michel MOUSSI",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "MOUSSI",
+          "prenom": "Michel",
+          "nom_complet": "Michel MOUSSI",
+          "sexe": "M",
+          "age": 75,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "MAIRESSE NÉE LEROY",
+          "prenom": "Thérèse",
+          "nom_complet": "Thérèse MAIRESSE NÉE LEROY",
+          "sexe": "F",
+          "age": 75,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "VALLEZ",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal VALLEZ",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "3"
+        }
+      ],
+      "statut_conseil": "autre"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Heu'Rieux Ensemble",
+      "libelle_abrege_liste": "Heu'Rieux Ensemble",
+      "nuance_liste": null,
+      "voix": 66,
+      "pct_voix_exprimes": 8.57,
+      "sieges_cm": 0,
+      "sieges_cc": 0,
+      "nb_elus": 0,
+      "tete_de_liste": null,
+      "elus": [],
+      "statut_conseil": "sans_elu"
+    }
+  ]
+}

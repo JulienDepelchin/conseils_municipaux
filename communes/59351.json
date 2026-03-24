@@ -1,0 +1,163 @@
+{
+  "code_commune": "59351",
+  "commune": "Limont-Fontaine",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "PAREE",
+    "prenom": "Alexandre",
+    "nom_complet": "Alexandre PAREE",
+    "age": 44,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 456,
+    "votants": 274,
+    "pct_votants": 60.09,
+    "abstentions": 182,
+    "pct_abstentions": 39.91,
+    "exprimes": 238
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "TOUJOURS UNIS POUR AGIR A LIMONT FONTAINE",
+      "libelle_abrege_liste": "TOUJOURS UNIS POUR AGIR A LIMONT FONTAINE",
+      "nuance_liste": null,
+      "voix": 238,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "PAREE",
+        "prenom": "Alexandre",
+        "nom_complet": "Alexandre PAREE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "PAREE",
+          "prenom": "Alexandre",
+          "nom_complet": "Alexandre PAREE",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LUCIER",
+          "prenom": "Delphine",
+          "nom_complet": "Delphine LUCIER",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BERNIER",
+          "prenom": "Jerôme",
+          "nom_complet": "Jerôme BERNIER",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "HUART",
+          "prenom": "Karine",
+          "nom_complet": "Karine HUART",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "CAFFIAUX",
+          "prenom": "Cedric",
+          "nom_complet": "Cedric CAFFIAUX",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "VANACHTER",
+          "prenom": "Jeanne-Marie",
+          "nom_complet": "Jeanne-Marie VANACHTER",
+          "sexe": "F",
+          "age": 71,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DEMORY",
+          "prenom": "Mickaël",
+          "nom_complet": "Mickaël DEMORY",
+          "sexe": "M",
+          "age": 31,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "MONET",
+          "prenom": "Sandrine",
+          "nom_complet": "Sandrine MONET",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "MONET",
+          "prenom": "Stephane",
+          "nom_complet": "Stephane MONET",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "ADNET",
+          "prenom": "Amandine",
+          "nom_complet": "Amandine ADNET",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DEFOSSEZ",
+          "prenom": "Emmanuel",
+          "nom_complet": "Emmanuel DEFOSSEZ",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "SANTERRE",
+          "prenom": "Françoise",
+          "nom_complet": "Françoise SANTERRE",
+          "sexe": "F",
+          "age": 75,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "DEBRUYERE",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick DEBRUYERE",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "PIERRE",
+          "prenom": "Catherine",
+          "nom_complet": "Catherine PIERRE",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "GILLIARD",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier GILLIARD",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

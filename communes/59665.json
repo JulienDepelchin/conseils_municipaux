@@ -1,0 +1,131 @@
+{
+  "code_commune": "59665",
+  "commune": "Wylder",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "LABAEYE EPOUSE CLICTEUR",
+    "prenom": "Catherine",
+    "nom_complet": "Catherine LABAEYE EPOUSE CLICTEUR",
+    "age": 76,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 217,
+    "votants": 116,
+    "pct_votants": 53.46,
+    "abstentions": 101,
+    "pct_abstentions": 46.54,
+    "exprimes": 100
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Ensemble pour Wylder",
+      "libelle_abrege_liste": "Ensemble pour Wylder",
+      "nuance_liste": null,
+      "voix": 100,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "LABAEYE EPOUSE CLICTEUR",
+        "prenom": "Catherine",
+        "nom_complet": "Catherine LABAEYE EPOUSE CLICTEUR",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "LABAEYE EPOUSE CLICTEUR",
+          "prenom": "Catherine",
+          "nom_complet": "Catherine LABAEYE EPOUSE CLICTEUR",
+          "sexe": "F",
+          "age": 76,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DEGRAND",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent DEGRAND",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "NOEL",
+          "prenom": "Martine",
+          "nom_complet": "Martine NOEL",
+          "sexe": "F",
+          "age": 72,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "MOUCHIE",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe MOUCHIE",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DEGRAND ÉPOUSE DUTERTE",
+          "prenom": "Lucie",
+          "nom_complet": "Lucie DEGRAND ÉPOUSE DUTERTE",
+          "sexe": "F",
+          "age": 29,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "HEMELSDAEL",
+          "prenom": "Rémy",
+          "nom_complet": "Rémy HEMELSDAEL",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "COUSYN ÉPOUSE EECKEMAN",
+          "prenom": "Céline",
+          "nom_complet": "Céline COUSYN ÉPOUSE EECKEMAN",
+          "sexe": "F",
+          "age": 33,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "EECKEMAN",
+          "prenom": "Franck",
+          "nom_complet": "Franck EECKEMAN",
+          "sexe": "M",
+          "age": 33,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "SALOME",
+          "prenom": "Ludivine",
+          "nom_complet": "Ludivine SALOME",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "HERBAUT",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier HERBAUT",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "HIVIN",
+          "prenom": "Cathy",
+          "nom_complet": "Cathy HIVIN",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "code_commune": "62832",
+  "commune": "Tubersent",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "LAMOUR",
+    "prenom": "Romain",
+    "nom_complet": "Romain LAMOUR",
+    "age": 43,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 476,
+    "votants": 332,
+    "pct_votants": 69.75,
+    "abstentions": 144,
+    "pct_abstentions": 30.25,
+    "exprimes": 302
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "EN AVANT TUBERSENT",
+      "libelle_abrege_liste": "EN AVANT TUBERSENT",
+      "nuance_liste": null,
+      "voix": 302,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "LAMOUR",
+        "prenom": "Romain",
+        "nom_complet": "Romain LAMOUR",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LAMOUR",
+          "prenom": "Romain",
+          "nom_complet": "Romain LAMOUR",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DOUCHET",
+          "prenom": "Florine",
+          "nom_complet": "Florine DOUCHET",
+          "sexe": "F",
+          "age": 31,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BOTIN",
+          "prenom": "Hugues",
+          "nom_complet": "Hugues BOTIN",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "GOSSELIN",
+          "prenom": "Amandine",
+          "nom_complet": "Amandine GOSSELIN",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "PIGNEL",
+          "prenom": "David",
+          "nom_complet": "David PIGNEL",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "QUONIAM",
+          "prenom": "Anne",
+          "nom_complet": "Anne QUONIAM",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "ROUTIER",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe ROUTIER",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "CODRON",
+          "prenom": "Astrid",
+          "nom_complet": "Astrid CODRON",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DELAPORTE",
+          "prenom": "Marc",
+          "nom_complet": "Marc DELAPORTE",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "FRANÇOIS",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique FRANÇOIS",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DACHICOURT",
+          "prenom": "Simon",
+          "nom_complet": "Simon DACHICOURT",
+          "sexe": "M",
+          "age": 26,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "MARYCZUK",
+          "prenom": "Audrey",
+          "nom_complet": "Audrey MARYCZUK",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "DUCROCQ",
+          "prenom": "Vincent",
+          "nom_complet": "Vincent DUCROCQ",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "ESCH",
+          "prenom": "Sandra",
+          "nom_complet": "Sandra ESCH",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "PETIT",
+          "prenom": "Ian",
+          "nom_complet": "Ian PETIT",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

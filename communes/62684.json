@@ -1,0 +1,195 @@
+{
+  "code_commune": "62684",
+  "commune": "Racquinghem",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "DEMAIRE",
+    "prenom": "Jean-Luc",
+    "nom_complet": "Jean-Luc DEMAIRE",
+    "age": 68,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1963,
+    "votants": 1020,
+    "pct_votants": 51.96,
+    "abstentions": 943,
+    "pct_abstentions": 48.04,
+    "exprimes": 908
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Agir Ensemble pour Racquinghem",
+      "libelle_abrege_liste": "Agir Ensemble pour Racquinghem",
+      "nuance_liste": null,
+      "voix": 908,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 19,
+      "sieges_cc": 1,
+      "nb_elus": 19,
+      "tete_de_liste": {
+        "nom": "DEMAIRE",
+        "prenom": "Jean-Luc",
+        "nom_complet": "Jean-Luc DEMAIRE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DEMAIRE",
+          "prenom": "Jean-Luc",
+          "nom_complet": "Jean-Luc DEMAIRE",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LAMOOT",
+          "prenom": "Véronique",
+          "nom_complet": "Véronique LAMOOT",
+          "sexe": "F",
+          "age": 72,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DELOUX",
+          "prenom": "Claude",
+          "nom_complet": "Claude DELOUX",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "ANDRZEJEWSKI",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie ANDRZEJEWSKI",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "PRUVOST",
+          "prenom": "Sébastien",
+          "nom_complet": "Sébastien PRUVOST",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "GRIOCHE",
+          "prenom": "Christelle",
+          "nom_complet": "Christelle GRIOCHE",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "HANNOTEL",
+          "prenom": "José",
+          "nom_complet": "José HANNOTEL",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "PLOCKYN",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie PLOCKYN",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DUFRENNE",
+          "prenom": "Yoan",
+          "nom_complet": "Yoan DUFRENNE",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "MAGNIER",
+          "prenom": "Zlata",
+          "nom_complet": "Zlata MAGNIER",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "PRUVOST",
+          "prenom": "Wulfran",
+          "nom_complet": "Wulfran PRUVOST",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "HERRENG",
+          "prenom": "Aurélie",
+          "nom_complet": "Aurélie HERRENG",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "CHARLET",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe CHARLET",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "LEDUCQ",
+          "prenom": "Lydie",
+          "nom_complet": "Lydie LEDUCQ",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "DE BACKER",
+          "prenom": "Franck",
+          "nom_complet": "Franck DE BACKER",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "GOURLAIN",
+          "prenom": "Céline",
+          "nom_complet": "Céline GOURLAIN",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "PUCHOIS",
+          "prenom": "Mickaël",
+          "nom_complet": "Mickaël PUCHOIS",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "DOMINGUES",
+          "prenom": "Delphine",
+          "nom_complet": "Delphine DOMINGUES",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "EVRARD",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe EVRARD",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "19"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

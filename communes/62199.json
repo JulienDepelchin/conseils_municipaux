@@ -1,0 +1,163 @@
+{
+  "code_commune": "62199",
+  "commune": "Camblain-l'Abbé",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "DEBEAUMONT",
+    "prenom": "Monique",
+    "nom_complet": "Monique DEBEAUMONT",
+    "age": 70,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 528,
+    "votants": 375,
+    "pct_votants": 71.02,
+    "abstentions": 153,
+    "pct_abstentions": 28.98,
+    "exprimes": 300
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Camblain-L'Abbé Ensemble",
+      "libelle_abrege_liste": "Camblain-L'Abbé Ensemble",
+      "nuance_liste": null,
+      "voix": 300,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "DEBEAUMONT",
+        "prenom": "Monique",
+        "nom_complet": "Monique DEBEAUMONT",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "DEBEAUMONT",
+          "prenom": "Monique",
+          "nom_complet": "Monique DEBEAUMONT",
+          "sexe": "F",
+          "age": 70,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "ZAKRENT",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick ZAKRENT",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LULKA",
+          "prenom": "Magalie",
+          "nom_complet": "Magalie LULKA",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "WILLAUME",
+          "prenom": "Robert",
+          "nom_complet": "Robert WILLAUME",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "SEGARD",
+          "prenom": "Annie",
+          "nom_complet": "Annie SEGARD",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "VANHOYE",
+          "prenom": "Xavier",
+          "nom_complet": "Xavier VANHOYE",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "RICHEBE",
+          "prenom": "Ninon",
+          "nom_complet": "Ninon RICHEBE",
+          "sexe": "F",
+          "age": 21,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "FONTAINE",
+          "prenom": "Valentin",
+          "nom_complet": "Valentin FONTAINE",
+          "sexe": "M",
+          "age": 32,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "TRANAIN",
+          "prenom": "Ophélie",
+          "nom_complet": "Ophélie TRANAIN",
+          "sexe": "F",
+          "age": 30,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "SEGARD",
+          "prenom": "Joffrey",
+          "nom_complet": "Joffrey SEGARD",
+          "sexe": "M",
+          "age": 32,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "BONVOISIN",
+          "prenom": "Véronique",
+          "nom_complet": "Véronique BONVOISIN",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "DUTRANOIT",
+          "prenom": "John",
+          "nom_complet": "John DUTRANOIT",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "GOUBET-LOURSELLE",
+          "prenom": "Aurore",
+          "nom_complet": "Aurore GOUBET-LOURSELLE",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "DELANNAY",
+          "prenom": "Eric",
+          "nom_complet": "Eric DELANNAY",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "DA SILVA CRUZ-BEUGNET",
+          "prenom": "Pauline",
+          "nom_complet": "Pauline DA SILVA CRUZ-BEUGNET",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

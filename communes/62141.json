@@ -1,0 +1,163 @@
+{
+  "code_commune": "62141",
+  "commune": "Blessy",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "HARLÉ",
+    "prenom": "Martine",
+    "nom_complet": "Martine HARLÉ",
+    "age": 54,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 681,
+    "votants": 441,
+    "pct_votants": 64.76,
+    "abstentions": 240,
+    "pct_abstentions": 35.24,
+    "exprimes": 397
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "BLESSY, UNIS POUR BIEN VIVRE",
+      "libelle_abrege_liste": "BLESSY, UNIS POUR BIEN VIVRE",
+      "nuance_liste": null,
+      "voix": 397,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "HARLÉ",
+        "prenom": "Martine",
+        "nom_complet": "Martine HARLÉ",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "HARLÉ",
+          "prenom": "Martine",
+          "nom_complet": "Martine HARLÉ",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "VESTE",
+          "prenom": "Jean-Pierre",
+          "nom_complet": "Jean-Pierre VESTE",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LIEBART",
+          "prenom": "Cécile",
+          "nom_complet": "Cécile LIEBART",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "CASIEZ",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe CASIEZ",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LEFEBVRE",
+          "prenom": "Élodie",
+          "nom_complet": "Élodie LEFEBVRE",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DANNEL",
+          "prenom": "Sylvain",
+          "nom_complet": "Sylvain DANNEL",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "MIEZE",
+          "prenom": "Christelle",
+          "nom_complet": "Christelle MIEZE",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "FROGNIER",
+          "prenom": "David",
+          "nom_complet": "David FROGNIER",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "COEUGNET",
+          "prenom": "Marie-Laure",
+          "nom_complet": "Marie-Laure COEUGNET",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "MARTEL",
+          "prenom": "Jean-Luc",
+          "nom_complet": "Jean-Luc MARTEL",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "MASSON",
+          "prenom": "Margaux",
+          "nom_complet": "Margaux MASSON",
+          "sexe": "F",
+          "age": 26,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "LETURGIE",
+          "prenom": "Pierre-Emmanuel",
+          "nom_complet": "Pierre-Emmanuel LETURGIE",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "PRUVOST",
+          "prenom": "Audrey",
+          "nom_complet": "Audrey PRUVOST",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "LEBLEU",
+          "prenom": "Damien",
+          "nom_complet": "Damien LEBLEU",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "BECARD",
+          "prenom": "Hélène",
+          "nom_complet": "Hélène BECARD",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

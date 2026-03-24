@@ -1,0 +1,151 @@
+{
+  "code_commune": "62639",
+  "commune": "Oppy",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "PLATEL",
+    "prenom": "Xavier",
+    "nom_complet": "Xavier PLATEL",
+    "age": 58,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 365,
+    "votants": 299,
+    "pct_votants": 81.92,
+    "abstentions": 66,
+    "pct_abstentions": 18.08,
+    "exprimes": 291
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "AGIR ENSEMBLE POUR OPPY",
+      "libelle_abrege_liste": "AGIR ENSEMBLE POUR OPPY",
+      "nuance_liste": null,
+      "voix": 203,
+      "pct_voix_exprimes": 69.76,
+      "sieges_cm": 10,
+      "sieges_cc": null,
+      "nb_elus": 10,
+      "tete_de_liste": {
+        "nom": "PLATEL",
+        "prenom": "Xavier",
+        "nom_complet": "Xavier PLATEL",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "PLATEL",
+          "prenom": "Xavier",
+          "nom_complet": "Xavier PLATEL",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BRACQ MERCIER",
+          "prenom": "Rachel",
+          "nom_complet": "Rachel BRACQ MERCIER",
+          "sexe": "F",
+          "age": 81,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "PLATEL",
+          "prenom": "André",
+          "nom_complet": "André PLATEL",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "GACQUERRE",
+          "prenom": "Marie-France",
+          "nom_complet": "Marie-France GACQUERRE",
+          "sexe": "F",
+          "age": 76,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "WANTIEZ",
+          "prenom": "Alain",
+          "nom_complet": "Alain WANTIEZ",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "HUMEZ",
+          "prenom": "Marguerite",
+          "nom_complet": "Marguerite HUMEZ",
+          "sexe": "F",
+          "age": 74,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "LEMAITRE",
+          "prenom": "Eric",
+          "nom_complet": "Eric LEMAITRE",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "CHOPIN",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle CHOPIN",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "MARCINKOWSKI",
+          "prenom": "David",
+          "nom_complet": "David MARCINKOWSKI",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DELACROIX",
+          "prenom": "Véronique",
+          "nom_complet": "Véronique DELACROIX",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "10"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "OPPY POUR TOUS",
+      "libelle_abrege_liste": "OPPY POUR TOUS",
+      "nuance_liste": null,
+      "voix": 88,
+      "pct_voix_exprimes": 30.24,
+      "sieges_cm": 1,
+      "sieges_cc": null,
+      "nb_elus": 1,
+      "tete_de_liste": {
+        "nom": "DALLENE",
+        "prenom": "Jean-Paul",
+        "nom_complet": "Jean-Paul DALLENE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DALLENE",
+          "prenom": "Jean-Paul",
+          "nom_complet": "Jean-Paul DALLENE",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "1"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

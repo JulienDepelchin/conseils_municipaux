@@ -1,0 +1,131 @@
+{
+  "code_commune": "62027",
+  "commune": "Ambrines",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "ROSE",
+    "prenom": "Alain",
+    "nom_complet": "Alain ROSE",
+    "age": 76,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 159,
+    "votants": 91,
+    "pct_votants": 57.23,
+    "abstentions": 68,
+    "pct_abstentions": 42.77,
+    "exprimes": 69
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "AMBRINES DEMAIN",
+      "libelle_abrege_liste": "AMBRINES DEMAIN",
+      "nuance_liste": null,
+      "voix": 69,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "ROSE",
+        "prenom": "Alain",
+        "nom_complet": "Alain ROSE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "ROSE",
+          "prenom": "Alain",
+          "nom_complet": "Alain ROSE",
+          "sexe": "M",
+          "age": 76,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BOUTOILLE",
+          "prenom": "Perrine",
+          "nom_complet": "Perrine BOUTOILLE",
+          "sexe": "F",
+          "age": 32,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LECLERCQ",
+          "prenom": "Sylvain",
+          "nom_complet": "Sylvain LECLERCQ",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "NONJAN",
+          "prenom": "Maud",
+          "nom_complet": "Maud NONJAN",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "HELLUIN",
+          "prenom": "Cédric",
+          "nom_complet": "Cédric HELLUIN",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DELANNOY",
+          "prenom": "Céline",
+          "nom_complet": "Céline DELANNOY",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "HEUNET",
+          "prenom": "Jonathan",
+          "nom_complet": "Jonathan HEUNET",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LEGROS",
+          "prenom": "Laurie",
+          "nom_complet": "Laurie LEGROS",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "GALLET",
+          "prenom": "Claude",
+          "nom_complet": "Claude GALLET",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "BARBEIRA",
+          "prenom": "Claudine",
+          "nom_complet": "Claudine BARBEIRA",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "THERY",
+          "prenom": "José",
+          "nom_complet": "José THERY",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

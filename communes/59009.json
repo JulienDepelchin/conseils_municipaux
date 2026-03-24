@@ -1,0 +1,495 @@
+{
+  "code_commune": "59009",
+  "commune": "Villeneuve-d'Ascq",
+  "departement": "Nord",
+  "tour": "T2",
+  "maire": {
+    "nom": "ESTAGER",
+    "prenom": "Sylvain",
+    "nom_complet": "Sylvain ESTAGER",
+    "age": 52,
+    "nuance": "LDVG"
+  },
+  "resultats": {
+    "inscrits": 40976,
+    "votants": 21410,
+    "pct_votants": 52.25,
+    "abstentions": 19566,
+    "pct_abstentions": 47.75,
+    "exprimes": 21114
+  },
+  "listes": [
+    {
+      "num_panneau": "4",
+      "libelle_liste": "Ensemble pour Villeneuve d'Ascq 2026",
+      "libelle_abrege_liste": "EPVA 2026",
+      "nuance_liste": "LDVG",
+      "voix": 7164,
+      "pct_voix_exprimes": 33.93,
+      "sieges_cm": 34,
+      "sieges_cc": 6,
+      "nb_elus": 34,
+      "tete_de_liste": {
+        "nom": "ESTAGER",
+        "prenom": "Sylvain",
+        "nom_complet": "Sylvain ESTAGER",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "ESTAGER",
+          "prenom": "Sylvain",
+          "nom_complet": "Sylvain ESTAGER",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "QUESNE-CAUDRON",
+          "prenom": "Valérie",
+          "nom_complet": "Valérie QUESNE-CAUDRON",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "COSTEUR",
+          "prenom": "Sébastien",
+          "nom_complet": "Sébastien COSTEUR",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "GIRARD",
+          "prenom": "Maryvonne",
+          "nom_complet": "Maryvonne GIRARD",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "CAUDRON",
+          "prenom": "Gérard",
+          "nom_complet": "Gérard CAUDRON",
+          "sexe": "M",
+          "age": 81,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "MARTIN",
+          "prenom": "Françoise",
+          "nom_complet": "Françoise MARTIN",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BAPTISTE",
+          "prenom": "Lionel",
+          "nom_complet": "Lionel BAPTISTE",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "MADI",
+          "prenom": "Lahanissa",
+          "nom_complet": "Lahanissa MADI",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "TISON",
+          "prenom": "Yohan",
+          "nom_complet": "Yohan TISON",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "SALANON",
+          "prenom": "Violette",
+          "nom_complet": "Violette SALANON",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "VLANDAS",
+          "prenom": "Alexis",
+          "nom_complet": "Alexis VLANDAS",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "KHATIR",
+          "prenom": "Saliha",
+          "nom_complet": "Saliha KHATIR",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "PERLEIN",
+          "prenom": "Jean",
+          "nom_complet": "Jean PERLEIN",
+          "sexe": "M",
+          "age": 74,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "FAUQUET",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie FAUQUET",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "MERESSE",
+          "prenom": "François",
+          "nom_complet": "François MERESSE",
+          "sexe": "M",
+          "age": 34,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "FURNE",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique FURNE",
+          "sexe": "F",
+          "age": 70,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "EL MOUNAOUI",
+          "prenom": "Monir",
+          "nom_complet": "Monir EL MOUNAOUI",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "MAIRIE",
+          "prenom": "Claire",
+          "nom_complet": "Claire MAIRIE",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "VANDEVELDE",
+          "prenom": "Christian",
+          "nom_complet": "Christian VANDEVELDE",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "BOYAVAL",
+          "prenom": "Nelly",
+          "nom_complet": "Nelly BOYAVAL",
+          "sexe": "F",
+          "age": 70,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "ROUSSEAUX",
+          "prenom": "Arnaud",
+          "nom_complet": "Arnaud ROUSSEAUX",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "JANICKI",
+          "prenom": "Christine",
+          "nom_complet": "Christine JANICKI",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "MARQUES",
+          "prenom": "Didier",
+          "nom_complet": "Didier MARQUES",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "23"
+        },
+        {
+          "nom": "CAPONE",
+          "prenom": "Carine",
+          "nom_complet": "Carine CAPONE",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "24"
+        },
+        {
+          "nom": "FAUQUETTE",
+          "prenom": "Alexandre",
+          "nom_complet": "Alexandre FAUQUETTE",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "25"
+        },
+        {
+          "nom": "HERENT",
+          "prenom": "Delphine",
+          "nom_complet": "Delphine HERENT",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "26"
+        },
+        {
+          "nom": "MESSAOUDI",
+          "prenom": "Karim",
+          "nom_complet": "Karim MESSAOUDI",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "27"
+        },
+        {
+          "nom": "LEBLANC",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie LEBLANC",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "28"
+        },
+        {
+          "nom": "CRESPI",
+          "prenom": "Pierre",
+          "nom_complet": "Pierre CRESPI",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "29"
+        },
+        {
+          "nom": "LASSELIN",
+          "prenom": "Lisa",
+          "nom_complet": "Lisa LASSELIN",
+          "sexe": "F",
+          "age": 32,
+          "rang_liste": "30"
+        },
+        {
+          "nom": "DELEFORGE",
+          "prenom": "Jean Luc",
+          "nom_complet": "Jean Luc DELEFORGE",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "31"
+        },
+        {
+          "nom": "LEFEBVRE",
+          "prenom": "Giséle",
+          "nom_complet": "Giséle LEFEBVRE",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "32"
+        },
+        {
+          "nom": "TSHISANGA",
+          "prenom": "Benoit",
+          "nom_complet": "Benoit TSHISANGA",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "33"
+        },
+        {
+          "nom": "PLADYS",
+          "prenom": "Marianne",
+          "nom_complet": "Marianne PLADYS",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "34"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "7",
+      "libelle_liste": "AVEC VOUS",
+      "libelle_abrege_liste": "AVEC VOUS",
+      "nuance_liste": "LDVD",
+      "voix": 5415,
+      "pct_voix_exprimes": 25.65,
+      "sieges_cm": 6,
+      "sieges_cc": 1,
+      "nb_elus": 6,
+      "tete_de_liste": {
+        "nom": "BALEDENT",
+        "prenom": "Vincent",
+        "nom_complet": "Vincent BALEDENT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BALEDENT",
+          "prenom": "Vincent",
+          "nom_complet": "Vincent BALEDENT",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BARISEAU",
+          "prenom": "Florence",
+          "nom_complet": "Florence BARISEAU",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "ZONGO",
+          "prenom": "Innocent",
+          "nom_complet": "Innocent ZONGO",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "MOENECLAEY",
+          "prenom": "Graziella",
+          "nom_complet": "Graziella MOENECLAEY",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "CARNOIS",
+          "prenom": "Christian",
+          "nom_complet": "Christian CARNOIS",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "VERKINDERE",
+          "prenom": "Kelly",
+          "nom_complet": "Kelly VERKINDERE",
+          "sexe": "F",
+          "age": 33,
+          "rang_liste": "6"
+        }
+      ],
+      "statut_conseil": "autre"
+    },
+    {
+      "num_panneau": "6",
+      "libelle_liste": "FAISONS MIEUX POUR VILLENEUVE D'ASCQ",
+      "libelle_abrege_liste": "FAISONS MIEUX POUR VILLENEUVE D'ASCQ",
+      "nuance_liste": "LFI",
+      "voix": 4748,
+      "pct_voix_exprimes": 22.49,
+      "sieges_cm": 5,
+      "sieges_cc": 1,
+      "nb_elus": 5,
+      "tete_de_liste": {
+        "nom": "BERNALICIS",
+        "prenom": "Ugo",
+        "nom_complet": "Ugo BERNALICIS",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BERNALICIS",
+          "prenom": "Ugo",
+          "nom_complet": "Ugo BERNALICIS",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DAHMANI",
+          "prenom": "Meriem",
+          "nom_complet": "Meriem DAHMANI",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "MARSZALEK",
+          "prenom": "Antoine",
+          "nom_complet": "Antoine MARSZALEK",
+          "sexe": "M",
+          "age": 31,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "GUILLERET",
+          "prenom": "Garance",
+          "nom_complet": "Garance GUILLERET",
+          "sexe": "F",
+          "age": 23,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "AIT KASSI",
+          "prenom": "Mohamed",
+          "nom_complet": "Mohamed AIT KASSI",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "5"
+        }
+      ],
+      "statut_conseil": "autre"
+    },
+    {
+      "num_panneau": "5",
+      "libelle_liste": "LE PRINTEMPS VILLENEUVOIS",
+      "libelle_abrege_liste": "LE PRINTEMPS VILLENEUVOIS",
+      "nuance_liste": "LUG",
+      "voix": 3787,
+      "pct_voix_exprimes": 17.94,
+      "sieges_cm": 4,
+      "sieges_cc": 1,
+      "nb_elus": 4,
+      "tete_de_liste": {
+        "nom": "SÉGARD",
+        "prenom": "Pauline",
+        "nom_complet": "Pauline SÉGARD",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "SÉGARD",
+          "prenom": "Pauline",
+          "nom_complet": "Pauline SÉGARD",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BURETTE",
+          "prenom": "Victor",
+          "nom_complet": "Victor BURETTE",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "MINGANT",
+          "prenom": "Jeanne",
+          "nom_complet": "Jeanne MINGANT",
+          "sexe": "F",
+          "age": 30,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "OUKAÏD",
+          "prenom": "Farid",
+          "nom_complet": "Farid OUKAÏD",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "4"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

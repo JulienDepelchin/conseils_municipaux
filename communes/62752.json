@@ -1,0 +1,163 @@
+{
+  "code_commune": "62752",
+  "commune": "Saint-Josse",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "DESCHARLES",
+    "prenom": "Jean-Claude",
+    "nom_complet": "Jean-Claude DESCHARLES",
+    "age": 64,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 924,
+    "votants": 487,
+    "pct_votants": 52.71,
+    "abstentions": 437,
+    "pct_abstentions": 47.29,
+    "exprimes": 415
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "AGIR ENSEMBLE",
+      "libelle_abrege_liste": "AGIR ENSEMBLE",
+      "nuance_liste": null,
+      "voix": 415,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": 1,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "DESCHARLES",
+        "prenom": "Jean-Claude",
+        "nom_complet": "Jean-Claude DESCHARLES",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DESCHARLES",
+          "prenom": "Jean-Claude",
+          "nom_complet": "Jean-Claude DESCHARLES",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "CARPENTIER",
+          "prenom": "Charline",
+          "nom_complet": "Charline CARPENTIER",
+          "sexe": "F",
+          "age": 71,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "CLOQUET",
+          "prenom": "Alain",
+          "nom_complet": "Alain CLOQUET",
+          "sexe": "M",
+          "age": 80,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "CARON",
+          "prenom": "Christiane",
+          "nom_complet": "Christiane CARON",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "JUSTINE",
+          "prenom": "Alain",
+          "nom_complet": "Alain JUSTINE",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "MILLESCAMPS",
+          "prenom": "Monique",
+          "nom_complet": "Monique MILLESCAMPS",
+          "sexe": "F",
+          "age": 78,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DUCROCQ",
+          "prenom": "Jean-Luc",
+          "nom_complet": "Jean-Luc DUCROCQ",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "HERMAN",
+          "prenom": "Monique",
+          "nom_complet": "Monique HERMAN",
+          "sexe": "F",
+          "age": 73,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "LAGACHE",
+          "prenom": "Maxime",
+          "nom_complet": "Maxime LAGACHE",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "LEFEBVRE",
+          "prenom": "Françoise",
+          "nom_complet": "Françoise LEFEBVRE",
+          "sexe": "F",
+          "age": 73,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "MAQUINGHEN",
+          "prenom": "Vincent",
+          "nom_complet": "Vincent MAQUINGHEN",
+          "sexe": "M",
+          "age": 34,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "DELBART",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie DELBART",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "QUAREZ",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe QUAREZ",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "BAUMANN",
+          "prenom": "Haide",
+          "nom_complet": "Haide BAUMANN",
+          "sexe": "F",
+          "age": 83,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "FLIPO",
+          "prenom": "Mathieu",
+          "nom_complet": "Mathieu FLIPO",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

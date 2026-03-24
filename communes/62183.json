@@ -1,0 +1,163 @@
+{
+  "code_commune": "62183",
+  "commune": "Buire-le-Sec",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "QUENEHEN",
+    "prenom": "Isabelle",
+    "nom_complet": "Isabelle QUENEHEN",
+    "age": 54,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 565,
+    "votants": 349,
+    "pct_votants": 61.77,
+    "abstentions": 216,
+    "pct_abstentions": 38.23,
+    "exprimes": 270
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Buire le sec, un village vivant, un avenir partagé",
+      "libelle_abrege_liste": "Buire le sec, un village vivant, un avenir partagé",
+      "nuance_liste": null,
+      "voix": 270,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "QUENEHEN",
+        "prenom": "Isabelle",
+        "nom_complet": "Isabelle QUENEHEN",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "QUENEHEN",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle QUENEHEN",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "MASSON",
+          "prenom": "Franck",
+          "nom_complet": "Franck MASSON",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "SEMINERIO",
+          "prenom": "Marion",
+          "nom_complet": "Marion SEMINERIO",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LASSALLE",
+          "prenom": "Francis",
+          "nom_complet": "Francis LASSALLE",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "GOMEL",
+          "prenom": "Fabienne",
+          "nom_complet": "Fabienne GOMEL",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DELOBEL",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas DELOBEL",
+          "sexe": "M",
+          "age": 32,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "LION",
+          "prenom": "Coline",
+          "nom_complet": "Coline LION",
+          "sexe": "F",
+          "age": 27,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "CALIPPE",
+          "prenom": "Thomas",
+          "nom_complet": "Thomas CALIPPE",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "PRUVOT",
+          "prenom": "Karine",
+          "nom_complet": "Karine PRUVOT",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "COLLIGNON",
+          "prenom": "Jonathan",
+          "nom_complet": "Jonathan COLLIGNON",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DUPIRE",
+          "prenom": "Elodie",
+          "nom_complet": "Elodie DUPIRE",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "GUFFROY",
+          "prenom": "Yohan",
+          "nom_complet": "Yohan GUFFROY",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "FOIRATIER",
+          "prenom": "Fabienne",
+          "nom_complet": "Fabienne FOIRATIER",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "MARCOURT",
+          "prenom": "Hugues",
+          "nom_complet": "Hugues MARCOURT",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "VITU",
+          "prenom": "Aurore",
+          "nom_complet": "Aurore VITU",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

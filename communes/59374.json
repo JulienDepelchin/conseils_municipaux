@@ -1,0 +1,131 @@
+{
+  "code_commune": "59374",
+  "commune": "Marbaix",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "FROISSART",
+    "prenom": "Sandrine",
+    "nom_complet": "Sandrine FROISSART",
+    "age": 45,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 342,
+    "votants": 220,
+    "pct_votants": 64.33,
+    "abstentions": 122,
+    "pct_abstentions": 35.67,
+    "exprimes": 161
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "DEMAIN MARBAIX",
+      "libelle_abrege_liste": "DEMAIN MARBAIX",
+      "nuance_liste": null,
+      "voix": 161,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "FROISSART",
+        "prenom": "Sandrine",
+        "nom_complet": "Sandrine FROISSART",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "FROISSART",
+          "prenom": "Sandrine",
+          "nom_complet": "Sandrine FROISSART",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "JACQUEMIN",
+          "prenom": "Edouard",
+          "nom_complet": "Edouard JACQUEMIN",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LEMAIRE",
+          "prenom": "Justine",
+          "nom_complet": "Justine LEMAIRE",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DEGOUSEE",
+          "prenom": "Arnaud",
+          "nom_complet": "Arnaud DEGOUSEE",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "BOELENS",
+          "prenom": "Ludivine",
+          "nom_complet": "Ludivine BOELENS",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "POULEUR",
+          "prenom": "Emmanuel",
+          "nom_complet": "Emmanuel POULEUR",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "CROQUET",
+          "prenom": "Lucie",
+          "nom_complet": "Lucie CROQUET",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "BON",
+          "prenom": "Alexandre",
+          "nom_complet": "Alexandre BON",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "MARLOT",
+          "prenom": "Sandrine",
+          "nom_complet": "Sandrine MARLOT",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DEMANEZ",
+          "prenom": "Anthony",
+          "nom_complet": "Anthony DEMANEZ",
+          "sexe": "M",
+          "age": 33,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "ANDRIES",
+          "prenom": "Aurore",
+          "nom_complet": "Aurore ANDRIES",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

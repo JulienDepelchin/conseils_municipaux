@@ -1,0 +1,215 @@
+{
+  "code_commune": "59464",
+  "commune": "Poix-du-Nord",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "LEPOLARD",
+    "prenom": "Julien",
+    "nom_complet": "Julien LEPOLARD",
+    "age": 44,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1510,
+    "votants": 962,
+    "pct_votants": 63.71,
+    "abstentions": 548,
+    "pct_abstentions": 36.29,
+    "exprimes": 914
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "POIX DU NORD, UNIS ET FORTS !",
+      "libelle_abrege_liste": "POIX DU NORD, UNIS ET FORTS !",
+      "nuance_liste": null,
+      "voix": 586,
+      "pct_voix_exprimes": 64.11,
+      "sieges_cm": 16,
+      "sieges_cc": 2,
+      "nb_elus": 16,
+      "tete_de_liste": {
+        "nom": "LEPOLARD",
+        "prenom": "Julien",
+        "nom_complet": "Julien LEPOLARD",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LEPOLARD",
+          "prenom": "Julien",
+          "nom_complet": "Julien LEPOLARD",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "GHYS",
+          "prenom": "Roxane",
+          "nom_complet": "Roxane GHYS",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "HAUTCOEUR",
+          "prenom": "Guillaume",
+          "nom_complet": "Guillaume HAUTCOEUR",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "JOVENIAUX",
+          "prenom": "Ludivine",
+          "nom_complet": "Ludivine JOVENIAUX",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "PAUL",
+          "prenom": "Geoffrey",
+          "nom_complet": "Geoffrey PAUL",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DURIEUX",
+          "prenom": "Karine",
+          "nom_complet": "Karine DURIEUX",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "GREVIN",
+          "prenom": "Cedric",
+          "nom_complet": "Cedric GREVIN",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "BRUYER",
+          "prenom": "Corinne",
+          "nom_complet": "Corinne BRUYER",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "JEUNE",
+          "prenom": "Mathis",
+          "nom_complet": "Mathis JEUNE",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "BETHENCOURT",
+          "prenom": "Julie",
+          "nom_complet": "Julie BETHENCOURT",
+          "sexe": "F",
+          "age": 27,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "WILLERY",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe WILLERY",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "NAVEAU",
+          "prenom": "Alice",
+          "nom_complet": "Alice NAVEAU",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "SOIGNEUX",
+          "prenom": "Lionel",
+          "nom_complet": "Lionel SOIGNEUX",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "CARLIER",
+          "prenom": "Johanna",
+          "nom_complet": "Johanna CARLIER",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "BAUDCHON",
+          "prenom": "Evan",
+          "nom_complet": "Evan BAUDCHON",
+          "sexe": "M",
+          "age": 19,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "DUPONT",
+          "prenom": "Callysta",
+          "nom_complet": "Callysta DUPONT",
+          "sexe": "F",
+          "age": 20,
+          "rang_liste": "16"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "Ensemble pour Poix du Nord",
+      "libelle_abrege_liste": "Ensemble pour Poix du Nord",
+      "nuance_liste": null,
+      "voix": 328,
+      "pct_voix_exprimes": 35.89,
+      "sieges_cm": 3,
+      "sieges_cc": 1,
+      "nb_elus": 3,
+      "tete_de_liste": {
+        "nom": "LEDUC",
+        "prenom": "David",
+        "nom_complet": "David LEDUC",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LEDUC",
+          "prenom": "David",
+          "nom_complet": "David LEDUC",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "GARCIA",
+          "prenom": "Carole",
+          "nom_complet": "Carole GARCIA",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LECUYER",
+          "prenom": "René",
+          "nom_complet": "René LECUYER",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "3"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

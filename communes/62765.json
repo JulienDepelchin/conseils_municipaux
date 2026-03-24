@@ -1,0 +1,327 @@
+{
+  "code_commune": "62765",
+  "commune": "Saint-Omer",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "DECOSTER",
+    "prenom": "François",
+    "nom_complet": "François DECOSTER",
+    "age": 52,
+    "nuance": "LUC"
+  },
+  "resultats": {
+    "inscrits": 8768,
+    "votants": 4519,
+    "pct_votants": 51.54,
+    "abstentions": 4249,
+    "pct_abstentions": 48.46,
+    "exprimes": 4309
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "Saint-Omer pour tous et pour chacun",
+      "libelle_abrege_liste": "Saint-Omer pour tous et pour chacun",
+      "nuance_liste": "LUC",
+      "voix": 3107,
+      "pct_voix_exprimes": 72.1,
+      "sieges_cm": 29,
+      "sieges_cc": 11,
+      "nb_elus": 29,
+      "tete_de_liste": {
+        "nom": "DECOSTER",
+        "prenom": "François",
+        "nom_complet": "François DECOSTER",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DECOSTER",
+          "prenom": "François",
+          "nom_complet": "François DECOSTER",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "VOLLE MONTERA",
+          "prenom": "Muriel",
+          "nom_complet": "Muriel VOLLE MONTERA",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "SABLON",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric SABLON",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LAPACZ",
+          "prenom": "Céline",
+          "nom_complet": "Céline LAPACZ",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "HUMETZ",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno HUMETZ",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DECOCQ",
+          "prenom": "Steffie",
+          "nom_complet": "Steffie DECOCQ",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "TRUANT",
+          "prenom": "Jonathan",
+          "nom_complet": "Jonathan TRUANT",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LUX",
+          "prenom": "Chloé",
+          "nom_complet": "Chloé LUX",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "MOLIN",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe MOLIN",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "SINGER",
+          "prenom": "Sarah",
+          "nom_complet": "Sarah SINGER",
+          "sexe": "F",
+          "age": 30,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "BOIDIN",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe BOIDIN",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "BERTHELEMY",
+          "prenom": "Caroline",
+          "nom_complet": "Caroline BERTHELEMY",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "BRULIN",
+          "prenom": "Franck",
+          "nom_complet": "Franck BRULIN",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "QUINIOU-HEROGUEL",
+          "prenom": "Morgane",
+          "nom_complet": "Morgane QUINIOU-HEROGUEL",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "ADOU",
+          "prenom": "Jean-Raphaël",
+          "nom_complet": "Jean-Raphaël ADOU",
+          "sexe": "M",
+          "age": 28,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "LEPETIT",
+          "prenom": "Vittoria",
+          "nom_complet": "Vittoria LEPETIT",
+          "sexe": "F",
+          "age": 20,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "MAGNIER",
+          "prenom": "Vincent",
+          "nom_complet": "Vincent MAGNIER",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "DEBAST",
+          "prenom": "Claudette",
+          "nom_complet": "Claudette DEBAST",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "LECAT",
+          "prenom": "Maxence",
+          "nom_complet": "Maxence LECAT",
+          "sexe": "M",
+          "age": 26,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "MAERTEN",
+          "prenom": "Christine",
+          "nom_complet": "Christine MAERTEN",
+          "sexe": "F",
+          "age": 74,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "DEWAGHE",
+          "prenom": "Bertrand",
+          "nom_complet": "Bertrand DEWAGHE",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "PENEL",
+          "prenom": "Katty",
+          "nom_complet": "Katty PENEL",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "WATELLE",
+          "prenom": "Jean-Pierre",
+          "nom_complet": "Jean-Pierre WATELLE",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "23"
+        },
+        {
+          "nom": "NONNON",
+          "prenom": "Véronique",
+          "nom_complet": "Véronique NONNON",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "24"
+        },
+        {
+          "nom": "HARCHAOUI",
+          "prenom": "Ali",
+          "nom_complet": "Ali HARCHAOUI",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "25"
+        },
+        {
+          "nom": "BOYAVAL",
+          "prenom": "Chloé",
+          "nom_complet": "Chloé BOYAVAL",
+          "sexe": "F",
+          "age": 30,
+          "rang_liste": "26"
+        },
+        {
+          "nom": "FOUQUE",
+          "prenom": "Jean",
+          "nom_complet": "Jean FOUQUE",
+          "sexe": "M",
+          "age": 76,
+          "rang_liste": "27"
+        },
+        {
+          "nom": "TREGOUET",
+          "prenom": "Annie",
+          "nom_complet": "Annie TREGOUET",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "28"
+        },
+        {
+          "nom": "MARZAK",
+          "prenom": "Mohamed",
+          "nom_complet": "Mohamed MARZAK",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "29"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "SAINT-OMER VIVANTE ET SOLIDAIRE!",
+      "libelle_abrege_liste": "SAINT-OMER VIVANTE ET SOLIDAIRE!",
+      "nuance_liste": "LDVG",
+      "voix": 1202,
+      "pct_voix_exprimes": 27.9,
+      "sieges_cm": 4,
+      "sieges_cc": 1,
+      "nb_elus": 4,
+      "tete_de_liste": {
+        "nom": "SORREAU",
+        "prenom": "Gwenaële",
+        "nom_complet": "Gwenaële SORREAU",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "SORREAU",
+          "prenom": "Gwenaële",
+          "nom_complet": "Gwenaële SORREAU",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "ROUSSEL",
+          "prenom": "Simon",
+          "nom_complet": "Simon ROUSSEL",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BOUCHU",
+          "prenom": "Léa",
+          "nom_complet": "Léa BOUCHU",
+          "sexe": "F",
+          "age": 29,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "OLIVÉ",
+          "prenom": "Vincent",
+          "nom_complet": "Vincent OLIVÉ",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "4"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

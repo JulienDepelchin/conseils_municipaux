@@ -1,0 +1,163 @@
+{
+  "code_commune": "59023",
+  "commune": "Aubencheul-au-Bac",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "PRETTRE",
+    "prenom": "Michel",
+    "nom_complet": "Michel PRETTRE",
+    "age": 72,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 392,
+    "votants": 243,
+    "pct_votants": 61.99,
+    "abstentions": 149,
+    "pct_abstentions": 38.01,
+    "exprimes": 217
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Ensemble pour Aubencheul",
+      "libelle_abrege_liste": "Ensemble pour Aubencheul",
+      "nuance_liste": null,
+      "voix": 217,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "PRETTRE",
+        "prenom": "Michel",
+        "nom_complet": "Michel PRETTRE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "PRETTRE",
+          "prenom": "Michel",
+          "nom_complet": "Michel PRETTRE",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "CHRISTIAENS",
+          "prenom": "Marie Thérèse",
+          "nom_complet": "Marie Thérèse CHRISTIAENS",
+          "sexe": "F",
+          "age": 79,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DE NOTARIS",
+          "prenom": "Édouard",
+          "nom_complet": "Édouard DE NOTARIS",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DORDAIN",
+          "prenom": "Christelle",
+          "nom_complet": "Christelle DORDAIN",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DEKEYNE",
+          "prenom": "Adrien",
+          "nom_complet": "Adrien DEKEYNE",
+          "sexe": "M",
+          "age": 31,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DRINAL",
+          "prenom": "Sarah",
+          "nom_complet": "Sarah DRINAL",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DRINAL",
+          "prenom": "Ludovic",
+          "nom_complet": "Ludovic DRINAL",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "MATUSZAK",
+          "prenom": "Marie",
+          "nom_complet": "Marie MATUSZAK",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "BOUSSEMAERE",
+          "prenom": "Michel",
+          "nom_complet": "Michel BOUSSEMAERE",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "PRETTRE",
+          "prenom": "Marie-Lyne",
+          "nom_complet": "Marie-Lyne PRETTRE",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "LECLERCQ",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick LECLERCQ",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "GRÉAUME",
+          "prenom": "Maïté",
+          "nom_complet": "Maïté GRÉAUME",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "DUCHATELLE",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal DUCHATELLE",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "CORSEAUX",
+          "prenom": "Line",
+          "nom_complet": "Line CORSEAUX",
+          "sexe": "F",
+          "age": 71,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "ARMAND",
+          "prenom": "Thierry",
+          "nom_complet": "Thierry ARMAND",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

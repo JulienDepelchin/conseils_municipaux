@@ -1,0 +1,151 @@
+{
+  "code_commune": "62698",
+  "commune": "Recques-sur-Course",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "VAN ROBAIS",
+    "prenom": "Arnaud",
+    "nom_complet": "Arnaud VAN ROBAIS",
+    "age": 70,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 235,
+    "votants": 189,
+    "pct_votants": 80.43,
+    "abstentions": 46,
+    "pct_abstentions": 19.57,
+    "exprimes": 182
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "AGIR POUR L'AVENIR DE RECQUES SUR COURSE",
+      "libelle_abrege_liste": "AGIR POUR L'AVENIR DE RECQUES SUR COURSE",
+      "nuance_liste": null,
+      "voix": 97,
+      "pct_voix_exprimes": 53.3,
+      "sieges_cm": 9,
+      "sieges_cc": null,
+      "nb_elus": 9,
+      "tete_de_liste": {
+        "nom": "VAN ROBAIS",
+        "prenom": "Arnaud",
+        "nom_complet": "Arnaud VAN ROBAIS",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "VAN ROBAIS",
+          "prenom": "Arnaud",
+          "nom_complet": "Arnaud VAN ROBAIS",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "CORDIER",
+          "prenom": "Marie-José",
+          "nom_complet": "Marie-José CORDIER",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DEPRE",
+          "prenom": "Xavier",
+          "nom_complet": "Xavier DEPRE",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "HAULLEVILLE",
+          "prenom": "Virginie",
+          "nom_complet": "Virginie HAULLEVILLE",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LEDET",
+          "prenom": "Jérôme",
+          "nom_complet": "Jérôme LEDET",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "POHIER",
+          "prenom": "Gwendoline",
+          "nom_complet": "Gwendoline POHIER",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BELIN",
+          "prenom": "Thierry",
+          "nom_complet": "Thierry BELIN",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DEDRYVER",
+          "prenom": "Anne-Françoise",
+          "nom_complet": "Anne-Françoise DEDRYVER",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "PESLERBE",
+          "prenom": "Marc",
+          "nom_complet": "Marc PESLERBE",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "9"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Unis pour le bien-vivre à Recques-sur-Course",
+      "libelle_abrege_liste": "Unis pour le bien-vivre à Recques-sur-Course",
+      "nuance_liste": null,
+      "voix": 85,
+      "pct_voix_exprimes": 46.7,
+      "sieges_cm": 2,
+      "sieges_cc": null,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "JUMEZ",
+        "prenom": "Maryse",
+        "nom_complet": "Maryse JUMEZ",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "JUMEZ",
+          "prenom": "Maryse",
+          "nom_complet": "Maryse JUMEZ",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "VARLET",
+          "prenom": "Michel",
+          "nom_complet": "Michel VARLET",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

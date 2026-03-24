@@ -1,0 +1,163 @@
+{
+  "code_commune": "59144",
+  "commune": "Château-l'Abbaye",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "DE BRUYNE",
+    "prenom": "Nathalie",
+    "nom_complet": "Nathalie DE BRUYNE",
+    "age": 57,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 686,
+    "votants": 394,
+    "pct_votants": 57.43,
+    "abstentions": 292,
+    "pct_abstentions": 42.57,
+    "exprimes": 330
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Unis pour l'Expérience, portés par un nouvel élan pour Chêteau l'Abbaye",
+      "libelle_abrege_liste": "Unis par l'Expérience, portés par un nouvel élan pour Château l'Abbaye",
+      "nuance_liste": null,
+      "voix": 330,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "DE BRUYNE",
+        "prenom": "Nathalie",
+        "nom_complet": "Nathalie DE BRUYNE",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "DE BRUYNE",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie DE BRUYNE",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LEMPEREUR",
+          "prenom": "Jean-François",
+          "nom_complet": "Jean-François LEMPEREUR",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "SICARD",
+          "prenom": "Emmanuelle",
+          "nom_complet": "Emmanuelle SICARD",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DOMIN",
+          "prenom": "Waldemar",
+          "nom_complet": "Waldemar DOMIN",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DELCROIX",
+          "prenom": "Christelle",
+          "nom_complet": "Christelle DELCROIX",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DUVAL",
+          "prenom": "Benjamin",
+          "nom_complet": "Benjamin DUVAL",
+          "sexe": "M",
+          "age": 32,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "FOURNEAUX",
+          "prenom": "Béatrice",
+          "nom_complet": "Béatrice FOURNEAUX",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "CAUCHETEUX",
+          "prenom": "Sébastien",
+          "nom_complet": "Sébastien CAUCHETEUX",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "MORLIGHEM",
+          "prenom": "Priscilla",
+          "nom_complet": "Priscilla MORLIGHEM",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "GERVAIS",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier GERVAIS",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "PENNEL",
+          "prenom": "Evelyne",
+          "nom_complet": "Evelyne PENNEL",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "BALLE",
+          "prenom": "Jean-Benoît",
+          "nom_complet": "Jean-Benoît BALLE",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "MARTREUX",
+          "prenom": "Nadine",
+          "nom_complet": "Nadine MARTREUX",
+          "sexe": "F",
+          "age": 74,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "CORNU",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe CORNU",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "FOUCRAS",
+          "prenom": "Evelyne",
+          "nom_complet": "Evelyne FOUCRAS",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

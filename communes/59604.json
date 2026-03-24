@@ -1,0 +1,163 @@
+{
+  "code_commune": "59604",
+  "commune": "Troisvilles",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "RICHARD",
+    "prenom": "Jeremy",
+    "nom_complet": "Jeremy RICHARD",
+    "age": 42,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 542,
+    "votants": 333,
+    "pct_votants": 61.44,
+    "abstentions": 209,
+    "pct_abstentions": 38.56,
+    "exprimes": 276
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Pour Troisvilles !",
+      "libelle_abrege_liste": "Pour Troisvilles !",
+      "nuance_liste": null,
+      "voix": 276,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "RICHARD",
+        "prenom": "Jeremy",
+        "nom_complet": "Jeremy RICHARD",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "RICHARD",
+          "prenom": "Jeremy",
+          "nom_complet": "Jeremy RICHARD",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BLARY",
+          "prenom": "Guislaine",
+          "nom_complet": "Guislaine BLARY",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "GRASSART",
+          "prenom": "Patrice",
+          "nom_complet": "Patrice GRASSART",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "SANTERRE",
+          "prenom": "Francoise",
+          "nom_complet": "Francoise SANTERRE",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "QUENNESON",
+          "prenom": "Jean-Michel",
+          "nom_complet": "Jean-Michel QUENNESON",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DAVAIN",
+          "prenom": "Marie-Paule",
+          "nom_complet": "Marie-Paule DAVAIN",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "TAMBOISE",
+          "prenom": "Emmanuel",
+          "nom_complet": "Emmanuel TAMBOISE",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DENHEZ",
+          "prenom": "Marie-Annick",
+          "nom_complet": "Marie-Annick DENHEZ",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "HERBIN",
+          "prenom": "Aurelien",
+          "nom_complet": "Aurelien HERBIN",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "ROUTIER",
+          "prenom": "Stephanie",
+          "nom_complet": "Stephanie ROUTIER",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "BURLION",
+          "prenom": "Francis",
+          "nom_complet": "Francis BURLION",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "LECLERCQ",
+          "prenom": "Fanny-Zoé",
+          "nom_complet": "Fanny-Zoé LECLERCQ",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "LACOMBLED",
+          "prenom": "Romain",
+          "nom_complet": "Romain LACOMBLED",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "PUCH",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle PUCH",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "KACZALA",
+          "prenom": "Yannick",
+          "nom_complet": "Yannick KACZALA",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

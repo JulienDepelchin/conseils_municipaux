@@ -1,0 +1,163 @@
+{
+  "code_commune": "59363",
+  "commune": "Louvignies-Quesnoy",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "LAGNY",
+    "prenom": "Georges",
+    "nom_complet": "Georges LAGNY",
+    "age": 64,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 656,
+    "votants": 362,
+    "pct_votants": 55.18,
+    "abstentions": 294,
+    "pct_abstentions": 44.82,
+    "exprimes": 302
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "LOUV'UNIS",
+      "libelle_abrege_liste": "LOUV'UNIS",
+      "nuance_liste": null,
+      "voix": 302,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "LAGNY",
+        "prenom": "Georges",
+        "nom_complet": "Georges LAGNY",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LAGNY",
+          "prenom": "Georges",
+          "nom_complet": "Georges LAGNY",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "PROCUREUR",
+          "prenom": "Melodie",
+          "nom_complet": "Melodie PROCUREUR",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "TRIPIANA",
+          "prenom": "Eric",
+          "nom_complet": "Eric TRIPIANA",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LOPEZ",
+          "prenom": "Pascale",
+          "nom_complet": "Pascale LOPEZ",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "PETIT",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier PETIT",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "EDIBE",
+          "prenom": "Janice",
+          "nom_complet": "Janice EDIBE",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BLOMME",
+          "prenom": "Sebastien",
+          "nom_complet": "Sebastien BLOMME",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "BOUTTEAUX",
+          "prenom": "Cathy",
+          "nom_complet": "Cathy BOUTTEAUX",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "BRUYERE",
+          "prenom": "Jean-Marc",
+          "nom_complet": "Jean-Marc BRUYERE",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "LEDOUX",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle LEDOUX",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "TONDEUR",
+          "prenom": "Regis",
+          "nom_complet": "Regis TONDEUR",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "MAURICE",
+          "prenom": "Emmanuelle",
+          "nom_complet": "Emmanuelle MAURICE",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "DRAMEZ",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe DRAMEZ",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "POTTIEZ",
+          "prenom": "Dorothee",
+          "nom_complet": "Dorothee POTTIEZ",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "TONDEUR",
+          "prenom": "Pierre",
+          "nom_complet": "Pierre TONDEUR",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

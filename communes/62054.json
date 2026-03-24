@@ -1,0 +1,163 @@
+{
+  "code_commune": "62054",
+  "commune": "Audinghen",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "SARPAUX",
+    "prenom": "Marc",
+    "nom_complet": "Marc SARPAUX",
+    "age": 73,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 493,
+    "votants": 317,
+    "pct_votants": 64.3,
+    "abstentions": 176,
+    "pct_abstentions": 35.7,
+    "exprimes": 239
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "AUDINGHEN DEMAIN",
+      "libelle_abrege_liste": "AUDINGHEN DEMAIN",
+      "nuance_liste": null,
+      "voix": 239,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "SARPAUX",
+        "prenom": "Marc",
+        "nom_complet": "Marc SARPAUX",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "SARPAUX",
+          "prenom": "Marc",
+          "nom_complet": "Marc SARPAUX",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "ALLEXANDRE",
+          "prenom": "Marie-Thérèse",
+          "nom_complet": "Marie-Thérèse ALLEXANDRE",
+          "sexe": "F",
+          "age": 76,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "CUVILLIER",
+          "prenom": "Xavier",
+          "nom_complet": "Xavier CUVILLIER",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "GRESSIER",
+          "prenom": "Michèle",
+          "nom_complet": "Michèle GRESSIER",
+          "sexe": "F",
+          "age": 80,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DUTERTE",
+          "prenom": "Benoit",
+          "nom_complet": "Benoit DUTERTE",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "FIOLET",
+          "prenom": "Emeline",
+          "nom_complet": "Emeline FIOLET",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "PERON",
+          "prenom": "Yves",
+          "nom_complet": "Yves PERON",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "CUGNY",
+          "prenom": "Aurélie",
+          "nom_complet": "Aurélie CUGNY",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "VIDAL",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe VIDAL",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "CUVILLIER",
+          "prenom": "Gaelle",
+          "nom_complet": "Gaelle CUVILLIER",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "RIGAUX",
+          "prenom": "Thierry",
+          "nom_complet": "Thierry RIGAUX",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "CLIQUENNOIS",
+          "prenom": "Christelle",
+          "nom_complet": "Christelle CLIQUENNOIS",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "PECRIAUX",
+          "prenom": "Arnaud",
+          "nom_complet": "Arnaud PECRIAUX",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "MALFOY",
+          "prenom": "Elodie",
+          "nom_complet": "Elodie MALFOY",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "POULAIN",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal POULAIN",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

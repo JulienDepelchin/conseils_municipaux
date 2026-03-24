@@ -1,0 +1,183 @@
+{
+  "code_commune": "62330",
+  "commune": "Festubert",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "LOISEAU",
+    "prenom": "Gérard",
+    "nom_complet": "Gérard LOISEAU",
+    "age": 69,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1055,
+    "votants": 737,
+    "pct_votants": 69.86,
+    "abstentions": 318,
+    "pct_abstentions": 30.14,
+    "exprimes": 717
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "UN AVENIR, UN VILLAGE, UNE EQUIPE",
+      "libelle_abrege_liste": "UN AVENIR, UN VILLAGE, UNE EQUIPE",
+      "nuance_liste": null,
+      "voix": 382,
+      "pct_voix_exprimes": 53.28,
+      "sieges_cm": 12,
+      "sieges_cc": 1,
+      "nb_elus": 12,
+      "tete_de_liste": {
+        "nom": "LOISEAU",
+        "prenom": "Gérard",
+        "nom_complet": "Gérard LOISEAU",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LOISEAU",
+          "prenom": "Gérard",
+          "nom_complet": "Gérard LOISEAU",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "MICHEZ",
+          "prenom": "Vanessa",
+          "nom_complet": "Vanessa MICHEZ",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "MASCLET",
+          "prenom": "Frederic",
+          "nom_complet": "Frederic MASCLET",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "MINEBOIS",
+          "prenom": "Noëlle",
+          "nom_complet": "Noëlle MINEBOIS",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DUBOIS",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno DUBOIS",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "TOULOTTE",
+          "prenom": "Alissa",
+          "nom_complet": "Alissa TOULOTTE",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "GALLET",
+          "prenom": "Gérard",
+          "nom_complet": "Gérard GALLET",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "CORREIA",
+          "prenom": "Ludivine",
+          "nom_complet": "Ludivine CORREIA",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "KRUSZKA",
+          "prenom": "François",
+          "nom_complet": "François KRUSZKA",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "BONDELU",
+          "prenom": "Corinne",
+          "nom_complet": "Corinne BONDELU",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "ROGER",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier ROGER",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "DELVAUX",
+          "prenom": "Amelie",
+          "nom_complet": "Amelie DELVAUX",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "12"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "FESTUBERT 2026 : AGIR & EVOLUER ENSEMBLE",
+      "libelle_abrege_liste": "FESTUBERT 2026 : AGIR & EVOLUER ENSEMBLE",
+      "nuance_liste": null,
+      "voix": 335,
+      "pct_voix_exprimes": 46.72,
+      "sieges_cm": 3,
+      "sieges_cc": 0,
+      "nb_elus": 3,
+      "tete_de_liste": {
+        "nom": "MILVILLE",
+        "prenom": "Jérôme",
+        "nom_complet": "Jérôme MILVILLE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "MILVILLE",
+          "prenom": "Jérôme",
+          "nom_complet": "Jérôme MILVILLE",
+          "sexe": "M",
+          "age": 33,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DUTERIEZ",
+          "prenom": "Marie-Louise",
+          "nom_complet": "Marie-Louise DUTERIEZ",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "QUENIART",
+          "prenom": "Damien",
+          "nom_complet": "Damien QUENIART",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "3"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

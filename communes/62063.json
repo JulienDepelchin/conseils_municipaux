@@ -1,0 +1,195 @@
+{
+  "code_commune": "62063",
+  "commune": "Avesnes-le-Comte",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "BERTOUT",
+    "prenom": "Sébastien",
+    "nom_complet": "Sébastien BERTOUT",
+    "age": 51,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1466,
+    "votants": 730,
+    "pct_votants": 49.8,
+    "abstentions": 736,
+    "pct_abstentions": 50.2,
+    "exprimes": 554
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "UNIS DANS LA CONTINUITE",
+      "libelle_abrege_liste": "UNIS DANS LA CONTINUITE",
+      "nuance_liste": null,
+      "voix": 554,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 19,
+      "sieges_cc": 5,
+      "nb_elus": 19,
+      "tete_de_liste": {
+        "nom": "BERTOUT",
+        "prenom": "Sébastien",
+        "nom_complet": "Sébastien BERTOUT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BERTOUT",
+          "prenom": "Sébastien",
+          "nom_complet": "Sébastien BERTOUT",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "GABEZ",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie GABEZ",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "THILLIEZ",
+          "prenom": "Arnould",
+          "nom_complet": "Arnould THILLIEZ",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DELPORTE",
+          "prenom": "Michele",
+          "nom_complet": "Michele DELPORTE",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DELASSUS",
+          "prenom": "Francis",
+          "nom_complet": "Francis DELASSUS",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "CAUET",
+          "prenom": "Murielle",
+          "nom_complet": "Murielle CAUET",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "HULOT",
+          "prenom": "Alexandre",
+          "nom_complet": "Alexandre HULOT",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DAMBREVILLE",
+          "prenom": "Florence",
+          "nom_complet": "Florence DAMBREVILLE",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DESCHEEMAKER",
+          "prenom": "Cyril",
+          "nom_complet": "Cyril DESCHEEMAKER",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "RICHARD",
+          "prenom": "Brigitte",
+          "nom_complet": "Brigitte RICHARD",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "LEFEBVRE",
+          "prenom": "Robin",
+          "nom_complet": "Robin LEFEBVRE",
+          "sexe": "M",
+          "age": 30,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "MARTIN",
+          "prenom": "Micheline",
+          "nom_complet": "Micheline MARTIN",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "DULIEU",
+          "prenom": "Johan",
+          "nom_complet": "Johan DULIEU",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "ASQUIN",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie ASQUIN",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "MUCHEMBLED",
+          "prenom": "Eddy",
+          "nom_complet": "Eddy MUCHEMBLED",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "MALBRANQUE",
+          "prenom": "Sabine",
+          "nom_complet": "Sabine MALBRANQUE",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "HEIRMAN",
+          "prenom": "Lucas",
+          "nom_complet": "Lucas HEIRMAN",
+          "sexe": "M",
+          "age": 27,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "LAVERDURE",
+          "prenom": "Héléna",
+          "nom_complet": "Héléna LAVERDURE",
+          "sexe": "F",
+          "age": 22,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "LEROY",
+          "prenom": "Jérôme",
+          "nom_complet": "Jérôme LEROY",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "19"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

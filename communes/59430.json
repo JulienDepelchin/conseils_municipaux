@@ -1,0 +1,163 @@
+{
+  "code_commune": "59430",
+  "commune": "Neuvilly",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "KUDLA",
+    "prenom": "Barbara",
+    "nom_complet": "Barbara KUDLA",
+    "age": 37,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 827,
+    "votants": 438,
+    "pct_votants": 52.96,
+    "abstentions": 389,
+    "pct_abstentions": 47.04,
+    "exprimes": 376
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "NOUVELLE VISION POUR NEUVILLY",
+      "libelle_abrege_liste": "NOUVELLE VISION POUR NEUVILLY",
+      "nuance_liste": null,
+      "voix": 376,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": 1,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "KUDLA",
+        "prenom": "Barbara",
+        "nom_complet": "Barbara KUDLA",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "KUDLA",
+          "prenom": "Barbara",
+          "nom_complet": "Barbara KUDLA",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "TAISNE",
+          "prenom": "Julien",
+          "nom_complet": "Julien TAISNE",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "WATREMEZ",
+          "prenom": "Lucille",
+          "nom_complet": "Lucille WATREMEZ",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "RENAUD",
+          "prenom": "Thomas",
+          "nom_complet": "Thomas RENAUD",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "HAPPE",
+          "prenom": "Marie-Gabrielle",
+          "nom_complet": "Marie-Gabrielle HAPPE",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "CLAISSE",
+          "prenom": "Marc-Etienne",
+          "nom_complet": "Marc-Etienne CLAISSE",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "MONIEZ",
+          "prenom": "Corinne",
+          "nom_complet": "Corinne MONIEZ",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DRUBAY",
+          "prenom": "Patrice",
+          "nom_complet": "Patrice DRUBAY",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "HAVART",
+          "prenom": "Tamara",
+          "nom_complet": "Tamara HAVART",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "BRICOUT",
+          "prenom": "Jonathan",
+          "nom_complet": "Jonathan BRICOUT",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DENNETIÈRE",
+          "prenom": "Laëtitia",
+          "nom_complet": "Laëtitia DENNETIÈRE",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "CAPON",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier CAPON",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "FLEURY",
+          "prenom": "Anne-Sophie",
+          "nom_complet": "Anne-Sophie FLEURY",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "BAILLEUX",
+          "prenom": "Fabrice",
+          "nom_complet": "Fabrice BAILLEUX",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "GRIERE",
+          "prenom": "Audrey",
+          "nom_complet": "Audrey GRIERE",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

@@ -1,0 +1,299 @@
+{
+  "code_commune": "59580",
+  "commune": "Steenvoorde",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "DEHUYSSER",
+    "prenom": "Jean-Luc",
+    "nom_complet": "Jean-Luc DEHUYSSER",
+    "age": 65,
+    "nuance": "LDVC"
+  },
+  "resultats": {
+    "inscrits": 3252,
+    "votants": 2221,
+    "pct_votants": 68.3,
+    "abstentions": 1031,
+    "pct_abstentions": 31.7,
+    "exprimes": 2130
+  },
+  "listes": [
+    {
+      "num_panneau": "3",
+      "libelle_liste": "Avec vous pour Steenvoorde",
+      "libelle_abrege_liste": "avps",
+      "nuance_liste": "LDVC",
+      "voix": 1146,
+      "pct_voix_exprimes": 53.8,
+      "sieges_cm": 21,
+      "sieges_cc": 2,
+      "nb_elus": 21,
+      "tete_de_liste": {
+        "nom": "DEHUYSSER",
+        "prenom": "Jean-Luc",
+        "nom_complet": "Jean-Luc DEHUYSSER",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DEHUYSSER",
+          "prenom": "Jean-Luc",
+          "nom_complet": "Jean-Luc DEHUYSSER",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "STAELEN",
+          "prenom": "Edith",
+          "nom_complet": "Edith STAELEN",
+          "sexe": "F",
+          "age": 73,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DEBRUYNE",
+          "prenom": "Yves",
+          "nom_complet": "Yves DEBRUYNE",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "SAVARY",
+          "prenom": "Marie-Astrid",
+          "nom_complet": "Marie-Astrid SAVARY",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "BOUREZ",
+          "prenom": "Alexis",
+          "nom_complet": "Alexis BOUREZ",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DECOSTER",
+          "prenom": "Adeline",
+          "nom_complet": "Adeline DECOSTER",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "PANNEQUIN",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas PANNEQUIN",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "WYLLEMAN",
+          "prenom": "Marie-France",
+          "nom_complet": "Marie-France WYLLEMAN",
+          "sexe": "F",
+          "age": 78,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "D'HAUDT",
+          "prenom": "Fabrice",
+          "nom_complet": "Fabrice D'HAUDT",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DEHUYSSER",
+          "prenom": "Pauline",
+          "nom_complet": "Pauline DEHUYSSER",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "OBRY",
+          "prenom": "Yannick",
+          "nom_complet": "Yannick OBRY",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "VANACKER",
+          "prenom": "Laurence",
+          "nom_complet": "Laurence VANACKER",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "VERDONCK",
+          "prenom": "Fabien",
+          "nom_complet": "Fabien VERDONCK",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "PEREZ",
+          "prenom": "Manon",
+          "nom_complet": "Manon PEREZ",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "BARET",
+          "prenom": "Hervé",
+          "nom_complet": "Hervé BARET",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "DEBUY",
+          "prenom": "Marie-Laurence",
+          "nom_complet": "Marie-Laurence DEBUY",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "PERAL",
+          "prenom": "Sébastien",
+          "nom_complet": "Sébastien PERAL",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "ROUSSEL",
+          "prenom": "Céline",
+          "nom_complet": "Céline ROUSSEL",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "VANNEUVILLE",
+          "prenom": "Régis",
+          "nom_complet": "Régis VANNEUVILLE",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "MACKE",
+          "prenom": "Martine",
+          "nom_complet": "Martine MACKE",
+          "sexe": "F",
+          "age": 73,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "DEVOS",
+          "prenom": "Jordan",
+          "nom_complet": "Jordan DEVOS",
+          "sexe": "M",
+          "age": 29,
+          "rang_liste": "21"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "Agissons ensemble pour Steenvoorde",
+      "libelle_abrege_liste": "AEPS",
+      "nuance_liste": "LDVC",
+      "voix": 609,
+      "pct_voix_exprimes": 28.59,
+      "sieges_cm": 4,
+      "sieges_cc": 1,
+      "nb_elus": 4,
+      "tete_de_liste": {
+        "nom": "GODEL",
+        "prenom": "Régis",
+        "nom_complet": "Régis GODEL",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "GODEL",
+          "prenom": "Régis",
+          "nom_complet": "Régis GODEL",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "MILLECAMPS",
+          "prenom": "Mélanie",
+          "nom_complet": "Mélanie MILLECAMPS",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "PROVOOST",
+          "prenom": "Jérémie",
+          "nom_complet": "Jérémie PROVOOST",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BUYSSECHAERT",
+          "prenom": "Jeanne",
+          "nom_complet": "Jeanne BUYSSECHAERT",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "4"
+        }
+      ],
+      "statut_conseil": "autre"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Steenvoorde forte de vos idées",
+      "libelle_abrege_liste": "SFDVI",
+      "nuance_liste": "LDVD",
+      "voix": 375,
+      "pct_voix_exprimes": 17.61,
+      "sieges_cm": 2,
+      "sieges_cc": 0,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "FIOEN",
+        "prenom": "Matthieu",
+        "nom_complet": "Matthieu FIOEN",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "FIOEN",
+          "prenom": "Matthieu",
+          "nom_complet": "Matthieu FIOEN",
+          "sexe": "M",
+          "age": 33,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DEWAELE",
+          "prenom": "Elisabeth",
+          "nom_complet": "Elisabeth DEWAELE",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

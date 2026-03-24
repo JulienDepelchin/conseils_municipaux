@@ -1,0 +1,375 @@
+{
+  "code_commune": "62510",
+  "commune": "Liévin",
+  "departement": "Pas-de-Calais",
+  "tour": "T2",
+  "maire": {
+    "nom": "PAIVA",
+    "prenom": "Dany",
+    "nom_complet": "Dany PAIVA",
+    "age": 30,
+    "nuance": "LRN"
+  },
+  "resultats": {
+    "inscrits": 21318,
+    "votants": 11704,
+    "pct_votants": 54.9,
+    "abstentions": 9614,
+    "pct_abstentions": 45.1,
+    "exprimes": 11347
+  },
+  "listes": [
+    {
+      "num_panneau": "3",
+      "libelle_liste": "LIEVIN POUR VOUS D'ABORD !",
+      "libelle_abrege_liste": "LIEVIN POUR VOUS D'ABORD !",
+      "nuance_liste": "LRN",
+      "voix": 6080,
+      "pct_voix_exprimes": 53.58,
+      "sieges_cm": 30,
+      "sieges_cc": 8,
+      "nb_elus": 30,
+      "tete_de_liste": {
+        "nom": "PAIVA",
+        "prenom": "Dany",
+        "nom_complet": "Dany PAIVA",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "PAIVA",
+          "prenom": "Dany",
+          "nom_complet": "Dany PAIVA",
+          "sexe": "M",
+          "age": 30,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "MARCOS",
+          "prenom": "Valérie",
+          "nom_complet": "Valérie MARCOS",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "FONTAINE",
+          "prenom": "Emmanuel",
+          "nom_complet": "Emmanuel FONTAINE",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "KACZMAREK",
+          "prenom": "Christelle",
+          "nom_complet": "Christelle KACZMAREK",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "BOULONGNE",
+          "prenom": "Jean-François",
+          "nom_complet": "Jean-François BOULONGNE",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "PRZYMROZEK",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle PRZYMROZEK",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "STOREZ",
+          "prenom": "Kévin",
+          "nom_complet": "Kévin STOREZ",
+          "sexe": "M",
+          "age": 29,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LIANT",
+          "prenom": "Annie",
+          "nom_complet": "Annie LIANT",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "BAYARD",
+          "prenom": "Didier",
+          "nom_complet": "Didier BAYARD",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "ROELANDT",
+          "prenom": "Virginie",
+          "nom_complet": "Virginie ROELANDT",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DUMONT",
+          "prenom": "Gaetan",
+          "nom_complet": "Gaetan DUMONT",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "BARRET",
+          "prenom": "Alexia",
+          "nom_complet": "Alexia BARRET",
+          "sexe": "F",
+          "age": 33,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "BRISSY",
+          "prenom": "Xavier",
+          "nom_complet": "Xavier BRISSY",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "GUYARD",
+          "prenom": "Margot",
+          "nom_complet": "Margot GUYARD",
+          "sexe": "F",
+          "age": 31,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "BOULINGUEZ",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal BOULINGUEZ",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "COLLE",
+          "prenom": "Carole",
+          "nom_complet": "Carole COLLE",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "REMBRY",
+          "prenom": "Loïc",
+          "nom_complet": "Loïc REMBRY",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "FLANQUART",
+          "prenom": "Marjorie",
+          "nom_complet": "Marjorie FLANQUART",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "MALBRANQUE",
+          "prenom": "Bastien",
+          "nom_complet": "Bastien MALBRANQUE",
+          "sexe": "M",
+          "age": 20,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "CARPENTIER",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle CARPENTIER",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "RAMEZ",
+          "prenom": "Marc",
+          "nom_complet": "Marc RAMEZ",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "HENRY",
+          "prenom": "Mélanie",
+          "nom_complet": "Mélanie HENRY",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "PHILEAS",
+          "prenom": "Sébastien",
+          "nom_complet": "Sébastien PHILEAS",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "23"
+        },
+        {
+          "nom": "VISEUR",
+          "prenom": "Véronique",
+          "nom_complet": "Véronique VISEUR",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "24"
+        },
+        {
+          "nom": "GUIZON",
+          "prenom": "Teddy",
+          "nom_complet": "Teddy GUIZON",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "25"
+        },
+        {
+          "nom": "MOREAU",
+          "prenom": "Anita",
+          "nom_complet": "Anita MOREAU",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "26"
+        },
+        {
+          "nom": "WALKOWIAK",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas WALKOWIAK",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "27"
+        },
+        {
+          "nom": "PRIN",
+          "prenom": "Hélène",
+          "nom_complet": "Hélène PRIN",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "28"
+        },
+        {
+          "nom": "PARSY",
+          "prenom": "Jordan",
+          "nom_complet": "Jordan PARSY",
+          "sexe": "M",
+          "age": 20,
+          "rang_liste": "29"
+        },
+        {
+          "nom": "DUFOUR",
+          "prenom": "Aurore",
+          "nom_complet": "Aurore DUFOUR",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "30"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "4",
+      "libelle_liste": "LIEVIN NOTRE ENERGIE COMMUNE - LISTE D'UNION ET DE PROGRES (PS-PCF-LES ECOLOGISTES)",
+      "libelle_abrege_liste": "LIEVIN NOTRE ENERGIE COMMUNE - LISTE D'UNION ET DE PROGRES (PS-PCF-LES ECOLOGISTES)",
+      "nuance_liste": "LUG",
+      "voix": 5267,
+      "pct_voix_exprimes": 46.42,
+      "sieges_cm": 9,
+      "sieges_cc": 2,
+      "nb_elus": 9,
+      "tete_de_liste": {
+        "nom": "DARRAS",
+        "prenom": "Jérôme",
+        "nom_complet": "Jérôme DARRAS",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DARRAS",
+          "prenom": "Jérôme",
+          "nom_complet": "Jérôme DARRAS",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "RUSIN",
+          "prenom": "Sophie",
+          "nom_complet": "Sophie RUSIN",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "TEILLIEZ",
+          "prenom": "Marc",
+          "nom_complet": "Marc TEILLIEZ",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DELONGHAI",
+          "prenom": "Marjorie",
+          "nom_complet": "Marjorie DELONGHAI",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "MICHALAK",
+          "prenom": "Eric",
+          "nom_complet": "Eric MICHALAK",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "SADOUNE",
+          "prenom": "Samia",
+          "nom_complet": "Samia SADOUNE",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "JACKOWSKI",
+          "prenom": "Henri",
+          "nom_complet": "Henri JACKOWSKI",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "GERMA",
+          "prenom": "Martine",
+          "nom_complet": "Martine GERMA",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "BECQUET",
+          "prenom": "Jacques",
+          "nom_complet": "Jacques BECQUET",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "9"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

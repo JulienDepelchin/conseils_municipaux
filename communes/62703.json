@@ -1,0 +1,131 @@
+{
+  "code_commune": "62703",
+  "commune": "Rémy",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "CARON",
+    "prenom": "Jean-Luc",
+    "nom_complet": "Jean-Luc CARON",
+    "age": 69,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 298,
+    "votants": 185,
+    "pct_votants": 62.08,
+    "abstentions": 113,
+    "pct_abstentions": 37.92,
+    "exprimes": 169
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "une Equipe pour Rémy",
+      "libelle_abrege_liste": "une Equipe pour Rémy",
+      "nuance_liste": null,
+      "voix": 169,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "CARON",
+        "prenom": "Jean-Luc",
+        "nom_complet": "Jean-Luc CARON",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "CARON",
+          "prenom": "Jean-Luc",
+          "nom_complet": "Jean-Luc CARON",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BARBET",
+          "prenom": "Ericka",
+          "nom_complet": "Ericka BARBET",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DEGEUSER",
+          "prenom": "Samuel",
+          "nom_complet": "Samuel DEGEUSER",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DOUALE",
+          "prenom": "Sabine",
+          "nom_complet": "Sabine DOUALE",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "MONEL",
+          "prenom": "Mathieu",
+          "nom_complet": "Mathieu MONEL",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DUFAŸ",
+          "prenom": "Muriel",
+          "nom_complet": "Muriel DUFAŸ",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "POULLAIN",
+          "prenom": "Christian",
+          "nom_complet": "Christian POULLAIN",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "SLIWA",
+          "prenom": "Cathie",
+          "nom_complet": "Cathie SLIWA",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "REBEILLEAU",
+          "prenom": "Fabien",
+          "nom_complet": "Fabien REBEILLEAU",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "VASSE",
+          "prenom": "Emilie",
+          "nom_complet": "Emilie VASSE",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "RENOU",
+          "prenom": "Jean-Charles",
+          "nom_complet": "Jean-Charles RENOU",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

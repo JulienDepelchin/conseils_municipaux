@@ -1,0 +1,131 @@
+{
+  "code_commune": "62542",
+  "commune": "Maizières",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "LAVIGNE",
+    "prenom": "Raymond",
+    "nom_complet": "Raymond LAVIGNE",
+    "age": 79,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 157,
+    "votants": 120,
+    "pct_votants": 76.43,
+    "abstentions": 37,
+    "pct_abstentions": 23.57,
+    "exprimes": 88
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ENSEMBLE POUR NOTRE COMMUNE",
+      "libelle_abrege_liste": "ENSEMBLE POUR NOTRE COMMUNE",
+      "nuance_liste": null,
+      "voix": 88,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "LAVIGNE",
+        "prenom": "Raymond",
+        "nom_complet": "Raymond LAVIGNE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LAVIGNE",
+          "prenom": "Raymond",
+          "nom_complet": "Raymond LAVIGNE",
+          "sexe": "M",
+          "age": 79,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "REGNIEZ",
+          "prenom": "Catherine",
+          "nom_complet": "Catherine REGNIEZ",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "ROGER",
+          "prenom": "Jacques",
+          "nom_complet": "Jacques ROGER",
+          "sexe": "M",
+          "age": 77,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "VAILLANT",
+          "prenom": "Elisabeth",
+          "nom_complet": "Elisabeth VAILLANT",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DUPAYAGE",
+          "prenom": "Freddy",
+          "nom_complet": "Freddy DUPAYAGE",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DECHERF",
+          "prenom": "Clémence",
+          "nom_complet": "Clémence DECHERF",
+          "sexe": "F",
+          "age": 29,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "PIECHOWIAK",
+          "prenom": "Sebastien",
+          "nom_complet": "Sebastien PIECHOWIAK",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LECLERCQ",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle LECLERCQ",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DAMBRINE",
+          "prenom": "Maxime",
+          "nom_complet": "Maxime DAMBRINE",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DERÔME",
+          "prenom": "Vanessa",
+          "nom_complet": "Vanessa DERÔME",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "LEBORGNE",
+          "prenom": "Jérôme",
+          "nom_complet": "Jérôme LEBORGNE",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

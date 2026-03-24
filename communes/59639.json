@@ -1,0 +1,183 @@
+{
+  "code_commune": "59639",
+  "commune": "Wargnies-le-Grand",
+  "departement": "Nord",
+  "tour": "T2",
+  "maire": {
+    "nom": "ZAREMBA",
+    "prenom": "Jérémy",
+    "nom_complet": "Jérémy ZAREMBA",
+    "age": 39,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 858,
+    "votants": 702,
+    "pct_votants": 81.82,
+    "abstentions": 156,
+    "pct_abstentions": 18.18,
+    "exprimes": 692
+  },
+  "listes": [
+    {
+      "num_panneau": "3",
+      "libelle_liste": "WARGNIES EN GRAND",
+      "libelle_abrege_liste": "WARGNIES EN GRAND",
+      "nuance_liste": null,
+      "voix": 419,
+      "pct_voix_exprimes": 60.55,
+      "sieges_cm": 12,
+      "sieges_cc": 1,
+      "nb_elus": 12,
+      "tete_de_liste": {
+        "nom": "ZAREMBA",
+        "prenom": "Jérémy",
+        "nom_complet": "Jérémy ZAREMBA",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "ZAREMBA",
+          "prenom": "Jérémy",
+          "nom_complet": "Jérémy ZAREMBA",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "FLODROPS",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie FLODROPS",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "SOUAL",
+          "prenom": "Romain",
+          "nom_complet": "Romain SOUAL",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LIMBOURG",
+          "prenom": "Olivia",
+          "nom_complet": "Olivia LIMBOURG",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DEFOORT",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique DEFOORT",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "BISIAUX",
+          "prenom": "Laura",
+          "nom_complet": "Laura BISIAUX",
+          "sexe": "F",
+          "age": 31,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "ROSSINI",
+          "prenom": "Damien",
+          "nom_complet": "Damien ROSSINI",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LIENARD",
+          "prenom": "Marie",
+          "nom_complet": "Marie LIENARD",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "SAROT",
+          "prenom": "Eddy",
+          "nom_complet": "Eddy SAROT",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "BAILLEUX",
+          "prenom": "Marie-Thérèse",
+          "nom_complet": "Marie-Thérèse BAILLEUX",
+          "sexe": "F",
+          "age": 70,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "LEMAIRE",
+          "prenom": "Marc",
+          "nom_complet": "Marc LEMAIRE",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "MORDACQUE ÉP ORLÉAC",
+          "prenom": "Annabelle",
+          "nom_complet": "Annabelle MORDACQUE ÉP ORLÉAC",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "12"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "WARGNIES POUR VOUS ET AVEC VOUS",
+      "libelle_abrege_liste": "WARGNIES POUR VOUS ET AVEC VOUS",
+      "nuance_liste": null,
+      "voix": 273,
+      "pct_voix_exprimes": 39.45,
+      "sieges_cm": 3,
+      "sieges_cc": 0,
+      "nb_elus": 3,
+      "tete_de_liste": {
+        "nom": "MOREL",
+        "prenom": "Catherine",
+        "nom_complet": "Catherine MOREL",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "MOREL",
+          "prenom": "Catherine",
+          "nom_complet": "Catherine MOREL",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BEAUFORT",
+          "prenom": "Bernard",
+          "nom_complet": "Bernard BEAUFORT",
+          "sexe": "M",
+          "age": 78,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "SOUFFLET",
+          "prenom": "Annie",
+          "nom_complet": "Annie SOUFFLET",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "3"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

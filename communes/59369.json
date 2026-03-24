@@ -1,0 +1,279 @@
+{
+  "code_commune": "59369",
+  "commune": "Maing",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "WAELKENS",
+    "prenom": "François",
+    "nom_complet": "François WAELKENS",
+    "age": 40,
+    "nuance": "LDVD"
+  },
+  "resultats": {
+    "inscrits": 2937,
+    "votants": 2121,
+    "pct_votants": 72.22,
+    "abstentions": 816,
+    "pct_abstentions": 27.78,
+    "exprimes": 2080
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "RENOUVEAU MAINGEOIS",
+      "libelle_abrege_liste": "RENOUVEAU MAINGEOIS",
+      "nuance_liste": "LDVD",
+      "voix": 1309,
+      "pct_voix_exprimes": 62.93,
+      "sieges_cm": 22,
+      "sieges_cc": 2,
+      "nb_elus": 22,
+      "tete_de_liste": {
+        "nom": "WAELKENS",
+        "prenom": "François",
+        "nom_complet": "François WAELKENS",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "WAELKENS",
+          "prenom": "François",
+          "nom_complet": "François WAELKENS",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "NAVETEUR",
+          "prenom": "Amélie",
+          "nom_complet": "Amélie NAVETEUR",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "JOUANNIC",
+          "prenom": "David",
+          "nom_complet": "David JOUANNIC",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "MILLONCOURT",
+          "prenom": "Claire",
+          "nom_complet": "Claire MILLONCOURT",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "NOR",
+          "prenom": "Samy",
+          "nom_complet": "Samy NOR",
+          "sexe": "M",
+          "age": 34,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DUPONT",
+          "prenom": "Angélique",
+          "nom_complet": "Angélique DUPONT",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "ALGLAVE",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe ALGLAVE",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "PANIEZ",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle PANIEZ",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DUPAS",
+          "prenom": "Michel",
+          "nom_complet": "Michel DUPAS",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "BANDINI",
+          "prenom": "Virginie",
+          "nom_complet": "Virginie BANDINI",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "LEFEVRE",
+          "prenom": "Bernard",
+          "nom_complet": "Bernard LEFEVRE",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "WIART",
+          "prenom": "Coralie",
+          "nom_complet": "Coralie WIART",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "CUCCHIARA",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe CUCCHIARA",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "GLINEUR",
+          "prenom": "Sonia",
+          "nom_complet": "Sonia GLINEUR",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "MOERMAN",
+          "prenom": "Maxime",
+          "nom_complet": "Maxime MOERMAN",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "MOREAU",
+          "prenom": "Géraldine",
+          "nom_complet": "Géraldine MOREAU",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "HALLIEZ",
+          "prenom": "David",
+          "nom_complet": "David HALLIEZ",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "DUMONT",
+          "prenom": "Ingrid",
+          "nom_complet": "Ingrid DUMONT",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "YACIA",
+          "prenom": "Toufik",
+          "nom_complet": "Toufik YACIA",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "MOREAU",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie MOREAU",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "LEDOUX",
+          "prenom": "Hubert",
+          "nom_complet": "Hubert LEDOUX",
+          "sexe": "M",
+          "age": 81,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "DESSE",
+          "prenom": "Marie-Christine",
+          "nom_complet": "Marie-Christine DESSE",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "22"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "POUR MAING CONTINUONS D'AVANCER ENSEMBLE",
+      "libelle_abrege_liste": "POUR MAING CONTINUONS D'AVANCER ENSEMBLE",
+      "nuance_liste": "LDVD",
+      "voix": 771,
+      "pct_voix_exprimes": 37.07,
+      "sieges_cm": 5,
+      "sieges_cc": 0,
+      "nb_elus": 5,
+      "tete_de_liste": {
+        "nom": "BAUDRIN",
+        "prenom": "Philippe",
+        "nom_complet": "Philippe BAUDRIN",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BAUDRIN",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe BAUDRIN",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "COLLET NÉE DONNAINT",
+          "prenom": "Corinne",
+          "nom_complet": "Corinne COLLET NÉE DONNAINT",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "RAMEZ",
+          "prenom": "Damien",
+          "nom_complet": "Damien RAMEZ",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "PORQUET",
+          "prenom": "Véronique",
+          "nom_complet": "Véronique PORQUET",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "RIFF",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe RIFF",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "5"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

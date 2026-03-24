@@ -1,0 +1,131 @@
+{
+  "code_commune": "62664",
+  "commune": "Pommier",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "LEU",
+    "prenom": "Serge",
+    "nom_complet": "Serge LEU",
+    "age": 75,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 186,
+    "votants": 128,
+    "pct_votants": 68.82,
+    "abstentions": 58,
+    "pct_abstentions": 31.18,
+    "exprimes": 108
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ENSEMBLE POUR POMMIER",
+      "libelle_abrege_liste": "ENSEMBLE POUR POMMIER",
+      "nuance_liste": null,
+      "voix": 108,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "LEU",
+        "prenom": "Serge",
+        "nom_complet": "Serge LEU",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LEU",
+          "prenom": "Serge",
+          "nom_complet": "Serge LEU",
+          "sexe": "M",
+          "age": 75,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BRAY",
+          "prenom": "Yvonne",
+          "nom_complet": "Yvonne BRAY",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BOULANGER",
+          "prenom": "Eric",
+          "nom_complet": "Eric BOULANGER",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DELPORTE",
+          "prenom": "Martine",
+          "nom_complet": "Martine DELPORTE",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DELACOURT",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal DELACOURT",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LAHUTTE",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie LAHUTTE",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DENNEQUIN",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno DENNEQUIN",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LEU",
+          "prenom": "Amandine",
+          "nom_complet": "Amandine LEU",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DUBOIS",
+          "prenom": "Jean-Pierre",
+          "nom_complet": "Jean-Pierre DUBOIS",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "STOLL",
+          "prenom": "Nadine",
+          "nom_complet": "Nadine STOLL",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "LOURDEL",
+          "prenom": "Grégory",
+          "nom_complet": "Grégory LOURDEL",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

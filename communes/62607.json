@@ -1,0 +1,99 @@
+{
+  "code_commune": "62607",
+  "commune": "Neuville-au-Cornet",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "BURET",
+    "prenom": "Vincent",
+    "nom_complet": "Vincent BURET",
+    "age": 56,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 61,
+    "votants": 44,
+    "pct_votants": 72.13,
+    "abstentions": 17,
+    "pct_abstentions": 27.87,
+    "exprimes": 37
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Neuville au Cornet",
+      "libelle_abrege_liste": "Neuville au Cornet",
+      "nuance_liste": null,
+      "voix": 37,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 7,
+      "sieges_cc": null,
+      "nb_elus": 7,
+      "tete_de_liste": {
+        "nom": "BURET",
+        "prenom": "Vincent",
+        "nom_complet": "Vincent BURET",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BURET",
+          "prenom": "Vincent",
+          "nom_complet": "Vincent BURET",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "JOURET",
+          "prenom": "Marion",
+          "nom_complet": "Marion JOURET",
+          "sexe": "F",
+          "age": 33,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "JOURDAIN",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe JOURDAIN",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LEROY",
+          "prenom": "Odile",
+          "nom_complet": "Odile LEROY",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "RICHARD",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe RICHARD",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DECAMP",
+          "prenom": "Alexandrine",
+          "nom_complet": "Alexandrine DECAMP",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BAILLEUL",
+          "prenom": "Stephan",
+          "nom_complet": "Stephan BAILLEUL",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "7"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

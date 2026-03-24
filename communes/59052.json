@@ -1,0 +1,275 @@
+{
+  "code_commune": "59052",
+  "commune": "Bauvin",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "LEBARGY",
+    "prenom": "Louis-Pascal",
+    "nom_complet": "Louis-Pascal LEBARGY",
+    "age": 67,
+    "nuance": "LDVG"
+  },
+  "resultats": {
+    "inscrits": 4191,
+    "votants": 1885,
+    "pct_votants": 44.98,
+    "abstentions": 2306,
+    "pct_abstentions": 55.02,
+    "exprimes": 1574
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "BAUVIN CÔTÉ COEUR",
+      "libelle_abrege_liste": "BAUVIN CÔTÉ COEUR",
+      "nuance_liste": "LDVG",
+      "voix": 1574,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 29,
+      "sieges_cc": 1,
+      "nb_elus": 29,
+      "tete_de_liste": {
+        "nom": "LEBARGY",
+        "prenom": "Louis-Pascal",
+        "nom_complet": "Louis-Pascal LEBARGY",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LEBARGY",
+          "prenom": "Louis-Pascal",
+          "nom_complet": "Louis-Pascal LEBARGY",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "VERRIER",
+          "prenom": "Carole",
+          "nom_complet": "Carole VERRIER",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "RICHARD",
+          "prenom": "Didier",
+          "nom_complet": "Didier RICHARD",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DUCROCQ",
+          "prenom": "Hélène",
+          "nom_complet": "Hélène DUCROCQ",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "COUTTE",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent COUTTE",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "SKORUPINSKI",
+          "prenom": "Juliette",
+          "nom_complet": "Juliette SKORUPINSKI",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "CARBON",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick CARBON",
+          "sexe": "M",
+          "age": 76,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "CORÉ",
+          "prenom": "Muriel",
+          "nom_complet": "Muriel CORÉ",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DAMBLIN",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe DAMBLIN",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "LEMAITRE",
+          "prenom": "Lucie",
+          "nom_complet": "Lucie LEMAITRE",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "TOUCHI",
+          "prenom": "Nordine",
+          "nom_complet": "Nordine TOUCHI",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "FLINOIS",
+          "prenom": "Valérie",
+          "nom_complet": "Valérie FLINOIS",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "MASTAIN",
+          "prenom": "Bernard",
+          "nom_complet": "Bernard MASTAIN",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "SAUVAGE",
+          "prenom": "Maryse",
+          "nom_complet": "Maryse SAUVAGE",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "LEPLUS",
+          "prenom": "Sébastien",
+          "nom_complet": "Sébastien LEPLUS",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "TRANCHÉ",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie TRANCHÉ",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "SAUVAGE",
+          "prenom": "Jean-Pierre",
+          "nom_complet": "Jean-Pierre SAUVAGE",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "TANOUTI",
+          "prenom": "Aliya",
+          "nom_complet": "Aliya TANOUTI",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "CHOMBART",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe CHOMBART",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "DELATTRE",
+          "prenom": "Cindy",
+          "nom_complet": "Cindy DELATTRE",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "GARCIA NIETO",
+          "prenom": "Fabien",
+          "nom_complet": "Fabien GARCIA NIETO",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "HUIVAERE",
+          "prenom": "Alisa",
+          "nom_complet": "Alisa HUIVAERE",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "COQUETTE",
+          "prenom": "Jacky",
+          "nom_complet": "Jacky COQUETTE",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "23"
+        },
+        {
+          "nom": "BIED",
+          "prenom": "Chrystelle",
+          "nom_complet": "Chrystelle BIED",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "24"
+        },
+        {
+          "nom": "HOOGE",
+          "prenom": "Jean",
+          "nom_complet": "Jean HOOGE",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "25"
+        },
+        {
+          "nom": "GRIOCHE",
+          "prenom": "Catherine",
+          "nom_complet": "Catherine GRIOCHE",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "26"
+        },
+        {
+          "nom": "CHEHAB",
+          "prenom": "Florent",
+          "nom_complet": "Florent CHEHAB",
+          "sexe": "M",
+          "age": 34,
+          "rang_liste": "27"
+        },
+        {
+          "nom": "POTEAU",
+          "prenom": "Véronique",
+          "nom_complet": "Véronique POTEAU",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "28"
+        },
+        {
+          "nom": "BEGHIN",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas BEGHIN",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "29"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "code_commune": "62071",
+  "commune": "Bailleul-lès-Pernes",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "GIFFARD",
+    "prenom": "Miguel",
+    "nom_complet": "Miguel GIFFARD",
+    "age": 43,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 295,
+    "votants": 215,
+    "pct_votants": 72.88,
+    "abstentions": 80,
+    "pct_abstentions": 27.12,
+    "exprimes": 177
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "BAILLEUL-LES-PERNES 2026",
+      "libelle_abrege_liste": "BAILLEUL-LES-PERNES 2026",
+      "nuance_liste": null,
+      "voix": 177,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "GIFFARD",
+        "prenom": "Miguel",
+        "nom_complet": "Miguel GIFFARD",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "GIFFARD",
+          "prenom": "Miguel",
+          "nom_complet": "Miguel GIFFARD",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DARRAS",
+          "prenom": "Annie",
+          "nom_complet": "Annie DARRAS",
+          "sexe": "F",
+          "age": 76,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "CZERWIEC",
+          "prenom": "Baptiste",
+          "nom_complet": "Baptiste CZERWIEC",
+          "sexe": "M",
+          "age": 33,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "MAENHAUT",
+          "prenom": "Marie-Celine",
+          "nom_complet": "Marie-Celine MAENHAUT",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "PETITCUENOT",
+          "prenom": "Maxence",
+          "nom_complet": "Maxence PETITCUENOT",
+          "sexe": "M",
+          "age": 29,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DENEUVILLE",
+          "prenom": "Maryse",
+          "nom_complet": "Maryse DENEUVILLE",
+          "sexe": "F",
+          "age": 83,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DUPUIS",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe DUPUIS",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "JEROME",
+          "prenom": "Emilie",
+          "nom_complet": "Emilie JEROME",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DEFEBVRE",
+          "prenom": "Maxime",
+          "nom_complet": "Maxime DEFEBVRE",
+          "sexe": "M",
+          "age": 34,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DUCRON",
+          "prenom": "Emeline",
+          "nom_complet": "Emeline DUCRON",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "BÉCOURT",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric BÉCOURT",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

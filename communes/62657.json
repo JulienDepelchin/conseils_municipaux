@@ -1,0 +1,163 @@
+{
+  "code_commune": "62657",
+  "commune": "Pihen-lès-Guînes",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "ROHART",
+    "prenom": "Michel",
+    "nom_complet": "Michel ROHART",
+    "age": 66,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 421,
+    "votants": 268,
+    "pct_votants": 63.66,
+    "abstentions": 153,
+    "pct_abstentions": 36.34,
+    "exprimes": 248
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "bien vivre ensemble à Pihen",
+      "libelle_abrege_liste": "bien vivre ensemble à Pihen",
+      "nuance_liste": null,
+      "voix": 248,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "ROHART",
+        "prenom": "Michel",
+        "nom_complet": "Michel ROHART",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "ROHART",
+          "prenom": "Michel",
+          "nom_complet": "Michel ROHART",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "AUBRY",
+          "prenom": "Nadine",
+          "nom_complet": "Nadine AUBRY",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "HAMAIN",
+          "prenom": "Hubert",
+          "nom_complet": "Hubert HAMAIN",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "TIRMARCHE",
+          "prenom": "Valérie",
+          "nom_complet": "Valérie TIRMARCHE",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DECLEMY",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick DECLEMY",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "MAGNIER",
+          "prenom": "Ophélie",
+          "nom_complet": "Ophélie MAGNIER",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "FASQUEL",
+          "prenom": "Reynald",
+          "nom_complet": "Reynald FASQUEL",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "RICART",
+          "prenom": "Lydie",
+          "nom_complet": "Lydie RICART",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DUNE",
+          "prenom": "Kévin",
+          "nom_complet": "Kévin DUNE",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "IMBERT",
+          "prenom": "Karine",
+          "nom_complet": "Karine IMBERT",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "HERANVAL",
+          "prenom": "Lionel",
+          "nom_complet": "Lionel HERANVAL",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "DRINCQBIER",
+          "prenom": "Catherine",
+          "nom_complet": "Catherine DRINCQBIER",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "DOROT",
+          "prenom": "Alain",
+          "nom_complet": "Alain DOROT",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "DELMOTTE",
+          "prenom": "Virginie",
+          "nom_complet": "Virginie DELMOTTE",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "DHAUSSY",
+          "prenom": "Bernard",
+          "nom_complet": "Bernard DHAUSSY",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

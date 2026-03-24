@@ -1,0 +1,195 @@
+{
+  "code_commune": "59129",
+  "commune": "Cappelle-en-Pévèle",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "CHOCRAUX",
+    "prenom": "Bernard",
+    "nom_complet": "Bernard CHOCRAUX",
+    "age": 73,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1829,
+    "votants": 982,
+    "pct_votants": 53.69,
+    "abstentions": 847,
+    "pct_abstentions": 46.31,
+    "exprimes": 918
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ENSEMBLE POUR CAPPELLE EN PEVELE-CAREMBAULT",
+      "libelle_abrege_liste": "ENSEMBLE POUR CAPPELLE EN PEVELE-CAREMBAULT",
+      "nuance_liste": null,
+      "voix": 918,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 19,
+      "sieges_cc": 1,
+      "nb_elus": 19,
+      "tete_de_liste": {
+        "nom": "CHOCRAUX",
+        "prenom": "Bernard",
+        "nom_complet": "Bernard CHOCRAUX",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "CHOCRAUX",
+          "prenom": "Bernard",
+          "nom_complet": "Bernard CHOCRAUX",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "THELLIER",
+          "prenom": "Laetitia",
+          "nom_complet": "Laetitia THELLIER",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DESPREZ",
+          "prenom": "François",
+          "nom_complet": "François DESPREZ",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "CARON",
+          "prenom": "Christine",
+          "nom_complet": "Christine CARON",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "BAERT",
+          "prenom": "Paul",
+          "nom_complet": "Paul BAERT",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DA SILVA MARTINS",
+          "prenom": "Maria",
+          "nom_complet": "Maria DA SILVA MARTINS",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "CHACORNAC",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno CHACORNAC",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "SINIARSKI",
+          "prenom": "Celine",
+          "nom_complet": "Celine SINIARSKI",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "BOUVRY",
+          "prenom": "Alexandre",
+          "nom_complet": "Alexandre BOUVRY",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "CELIER-DESPREZ",
+          "prenom": "Lisa",
+          "nom_complet": "Lisa CELIER-DESPREZ",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "CARPENTIER",
+          "prenom": "Raphaël",
+          "nom_complet": "Raphaël CARPENTIER",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "BROUTIN DAVERGNE",
+          "prenom": "Annie",
+          "nom_complet": "Annie BROUTIN DAVERGNE",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "DEPUYDT",
+          "prenom": "Guillaume",
+          "nom_complet": "Guillaume DEPUYDT",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "DELATRE",
+          "prenom": "Elodie",
+          "nom_complet": "Elodie DELATRE",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "MOERMAN",
+          "prenom": "Franck",
+          "nom_complet": "Franck MOERMAN",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "DELTOUR",
+          "prenom": "Julie",
+          "nom_complet": "Julie DELTOUR",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "LA GANGA",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique LA GANGA",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "BOULNOIS",
+          "prenom": "Sophie",
+          "nom_complet": "Sophie BOULNOIS",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "GUELTON",
+          "prenom": "Bernard",
+          "nom_complet": "Bernard GUELTON",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "19"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "code_commune": "62101",
+  "commune": "Beauvois",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "TIQUET",
+    "prenom": "Philippe",
+    "nom_complet": "Philippe TIQUET",
+    "age": 65,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 117,
+    "votants": 76,
+    "pct_votants": 64.96,
+    "abstentions": 41,
+    "pct_abstentions": 35.04,
+    "exprimes": 60
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Pour Beauvois",
+      "libelle_abrege_liste": "Pour Beauvois",
+      "nuance_liste": null,
+      "voix": 60,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "TIQUET",
+        "prenom": "Philippe",
+        "nom_complet": "Philippe TIQUET",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "TIQUET",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe TIQUET",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "CRÉPIN",
+          "prenom": "Laurence",
+          "nom_complet": "Laurence CRÉPIN",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DUFOUR",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe DUFOUR",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BERNARD",
+          "prenom": "Sandrine",
+          "nom_complet": "Sandrine BERNARD",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DELATTRE",
+          "prenom": "Sébastien",
+          "nom_complet": "Sébastien DELATTRE",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "PLOYON",
+          "prenom": "Marie-Christine",
+          "nom_complet": "Marie-Christine PLOYON",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BUQUET",
+          "prenom": "David",
+          "nom_complet": "David BUQUET",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DELABY",
+          "prenom": "Laetitia",
+          "nom_complet": "Laetitia DELABY",
+          "sexe": "F",
+          "age": 32,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "BOUFFLERS",
+          "prenom": "Guillaume",
+          "nom_complet": "Guillaume BOUFFLERS",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "FLAMENT",
+          "prenom": "Léa",
+          "nom_complet": "Léa FLAMENT",
+          "sexe": "F",
+          "age": 25,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "GAMBIER",
+          "prenom": "Ghislain",
+          "nom_complet": "Ghislain GAMBIER",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

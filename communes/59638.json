@@ -1,0 +1,163 @@
+{
+  "code_commune": "59638",
+  "commune": "Wannehain",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "LEFEBVRE",
+    "prenom": "Jean-Luc",
+    "nom_complet": "Jean-Luc LEFEBVRE",
+    "age": 71,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1031,
+    "votants": 519,
+    "pct_votants": 50.34,
+    "abstentions": 512,
+    "pct_abstentions": 49.66,
+    "exprimes": 467
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Ensemble Agissons Pour Wannehain",
+      "libelle_abrege_liste": "Ensemble Agissons Pour Wannehain",
+      "nuance_liste": null,
+      "voix": 467,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": 1,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "LEFEBVRE",
+        "prenom": "Jean-Luc",
+        "nom_complet": "Jean-Luc LEFEBVRE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LEFEBVRE",
+          "prenom": "Jean-Luc",
+          "nom_complet": "Jean-Luc LEFEBVRE",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "MOREAU",
+          "prenom": "Anne-Sophie",
+          "nom_complet": "Anne-Sophie MOREAU",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "FOURNIER",
+          "prenom": "Alain",
+          "nom_complet": "Alain FOURNIER",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "POLLET",
+          "prenom": "Marie-Christine",
+          "nom_complet": "Marie-Christine POLLET",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "REMY",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique REMY",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "COLLET",
+          "prenom": "Brigitte",
+          "nom_complet": "Brigitte COLLET",
+          "sexe": "F",
+          "age": 71,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DEMEURE",
+          "prenom": "Michel",
+          "nom_complet": "Michel DEMEURE",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "ROBION",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle ROBION",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DEPINOY",
+          "prenom": "Jean-Gabriel",
+          "nom_complet": "Jean-Gabriel DEPINOY",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "KERRICH",
+          "prenom": "Marianne",
+          "nom_complet": "Marianne KERRICH",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "VITIGE",
+          "prenom": "Stéphane",
+          "nom_complet": "Stéphane VITIGE",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "BRANGER",
+          "prenom": "Hélène",
+          "nom_complet": "Hélène BRANGER",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "BRIZEMUR",
+          "prenom": "Lionel",
+          "nom_complet": "Lionel BRIZEMUR",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "BELLEGUEULLE",
+          "prenom": "Marion",
+          "nom_complet": "Marion BELLEGUEULLE",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "MARTEL",
+          "prenom": "Mickaël",
+          "nom_complet": "Mickaël MARTEL",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

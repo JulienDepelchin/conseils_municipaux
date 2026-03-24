@@ -1,0 +1,295 @@
+{
+  "code_commune": "59227",
+  "commune": "Fenain",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "BOURIEZ",
+    "prenom": "Fabien",
+    "nom_complet": "Fabien BOURIEZ",
+    "age": 56,
+    "nuance": "LDVG"
+  },
+  "resultats": {
+    "inscrits": 4183,
+    "votants": 2267,
+    "pct_votants": 54.2,
+    "abstentions": 1916,
+    "pct_abstentions": 45.8,
+    "exprimes": 2156
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "La Gauche Fenainoise",
+      "libelle_abrege_liste": "La Gauche Fenainoise",
+      "nuance_liste": "LDVG",
+      "voix": 1198,
+      "pct_voix_exprimes": 55.57,
+      "sieges_cm": 23,
+      "sieges_cc": 3,
+      "nb_elus": 23,
+      "tete_de_liste": {
+        "nom": "BOURIEZ",
+        "prenom": "Fabien",
+        "nom_complet": "Fabien BOURIEZ",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BOURIEZ",
+          "prenom": "Fabien",
+          "nom_complet": "Fabien BOURIEZ",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BRASSART",
+          "prenom": "Marie-Yacinthe",
+          "nom_complet": "Marie-Yacinthe BRASSART",
+          "sexe": "F",
+          "age": 72,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "MOREAU",
+          "prenom": "Eric",
+          "nom_complet": "Eric MOREAU",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DELBOUILLE",
+          "prenom": "Nadine",
+          "nom_complet": "Nadine DELBOUILLE",
+          "sexe": "F",
+          "age": 71,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "POIGNARD",
+          "prenom": "Noël",
+          "nom_complet": "Noël POIGNARD",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "JACQMART",
+          "prenom": "Marjorie",
+          "nom_complet": "Marjorie JACQMART",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "GAMBIEZ",
+          "prenom": "Daniel",
+          "nom_complet": "Daniel GAMBIEZ",
+          "sexe": "M",
+          "age": 74,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "MONCEAU",
+          "prenom": "Joëlle",
+          "nom_complet": "Joëlle MONCEAU",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "GOURMAUD",
+          "prenom": "Alain",
+          "nom_complet": "Alain GOURMAUD",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DALTO",
+          "prenom": "Nina",
+          "nom_complet": "Nina DALTO",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DUMONTET",
+          "prenom": "Emeric",
+          "nom_complet": "Emeric DUMONTET",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "MROCZKOWSKI",
+          "prenom": "Magali",
+          "nom_complet": "Magali MROCZKOWSKI",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "ANSELMET",
+          "prenom": "Pierre-Yves",
+          "nom_complet": "Pierre-Yves ANSELMET",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "RANDOUR",
+          "prenom": "Marie",
+          "nom_complet": "Marie RANDOUR",
+          "sexe": "F",
+          "age": 29,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "VERBEKE",
+          "prenom": "Claude",
+          "nom_complet": "Claude VERBEKE",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "CARUSI",
+          "prenom": "Cécile",
+          "nom_complet": "Cécile CARUSI",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "BELLOIS",
+          "prenom": "Rémy",
+          "nom_complet": "Rémy BELLOIS",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "MOREAU",
+          "prenom": "Aurélie",
+          "nom_complet": "Aurélie MOREAU",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "LEPREUX",
+          "prenom": "Fabien",
+          "nom_complet": "Fabien LEPREUX",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "DUPONT",
+          "prenom": "Marie",
+          "nom_complet": "Marie DUPONT",
+          "sexe": "F",
+          "age": 73,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "DERACHE",
+          "prenom": "Benoit",
+          "nom_complet": "Benoit DERACHE",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "VILLAIN",
+          "prenom": "Edith",
+          "nom_complet": "Edith VILLAIN",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "TISON",
+          "prenom": "Eddy",
+          "nom_complet": "Eddy TISON",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "23"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "FENAIN ENSEMBLE",
+      "libelle_abrege_liste": "FENAIN ENSEMBLE",
+      "nuance_liste": "LDVG",
+      "voix": 958,
+      "pct_voix_exprimes": 44.43,
+      "sieges_cm": 6,
+      "sieges_cc": 1,
+      "nb_elus": 6,
+      "tete_de_liste": {
+        "nom": "SCHULZ",
+        "prenom": "Sadia",
+        "nom_complet": "Sadia SCHULZ",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "SCHULZ",
+          "prenom": "Sadia",
+          "nom_complet": "Sadia SCHULZ",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BRUNIAU",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier BRUNIAU",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LECOEUVRE",
+          "prenom": "Melinda",
+          "nom_complet": "Melinda LECOEUVRE",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BILLERET",
+          "prenom": "Rudy",
+          "nom_complet": "Rudy BILLERET",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "BRASSENS",
+          "prenom": "Gaëlle",
+          "nom_complet": "Gaëlle BRASSENS",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "BACQUART",
+          "prenom": "Marc",
+          "nom_complet": "Marc BACQUART",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "6"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

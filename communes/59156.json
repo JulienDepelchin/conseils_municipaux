@@ -1,0 +1,247 @@
+{
+  "code_commune": "59156",
+  "commune": "Courchelettes",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "AIX",
+    "prenom": "Raphaël",
+    "nom_complet": "Raphaël AIX",
+    "age": 54,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 2206,
+    "votants": 1385,
+    "pct_votants": 62.78,
+    "abstentions": 821,
+    "pct_abstentions": 37.22,
+    "exprimes": 1358
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "COURCHELETTES, CONTINUONS ENSEMBLE",
+      "libelle_abrege_liste": "COURCHELETTES, CONTINUONS ENSEMBLE",
+      "nuance_liste": null,
+      "voix": 949,
+      "pct_voix_exprimes": 69.88,
+      "sieges_cm": 20,
+      "sieges_cc": 1,
+      "nb_elus": 20,
+      "tete_de_liste": {
+        "nom": "AIX",
+        "prenom": "Raphaël",
+        "nom_complet": "Raphaël AIX",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "AIX",
+          "prenom": "Raphaël",
+          "nom_complet": "Raphaël AIX",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DI-NATALE",
+          "prenom": "Vincenza",
+          "nom_complet": "Vincenza DI-NATALE",
+          "sexe": "F",
+          "age": 71,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DUCONSEIL",
+          "prenom": "Alexis",
+          "nom_complet": "Alexis DUCONSEIL",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "CHARLES",
+          "prenom": "Célia",
+          "nom_complet": "Célia CHARLES",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DAPVRIL",
+          "prenom": "Romain",
+          "nom_complet": "Romain DAPVRIL",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "BENEZIT",
+          "prenom": "Geneviève",
+          "nom_complet": "Geneviève BENEZIT",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BOLANTE",
+          "prenom": "Gautier",
+          "nom_complet": "Gautier BOLANTE",
+          "sexe": "M",
+          "age": 31,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "GODMER",
+          "prenom": "Sophie",
+          "nom_complet": "Sophie GODMER",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "COEUGNET",
+          "prenom": "Patrick Emile Dominique",
+          "nom_complet": "Patrick Emile Dominique COEUGNET",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DESFOSSEZ",
+          "prenom": "Martine",
+          "nom_complet": "Martine DESFOSSEZ",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "KAMINSKI",
+          "prenom": "Eugène",
+          "nom_complet": "Eugène KAMINSKI",
+          "sexe": "M",
+          "age": 76,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "MESUREUR",
+          "prenom": "Josette",
+          "nom_complet": "Josette MESUREUR",
+          "sexe": "F",
+          "age": 73,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "BOITE",
+          "prenom": "Jérémy",
+          "nom_complet": "Jérémy BOITE",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "HIROUX",
+          "prenom": "Jennifer Véronique",
+          "nom_complet": "Jennifer Véronique HIROUX",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "LEBEL",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe LEBEL",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "MOREAU",
+          "prenom": "Jacqueline Alice Jeanne",
+          "nom_complet": "Jacqueline Alice Jeanne MOREAU",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "MIQUET",
+          "prenom": "Jean-Michel",
+          "nom_complet": "Jean-Michel MIQUET",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "DELHORS",
+          "prenom": "Valérianne",
+          "nom_complet": "Valérianne DELHORS",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "VASSEUR",
+          "prenom": "Gilbert",
+          "nom_complet": "Gilbert VASSEUR",
+          "sexe": "M",
+          "age": 79,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "BARDIAU",
+          "prenom": "Dorothée",
+          "nom_complet": "Dorothée BARDIAU",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "20"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "COURCHELETTES, UN SOUFFLE NOUVEAU",
+      "libelle_abrege_liste": "COURCHELETTES, UN SOUFFLE NOUVEAU",
+      "nuance_liste": null,
+      "voix": 409,
+      "pct_voix_exprimes": 30.12,
+      "sieges_cm": 3,
+      "sieges_cc": 0,
+      "nb_elus": 3,
+      "tete_de_liste": {
+        "nom": "BRUNEEL",
+        "prenom": "Catherine",
+        "nom_complet": "Catherine BRUNEEL",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "BRUNEEL",
+          "prenom": "Catherine",
+          "nom_complet": "Catherine BRUNEEL",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "RAZNY",
+          "prenom": "Freddy",
+          "nom_complet": "Freddy RAZNY",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "MARQUIGNY",
+          "prenom": "Audrey",
+          "nom_complet": "Audrey MARQUIGNY",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "3"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

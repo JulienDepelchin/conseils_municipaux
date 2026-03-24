@@ -1,0 +1,275 @@
+{
+  "code_commune": "59202",
+  "commune": "Erquinghem-Lys",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "BÉZIRARD",
+    "prenom": "Alain",
+    "nom_complet": "Alain BÉZIRARD",
+    "age": 71,
+    "nuance": "LDVD"
+  },
+  "resultats": {
+    "inscrits": 3806,
+    "votants": 1691,
+    "pct_votants": 44.43,
+    "abstentions": 2115,
+    "pct_abstentions": 55.57,
+    "exprimes": 1496
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ERQUINGHEM-LYS AVEC VOUS",
+      "libelle_abrege_liste": "ERQUINGHEM-LYS AVEC VOUS",
+      "nuance_liste": "LDVD",
+      "voix": 1496,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 29,
+      "sieges_cc": 1,
+      "nb_elus": 29,
+      "tete_de_liste": {
+        "nom": "BÉZIRARD",
+        "prenom": "Alain",
+        "nom_complet": "Alain BÉZIRARD",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BÉZIRARD",
+          "prenom": "Alain",
+          "nom_complet": "Alain BÉZIRARD",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "PANIEZ",
+          "prenom": "Laëtitia",
+          "nom_complet": "Laëtitia PANIEZ",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LEROY",
+          "prenom": "Michaël",
+          "nom_complet": "Michaël LEROY",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "PACCEU",
+          "prenom": "Karine",
+          "nom_complet": "Karine PACCEU",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "BÉZIRARD",
+          "prenom": "Alban",
+          "nom_complet": "Alban BÉZIRARD",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "PREUDHOMME",
+          "prenom": "Annie",
+          "nom_complet": "Annie PREUDHOMME",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "JOUCLA",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier JOUCLA",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "GRATIEN",
+          "prenom": "Christelle",
+          "nom_complet": "Christelle GRATIEN",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "HOUZET",
+          "prenom": "Lionel",
+          "nom_complet": "Lionel HOUZET",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "CLOUET",
+          "prenom": "Valérie",
+          "nom_complet": "Valérie CLOUET",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "CAMPHYN",
+          "prenom": "Pierre",
+          "nom_complet": "Pierre CAMPHYN",
+          "sexe": "M",
+          "age": 74,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "BOCKAERT",
+          "prenom": "Christine",
+          "nom_complet": "Christine BOCKAERT",
+          "sexe": "F",
+          "age": 71,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "OERLEMANS",
+          "prenom": "Benoit",
+          "nom_complet": "Benoit OERLEMANS",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "BENOIT",
+          "prenom": "Danièle",
+          "nom_complet": "Danièle BENOIT",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "HENZE",
+          "prenom": "Ludovic",
+          "nom_complet": "Ludovic HENZE",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "CHARPENTIER",
+          "prenom": "Caroline",
+          "nom_complet": "Caroline CHARPENTIER",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "DUGRAIN",
+          "prenom": "Thomas",
+          "nom_complet": "Thomas DUGRAIN",
+          "sexe": "M",
+          "age": 33,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "LARD",
+          "prenom": "Vanessa",
+          "nom_complet": "Vanessa LARD",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "BIERVLIET",
+          "prenom": "François",
+          "nom_complet": "François BIERVLIET",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "DUSART",
+          "prenom": "Alice",
+          "nom_complet": "Alice DUSART",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "DERUELLE",
+          "prenom": "Stéphane",
+          "nom_complet": "Stéphane DERUELLE",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "DASSONVILLE",
+          "prenom": "Amandine",
+          "nom_complet": "Amandine DASSONVILLE",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "MATRINGHEN",
+          "prenom": "José",
+          "nom_complet": "José MATRINGHEN",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "23"
+        },
+        {
+          "nom": "JORDANA",
+          "prenom": "Céline",
+          "nom_complet": "Céline JORDANA",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "24"
+        },
+        {
+          "nom": "BRAME",
+          "prenom": "Fabien",
+          "nom_complet": "Fabien BRAME",
+          "sexe": "M",
+          "age": 30,
+          "rang_liste": "25"
+        },
+        {
+          "nom": "COMMEYNE",
+          "prenom": "Malory",
+          "nom_complet": "Malory COMMEYNE",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "26"
+        },
+        {
+          "nom": "VERSCHAVE",
+          "prenom": "Arnaud",
+          "nom_complet": "Arnaud VERSCHAVE",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "27"
+        },
+        {
+          "nom": "DAVAILLE",
+          "prenom": "Hélène",
+          "nom_complet": "Hélène DAVAILLE",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "28"
+        },
+        {
+          "nom": "LOREZ",
+          "prenom": "Jean-Marc",
+          "nom_complet": "Jean-Marc LOREZ",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "29"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

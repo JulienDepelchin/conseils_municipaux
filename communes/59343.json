@@ -1,0 +1,295 @@
+{
+  "code_commune": "59343",
+  "commune": "Lesquin",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "AMBROZIEWICZ",
+    "prenom": "Jean-Marc",
+    "nom_complet": "Jean-Marc AMBROZIEWICZ",
+    "age": 67,
+    "nuance": "LDVD"
+  },
+  "resultats": {
+    "inscrits": 6466,
+    "votants": 4112,
+    "pct_votants": 63.59,
+    "abstentions": 2354,
+    "pct_abstentions": 36.41,
+    "exprimes": 4041
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "LESQUIN C'EST VOUS",
+      "libelle_abrege_liste": "LESQUIN C'EST VOUS",
+      "nuance_liste": "LDVD",
+      "voix": 2501,
+      "pct_voix_exprimes": 61.89,
+      "sieges_cm": 24,
+      "sieges_cc": 1,
+      "nb_elus": 24,
+      "tete_de_liste": {
+        "nom": "AMBROZIEWICZ",
+        "prenom": "Jean-Marc",
+        "nom_complet": "Jean-Marc AMBROZIEWICZ",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "AMBROZIEWICZ",
+          "prenom": "Jean-Marc",
+          "nom_complet": "Jean-Marc AMBROZIEWICZ",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "COTTRANT",
+          "prenom": "Claudine",
+          "nom_complet": "Claudine COTTRANT",
+          "sexe": "F",
+          "age": 71,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "COQUART",
+          "prenom": "Dimitri",
+          "nom_complet": "Dimitri COQUART",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DESENNE",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie DESENNE",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DUBRUQUE",
+          "prenom": "Franck",
+          "nom_complet": "Franck DUBRUQUE",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "GARNIER",
+          "prenom": "Lydie",
+          "nom_complet": "Lydie GARNIER",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "HUART",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe HUART",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "MEYER",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie MEYER",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "VANHERSECKE",
+          "prenom": "Michel",
+          "nom_complet": "Michel VANHERSECKE",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "PILLOT",
+          "prenom": "Marjorie",
+          "nom_complet": "Marjorie PILLOT",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "ROUSSEL",
+          "prenom": "Hubert",
+          "nom_complet": "Hubert ROUSSEL",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "BAUDOUX",
+          "prenom": "Catherine",
+          "nom_complet": "Catherine BAUDOUX",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "MEGUEULE",
+          "prenom": "Ludovic",
+          "nom_complet": "Ludovic MEGUEULE",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "NGUYEN",
+          "prenom": "Chen Chon",
+          "nom_complet": "Chen Chon NGUYEN",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "LOBRY",
+          "prenom": "Jean-Michel",
+          "nom_complet": "Jean-Michel LOBRY",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "WEKSTEEN",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie WEKSTEEN",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "SIMONNET",
+          "prenom": "Jerome",
+          "nom_complet": "Jerome SIMONNET",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "MOUVIELLE",
+          "prenom": "Aurelie",
+          "nom_complet": "Aurelie MOUVIELLE",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "FOURNY",
+          "prenom": "Eric",
+          "nom_complet": "Eric FOURNY",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "DUHAMEL",
+          "prenom": "Marie",
+          "nom_complet": "Marie DUHAMEL",
+          "sexe": "F",
+          "age": 32,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "VEZY",
+          "prenom": "Charles",
+          "nom_complet": "Charles VEZY",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "PREGEVOLE",
+          "prenom": "Marie-Solange",
+          "nom_complet": "Marie-Solange PREGEVOLE",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "ALLARD",
+          "prenom": "Eddy",
+          "nom_complet": "Eddy ALLARD",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "23"
+        },
+        {
+          "nom": "MASURE",
+          "prenom": "Sophie",
+          "nom_complet": "Sophie MASURE",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "24"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "COEUR LESQUINOIS",
+      "libelle_abrege_liste": "COEUR LESQUINOIS",
+      "nuance_liste": "LDVD",
+      "voix": 1540,
+      "pct_voix_exprimes": 38.11,
+      "sieges_cm": 5,
+      "sieges_cc": 0,
+      "nb_elus": 5,
+      "tete_de_liste": {
+        "nom": "WATTEBLED",
+        "prenom": "Alexis",
+        "nom_complet": "Alexis WATTEBLED",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "WATTEBLED",
+          "prenom": "Alexis",
+          "nom_complet": "Alexis WATTEBLED",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BESNIER",
+          "prenom": "Karine",
+          "nom_complet": "Karine BESNIER",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "SAMAILLE",
+          "prenom": "Quentin",
+          "nom_complet": "Quentin SAMAILLE",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "HENNION",
+          "prenom": "Vanessa",
+          "nom_complet": "Vanessa HENNION",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DENISE",
+          "prenom": "Daniel",
+          "nom_complet": "Daniel DENISE",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "5"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

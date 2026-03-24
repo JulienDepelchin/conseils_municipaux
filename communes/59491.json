@@ -1,0 +1,347 @@
+{
+  "code_commune": "59491",
+  "commune": "Raismes",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "ROBIN",
+    "prenom": "Aymeric",
+    "nom_complet": "Aymeric ROBIN",
+    "age": 51,
+    "nuance": "LCOM"
+  },
+  "resultats": {
+    "inscrits": 9353,
+    "votants": 4555,
+    "pct_votants": 48.7,
+    "abstentions": 4798,
+    "pct_abstentions": 51.3,
+    "exprimes": 4374
+  },
+  "listes": [
+    {
+      "num_panneau": "3",
+      "libelle_liste": "RAISMES AU COEUR",
+      "libelle_abrege_liste": "RAISMES AU COEUR",
+      "nuance_liste": "LCOM",
+      "voix": 2914,
+      "pct_voix_exprimes": 66.62,
+      "sieges_cm": 28,
+      "sieges_cc": 6,
+      "nb_elus": 28,
+      "tete_de_liste": {
+        "nom": "ROBIN",
+        "prenom": "Aymeric",
+        "nom_complet": "Aymeric ROBIN",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "ROBIN",
+          "prenom": "Aymeric",
+          "nom_complet": "Aymeric ROBIN",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "POTIER",
+          "prenom": "Sylvia",
+          "nom_complet": "Sylvia POTIER",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "TRIFI",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick TRIFI",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "HUBERT",
+          "prenom": "Véronique",
+          "nom_complet": "Véronique HUBERT",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "RENARD",
+          "prenom": "Florian",
+          "nom_complet": "Florian RENARD",
+          "sexe": "M",
+          "age": 30,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LIPPERT",
+          "prenom": "Karine",
+          "nom_complet": "Karine LIPPERT",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "WARMOËS",
+          "prenom": "Éric",
+          "nom_complet": "Éric WARMOËS",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "MILLECAMP",
+          "prenom": "Laëtitia",
+          "nom_complet": "Laëtitia MILLECAMP",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "IBANEZ",
+          "prenom": "Jérôme",
+          "nom_complet": "Jérôme IBANEZ",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "BRAMME",
+          "prenom": "Annette",
+          "nom_complet": "Annette BRAMME",
+          "sexe": "F",
+          "age": 75,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "MOTTIER",
+          "prenom": "Jean-Paul",
+          "nom_complet": "Jean-Paul MOTTIER",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "COCHY",
+          "prenom": "Nadine",
+          "nom_complet": "Nadine COCHY",
+          "sexe": "F",
+          "age": 78,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "BIREMBAUT",
+          "prenom": "Jean-Paul",
+          "nom_complet": "Jean-Paul BIREMBAUT",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "FLORENT",
+          "prenom": "Carine",
+          "nom_complet": "Carine FLORENT",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "EVRARD",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick EVRARD",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "BOUCHER",
+          "prenom": "Mélissa",
+          "nom_complet": "Mélissa BOUCHER",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "PATIN",
+          "prenom": "Jean-Marcel",
+          "nom_complet": "Jean-Marcel PATIN",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "AIT KADDOUR",
+          "prenom": "Hayette",
+          "nom_complet": "Hayette AIT KADDOUR",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "MATYSEK",
+          "prenom": "François",
+          "nom_complet": "François MATYSEK",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "WUELCHE",
+          "prenom": "Vickie",
+          "nom_complet": "Vickie WUELCHE",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "MERESSE",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal MERESSE",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "REAUX",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie REAUX",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "MONCHICOURT",
+          "prenom": "Éric",
+          "nom_complet": "Éric MONCHICOURT",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "23"
+        },
+        {
+          "nom": "MAHMOUDI",
+          "prenom": "Agathe",
+          "nom_complet": "Agathe MAHMOUDI",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "24"
+        },
+        {
+          "nom": "VANDEVILLE",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick VANDEVILLE",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "25"
+        },
+        {
+          "nom": "ROSTANKOWSKI",
+          "prenom": "Elise",
+          "nom_complet": "Elise ROSTANKOWSKI",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "26"
+        },
+        {
+          "nom": "DELCROIX",
+          "prenom": "Raphaël",
+          "nom_complet": "Raphaël DELCROIX",
+          "sexe": "M",
+          "age": 31,
+          "rang_liste": "27"
+        },
+        {
+          "nom": "KESSLER",
+          "prenom": "Emeline",
+          "nom_complet": "Emeline KESSLER",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "28"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Une autre voie est possible",
+      "libelle_abrege_liste": "Une autre voie est possible",
+      "nuance_liste": "LDVG",
+      "voix": 1144,
+      "pct_voix_exprimes": 26.15,
+      "sieges_cm": 4,
+      "sieges_cc": 1,
+      "nb_elus": 4,
+      "tete_de_liste": {
+        "nom": "LAMBERT",
+        "prenom": "Philippe",
+        "nom_complet": "Philippe LAMBERT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LAMBERT",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe LAMBERT",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "TERFOUS",
+          "prenom": "Fatima",
+          "nom_complet": "Fatima TERFOUS",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "PRIEZ",
+          "prenom": "Jean-Claude",
+          "nom_complet": "Jean-Claude PRIEZ",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "FAGEZ",
+          "prenom": "Pascale",
+          "nom_complet": "Pascale FAGEZ",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "4"
+        }
+      ],
+      "statut_conseil": "autre"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "POUR VOUS ET AVEC VOUS",
+      "libelle_abrege_liste": "POUR VOUS ET AVEC VOUS",
+      "nuance_liste": "LDVC",
+      "voix": 316,
+      "pct_voix_exprimes": 7.22,
+      "sieges_cm": 1,
+      "sieges_cc": 0,
+      "nb_elus": 1,
+      "tete_de_liste": {
+        "nom": "BENBAREK",
+        "prenom": "Sonia",
+        "nom_complet": "Sonia BENBAREK",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "BENBAREK",
+          "prenom": "Sonia",
+          "nom_complet": "Sonia BENBAREK",
+          "sexe": "F",
+          "age": 71,
+          "rang_liste": "1"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

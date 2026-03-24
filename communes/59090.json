@@ -1,0 +1,315 @@
+{
+  "code_commune": "59090",
+  "commune": "Bondues",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "LEPOUTRE",
+    "prenom": "Martin",
+    "nom_complet": "Martin LEPOUTRE",
+    "age": 64,
+    "nuance": "LDVD"
+  },
+  "resultats": {
+    "inscrits": 8552,
+    "votants": 4820,
+    "pct_votants": 56.36,
+    "abstentions": 3732,
+    "pct_abstentions": 43.64,
+    "exprimes": 4743
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "Ensemble pour Bondues",
+      "libelle_abrege_liste": "Ensemble pour Bondues",
+      "nuance_liste": "LDVD",
+      "voix": 2801,
+      "pct_voix_exprimes": 59.06,
+      "sieges_cm": 23,
+      "sieges_cc": 1,
+      "nb_elus": 23,
+      "tete_de_liste": {
+        "nom": "LEPOUTRE",
+        "prenom": "Martin",
+        "nom_complet": "Martin LEPOUTRE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LEPOUTRE",
+          "prenom": "Martin",
+          "nom_complet": "Martin LEPOUTRE",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DECARNE",
+          "prenom": "Emilie",
+          "nom_complet": "Emilie DECARNE",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DUPÉ",
+          "prenom": "Didier",
+          "nom_complet": "Didier DUPÉ",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BENOIT",
+          "prenom": "Anusha",
+          "nom_complet": "Anusha BENOIT",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DELZENNE",
+          "prenom": "Pierre",
+          "nom_complet": "Pierre DELZENNE",
+          "sexe": "M",
+          "age": 28,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DESNOULEZ",
+          "prenom": "Mathilde",
+          "nom_complet": "Mathilde DESNOULEZ",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "EVLARD",
+          "prenom": "John",
+          "nom_complet": "John EVLARD",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "BOURDON",
+          "prenom": "Camille",
+          "nom_complet": "Camille BOURDON",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "SENLIS",
+          "prenom": "Antoine",
+          "nom_complet": "Antoine SENLIS",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DESQUENNE",
+          "prenom": "Aurélie",
+          "nom_complet": "Aurélie DESQUENNE",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "GANGLOFF",
+          "prenom": "Pierre",
+          "nom_complet": "Pierre GANGLOFF",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "TRENTESAUX",
+          "prenom": "Emmanuelle",
+          "nom_complet": "Emmanuelle TRENTESAUX",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "SAUVAGE",
+          "prenom": "Alexandre",
+          "nom_complet": "Alexandre SAUVAGE",
+          "sexe": "M",
+          "age": 34,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "DELARGE-DENIS",
+          "prenom": "Laurine",
+          "nom_complet": "Laurine DELARGE-DENIS",
+          "sexe": "F",
+          "age": 28,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "ROCHER",
+          "prenom": "Anthony",
+          "nom_complet": "Anthony ROCHER",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "DEPOORTERE-COEMAN",
+          "prenom": "Micheline",
+          "nom_complet": "Micheline DEPOORTERE-COEMAN",
+          "sexe": "F",
+          "age": 70,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "MAHIEU",
+          "prenom": "Louis",
+          "nom_complet": "Louis MAHIEU",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "D'HALLUIN",
+          "prenom": "Noémie",
+          "nom_complet": "Noémie D'HALLUIN",
+          "sexe": "F",
+          "age": 31,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "GHEYSENS",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent GHEYSENS",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "D'HERBIGNY",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle D'HERBIGNY",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "MARTIGNY",
+          "prenom": "Gaël",
+          "nom_complet": "Gaël MARTIGNY",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "MIELLET",
+          "prenom": "Fanny",
+          "nom_complet": "Fanny MIELLET",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "TOILLON",
+          "prenom": "David",
+          "nom_complet": "David TOILLON",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "23"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "BONDUES C'EST VOUS !",
+      "libelle_abrege_liste": "BONDUES C'EST VOUS !",
+      "nuance_liste": "LDVD",
+      "voix": 1295,
+      "pct_voix_exprimes": 27.3,
+      "sieges_cm": 4,
+      "sieges_cc": 0,
+      "nb_elus": 4,
+      "tete_de_liste": {
+        "nom": "PAUL",
+        "prenom": "Yves",
+        "nom_complet": "Yves PAUL",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "PAUL",
+          "prenom": "Yves",
+          "nom_complet": "Yves PAUL",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "NAESSENS",
+          "prenom": "Laura",
+          "nom_complet": "Laura NAESSENS",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "HERREMAN",
+          "prenom": "Christian",
+          "nom_complet": "Christian HERREMAN",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "VANCAEYZEELE",
+          "prenom": "Francine",
+          "nom_complet": "Francine VANCAEYZEELE",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "4"
+        }
+      ],
+      "statut_conseil": "autre"
+    },
+    {
+      "num_panneau": "3",
+      "libelle_liste": "UNE NOUVELLE DYNAMIQUE POUR BONDUES",
+      "libelle_abrege_liste": "UNE NOUVELLE DYNAMIQUE POUR BONDUES",
+      "nuance_liste": "LDVC",
+      "voix": 647,
+      "pct_voix_exprimes": 13.64,
+      "sieges_cm": 2,
+      "sieges_cc": 0,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "ROBIN",
+        "prenom": "Valérie",
+        "nom_complet": "Valérie ROBIN",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "ROBIN",
+          "prenom": "Valérie",
+          "nom_complet": "Valérie ROBIN",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "FISMAN",
+          "prenom": "Jérôme",
+          "nom_complet": "Jérôme FISMAN",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

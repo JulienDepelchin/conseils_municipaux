@@ -1,0 +1,131 @@
+{
+  "code_commune": "62234",
+  "commune": "Conchy-sur-Canche",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "COQUET",
+    "prenom": "Dominique",
+    "nom_complet": "Dominique COQUET",
+    "age": 67,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 160,
+    "votants": 111,
+    "pct_votants": 69.38,
+    "abstentions": 49,
+    "pct_abstentions": 30.63,
+    "exprimes": 102
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ENSEMBLE POUR CONCHY SUR CANCHE",
+      "libelle_abrege_liste": "ENSEMBLE POUR CONCHY SUR CANCHE",
+      "nuance_liste": null,
+      "voix": 102,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "COQUET",
+        "prenom": "Dominique",
+        "nom_complet": "Dominique COQUET",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "COQUET",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique COQUET",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "HURÉ",
+          "prenom": "Martine",
+          "nom_complet": "Martine HURÉ",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "GALLET",
+          "prenom": "Manuel",
+          "nom_complet": "Manuel GALLET",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "HULO",
+          "prenom": "Mélina",
+          "nom_complet": "Mélina HULO",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DULARY",
+          "prenom": "Gérald",
+          "nom_complet": "Gérald DULARY",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DUCHATEAU",
+          "prenom": "Mélanie",
+          "nom_complet": "Mélanie DUCHATEAU",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BEERNAERT",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas BEERNAERT",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "HULO",
+          "prenom": "Magalie",
+          "nom_complet": "Magalie HULO",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DELVAL",
+          "prenom": "Patrice",
+          "nom_complet": "Patrice DELVAL",
+          "sexe": "M",
+          "age": 77,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "BONNIEZ",
+          "prenom": "Catherine",
+          "nom_complet": "Catherine BONNIEZ",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "PRÉVOST",
+          "prenom": "Régis",
+          "nom_complet": "Régis PRÉVOST",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

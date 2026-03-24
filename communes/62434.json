@@ -1,0 +1,131 @@
+{
+  "code_commune": "62434",
+  "commune": "La Herlière",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "TRAISNEL",
+    "prenom": "Alain",
+    "nom_complet": "Alain TRAISNEL",
+    "age": 57,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 95,
+    "votants": 60,
+    "pct_votants": 63.16,
+    "abstentions": 35,
+    "pct_abstentions": 36.84,
+    "exprimes": 54
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "LA HERLIERE de DEMAIN",
+      "libelle_abrege_liste": "LA HERLIERE de DEMAIN",
+      "nuance_liste": null,
+      "voix": 54,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "TRAISNEL",
+        "prenom": "Alain",
+        "nom_complet": "Alain TRAISNEL",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "TRAISNEL",
+          "prenom": "Alain",
+          "nom_complet": "Alain TRAISNEL",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "MATHONET",
+          "prenom": "Michèle",
+          "nom_complet": "Michèle MATHONET",
+          "sexe": "F",
+          "age": 74,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LANTOINE",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique LANTOINE",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "VIART",
+          "prenom": "Marie-Emmanuelle",
+          "nom_complet": "Marie-Emmanuelle VIART",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DAUCOURT",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique DAUCOURT",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "WATRELOT",
+          "prenom": "Ludivine",
+          "nom_complet": "Ludivine WATRELOT",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BLANDIN",
+          "prenom": "Grégory",
+          "nom_complet": "Grégory BLANDIN",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "BAUDENS",
+          "prenom": "Valériane",
+          "nom_complet": "Valériane BAUDENS",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "LABIS",
+          "prenom": "Vivien",
+          "nom_complet": "Vivien LABIS",
+          "sexe": "M",
+          "age": 31,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "POSLEDNIK",
+          "prenom": "Adeline",
+          "nom_complet": "Adeline POSLEDNIK",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "LABIS",
+          "prenom": "Stéphane",
+          "nom_complet": "Stéphane LABIS",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "code_commune": "59119",
+  "commune": "Buysscheure",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "GUILLAIN",
+    "prenom": "Romuald",
+    "nom_complet": "Romuald GUILLAIN",
+    "age": 52,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 459,
+    "votants": 286,
+    "pct_votants": 62.31,
+    "abstentions": 173,
+    "pct_abstentions": 37.69,
+    "exprimes": 259
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "BUYSSCHEURE EN ACTION AVEC VOUS",
+      "libelle_abrege_liste": "BUYSSCHEURE EN ACTION AVEC VOUS",
+      "nuance_liste": null,
+      "voix": 259,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "GUILLAIN",
+        "prenom": "Romuald",
+        "nom_complet": "Romuald GUILLAIN",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "GUILLAIN",
+          "prenom": "Romuald",
+          "nom_complet": "Romuald GUILLAIN",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DUHAMEL",
+          "prenom": "Camille",
+          "nom_complet": "Camille DUHAMEL",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "SCHRYVE",
+          "prenom": "Emmanuel",
+          "nom_complet": "Emmanuel SCHRYVE",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "PROVIN",
+          "prenom": "Tiphaine",
+          "nom_complet": "Tiphaine PROVIN",
+          "sexe": "F",
+          "age": 27,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "BECK",
+          "prenom": "Gregory",
+          "nom_complet": "Gregory BECK",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DEVULDER",
+          "prenom": "Elodie",
+          "nom_complet": "Elodie DEVULDER",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "LACRESSONNIERE",
+          "prenom": "Vincent",
+          "nom_complet": "Vincent LACRESSONNIERE",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "HENEMAN",
+          "prenom": "Audrey",
+          "nom_complet": "Audrey HENEMAN",
+          "sexe": "F",
+          "age": 25,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "JOHNSON",
+          "prenom": "Richard",
+          "nom_complet": "Richard JOHNSON",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DEBRU",
+          "prenom": "Lea",
+          "nom_complet": "Lea DEBRU",
+          "sexe": "F",
+          "age": 24,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "MAES",
+          "prenom": "Pierre",
+          "nom_complet": "Pierre MAES",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "LETURGEZ-WADOUX",
+          "prenom": "Margareth",
+          "nom_complet": "Margareth LETURGEZ-WADOUX",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "SENSE",
+          "prenom": "Jimmy",
+          "nom_complet": "Jimmy SENSE",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "DECODTS",
+          "prenom": "Viviane",
+          "nom_complet": "Viviane DECODTS",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "GORILLIOT",
+          "prenom": "Frederic",
+          "nom_complet": "Frederic GORILLIOT",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

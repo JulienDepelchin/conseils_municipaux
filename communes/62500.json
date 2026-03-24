@@ -1,0 +1,131 @@
+{
+  "code_commune": "62500",
+  "commune": "Lespesses",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "PICQUE",
+    "prenom": "Arnaud",
+    "nom_complet": "Arnaud PICQUE",
+    "age": 51,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 349,
+    "votants": 289,
+    "pct_votants": 82.81,
+    "abstentions": 60,
+    "pct_abstentions": 17.19,
+    "exprimes": 264
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Avec Coeur et Raison, Continuons ensemble pour notre village !",
+      "libelle_abrege_liste": "Avec Coeur et Raison, Continuons ensemble pour notre village !",
+      "nuance_liste": null,
+      "voix": 264,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "PICQUE",
+        "prenom": "Arnaud",
+        "nom_complet": "Arnaud PICQUE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "PICQUE",
+          "prenom": "Arnaud",
+          "nom_complet": "Arnaud PICQUE",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "GHIER",
+          "prenom": "Valérie",
+          "nom_complet": "Valérie GHIER",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BOULET",
+          "prenom": "David",
+          "nom_complet": "David BOULET",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LAGACHE",
+          "prenom": "Nelly",
+          "nom_complet": "Nelly LAGACHE",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DELRUE",
+          "prenom": "David",
+          "nom_complet": "David DELRUE",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LAMPS",
+          "prenom": "Séverine",
+          "nom_complet": "Séverine LAMPS",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "GREUEZ",
+          "prenom": "Jean-Luc",
+          "nom_complet": "Jean-Luc GREUEZ",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LOTTE",
+          "prenom": "Julie",
+          "nom_complet": "Julie LOTTE",
+          "sexe": "F",
+          "age": 19,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "JENEQUIN",
+          "prenom": "Daniel",
+          "nom_complet": "Daniel JENEQUIN",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "MASSART",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie MASSART",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "POHIER",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick POHIER",
+          "sexe": "M",
+          "age": 74,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

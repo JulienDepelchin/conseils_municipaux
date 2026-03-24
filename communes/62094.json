@@ -1,0 +1,131 @@
+{
+  "code_commune": "62094",
+  "commune": "Beaumerie-Saint-Martin",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "HERLANGE",
+    "prenom": "Patrick",
+    "nom_complet": "Patrick HERLANGE",
+    "age": 72,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 312,
+    "votants": 202,
+    "pct_votants": 64.74,
+    "abstentions": 110,
+    "pct_abstentions": 35.26,
+    "exprimes": 164
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "UN NOUVEL ELAN POUR BEAUMERIE SAINT MARTIN",
+      "libelle_abrege_liste": "UN NOUVEL ELAN POUR BEAUMERIE SAINT MARTIN",
+      "nuance_liste": null,
+      "voix": 164,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "HERLANGE",
+        "prenom": "Patrick",
+        "nom_complet": "Patrick HERLANGE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "HERLANGE",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick HERLANGE",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "SERGENT",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie SERGENT",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "MARCEL-FOURRIER",
+          "prenom": "Didier",
+          "nom_complet": "Didier MARCEL-FOURRIER",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DOUILLOT HAMELLE",
+          "prenom": "Justine",
+          "nom_complet": "Justine DOUILLOT HAMELLE",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "PLÉE",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric PLÉE",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "HERLANGE",
+          "prenom": "Pauline",
+          "nom_complet": "Pauline HERLANGE",
+          "sexe": "F",
+          "age": 33,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BELLEMBERT",
+          "prenom": "Adrien",
+          "nom_complet": "Adrien BELLEMBERT",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DE SAINTE MARESVILLE",
+          "prenom": "Barbara",
+          "nom_complet": "Barbara DE SAINTE MARESVILLE",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DELPLANQUE",
+          "prenom": "Sébastien",
+          "nom_complet": "Sébastien DELPLANQUE",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "CODRON",
+          "prenom": "Adeline",
+          "nom_complet": "Adeline CODRON",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "LEBORGNE",
+          "prenom": "Dimitri",
+          "nom_complet": "Dimitri LEBORGNE",
+          "sexe": "M",
+          "age": 29,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

@@ -1,0 +1,215 @@
+{
+  "code_commune": "59126",
+  "commune": "Cantin",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "VAILLANT",
+    "prenom": "Lucie",
+    "nom_complet": "Lucie VAILLANT",
+    "age": 52,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1282,
+    "votants": 908,
+    "pct_votants": 70.83,
+    "abstentions": 374,
+    "pct_abstentions": 29.17,
+    "exprimes": 884
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "CANTIN TOUJOURS POUR VOUS ET AVEC VOUS",
+      "libelle_abrege_liste": "CANTIN TOUJOURS POUR VOUS ET AVEC VOUS",
+      "nuance_liste": null,
+      "voix": 687,
+      "pct_voix_exprimes": 77.71,
+      "sieges_cm": 17,
+      "sieges_cc": 1,
+      "nb_elus": 17,
+      "tete_de_liste": {
+        "nom": "VAILLANT",
+        "prenom": "Lucie",
+        "nom_complet": "Lucie VAILLANT",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "VAILLANT",
+          "prenom": "Lucie",
+          "nom_complet": "Lucie VAILLANT",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "VANDEVILLE",
+          "prenom": "David",
+          "nom_complet": "David VANDEVILLE",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BAJEUX",
+          "prenom": "Auzenda",
+          "nom_complet": "Auzenda BAJEUX",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DUPRIEZ",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe DUPRIEZ",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DRUMEZ",
+          "prenom": "Frédérique",
+          "nom_complet": "Frédérique DRUMEZ",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "BRIQUET",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe BRIQUET",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "STIEVENARD",
+          "prenom": "Karine",
+          "nom_complet": "Karine STIEVENARD",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "NAULIK",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno NAULIK",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DELFORGE",
+          "prenom": "Thérèse",
+          "nom_complet": "Thérèse DELFORGE",
+          "sexe": "F",
+          "age": 81,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DELVAL",
+          "prenom": "Jean-Michel",
+          "nom_complet": "Jean-Michel DELVAL",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "CARTON",
+          "prenom": "Jocelyne",
+          "nom_complet": "Jocelyne CARTON",
+          "sexe": "F",
+          "age": 70,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "GUENEZ",
+          "prenom": "Michel",
+          "nom_complet": "Michel GUENEZ",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "SALLIO",
+          "prenom": "Camille",
+          "nom_complet": "Camille SALLIO",
+          "sexe": "F",
+          "age": 30,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "DERENSY",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent DERENSY",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "VÉRITÉ-BIGOT",
+          "prenom": "Clara",
+          "nom_complet": "Clara VÉRITÉ-BIGOT",
+          "sexe": "F",
+          "age": 32,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "MAGNE",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe MAGNE",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "BREBANT",
+          "prenom": "Germaine",
+          "nom_complet": "Germaine BREBANT",
+          "sexe": "F",
+          "age": 70,
+          "rang_liste": "17"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "CANTIN AU COEUR",
+      "libelle_abrege_liste": "CANTIN AU COEUR",
+      "nuance_liste": null,
+      "voix": 197,
+      "pct_voix_exprimes": 22.29,
+      "sieges_cm": 2,
+      "sieges_cc": 0,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "FINET",
+        "prenom": "Jérôme",
+        "nom_complet": "Jérôme FINET",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "FINET",
+          "prenom": "Jérôme",
+          "nom_complet": "Jérôme FINET",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LELEU",
+          "prenom": "Brigitte",
+          "nom_complet": "Brigitte LELEU",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

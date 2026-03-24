@@ -1,0 +1,163 @@
+{
+  "code_commune": "62237",
+  "commune": "Conteville-lès-Boulogne",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "TAUBREGEAS",
+    "prenom": "Jean-Renaud",
+    "nom_complet": "Jean-Renaud TAUBREGEAS",
+    "age": 63,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 439,
+    "votants": 317,
+    "pct_votants": 72.21,
+    "abstentions": 122,
+    "pct_abstentions": 27.79,
+    "exprimes": 279
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "CONTEVILLE AU QUOTIDIEN",
+      "libelle_abrege_liste": "CONTEVILLE AU QUOTIDIEN",
+      "nuance_liste": null,
+      "voix": 279,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "TAUBREGEAS",
+        "prenom": "Jean-Renaud",
+        "nom_complet": "Jean-Renaud TAUBREGEAS",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "TAUBREGEAS",
+          "prenom": "Jean-Renaud",
+          "nom_complet": "Jean-Renaud TAUBREGEAS",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DEMILLY",
+          "prenom": "Annick",
+          "nom_complet": "Annick DEMILLY",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "NOLF",
+          "prenom": "Fabien",
+          "nom_complet": "Fabien NOLF",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "CAROUX",
+          "prenom": "Anne-Marie",
+          "nom_complet": "Anne-Marie CAROUX",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "PETIT",
+          "prenom": "Bertrand",
+          "nom_complet": "Bertrand PETIT",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "RADENNE",
+          "prenom": "Anne",
+          "nom_complet": "Anne RADENNE",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "CAROUX",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas CAROUX",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "CLABAUT",
+          "prenom": "Christelle",
+          "nom_complet": "Christelle CLABAUT",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "PERARD",
+          "prenom": "Sylvain",
+          "nom_complet": "Sylvain PERARD",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "ESTIENNE",
+          "prenom": "Véronique",
+          "nom_complet": "Véronique ESTIENNE",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "CHALOT",
+          "prenom": "André",
+          "nom_complet": "André CHALOT",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "COTTIN",
+          "prenom": "Sabrina",
+          "nom_complet": "Sabrina COTTIN",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "MAILLY",
+          "prenom": "Rémi",
+          "nom_complet": "Rémi MAILLY",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "PINCET",
+          "prenom": "Dorothée",
+          "nom_complet": "Dorothée PINCET",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "FASQUEL",
+          "prenom": "Romain",
+          "nom_complet": "Romain FASQUEL",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

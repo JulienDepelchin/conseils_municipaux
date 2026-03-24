@@ -1,0 +1,163 @@
+{
+  "code_commune": "62672",
+  "commune": "Puisieux",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "BONNAY",
+    "prenom": "Jacques",
+    "nom_complet": "Jacques BONNAY",
+    "age": 66,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 498,
+    "votants": 284,
+    "pct_votants": 57.03,
+    "abstentions": 214,
+    "pct_abstentions": 42.97,
+    "exprimes": 215
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ENSEMBLE POUR UN AVENIR DURABLE ET RESPONSABLE",
+      "libelle_abrege_liste": "ENSEMBLE POUR UN AVENIR DURABLE ET RESPONSABLE",
+      "nuance_liste": null,
+      "voix": 215,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "BONNAY",
+        "prenom": "Jacques",
+        "nom_complet": "Jacques BONNAY",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BONNAY",
+          "prenom": "Jacques",
+          "nom_complet": "Jacques BONNAY",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "GROSSEMY",
+          "prenom": "Lydie",
+          "nom_complet": "Lydie GROSSEMY",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "VANPARYS",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe VANPARYS",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BECOT",
+          "prenom": "Charlotte",
+          "nom_complet": "Charlotte BECOT",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "VAQUETTE",
+          "prenom": "Guillaume",
+          "nom_complet": "Guillaume VAQUETTE",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DRELON",
+          "prenom": "Aurelie",
+          "nom_complet": "Aurelie DRELON",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "GOZZO",
+          "prenom": "Bernard",
+          "nom_complet": "Bernard GOZZO",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "POULAIN",
+          "prenom": "Marie-Adelaïde",
+          "nom_complet": "Marie-Adelaïde POULAIN",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "LEBEL",
+          "prenom": "Francis",
+          "nom_complet": "Francis LEBEL",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "FFROMONT",
+          "prenom": "Fiona",
+          "nom_complet": "Fiona FFROMONT",
+          "sexe": "F",
+          "age": 28,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "HASSAINE",
+          "prenom": "Abdellah",
+          "nom_complet": "Abdellah HASSAINE",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "DEPRE",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie DEPRE",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "DESHAYES",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno DESHAYES",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "DESUTTER",
+          "prenom": "Hélène",
+          "nom_complet": "Hélène DESUTTER",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "MATTIOLI",
+          "prenom": "Jeremy",
+          "nom_complet": "Jeremy MATTIOLI",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "code_commune": "59498",
+  "commune": "Reumont",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "RICHEZ",
+    "prenom": "Jean-Pierre",
+    "nom_complet": "Jean-Pierre RICHEZ",
+    "age": 64,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 271,
+    "votants": 243,
+    "pct_votants": 89.67,
+    "abstentions": 28,
+    "pct_abstentions": 10.33,
+    "exprimes": 240
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "Ensemble pour Reumont",
+      "libelle_abrege_liste": "Ensemble pour Reumont",
+      "nuance_liste": null,
+      "voix": 146,
+      "pct_voix_exprimes": 60.83,
+      "sieges_cm": 9,
+      "sieges_cc": null,
+      "nb_elus": 9,
+      "tete_de_liste": {
+        "nom": "RICHEZ",
+        "prenom": "Jean-Pierre",
+        "nom_complet": "Jean-Pierre RICHEZ",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "RICHEZ",
+          "prenom": "Jean-Pierre",
+          "nom_complet": "Jean-Pierre RICHEZ",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DEVAUX",
+          "prenom": "Céline",
+          "nom_complet": "Céline DEVAUX",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "WILLEMART",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier WILLEMART",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "FRAMERY",
+          "prenom": "Sophie",
+          "nom_complet": "Sophie FRAMERY",
+          "sexe": "F",
+          "age": 33,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "RENZELLA",
+          "prenom": "Gian Franco",
+          "nom_complet": "Gian Franco RENZELLA",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "RENZELLA",
+          "prenom": "Rachel",
+          "nom_complet": "Rachel RENZELLA",
+          "sexe": "F",
+          "age": 75,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DELHAYE",
+          "prenom": "David",
+          "nom_complet": "David DELHAYE",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DEUDON",
+          "prenom": "Aline",
+          "nom_complet": "Aline DEUDON",
+          "sexe": "F",
+          "age": 32,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "MINETTE",
+          "prenom": "Victor",
+          "nom_complet": "Victor MINETTE",
+          "sexe": "M",
+          "age": 30,
+          "rang_liste": "9"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ENSEMBLE POUR UN RENOUVEAU",
+      "libelle_abrege_liste": "ENSEMBLE POUR UN RENOUVEAU",
+      "nuance_liste": null,
+      "voix": 94,
+      "pct_voix_exprimes": 39.17,
+      "sieges_cm": 2,
+      "sieges_cc": null,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "BEAUSSART",
+        "prenom": "Guy",
+        "nom_complet": "Guy BEAUSSART",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BEAUSSART",
+          "prenom": "Guy",
+          "nom_complet": "Guy BEAUSSART",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "VAILLE",
+          "prenom": "Marie-Françoise",
+          "nom_complet": "Marie-Françoise VAILLE",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

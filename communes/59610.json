@@ -1,0 +1,163 @@
+{
+  "code_commune": "59610",
+  "commune": "Verchain-Maugré",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "BISIAUX",
+    "prenom": "Christian",
+    "nom_complet": "Christian BISIAUX",
+    "age": 69,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 803,
+    "votants": 426,
+    "pct_votants": 53.05,
+    "abstentions": 377,
+    "pct_abstentions": 46.95,
+    "exprimes": 342
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "UNE ENERGIE NOUVELLE POUR VERCHAIN",
+      "libelle_abrege_liste": "UNE ENERGIE NOUVELLE POUR VERCHAIN",
+      "nuance_liste": null,
+      "voix": 342,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": 1,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "BISIAUX",
+        "prenom": "Christian",
+        "nom_complet": "Christian BISIAUX",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BISIAUX",
+          "prenom": "Christian",
+          "nom_complet": "Christian BISIAUX",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DE MEYER",
+          "prenom": "Catherine",
+          "nom_complet": "Catherine DE MEYER",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "TAISNE",
+          "prenom": "Damien",
+          "nom_complet": "Damien TAISNE",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BULTEZ",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique BULTEZ",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "GABELLE",
+          "prenom": "Jean-Claude",
+          "nom_complet": "Jean-Claude GABELLE",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "RENAUT",
+          "prenom": "Fabienne",
+          "nom_complet": "Fabienne RENAUT",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "SOREAU",
+          "prenom": "Thomas",
+          "nom_complet": "Thomas SOREAU",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "MAROUSEZ",
+          "prenom": "Marie-Laure",
+          "nom_complet": "Marie-Laure MAROUSEZ",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "TELLE",
+          "prenom": "Jean-Claude",
+          "nom_complet": "Jean-Claude TELLE",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "PAMART-LECLERCQ",
+          "prenom": "Marie",
+          "nom_complet": "Marie PAMART-LECLERCQ",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DINAUT",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique DINAUT",
+          "sexe": "M",
+          "age": 32,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "OLESINSKI",
+          "prenom": "Lydie",
+          "nom_complet": "Lydie OLESINSKI",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "DEMAIN",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent DEMAIN",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "GLAUDEL",
+          "prenom": "Kelly",
+          "nom_complet": "Kelly GLAUDEL",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "BETRANCOURT",
+          "prenom": "Thomas",
+          "nom_complet": "Thomas BETRANCOURT",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

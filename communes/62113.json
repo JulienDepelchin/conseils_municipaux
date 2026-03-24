@@ -1,0 +1,151 @@
+{
+  "code_commune": "62113",
+  "commune": "Berles-Monchel",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "COJON",
+    "prenom": "Philippe",
+    "nom_complet": "Philippe COJON",
+    "age": 61,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 394,
+    "votants": 308,
+    "pct_votants": 78.17,
+    "abstentions": 86,
+    "pct_abstentions": 21.83,
+    "exprimes": 295
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ENSEMBLE, BIEN VIVRE A BERLES-MONCHEL",
+      "libelle_abrege_liste": "ENSEMBLE, BIEN VIVRE A BERLES-MONCHEL",
+      "nuance_liste": null,
+      "voix": 153,
+      "pct_voix_exprimes": 51.86,
+      "sieges_cm": 9,
+      "sieges_cc": null,
+      "nb_elus": 9,
+      "tete_de_liste": {
+        "nom": "COJON",
+        "prenom": "Philippe",
+        "nom_complet": "Philippe COJON",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "COJON",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe COJON",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LECAT",
+          "prenom": "Marlène",
+          "nom_complet": "Marlène LECAT",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "THERY",
+          "prenom": "Eric",
+          "nom_complet": "Eric THERY",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DUEZ",
+          "prenom": "Alexia",
+          "nom_complet": "Alexia DUEZ",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "CHOAIN",
+          "prenom": "Louis",
+          "nom_complet": "Louis CHOAIN",
+          "sexe": "M",
+          "age": 78,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "THELLIER",
+          "prenom": "Nadine",
+          "nom_complet": "Nadine THELLIER",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "PRAT",
+          "prenom": "Claude",
+          "nom_complet": "Claude PRAT",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "GALLET",
+          "prenom": "Katy",
+          "nom_complet": "Katy GALLET",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "THELLIER",
+          "prenom": "Richard",
+          "nom_complet": "Richard THELLIER",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "9"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "Construire l'Avenir de BERLES-MONCHEL pour et avec ses habitants",
+      "libelle_abrege_liste": "Construire l'Avenir de BERLES-MONCHEL pour et avec ses habitants",
+      "nuance_liste": null,
+      "voix": 142,
+      "pct_voix_exprimes": 48.14,
+      "sieges_cm": 2,
+      "sieges_cc": null,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "MORREEL",
+        "prenom": "Hubert",
+        "nom_complet": "Hubert MORREEL",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "MORREEL",
+          "prenom": "Hubert",
+          "nom_complet": "Hubert MORREEL",
+          "sexe": "M",
+          "age": 74,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "QUIDÉ",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie QUIDÉ",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

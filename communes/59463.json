@@ -1,0 +1,163 @@
+{
+  "code_commune": "59463",
+  "commune": "Pitgam",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "VANLERBERGHE",
+    "prenom": "Christophe",
+    "nom_complet": "Christophe VANLERBERGHE",
+    "age": 61,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 755,
+    "votants": 455,
+    "pct_votants": 60.26,
+    "abstentions": 300,
+    "pct_abstentions": 39.74,
+    "exprimes": 396
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Pitgam, notre village",
+      "libelle_abrege_liste": "PNV",
+      "nuance_liste": null,
+      "voix": 396,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": 2,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "VANLERBERGHE",
+        "prenom": "Christophe",
+        "nom_complet": "Christophe VANLERBERGHE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "VANLERBERGHE",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe VANLERBERGHE",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "VANDERBEKEN",
+          "prenom": "Pascaline",
+          "nom_complet": "Pascaline VANDERBEKEN",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LEMAIRE",
+          "prenom": "Hervé",
+          "nom_complet": "Hervé LEMAIRE",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "HUYGHE",
+          "prenom": "Élodie",
+          "nom_complet": "Élodie HUYGHE",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "RYCKEMBEUSCH",
+          "prenom": "Geoffrey",
+          "nom_complet": "Geoffrey RYCKEMBEUSCH",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "VANDENBILCKE",
+          "prenom": "Sandra",
+          "nom_complet": "Sandra VANDENBILCKE",
+          "sexe": "F",
+          "age": 32,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "CAILLIAU",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick CAILLIAU",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "GOURNAY",
+          "prenom": "Marie-Josephe",
+          "nom_complet": "Marie-Josephe GOURNAY",
+          "sexe": "F",
+          "age": 75,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "CALOONE",
+          "prenom": "Stephane",
+          "nom_complet": "Stephane CALOONE",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "LABRE",
+          "prenom": "Christelle",
+          "nom_complet": "Christelle LABRE",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "CAMPAGNIE",
+          "prenom": "Henri",
+          "nom_complet": "Henri CAMPAGNIE",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "CHERMEUX",
+          "prenom": "Amélie",
+          "nom_complet": "Amélie CHERMEUX",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "MONIN",
+          "prenom": "Thomas",
+          "nom_complet": "Thomas MONIN",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "PIEDANNA",
+          "prenom": "Angélique",
+          "nom_complet": "Angélique PIEDANNA",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "GILQUIN",
+          "prenom": "Kévin",
+          "nom_complet": "Kévin GILQUIN",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

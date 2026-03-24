@@ -1,0 +1,215 @@
+{
+  "code_commune": "59261",
+  "commune": "Glageon",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "PEROT",
+    "prenom": "Aurélie",
+    "nom_complet": "Aurélie PEROT",
+    "age": 45,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1098,
+    "votants": 750,
+    "pct_votants": 68.31,
+    "abstentions": 348,
+    "pct_abstentions": 31.69,
+    "exprimes": 725
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "Glageon, l'Avenir se vit ensemble",
+      "libelle_abrege_liste": "Glageon, l'Avenir se vit ensemble",
+      "nuance_liste": null,
+      "voix": 410,
+      "pct_voix_exprimes": 56.55,
+      "sieges_cm": 15,
+      "sieges_cc": 2,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "PEROT",
+        "prenom": "Aurélie",
+        "nom_complet": "Aurélie PEROT",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "PEROT",
+          "prenom": "Aurélie",
+          "nom_complet": "Aurélie PEROT",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BREBAN",
+          "prenom": "Guillaume",
+          "nom_complet": "Guillaume BREBAN",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "MUSA",
+          "prenom": "Corinne",
+          "nom_complet": "Corinne MUSA",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "MULLER",
+          "prenom": "Emeric",
+          "nom_complet": "Emeric MULLER",
+          "sexe": "M",
+          "age": 29,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DUQUENOY",
+          "prenom": "Anne-Chalotte",
+          "nom_complet": "Anne-Chalotte DUQUENOY",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "GRANATA",
+          "prenom": "Daniel",
+          "nom_complet": "Daniel GRANATA",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "CUISSET",
+          "prenom": "Marie-Claude",
+          "nom_complet": "Marie-Claude CUISSET",
+          "sexe": "F",
+          "age": 73,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "CUISSET",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas CUISSET",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "ESCODA",
+          "prenom": "Gina",
+          "nom_complet": "Gina ESCODA",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "MARCHAND",
+          "prenom": "David",
+          "nom_complet": "David MARCHAND",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DE GROOTE",
+          "prenom": "Sandy",
+          "nom_complet": "Sandy DE GROOTE",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "LERMIGEAUX",
+          "prenom": "Didier",
+          "nom_complet": "Didier LERMIGEAUX",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "FOLATRE",
+          "prenom": "Anne",
+          "nom_complet": "Anne FOLATRE",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "BRISSOT",
+          "prenom": "Alexis",
+          "nom_complet": "Alexis BRISSOT",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "TROTIN",
+          "prenom": "Nancy",
+          "nom_complet": "Nancy TROTIN",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "FIERS D'HIER AMBITIEUX POUR DEMAIN",
+      "libelle_abrege_liste": "FIERS D'HIER AMBITIEUX POUR DEMAIN",
+      "nuance_liste": null,
+      "voix": 315,
+      "pct_voix_exprimes": 43.45,
+      "sieges_cm": 4,
+      "sieges_cc": 1,
+      "nb_elus": 4,
+      "tete_de_liste": {
+        "nom": "LALIER",
+        "prenom": "Christine",
+        "nom_complet": "Christine LALIER",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "LALIER",
+          "prenom": "Christine",
+          "nom_complet": "Christine LALIER",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LEGROS",
+          "prenom": "Michael",
+          "nom_complet": "Michael LEGROS",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "MOREAU",
+          "prenom": "Brigitte",
+          "nom_complet": "Brigitte MOREAU",
+          "sexe": "F",
+          "age": 74,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LUCAS",
+          "prenom": "Yves",
+          "nom_complet": "Yves LUCAS",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "4"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

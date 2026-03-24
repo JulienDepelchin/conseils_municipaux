@@ -1,0 +1,147 @@
+{
+  "code_commune": "59141",
+  "commune": "Cauroir",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "DHORDAIN",
+    "prenom": "Benoit",
+    "nom_complet": "Benoit DHORDAIN",
+    "age": 56,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 462,
+    "votants": 249,
+    "pct_votants": 53.9,
+    "abstentions": 213,
+    "pct_abstentions": 46.1,
+    "exprimes": 217
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "MAIN DANS LA MAIN POUR L'AVENIR DE CAUROIR",
+      "libelle_abrege_liste": "MAIN DANS LA MAIN POUR L'AVENIR DE CAUROIR",
+      "nuance_liste": null,
+      "voix": 217,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 13,
+      "sieges_cc": null,
+      "nb_elus": 13,
+      "tete_de_liste": {
+        "nom": "DHORDAIN",
+        "prenom": "Benoit",
+        "nom_complet": "Benoit DHORDAIN",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DHORDAIN",
+          "prenom": "Benoit",
+          "nom_complet": "Benoit DHORDAIN",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "RIBEIRO DE OLIVEIRA",
+          "prenom": "Maria",
+          "nom_complet": "Maria RIBEIRO DE OLIVEIRA",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "MAURAGE",
+          "prenom": "François-Xavier",
+          "nom_complet": "François-Xavier MAURAGE",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BATAILLE",
+          "prenom": "Emeline",
+          "nom_complet": "Emeline BATAILLE",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "MAISON",
+          "prenom": "François",
+          "nom_complet": "François MAISON",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "BACHELET",
+          "prenom": "Dolores",
+          "nom_complet": "Dolores BACHELET",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BOUSARD",
+          "prenom": "Jean-François",
+          "nom_complet": "Jean-François BOUSARD",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LEMAIRE",
+          "prenom": "Anne-Claire",
+          "nom_complet": "Anne-Claire LEMAIRE",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "BEAUVOIS",
+          "prenom": "David",
+          "nom_complet": "David BEAUVOIS",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "MERCIER",
+          "prenom": "Karine",
+          "nom_complet": "Karine MERCIER",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "CAVRO",
+          "prenom": "Guy",
+          "nom_complet": "Guy CAVRO",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "LESNES",
+          "prenom": "Helene",
+          "nom_complet": "Helene LESNES",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "DEPOULAIN",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier DEPOULAIN",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "13"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

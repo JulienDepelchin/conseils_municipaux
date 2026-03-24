@@ -1,0 +1,131 @@
+{
+  "code_commune": "62685",
+  "commune": "Radinghem",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "BAHEUX",
+    "prenom": "Michaël",
+    "nom_complet": "Michaël BAHEUX",
+    "age": 54,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 183,
+    "votants": 143,
+    "pct_votants": 78.14,
+    "abstentions": 40,
+    "pct_abstentions": 21.86,
+    "exprimes": 109
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Continuons d'agir ensemble pour l'avenir de Radinghem",
+      "libelle_abrege_liste": "Continuons d'agir ensemble pour l'avenir de Radinghem",
+      "nuance_liste": null,
+      "voix": 109,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "BAHEUX",
+        "prenom": "Michaël",
+        "nom_complet": "Michaël BAHEUX",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BAHEUX",
+          "prenom": "Michaël",
+          "nom_complet": "Michaël BAHEUX",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LEBORGNE",
+          "prenom": "Lise",
+          "nom_complet": "Lise LEBORGNE",
+          "sexe": "F",
+          "age": 28,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DEBUIRE",
+          "prenom": "Frederic",
+          "nom_complet": "Frederic DEBUIRE",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "HIRSOUT",
+          "prenom": "Brigitte",
+          "nom_complet": "Brigitte HIRSOUT",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "GRAGNANI",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier GRAGNANI",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "MERCIER",
+          "prenom": "Laurence",
+          "nom_complet": "Laurence MERCIER",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "LAGACHE",
+          "prenom": "Anthony",
+          "nom_complet": "Anthony LAGACHE",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "BARBIER",
+          "prenom": "Sylvia",
+          "nom_complet": "Sylvia BARBIER",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "TROLLE",
+          "prenom": "Clement",
+          "nom_complet": "Clement TROLLE",
+          "sexe": "M",
+          "age": 32,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "CLETON",
+          "prenom": "Elodie",
+          "nom_complet": "Elodie CLETON",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "BERTIN",
+          "prenom": "Lucas",
+          "nom_complet": "Lucas BERTIN",
+          "sexe": "M",
+          "age": 33,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

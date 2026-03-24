@@ -1,0 +1,183 @@
+{
+  "code_commune": "62678",
+  "commune": "Quesques",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "BERLY",
+    "prenom": "Sébastien",
+    "nom_complet": "Sébastien BERLY",
+    "age": 46,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 592,
+    "votants": 507,
+    "pct_votants": 85.64,
+    "abstentions": 85,
+    "pct_abstentions": 14.36,
+    "exprimes": 491
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "QUESQUES, C'EST VOUS AVEC NOUS",
+      "libelle_abrege_liste": "QUESQUES, C'EST VOUS AVEC NOUS",
+      "nuance_liste": null,
+      "voix": 281,
+      "pct_voix_exprimes": 57.23,
+      "sieges_cm": 12,
+      "sieges_cc": null,
+      "nb_elus": 12,
+      "tete_de_liste": {
+        "nom": "BERLY",
+        "prenom": "Sébastien",
+        "nom_complet": "Sébastien BERLY",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BERLY",
+          "prenom": "Sébastien",
+          "nom_complet": "Sébastien BERLY",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DELATTRE",
+          "prenom": "Dorothée",
+          "nom_complet": "Dorothée DELATTRE",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "GEST",
+          "prenom": "Samuel",
+          "nom_complet": "Samuel GEST",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "CASIEZ",
+          "prenom": "Cassandra",
+          "nom_complet": "Cassandra CASIEZ",
+          "sexe": "F",
+          "age": 30,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "PRUVOST",
+          "prenom": "Xavier",
+          "nom_complet": "Xavier PRUVOST",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DEPRAITER",
+          "prenom": "Emilie",
+          "nom_complet": "Emilie DEPRAITER",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "GRIGNON",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier GRIGNON",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DUBOIS",
+          "prenom": "Virginie",
+          "nom_complet": "Virginie DUBOIS",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "FAUQUEMBERGUE",
+          "prenom": "Jacky",
+          "nom_complet": "Jacky FAUQUEMBERGUE",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "VERRONS",
+          "prenom": "Manon",
+          "nom_complet": "Manon VERRONS",
+          "sexe": "F",
+          "age": 33,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "PERARD",
+          "prenom": "Hervé",
+          "nom_complet": "Hervé PERARD",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "GILLION",
+          "prenom": "Christine",
+          "nom_complet": "Christine GILLION",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "12"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ENSEMBLE BIEN VIVRE A QUESQUES AUJOURD'HUI ET DEMAIN",
+      "libelle_abrege_liste": "ENSEMBLE BIEN VIVRE A QUESQUES AUJOURD'HUI ET DEMAIN",
+      "nuance_liste": null,
+      "voix": 210,
+      "pct_voix_exprimes": 42.77,
+      "sieges_cm": 3,
+      "sieges_cc": null,
+      "nb_elus": 3,
+      "tete_de_liste": {
+        "nom": "GUILBERT",
+        "prenom": "Marc",
+        "nom_complet": "Marc GUILBERT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "GUILBERT",
+          "prenom": "Marc",
+          "nom_complet": "Marc GUILBERT",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "MOREAU",
+          "prenom": "Caroline",
+          "nom_complet": "Caroline MOREAU",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "COFFRE",
+          "prenom": "Freddy",
+          "nom_complet": "Freddy COFFRE",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "3"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

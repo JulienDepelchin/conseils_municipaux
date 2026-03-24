@@ -1,0 +1,131 @@
+{
+  "code_commune": "62558",
+  "commune": "Marquay",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "LAIGLE",
+    "prenom": "Guillaume",
+    "nom_complet": "Guillaume LAIGLE",
+    "age": 51,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 121,
+    "votants": 94,
+    "pct_votants": 77.69,
+    "abstentions": 27,
+    "pct_abstentions": 22.31,
+    "exprimes": 79
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Ensemble pour Marquay",
+      "libelle_abrege_liste": "Ensemble pour Marquay",
+      "nuance_liste": null,
+      "voix": 79,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "LAIGLE",
+        "prenom": "Guillaume",
+        "nom_complet": "Guillaume LAIGLE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LAIGLE",
+          "prenom": "Guillaume",
+          "nom_complet": "Guillaume LAIGLE",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BRUNET",
+          "prenom": "Nadine",
+          "nom_complet": "Nadine BRUNET",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "ROBREAU",
+          "prenom": "Fabrice",
+          "nom_complet": "Fabrice ROBREAU",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "GRINCOURT",
+          "prenom": "Céline",
+          "nom_complet": "Céline GRINCOURT",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "SOISSONS",
+          "prenom": "Hervé",
+          "nom_complet": "Hervé SOISSONS",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DERETZ",
+          "prenom": "Céline",
+          "nom_complet": "Céline DERETZ",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "FAUQUEMBERGUE",
+          "prenom": "Sylvain",
+          "nom_complet": "Sylvain FAUQUEMBERGUE",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "ROPITAL",
+          "prenom": "Caroline",
+          "nom_complet": "Caroline ROPITAL",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "CRETEL",
+          "prenom": "Florent",
+          "nom_complet": "Florent CRETEL",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "PRUVOST",
+          "prenom": "Aurélie",
+          "nom_complet": "Aurélie PRUVOST",
+          "sexe": "F",
+          "age": 33,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "BOUVET",
+          "prenom": "Claudie",
+          "nom_complet": "Claudie BOUVET",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

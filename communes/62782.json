@@ -1,0 +1,131 @@
+{
+  "code_commune": "62782",
+  "commune": "Saudemont",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "TURPIN",
+    "prenom": "Laurent",
+    "nom_complet": "Laurent TURPIN",
+    "age": 60,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 387,
+    "votants": 205,
+    "pct_votants": 52.97,
+    "abstentions": 182,
+    "pct_abstentions": 47.03,
+    "exprimes": 174
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "SAUDEMONT UNIS ET SOLIDAIRES",
+      "libelle_abrege_liste": "SAUDEMONT UNIS ET SOLIDAIRES",
+      "nuance_liste": null,
+      "voix": 174,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "TURPIN",
+        "prenom": "Laurent",
+        "nom_complet": "Laurent TURPIN",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "TURPIN",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent TURPIN",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BURY",
+          "prenom": "Anne-Marie",
+          "nom_complet": "Anne-Marie BURY",
+          "sexe": "F",
+          "age": 71,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LEBLANC",
+          "prenom": "Michel",
+          "nom_complet": "Michel LEBLANC",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "REAL",
+          "prenom": "Claudette",
+          "nom_complet": "Claudette REAL",
+          "sexe": "F",
+          "age": 80,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "GRARD",
+          "prenom": "Geoffrey",
+          "nom_complet": "Geoffrey GRARD",
+          "sexe": "M",
+          "age": 34,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "TOPART",
+          "prenom": "Carole",
+          "nom_complet": "Carole TOPART",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DECAUDIN",
+          "prenom": "Corentin",
+          "nom_complet": "Corentin DECAUDIN",
+          "sexe": "M",
+          "age": 34,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LEHUT",
+          "prenom": "Anaïs",
+          "nom_complet": "Anaïs LEHUT",
+          "sexe": "F",
+          "age": 30,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "BACQUET",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe BACQUET",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "BRISSEZ",
+          "prenom": "Catherine",
+          "nom_complet": "Catherine BRISSEZ",
+          "sexe": "F",
+          "age": 29,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "PEUGNET",
+          "prenom": "Kévin",
+          "nom_complet": "Kévin PEUGNET",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

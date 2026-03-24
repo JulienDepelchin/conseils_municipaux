@@ -1,0 +1,163 @@
+{
+  "code_commune": "62820",
+  "commune": "Tincques",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "THERET",
+    "prenom": "Julie",
+    "nom_complet": "Julie THERET",
+    "age": 45,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 633,
+    "votants": 421,
+    "pct_votants": 66.51,
+    "abstentions": 212,
+    "pct_abstentions": 33.49,
+    "exprimes": 273
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "PROXIMITE, ENGAGEMENT, CONTINUITE POUR TINCQUES",
+      "libelle_abrege_liste": "PROXIMITE, ENGAGEMENT, CONTINUITE POUR TINCQUES",
+      "nuance_liste": null,
+      "voix": 273,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "THERET",
+        "prenom": "Julie",
+        "nom_complet": "Julie THERET",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "THERET",
+          "prenom": "Julie",
+          "nom_complet": "Julie THERET",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DELION",
+          "prenom": "Antoine",
+          "nom_complet": "Antoine DELION",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DÉTOURNÉ",
+          "prenom": "Françoise",
+          "nom_complet": "Françoise DÉTOURNÉ",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "GOUILLARD",
+          "prenom": "Cyrille",
+          "nom_complet": "Cyrille GOUILLARD",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DELASSUS",
+          "prenom": "Maryse",
+          "nom_complet": "Maryse DELASSUS",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "POULAIN",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno POULAIN",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "HOGUET",
+          "prenom": "Stephanie",
+          "nom_complet": "Stephanie HOGUET",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "FOURNIER",
+          "prenom": "Edouard",
+          "nom_complet": "Edouard FOURNIER",
+          "sexe": "M",
+          "age": 31,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "LECLERCQ",
+          "prenom": "Bernadette",
+          "nom_complet": "Bernadette LECLERCQ",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "COMONT",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno COMONT",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "BETHENCOURT",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle BETHENCOURT",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "CHIQUET",
+          "prenom": "Sébastien",
+          "nom_complet": "Sébastien CHIQUET",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "WATEL",
+          "prenom": "Marie Françoise",
+          "nom_complet": "Marie Françoise WATEL",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "BLONDEAU",
+          "prenom": "Mickael",
+          "nom_complet": "Mickael BLONDEAU",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "GALLET",
+          "prenom": "Severine",
+          "nom_complet": "Severine GALLET",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

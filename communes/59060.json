@@ -1,0 +1,131 @@
+{
+  "code_commune": "59060",
+  "commune": "Beaurain",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "SEMAILLE",
+    "prenom": "Denis",
+    "nom_complet": "Denis SEMAILLE",
+    "age": 50,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 187,
+    "votants": 114,
+    "pct_votants": 60.96,
+    "abstentions": 73,
+    "pct_abstentions": 39.04,
+    "exprimes": 108
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "BIEN VIVRE ENSEMBLE A BEAURAIN",
+      "libelle_abrege_liste": "BIEN VIVRE ENSEMBLE A BEAURAIN",
+      "nuance_liste": null,
+      "voix": 108,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "SEMAILLE",
+        "prenom": "Denis",
+        "nom_complet": "Denis SEMAILLE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "SEMAILLE",
+          "prenom": "Denis",
+          "nom_complet": "Denis SEMAILLE",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DENIZART",
+          "prenom": "Pascale",
+          "nom_complet": "Pascale DENIZART",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LECLERCQ",
+          "prenom": "Benoit",
+          "nom_complet": "Benoit LECLERCQ",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "COQUELET",
+          "prenom": "Marie-Anne",
+          "nom_complet": "Marie-Anne COQUELET",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DOUAY",
+          "prenom": "Serge",
+          "nom_complet": "Serge DOUAY",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LIÉNARD",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie LIÉNARD",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "GOURDIN",
+          "prenom": "Denis",
+          "nom_complet": "Denis GOURDIN",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DANZIN",
+          "prenom": "Marlène",
+          "nom_complet": "Marlène DANZIN",
+          "sexe": "F",
+          "age": 71,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "PAULME",
+          "prenom": "Timothy",
+          "nom_complet": "Timothy PAULME",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "BOUMEDIENNE",
+          "prenom": "Chanel",
+          "nom_complet": "Chanel BOUMEDIENNE",
+          "sexe": "F",
+          "age": 28,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "RUELLE",
+          "prenom": "Gaëtan",
+          "nom_complet": "Gaëtan RUELLE",
+          "sexe": "M",
+          "age": 29,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

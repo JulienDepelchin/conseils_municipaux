@@ -1,0 +1,99 @@
+{
+  "code_commune": "62066",
+  "commune": "Avondance",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "BOQUET",
+    "prenom": "Anne-Marie",
+    "nom_complet": "Anne-Marie BOQUET",
+    "age": 66,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 31,
+    "votants": 20,
+    "pct_votants": 64.52,
+    "abstentions": 11,
+    "pct_abstentions": 35.48,
+    "exprimes": 17
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Liste menée par BOQUET Anne-Marie",
+      "libelle_abrege_liste": "Liste menée par BOQUET Anne-Marie",
+      "nuance_liste": null,
+      "voix": 17,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 7,
+      "sieges_cc": null,
+      "nb_elus": 7,
+      "tete_de_liste": {
+        "nom": "BOQUET",
+        "prenom": "Anne-Marie",
+        "nom_complet": "Anne-Marie BOQUET",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "BOQUET",
+          "prenom": "Anne-Marie",
+          "nom_complet": "Anne-Marie BOQUET",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BRICHE",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique BRICHE",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "CORNET",
+          "prenom": "Laetitia",
+          "nom_complet": "Laetitia CORNET",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DESMONS",
+          "prenom": "Antoine",
+          "nom_complet": "Antoine DESMONS",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DARRAS",
+          "prenom": "Louise",
+          "nom_complet": "Louise DARRAS",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "FOUCAUT",
+          "prenom": "Michel",
+          "nom_complet": "Michel FOUCAUT",
+          "sexe": "M",
+          "age": 78,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "HAUDIQUET",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle HAUDIQUET",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "7"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

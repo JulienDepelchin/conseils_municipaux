@@ -1,0 +1,131 @@
+{
+  "code_commune": "62795",
+  "commune": "Sibiville",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "QUENTIN",
+    "prenom": "Bertrand",
+    "nom_complet": "Bertrand QUENTIN",
+    "age": 50,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 90,
+    "votants": 69,
+    "pct_votants": 76.67,
+    "abstentions": 21,
+    "pct_abstentions": 23.33,
+    "exprimes": 64
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Sibiville en marche",
+      "libelle_abrege_liste": "Sibiville en marche",
+      "nuance_liste": null,
+      "voix": 64,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "QUENTIN",
+        "prenom": "Bertrand",
+        "nom_complet": "Bertrand QUENTIN",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "QUENTIN",
+          "prenom": "Bertrand",
+          "nom_complet": "Bertrand QUENTIN",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "PERRON",
+          "prenom": "Julie",
+          "nom_complet": "Julie PERRON",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DUCROCQ",
+          "prenom": "Joël",
+          "nom_complet": "Joël DUCROCQ",
+          "sexe": "M",
+          "age": 75,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BOUVET",
+          "prenom": "Graziella",
+          "nom_complet": "Graziella BOUVET",
+          "sexe": "F",
+          "age": 71,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "GOUILLART",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe GOUILLART",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DUCROQUET",
+          "prenom": "Hélène",
+          "nom_complet": "Hélène DUCROQUET",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "GAUMART",
+          "prenom": "Pierrik",
+          "nom_complet": "Pierrik GAUMART",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "ALIX",
+          "prenom": "Josiane",
+          "nom_complet": "Josiane ALIX",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "PETIT",
+          "prenom": "Martial",
+          "nom_complet": "Martial PETIT",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DUCROCQ",
+          "prenom": "Sandrine",
+          "nom_complet": "Sandrine DUCROCQ",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DELANNOY",
+          "prenom": "Alexis",
+          "nom_complet": "Alexis DELANNOY",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

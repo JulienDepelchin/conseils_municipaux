@@ -1,0 +1,203 @@
+{
+  "code_commune": "62869",
+  "commune": "Wailly",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "AUDEGOND",
+    "prenom": "Michael",
+    "nom_complet": "Michael AUDEGOND",
+    "age": 52,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 914,
+    "votants": 677,
+    "pct_votants": 74.07,
+    "abstentions": 237,
+    "pct_abstentions": 25.93,
+    "exprimes": 664
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ENSEMBLE, CULTIVONS NOTRE AVENIR",
+      "libelle_abrege_liste": "ENSEMBLE, CULTIVONS NOTRE AVENIR",
+      "nuance_liste": null,
+      "voix": 372,
+      "pct_voix_exprimes": 56.02,
+      "sieges_cm": 12,
+      "sieges_cc": 1,
+      "nb_elus": 12,
+      "tete_de_liste": {
+        "nom": "AUDEGOND",
+        "prenom": "Michael",
+        "nom_complet": "Michael AUDEGOND",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "AUDEGOND",
+          "prenom": "Michael",
+          "nom_complet": "Michael AUDEGOND",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "NOURRY",
+          "prenom": "Colette",
+          "nom_complet": "Colette NOURRY",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "MOERMAN",
+          "prenom": "Gautier",
+          "nom_complet": "Gautier MOERMAN",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DELATTRE",
+          "prenom": "Gaëtane",
+          "nom_complet": "Gaëtane DELATTRE",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "MACÉ",
+          "prenom": "Henri",
+          "nom_complet": "Henri MACÉ",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "CAPPON",
+          "prenom": "Martine",
+          "nom_complet": "Martine CAPPON",
+          "sexe": "F",
+          "age": 73,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "LETERME",
+          "prenom": "Didier",
+          "nom_complet": "Didier LETERME",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DENEUVILLE",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique DENEUVILLE",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "PAUWELS",
+          "prenom": "Luc",
+          "nom_complet": "Luc PAUWELS",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "REZENTHEL",
+          "prenom": "Loétitia",
+          "nom_complet": "Loétitia REZENTHEL",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "CHOQUET",
+          "prenom": "Rémi",
+          "nom_complet": "Rémi CHOQUET",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "GUILBERT",
+          "prenom": "Marie-José",
+          "nom_complet": "Marie-José GUILBERT",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "12"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "Wailly, c'est nous avec vous",
+      "libelle_abrege_liste": "Wailly, c'est nous avec vous",
+      "nuance_liste": null,
+      "voix": 189,
+      "pct_voix_exprimes": 28.46,
+      "sieges_cm": 2,
+      "sieges_cc": 0,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "HUDELLE",
+        "prenom": "Anne",
+        "nom_complet": "Anne HUDELLE",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "HUDELLE",
+          "prenom": "Anne",
+          "nom_complet": "Anne HUDELLE",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DESVIGNES",
+          "prenom": "Francis",
+          "nom_complet": "Francis DESVIGNES",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    },
+    {
+      "num_panneau": "3",
+      "libelle_liste": "DEMAIN ENSEMBLE pour WAILLY",
+      "libelle_abrege_liste": "DEMAIN ENSEMBLE pour WAILLY",
+      "nuance_liste": null,
+      "voix": 103,
+      "pct_voix_exprimes": 15.51,
+      "sieges_cm": 1,
+      "sieges_cc": 0,
+      "nb_elus": 1,
+      "tete_de_liste": {
+        "nom": "DALONGEVILLE",
+        "prenom": "Francis",
+        "nom_complet": "Francis DALONGEVILLE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DALONGEVILLE",
+          "prenom": "Francis",
+          "nom_complet": "Francis DALONGEVILLE",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "1"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "code_commune": "62375",
+  "commune": "Gommecourt",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "LEDRU",
+    "prenom": "Daniel",
+    "nom_complet": "Daniel LEDRU",
+    "age": 76,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 86,
+    "votants": 52,
+    "pct_votants": 60.47,
+    "abstentions": 34,
+    "pct_abstentions": 39.53,
+    "exprimes": 44
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Gommecourt dans la continuité",
+      "libelle_abrege_liste": "Gommecourt dans la continuité",
+      "nuance_liste": null,
+      "voix": 44,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 7,
+      "sieges_cc": null,
+      "nb_elus": 7,
+      "tete_de_liste": {
+        "nom": "LEDRU",
+        "prenom": "Daniel",
+        "nom_complet": "Daniel LEDRU",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LEDRU",
+          "prenom": "Daniel",
+          "nom_complet": "Daniel LEDRU",
+          "sexe": "M",
+          "age": 76,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "TURBANT",
+          "prenom": "Evelyne",
+          "nom_complet": "Evelyne TURBANT",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LECRIVENT",
+          "prenom": "Hervé",
+          "nom_complet": "Hervé LECRIVENT",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DEFOSSE",
+          "prenom": "Caroline",
+          "nom_complet": "Caroline DEFOSSE",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DESTREBECQ",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe DESTREBECQ",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DELFOLSE",
+          "prenom": "Sabrina",
+          "nom_complet": "Sabrina DELFOLSE",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DESBUREAUX",
+          "prenom": "Julien",
+          "nom_complet": "Julien DESBUREAUX",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "7"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

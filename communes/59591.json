@@ -1,0 +1,163 @@
+{
+  "code_commune": "59591",
+  "commune": "Thivencelle",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "DUBRULLE",
+    "prenom": "José",
+    "nom_complet": "José DUBRULLE",
+    "age": 70,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 587,
+    "votants": 288,
+    "pct_votants": 49.06,
+    "abstentions": 299,
+    "pct_abstentions": 50.94,
+    "exprimes": 251
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Avançons ensemble pour Thivencelle",
+      "libelle_abrege_liste": "Avançons ensemble pour Thivencelle",
+      "nuance_liste": null,
+      "voix": 251,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "DUBRULLE",
+        "prenom": "José",
+        "nom_complet": "José DUBRULLE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DUBRULLE",
+          "prenom": "José",
+          "nom_complet": "José DUBRULLE",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DESCAMPS",
+          "prenom": "Béatrice",
+          "nom_complet": "Béatrice DESCAMPS",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LEROY",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent LEROY",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "GODIN",
+          "prenom": "Nicole",
+          "nom_complet": "Nicole GODIN",
+          "sexe": "F",
+          "age": 70,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "PANAROTTO",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent PANAROTTO",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "BROUILLARD",
+          "prenom": "Mélanie",
+          "nom_complet": "Mélanie BROUILLARD",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BREWAYS",
+          "prenom": "Guy",
+          "nom_complet": "Guy BREWAYS",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DENIS",
+          "prenom": "Bettina",
+          "nom_complet": "Bettina DENIS",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "SAUDEMONT",
+          "prenom": "Enzo",
+          "nom_complet": "Enzo SAUDEMONT",
+          "sexe": "M",
+          "age": 21,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "LEROY",
+          "prenom": "Cécilia",
+          "nom_complet": "Cécilia LEROY",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "CHARDOT",
+          "prenom": "Armand",
+          "nom_complet": "Armand CHARDOT",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "TORREGROSSA",
+          "prenom": "Loredana",
+          "nom_complet": "Loredana TORREGROSSA",
+          "sexe": "F",
+          "age": 33,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "SAINT-MAXENT",
+          "prenom": "Clément",
+          "nom_complet": "Clément SAINT-MAXENT",
+          "sexe": "M",
+          "age": 28,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "TINNIRELLO",
+          "prenom": "Céline",
+          "nom_complet": "Céline TINNIRELLO",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "ZAREMBSKI",
+          "prenom": "Freddy",
+          "nom_complet": "Freddy ZAREMBSKI",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

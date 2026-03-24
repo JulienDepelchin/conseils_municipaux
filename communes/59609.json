@@ -1,0 +1,195 @@
+{
+  "code_commune": "59609",
+  "commune": "Vendeville",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "PROISY",
+    "prenom": "Ludovic",
+    "nom_complet": "Ludovic PROISY",
+    "age": 51,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1429,
+    "votants": 691,
+    "pct_votants": 48.36,
+    "abstentions": 738,
+    "pct_abstentions": 51.64,
+    "exprimes": 653
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "AVPV (Avec vous pour Vendeville)",
+      "libelle_abrege_liste": "AVPV",
+      "nuance_liste": null,
+      "voix": 653,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 19,
+      "sieges_cc": 1,
+      "nb_elus": 19,
+      "tete_de_liste": {
+        "nom": "PROISY",
+        "prenom": "Ludovic",
+        "nom_complet": "Ludovic PROISY",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "PROISY",
+          "prenom": "Ludovic",
+          "nom_complet": "Ludovic PROISY",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DELEPLACE",
+          "prenom": "Christelle",
+          "nom_complet": "Christelle DELEPLACE",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "VAN BELLE",
+          "prenom": "Fabrice",
+          "nom_complet": "Fabrice VAN BELLE",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "TERNIER",
+          "prenom": "Judith",
+          "nom_complet": "Judith TERNIER",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "MARTIN",
+          "prenom": "Yves",
+          "nom_complet": "Yves MARTIN",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "CANDELIER",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle CANDELIER",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "MORVAN",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier MORVAN",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DECARNIN",
+          "prenom": "Charline",
+          "nom_complet": "Charline DECARNIN",
+          "sexe": "F",
+          "age": 74,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "CORREIA DOS SANTOS",
+          "prenom": "Jorge",
+          "nom_complet": "Jorge CORREIA DOS SANTOS",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "BERTHE",
+          "prenom": "Charline",
+          "nom_complet": "Charline BERTHE",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "VANDE WALLE",
+          "prenom": "Maurice",
+          "nom_complet": "Maurice VANDE WALLE",
+          "sexe": "M",
+          "age": 80,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "DEPRIECK",
+          "prenom": "Séverine",
+          "nom_complet": "Séverine DEPRIECK",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "PERRAULT",
+          "prenom": "Franck",
+          "nom_complet": "Franck PERRAULT",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "WATTELAR",
+          "prenom": "Patricia",
+          "nom_complet": "Patricia WATTELAR",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "HERLIN",
+          "prenom": "Alexandre",
+          "nom_complet": "Alexandre HERLIN",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "BRULIN",
+          "prenom": "Catherine",
+          "nom_complet": "Catherine BRULIN",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "THIEFFRY",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick THIEFFRY",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "RIOU",
+          "prenom": "Clémentine",
+          "nom_complet": "Clémentine RIOU",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "CARPENTIER",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal CARPENTIER",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "19"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

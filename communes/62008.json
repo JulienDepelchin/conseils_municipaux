@@ -1,0 +1,163 @@
+{
+  "code_commune": "62008",
+  "commune": "Acquin-Westbécourt",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "PRUVOST",
+    "prenom": "Mathieu",
+    "nom_complet": "Mathieu PRUVOST",
+    "age": 55,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 566,
+    "votants": 374,
+    "pct_votants": 66.08,
+    "abstentions": 192,
+    "pct_abstentions": 33.92,
+    "exprimes": 266
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "CONTINUONS ENSEMBLE VERS 2032",
+      "libelle_abrege_liste": "CONTINUONS ENSEMBLE VERS 2032",
+      "nuance_liste": null,
+      "voix": 266,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "PRUVOST",
+        "prenom": "Mathieu",
+        "nom_complet": "Mathieu PRUVOST",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "PRUVOST",
+          "prenom": "Mathieu",
+          "nom_complet": "Mathieu PRUVOST",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "MOREAU",
+          "prenom": "Camille",
+          "nom_complet": "Camille MOREAU",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "FATREZ",
+          "prenom": "Arnaud",
+          "nom_complet": "Arnaud FATREZ",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "MARIÉ",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie MARIÉ",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "KINNOO",
+          "prenom": "Luc",
+          "nom_complet": "Luc KINNOO",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "KNOCKAERT",
+          "prenom": "Marie",
+          "nom_complet": "Marie KNOCKAERT",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DECHAMPS",
+          "prenom": "Guy",
+          "nom_complet": "Guy DECHAMPS",
+          "sexe": "M",
+          "age": 74,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DUVAL",
+          "prenom": "Odile",
+          "nom_complet": "Odile DUVAL",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "VASSEUR",
+          "prenom": "Jules",
+          "nom_complet": "Jules VASSEUR",
+          "sexe": "M",
+          "age": 81,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "BERQUEZ",
+          "prenom": "Béatrice",
+          "nom_complet": "Béatrice BERQUEZ",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "BOUIN",
+          "prenom": "Clément",
+          "nom_complet": "Clément BOUIN",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "LAGATIE",
+          "prenom": "Elodie",
+          "nom_complet": "Elodie LAGATIE",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "COFFIN",
+          "prenom": "Michaël",
+          "nom_complet": "Michaël COFFIN",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "HENNEBEL",
+          "prenom": "Florie",
+          "nom_complet": "Florie HENNEBEL",
+          "sexe": "F",
+          "age": 30,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "LICATA",
+          "prenom": "Sonny",
+          "nom_complet": "Sonny LICATA",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

@@ -1,0 +1,215 @@
+{
+  "code_commune": "59185",
+  "commune": "Ecaillon",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "GIOVANNINI",
+    "prenom": "Fabienne",
+    "nom_complet": "Fabienne GIOVANNINI",
+    "age": 59,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1431,
+    "votants": 953,
+    "pct_votants": 66.6,
+    "abstentions": 478,
+    "pct_abstentions": 33.4,
+    "exprimes": 924
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ECAILLON, REUNIS POUR REUSSIR",
+      "libelle_abrege_liste": "ECAILLON, REUNIS POUR REUSSIR",
+      "nuance_liste": null,
+      "voix": 467,
+      "pct_voix_exprimes": 50.54,
+      "sieges_cm": 15,
+      "sieges_cc": 2,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "GIOVANNINI",
+        "prenom": "Fabienne",
+        "nom_complet": "Fabienne GIOVANNINI",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "GIOVANNINI",
+          "prenom": "Fabienne",
+          "nom_complet": "Fabienne GIOVANNINI",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LEROCK",
+          "prenom": "Guy",
+          "nom_complet": "Guy LEROCK",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "ROUSSEAUX",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique ROUSSEAUX",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DAVOINE",
+          "prenom": "Jean-Paul",
+          "nom_complet": "Jean-Paul DAVOINE",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DEMOUTIEZ",
+          "prenom": "Myriam",
+          "nom_complet": "Myriam DEMOUTIEZ",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "PEDRO",
+          "prenom": "Mathieu",
+          "nom_complet": "Mathieu PEDRO",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "GOGULSKI",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique GOGULSKI",
+          "sexe": "F",
+          "age": 74,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "BRIDOUX",
+          "prenom": "Yannick",
+          "nom_complet": "Yannick BRIDOUX",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "COLLET",
+          "prenom": "Laetitia",
+          "nom_complet": "Laetitia COLLET",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "MASSINI",
+          "prenom": "Yves",
+          "nom_complet": "Yves MASSINI",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "BAJEUX",
+          "prenom": "Christelle",
+          "nom_complet": "Christelle BAJEUX",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "TONARELLI",
+          "prenom": "Gérald",
+          "nom_complet": "Gérald TONARELLI",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "OLSZOWSKI",
+          "prenom": "Lianelle",
+          "nom_complet": "Lianelle OLSZOWSKI",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "MACKE",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe MACKE",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "DELPLUQUE",
+          "prenom": "Vanessa",
+          "nom_complet": "Vanessa DELPLUQUE",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "ECAILLON POUR TOUS",
+      "libelle_abrege_liste": "ECAILLON POUR TOUS",
+      "nuance_liste": null,
+      "voix": 457,
+      "pct_voix_exprimes": 49.46,
+      "sieges_cm": 4,
+      "sieges_cc": 0,
+      "nb_elus": 4,
+      "tete_de_liste": {
+        "nom": "CINO",
+        "prenom": "Georges",
+        "nom_complet": "Georges CINO",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "CINO",
+          "prenom": "Georges",
+          "nom_complet": "Georges CINO",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "GRODZISKI",
+          "prenom": "Catherine",
+          "nom_complet": "Catherine GRODZISKI",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "PEREIRA",
+          "prenom": "Jacques",
+          "nom_complet": "Jacques PEREIRA",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BERTH",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie BERTH",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "4"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

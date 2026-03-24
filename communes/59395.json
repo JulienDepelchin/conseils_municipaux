@@ -1,0 +1,131 @@
+{
+  "code_commune": "59395",
+  "commune": "Mazinghien",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "HENNEQUART",
+    "prenom": "Michel",
+    "nom_complet": "Michel HENNEQUART",
+    "age": 79,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 225,
+    "votants": 119,
+    "pct_votants": 52.89,
+    "abstentions": 106,
+    "pct_abstentions": 47.11,
+    "exprimes": 93
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Village d'Avenir",
+      "libelle_abrege_liste": "Village d'Avenir",
+      "nuance_liste": null,
+      "voix": 93,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "HENNEQUART",
+        "prenom": "Michel",
+        "nom_complet": "Michel HENNEQUART",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "HENNEQUART",
+          "prenom": "Michel",
+          "nom_complet": "Michel HENNEQUART",
+          "sexe": "M",
+          "age": 79,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DELOGE",
+          "prenom": "Angélique",
+          "nom_complet": "Angélique DELOGE",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "KOLENO",
+          "prenom": "Jean-François",
+          "nom_complet": "Jean-François KOLENO",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DIEU",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie DIEU",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LEUSIERE",
+          "prenom": "Patrice",
+          "nom_complet": "Patrice LEUSIERE",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "KOLENO",
+          "prenom": "Christine",
+          "nom_complet": "Christine KOLENO",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "OBLEZ",
+          "prenom": "Rémi",
+          "nom_complet": "Rémi OBLEZ",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LEGRAND",
+          "prenom": "Sabine",
+          "nom_complet": "Sabine LEGRAND",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "PAMART",
+          "prenom": "Gilles",
+          "nom_complet": "Gilles PAMART",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "SYLLEBRANQUE",
+          "prenom": "Claire",
+          "nom_complet": "Claire SYLLEBRANQUE",
+          "sexe": "F",
+          "age": 28,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "ROISIN",
+          "prenom": "Hubert",
+          "nom_complet": "Hubert ROISIN",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

@@ -1,0 +1,315 @@
+{
+  "code_commune": "59165",
+  "commune": "Cuincy",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "HEGO",
+    "prenom": "Claude",
+    "nom_complet": "Claude HEGO",
+    "age": 67,
+    "nuance": "LDVG"
+  },
+  "resultats": {
+    "inscrits": 5012,
+    "votants": 2969,
+    "pct_votants": 59.24,
+    "abstentions": 2043,
+    "pct_abstentions": 40.76,
+    "exprimes": 2886
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Ensemble Pour l'Avenir de Cuincy",
+      "libelle_abrege_liste": "Ensemble Pour l'Avenir de Cuincy",
+      "nuance_liste": "LDVG",
+      "voix": 1675,
+      "pct_voix_exprimes": 58.04,
+      "sieges_cm": 23,
+      "sieges_cc": 3,
+      "nb_elus": 23,
+      "tete_de_liste": {
+        "nom": "HEGO",
+        "prenom": "Claude",
+        "nom_complet": "Claude HEGO",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "HEGO",
+          "prenom": "Claude",
+          "nom_complet": "Claude HEGO",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "FENAIN",
+          "prenom": "Marylise",
+          "nom_complet": "Marylise FENAIN",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "PHILIPPE",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique PHILIPPE",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DURUT",
+          "prenom": "Martine",
+          "nom_complet": "Martine DURUT",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LENGLEZ",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe LENGLEZ",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "CAVALIE",
+          "prenom": "Dorothée",
+          "nom_complet": "Dorothée CAVALIE",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BURY",
+          "prenom": "Yvon",
+          "nom_complet": "Yvon BURY",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "PLANCQ",
+          "prenom": "Françoise",
+          "nom_complet": "Françoise PLANCQ",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "LOSERO",
+          "prenom": "Alain",
+          "nom_complet": "Alain LOSERO",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "CORDONNIER",
+          "prenom": "Bernadette",
+          "nom_complet": "Bernadette CORDONNIER",
+          "sexe": "F",
+          "age": 76,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "BENADDI",
+          "prenom": "Mehdi",
+          "nom_complet": "Mehdi BENADDI",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "LEPREUX",
+          "prenom": "Gaëtane",
+          "nom_complet": "Gaëtane LEPREUX",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "BACHORZ",
+          "prenom": "Matthieu",
+          "nom_complet": "Matthieu BACHORZ",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "CORNU",
+          "prenom": "Marion",
+          "nom_complet": "Marion CORNU",
+          "sexe": "F",
+          "age": 33,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "JOSEPH",
+          "prenom": "Ludovic",
+          "nom_complet": "Ludovic JOSEPH",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "LEBEL",
+          "prenom": "Chantal",
+          "nom_complet": "Chantal LEBEL",
+          "sexe": "F",
+          "age": 72,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "AMBRUZ",
+          "prenom": "Alexandre",
+          "nom_complet": "Alexandre AMBRUZ",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "DUPUICH",
+          "prenom": "Francine",
+          "nom_complet": "Francine DUPUICH",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "MEDJBER",
+          "prenom": "Mehdi",
+          "nom_complet": "Mehdi MEDJBER",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "DELATTRE",
+          "prenom": "Anaïs",
+          "nom_complet": "Anaïs DELATTRE",
+          "sexe": "F",
+          "age": 31,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "BRUNI",
+          "prenom": "Arnaud",
+          "nom_complet": "Arnaud BRUNI",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "BEGOT",
+          "prenom": "Marine",
+          "nom_complet": "Marine BEGOT",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "TOUMI",
+          "prenom": "Mahdé",
+          "nom_complet": "Mahdé TOUMI",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "23"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "CUINCY UN NOUVEL ESSOR",
+      "libelle_abrege_liste": "CUINCY UN NOUVEL ESSOR",
+      "nuance_liste": "LDIV",
+      "voix": 807,
+      "pct_voix_exprimes": 27.96,
+      "sieges_cm": 4,
+      "sieges_cc": 0,
+      "nb_elus": 4,
+      "tete_de_liste": {
+        "nom": "MOUY",
+        "prenom": "Gérald",
+        "nom_complet": "Gérald MOUY",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "MOUY",
+          "prenom": "Gérald",
+          "nom_complet": "Gérald MOUY",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "EL HADDADI",
+          "prenom": "Nadia",
+          "nom_complet": "Nadia EL HADDADI",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "FELIN",
+          "prenom": "Yannick",
+          "nom_complet": "Yannick FELIN",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BOUKOUJ",
+          "prenom": "Hadda",
+          "nom_complet": "Hadda BOUKOUJ",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "4"
+        }
+      ],
+      "statut_conseil": "autre"
+    },
+    {
+      "num_panneau": "3",
+      "libelle_liste": "CUINCY, POUR VOUS ET AVEC VOUS",
+      "libelle_abrege_liste": "CUINCY, POUR VOUS ET AVEC VOUS",
+      "nuance_liste": "LDVD",
+      "voix": 404,
+      "pct_voix_exprimes": 14,
+      "sieges_cm": 2,
+      "sieges_cc": 0,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "DUVAL",
+        "prenom": "Frédéric",
+        "nom_complet": "Frédéric DUVAL",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DUVAL",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric DUVAL",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "KONIECZNY",
+          "prenom": "Roselyne",
+          "nom_complet": "Roselyne KONIECZNY",
+          "sexe": "F",
+          "age": 71,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

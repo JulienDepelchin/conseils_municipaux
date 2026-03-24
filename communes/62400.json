@@ -1,0 +1,295 @@
+{
+  "code_commune": "62400",
+  "commune": "Haillicourt",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "FOUCAULT",
+    "prenom": "Grégory",
+    "nom_complet": "Grégory FOUCAULT",
+    "age": 53,
+    "nuance": "LDVC"
+  },
+  "resultats": {
+    "inscrits": 3712,
+    "votants": 2130,
+    "pct_votants": 57.38,
+    "abstentions": 1582,
+    "pct_abstentions": 42.62,
+    "exprimes": 2059
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "HAILLICOURT NOTRE HISTOIRE, NOTRE AVENIR",
+      "libelle_abrege_liste": "HAILLICOURT NOTRE HISTOIRE, NOTRE AVENIR",
+      "nuance_liste": "LDVC",
+      "voix": 1523,
+      "pct_voix_exprimes": 73.97,
+      "sieges_cm": 26,
+      "sieges_cc": 2,
+      "nb_elus": 26,
+      "tete_de_liste": {
+        "nom": "FOUCAULT",
+        "prenom": "Grégory",
+        "nom_complet": "Grégory FOUCAULT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "FOUCAULT",
+          "prenom": "Grégory",
+          "nom_complet": "Grégory FOUCAULT",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DEBUSNE",
+          "prenom": "Emmanuelle",
+          "nom_complet": "Emmanuelle DEBUSNE",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "GORILLOT",
+          "prenom": "Samuel",
+          "nom_complet": "Samuel GORILLOT",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "VANDAMME",
+          "prenom": "Michèle",
+          "nom_complet": "Michèle VANDAMME",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "BLOND",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe BLOND",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DESCAMPS",
+          "prenom": "Hélène",
+          "nom_complet": "Hélène DESCAMPS",
+          "sexe": "F",
+          "age": 71,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BLONDEL",
+          "prenom": "Gérard",
+          "nom_complet": "Gérard BLONDEL",
+          "sexe": "M",
+          "age": 77,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DESSAILLY",
+          "prenom": "Brigitte",
+          "nom_complet": "Brigitte DESSAILLY",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "LAMBERT",
+          "prenom": "Morgan",
+          "nom_complet": "Morgan LAMBERT",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DEMONCHAUX",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie DEMONCHAUX",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "ARDON",
+          "prenom": "Claude",
+          "nom_complet": "Claude ARDON",
+          "sexe": "M",
+          "age": 74,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "LEROY",
+          "prenom": "Florence",
+          "nom_complet": "Florence LEROY",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "DELANGHE",
+          "prenom": "Emmanuel",
+          "nom_complet": "Emmanuel DELANGHE",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "DEMONT",
+          "prenom": "Béatrice",
+          "nom_complet": "Béatrice DEMONT",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "BOUCHER",
+          "prenom": "David",
+          "nom_complet": "David BOUCHER",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "ROUTIER",
+          "prenom": "Virginie",
+          "nom_complet": "Virginie ROUTIER",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "DOURLENS",
+          "prenom": "Gilles",
+          "nom_complet": "Gilles DOURLENS",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "BÉCU",
+          "prenom": "Denise",
+          "nom_complet": "Denise BÉCU",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "NICOLE",
+          "prenom": "Claude",
+          "nom_complet": "Claude NICOLE",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "BERNARD",
+          "prenom": "Cathy",
+          "nom_complet": "Cathy BERNARD",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "BAR",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric BAR",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "KERFYSER",
+          "prenom": "Émilie",
+          "nom_complet": "Émilie KERFYSER",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "BECQ",
+          "prenom": "Thomas",
+          "nom_complet": "Thomas BECQ",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "23"
+        },
+        {
+          "nom": "CORDONNIER",
+          "prenom": "Céline",
+          "nom_complet": "Céline CORDONNIER",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "24"
+        },
+        {
+          "nom": "STANISLAWSKI",
+          "prenom": "Éric",
+          "nom_complet": "Éric STANISLAWSKI",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "25"
+        },
+        {
+          "nom": "DELEGLISE",
+          "prenom": "Jennifer",
+          "nom_complet": "Jennifer DELEGLISE",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "26"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "HAILLICOURT, L'ESSENTIEL C'EST VOUS",
+      "libelle_abrege_liste": "HAILLICOURT, L'ESSENTIEL C'EST VOUS",
+      "nuance_liste": "LRN",
+      "voix": 536,
+      "pct_voix_exprimes": 26.03,
+      "sieges_cm": 3,
+      "sieges_cc": 0,
+      "nb_elus": 3,
+      "tete_de_liste": {
+        "nom": "BOURRIEZ",
+        "prenom": "Jean-Philippe",
+        "nom_complet": "Jean-Philippe BOURRIEZ",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BOURRIEZ",
+          "prenom": "Jean-Philippe",
+          "nom_complet": "Jean-Philippe BOURRIEZ",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BOURRIEZ",
+          "prenom": "Michèle",
+          "nom_complet": "Michèle BOURRIEZ",
+          "sexe": "F",
+          "age": 73,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "CONTU",
+          "prenom": "Gerald",
+          "nom_complet": "Gerald CONTU",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "3"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

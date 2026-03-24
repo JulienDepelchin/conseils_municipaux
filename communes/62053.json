@@ -1,0 +1,163 @@
+{
+  "code_commune": "62053",
+  "commune": "Audincthun",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "DUBELLOY",
+    "prenom": "Samuel",
+    "nom_complet": "Samuel DUBELLOY",
+    "age": 54,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 565,
+    "votants": 385,
+    "pct_votants": 68.14,
+    "abstentions": 180,
+    "pct_abstentions": 31.86,
+    "exprimes": 304
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "L'avenir de la commune",
+      "libelle_abrege_liste": "L'avenir de la commune",
+      "nuance_liste": null,
+      "voix": 304,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "DUBELLOY",
+        "prenom": "Samuel",
+        "nom_complet": "Samuel DUBELLOY",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DUBELLOY",
+          "prenom": "Samuel",
+          "nom_complet": "Samuel DUBELLOY",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "PONCHEL",
+          "prenom": "Catherine",
+          "nom_complet": "Catherine PONCHEL",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DUCROCQ",
+          "prenom": "Jacques",
+          "nom_complet": "Jacques DUCROCQ",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "FARDOUX",
+          "prenom": "Audrey",
+          "nom_complet": "Audrey FARDOUX",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "TANFIN",
+          "prenom": "Raphaël",
+          "nom_complet": "Raphaël TANFIN",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "RINGOT",
+          "prenom": "Elisabeth",
+          "nom_complet": "Elisabeth RINGOT",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "SOUDANT",
+          "prenom": "Maxime",
+          "nom_complet": "Maxime SOUDANT",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "WIDEHEN",
+          "prenom": "Véronique",
+          "nom_complet": "Véronique WIDEHEN",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DECUPPER",
+          "prenom": "Joffrey",
+          "nom_complet": "Joffrey DECUPPER",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "BAILLY",
+          "prenom": "Catherine",
+          "nom_complet": "Catherine BAILLY",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DENUDT",
+          "prenom": "Clément",
+          "nom_complet": "Clément DENUDT",
+          "sexe": "M",
+          "age": 26,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "CRETEL",
+          "prenom": "Claudie",
+          "nom_complet": "Claudie CRETEL",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "LAGERSIE",
+          "prenom": "Didier",
+          "nom_complet": "Didier LAGERSIE",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "VANITELLE",
+          "prenom": "Anaïs",
+          "nom_complet": "Anaïs VANITELLE",
+          "sexe": "F",
+          "age": 30,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "ROBITAILLE",
+          "prenom": "Romain",
+          "nom_complet": "Romain ROBITAILLE",
+          "sexe": "M",
+          "age": 27,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "code_commune": "62653",
+  "commune": "Pernes-lès-Boulogne",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "QUETU",
+    "prenom": "Serge",
+    "nom_complet": "Serge QUETU",
+    "age": 51,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 336,
+    "votants": 251,
+    "pct_votants": 74.7,
+    "abstentions": 85,
+    "pct_abstentions": 25.3,
+    "exprimes": 228
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "UN VILLAGE A NOTRE IMAGE",
+      "libelle_abrege_liste": "UN VILLAGE A NOTRE IMAGE",
+      "nuance_liste": null,
+      "voix": 228,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "QUETU",
+        "prenom": "Serge",
+        "nom_complet": "Serge QUETU",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "QUETU",
+          "prenom": "Serge",
+          "nom_complet": "Serge QUETU",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "SORET",
+          "prenom": "Marie-Claude",
+          "nom_complet": "Marie-Claude SORET",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DELACROIX",
+          "prenom": "Pierre-Jean",
+          "nom_complet": "Pierre-Jean DELACROIX",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LANGLOIS",
+          "prenom": "Delphine",
+          "nom_complet": "Delphine LANGLOIS",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "JALLIARD",
+          "prenom": "Claude",
+          "nom_complet": "Claude JALLIARD",
+          "sexe": "M",
+          "age": 75,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "SERET",
+          "prenom": "Colette",
+          "nom_complet": "Colette SERET",
+          "sexe": "F",
+          "age": 75,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "FOUCHER",
+          "prenom": "Michel",
+          "nom_complet": "Michel FOUCHER",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "NOEL",
+          "prenom": "Alicia",
+          "nom_complet": "Alicia NOEL",
+          "sexe": "F",
+          "age": 31,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "PETIT",
+          "prenom": "Alexandre",
+          "nom_complet": "Alexandre PETIT",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "RAMBUR",
+          "prenom": "Aurelie",
+          "nom_complet": "Aurelie RAMBUR",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "EECKELOOT",
+          "prenom": "Francois",
+          "nom_complet": "Francois EECKELOOT",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

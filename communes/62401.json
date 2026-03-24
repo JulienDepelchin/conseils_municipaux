@@ -1,0 +1,279 @@
+{
+  "code_commune": "62401",
+  "commune": "Haisnes",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "DARRAS",
+    "prenom": "Sébastien",
+    "nom_complet": "Sébastien DARRAS",
+    "age": 42,
+    "nuance": "LDVC"
+  },
+  "resultats": {
+    "inscrits": 3481,
+    "votants": 2260,
+    "pct_votants": 64.92,
+    "abstentions": 1221,
+    "pct_abstentions": 35.08,
+    "exprimes": 2189
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "HAISNES, AVEC VOUS ET POUR VOUS",
+      "libelle_abrege_liste": "HAISNES, AVEC VOUS ET POUR VOUS",
+      "nuance_liste": "LDVC",
+      "voix": 1229,
+      "pct_voix_exprimes": 56.14,
+      "sieges_cm": 21,
+      "sieges_cc": 2,
+      "nb_elus": 21,
+      "tete_de_liste": {
+        "nom": "DARRAS",
+        "prenom": "Sébastien",
+        "nom_complet": "Sébastien DARRAS",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DARRAS",
+          "prenom": "Sébastien",
+          "nom_complet": "Sébastien DARRAS",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "SKIBINSKI",
+          "prenom": "Marie",
+          "nom_complet": "Marie SKIBINSKI",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "PIERRE",
+          "prenom": "Thomas",
+          "nom_complet": "Thomas PIERRE",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DUMUR",
+          "prenom": "Lucile",
+          "nom_complet": "Lucile DUMUR",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "SOËN",
+          "prenom": "Yves",
+          "nom_complet": "Yves SOËN",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LECOCQ",
+          "prenom": "Céline",
+          "nom_complet": "Céline LECOCQ",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "CHIEUX",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe CHIEUX",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DEFLANDRE",
+          "prenom": "Cécile",
+          "nom_complet": "Cécile DEFLANDRE",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "COCQUEMPOT",
+          "prenom": "Joël",
+          "nom_complet": "Joël COCQUEMPOT",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "LANTOINE",
+          "prenom": "Lucie",
+          "nom_complet": "Lucie LANTOINE",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "HUGOT",
+          "prenom": "Jonathan",
+          "nom_complet": "Jonathan HUGOT",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "TARRIDEC",
+          "prenom": "Sandrine",
+          "nom_complet": "Sandrine TARRIDEC",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "KOTNIK",
+          "prenom": "Cyril",
+          "nom_complet": "Cyril KOTNIK",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "PLANTÉ",
+          "prenom": "Morgane",
+          "nom_complet": "Morgane PLANTÉ",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "BLONDEL",
+          "prenom": "Meddy",
+          "nom_complet": "Meddy BLONDEL",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "DELATTRE",
+          "prenom": "Véronique",
+          "nom_complet": "Véronique DELATTRE",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "LORTSCHER",
+          "prenom": "David",
+          "nom_complet": "David LORTSCHER",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "DE MIL",
+          "prenom": "Céline",
+          "nom_complet": "Céline DE MIL",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "DUBOIS",
+          "prenom": "Christian",
+          "nom_complet": "Christian DUBOIS",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "LANOY",
+          "prenom": "Emeline",
+          "nom_complet": "Emeline LANOY",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "LIVENAIS",
+          "prenom": "Tom",
+          "nom_complet": "Tom LIVENAIS",
+          "sexe": "M",
+          "age": 24,
+          "rang_liste": "21"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ENSEMBLE POUR HAISNES AUJOURD'HUI ET DEMAIN",
+      "libelle_abrege_liste": "ENSEMBLE POUR HAISNES AUJOURD'HUI ET DEMAIN",
+      "nuance_liste": "LDVG",
+      "voix": 960,
+      "pct_voix_exprimes": 43.86,
+      "sieges_cm": 6,
+      "sieges_cc": 0,
+      "nb_elus": 6,
+      "tete_de_liste": {
+        "nom": "WALLET",
+        "prenom": "Frédéric",
+        "nom_complet": "Frédéric WALLET",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "WALLET",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric WALLET",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DELHAYE",
+          "prenom": "Nicole",
+          "nom_complet": "Nicole DELHAYE",
+          "sexe": "F",
+          "age": 71,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "PAILLART",
+          "prenom": "David",
+          "nom_complet": "David PAILLART",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "CARPENTIER",
+          "prenom": "Marjorie",
+          "nom_complet": "Marjorie CARPENTIER",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LEPAGE",
+          "prenom": "David",
+          "nom_complet": "David LEPAGE",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "VIOT",
+          "prenom": "Céline",
+          "nom_complet": "Céline VIOT",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "6"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

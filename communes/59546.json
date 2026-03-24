@@ -1,0 +1,163 @@
+{
+  "code_commune": "59546",
+  "commune": "Saint-Sylvestre-Cappel",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "BODÉLE",
+    "prenom": "Claude",
+    "nom_complet": "Claude BODÉLE",
+    "age": 69,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 945,
+    "votants": 616,
+    "pct_votants": 65.19,
+    "abstentions": 329,
+    "pct_abstentions": 34.81,
+    "exprimes": 539
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Saint-Sylvestre-Cappel, un village qui nous ressemble",
+      "libelle_abrege_liste": "Saint-Sylvestre-Cappel, un village qui nous ressemble",
+      "nuance_liste": null,
+      "voix": 539,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": 1,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "BODÉLE",
+        "prenom": "Claude",
+        "nom_complet": "Claude BODÉLE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BODÉLE",
+          "prenom": "Claude",
+          "nom_complet": "Claude BODÉLE",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "NOWAKOWSKI",
+          "prenom": "Magali",
+          "nom_complet": "Magali NOWAKOWSKI",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DELIGNE",
+          "prenom": "Franck",
+          "nom_complet": "Franck DELIGNE",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "STAESSEN",
+          "prenom": "Maryvonne",
+          "nom_complet": "Maryvonne STAESSEN",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "BAILLEUL",
+          "prenom": "Benoît",
+          "nom_complet": "Benoît BAILLEUL",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "MAEGHT",
+          "prenom": "Charlotte",
+          "nom_complet": "Charlotte MAEGHT",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "WOESTELANDT",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe WOESTELANDT",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DENIS",
+          "prenom": "Danuta",
+          "nom_complet": "Danuta DENIS",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DEMAN",
+          "prenom": "Stéphane",
+          "nom_complet": "Stéphane DEMAN",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "ROBERT",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle ROBERT",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "MILLEVILLE",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe MILLEVILLE",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "CARON",
+          "prenom": "Cynthia",
+          "nom_complet": "Cynthia CARON",
+          "sexe": "F",
+          "age": 32,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "HEYMAN",
+          "prenom": "Florent",
+          "nom_complet": "Florent HEYMAN",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "THOREZ",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie THOREZ",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "OGEZ",
+          "prenom": "Bastien",
+          "nom_complet": "Bastien OGEZ",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

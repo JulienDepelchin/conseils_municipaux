@@ -1,0 +1,131 @@
+{
+  "code_commune": "62868",
+  "commune": "Wail",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "VASSEUR",
+    "prenom": "France",
+    "nom_complet": "France VASSEUR",
+    "age": 63,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 227,
+    "votants": 136,
+    "pct_votants": 59.91,
+    "abstentions": 91,
+    "pct_abstentions": 40.09,
+    "exprimes": 104
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "LA RURALITE RESISTE - NOTRE VOIX COMPTE",
+      "libelle_abrege_liste": "LA RURALITE RESISTE - NOTRE VOIX COMPTE",
+      "nuance_liste": null,
+      "voix": 104,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "VASSEUR",
+        "prenom": "France",
+        "nom_complet": "France VASSEUR",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "VASSEUR",
+          "prenom": "France",
+          "nom_complet": "France VASSEUR",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "GOTTERAND",
+          "prenom": "Serge",
+          "nom_complet": "Serge GOTTERAND",
+          "sexe": "M",
+          "age": 74,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "RAVAUT",
+          "prenom": "Maryse",
+          "nom_complet": "Maryse RAVAUT",
+          "sexe": "F",
+          "age": 70,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "RANSON",
+          "prenom": "Daniel",
+          "nom_complet": "Daniel RANSON",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "BOTTE",
+          "prenom": "Claudia",
+          "nom_complet": "Claudia BOTTE",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "CRETON",
+          "prenom": "Alain",
+          "nom_complet": "Alain CRETON",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "VALOIS",
+          "prenom": "Evelyne",
+          "nom_complet": "Evelyne VALOIS",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "COURT",
+          "prenom": "Arthur",
+          "nom_complet": "Arthur COURT",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "HERARD",
+          "prenom": "Dorothee",
+          "nom_complet": "Dorothee HERARD",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "KOSMALA",
+          "prenom": "Francois",
+          "nom_complet": "Francois KOSMALA",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "PATARD",
+          "prenom": "Delphine",
+          "nom_complet": "Delphine PATARD",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

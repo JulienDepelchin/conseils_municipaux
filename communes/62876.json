@@ -1,0 +1,131 @@
+{
+  "code_commune": "62876",
+  "commune": "Warlencourt-Eaucourt",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "BONEL",
+    "prenom": "Stéphanie",
+    "nom_complet": "Stéphanie BONEL",
+    "age": 48,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 82,
+    "votants": 61,
+    "pct_votants": 74.39,
+    "abstentions": 21,
+    "pct_abstentions": 25.61,
+    "exprimes": 57
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Cultiver l'avenir, Préserver l'esprit du village",
+      "libelle_abrege_liste": "Cultiver l'avenir, Préserver l'esprit du village",
+      "nuance_liste": null,
+      "voix": 57,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "BONEL",
+        "prenom": "Stéphanie",
+        "nom_complet": "Stéphanie BONEL",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "BONEL",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie BONEL",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BEHAL",
+          "prenom": "Gérard",
+          "nom_complet": "Gérard BEHAL",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BUGEAUD",
+          "prenom": "Aurélie",
+          "nom_complet": "Aurélie BUGEAUD",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BERQUIN",
+          "prenom": "Arnaud",
+          "nom_complet": "Arnaud BERQUIN",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "CARDIN",
+          "prenom": "Céline",
+          "nom_complet": "Céline CARDIN",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "FROMENT",
+          "prenom": "Maxime",
+          "nom_complet": "Maxime FROMENT",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "COLASSE",
+          "prenom": "Delphine",
+          "nom_complet": "Delphine COLASSE",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LEROY",
+          "prenom": "Eric",
+          "nom_complet": "Eric LEROY",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DELAIRE",
+          "prenom": "Alice",
+          "nom_complet": "Alice DELAIRE",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "PARIGOT",
+          "prenom": "François",
+          "nom_complet": "François PARIGOT",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DIEUSAERT",
+          "prenom": "Hélène",
+          "nom_complet": "Hélène DIEUSAERT",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

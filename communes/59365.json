@@ -1,0 +1,295 @@
+{
+  "code_commune": "59365",
+  "commune": "Louvroil",
+  "departement": "Nord",
+  "tour": "T2",
+  "maire": {
+    "nom": "ASCONE",
+    "prenom": "Guiseppe",
+    "nom_complet": "Guiseppe ASCONE",
+    "age": 62,
+    "nuance": "LUG"
+  },
+  "resultats": {
+    "inscrits": 3720,
+    "votants": 2240,
+    "pct_votants": 60.22,
+    "abstentions": 1480,
+    "pct_abstentions": 39.78,
+    "exprimes": 2167
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "LOUVROIL CITOYENNE ET REPUBLICAINE",
+      "libelle_abrege_liste": "LOUVROIL CITOYENNE ET REPUBLICAINE",
+      "nuance_liste": "LUG",
+      "voix": 1179,
+      "pct_voix_exprimes": 54.41,
+      "sieges_cm": 23,
+      "sieges_cc": 2,
+      "nb_elus": 23,
+      "tete_de_liste": {
+        "nom": "ASCONE",
+        "prenom": "Guiseppe",
+        "nom_complet": "Guiseppe ASCONE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "ASCONE",
+          "prenom": "Guiseppe",
+          "nom_complet": "Guiseppe ASCONE",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "FONTAINE",
+          "prenom": "Annie",
+          "nom_complet": "Annie FONTAINE",
+          "sexe": "F",
+          "age": 74,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "SIMON",
+          "prenom": "Jean-Louis",
+          "nom_complet": "Jean-Louis SIMON",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "MENAGE",
+          "prenom": "Régine",
+          "nom_complet": "Régine MENAGE",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "VASAMULIET",
+          "prenom": "Hugues",
+          "nom_complet": "Hugues VASAMULIET",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "HALABI",
+          "prenom": "Malika",
+          "nom_complet": "Malika HALABI",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "LIBERT",
+          "prenom": "Jean-Claude",
+          "nom_complet": "Jean-Claude LIBERT",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "BOUTAOUS",
+          "prenom": "Fabienne",
+          "nom_complet": "Fabienne BOUTAOUS",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "HOUAT",
+          "prenom": "Abdelsamad",
+          "nom_complet": "Abdelsamad HOUAT",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "SRAÏNY",
+          "prenom": "Christelle",
+          "nom_complet": "Christelle SRAÏNY",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "HAUCH",
+          "prenom": "Eric",
+          "nom_complet": "Eric HAUCH",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "ZAHAFI",
+          "prenom": "Hafida",
+          "nom_complet": "Hafida ZAHAFI",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "VITRAND",
+          "prenom": "Romain",
+          "nom_complet": "Romain VITRAND",
+          "sexe": "M",
+          "age": 27,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "BENGUESMIA",
+          "prenom": "Annie",
+          "nom_complet": "Annie BENGUESMIA",
+          "sexe": "F",
+          "age": 77,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "TAMI",
+          "prenom": "Ettore",
+          "nom_complet": "Ettore TAMI",
+          "sexe": "M",
+          "age": 77,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "MADENE",
+          "prenom": "Saida",
+          "nom_complet": "Saida MADENE",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "DESPEGHEL",
+          "prenom": "Daniel",
+          "nom_complet": "Daniel DESPEGHEL",
+          "sexe": "M",
+          "age": 83,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "BONTINCK",
+          "prenom": "Véronique",
+          "nom_complet": "Véronique BONTINCK",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "GOLINVAL",
+          "prenom": "Brian",
+          "nom_complet": "Brian GOLINVAL",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "REGY",
+          "prenom": "Anne-Laure",
+          "nom_complet": "Anne-Laure REGY",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "CHAPUT",
+          "prenom": "Ludovic",
+          "nom_complet": "Ludovic CHAPUT",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "BOLTZ",
+          "prenom": "Sabine",
+          "nom_complet": "Sabine BOLTZ",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "DIDIER",
+          "prenom": "Sébastien",
+          "nom_complet": "Sébastien DIDIER",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "23"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "4",
+      "libelle_liste": "AVEC VOUS POUR LOUVROIL",
+      "libelle_abrege_liste": "AVEC VOUS POUR LOUVROIL",
+      "nuance_liste": "LDIV",
+      "voix": 988,
+      "pct_voix_exprimes": 45.59,
+      "sieges_cm": 6,
+      "sieges_cc": 1,
+      "nb_elus": 6,
+      "tete_de_liste": {
+        "nom": "KACIMI",
+        "prenom": "Fatiha",
+        "nom_complet": "Fatiha KACIMI",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "KACIMI",
+          "prenom": "Fatiha",
+          "nom_complet": "Fatiha KACIMI",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LIBIER",
+          "prenom": "Michel",
+          "nom_complet": "Michel LIBIER",
+          "sexe": "M",
+          "age": 75,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "GHOMARI",
+          "prenom": "Khadra",
+          "nom_complet": "Khadra GHOMARI",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "POLI",
+          "prenom": "Dany",
+          "nom_complet": "Dany POLI",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DUBUC",
+          "prenom": "Rolande",
+          "nom_complet": "Rolande DUBUC",
+          "sexe": "F",
+          "age": 79,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "FATHALLAH",
+          "prenom": "Maroine",
+          "nom_complet": "Maroine FATHALLAH",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "6"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

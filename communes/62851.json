@@ -1,0 +1,163 @@
+{
+  "code_commune": "62851",
+  "commune": "Vieille-Chapelle",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "DESSE",
+    "prenom": "Jean-Michel",
+    "nom_complet": "Jean-Michel DESSE",
+    "age": 69,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 729,
+    "votants": 396,
+    "pct_votants": 54.32,
+    "abstentions": 333,
+    "pct_abstentions": 45.68,
+    "exprimes": 377
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ENSEMBLE POUR DEMAIN",
+      "libelle_abrege_liste": "ENSEMBLE POUR DEMAIN",
+      "nuance_liste": null,
+      "voix": 377,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "DESSE",
+        "prenom": "Jean-Michel",
+        "nom_complet": "Jean-Michel DESSE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DESSE",
+          "prenom": "Jean-Michel",
+          "nom_complet": "Jean-Michel DESSE",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "MOREL",
+          "prenom": "Dorothée",
+          "nom_complet": "Dorothée MOREL",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "CRANKSHAW",
+          "prenom": "Freddy",
+          "nom_complet": "Freddy CRANKSHAW",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "PAGES",
+          "prenom": "Nicole",
+          "nom_complet": "Nicole PAGES",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DUTHOO",
+          "prenom": "Jean-François",
+          "nom_complet": "Jean-François DUTHOO",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DELPLACE",
+          "prenom": "Elyse",
+          "nom_complet": "Elyse DELPLACE",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "COISNE",
+          "prenom": "Hadrien",
+          "nom_complet": "Hadrien COISNE",
+          "sexe": "M",
+          "age": 30,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "D'HULST",
+          "prenom": "Coraline",
+          "nom_complet": "Coraline D'HULST",
+          "sexe": "F",
+          "age": 31,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "BOUCAU",
+          "prenom": "Grégory",
+          "nom_complet": "Grégory BOUCAU",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "THELLIER",
+          "prenom": "Aline",
+          "nom_complet": "Aline THELLIER",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DEGOBERT",
+          "prenom": "Maximilien",
+          "nom_complet": "Maximilien DEGOBERT",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "THELLIEZ",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle THELLIEZ",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "HERMAN",
+          "prenom": "Mathieu",
+          "nom_complet": "Mathieu HERMAN",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "ROUÉ",
+          "prenom": "Annabelle",
+          "nom_complet": "Annabelle ROUÉ",
+          "sexe": "F",
+          "age": 31,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "PRUVOST",
+          "prenom": "Michel",
+          "nom_complet": "Michel PRUVOST",
+          "sexe": "M",
+          "age": 75,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

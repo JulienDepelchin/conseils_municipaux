@@ -1,0 +1,195 @@
+{
+  "code_commune": "59411",
+  "commune": "Mons-en-Pévèle",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "PEREZ",
+    "prenom": "Sylvain",
+    "nom_complet": "Sylvain PEREZ",
+    "age": 41,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1847,
+    "votants": 835,
+    "pct_votants": 45.21,
+    "abstentions": 1012,
+    "pct_abstentions": 54.79,
+    "exprimes": 741
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Mons en Pévèle, Notre Village",
+      "libelle_abrege_liste": "Mons en Pévèle, notre village",
+      "nuance_liste": null,
+      "voix": 741,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 19,
+      "sieges_cc": 1,
+      "nb_elus": 19,
+      "tete_de_liste": {
+        "nom": "PEREZ",
+        "prenom": "Sylvain",
+        "nom_complet": "Sylvain PEREZ",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "PEREZ",
+          "prenom": "Sylvain",
+          "nom_complet": "Sylvain PEREZ",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "RUBY DHELIN",
+          "prenom": "Valérie",
+          "nom_complet": "Valérie RUBY DHELIN",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "MERCIER",
+          "prenom": "Julien",
+          "nom_complet": "Julien MERCIER",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LANIER PAWELEC",
+          "prenom": "Johanna",
+          "nom_complet": "Johanna LANIER PAWELEC",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "MILLEVILLE",
+          "prenom": "Francis",
+          "nom_complet": "Francis MILLEVILLE",
+          "sexe": "M",
+          "age": 74,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LOBERT-MANOUVRIEZ",
+          "prenom": "Pauline",
+          "nom_complet": "Pauline LOBERT-MANOUVRIEZ",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "VERHAEGEN",
+          "prenom": "André",
+          "nom_complet": "André VERHAEGEN",
+          "sexe": "M",
+          "age": 79,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "BOONE",
+          "prenom": "Monique",
+          "nom_complet": "Monique BOONE",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "FRAIM",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent FRAIM",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DULONGCOURTY",
+          "prenom": "Amélie",
+          "nom_complet": "Amélie DULONGCOURTY",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "HENNETTE",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe HENNETTE",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "TUFFIER",
+          "prenom": "Corinne",
+          "nom_complet": "Corinne TUFFIER",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "LESAGE",
+          "prenom": "Vincent",
+          "nom_complet": "Vincent LESAGE",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "HAMAÏDE",
+          "prenom": "Louise",
+          "nom_complet": "Louise HAMAÏDE",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "MORTREUX",
+          "prenom": "Jean-Louis",
+          "nom_complet": "Jean-Louis MORTREUX",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "DELANNOY",
+          "prenom": "Muriel",
+          "nom_complet": "Muriel DELANNOY",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "DURIEZ",
+          "prenom": "Pierre",
+          "nom_complet": "Pierre DURIEZ",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "LAUNOIS",
+          "prenom": "Christine",
+          "nom_complet": "Christine LAUNOIS",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "DELANNOY",
+          "prenom": "Michel",
+          "nom_complet": "Michel DELANNOY",
+          "sexe": "M",
+          "age": 80,
+          "rang_liste": "19"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

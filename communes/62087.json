@@ -1,0 +1,183 @@
+{
+  "code_commune": "62087",
+  "commune": "Bayenghem-lès-Eperlecques",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "BOUHIN",
+    "prenom": "Jean-Michel",
+    "nom_complet": "Jean-Michel BOUHIN",
+    "age": 69,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 808,
+    "votants": 601,
+    "pct_votants": 74.38,
+    "abstentions": 207,
+    "pct_abstentions": 25.62,
+    "exprimes": 582
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "Bien vivre à Bayenghem lez Eperlecques",
+      "libelle_abrege_liste": "Bien vivre à Bayenghem lez Eperlecques",
+      "nuance_liste": null,
+      "voix": 317,
+      "pct_voix_exprimes": 54.47,
+      "sieges_cm": 12,
+      "sieges_cc": 1,
+      "nb_elus": 12,
+      "tete_de_liste": {
+        "nom": "BOUHIN",
+        "prenom": "Jean-Michel",
+        "nom_complet": "Jean-Michel BOUHIN",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BOUHIN",
+          "prenom": "Jean-Michel",
+          "nom_complet": "Jean-Michel BOUHIN",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "RAYMOND",
+          "prenom": "Marie-Antoinette",
+          "nom_complet": "Marie-Antoinette RAYMOND",
+          "sexe": "F",
+          "age": 80,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "KERCKHOVE",
+          "prenom": "Vincent",
+          "nom_complet": "Vincent KERCKHOVE",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DELEZOIDE - DECAUDIN",
+          "prenom": "Murielle",
+          "nom_complet": "Murielle DELEZOIDE - DECAUDIN",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DEBARRE",
+          "prenom": "Hervé",
+          "nom_complet": "Hervé DEBARRE",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "RIGOBERT-SAISON",
+          "prenom": "Hélène",
+          "nom_complet": "Hélène RIGOBERT-SAISON",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "IKET",
+          "prenom": "Sylvain",
+          "nom_complet": "Sylvain IKET",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DELEZOIDE - BOLLART",
+          "prenom": "Florence",
+          "nom_complet": "Florence DELEZOIDE - BOLLART",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "HOLLAND",
+          "prenom": "Henri",
+          "nom_complet": "Henri HOLLAND",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DEMARLE",
+          "prenom": "Elodie",
+          "nom_complet": "Elodie DEMARLE",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "CARRE",
+          "prenom": "Maxime",
+          "nom_complet": "Maxime CARRE",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "CARTON",
+          "prenom": "Muriel",
+          "nom_complet": "Muriel CARTON",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "12"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Ensemble pour notre village",
+      "libelle_abrege_liste": "Ensemble pour notre village",
+      "nuance_liste": null,
+      "voix": 265,
+      "pct_voix_exprimes": 45.53,
+      "sieges_cm": 3,
+      "sieges_cc": 0,
+      "nb_elus": 3,
+      "tete_de_liste": {
+        "nom": "VANVINCQ",
+        "prenom": "Jean-Marie",
+        "nom_complet": "Jean-Marie VANVINCQ",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "VANVINCQ",
+          "prenom": "Jean-Marie",
+          "nom_complet": "Jean-Marie VANVINCQ",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "CAMPION",
+          "prenom": "Jennifer",
+          "nom_complet": "Jennifer CAMPION",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "PARENT",
+          "prenom": "David",
+          "nom_complet": "David PARENT",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "3"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

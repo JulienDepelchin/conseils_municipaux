@@ -1,0 +1,175 @@
+{
+  "code_commune": "59562",
+  "commune": "Sémeries",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "LASPALAS",
+    "prenom": "Herve",
+    "nom_complet": "Herve LASPALAS",
+    "age": 70,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 422,
+    "votants": 329,
+    "pct_votants": 77.96,
+    "abstentions": 93,
+    "pct_abstentions": 22.04,
+    "exprimes": 323
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "SEMERIES ZOREES LA FORCE DE L'UNITE",
+      "libelle_abrege_liste": "SEMERIES ZOREES LA FORCE DE L'UNITE",
+      "nuance_liste": null,
+      "voix": 190,
+      "pct_voix_exprimes": 58.82,
+      "sieges_cm": 12,
+      "sieges_cc": null,
+      "nb_elus": 12,
+      "tete_de_liste": {
+        "nom": "LASPALAS",
+        "prenom": "Herve",
+        "nom_complet": "Herve LASPALAS",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LASPALAS",
+          "prenom": "Herve",
+          "nom_complet": "Herve LASPALAS",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BEAUSSART",
+          "prenom": "Catherine",
+          "nom_complet": "Catherine BEAUSSART",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "GOULART",
+          "prenom": "Thibaut",
+          "nom_complet": "Thibaut GOULART",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "MINET",
+          "prenom": "Charlotte",
+          "nom_complet": "Charlotte MINET",
+          "sexe": "F",
+          "age": 24,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "FALEMPIN",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe FALEMPIN",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "FOSTIER",
+          "prenom": "Severine",
+          "nom_complet": "Severine FOSTIER",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "PERALES AQUINO",
+          "prenom": "Ernesto",
+          "nom_complet": "Ernesto PERALES AQUINO",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "CHARLET",
+          "prenom": "Murielle",
+          "nom_complet": "Murielle CHARLET",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "VANDERSTEENE",
+          "prenom": "Sebastien",
+          "nom_complet": "Sebastien VANDERSTEENE",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DEGAIGNE",
+          "prenom": "Virginie",
+          "nom_complet": "Virginie DEGAIGNE",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "RAMMAN",
+          "prenom": "Anthony",
+          "nom_complet": "Anthony RAMMAN",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "SERVIEN",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie SERVIEN",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "12"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "ENSEMBLE POUR LE RENOUVEAU DE SÉMERIES ZORÉES",
+      "libelle_abrege_liste": "ENSEMBLE POUR LE RENOUVEAU DE SÉMERIES ZORÉES",
+      "nuance_liste": null,
+      "voix": 133,
+      "pct_voix_exprimes": 41.18,
+      "sieges_cm": 2,
+      "sieges_cc": null,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "DUMESNIL",
+        "prenom": "Bruno",
+        "nom_complet": "Bruno DUMESNIL",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DUMESNIL",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno DUMESNIL",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "POTDEVIN",
+          "prenom": "Regine",
+          "nom_complet": "Regine POTDEVIN",
+          "sexe": "F",
+          "age": 73,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

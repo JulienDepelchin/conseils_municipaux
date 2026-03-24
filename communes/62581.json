@@ -1,0 +1,131 @@
+{
+  "code_commune": "62581",
+  "commune": "Monchy-Cayeux",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "HOGUET",
+    "prenom": "Benoit",
+    "nom_complet": "Benoit HOGUET",
+    "age": 41,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 219,
+    "votants": 181,
+    "pct_votants": 82.65,
+    "abstentions": 38,
+    "pct_abstentions": 17.35,
+    "exprimes": 153
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "UNIS POUR NOTRE VILLAGE",
+      "libelle_abrege_liste": "UNIS POUR NOTRE VILLAGE",
+      "nuance_liste": null,
+      "voix": 153,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "HOGUET",
+        "prenom": "Benoit",
+        "nom_complet": "Benoit HOGUET",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "HOGUET",
+          "prenom": "Benoit",
+          "nom_complet": "Benoit HOGUET",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "GENEVRIEZ",
+          "prenom": "Danielle",
+          "nom_complet": "Danielle GENEVRIEZ",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "POLLART",
+          "prenom": "Quentin",
+          "nom_complet": "Quentin POLLART",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "IDEZ",
+          "prenom": "Cécile",
+          "nom_complet": "Cécile IDEZ",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DEMONT",
+          "prenom": "Antoine",
+          "nom_complet": "Antoine DEMONT",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "CHABE",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie CHABE",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "VAILLANT",
+          "prenom": "Claude",
+          "nom_complet": "Claude VAILLANT",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "BROQUET",
+          "prenom": "Julie",
+          "nom_complet": "Julie BROQUET",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "FERLIN",
+          "prenom": "Guy",
+          "nom_complet": "Guy FERLIN",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DETRY",
+          "prenom": "Florine",
+          "nom_complet": "Florine DETRY",
+          "sexe": "F",
+          "age": 28,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "KARKOSZKA",
+          "prenom": "Bernard",
+          "nom_complet": "Bernard KARKOSZKA",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

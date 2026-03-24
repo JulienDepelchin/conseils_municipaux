@@ -1,0 +1,299 @@
+{
+  "code_commune": "62767",
+  "commune": "Saint-Pol-sur-Ternoise",
+  "departement": "Pas-de-Calais",
+  "tour": "T2",
+  "maire": {
+    "nom": "VASSEUR",
+    "prenom": "Danielle",
+    "nom_complet": "Danielle VASSEUR",
+    "age": 76,
+    "nuance": "LDIV"
+  },
+  "resultats": {
+    "inscrits": 3300,
+    "votants": 1811,
+    "pct_votants": 54.88,
+    "abstentions": 1489,
+    "pct_abstentions": 45.12,
+    "exprimes": 1778
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "AGIR ENSEMBLE POUR SAINT-POL !",
+      "libelle_abrege_liste": "AGIR ENSEMBLE POUR SAINT-POL !",
+      "nuance_liste": "LDIV",
+      "voix": 716,
+      "pct_voix_exprimes": 40.27,
+      "sieges_cm": 20,
+      "sieges_cc": 10,
+      "nb_elus": 20,
+      "tete_de_liste": {
+        "nom": "VASSEUR",
+        "prenom": "Danielle",
+        "nom_complet": "Danielle VASSEUR",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "VASSEUR",
+          "prenom": "Danielle",
+          "nom_complet": "Danielle VASSEUR",
+          "sexe": "F",
+          "age": 76,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DEROZIER",
+          "prenom": "Michaël",
+          "nom_complet": "Michaël DEROZIER",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BELLINGUER",
+          "prenom": "Marie-Hélène",
+          "nom_complet": "Marie-Hélène BELLINGUER",
+          "sexe": "F",
+          "age": 75,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "HOCHART",
+          "prenom": "Didier",
+          "nom_complet": "Didier HOCHART",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DUSART",
+          "prenom": "Martine",
+          "nom_complet": "Martine DUSART",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DEGOUVE",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique DEGOUVE",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DECAMP",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie DECAMP",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "JOSEPH",
+          "prenom": "Vincent",
+          "nom_complet": "Vincent JOSEPH",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DUPUIS",
+          "prenom": "Caroline",
+          "nom_complet": "Caroline DUPUIS",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "RICART",
+          "prenom": "Marc",
+          "nom_complet": "Marc RICART",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "CHRISTMANN",
+          "prenom": "Pascaline",
+          "nom_complet": "Pascaline CHRISTMANN",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "YVART",
+          "prenom": "Guillaume",
+          "nom_complet": "Guillaume YVART",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "ROBART",
+          "prenom": "Martine",
+          "nom_complet": "Martine ROBART",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "DEBAY",
+          "prenom": "Guillaume",
+          "nom_complet": "Guillaume DEBAY",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "BLERVACQUES",
+          "prenom": "Jennifer",
+          "nom_complet": "Jennifer BLERVACQUES",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "COULON",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier COULON",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "PATOUX",
+          "prenom": "Cathy",
+          "nom_complet": "Cathy PATOUX",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "PILNIAK",
+          "prenom": "Aurélien",
+          "nom_complet": "Aurélien PILNIAK",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "PRUVOT",
+          "prenom": "Aurore",
+          "nom_complet": "Aurore PRUVOT",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "DESMARECAUX",
+          "prenom": "Frank",
+          "nom_complet": "Frank DESMARECAUX",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "20"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "RASSEMBLEMENT POUR LA CAPITALE DU TERNOIS",
+      "libelle_abrege_liste": "RASSEMBLEMENT POUR LA CAPITALE DU TERNOIS",
+      "nuance_liste": "LRN",
+      "voix": 594,
+      "pct_voix_exprimes": 33.41,
+      "sieges_cm": 4,
+      "sieges_cc": 2,
+      "nb_elus": 4,
+      "tete_de_liste": {
+        "nom": "LOISEL",
+        "prenom": "Olivier",
+        "nom_complet": "Olivier LOISEL",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LOISEL",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier LOISEL",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DUHAUTOIS",
+          "prenom": "Corinne",
+          "nom_complet": "Corinne DUHAUTOIS",
+          "sexe": "F",
+          "age": 33,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BENOIT",
+          "prenom": "Pierre-Yves",
+          "nom_complet": "Pierre-Yves BENOIT",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LEROY",
+          "prenom": "Michelle",
+          "nom_complet": "Michelle LEROY",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "4"
+        }
+      ],
+      "statut_conseil": "autre"
+    },
+    {
+      "num_panneau": "3",
+      "libelle_liste": "AVEC LES SAINT-POLOIS, AUTREMENT",
+      "libelle_abrege_liste": "AVEC LES SAINT-POLOIS, AUTREMENT",
+      "nuance_liste": "LDVG",
+      "voix": 468,
+      "pct_voix_exprimes": 26.32,
+      "sieges_cm": 3,
+      "sieges_cc": 1,
+      "nb_elus": 3,
+      "tete_de_liste": {
+        "nom": "ROUSSEZ",
+        "prenom": "Claude",
+        "nom_complet": "Claude ROUSSEZ",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "ROUSSEZ",
+          "prenom": "Claude",
+          "nom_complet": "Claude ROUSSEZ",
+          "sexe": "F",
+          "age": 76,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "MARTINAGE",
+          "prenom": "Éric",
+          "nom_complet": "Éric MARTINAGE",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DELBAY",
+          "prenom": "Virginie",
+          "nom_complet": "Virginie DELBAY",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "3"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

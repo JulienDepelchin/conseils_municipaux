@@ -1,0 +1,183 @@
+{
+  "code_commune": "62589",
+  "commune": "Mont-Saint-Eloi",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "SEARLE",
+    "prenom": "Maureen",
+    "nom_complet": "Maureen SEARLE",
+    "age": 71,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 857,
+    "votants": 685,
+    "pct_votants": 79.93,
+    "abstentions": 172,
+    "pct_abstentions": 20.07,
+    "exprimes": 679
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "UNIS POUR AGIR",
+      "libelle_abrege_liste": "UNIS POUR AGIR",
+      "nuance_liste": null,
+      "voix": 453,
+      "pct_voix_exprimes": 66.72,
+      "sieges_cm": 13,
+      "sieges_cc": 1,
+      "nb_elus": 13,
+      "tete_de_liste": {
+        "nom": "SEARLE",
+        "prenom": "Maureen",
+        "nom_complet": "Maureen SEARLE",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "SEARLE",
+          "prenom": "Maureen",
+          "nom_complet": "Maureen SEARLE",
+          "sexe": "F",
+          "age": 71,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "PAUCHET",
+          "prenom": "Jonathan",
+          "nom_complet": "Jonathan PAUCHET",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "CALLAUX",
+          "prenom": "Evelyne",
+          "nom_complet": "Evelyne CALLAUX",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "HAUTECOEUR",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick HAUTECOEUR",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "GOUDIN",
+          "prenom": "Anne",
+          "nom_complet": "Anne GOUDIN",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DESFOSSES",
+          "prenom": "Reynald",
+          "nom_complet": "Reynald DESFOSSES",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DUQUESNOY",
+          "prenom": "Marie-Laure",
+          "nom_complet": "Marie-Laure DUQUESNOY",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "COMPERNOLLE",
+          "prenom": "Samuel",
+          "nom_complet": "Samuel COMPERNOLLE",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "ATTAGNANT",
+          "prenom": "Daphnée",
+          "nom_complet": "Daphnée ATTAGNANT",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DARRAS",
+          "prenom": "Stéphane",
+          "nom_complet": "Stéphane DARRAS",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "MINTA",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie MINTA",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "LEBLANC",
+          "prenom": "Regis",
+          "nom_complet": "Regis LEBLANC",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "SAILLY DELCLUSE",
+          "prenom": "Christelle",
+          "nom_complet": "Christelle SAILLY DELCLUSE",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "13"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "AVANCER AVEC VOUS",
+      "libelle_abrege_liste": "AVANCER AVEC VOUS",
+      "nuance_liste": null,
+      "voix": 226,
+      "pct_voix_exprimes": 33.28,
+      "sieges_cm": 2,
+      "sieges_cc": 0,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "BAILLIET",
+        "prenom": "Stéphane",
+        "nom_complet": "Stéphane BAILLIET",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BAILLIET",
+          "prenom": "Stéphane",
+          "nom_complet": "Stéphane BAILLIET",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "RANSON",
+          "prenom": "Catherine",
+          "nom_complet": "Catherine RANSON",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

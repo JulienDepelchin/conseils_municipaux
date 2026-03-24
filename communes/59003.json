@@ -1,0 +1,131 @@
+{
+  "code_commune": "59003",
+  "commune": "Aibes",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "CHABOT",
+    "prenom": "Pascal",
+    "nom_complet": "Pascal CHABOT",
+    "age": 66,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 259,
+    "votants": 133,
+    "pct_votants": 51.35,
+    "abstentions": 126,
+    "pct_abstentions": 48.65,
+    "exprimes": 124
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Ensemble pour aibes",
+      "libelle_abrege_liste": "Ensemble pour aibes",
+      "nuance_liste": null,
+      "voix": 124,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "CHABOT",
+        "prenom": "Pascal",
+        "nom_complet": "Pascal CHABOT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "CHABOT",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal CHABOT",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "VANDEBROUCK",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle VANDEBROUCK",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LENCLUD",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe LENCLUD",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BEAUJEAN",
+          "prenom": "Mathilde",
+          "nom_complet": "Mathilde BEAUJEAN",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "BENHAMMADI",
+          "prenom": "Nasser",
+          "nom_complet": "Nasser BENHAMMADI",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "COLONVAL",
+          "prenom": "Marie-Anne",
+          "nom_complet": "Marie-Anne COLONVAL",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DURIEU",
+          "prenom": "Frederic",
+          "nom_complet": "Frederic DURIEU",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "GLACHET",
+          "prenom": "Ludivine",
+          "nom_complet": "Ludivine GLACHET",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "MAUFROY",
+          "prenom": "Guillaume",
+          "nom_complet": "Guillaume MAUFROY",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DELRIO",
+          "prenom": "Cassandra",
+          "nom_complet": "Cassandra DELRIO",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "GLACHET",
+          "prenom": "Geoffrey",
+          "nom_complet": "Geoffrey GLACHET",
+          "sexe": "M",
+          "age": 28,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

@@ -1,0 +1,183 @@
+{
+  "code_commune": "59670",
+  "commune": "Don",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "GAYOU",
+    "prenom": "Laurent",
+    "nom_complet": "Laurent GAYOU",
+    "age": 66,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1066,
+    "votants": 784,
+    "pct_votants": 73.55,
+    "abstentions": 282,
+    "pct_abstentions": 26.45,
+    "exprimes": 762
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "AGIR POUR DON 2026",
+      "libelle_abrege_liste": "AGIR POUR DON 2026",
+      "nuance_liste": null,
+      "voix": 462,
+      "pct_voix_exprimes": 60.63,
+      "sieges_cm": 12,
+      "sieges_cc": 1,
+      "nb_elus": 12,
+      "tete_de_liste": {
+        "nom": "GAYOU",
+        "prenom": "Laurent",
+        "nom_complet": "Laurent GAYOU",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "GAYOU",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent GAYOU",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DEJONGHE",
+          "prenom": "Céline",
+          "nom_complet": "Céline DEJONGHE",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LERANT",
+          "prenom": "Lionel",
+          "nom_complet": "Lionel LERANT",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DOERLER",
+          "prenom": "Aurélie",
+          "nom_complet": "Aurélie DOERLER",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DOERLER",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent DOERLER",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "PLAHIERS",
+          "prenom": "Catherine",
+          "nom_complet": "Catherine PLAHIERS",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "HENON",
+          "prenom": "Samuel",
+          "nom_complet": "Samuel HENON",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LEFEVRE",
+          "prenom": "Emilie",
+          "nom_complet": "Emilie LEFEVRE",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "LOEUIL",
+          "prenom": "Mickael",
+          "nom_complet": "Mickael LOEUIL",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "LAMMENS",
+          "prenom": "Jennifer",
+          "nom_complet": "Jennifer LAMMENS",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "PETIT",
+          "prenom": "Jean-Christophe",
+          "nom_complet": "Jean-Christophe PETIT",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "DEGRYSE",
+          "prenom": "Céline",
+          "nom_complet": "Céline DEGRYSE",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "12"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ENSEMBLE POUR DON",
+      "libelle_abrege_liste": "ENSEMBLE POUR DON",
+      "nuance_liste": null,
+      "voix": 300,
+      "pct_voix_exprimes": 39.37,
+      "sieges_cm": 3,
+      "sieges_cc": 0,
+      "nb_elus": 3,
+      "tete_de_liste": {
+        "nom": "SERGENT",
+        "prenom": "Pascal",
+        "nom_complet": "Pascal SERGENT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "SERGENT",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal SERGENT",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DUBOIS",
+          "prenom": "Marie",
+          "nom_complet": "Marie DUBOIS",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DELINOTTE",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe DELINOTTE",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "3"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "code_commune": "59513",
+  "commune": "Roucourt",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "ROSZYK",
+    "prenom": "Philippe",
+    "nom_complet": "Philippe ROSZYK",
+    "age": 47,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 385,
+    "votants": 304,
+    "pct_votants": 78.96,
+    "abstentions": 81,
+    "pct_abstentions": 21.04,
+    "exprimes": 300
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ENSEMBLE POUR DEMAIN",
+      "libelle_abrege_liste": "ENSEMBLE POUR DEMAIN",
+      "nuance_liste": null,
+      "voix": 196,
+      "pct_voix_exprimes": 65.33,
+      "sieges_cm": 9,
+      "sieges_cc": null,
+      "nb_elus": 9,
+      "tete_de_liste": {
+        "nom": "ROSZYK",
+        "prenom": "Philippe",
+        "nom_complet": "Philippe ROSZYK",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "ROSZYK",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe ROSZYK",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "ROSZYK COTTEL",
+          "prenom": "Patricia",
+          "nom_complet": "Patricia ROSZYK COTTEL",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LENFANT",
+          "prenom": "Maxime",
+          "nom_complet": "Maxime LENFANT",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "MULLEM TIBERGHIEN",
+          "prenom": "Jeanne",
+          "nom_complet": "Jeanne MULLEM TIBERGHIEN",
+          "sexe": "F",
+          "age": 31,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "MARIAGE",
+          "prenom": "Arnaud",
+          "nom_complet": "Arnaud MARIAGE",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "JONVAL",
+          "prenom": "Marie-Paule",
+          "nom_complet": "Marie-Paule JONVAL",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "HAYE",
+          "prenom": "Gregory",
+          "nom_complet": "Gregory HAYE",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "SOUQUE",
+          "prenom": "Charlotte",
+          "nom_complet": "Charlotte SOUQUE",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DUBURQUE",
+          "prenom": "André",
+          "nom_complet": "André DUBURQUE",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "9"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "ROUCOURT EN MOUVEMENT AVEC UNE NOUVELLE EQUIPE",
+      "libelle_abrege_liste": "ROUCOURT EN MOUVEMENT AVEC UNE NOUVELLE EQUIPE",
+      "nuance_liste": null,
+      "voix": 104,
+      "pct_voix_exprimes": 34.67,
+      "sieges_cm": 2,
+      "sieges_cc": null,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "DADI",
+        "prenom": "Zouliha",
+        "nom_complet": "Zouliha DADI",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "DADI",
+          "prenom": "Zouliha",
+          "nom_complet": "Zouliha DADI",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "GEORGE",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal GEORGE",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

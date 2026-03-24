@@ -1,0 +1,131 @@
+{
+  "code_commune": "62818",
+  "commune": "Tilly-Capelle",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "BLAREL",
+    "prenom": "Pierre",
+    "nom_complet": "Pierre BLAREL",
+    "age": 69,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 106,
+    "votants": 80,
+    "pct_votants": 75.47,
+    "abstentions": 26,
+    "pct_abstentions": 24.53,
+    "exprimes": 52
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "TOUS ENSEMBLE",
+      "libelle_abrege_liste": "TOUS ENSEMBLE",
+      "nuance_liste": null,
+      "voix": 52,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "BLAREL",
+        "prenom": "Pierre",
+        "nom_complet": "Pierre BLAREL",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BLAREL",
+          "prenom": "Pierre",
+          "nom_complet": "Pierre BLAREL",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LEGAY",
+          "prenom": "Karine",
+          "nom_complet": "Karine LEGAY",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "GAILLARD",
+          "prenom": "Claude",
+          "nom_complet": "Claude GAILLARD",
+          "sexe": "M",
+          "age": 74,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BLAREL",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle BLAREL",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DEZANDRE",
+          "prenom": "Vincent",
+          "nom_complet": "Vincent DEZANDRE",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "BOUCKENOOGHE",
+          "prenom": "Audrey",
+          "nom_complet": "Audrey BOUCKENOOGHE",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "LECLERCQ",
+          "prenom": "Clément",
+          "nom_complet": "Clément LECLERCQ",
+          "sexe": "M",
+          "age": 31,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DEZANDRE",
+          "prenom": "Océane",
+          "nom_complet": "Océane DEZANDRE",
+          "sexe": "F",
+          "age": 20,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "BARROIS",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe BARROIS",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DELPOUVE",
+          "prenom": "Mauricette",
+          "nom_complet": "Mauricette DELPOUVE",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "OGEZ",
+          "prenom": "Lionel",
+          "nom_complet": "Lionel OGEZ",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

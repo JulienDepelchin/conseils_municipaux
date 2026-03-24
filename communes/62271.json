@@ -1,0 +1,163 @@
+{
+  "code_commune": "62271",
+  "commune": "Dohem",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "DAMBRUNE",
+    "prenom": "David",
+    "nom_complet": "David DAMBRUNE",
+    "age": 47,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 627,
+    "votants": 390,
+    "pct_votants": 62.2,
+    "abstentions": 237,
+    "pct_abstentions": 37.8,
+    "exprimes": 283
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "DOHEM/MAISNIL \"ENTRE AVENIR ET TRADITIONS\"",
+      "libelle_abrege_liste": "DOHEM/MAISNIL \"ENTRE AVENIR ET TRADITIONS",
+      "nuance_liste": null,
+      "voix": 283,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "DAMBRUNE",
+        "prenom": "David",
+        "nom_complet": "David DAMBRUNE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DAMBRUNE",
+          "prenom": "David",
+          "nom_complet": "David DAMBRUNE",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "ANNEBICQUE",
+          "prenom": "Dorothée",
+          "nom_complet": "Dorothée ANNEBICQUE",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "AZELART",
+          "prenom": "Luc",
+          "nom_complet": "Luc AZELART",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LORTHIOS",
+          "prenom": "Doriane",
+          "nom_complet": "Doriane LORTHIOS",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "CARLIER",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe CARLIER",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DELATTRE",
+          "prenom": "Noémie",
+          "nom_complet": "Noémie DELATTRE",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "GOMEL",
+          "prenom": "Anthony",
+          "nom_complet": "Anthony GOMEL",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "HILMOINE",
+          "prenom": "Justine",
+          "nom_complet": "Justine HILMOINE",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "GARACHE",
+          "prenom": "Auxence",
+          "nom_complet": "Auxence GARACHE",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "FOUACHE",
+          "prenom": "Leslie",
+          "nom_complet": "Leslie FOUACHE",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "LELEU",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric LELEU",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "HUGOT",
+          "prenom": "Emilie",
+          "nom_complet": "Emilie HUGOT",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "FACON",
+          "prenom": "Jacky",
+          "nom_complet": "Jacky FACON",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "DILLY",
+          "prenom": "Fabienne",
+          "nom_complet": "Fabienne DILLY",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "CARLIER",
+          "prenom": "Joseph",
+          "nom_complet": "Joseph CARLIER",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

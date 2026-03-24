@@ -1,0 +1,147 @@
+{
+  "code_commune": "59596",
+  "commune": "Tilloy-lez-Marchiennes",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "UYTTERHAEGEN",
+    "prenom": "Frédéric",
+    "nom_complet": "Frédéric UYTTERHAEGEN",
+    "age": 60,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 495,
+    "votants": 264,
+    "pct_votants": 53.33,
+    "abstentions": 231,
+    "pct_abstentions": 46.67,
+    "exprimes": 213
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "TILLOY AVEC VOUS",
+      "libelle_abrege_liste": "TILLOY AVEC VOUS",
+      "nuance_liste": null,
+      "voix": 213,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 13,
+      "sieges_cc": null,
+      "nb_elus": 13,
+      "tete_de_liste": {
+        "nom": "UYTTERHAEGEN",
+        "prenom": "Frédéric",
+        "nom_complet": "Frédéric UYTTERHAEGEN",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "UYTTERHAEGEN",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric UYTTERHAEGEN",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "VANDEWALLE",
+          "prenom": "Catherine",
+          "nom_complet": "Catherine VANDEWALLE",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "CATTOEN",
+          "prenom": "Jean-Marc",
+          "nom_complet": "Jean-Marc CATTOEN",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "FRUCHART ÉPOUSE CATTOEN",
+          "prenom": "Véronique",
+          "nom_complet": "Véronique FRUCHART ÉPOUSE CATTOEN",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DECOOPMAN",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique DECOOPMAN",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "WATREMEZ",
+          "prenom": "Léonie",
+          "nom_complet": "Léonie WATREMEZ",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "HENDRICX",
+          "prenom": "Etienne",
+          "nom_complet": "Etienne HENDRICX",
+          "sexe": "M",
+          "age": 76,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "WINTERER",
+          "prenom": "Louise",
+          "nom_complet": "Louise WINTERER",
+          "sexe": "F",
+          "age": 19,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DIEUSET",
+          "prenom": "Thibaut",
+          "nom_complet": "Thibaut DIEUSET",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "LALOY",
+          "prenom": "Marie-Laure",
+          "nom_complet": "Marie-Laure LALOY",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DUYCK",
+          "prenom": "Anthime",
+          "nom_complet": "Anthime DUYCK",
+          "sexe": "M",
+          "age": 32,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "THESE",
+          "prenom": "Sophie",
+          "nom_complet": "Sophie THESE",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "MERIE",
+          "prenom": "Marc",
+          "nom_complet": "Marc MERIE",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "13"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

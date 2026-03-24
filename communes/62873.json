@@ -1,0 +1,163 @@
+{
+  "code_commune": "62873",
+  "commune": "Wancourt",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "DUFLOT",
+    "prenom": "Eric",
+    "nom_complet": "Eric DUFLOT",
+    "age": 65,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 519,
+    "votants": 286,
+    "pct_votants": 55.11,
+    "abstentions": 233,
+    "pct_abstentions": 44.89,
+    "exprimes": 245
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "VIVRE ET AGIR ENSEMBLE",
+      "libelle_abrege_liste": "VIVRE ET AGIR ENSEMBLE",
+      "nuance_liste": null,
+      "voix": 245,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "DUFLOT",
+        "prenom": "Eric",
+        "nom_complet": "Eric DUFLOT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DUFLOT",
+          "prenom": "Eric",
+          "nom_complet": "Eric DUFLOT",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "THELLIEZ",
+          "prenom": "Martine",
+          "nom_complet": "Martine THELLIEZ",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LETIENNE",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe LETIENNE",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LE BLANCHE",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle LE BLANCHE",
+          "sexe": "F",
+          "age": 70,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DUBOS",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric DUBOS",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LE STRAT",
+          "prenom": "Sandrine",
+          "nom_complet": "Sandrine LE STRAT",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "LEBLANC",
+          "prenom": "André",
+          "nom_complet": "André LEBLANC",
+          "sexe": "M",
+          "age": 76,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "PROU",
+          "prenom": "Zinnat",
+          "nom_complet": "Zinnat PROU",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DE FRESCHI",
+          "prenom": "Michel",
+          "nom_complet": "Michel DE FRESCHI",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "GOURDAIN",
+          "prenom": "Agnès",
+          "nom_complet": "Agnès GOURDAIN",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "COURTIN",
+          "prenom": "Patrice",
+          "nom_complet": "Patrice COURTIN",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "DUTOIT",
+          "prenom": "Fabienne",
+          "nom_complet": "Fabienne DUTOIT",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "LECLEIRE",
+          "prenom": "Claude",
+          "nom_complet": "Claude LECLEIRE",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "VASSEUR",
+          "prenom": "Séverine",
+          "nom_complet": "Séverine VASSEUR",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "SERGEANT",
+          "prenom": "Arnaud",
+          "nom_complet": "Arnaud SERGEANT",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

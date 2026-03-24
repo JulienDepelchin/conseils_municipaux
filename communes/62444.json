@@ -1,0 +1,131 @@
+{
+  "code_commune": "62444",
+  "commune": "Hervelinghen",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "AMMEUX",
+    "prenom": "Pierre",
+    "nom_complet": "Pierre AMMEUX",
+    "age": 68,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 201,
+    "votants": 116,
+    "pct_votants": 57.71,
+    "abstentions": 85,
+    "pct_abstentions": 42.29,
+    "exprimes": 109
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "BIEN VIVRE ENSEMBLE A HERVELINGHEN",
+      "libelle_abrege_liste": "BIEN VIVRE ENSEMBLE A HERVELINGHEN",
+      "nuance_liste": null,
+      "voix": 109,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "AMMEUX",
+        "prenom": "Pierre",
+        "nom_complet": "Pierre AMMEUX",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "AMMEUX",
+          "prenom": "Pierre",
+          "nom_complet": "Pierre AMMEUX",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "COMTE",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie COMTE",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DUTERTRE",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric DUTERTRE",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "SERGENT",
+          "prenom": "Sandrine",
+          "nom_complet": "Sandrine SERGENT",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "CREPIN",
+          "prenom": "Raphaël",
+          "nom_complet": "Raphaël CREPIN",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "GRAS",
+          "prenom": "Hélène",
+          "nom_complet": "Hélène GRAS",
+          "sexe": "F",
+          "age": 71,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DARRE",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent DARRE",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "PETILLON",
+          "prenom": "Aurélie",
+          "nom_complet": "Aurélie PETILLON",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "BOUTTENS",
+          "prenom": "Guillaume",
+          "nom_complet": "Guillaume BOUTTENS",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "SERVOIN",
+          "prenom": "Christelle",
+          "nom_complet": "Christelle SERVOIN",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "LESAGE",
+          "prenom": "Guillaume",
+          "nom_complet": "Guillaume LESAGE",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

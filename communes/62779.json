@@ -1,0 +1,151 @@
+{
+  "code_commune": "62779",
+  "commune": "Sarton",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "DECRY",
+    "prenom": "Alexandre",
+    "nom_complet": "Alexandre DECRY",
+    "age": 51,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 154,
+    "votants": 134,
+    "pct_votants": 87.01,
+    "abstentions": 20,
+    "pct_abstentions": 12.99,
+    "exprimes": 132
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "LISTE D'UNION ET DE DEFENSE DES INTERETS COMMUNAUX",
+      "libelle_abrege_liste": "LISTE D'UNION ET DE DEFENSE DES INTERETS COMMUNAUX",
+      "nuance_liste": null,
+      "voix": 101,
+      "pct_voix_exprimes": 76.52,
+      "sieges_cm": 10,
+      "sieges_cc": null,
+      "nb_elus": 10,
+      "tete_de_liste": {
+        "nom": "DECRY",
+        "prenom": "Alexandre",
+        "nom_complet": "Alexandre DECRY",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DECRY",
+          "prenom": "Alexandre",
+          "nom_complet": "Alexandre DECRY",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BLOCKELET",
+          "prenom": "Marie Claude",
+          "nom_complet": "Marie Claude BLOCKELET",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "VAN GYSEL",
+          "prenom": "Charles",
+          "nom_complet": "Charles VAN GYSEL",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BRODIER",
+          "prenom": "Marianne",
+          "nom_complet": "Marianne BRODIER",
+          "sexe": "F",
+          "age": 27,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DOCHY",
+          "prenom": "Herve",
+          "nom_complet": "Herve DOCHY",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LAVILLETTE",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie LAVILLETTE",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "LAVILLETTE",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick LAVILLETTE",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "PICARD",
+          "prenom": "Laurence",
+          "nom_complet": "Laurence PICARD",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "SARA",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick SARA",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "VAN WYNSBERGHE",
+          "prenom": "Valérie",
+          "nom_complet": "Valérie VAN WYNSBERGHE",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "10"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "SARTON: TRANSPARENCE ET COMMUNICATION",
+      "libelle_abrege_liste": "SARTON: TRANSPARENCE ET COMMUNICATION",
+      "nuance_liste": null,
+      "voix": 31,
+      "pct_voix_exprimes": 23.48,
+      "sieges_cm": 1,
+      "sieges_cc": null,
+      "nb_elus": 1,
+      "tete_de_liste": {
+        "nom": "BISSCHOP",
+        "prenom": "Stéphanie",
+        "nom_complet": "Stéphanie BISSCHOP",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "BISSCHOP",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie BISSCHOP",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "1"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

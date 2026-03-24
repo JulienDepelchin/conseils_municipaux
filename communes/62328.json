@@ -1,0 +1,163 @@
+{
+  "code_commune": "62328",
+  "commune": "Ferfay",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "GAROT",
+    "prenom": "Line",
+    "nom_complet": "Line GAROT",
+    "age": 69,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 627,
+    "votants": 393,
+    "pct_votants": 62.68,
+    "abstentions": 234,
+    "pct_abstentions": 37.32,
+    "exprimes": 342
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "LISTE D'UNION DE DEFENSE DES INTERETS COMMUNAUX",
+      "libelle_abrege_liste": "LISTE D'UNION DE DEFENSE DES INTERETS COMMUNAUX",
+      "nuance_liste": null,
+      "voix": 342,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "GAROT",
+        "prenom": "Line",
+        "nom_complet": "Line GAROT",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "GAROT",
+          "prenom": "Line",
+          "nom_complet": "Line GAROT",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BLONDEL",
+          "prenom": "Jean-Marc",
+          "nom_complet": "Jean-Marc BLONDEL",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BOUCHE",
+          "prenom": "Kathy",
+          "nom_complet": "Kathy BOUCHE",
+          "sexe": "F",
+          "age": 70,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DELVART",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe DELVART",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "CUVILLIER",
+          "prenom": "Therese",
+          "nom_complet": "Therese CUVILLIER",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DEPECKER",
+          "prenom": "Gerard",
+          "nom_complet": "Gerard DEPECKER",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "GIORGI",
+          "prenom": "Lucette",
+          "nom_complet": "Lucette GIORGI",
+          "sexe": "F",
+          "age": 72,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DUHAUTOIS",
+          "prenom": "Sylvain",
+          "nom_complet": "Sylvain DUHAUTOIS",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "HOCQ",
+          "prenom": "Paulette",
+          "nom_complet": "Paulette HOCQ",
+          "sexe": "F",
+          "age": 71,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DUMINIL",
+          "prenom": "Raymond",
+          "nom_complet": "Raymond DUMINIL",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "KHADAR",
+          "prenom": "Caroline",
+          "nom_complet": "Caroline KHADAR",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "LECOCQ",
+          "prenom": "Pierre",
+          "nom_complet": "Pierre LECOCQ",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "LELONG",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie LELONG",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "LHOMME",
+          "prenom": "Régis",
+          "nom_complet": "Régis LHOMME",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "WATRELOT PEPIN",
+          "prenom": "Christie",
+          "nom_complet": "Christie WATRELOT PEPIN",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

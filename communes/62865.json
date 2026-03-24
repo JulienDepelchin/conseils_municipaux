@@ -1,0 +1,279 @@
+{
+  "code_commune": "62865",
+  "commune": "Vitry-en-Artois",
+  "departement": "Pas-de-Calais",
+  "tour": "T2",
+  "maire": {
+    "nom": "GIRAUD",
+    "prenom": "Éric",
+    "nom_complet": "Éric GIRAUD",
+    "age": 51,
+    "nuance": "LDIV"
+  },
+  "resultats": {
+    "inscrits": 3869,
+    "votants": 2408,
+    "pct_votants": 62.24,
+    "abstentions": 1461,
+    "pct_abstentions": 37.76,
+    "exprimes": 2342
+  },
+  "listes": [
+    {
+      "num_panneau": "3",
+      "libelle_liste": "NOS RACINES UN HORIZON",
+      "libelle_abrege_liste": "NOS RACINES UN HORIZON",
+      "nuance_liste": "LDIV",
+      "voix": 1277,
+      "pct_voix_exprimes": 54.53,
+      "sieges_cm": 21,
+      "sieges_cc": 6,
+      "nb_elus": 21,
+      "tete_de_liste": {
+        "nom": "GIRAUD",
+        "prenom": "Éric",
+        "nom_complet": "Éric GIRAUD",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "GIRAUD",
+          "prenom": "Éric",
+          "nom_complet": "Éric GIRAUD",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DIZEL",
+          "prenom": "Véronique",
+          "nom_complet": "Véronique DIZEL",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DECAEN",
+          "prenom": "Julien",
+          "nom_complet": "Julien DECAEN",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "ROUSSEL",
+          "prenom": "Marie-Lise",
+          "nom_complet": "Marie-Lise ROUSSEL",
+          "sexe": "F",
+          "age": 71,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "PERRAUD",
+          "prenom": "Didier",
+          "nom_complet": "Didier PERRAUD",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LECOCQ",
+          "prenom": "Lucie",
+          "nom_complet": "Lucie LECOCQ",
+          "sexe": "F",
+          "age": 20,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "SAINT-CHARLES",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent SAINT-CHARLES",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DOISY",
+          "prenom": "Émilie",
+          "nom_complet": "Émilie DOISY",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "GELLEZ",
+          "prenom": "Patrice",
+          "nom_complet": "Patrice GELLEZ",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DAMBRINE",
+          "prenom": "Lucile",
+          "nom_complet": "Lucile DAMBRINE",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DIEVAL",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent DIEVAL",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "CARPENTIER METAY",
+          "prenom": "Sandrine",
+          "nom_complet": "Sandrine CARPENTIER METAY",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "WARIN",
+          "prenom": "Pierre",
+          "nom_complet": "Pierre WARIN",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "DHUMERELLE",
+          "prenom": "Florence",
+          "nom_complet": "Florence DHUMERELLE",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "DEJAIGHER",
+          "prenom": "Thibaut",
+          "nom_complet": "Thibaut DEJAIGHER",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "LEMAIRE",
+          "prenom": "Martine",
+          "nom_complet": "Martine LEMAIRE",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "DELANNOY",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric DELANNOY",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "PERRAUD",
+          "prenom": "Guadalupe",
+          "nom_complet": "Guadalupe PERRAUD",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "BERNARD",
+          "prenom": "Romuald",
+          "nom_complet": "Romuald BERNARD",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "MORGANT",
+          "prenom": "Corinne",
+          "nom_complet": "Corinne MORGANT",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "CLAIRGÉ",
+          "prenom": "Freddy",
+          "nom_complet": "Freddy CLAIRGÉ",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "21"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "Ensemble ! pour l'avenir de Vitry",
+      "libelle_abrege_liste": "Ensemble ! pour l'avenir de Vitry",
+      "nuance_liste": "LDVG",
+      "voix": 1065,
+      "pct_voix_exprimes": 45.47,
+      "sieges_cm": 6,
+      "sieges_cc": 2,
+      "nb_elus": 6,
+      "tete_de_liste": {
+        "nom": "LOUIS",
+        "prenom": "Maryse",
+        "nom_complet": "Maryse LOUIS",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "LOUIS",
+          "prenom": "Maryse",
+          "nom_complet": "Maryse LOUIS",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "VOOGT",
+          "prenom": "Rodrigue",
+          "nom_complet": "Rodrigue VOOGT",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DELCOURT",
+          "prenom": "Véronique",
+          "nom_complet": "Véronique DELCOURT",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "PALASCINO",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe PALASCINO",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LEFEBVRE",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie LEFEBVRE",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "CAPELLE",
+          "prenom": "Franck",
+          "nom_complet": "Franck CAPELLE",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "6"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "code_commune": "62266",
+  "commune": "Denier",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "BRIDEL",
+    "prenom": "Jean",
+    "nom_complet": "Jean BRIDEL",
+    "age": 63,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 65,
+    "votants": 44,
+    "pct_votants": 67.69,
+    "abstentions": 21,
+    "pct_abstentions": 32.31,
+    "exprimes": 39
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "liste menée par Jean BRIDEL",
+      "libelle_abrege_liste": "liste menée par Jean BRIDEL",
+      "nuance_liste": null,
+      "voix": 39,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 7,
+      "sieges_cc": null,
+      "nb_elus": 7,
+      "tete_de_liste": {
+        "nom": "BRIDEL",
+        "prenom": "Jean",
+        "nom_complet": "Jean BRIDEL",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BRIDEL",
+          "prenom": "Jean",
+          "nom_complet": "Jean BRIDEL",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BODELE",
+          "prenom": "Aurélie",
+          "nom_complet": "Aurélie BODELE",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "WAMBERGUE",
+          "prenom": "Jean-Michel",
+          "nom_complet": "Jean-Michel WAMBERGUE",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "TONIN",
+          "prenom": "Julie",
+          "nom_complet": "Julie TONIN",
+          "sexe": "F",
+          "age": 25,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DEBREIL",
+          "prenom": "Alexandre",
+          "nom_complet": "Alexandre DEBREIL",
+          "sexe": "M",
+          "age": 30,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "PROTIN",
+          "prenom": "Julie",
+          "nom_complet": "Julie PROTIN",
+          "sexe": "F",
+          "age": 32,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "HERENG",
+          "prenom": "David",
+          "nom_complet": "David HERENG",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "7"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

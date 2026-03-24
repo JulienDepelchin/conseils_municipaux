@@ -1,0 +1,163 @@
+{
+  "code_commune": "62793",
+  "commune": "Servins",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "DUCLOY",
+    "prenom": "Nadine",
+    "nom_complet": "Nadine DUCLOY",
+    "age": 74,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 839,
+    "votants": 511,
+    "pct_votants": 60.91,
+    "abstentions": 328,
+    "pct_abstentions": 39.09,
+    "exprimes": 407
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "NOTRE VILLAGE, AUJOURD'HUI ET DEMAIN",
+      "libelle_abrege_liste": "NOTRE VILLAGE, AUJOURD'HUI ET DEMAIN",
+      "nuance_liste": null,
+      "voix": 407,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": 1,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "DUCLOY",
+        "prenom": "Nadine",
+        "nom_complet": "Nadine DUCLOY",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "DUCLOY",
+          "prenom": "Nadine",
+          "nom_complet": "Nadine DUCLOY",
+          "sexe": "F",
+          "age": 74,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LEGRU",
+          "prenom": "Didier",
+          "nom_complet": "Didier LEGRU",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "JOLY",
+          "prenom": "Monique",
+          "nom_complet": "Monique JOLY",
+          "sexe": "F",
+          "age": 73,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "FATOUX",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas FATOUX",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DELIERRE",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique DELIERRE",
+          "sexe": "F",
+          "age": 72,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "BOURDREZ",
+          "prenom": "Henri",
+          "nom_complet": "Henri BOURDREZ",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "CHAILLET",
+          "prenom": "Angélique",
+          "nom_complet": "Angélique CHAILLET",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "NG KWONG SANG",
+          "prenom": "James",
+          "nom_complet": "James NG KWONG SANG",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "BAERT",
+          "prenom": "Valérie",
+          "nom_complet": "Valérie BAERT",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DOMCHE",
+          "prenom": "Xavier",
+          "nom_complet": "Xavier DOMCHE",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "ALLIOT",
+          "prenom": "Claudie",
+          "nom_complet": "Claudie ALLIOT",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "DANEL",
+          "prenom": "Didier",
+          "nom_complet": "Didier DANEL",
+          "sexe": "M",
+          "age": 74,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "NEAU",
+          "prenom": "Amélie",
+          "nom_complet": "Amélie NEAU",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "DESMONT",
+          "prenom": "Yannick",
+          "nom_complet": "Yannick DESMONT",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "MERCIER",
+          "prenom": "Véronique",
+          "nom_complet": "Véronique MERCIER",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

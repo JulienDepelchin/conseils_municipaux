@@ -1,0 +1,195 @@
+{
+  "code_commune": "59605",
+  "commune": "Uxem",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "DEFRANCE",
+    "prenom": "Pierre",
+    "nom_complet": "Pierre DEFRANCE",
+    "age": 57,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1146,
+    "votants": 717,
+    "pct_votants": 62.57,
+    "abstentions": 429,
+    "pct_abstentions": 37.43,
+    "exprimes": 661
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "UXEM AVENIR",
+      "libelle_abrege_liste": "UA",
+      "nuance_liste": null,
+      "voix": 661,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 19,
+      "sieges_cc": 2,
+      "nb_elus": 19,
+      "tete_de_liste": {
+        "nom": "DEFRANCE",
+        "prenom": "Pierre",
+        "nom_complet": "Pierre DEFRANCE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DEFRANCE",
+          "prenom": "Pierre",
+          "nom_complet": "Pierre DEFRANCE",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BOULOGNE",
+          "prenom": "Armelle",
+          "nom_complet": "Armelle BOULOGNE",
+          "sexe": "F",
+          "age": 70,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "FORAIN",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas FORAIN",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "ROY",
+          "prenom": "Angelique",
+          "nom_complet": "Angelique ROY",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DESMIDT",
+          "prenom": "David",
+          "nom_complet": "David DESMIDT",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DESWAERTE",
+          "prenom": "Celine",
+          "nom_complet": "Celine DESWAERTE",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "TOP",
+          "prenom": "Gerard",
+          "nom_complet": "Gerard TOP",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "VASSAL",
+          "prenom": "Marie-Jose",
+          "nom_complet": "Marie-Jose VASSAL",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "ESLANDER",
+          "prenom": "Francois",
+          "nom_complet": "Francois ESLANDER",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "FORAIN-OCHEM",
+          "prenom": "Caroline",
+          "nom_complet": "Caroline FORAIN-OCHEM",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "BUZELIN",
+          "prenom": "Pierre-Joseph",
+          "nom_complet": "Pierre-Joseph BUZELIN",
+          "sexe": "M",
+          "age": 76,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "VANDERFAEILLIE",
+          "prenom": "Elodie",
+          "nom_complet": "Elodie VANDERFAEILLIE",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "HUYGHE",
+          "prenom": "Francois",
+          "nom_complet": "Francois HUYGHE",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "POIDEVIN",
+          "prenom": "Maryline",
+          "nom_complet": "Maryline POIDEVIN",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "NOEL",
+          "prenom": "Alain",
+          "nom_complet": "Alain NOEL",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "PACOU",
+          "prenom": "Tania",
+          "nom_complet": "Tania PACOU",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "DESWAERTE",
+          "prenom": "Simon",
+          "nom_complet": "Simon DESWAERTE",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "DEFRANCE",
+          "prenom": "Valerie",
+          "nom_complet": "Valerie DEFRANCE",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "DUBOIS",
+          "prenom": "Eric",
+          "nom_complet": "Eric DUBOIS",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "19"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

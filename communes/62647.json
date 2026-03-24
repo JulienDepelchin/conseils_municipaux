@@ -1,0 +1,163 @@
+{
+  "code_commune": "62647",
+  "commune": "Le Parcq",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "ROUGEGRE",
+    "prenom": "Hubert",
+    "nom_complet": "Hubert ROUGEGRE",
+    "age": 63,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 590,
+    "votants": 356,
+    "pct_votants": 60.34,
+    "abstentions": 234,
+    "pct_abstentions": 39.66,
+    "exprimes": 269
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Unis pour le Parcq",
+      "libelle_abrege_liste": "Unis pour le Parcq",
+      "nuance_liste": null,
+      "voix": 269,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "ROUGEGRE",
+        "prenom": "Hubert",
+        "nom_complet": "Hubert ROUGEGRE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "ROUGEGRE",
+          "prenom": "Hubert",
+          "nom_complet": "Hubert ROUGEGRE",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "WHITE",
+          "prenom": "Marina",
+          "nom_complet": "Marina WHITE",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LANVIN",
+          "prenom": "Guislain",
+          "nom_complet": "Guislain LANVIN",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DASSING",
+          "prenom": "Ludivine",
+          "nom_complet": "Ludivine DASSING",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DESANDRE",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick DESANDRE",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "MOTTE CLETY",
+          "prenom": "Catherine",
+          "nom_complet": "Catherine MOTTE CLETY",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "TOURBEAUX",
+          "prenom": "Pierre",
+          "nom_complet": "Pierre TOURBEAUX",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LAPORTE",
+          "prenom": "Sandrine",
+          "nom_complet": "Sandrine LAPORTE",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DUFRESNE",
+          "prenom": "Sylvain",
+          "nom_complet": "Sylvain DUFRESNE",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "WHITE",
+          "prenom": "Sabrina",
+          "nom_complet": "Sabrina WHITE",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DELATTRE",
+          "prenom": "Herve",
+          "nom_complet": "Herve DELATTRE",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "OBERT",
+          "prenom": "Vanessa",
+          "nom_complet": "Vanessa OBERT",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "DEPRES",
+          "prenom": "Alain",
+          "nom_complet": "Alain DEPRES",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "CORDIER",
+          "prenom": "Nadine",
+          "nom_complet": "Nadine CORDIER",
+          "sexe": "F",
+          "age": 71,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "LANVIN",
+          "prenom": "Claude",
+          "nom_complet": "Claude LANVIN",
+          "sexe": "M",
+          "age": 75,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "code_commune": "62387",
+  "commune": "Grévillers",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "LORENT",
+    "prenom": "Jean-Pierre",
+    "nom_complet": "Jean-Pierre LORENT",
+    "age": 71,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 301,
+    "votants": 180,
+    "pct_votants": 59.8,
+    "abstentions": 121,
+    "pct_abstentions": 40.2,
+    "exprimes": 148
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "UNIS POUR GREVILLERS",
+      "libelle_abrege_liste": "UNIS POUR GREVILLERS",
+      "nuance_liste": null,
+      "voix": 148,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "LORENT",
+        "prenom": "Jean-Pierre",
+        "nom_complet": "Jean-Pierre LORENT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LORENT",
+          "prenom": "Jean-Pierre",
+          "nom_complet": "Jean-Pierre LORENT",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LEFEBVRE",
+          "prenom": "Cathy",
+          "nom_complet": "Cathy LEFEBVRE",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "THIEBAUT",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe THIEBAUT",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LOISEAU",
+          "prenom": "Frédérique",
+          "nom_complet": "Frédérique LOISEAU",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LEQUETTE",
+          "prenom": "Sébastien",
+          "nom_complet": "Sébastien LEQUETTE",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "MERLIER",
+          "prenom": "Sophie",
+          "nom_complet": "Sophie MERLIER",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DUPRÉ",
+          "prenom": "Mathieu",
+          "nom_complet": "Mathieu DUPRÉ",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "HEQUET",
+          "prenom": "Florence",
+          "nom_complet": "Florence HEQUET",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "SIRBU",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas SIRBU",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "CHEVRON",
+          "prenom": "Juliette",
+          "nom_complet": "Juliette CHEVRON",
+          "sexe": "F",
+          "age": 31,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "GRÖGLER",
+          "prenom": "Aurélien",
+          "nom_complet": "Aurélien GRÖGLER",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

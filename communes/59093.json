@@ -1,0 +1,131 @@
+{
+  "code_commune": "59093",
+  "commune": "Boulogne-sur-Helpe",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "MAJKA",
+    "prenom": "Nadine",
+    "nom_complet": "Nadine MAJKA",
+    "age": 71,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 231,
+    "votants": 148,
+    "pct_votants": 64.07,
+    "abstentions": 83,
+    "pct_abstentions": 35.93,
+    "exprimes": 125
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Boulogne ensemble",
+      "libelle_abrege_liste": "Boulogne ensemble",
+      "nuance_liste": null,
+      "voix": 125,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "MAJKA",
+        "prenom": "Nadine",
+        "nom_complet": "Nadine MAJKA",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "MAJKA",
+          "prenom": "Nadine",
+          "nom_complet": "Nadine MAJKA",
+          "sexe": "F",
+          "age": 71,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DESSAINT",
+          "prenom": "Jerome",
+          "nom_complet": "Jerome DESSAINT",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "MUSEUX",
+          "prenom": "Nadine",
+          "nom_complet": "Nadine MUSEUX",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "JAOUEN",
+          "prenom": "Mathieu",
+          "nom_complet": "Mathieu JAOUEN",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "GRIERE",
+          "prenom": "Arlette",
+          "nom_complet": "Arlette GRIERE",
+          "sexe": "F",
+          "age": 75,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "CONTESSE",
+          "prenom": "Patrice",
+          "nom_complet": "Patrice CONTESSE",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "VALLIET",
+          "prenom": "Martine",
+          "nom_complet": "Martine VALLIET",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "GAILLIEZ",
+          "prenom": "Ludovic",
+          "nom_complet": "Ludovic GAILLIEZ",
+          "sexe": "M",
+          "age": 32,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "BOQUET",
+          "prenom": "Benedicte",
+          "nom_complet": "Benedicte BOQUET",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "BOUTILLIER",
+          "prenom": "Sylvain",
+          "nom_complet": "Sylvain BOUTILLIER",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DUMORTIER",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie DUMORTIER",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

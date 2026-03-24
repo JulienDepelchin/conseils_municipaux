@@ -1,0 +1,183 @@
+{
+  "code_commune": "59579",
+  "commune": "Steene",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "DAVROUX",
+    "prenom": "Alain",
+    "nom_complet": "Alain DAVROUX",
+    "age": 56,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1075,
+    "votants": 807,
+    "pct_votants": 75.07,
+    "abstentions": 268,
+    "pct_abstentions": 24.93,
+    "exprimes": 786
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Unis, poursuivons ensemble",
+      "libelle_abrege_liste": "UPE",
+      "nuance_liste": null,
+      "voix": 588,
+      "pct_voix_exprimes": 74.81,
+      "sieges_cm": 13,
+      "sieges_cc": 2,
+      "nb_elus": 13,
+      "tete_de_liste": {
+        "nom": "DAVROUX",
+        "prenom": "Alain",
+        "nom_complet": "Alain DAVROUX",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DAVROUX",
+          "prenom": "Alain",
+          "nom_complet": "Alain DAVROUX",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DEVROE",
+          "prenom": "Maryse",
+          "nom_complet": "Maryse DEVROE",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DENOYELLE",
+          "prenom": "Benjamin",
+          "nom_complet": "Benjamin DENOYELLE",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DOUAY",
+          "prenom": "Patricia",
+          "nom_complet": "Patricia DOUAY",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DEGEZELLE",
+          "prenom": "Samuel",
+          "nom_complet": "Samuel DEGEZELLE",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DRIEUX",
+          "prenom": "Marianne",
+          "nom_complet": "Marianne DRIEUX",
+          "sexe": "F",
+          "age": 33,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DELBAERE",
+          "prenom": "Pierre",
+          "nom_complet": "Pierre DELBAERE",
+          "sexe": "M",
+          "age": 24,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "OBERT",
+          "prenom": "Émeline",
+          "nom_complet": "Émeline OBERT",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "POY",
+          "prenom": "Jeremy",
+          "nom_complet": "Jeremy POY",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DEWAELE",
+          "prenom": "Édith",
+          "nom_complet": "Édith DEWAELE",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "TOURILLON",
+          "prenom": "Guillaume",
+          "nom_complet": "Guillaume TOURILLON",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "VANBOSSEL",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie VANBOSSEL",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "MARY",
+          "prenom": "Nathan",
+          "nom_complet": "Nathan MARY",
+          "sexe": "M",
+          "age": 21,
+          "rang_liste": "13"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "Bien vivre à Steene",
+      "libelle_abrege_liste": "BVS",
+      "nuance_liste": null,
+      "voix": 198,
+      "pct_voix_exprimes": 25.19,
+      "sieges_cm": 2,
+      "sieges_cc": 0,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "ACHTE",
+        "prenom": "Estelle",
+        "nom_complet": "Estelle ACHTE",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "ACHTE",
+          "prenom": "Estelle",
+          "nom_complet": "Estelle ACHTE",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DEBRUYNE",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent DEBRUYNE",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

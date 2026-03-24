@@ -1,0 +1,183 @@
+{
+  "code_commune": "62754",
+  "commune": "Saint-Léger",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "BLONDEL",
+    "prenom": "Michel",
+    "nom_complet": "Michel BLONDEL",
+    "age": 75,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 385,
+    "votants": 329,
+    "pct_votants": 85.45,
+    "abstentions": 56,
+    "pct_abstentions": 14.55,
+    "exprimes": 322
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Poursuivre l'action pour Saint Léger",
+      "libelle_abrege_liste": "Poursuivre l'action pour Saint Léger",
+      "nuance_liste": null,
+      "voix": 202,
+      "pct_voix_exprimes": 62.73,
+      "sieges_cm": 13,
+      "sieges_cc": null,
+      "nb_elus": 13,
+      "tete_de_liste": {
+        "nom": "BLONDEL",
+        "prenom": "Michel",
+        "nom_complet": "Michel BLONDEL",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BLONDEL",
+          "prenom": "Michel",
+          "nom_complet": "Michel BLONDEL",
+          "sexe": "M",
+          "age": 75,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DAMBRICOURT",
+          "prenom": "Aurélie",
+          "nom_complet": "Aurélie DAMBRICOURT",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "FOUQUET",
+          "prenom": "Simon",
+          "nom_complet": "Simon FOUQUET",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "CAPELLE",
+          "prenom": "Dorine",
+          "nom_complet": "Dorine CAPELLE",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "MALVOISIN",
+          "prenom": "Kevin",
+          "nom_complet": "Kevin MALVOISIN",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LECLERCQ",
+          "prenom": "Clara",
+          "nom_complet": "Clara LECLERCQ",
+          "sexe": "F",
+          "age": 29,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BONIFACE",
+          "prenom": "Francis",
+          "nom_complet": "Francis BONIFACE",
+          "sexe": "M",
+          "age": 75,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "KARAFA",
+          "prenom": "Sandra",
+          "nom_complet": "Sandra KARAFA",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "LECLERCQ",
+          "prenom": "Pierre",
+          "nom_complet": "Pierre LECLERCQ",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "CUVILLIER",
+          "prenom": "Aurélie",
+          "nom_complet": "Aurélie CUVILLIER",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DRANCOURT",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent DRANCOURT",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "CAPELLE",
+          "prenom": "Charline",
+          "nom_complet": "Charline CAPELLE",
+          "sexe": "F",
+          "age": 82,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "MINTA",
+          "prenom": "Ludovic",
+          "nom_complet": "Ludovic MINTA",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "13"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "UN NOUVEAU SOUFFLE POUR UN VILLAGE UNI",
+      "libelle_abrege_liste": "UN NOUVEAU SOUFFLE POUR UN VILLAGE UNI",
+      "nuance_liste": null,
+      "voix": 120,
+      "pct_voix_exprimes": 37.27,
+      "sieges_cm": 2,
+      "sieges_cc": null,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "DELANNOY",
+        "prenom": "Gaëlle",
+        "nom_complet": "Gaëlle DELANNOY",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "DELANNOY",
+          "prenom": "Gaëlle",
+          "nom_complet": "Gaëlle DELANNOY",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LEJEUNE",
+          "prenom": "Serge",
+          "nom_complet": "Serge LEJEUNE",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "code_commune": "59106",
+  "commune": "Bouvines",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "GUILLON",
+    "prenom": "Philippe",
+    "nom_complet": "Philippe GUILLON",
+    "age": 69,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 644,
+    "votants": 361,
+    "pct_votants": 56.06,
+    "abstentions": 283,
+    "pct_abstentions": 43.94,
+    "exprimes": 325
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Bouvines, Ensemble",
+      "libelle_abrege_liste": "Bouvines, Ensemble",
+      "nuance_liste": null,
+      "voix": 325,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "GUILLON",
+        "prenom": "Philippe",
+        "nom_complet": "Philippe GUILLON",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "GUILLON",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe GUILLON",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DESCAMPS",
+          "prenom": "Denise",
+          "nom_complet": "Denise DESCAMPS",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BIDEAU",
+          "prenom": "Thomas",
+          "nom_complet": "Thomas BIDEAU",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "CATOEN-DHERVILLE",
+          "prenom": "France",
+          "nom_complet": "France CATOEN-DHERVILLE",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "CHEVALLIER",
+          "prenom": "Cédric",
+          "nom_complet": "Cédric CHEVALLIER",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "MAZINGARBE",
+          "prenom": "Mélanie",
+          "nom_complet": "Mélanie MAZINGARBE",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DESPREZ",
+          "prenom": "Jean-Michel",
+          "nom_complet": "Jean-Michel DESPREZ",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "BENAULT",
+          "prenom": "Eugénie",
+          "nom_complet": "Eugénie BENAULT",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "BOURGEOIS",
+          "prenom": "Arnauld",
+          "nom_complet": "Arnauld BOURGEOIS",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DUMORTIER PIRES",
+          "prenom": "Manuela",
+          "nom_complet": "Manuela DUMORTIER PIRES",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DORCHIES",
+          "prenom": "Aurélien",
+          "nom_complet": "Aurélien DORCHIES",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "BENINCA",
+          "prenom": "Marion",
+          "nom_complet": "Marion BENINCA",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "JAYET",
+          "prenom": "Grégory",
+          "nom_complet": "Grégory JAYET",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "DESMARESCAUX",
+          "prenom": "Marie-Louise",
+          "nom_complet": "Marie-Louise DESMARESCAUX",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "DESCAMPS",
+          "prenom": "Charles-Louis",
+          "nom_complet": "Charles-Louis DESCAMPS",
+          "sexe": "M",
+          "age": 33,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

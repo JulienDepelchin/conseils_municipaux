@@ -1,0 +1,163 @@
+{
+  "code_commune": "59570",
+  "commune": "Socx",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "ROMMELAERE",
+    "prenom": "Alexandre",
+    "nom_complet": "Alexandre ROMMELAERE",
+    "age": 46,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 780,
+    "votants": 512,
+    "pct_votants": 65.64,
+    "abstentions": 268,
+    "pct_abstentions": 34.36,
+    "exprimes": 473
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Vivre aujourd'hui construire demain",
+      "libelle_abrege_liste": "VACD",
+      "nuance_liste": null,
+      "voix": 473,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "ROMMELAERE",
+        "prenom": "Alexandre",
+        "nom_complet": "Alexandre ROMMELAERE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "ROMMELAERE",
+          "prenom": "Alexandre",
+          "nom_complet": "Alexandre ROMMELAERE",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BERTHIER",
+          "prenom": "Christelle",
+          "nom_complet": "Christelle BERTHIER",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "VANDAELE",
+          "prenom": "Jean-Charles",
+          "nom_complet": "Jean-Charles VANDAELE",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BUISSART",
+          "prenom": "Christine",
+          "nom_complet": "Christine BUISSART",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "BORET",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe BORET",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DECOCK",
+          "prenom": "Nicole",
+          "nom_complet": "Nicole DECOCK",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "LEGROS",
+          "prenom": "Patrice",
+          "nom_complet": "Patrice LEGROS",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "HONDEMARCK",
+          "prenom": "Alicia",
+          "nom_complet": "Alicia HONDEMARCK",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "VANASSCHE",
+          "prenom": "Jean-Pierre",
+          "nom_complet": "Jean-Pierre VANASSCHE",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "MORTIER",
+          "prenom": "Charlotte",
+          "nom_complet": "Charlotte MORTIER",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "LEY",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric LEY",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "MALCUIT",
+          "prenom": "Mélanie",
+          "nom_complet": "Mélanie MALCUIT",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "FRANCHOIS",
+          "prenom": "Régis",
+          "nom_complet": "Régis FRANCHOIS",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "DALLET",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie DALLET",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "BERNARD",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent BERNARD",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "code_commune": "62097",
+  "commune": "Beaumetz-lès-Loges",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "DE GUILLEBON DE RESNES",
+    "prenom": "Christophe",
+    "nom_complet": "Christophe DE GUILLEBON DE RESNES",
+    "age": 58,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 820,
+    "votants": 454,
+    "pct_votants": 55.37,
+    "abstentions": 366,
+    "pct_abstentions": 44.63,
+    "exprimes": 364
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "VIVRE ET AGIR POUR BEAUMETZ-LES-LOGES",
+      "libelle_abrege_liste": "VIVRE ET AGIR POUR BEAUMETZ-LES-LOGES",
+      "nuance_liste": null,
+      "voix": 364,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": 1,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "DE GUILLEBON DE RESNES",
+        "prenom": "Christophe",
+        "nom_complet": "Christophe DE GUILLEBON DE RESNES",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DE GUILLEBON DE RESNES",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe DE GUILLEBON DE RESNES",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DEBASSEUX",
+          "prenom": "Elisabeth",
+          "nom_complet": "Elisabeth DEBASSEUX",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "ANSQUIN",
+          "prenom": "Jean-Michel",
+          "nom_complet": "Jean-Michel ANSQUIN",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "TABARY",
+          "prenom": "Delphine",
+          "nom_complet": "Delphine TABARY",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "VEGH",
+          "prenom": "Raphael",
+          "nom_complet": "Raphael VEGH",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "BALAVOINE",
+          "prenom": "Virginie",
+          "nom_complet": "Virginie BALAVOINE",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "SALÉ",
+          "prenom": "Christian",
+          "nom_complet": "Christian SALÉ",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "MOTTE",
+          "prenom": "Bénédicte",
+          "nom_complet": "Bénédicte MOTTE",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "ANDRIEU",
+          "prenom": "Lucien",
+          "nom_complet": "Lucien ANDRIEU",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "COURBET",
+          "prenom": "Julie",
+          "nom_complet": "Julie COURBET",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "PERNOT",
+          "prenom": "Yannick",
+          "nom_complet": "Yannick PERNOT",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "LITMANOWSKI-MASSELOT",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique LITMANOWSKI-MASSELOT",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "BRULIN",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe BRULIN",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "JOURDAIN",
+          "prenom": "Aurélia",
+          "nom_complet": "Aurélia JOURDAIN",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "JESUPRET",
+          "prenom": "Arnaud",
+          "nom_complet": "Arnaud JESUPRET",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

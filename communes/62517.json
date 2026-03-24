@@ -1,0 +1,131 @@
+{
+  "code_commune": "62517",
+  "commune": "Linghem",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "SLIWINSKI",
+    "prenom": "Mickaël",
+    "nom_complet": "Mickaël SLIWINSKI",
+    "age": 35,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 193,
+    "votants": 135,
+    "pct_votants": 69.95,
+    "abstentions": 58,
+    "pct_abstentions": 30.05,
+    "exprimes": 113
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "LINGHEM ON L'AIME 2026",
+      "libelle_abrege_liste": "LINGHEM ON L'AIME 2026",
+      "nuance_liste": null,
+      "voix": 113,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "SLIWINSKI",
+        "prenom": "Mickaël",
+        "nom_complet": "Mickaël SLIWINSKI",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "SLIWINSKI",
+          "prenom": "Mickaël",
+          "nom_complet": "Mickaël SLIWINSKI",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "FLEURY",
+          "prenom": "Emmeline",
+          "nom_complet": "Emmeline FLEURY",
+          "sexe": "F",
+          "age": 28,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LECOMTE",
+          "prenom": "Alexis",
+          "nom_complet": "Alexis LECOMTE",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DELANNOY",
+          "prenom": "Brigitte",
+          "nom_complet": "Brigitte DELANNOY",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "PRUVOST",
+          "prenom": "Charles",
+          "nom_complet": "Charles PRUVOST",
+          "sexe": "M",
+          "age": 33,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "SCAPPE",
+          "prenom": "Colette",
+          "nom_complet": "Colette SCAPPE",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "POCHOLLE",
+          "prenom": "Emmanuel",
+          "nom_complet": "Emmanuel POCHOLLE",
+          "sexe": "M",
+          "age": 28,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "BOUTRY",
+          "prenom": "Tiffany",
+          "nom_complet": "Tiffany BOUTRY",
+          "sexe": "F",
+          "age": 27,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "MARTEL",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas MARTEL",
+          "sexe": "M",
+          "age": 32,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DELATTRE",
+          "prenom": "Fanny",
+          "nom_complet": "Fanny DELATTRE",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DELBREUVE",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas DELBREUVE",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

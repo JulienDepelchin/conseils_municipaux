@@ -1,0 +1,183 @@
+{
+  "code_commune": "59617",
+  "commune": "Vieux-Mesnil",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "LIENARD",
+    "prenom": "Alain",
+    "nom_complet": "Alain LIENARD",
+    "age": 78,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 460,
+    "votants": 374,
+    "pct_votants": 81.3,
+    "abstentions": 86,
+    "pct_abstentions": 18.7,
+    "exprimes": 359
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Expérience et Ambition",
+      "libelle_abrege_liste": "Expérience et Ambition",
+      "nuance_liste": null,
+      "voix": 218,
+      "pct_voix_exprimes": 60.72,
+      "sieges_cm": 12,
+      "sieges_cc": null,
+      "nb_elus": 12,
+      "tete_de_liste": {
+        "nom": "LIENARD",
+        "prenom": "Alain",
+        "nom_complet": "Alain LIENARD",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LIENARD",
+          "prenom": "Alain",
+          "nom_complet": "Alain LIENARD",
+          "sexe": "M",
+          "age": 78,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "CAPELLE",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle CAPELLE",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BELAZIZ",
+          "prenom": "Grégory",
+          "nom_complet": "Grégory BELAZIZ",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "AUQUIERT",
+          "prenom": "Céline",
+          "nom_complet": "Céline AUQUIERT",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "FERRIER",
+          "prenom": "Jérôme",
+          "nom_complet": "Jérôme FERRIER",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "PENIN",
+          "prenom": "Denise",
+          "nom_complet": "Denise PENIN",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "PERON",
+          "prenom": "Pierre",
+          "nom_complet": "Pierre PERON",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "RAUX",
+          "prenom": "Jessica",
+          "nom_complet": "Jessica RAUX",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "CASTEL",
+          "prenom": "François",
+          "nom_complet": "François CASTEL",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DREMEAUX",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie DREMEAUX",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "HENRY",
+          "prenom": "Dominic",
+          "nom_complet": "Dominic HENRY",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "LEFRANC",
+          "prenom": "Audrey",
+          "nom_complet": "Audrey LEFRANC",
+          "sexe": "F",
+          "age": 28,
+          "rang_liste": "12"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "VIEUX-MESNIL AUTREMENT",
+      "libelle_abrege_liste": "VIEUX-MESNIL AUTREMENT",
+      "nuance_liste": null,
+      "voix": 141,
+      "pct_voix_exprimes": 39.28,
+      "sieges_cm": 3,
+      "sieges_cc": null,
+      "nb_elus": 3,
+      "tete_de_liste": {
+        "nom": "MOTTE",
+        "prenom": "Didier",
+        "nom_complet": "Didier MOTTE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "MOTTE",
+          "prenom": "Didier",
+          "nom_complet": "Didier MOTTE",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "PHILIPPE",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie PHILIPPE",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DEMARQUET",
+          "prenom": "Michel",
+          "nom_complet": "Michel DEMARQUET",
+          "sexe": "M",
+          "age": 76,
+          "rang_liste": "3"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

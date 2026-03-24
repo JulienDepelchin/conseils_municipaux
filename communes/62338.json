@@ -1,0 +1,247 @@
+{
+  "code_commune": "62338",
+  "commune": "Fleurbaix",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "BREMENT",
+    "prenom": "Thierry",
+    "nom_complet": "Thierry BREMENT",
+    "age": 62,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 2481,
+    "votants": 1724,
+    "pct_votants": 69.49,
+    "abstentions": 757,
+    "pct_abstentions": 30.51,
+    "exprimes": 1682
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "FLEURBAIX C'EST VOUS ! ENSEMBLE POUR UN VILLAGE QUI NOUS RASSEMBLE",
+      "libelle_abrege_liste": "FLEURBAIX C'EST VOUS ! ENSEMBLE POUR UN VILLAGE QUI NOUS RASSEMBLE",
+      "nuance_liste": null,
+      "voix": 931,
+      "pct_voix_exprimes": 55.35,
+      "sieges_cm": 18,
+      "sieges_cc": 2,
+      "nb_elus": 18,
+      "tete_de_liste": {
+        "nom": "BREMENT",
+        "prenom": "Thierry",
+        "nom_complet": "Thierry BREMENT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BREMENT",
+          "prenom": "Thierry",
+          "nom_complet": "Thierry BREMENT",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DELANNOY",
+          "prenom": "Christelle",
+          "nom_complet": "Christelle DELANNOY",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BAILLION",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier BAILLION",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BAILLEUL",
+          "prenom": "Véronique",
+          "nom_complet": "Véronique BAILLEUL",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "COTTIGNY",
+          "prenom": "François-Xavier",
+          "nom_complet": "François-Xavier COTTIGNY",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "GASNIER",
+          "prenom": "Sophie",
+          "nom_complet": "Sophie GASNIER",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "PEGASE",
+          "prenom": "Arnaud",
+          "nom_complet": "Arnaud PEGASE",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LEGRAND",
+          "prenom": "Cindy",
+          "nom_complet": "Cindy LEGRAND",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "CRETON",
+          "prenom": "Mathieu",
+          "nom_complet": "Mathieu CRETON",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "LEMAIRE",
+          "prenom": "Alexandra",
+          "nom_complet": "Alexandra LEMAIRE",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DUFOUR",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe DUFOUR",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "POILLON",
+          "prenom": "Christelle",
+          "nom_complet": "Christelle POILLON",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "PRUM",
+          "prenom": "Emilien",
+          "nom_complet": "Emilien PRUM",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "DELESALLE",
+          "prenom": "Coralie",
+          "nom_complet": "Coralie DELESALLE",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "LIETAER",
+          "prenom": "Richard",
+          "nom_complet": "Richard LIETAER",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "HIMPENS",
+          "prenom": "Virginie",
+          "nom_complet": "Virginie HIMPENS",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "COLLARD",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe COLLARD",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "LUCHART",
+          "prenom": "Valérie",
+          "nom_complet": "Valérie LUCHART",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "18"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "UNE EQUIPE A VOS COTES POUR L'AVENIR DE FLEURBAIX",
+      "libelle_abrege_liste": "UNE EQUIPE A VOS COTES POUR L'AVENIR DE FLEURBAIX",
+      "nuance_liste": null,
+      "voix": 751,
+      "pct_voix_exprimes": 44.65,
+      "sieges_cm": 5,
+      "sieges_cc": 1,
+      "nb_elus": 5,
+      "tete_de_liste": {
+        "nom": "LELEU",
+        "prenom": "Mathieu",
+        "nom_complet": "Mathieu LELEU",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LELEU",
+          "prenom": "Mathieu",
+          "nom_complet": "Mathieu LELEU",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DOUALE",
+          "prenom": "Laurence",
+          "nom_complet": "Laurence DOUALE",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "ROGER",
+          "prenom": "Sylvain",
+          "nom_complet": "Sylvain ROGER",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "COUSTENOBLE",
+          "prenom": "Marion",
+          "nom_complet": "Marion COUSTENOBLE",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DONZE",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe DONZE",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "5"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

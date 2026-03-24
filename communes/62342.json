@@ -1,0 +1,99 @@
+{
+  "code_commune": "62342",
+  "commune": "Fontaine-lès-Boulans",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "ROLAND",
+    "prenom": "Anthony",
+    "nom_complet": "Anthony ROLAND",
+    "age": 40,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 81,
+    "votants": 56,
+    "pct_votants": 69.14,
+    "abstentions": 25,
+    "pct_abstentions": 30.86,
+    "exprimes": 30
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "LISTE COMMUNALE DE FONTAINE-LES-BOULANS",
+      "libelle_abrege_liste": "LISTE COMMUNALE DE FONTAINE-LES-BOULANS",
+      "nuance_liste": null,
+      "voix": 30,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 7,
+      "sieges_cc": null,
+      "nb_elus": 7,
+      "tete_de_liste": {
+        "nom": "ROLAND",
+        "prenom": "Anthony",
+        "nom_complet": "Anthony ROLAND",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "ROLAND",
+          "prenom": "Anthony",
+          "nom_complet": "Anthony ROLAND",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "HOURRIEZ",
+          "prenom": "Sandrine",
+          "nom_complet": "Sandrine HOURRIEZ",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "CRETEL",
+          "prenom": "Jean-Pierre",
+          "nom_complet": "Jean-Pierre CRETEL",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "CRETEL",
+          "prenom": "Cécile",
+          "nom_complet": "Cécile CRETEL",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "CAMBRON",
+          "prenom": "Jean-Claude",
+          "nom_complet": "Jean-Claude CAMBRON",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "KADLUCZKA",
+          "prenom": "Mélanie",
+          "nom_complet": "Mélanie KADLUCZKA",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "CAMBRON",
+          "prenom": "Guillaume",
+          "nom_complet": "Guillaume CAMBRON",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "7"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

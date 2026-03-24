@@ -1,0 +1,131 @@
+{
+  "code_commune": "62749",
+  "commune": "Saint-Georges",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "DEVAUX",
+    "prenom": "Gauthier",
+    "nom_complet": "Gauthier DEVAUX",
+    "age": 30,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 259,
+    "votants": 157,
+    "pct_votants": 60.62,
+    "abstentions": 102,
+    "pct_abstentions": 39.38,
+    "exprimes": 123
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ENSEMBLE POUR SAINT-GEORGES",
+      "libelle_abrege_liste": "ENSEMBLE POUR SAINT-GEORGES",
+      "nuance_liste": null,
+      "voix": 123,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "DEVAUX",
+        "prenom": "Gauthier",
+        "nom_complet": "Gauthier DEVAUX",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DEVAUX",
+          "prenom": "Gauthier",
+          "nom_complet": "Gauthier DEVAUX",
+          "sexe": "M",
+          "age": 30,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "TOURBE",
+          "prenom": "Anais",
+          "nom_complet": "Anais TOURBE",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "ETIENNE",
+          "prenom": "Benoit",
+          "nom_complet": "Benoit ETIENNE",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "COLLET",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle COLLET",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DERANCOURT",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe DERANCOURT",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LEROY",
+          "prenom": "Anne",
+          "nom_complet": "Anne LEROY",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "LIMANTOUR",
+          "prenom": "Jean-Paul",
+          "nom_complet": "Jean-Paul LIMANTOUR",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "BACLET",
+          "prenom": "Martine",
+          "nom_complet": "Martine BACLET",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "RENARD",
+          "prenom": "Vincent",
+          "nom_complet": "Vincent RENARD",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "SIMON",
+          "prenom": "Laetita",
+          "nom_complet": "Laetita SIMON",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "JANSENS",
+          "prenom": "Simon",
+          "nom_complet": "Simon JANSENS",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

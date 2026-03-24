@@ -1,0 +1,163 @@
+{
+  "code_commune": "59623",
+  "commune": "Villers-Guislain",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "SELOSSE",
+    "prenom": "Jean-Marc",
+    "nom_complet": "Jean-Marc SELOSSE",
+    "age": 62,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 541,
+    "votants": 319,
+    "pct_votants": 58.96,
+    "abstentions": 222,
+    "pct_abstentions": 41.04,
+    "exprimes": 264
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "VIVRE ET AVANCER ENSEMBLE.",
+      "libelle_abrege_liste": "VIVRE ET AVANCER ENSEMBLE",
+      "nuance_liste": null,
+      "voix": 264,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "SELOSSE",
+        "prenom": "Jean-Marc",
+        "nom_complet": "Jean-Marc SELOSSE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "SELOSSE",
+          "prenom": "Jean-Marc",
+          "nom_complet": "Jean-Marc SELOSSE",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DEVOS",
+          "prenom": "Emmanuelle",
+          "nom_complet": "Emmanuelle DEVOS",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "PELLETIER",
+          "prenom": "Yoan",
+          "nom_complet": "Yoan PELLETIER",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "CENT",
+          "prenom": "Vanessa",
+          "nom_complet": "Vanessa CENT",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "PRÉVOT",
+          "prenom": "Matthieu",
+          "nom_complet": "Matthieu PRÉVOT",
+          "sexe": "M",
+          "age": 31,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LANCELLE",
+          "prenom": "Juliette",
+          "nom_complet": "Juliette LANCELLE",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "CAULE",
+          "prenom": "Martin",
+          "nom_complet": "Martin CAULE",
+          "sexe": "M",
+          "age": 24,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "CAULE",
+          "prenom": "Magali",
+          "nom_complet": "Magali CAULE",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "GRAUX",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier GRAUX",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "BARBARE",
+          "prenom": "Romane",
+          "nom_complet": "Romane BARBARE",
+          "sexe": "F",
+          "age": 32,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "BÉZET",
+          "prenom": "Michaël",
+          "nom_complet": "Michaël BÉZET",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "TURSKI",
+          "prenom": "Marie",
+          "nom_complet": "Marie TURSKI",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "WAGNIER",
+          "prenom": "Vincent",
+          "nom_complet": "Vincent WAGNIER",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "VERMERSCH",
+          "prenom": "Lucile",
+          "nom_complet": "Lucile VERMERSCH",
+          "sexe": "F",
+          "age": 31,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "FICHAUX",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick FICHAUX",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

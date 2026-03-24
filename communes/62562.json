@@ -1,0 +1,151 @@
+{
+  "code_commune": "62562",
+  "commune": "Matringhem",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "DOUTRIAUX",
+    "prenom": "Michel",
+    "nom_complet": "Michel DOUTRIAUX",
+    "age": 69,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 157,
+    "votants": 145,
+    "pct_votants": 92.36,
+    "abstentions": 12,
+    "pct_abstentions": 7.64,
+    "exprimes": 138
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "Un nouveau souffle pour MATRINGHEM",
+      "libelle_abrege_liste": "Un nouveau souffle pour MATRINGHEM",
+      "nuance_liste": null,
+      "voix": 77,
+      "pct_voix_exprimes": 55.8,
+      "sieges_cm": 9,
+      "sieges_cc": null,
+      "nb_elus": 9,
+      "tete_de_liste": {
+        "nom": "DOUTRIAUX",
+        "prenom": "Michel",
+        "nom_complet": "Michel DOUTRIAUX",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DOUTRIAUX",
+          "prenom": "Michel",
+          "nom_complet": "Michel DOUTRIAUX",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "CREPIN",
+          "prenom": "Séverine",
+          "nom_complet": "Séverine CREPIN",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LEBAS",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe LEBAS",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "WALKOWIAK",
+          "prenom": "Marion",
+          "nom_complet": "Marion WALKOWIAK",
+          "sexe": "F",
+          "age": 27,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "VAN OOST",
+          "prenom": "Alain",
+          "nom_complet": "Alain VAN OOST",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "KANAL",
+          "prenom": "Océane",
+          "nom_complet": "Océane KANAL",
+          "sexe": "F",
+          "age": 23,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "LORTHIOS",
+          "prenom": "Julien",
+          "nom_complet": "Julien LORTHIOS",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LEBAS",
+          "prenom": "Sonia",
+          "nom_complet": "Sonia LEBAS",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "LEMOINE",
+          "prenom": "Kévin",
+          "nom_complet": "Kévin LEMOINE",
+          "sexe": "M",
+          "age": 29,
+          "rang_liste": "9"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "UNION ET TRANSPARENCE POUR MATRINGHEM",
+      "libelle_abrege_liste": "UNION ET TRANSPARENCE POUR MATRINGHEM",
+      "nuance_liste": null,
+      "voix": 61,
+      "pct_voix_exprimes": 44.2,
+      "sieges_cm": 2,
+      "sieges_cc": null,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "DENEUVEGLISE",
+        "prenom": "Marianne",
+        "nom_complet": "Marianne DENEUVEGLISE",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "DENEUVEGLISE",
+          "prenom": "Marianne",
+          "nom_complet": "Marianne DENEUVEGLISE",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DUGARDIN",
+          "prenom": "Jean-Paul",
+          "nom_complet": "Jean-Paul DUGARDIN",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

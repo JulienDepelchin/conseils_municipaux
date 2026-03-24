@@ -1,0 +1,131 @@
+{
+  "code_commune": "62881",
+  "commune": "Beauvoir-Wavans",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "FOURDRINIER",
+    "prenom": "Marc",
+    "nom_complet": "Marc FOURDRINIER",
+    "age": 69,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 252,
+    "votants": 164,
+    "pct_votants": 65.08,
+    "abstentions": 88,
+    "pct_abstentions": 34.92,
+    "exprimes": 121
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Ensemble, imaginons demain...",
+      "libelle_abrege_liste": "Ensemble, imaginons demain...",
+      "nuance_liste": null,
+      "voix": 121,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "FOURDRINIER",
+        "prenom": "Marc",
+        "nom_complet": "Marc FOURDRINIER",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "FOURDRINIER",
+          "prenom": "Marc",
+          "nom_complet": "Marc FOURDRINIER",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "CHOQUET",
+          "prenom": "Armelle",
+          "nom_complet": "Armelle CHOQUET",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "ROUGEGREZ",
+          "prenom": "Yann",
+          "nom_complet": "Yann ROUGEGREZ",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LELEU-VIN",
+          "prenom": "Frédérique",
+          "nom_complet": "Frédérique LELEU-VIN",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "THUILLEZ",
+          "prenom": "Jean-Sébastien",
+          "nom_complet": "Jean-Sébastien THUILLEZ",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "FOURDRINIER",
+          "prenom": "Arlette",
+          "nom_complet": "Arlette FOURDRINIER",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "FOURNIER",
+          "prenom": "Jean-Marie",
+          "nom_complet": "Jean-Marie FOURNIER",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "BADIE",
+          "prenom": "Maryse",
+          "nom_complet": "Maryse BADIE",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "COQUART",
+          "prenom": "Antony",
+          "nom_complet": "Antony COQUART",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "FRELIER",
+          "prenom": "Delphine",
+          "nom_complet": "Delphine FRELIER",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "BOUCHER",
+          "prenom": "Jérémy",
+          "nom_complet": "Jérémy BOUCHER",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

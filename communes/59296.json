@@ -1,0 +1,131 @@
+{
+  "code_commune": "59296",
+  "commune": "Hecq",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "MORTELETTE",
+    "prenom": "Eric",
+    "nom_complet": "Eric MORTELETTE",
+    "age": 68,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 297,
+    "votants": 176,
+    "pct_votants": 59.26,
+    "abstentions": 121,
+    "pct_abstentions": 40.74,
+    "exprimes": 168
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Agir et Réussir, Ensemble, pour HECQ",
+      "libelle_abrege_liste": "Agir et Réussir, Ensemble, pour HECQ",
+      "nuance_liste": null,
+      "voix": 168,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "MORTELETTE",
+        "prenom": "Eric",
+        "nom_complet": "Eric MORTELETTE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "MORTELETTE",
+          "prenom": "Eric",
+          "nom_complet": "Eric MORTELETTE",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "SCLAVON",
+          "prenom": "Mélanie",
+          "nom_complet": "Mélanie SCLAVON",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BUISSE",
+          "prenom": "Jérémy",
+          "nom_complet": "Jérémy BUISSE",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "CASBAS",
+          "prenom": "Maryse",
+          "nom_complet": "Maryse CASBAS",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "VALLIANDET",
+          "prenom": "Samuel",
+          "nom_complet": "Samuel VALLIANDET",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "BOURSIEZ",
+          "prenom": "Magalie",
+          "nom_complet": "Magalie BOURSIEZ",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "CASBAS",
+          "prenom": "Sébastien",
+          "nom_complet": "Sébastien CASBAS",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "RAIMBAULT",
+          "prenom": "Axelle",
+          "nom_complet": "Axelle RAIMBAULT",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "MARECHAL",
+          "prenom": "Sébastien",
+          "nom_complet": "Sébastien MARECHAL",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "LAUDE",
+          "prenom": "Astrid",
+          "nom_complet": "Astrid LAUDE",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "BECART",
+          "prenom": "Maxime",
+          "nom_complet": "Maxime BECART",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

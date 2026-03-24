@@ -1,0 +1,123 @@
+{
+  "code_commune": "62228",
+  "commune": "Clerques",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "DOMMANGET",
+    "prenom": "Aurélien",
+    "nom_complet": "Aurélien DOMMANGET",
+    "age": 43,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 242,
+    "votants": 166,
+    "pct_votants": 68.6,
+    "abstentions": 76,
+    "pct_abstentions": 31.4,
+    "exprimes": 129
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Bien vivre à CLERQUES 2026",
+      "libelle_abrege_liste": "Bien vivre à CLERQUES 2026",
+      "nuance_liste": null,
+      "voix": 129,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 10,
+      "sieges_cc": null,
+      "nb_elus": 10,
+      "tete_de_liste": {
+        "nom": "DOMMANGET",
+        "prenom": "Aurélien",
+        "nom_complet": "Aurélien DOMMANGET",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DOMMANGET",
+          "prenom": "Aurélien",
+          "nom_complet": "Aurélien DOMMANGET",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "PARREIN",
+          "prenom": "Carole",
+          "nom_complet": "Carole PARREIN",
+          "sexe": "F",
+          "age": 70,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "SGARD",
+          "prenom": "Maxime",
+          "nom_complet": "Maxime SGARD",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "POISSONNIER",
+          "prenom": "Julie",
+          "nom_complet": "Julie POISSONNIER",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DESSEIN",
+          "prenom": "Joël",
+          "nom_complet": "Joël DESSEIN",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LEFEBVRE",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie LEFEBVRE",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DUBOIS",
+          "prenom": "David",
+          "nom_complet": "David DUBOIS",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "CURTELIN",
+          "prenom": "Brigitte",
+          "nom_complet": "Brigitte CURTELIN",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "LEBRUN",
+          "prenom": "Guillaume",
+          "nom_complet": "Guillaume LEBRUN",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "D'ANDREA",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie D'ANDREA",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "10"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

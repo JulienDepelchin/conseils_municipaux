@@ -1,0 +1,183 @@
+{
+  "code_commune": "62205",
+  "commune": "Campagne-lès-Wardrecques",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "AGEORGES",
+    "prenom": "Benoît",
+    "nom_complet": "Benoît AGEORGES",
+    "age": 53,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1025,
+    "votants": 788,
+    "pct_votants": 76.88,
+    "abstentions": 237,
+    "pct_abstentions": 23.12,
+    "exprimes": 756
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "CONTINUONS POUR L'AVENIR DE CAMPAGNE LES WARDRECQUES",
+      "libelle_abrege_liste": "CONTINUONS POUR L'AVENIR DE CAMPAGNE LES WARDRECQUES",
+      "nuance_liste": null,
+      "voix": 480,
+      "pct_voix_exprimes": 63.49,
+      "sieges_cm": 13,
+      "sieges_cc": 1,
+      "nb_elus": 13,
+      "tete_de_liste": {
+        "nom": "AGEORGES",
+        "prenom": "Benoît",
+        "nom_complet": "Benoît AGEORGES",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "AGEORGES",
+          "prenom": "Benoît",
+          "nom_complet": "Benoît AGEORGES",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "RETAUX",
+          "prenom": "Annabelle",
+          "nom_complet": "Annabelle RETAUX",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "REGOST",
+          "prenom": "Claude",
+          "nom_complet": "Claude REGOST",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "CLEENEWERCK",
+          "prenom": "Marie-Hélène",
+          "nom_complet": "Marie-Hélène CLEENEWERCK",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "NAWROCKI",
+          "prenom": "Benjamin",
+          "nom_complet": "Benjamin NAWROCKI",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "TOULOTTE",
+          "prenom": "Sophie",
+          "nom_complet": "Sophie TOULOTTE",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "MERLIER",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe MERLIER",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "CRESSON",
+          "prenom": "Karine",
+          "nom_complet": "Karine CRESSON",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "LANVIN",
+          "prenom": "Emmanuel",
+          "nom_complet": "Emmanuel LANVIN",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "GOEUSSE",
+          "prenom": "Camille",
+          "nom_complet": "Camille GOEUSSE",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DELABY",
+          "prenom": "Roland",
+          "nom_complet": "Roland DELABY",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "BOIN",
+          "prenom": "Melissa",
+          "nom_complet": "Melissa BOIN",
+          "sexe": "F",
+          "age": 33,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "LEGRAND",
+          "prenom": "Cédric",
+          "nom_complet": "Cédric LEGRAND",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "13"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "La Relève",
+      "libelle_abrege_liste": "La Relève",
+      "nuance_liste": null,
+      "voix": 276,
+      "pct_voix_exprimes": 36.51,
+      "sieges_cm": 2,
+      "sieges_cc": 0,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "HERENGUEL",
+        "prenom": "Gauthier",
+        "nom_complet": "Gauthier HERENGUEL",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "HERENGUEL",
+          "prenom": "Gauthier",
+          "nom_complet": "Gauthier HERENGUEL",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DELOBEL",
+          "prenom": "Delphine",
+          "nom_complet": "Delphine DELOBEL",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

@@ -1,0 +1,247 @@
+{
+  "code_commune": "59331",
+  "commune": "Landrecies",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "ERLEM",
+    "prenom": "François",
+    "nom_complet": "François ERLEM",
+    "age": 41,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 2564,
+    "votants": 1574,
+    "pct_votants": 61.39,
+    "abstentions": 990,
+    "pct_abstentions": 38.61,
+    "exprimes": 1536
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Landrecies encore plus attractive, durable et solidaire",
+      "libelle_abrege_liste": "Landrecies encore plus attractive, durable et solidaire",
+      "nuance_liste": null,
+      "voix": 1153,
+      "pct_voix_exprimes": 75.07,
+      "sieges_cm": 21,
+      "sieges_cc": 5,
+      "nb_elus": 21,
+      "tete_de_liste": {
+        "nom": "ERLEM",
+        "prenom": "François",
+        "nom_complet": "François ERLEM",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "ERLEM",
+          "prenom": "François",
+          "nom_complet": "François ERLEM",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DUPUITS",
+          "prenom": "Françoise",
+          "nom_complet": "Françoise DUPUITS",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DUPIRE",
+          "prenom": "Francis",
+          "nom_complet": "Francis DUPIRE",
+          "sexe": "M",
+          "age": 76,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "RICHARD",
+          "prenom": "Fanny",
+          "nom_complet": "Fanny RICHARD",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LACAILLE",
+          "prenom": "Xavier",
+          "nom_complet": "Xavier LACAILLE",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "SOIGNEUX",
+          "prenom": "Virginie",
+          "nom_complet": "Virginie SOIGNEUX",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "ARNOLD",
+          "prenom": "Mathieu",
+          "nom_complet": "Mathieu ARNOLD",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "MOREAU",
+          "prenom": "Marianne",
+          "nom_complet": "Marianne MOREAU",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "CAULLERY",
+          "prenom": "Jean-Michel",
+          "nom_complet": "Jean-Michel CAULLERY",
+          "sexe": "M",
+          "age": 27,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "MERCIER",
+          "prenom": "Sandrine",
+          "nom_complet": "Sandrine MERCIER",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "GREVIN",
+          "prenom": "Francis",
+          "nom_complet": "Francis GREVIN",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "MONIER",
+          "prenom": "Audrey",
+          "nom_complet": "Audrey MONIER",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "MUSY",
+          "prenom": "Jason",
+          "nom_complet": "Jason MUSY",
+          "sexe": "M",
+          "age": 30,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "MARECHAL",
+          "prenom": "Anne-Françoise",
+          "nom_complet": "Anne-Françoise MARECHAL",
+          "sexe": "F",
+          "age": 71,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "LASSELLE",
+          "prenom": "Gregory",
+          "nom_complet": "Gregory LASSELLE",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "HENNEBERT",
+          "prenom": "Sabine",
+          "nom_complet": "Sabine HENNEBERT",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "LEMAIRE",
+          "prenom": "Michel",
+          "nom_complet": "Michel LEMAIRE",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "BRUY",
+          "prenom": "Danielle",
+          "nom_complet": "Danielle BRUY",
+          "sexe": "F",
+          "age": 71,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "SANSONE",
+          "prenom": "Antoine",
+          "nom_complet": "Antoine SANSONE",
+          "sexe": "M",
+          "age": 22,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "SAMSON",
+          "prenom": "Delphine",
+          "nom_complet": "Delphine SAMSON",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "POLLART",
+          "prenom": "Romain",
+          "nom_complet": "Romain POLLART",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "21"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "Réveiller Landrecies",
+      "libelle_abrege_liste": "Réveiller Landrecies",
+      "nuance_liste": null,
+      "voix": 383,
+      "pct_voix_exprimes": 24.93,
+      "sieges_cm": 2,
+      "sieges_cc": 0,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "ALLIOT",
+        "prenom": "Frédéric",
+        "nom_complet": "Frédéric ALLIOT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "ALLIOT",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric ALLIOT",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BEAUDON",
+          "prenom": "Gwenaelle",
+          "nom_complet": "Gwenaelle BEAUDON",
+          "sexe": "F",
+          "age": 33,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

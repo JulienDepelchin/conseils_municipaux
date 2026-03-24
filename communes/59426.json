@@ -1,0 +1,307 @@
+{
+  "code_commune": "59426",
+  "commune": "Neuville-en-Ferrain",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "TONNERRE DESMET",
+    "prenom": "Marie",
+    "nom_complet": "Marie TONNERRE DESMET",
+    "age": 55,
+    "nuance": "LDVD"
+  },
+  "resultats": {
+    "inscrits": 8525,
+    "votants": 3470,
+    "pct_votants": 40.7,
+    "abstentions": 5055,
+    "pct_abstentions": 59.3,
+    "exprimes": 3082
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "NEUVILLE À VENIR",
+      "libelle_abrege_liste": "NEUVILLE À VENIR",
+      "nuance_liste": "LDVD",
+      "voix": 3082,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 33,
+      "sieges_cc": 1,
+      "nb_elus": 33,
+      "tete_de_liste": {
+        "nom": "TONNERRE DESMET",
+        "prenom": "Marie",
+        "nom_complet": "Marie TONNERRE DESMET",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "TONNERRE DESMET",
+          "prenom": "Marie",
+          "nom_complet": "Marie TONNERRE DESMET",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "RIME",
+          "prenom": "Alain",
+          "nom_complet": "Alain RIME",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "HEYE",
+          "prenom": "Marylène",
+          "nom_complet": "Marylène HEYE",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "VANELSLANDE",
+          "prenom": "Thierry",
+          "nom_complet": "Thierry VANELSLANDE",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LAPERE",
+          "prenom": "Aurélie",
+          "nom_complet": "Aurélie LAPERE",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "BALDUYCK",
+          "prenom": "Marco",
+          "nom_complet": "Marco BALDUYCK",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "VERVAEKE",
+          "prenom": "Marie-Stéphanie",
+          "nom_complet": "Marie-Stéphanie VERVAEKE",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DELCOUR",
+          "prenom": "Arnaud",
+          "nom_complet": "Arnaud DELCOUR",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "ARQUIER",
+          "prenom": "Apolline",
+          "nom_complet": "Apolline ARQUIER",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DELPLANQUE",
+          "prenom": "Robin",
+          "nom_complet": "Robin DELPLANQUE",
+          "sexe": "M",
+          "age": 32,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "CANTON",
+          "prenom": "Sophie",
+          "nom_complet": "Sophie CANTON",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "VYNCKIER-LOBROS",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe VYNCKIER-LOBROS",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "VERISSIMO",
+          "prenom": "Anne",
+          "nom_complet": "Anne VERISSIMO",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "COUPE",
+          "prenom": "Jimmy",
+          "nom_complet": "Jimmy COUPE",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "DELPLANQUE",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie DELPLANQUE",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "NEIRINCKX",
+          "prenom": "Rémy",
+          "nom_complet": "Rémy NEIRINCKX",
+          "sexe": "M",
+          "age": 27,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "DESRUMEAUX",
+          "prenom": "Maria Pilar",
+          "nom_complet": "Maria Pilar DESRUMEAUX",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "HAEUW",
+          "prenom": "Benjamin",
+          "nom_complet": "Benjamin HAEUW",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "BELE",
+          "prenom": "Sophie",
+          "nom_complet": "Sophie BELE",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "BOURGEOIS",
+          "prenom": "Yann",
+          "nom_complet": "Yann BOURGEOIS",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "AUBERT",
+          "prenom": "Céline",
+          "nom_complet": "Céline AUBERT",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "LEMAY",
+          "prenom": "Jérôme",
+          "nom_complet": "Jérôme LEMAY",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "DENYS",
+          "prenom": "Lilliane",
+          "nom_complet": "Lilliane DENYS",
+          "sexe": "F",
+          "age": 80,
+          "rang_liste": "23"
+        },
+        {
+          "nom": "DECOTTIGNIES",
+          "prenom": "Florent",
+          "nom_complet": "Florent DECOTTIGNIES",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "24"
+        },
+        {
+          "nom": "HAEUW",
+          "prenom": "Caroline",
+          "nom_complet": "Caroline HAEUW",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "25"
+        },
+        {
+          "nom": "DEWAELE",
+          "prenom": "Julien",
+          "nom_complet": "Julien DEWAELE",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "26"
+        },
+        {
+          "nom": "JOUMIER",
+          "prenom": "Camille",
+          "nom_complet": "Camille JOUMIER",
+          "sexe": "F",
+          "age": 31,
+          "rang_liste": "27"
+        },
+        {
+          "nom": "MIGNOT",
+          "prenom": "Gautier",
+          "nom_complet": "Gautier MIGNOT",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "28"
+        },
+        {
+          "nom": "VANDOORNE",
+          "prenom": "Emmanuelle",
+          "nom_complet": "Emmanuelle VANDOORNE",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "29"
+        },
+        {
+          "nom": "SIX",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe SIX",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "30"
+        },
+        {
+          "nom": "VERBEKE",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle VERBEKE",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "31"
+        },
+        {
+          "nom": "LECRU",
+          "prenom": "Luc",
+          "nom_complet": "Luc LECRU",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "32"
+        },
+        {
+          "nom": "HEYMAN",
+          "prenom": "Claudine",
+          "nom_complet": "Claudine HEYMAN",
+          "sexe": "F",
+          "age": 77,
+          "rang_liste": "33"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

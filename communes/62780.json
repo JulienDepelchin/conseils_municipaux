@@ -1,0 +1,131 @@
+{
+  "code_commune": "62780",
+  "commune": "Sauchy-Cauchy",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "SENECHAL",
+    "prenom": "Julien",
+    "nom_complet": "Julien SENECHAL",
+    "age": 37,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 302,
+    "votants": 162,
+    "pct_votants": 53.64,
+    "abstentions": 140,
+    "pct_abstentions": 46.36,
+    "exprimes": 138
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "SAUCHY-CAUCHY, UNE NOUVELLE DYNAMIQUE !",
+      "libelle_abrege_liste": "SAUCHY-CAUCHY, UNE NOUVELLE DYNAMIQUE !",
+      "nuance_liste": null,
+      "voix": 138,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "SENECHAL",
+        "prenom": "Julien",
+        "nom_complet": "Julien SENECHAL",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "SENECHAL",
+          "prenom": "Julien",
+          "nom_complet": "Julien SENECHAL",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "MALVOISIN",
+          "prenom": "Francine",
+          "nom_complet": "Francine MALVOISIN",
+          "sexe": "F",
+          "age": 74,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "CARPENTIER",
+          "prenom": "Bernard",
+          "nom_complet": "Bernard CARPENTIER",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "MATHON",
+          "prenom": "Martine",
+          "nom_complet": "Martine MATHON",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "CLIQUE",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe CLIQUE",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "MAHIEUX",
+          "prenom": "Mathilde",
+          "nom_complet": "Mathilde MAHIEUX",
+          "sexe": "F",
+          "age": 33,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "SALMON",
+          "prenom": "Adam",
+          "nom_complet": "Adam SALMON",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "ADAMSKI",
+          "prenom": "Françoise",
+          "nom_complet": "Françoise ADAMSKI",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "BANAS",
+          "prenom": "Raphaël",
+          "nom_complet": "Raphaël BANAS",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "ROSSI",
+          "prenom": "Charlotte",
+          "nom_complet": "Charlotte ROSSI",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "SUDOLSKI",
+          "prenom": "Grégory",
+          "nom_complet": "Grégory SUDOLSKI",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

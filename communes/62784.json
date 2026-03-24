@@ -1,0 +1,163 @@
+{
+  "code_commune": "62784",
+  "commune": "Saulty",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "DESCAMPS",
+    "prenom": "Roland",
+    "nom_complet": "Roland DESCAMPS",
+    "age": 71,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 564,
+    "votants": 301,
+    "pct_votants": 53.37,
+    "abstentions": 263,
+    "pct_abstentions": 46.63,
+    "exprimes": 220
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Liste de Roland DESCAMPS",
+      "libelle_abrege_liste": "Liste de Roland DESCAMPS",
+      "nuance_liste": null,
+      "voix": 220,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "DESCAMPS",
+        "prenom": "Roland",
+        "nom_complet": "Roland DESCAMPS",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DESCAMPS",
+          "prenom": "Roland",
+          "nom_complet": "Roland DESCAMPS",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DOYELLE",
+          "prenom": "Melanie",
+          "nom_complet": "Melanie DOYELLE",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "CARON",
+          "prenom": "Eric",
+          "nom_complet": "Eric CARON",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "COFFIGNIEZ",
+          "prenom": "Martine",
+          "nom_complet": "Martine COFFIGNIEZ",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "CUVILLIER",
+          "prenom": "Quentin",
+          "nom_complet": "Quentin CUVILLIER",
+          "sexe": "M",
+          "age": 28,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "CAMPAGNE",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle CAMPAGNE",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DUPENT",
+          "prenom": "Adrien",
+          "nom_complet": "Adrien DUPENT",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DIERCKENS",
+          "prenom": "Jocelyne",
+          "nom_complet": "Jocelyne DIERCKENS",
+          "sexe": "F",
+          "age": 75,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "LECLERCQ",
+          "prenom": "Stéphane",
+          "nom_complet": "Stéphane LECLERCQ",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "LABIS",
+          "prenom": "Sandrine",
+          "nom_complet": "Sandrine LABIS",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "LEDRU",
+          "prenom": "Samuel",
+          "nom_complet": "Samuel LEDRU",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "SOYEZ",
+          "prenom": "Catherine",
+          "nom_complet": "Catherine SOYEZ",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "RAMON",
+          "prenom": "Manuel",
+          "nom_complet": "Manuel RAMON",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "VERDIN",
+          "prenom": "Lydie",
+          "nom_complet": "Lydie VERDIN",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "SEVIN",
+          "prenom": "Jean-Michel",
+          "nom_complet": "Jean-Michel SEVIN",
+          "sexe": "M",
+          "age": 76,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

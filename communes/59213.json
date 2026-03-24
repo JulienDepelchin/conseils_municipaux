@@ -1,0 +1,131 @@
+{
+  "code_commune": "59213",
+  "commune": "Estourmel",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "DELSART",
+    "prenom": "Bettina",
+    "nom_complet": "Bettina DELSART",
+    "age": 54,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 389,
+    "votants": 267,
+    "pct_votants": 68.64,
+    "abstentions": 122,
+    "pct_abstentions": 31.36,
+    "exprimes": 193
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Vivre ensemble à Estourmel",
+      "libelle_abrege_liste": "Vivre ensemble à Estourmel",
+      "nuance_liste": null,
+      "voix": 193,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "DELSART",
+        "prenom": "Bettina",
+        "nom_complet": "Bettina DELSART",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "DELSART",
+          "prenom": "Bettina",
+          "nom_complet": "Bettina DELSART",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LEFER",
+          "prenom": "Matthieu",
+          "nom_complet": "Matthieu LEFER",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "MARICHEZ",
+          "prenom": "Béatrice",
+          "nom_complet": "Béatrice MARICHEZ",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "POTEL",
+          "prenom": "Sébastien",
+          "nom_complet": "Sébastien POTEL",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "TREVISAN",
+          "prenom": "Marie-Catherine",
+          "nom_complet": "Marie-Catherine TREVISAN",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "TISON",
+          "prenom": "Mickaël",
+          "nom_complet": "Mickaël TISON",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DEPOMMIER",
+          "prenom": "Marion",
+          "nom_complet": "Marion DEPOMMIER",
+          "sexe": "F",
+          "age": 32,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "BINET",
+          "prenom": "Franck",
+          "nom_complet": "Franck BINET",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "OBERT",
+          "prenom": "Élodie",
+          "nom_complet": "Élodie OBERT",
+          "sexe": "F",
+          "age": 29,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DENHEZ",
+          "prenom": "Mickaël",
+          "nom_complet": "Mickaël DENHEZ",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "BELOT COUSIN",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique BELOT COUSIN",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

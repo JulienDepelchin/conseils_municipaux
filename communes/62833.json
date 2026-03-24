@@ -1,0 +1,99 @@
+{
+  "code_commune": "62833",
+  "commune": "Vacquerie-le-Boucq",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "TOUPET",
+    "prenom": "Nathalie",
+    "nom_complet": "Nathalie TOUPET",
+    "age": 51,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 64,
+    "votants": 48,
+    "pct_votants": 75,
+    "abstentions": 16,
+    "pct_abstentions": 25,
+    "exprimes": 44
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Pour Vacquerie le Boucq et ses habitants",
+      "libelle_abrege_liste": "Pour Vacquerie le Boucq et ses habitants",
+      "nuance_liste": null,
+      "voix": 44,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 7,
+      "sieges_cc": null,
+      "nb_elus": 7,
+      "tete_de_liste": {
+        "nom": "TOUPET",
+        "prenom": "Nathalie",
+        "nom_complet": "Nathalie TOUPET",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "TOUPET",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie TOUPET",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "FOUCONNIER",
+          "prenom": "Hervé",
+          "nom_complet": "Hervé FOUCONNIER",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BELVAS",
+          "prenom": "Laure",
+          "nom_complet": "Laure BELVAS",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BLOQUET",
+          "prenom": "David",
+          "nom_complet": "David BLOQUET",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "UZÉ",
+          "prenom": "Pascaline",
+          "nom_complet": "Pascaline UZÉ",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "BOQUET",
+          "prenom": "Guillaume",
+          "nom_complet": "Guillaume BOQUET",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "VALLERANT",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie VALLERANT",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "7"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

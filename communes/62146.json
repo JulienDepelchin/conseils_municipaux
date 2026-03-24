@@ -1,0 +1,131 @@
+{
+  "code_commune": "62146",
+  "commune": "Boiry-Saint-Martin",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "DELMOTTE",
+    "prenom": "Cédric",
+    "nom_complet": "Cédric DELMOTTE",
+    "age": 48,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 186,
+    "votants": 138,
+    "pct_votants": 74.19,
+    "abstentions": 48,
+    "pct_abstentions": 25.81,
+    "exprimes": 125
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "UNI-E-S POUR BOIRY",
+      "libelle_abrege_liste": "UNI-E-S POUR BOIRY",
+      "nuance_liste": null,
+      "voix": 125,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "DELMOTTE",
+        "prenom": "Cédric",
+        "nom_complet": "Cédric DELMOTTE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DELMOTTE",
+          "prenom": "Cédric",
+          "nom_complet": "Cédric DELMOTTE",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LEFRANC",
+          "prenom": "Vanessa",
+          "nom_complet": "Vanessa LEFRANC",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "CROMBEZ",
+          "prenom": "Jean-Baptiste",
+          "nom_complet": "Jean-Baptiste CROMBEZ",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "OGER",
+          "prenom": "Marinette",
+          "nom_complet": "Marinette OGER",
+          "sexe": "F",
+          "age": 72,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LEFEBVRE",
+          "prenom": "Arnaud",
+          "nom_complet": "Arnaud LEFEBVRE",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "CAMUS",
+          "prenom": "Céline",
+          "nom_complet": "Céline CAMUS",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "LALOUX",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric LALOUX",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "BÉTOURNÉ",
+          "prenom": "Emilie",
+          "nom_complet": "Emilie BÉTOURNÉ",
+          "sexe": "F",
+          "age": 31,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "LEFRANC",
+          "prenom": "Pierre",
+          "nom_complet": "Pierre LEFRANC",
+          "sexe": "M",
+          "age": 23,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "ANSEL",
+          "prenom": "Marie",
+          "nom_complet": "Marie ANSEL",
+          "sexe": "F",
+          "age": 29,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DETOEUF",
+          "prenom": "Romain",
+          "nom_complet": "Romain DETOEUF",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

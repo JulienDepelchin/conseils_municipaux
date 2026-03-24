@@ -1,0 +1,131 @@
+{
+  "code_commune": "62733",
+  "commune": "Sailly-au-Bois",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "LETHO DUCLOS",
+    "prenom": "Gérard",
+    "nom_complet": "Gérard LETHO DUCLOS",
+    "age": 62,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 205,
+    "votants": 130,
+    "pct_votants": 63.41,
+    "abstentions": 75,
+    "pct_abstentions": 36.59,
+    "exprimes": 76
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ECOUTER ET AGIR ENSEMBLE",
+      "libelle_abrege_liste": "ECOUTER ET AGIR ENSEMBLE",
+      "nuance_liste": null,
+      "voix": 76,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "LETHO DUCLOS",
+        "prenom": "Gérard",
+        "nom_complet": "Gérard LETHO DUCLOS",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LETHO DUCLOS",
+          "prenom": "Gérard",
+          "nom_complet": "Gérard LETHO DUCLOS",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "MEURET",
+          "prenom": "Véronique",
+          "nom_complet": "Véronique MEURET",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "HOCHAIN",
+          "prenom": "Théo",
+          "nom_complet": "Théo HOCHAIN",
+          "sexe": "M",
+          "age": 31,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LEU",
+          "prenom": "Vanessa",
+          "nom_complet": "Vanessa LEU",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "PIETRZAK",
+          "prenom": "Vincent",
+          "nom_complet": "Vincent PIETRZAK",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "PLANCART",
+          "prenom": "Marine",
+          "nom_complet": "Marine PLANCART",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "OGON",
+          "prenom": "Eddy",
+          "nom_complet": "Eddy OGON",
+          "sexe": "M",
+          "age": 31,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LAMOURETTE",
+          "prenom": "Sarah",
+          "nom_complet": "Sarah LAMOURETTE",
+          "sexe": "F",
+          "age": 27,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "SPILMONT",
+          "prenom": "Julien",
+          "nom_complet": "Julien SPILMONT",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DEFEBVIN",
+          "prenom": "Justine",
+          "nom_complet": "Justine DEFEBVIN",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DEBACKER",
+          "prenom": "Enguerrand",
+          "nom_complet": "Enguerrand DEBACKER",
+          "sexe": "M",
+          "age": 28,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

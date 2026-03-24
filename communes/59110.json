@@ -1,0 +1,163 @@
+{
+  "code_commune": "59110",
+  "commune": "Brouckerque",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "BAUDCHON",
+    "prenom": "Anne-Sophie",
+    "nom_complet": "Anne-Sophie BAUDCHON",
+    "age": 54,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1161,
+    "votants": 615,
+    "pct_votants": 52.97,
+    "abstentions": 546,
+    "pct_abstentions": 47.03,
+    "exprimes": 538
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Générations Brouckerque l'expérience et l'avenir",
+      "libelle_abrege_liste": "GBEA",
+      "nuance_liste": null,
+      "voix": 538,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": 2,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "BAUDCHON",
+        "prenom": "Anne-Sophie",
+        "nom_complet": "Anne-Sophie BAUDCHON",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "BAUDCHON",
+          "prenom": "Anne-Sophie",
+          "nom_complet": "Anne-Sophie BAUDCHON",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "SANSON",
+          "prenom": "Christian",
+          "nom_complet": "Christian SANSON",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DRIEUX",
+          "prenom": "Annie",
+          "nom_complet": "Annie DRIEUX",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "ADRIANSEN",
+          "prenom": "Georges",
+          "nom_complet": "Georges ADRIANSEN",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DEJONGHE",
+          "prenom": "Annie",
+          "nom_complet": "Annie DEJONGHE",
+          "sexe": "F",
+          "age": 78,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "GRANDJEAN",
+          "prenom": "Frederic",
+          "nom_complet": "Frederic GRANDJEAN",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "HUYGHE",
+          "prenom": "Claudie",
+          "nom_complet": "Claudie HUYGHE",
+          "sexe": "F",
+          "age": 72,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "JACQUEMONT",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier JACQUEMONT",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "TEITEN",
+          "prenom": "Hélène",
+          "nom_complet": "Hélène TEITEN",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "BADTS",
+          "prenom": "Romuald",
+          "nom_complet": "Romuald BADTS",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "VANDENBILCKE",
+          "prenom": "Mélanie",
+          "nom_complet": "Mélanie VANDENBILCKE",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "BIEDNY",
+          "prenom": "Stanislas",
+          "nom_complet": "Stanislas BIEDNY",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "DECHERF",
+          "prenom": "Justine",
+          "nom_complet": "Justine DECHERF",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "BRUNNER",
+          "prenom": "Denis",
+          "nom_complet": "Denis BRUNNER",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "CHATELAIN",
+          "prenom": "Valérie",
+          "nom_complet": "Valérie CHATELAIN",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

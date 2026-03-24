@@ -1,0 +1,131 @@
+{
+  "code_commune": "62184",
+  "commune": "Buissy",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "BLARY",
+    "prenom": "Dominique",
+    "nom_complet": "Dominique BLARY",
+    "age": 51,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 211,
+    "votants": 126,
+    "pct_votants": 59.72,
+    "abstentions": 85,
+    "pct_abstentions": 40.28,
+    "exprimes": 114
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Buissy Ensemble",
+      "libelle_abrege_liste": "Buissy Ensemble",
+      "nuance_liste": null,
+      "voix": 114,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "BLARY",
+        "prenom": "Dominique",
+        "nom_complet": "Dominique BLARY",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BLARY",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique BLARY",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "HENNEL",
+          "prenom": "Cécile",
+          "nom_complet": "Cécile HENNEL",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BLARY",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe BLARY",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "ROUZAUD",
+          "prenom": "Andrée",
+          "nom_complet": "Andrée ROUZAUD",
+          "sexe": "F",
+          "age": 74,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "WALIGORA",
+          "prenom": "Michel",
+          "nom_complet": "Michel WALIGORA",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "NORMAND",
+          "prenom": "Fabienne",
+          "nom_complet": "Fabienne NORMAND",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DEPREUX",
+          "prenom": "René",
+          "nom_complet": "René DEPREUX",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DEROUCK",
+          "prenom": "Emilie",
+          "nom_complet": "Emilie DEROUCK",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "COCQ",
+          "prenom": "Edouard",
+          "nom_complet": "Edouard COCQ",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "LEMOINE",
+          "prenom": "Perrine",
+          "nom_complet": "Perrine LEMOINE",
+          "sexe": "F",
+          "age": 30,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "VAN CAPPELLEN",
+          "prenom": "Cyril",
+          "nom_complet": "Cyril VAN CAPPELLEN",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

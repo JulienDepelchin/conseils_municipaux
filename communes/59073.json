@@ -1,0 +1,163 @@
+{
+  "code_commune": "59073",
+  "commune": "Berthen",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "DONDEYNE",
+    "prenom": "Régis",
+    "nom_complet": "Régis DONDEYNE",
+    "age": 68,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 492,
+    "votants": 298,
+    "pct_votants": 60.57,
+    "abstentions": 194,
+    "pct_abstentions": 39.43,
+    "exprimes": 266
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Continuons ensemble",
+      "libelle_abrege_liste": "Continuons ensemble",
+      "nuance_liste": null,
+      "voix": 266,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "DONDEYNE",
+        "prenom": "Régis",
+        "nom_complet": "Régis DONDEYNE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DONDEYNE",
+          "prenom": "Régis",
+          "nom_complet": "Régis DONDEYNE",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BREYER-GILLERON",
+          "prenom": "Amandine",
+          "nom_complet": "Amandine BREYER-GILLERON",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "PARENT",
+          "prenom": "Alain",
+          "nom_complet": "Alain PARENT",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "FOISNET-CHIEUX",
+          "prenom": "Delphine",
+          "nom_complet": "Delphine FOISNET-CHIEUX",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "FRAMERY",
+          "prenom": "Claude",
+          "nom_complet": "Claude FRAMERY",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "ALLAERT-FERLIN",
+          "prenom": "Juliette",
+          "nom_complet": "Juliette ALLAERT-FERLIN",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "CLEENEWERCK",
+          "prenom": "Didier",
+          "nom_complet": "Didier CLEENEWERCK",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "VIEVILLE-TROUSSON",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie VIEVILLE-TROUSSON",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DESPINOY",
+          "prenom": "Etienne",
+          "nom_complet": "Etienne DESPINOY",
+          "sexe": "M",
+          "age": 76,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "BASTAERT",
+          "prenom": "Lydie",
+          "nom_complet": "Lydie BASTAERT",
+          "sexe": "F",
+          "age": 29,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "THELIER",
+          "prenom": "Ludovic",
+          "nom_complet": "Ludovic THELIER",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "LELEU-CLEENEWERCK",
+          "prenom": "Vicky",
+          "nom_complet": "Vicky LELEU-CLEENEWERCK",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "ACCOU",
+          "prenom": "Stéphane",
+          "nom_complet": "Stéphane ACCOU",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "FEUILLERET",
+          "prenom": "Hélène",
+          "nom_complet": "Hélène FEUILLERET",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "DELDYCKE",
+          "prenom": "Jean-Claude",
+          "nom_complet": "Jean-Claude DELDYCKE",
+          "sexe": "M",
+          "age": 77,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

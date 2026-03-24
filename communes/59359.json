@@ -1,0 +1,275 @@
+{
+  "code_commune": "59359",
+  "commune": "Loon-Plage",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "ROMMEL",
+    "prenom": "Eric",
+    "nom_complet": "Eric ROMMEL",
+    "age": 64,
+    "nuance": "LDVG"
+  },
+  "resultats": {
+    "inscrits": 4714,
+    "votants": 2464,
+    "pct_votants": 52.27,
+    "abstentions": 2250,
+    "pct_abstentions": 47.73,
+    "exprimes": 2202
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Loon Plage aujourd'hui et demain",
+      "libelle_abrege_liste": "LPAED",
+      "nuance_liste": "LDVG",
+      "voix": 2202,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 29,
+      "sieges_cc": 2,
+      "nb_elus": 29,
+      "tete_de_liste": {
+        "nom": "ROMMEL",
+        "prenom": "Eric",
+        "nom_complet": "Eric ROMMEL",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "ROMMEL",
+          "prenom": "Eric",
+          "nom_complet": "Eric ROMMEL",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "MILLIOT",
+          "prenom": "Sandrine",
+          "nom_complet": "Sandrine MILLIOT",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "JEANNEKIN",
+          "prenom": "Vincent",
+          "nom_complet": "Vincent JEANNEKIN",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "HOOGSTOEL",
+          "prenom": "Caroline",
+          "nom_complet": "Caroline HOOGSTOEL",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "ROSSEEL",
+          "prenom": "François",
+          "nom_complet": "François ROSSEEL",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "BRASY",
+          "prenom": "Cathy",
+          "nom_complet": "Cathy BRASY",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "CARON",
+          "prenom": "Johann",
+          "nom_complet": "Johann CARON",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "HEBINCK",
+          "prenom": "Aurélie",
+          "nom_complet": "Aurélie HEBINCK",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "MILLIOT",
+          "prenom": "Patrice",
+          "nom_complet": "Patrice MILLIOT",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DEVOS",
+          "prenom": "Sarah",
+          "nom_complet": "Sarah DEVOS",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "LIVOURY",
+          "prenom": "Jean-Marie",
+          "nom_complet": "Jean-Marie LIVOURY",
+          "sexe": "M",
+          "age": 77,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "ELLEBOODE",
+          "prenom": "Clara",
+          "nom_complet": "Clara ELLEBOODE",
+          "sexe": "F",
+          "age": 32,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "LEFERME",
+          "prenom": "Florent",
+          "nom_complet": "Florent LEFERME",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "LOQUET",
+          "prenom": "Justine",
+          "nom_complet": "Justine LOQUET",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "GIONNANE",
+          "prenom": "Tony",
+          "nom_complet": "Tony GIONNANE",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "FLAVIGNY",
+          "prenom": "Sandrine",
+          "nom_complet": "Sandrine FLAVIGNY",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "RYCKEMBUSCH",
+          "prenom": "Quentin",
+          "nom_complet": "Quentin RYCKEMBUSCH",
+          "sexe": "M",
+          "age": 33,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "BRICHE",
+          "prenom": "Jocelyne",
+          "nom_complet": "Jocelyne BRICHE",
+          "sexe": "F",
+          "age": 71,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "MILLIOT",
+          "prenom": "Jean-Charles",
+          "nom_complet": "Jean-Charles MILLIOT",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "SZERKA",
+          "prenom": "Marie",
+          "nom_complet": "Marie SZERKA",
+          "sexe": "F",
+          "age": 21,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "WILHELM",
+          "prenom": "Yohan",
+          "nom_complet": "Yohan WILHELM",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "SYRATT",
+          "prenom": "Valérie",
+          "nom_complet": "Valérie SYRATT",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "NORMAND",
+          "prenom": "Didier",
+          "nom_complet": "Didier NORMAND",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "23"
+        },
+        {
+          "nom": "VANBAELINGHEM",
+          "prenom": "Fabienne",
+          "nom_complet": "Fabienne VANBAELINGHEM",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "24"
+        },
+        {
+          "nom": "FAUCHÉ",
+          "prenom": "Vincent",
+          "nom_complet": "Vincent FAUCHÉ",
+          "sexe": "M",
+          "age": 29,
+          "rang_liste": "25"
+        },
+        {
+          "nom": "TREULIER",
+          "prenom": "Elise",
+          "nom_complet": "Elise TREULIER",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "26"
+        },
+        {
+          "nom": "JANSSOONE",
+          "prenom": "Adrien",
+          "nom_complet": "Adrien JANSSOONE",
+          "sexe": "M",
+          "age": 26,
+          "rang_liste": "27"
+        },
+        {
+          "nom": "HOUSIEAUX",
+          "prenom": "Emelyne",
+          "nom_complet": "Emelyne HOUSIEAUX",
+          "sexe": "F",
+          "age": 19,
+          "rang_liste": "28"
+        },
+        {
+          "nom": "KLEINPOORT",
+          "prenom": "Alain",
+          "nom_complet": "Alain KLEINPOORT",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "29"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

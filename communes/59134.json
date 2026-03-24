@@ -1,0 +1,183 @@
+{
+  "code_commune": "59134",
+  "commune": "Cartignies",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "LOUGUET",
+    "prenom": "Sophie",
+    "nom_complet": "Sophie LOUGUET",
+    "age": 54,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 870,
+    "votants": 559,
+    "pct_votants": 64.25,
+    "abstentions": 311,
+    "pct_abstentions": 35.75,
+    "exprimes": 540
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "DE LA SUITE DANS LES IDEES",
+      "libelle_abrege_liste": "DE LA SUITE DANS LES IDEES",
+      "nuance_liste": null,
+      "voix": 343,
+      "pct_voix_exprimes": 63.52,
+      "sieges_cm": 13,
+      "sieges_cc": 2,
+      "nb_elus": 13,
+      "tete_de_liste": {
+        "nom": "LOUGUET",
+        "prenom": "Sophie",
+        "nom_complet": "Sophie LOUGUET",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "LOUGUET",
+          "prenom": "Sophie",
+          "nom_complet": "Sophie LOUGUET",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "CORRIER",
+          "prenom": "Jean-Claude",
+          "nom_complet": "Jean-Claude CORRIER",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LECLERCQ",
+          "prenom": "Marie-Noëlle",
+          "nom_complet": "Marie-Noëlle LECLERCQ",
+          "sexe": "F",
+          "age": 73,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "PAMART",
+          "prenom": "Rémy",
+          "nom_complet": "Rémy PAMART",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "ROSELEUR",
+          "prenom": "Lucie",
+          "nom_complet": "Lucie ROSELEUR",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "VILBAS",
+          "prenom": "Jean-Baptiste",
+          "nom_complet": "Jean-Baptiste VILBAS",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "GROUSELLE",
+          "prenom": "Aurélie",
+          "nom_complet": "Aurélie GROUSELLE",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "HUET",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier HUET",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "LANNOO",
+          "prenom": "Anne-Sophie",
+          "nom_complet": "Anne-Sophie LANNOO",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "HERPHELIN",
+          "prenom": "Donald",
+          "nom_complet": "Donald HERPHELIN",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "NORDHEIM",
+          "prenom": "Marie-Christine",
+          "nom_complet": "Marie-Christine NORDHEIM",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "DUPONT",
+          "prenom": "Jérôme",
+          "nom_complet": "Jérôme DUPONT",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "SERVIEN",
+          "prenom": "Mélanie",
+          "nom_complet": "Mélanie SERVIEN",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "13"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Cartignies, un avenir qui nous rassemble",
+      "libelle_abrege_liste": "Cartignies, un avenir qui nous rassemble",
+      "nuance_liste": null,
+      "voix": 197,
+      "pct_voix_exprimes": 36.48,
+      "sieges_cm": 2,
+      "sieges_cc": 0,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "MOUVET",
+        "prenom": "Xavier",
+        "nom_complet": "Xavier MOUVET",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "MOUVET",
+          "prenom": "Xavier",
+          "nom_complet": "Xavier MOUVET",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BEAUBOUCHER",
+          "prenom": "Pascale",
+          "nom_complet": "Pascale BEAUBOUCHER",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

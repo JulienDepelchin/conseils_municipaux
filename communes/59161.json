@@ -1,0 +1,163 @@
+{
+  "code_commune": "59161",
+  "commune": "Crèvecoeur-sur-l'Escaut",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "DRAIN",
+    "prenom": "Gilbert",
+    "nom_complet": "Gilbert DRAIN",
+    "age": 73,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 517,
+    "votants": 332,
+    "pct_votants": 64.22,
+    "abstentions": 185,
+    "pct_abstentions": 35.78,
+    "exprimes": 77
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "POUR CREVECOEUR",
+      "libelle_abrege_liste": "POUR CREVECOEUR",
+      "nuance_liste": null,
+      "voix": 77,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "DRAIN",
+        "prenom": "Gilbert",
+        "nom_complet": "Gilbert DRAIN",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DRAIN",
+          "prenom": "Gilbert",
+          "nom_complet": "Gilbert DRAIN",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "COURTHEOUX",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie COURTHEOUX",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DESFOSSÉS",
+          "prenom": "Alexandre",
+          "nom_complet": "Alexandre DESFOSSÉS",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "FEVRIER",
+          "prenom": "Mélodie",
+          "nom_complet": "Mélodie FEVRIER",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DUWEZ",
+          "prenom": "Jean-Denis",
+          "nom_complet": "Jean-Denis DUWEZ",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LOZÉ",
+          "prenom": "Julia",
+          "nom_complet": "Julia LOZÉ",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "LECLERE",
+          "prenom": "Benoît",
+          "nom_complet": "Benoît LECLERE",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "MOREAU",
+          "prenom": "Gina",
+          "nom_complet": "Gina MOREAU",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "MARÉCHAL",
+          "prenom": "Simon",
+          "nom_complet": "Simon MARÉCHAL",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "POUTRAIN",
+          "prenom": "Cécile",
+          "nom_complet": "Cécile POUTRAIN",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "NOIRET",
+          "prenom": "Christopher",
+          "nom_complet": "Christopher NOIRET",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "PREVOST",
+          "prenom": "Claudie",
+          "nom_complet": "Claudie PREVOST",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "PROUVEUR",
+          "prenom": "Bertrand",
+          "nom_complet": "Bertrand PROUVEUR",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "VITASSE",
+          "prenom": "Coralie",
+          "nom_complet": "Coralie VITASSE",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "WISNIEWSKI",
+          "prenom": "Gaëtan",
+          "nom_complet": "Gaëtan WISNIEWSKI",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

@@ -1,0 +1,195 @@
+{
+  "code_commune": "62520",
+  "commune": "Locon",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "ROSE BARISELLE",
+    "prenom": "Sylvie",
+    "nom_complet": "Sylvie ROSE BARISELLE",
+    "age": 61,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 2066,
+    "votants": 1142,
+    "pct_votants": 55.28,
+    "abstentions": 924,
+    "pct_abstentions": 44.72,
+    "exprimes": 977
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ENSEMBLE POUR NOTRE VILLAGE LOCON",
+      "libelle_abrege_liste": "ENSEMBLE POUR NOTRE VILLAGE LOCON",
+      "nuance_liste": null,
+      "voix": 977,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 19,
+      "sieges_cc": 1,
+      "nb_elus": 19,
+      "tete_de_liste": {
+        "nom": "ROSE BARISELLE",
+        "prenom": "Sylvie",
+        "nom_complet": "Sylvie ROSE BARISELLE",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "ROSE BARISELLE",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie ROSE BARISELLE",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "KRAJEWSKI",
+          "prenom": "Vincent",
+          "nom_complet": "Vincent KRAJEWSKI",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DUPRETZ",
+          "prenom": "Véronique",
+          "nom_complet": "Véronique DUPRETZ",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "GALLET",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier GALLET",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "FOULON",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie FOULON",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "ANSQUIN",
+          "prenom": "Denis",
+          "nom_complet": "Denis ANSQUIN",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "ATTAGNANT",
+          "prenom": "Fleur",
+          "nom_complet": "Fleur ATTAGNANT",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "HOLLEVILLE",
+          "prenom": "Sébastien",
+          "nom_complet": "Sébastien HOLLEVILLE",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "PECQUEUR",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle PECQUEUR",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "LEPRETRE",
+          "prenom": "Ludovic",
+          "nom_complet": "Ludovic LEPRETRE",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "TELLIER",
+          "prenom": "Virginie",
+          "nom_complet": "Virginie TELLIER",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "THYUS",
+          "prenom": "Léon",
+          "nom_complet": "Léon THYUS",
+          "sexe": "M",
+          "age": 81,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "MORDACQ",
+          "prenom": "Maryline",
+          "nom_complet": "Maryline MORDACQ",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "DOUTREMER",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier DOUTREMER",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "LELEU",
+          "prenom": "Michèle",
+          "nom_complet": "Michèle LELEU",
+          "sexe": "F",
+          "age": 70,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "LETOCART",
+          "prenom": "Cédric",
+          "nom_complet": "Cédric LETOCART",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "CLAUS CASTEL",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle CLAUS CASTEL",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "DUBRULLE",
+          "prenom": "Jacques",
+          "nom_complet": "Jacques DUBRULLE",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "BERTOUX",
+          "prenom": "Madeline",
+          "nom_complet": "Madeline BERTOUX",
+          "sexe": "F",
+          "age": 33,
+          "rang_liste": "19"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

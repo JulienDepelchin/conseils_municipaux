@@ -1,0 +1,279 @@
+{
+  "code_commune": "62032",
+  "commune": "Angres",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "SAINT-MACHIN",
+    "prenom": "Annick",
+    "nom_complet": "Annick SAINT-MACHIN",
+    "age": 65,
+    "nuance": "LDIV"
+  },
+  "resultats": {
+    "inscrits": 3424,
+    "votants": 2327,
+    "pct_votants": 67.96,
+    "abstentions": 1097,
+    "pct_abstentions": 32.04,
+    "exprimes": 2256
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "LE NOUVEAU SOUFFLE ANGROIS",
+      "libelle_abrege_liste": "LE NOUVEAU SOUFFLE ANGROIS",
+      "nuance_liste": "LDIV",
+      "voix": 1247,
+      "pct_voix_exprimes": 55.27,
+      "sieges_cm": 21,
+      "sieges_cc": 2,
+      "nb_elus": 21,
+      "tete_de_liste": {
+        "nom": "SAINT-MACHIN",
+        "prenom": "Annick",
+        "nom_complet": "Annick SAINT-MACHIN",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "SAINT-MACHIN",
+          "prenom": "Annick",
+          "nom_complet": "Annick SAINT-MACHIN",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "QUESTE",
+          "prenom": "Adrien",
+          "nom_complet": "Adrien QUESTE",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "ROBILLART",
+          "prenom": "Pascale",
+          "nom_complet": "Pascale ROBILLART",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "VIART",
+          "prenom": "Matthieu",
+          "nom_complet": "Matthieu VIART",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LORIOT",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie LORIOT",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "SIERZCHULA",
+          "prenom": "Jean-Marie",
+          "nom_complet": "Jean-Marie SIERZCHULA",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "TOMOLKA",
+          "prenom": "Claudine",
+          "nom_complet": "Claudine TOMOLKA",
+          "sexe": "F",
+          "age": 71,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "CHOQUET",
+          "prenom": "Vincent",
+          "nom_complet": "Vincent CHOQUET",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DEFREMONT",
+          "prenom": "Marie-George",
+          "nom_complet": "Marie-George DEFREMONT",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DUFOUR",
+          "prenom": "Rémy",
+          "nom_complet": "Rémy DUFOUR",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "LEMARCHAND DE LA COUTURE",
+          "prenom": "Cathy",
+          "nom_complet": "Cathy LEMARCHAND DE LA COUTURE",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "BENDRIS",
+          "prenom": "Rachid",
+          "nom_complet": "Rachid BENDRIS",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "FOUQUART",
+          "prenom": "Noëlla",
+          "nom_complet": "Noëlla FOUQUART",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "RUS",
+          "prenom": "Michel",
+          "nom_complet": "Michel RUS",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "CHOJNACKI",
+          "prenom": "Florence",
+          "nom_complet": "Florence CHOJNACKI",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "AUBERGER",
+          "prenom": "Alain",
+          "nom_complet": "Alain AUBERGER",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "GOULLIART",
+          "prenom": "Laura",
+          "nom_complet": "Laura GOULLIART",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "GOSSELIN",
+          "prenom": "Guillaume",
+          "nom_complet": "Guillaume GOSSELIN",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "DILLY",
+          "prenom": "Valériane",
+          "nom_complet": "Valériane DILLY",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "BARLET",
+          "prenom": "Jean-Loup",
+          "nom_complet": "Jean-Loup BARLET",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "KEDZIERSKI",
+          "prenom": "Françoise",
+          "nom_complet": "Françoise KEDZIERSKI",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "21"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ENSEMBLE POUR BATIR DEMAIN",
+      "libelle_abrege_liste": "ENSEMBLE POUR BATIR DEMAIN",
+      "nuance_liste": "LCOM",
+      "voix": 1009,
+      "pct_voix_exprimes": 44.73,
+      "sieges_cm": 6,
+      "sieges_cc": 0,
+      "nb_elus": 6,
+      "tete_de_liste": {
+        "nom": "BRETON",
+        "prenom": "Anouck",
+        "nom_complet": "Anouck BRETON",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "BRETON",
+          "prenom": "Anouck",
+          "nom_complet": "Anouck BRETON",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "SORON",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier SORON",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LEJEUNE",
+          "prenom": "Emilie",
+          "nom_complet": "Emilie LEJEUNE",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "CARON",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal CARON",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DRUELLE",
+          "prenom": "Cathy",
+          "nom_complet": "Cathy DRUELLE",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "ROMA",
+          "prenom": "Cédric",
+          "nom_complet": "Cédric ROMA",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "6"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

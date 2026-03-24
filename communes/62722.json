@@ -1,0 +1,99 @@
+{
+  "code_commune": "62722",
+  "commune": "Rougefay",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "CADET",
+    "prenom": "Philippe",
+    "nom_complet": "Philippe CADET",
+    "age": 66,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 78,
+    "votants": 57,
+    "pct_votants": 73.08,
+    "abstentions": 21,
+    "pct_abstentions": 26.92,
+    "exprimes": 51
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Ensemble pour Rougefay",
+      "libelle_abrege_liste": "Ensemble pour Rougefay",
+      "nuance_liste": null,
+      "voix": 51,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 7,
+      "sieges_cc": null,
+      "nb_elus": 7,
+      "tete_de_liste": {
+        "nom": "CADET",
+        "prenom": "Philippe",
+        "nom_complet": "Philippe CADET",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "CADET",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe CADET",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "ANDRIUS PRANGER-LAGULLE",
+          "prenom": "Corinne",
+          "nom_complet": "Corinne ANDRIUS PRANGER-LAGULLE",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "HUCHETTE",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier HUCHETTE",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BOURGEOIS THOMAS",
+          "prenom": "Denise",
+          "nom_complet": "Denise BOURGEOIS THOMAS",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "PRANGER-LAGULLE",
+          "prenom": "Vianney",
+          "nom_complet": "Vianney PRANGER-LAGULLE",
+          "sexe": "M",
+          "age": 33,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LEFEBVRE",
+          "prenom": "Valérie",
+          "nom_complet": "Valérie LEFEBVRE",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "WIGNOBLE",
+          "prenom": "Jean-Marc",
+          "nom_complet": "Jean-Marc WIGNOBLE",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "7"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

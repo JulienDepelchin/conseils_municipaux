@@ -1,0 +1,195 @@
+{
+  "code_commune": "59522",
+  "commune": "Sailly-lez-Lannoy",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "SKYRONKA",
+    "prenom": "Eric",
+    "nom_complet": "Eric SKYRONKA",
+    "age": 63,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1612,
+    "votants": 856,
+    "pct_votants": 53.1,
+    "abstentions": 756,
+    "pct_abstentions": 46.9,
+    "exprimes": 773
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "SAILLY PASSION COMMUNE",
+      "libelle_abrege_liste": "SAILLY PASSION COMMUNE",
+      "nuance_liste": null,
+      "voix": 773,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 19,
+      "sieges_cc": 1,
+      "nb_elus": 19,
+      "tete_de_liste": {
+        "nom": "SKYRONKA",
+        "prenom": "Eric",
+        "nom_complet": "Eric SKYRONKA",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "SKYRONKA",
+          "prenom": "Eric",
+          "nom_complet": "Eric SKYRONKA",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BOZEK",
+          "prenom": "Martha",
+          "nom_complet": "Martha BOZEK",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "GOREZ",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick GOREZ",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "VANBREMEERSCH",
+          "prenom": "Sophie",
+          "nom_complet": "Sophie VANBREMEERSCH",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "VANDYSTADT",
+          "prenom": "Benoit",
+          "nom_complet": "Benoit VANDYSTADT",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "HUYGHE",
+          "prenom": "Bernadette",
+          "nom_complet": "Bernadette HUYGHE",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DENIEUL",
+          "prenom": "Alain",
+          "nom_complet": "Alain DENIEUL",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "SPELEERS",
+          "prenom": "Chantal",
+          "nom_complet": "Chantal SPELEERS",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "SPELEERS",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe SPELEERS",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "VERTAIN",
+          "prenom": "Samia",
+          "nom_complet": "Samia VERTAIN",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "JOLY",
+          "prenom": "Johannes",
+          "nom_complet": "Johannes JOLY",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "DENOIT",
+          "prenom": "Valerie",
+          "nom_complet": "Valerie DENOIT",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "POLLET",
+          "prenom": "Thomas",
+          "nom_complet": "Thomas POLLET",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "LEPEVE",
+          "prenom": "Christelle",
+          "nom_complet": "Christelle LEPEVE",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "MESTACK",
+          "prenom": "Jean-Louis",
+          "nom_complet": "Jean-Louis MESTACK",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "POLLET",
+          "prenom": "Helene",
+          "nom_complet": "Helene POLLET",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "WYFFELS",
+          "prenom": "Jean-Charles",
+          "nom_complet": "Jean-Charles WYFFELS",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "HAUSTRATE",
+          "prenom": "Celine",
+          "nom_complet": "Celine HAUSTRATE",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "MEPLON",
+          "prenom": "Paul",
+          "nom_complet": "Paul MEPLON",
+          "sexe": "M",
+          "age": 34,
+          "rang_liste": "19"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

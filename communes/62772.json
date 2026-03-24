@@ -1,0 +1,183 @@
+{
+  "code_commune": "62772",
+  "commune": "Salperwick",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "MARTINOT",
+    "prenom": "Michel",
+    "nom_complet": "Michel MARTINOT",
+    "age": 59,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 447,
+    "votants": 363,
+    "pct_votants": 81.21,
+    "abstentions": 84,
+    "pct_abstentions": 18.79,
+    "exprimes": 349
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "Salperwick, agir ensemble pour mieux vivre demain",
+      "libelle_abrege_liste": "Salperwick, agir ensemble pour mieux vivre demain",
+      "nuance_liste": null,
+      "voix": 250,
+      "pct_voix_exprimes": 71.63,
+      "sieges_cm": 13,
+      "sieges_cc": null,
+      "nb_elus": 13,
+      "tete_de_liste": {
+        "nom": "MARTINOT",
+        "prenom": "Michel",
+        "nom_complet": "Michel MARTINOT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "MARTINOT",
+          "prenom": "Michel",
+          "nom_complet": "Michel MARTINOT",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "PERARD",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie PERARD",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DECOVEMACKER",
+          "prenom": "David",
+          "nom_complet": "David DECOVEMACKER",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "MINEBOIS",
+          "prenom": "Caroline",
+          "nom_complet": "Caroline MINEBOIS",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "VINCENT",
+          "prenom": "Didier",
+          "nom_complet": "Didier VINCENT",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DELEGLISE",
+          "prenom": "Cassandra",
+          "nom_complet": "Cassandra DELEGLISE",
+          "sexe": "F",
+          "age": 28,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BONIFACE",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier BONIFACE",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DECREUS",
+          "prenom": "Mélanie",
+          "nom_complet": "Mélanie DECREUS",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "MESMACQUE",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal MESMACQUE",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DUCROCQ",
+          "prenom": "Valérie",
+          "nom_complet": "Valérie DUCROCQ",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "ANDOUCHE",
+          "prenom": "Guy",
+          "nom_complet": "Guy ANDOUCHE",
+          "sexe": "M",
+          "age": 79,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "LAURENCE-LEFEBVRE",
+          "prenom": "Christèle",
+          "nom_complet": "Christèle LAURENCE-LEFEBVRE",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "DE GUILLEBON",
+          "prenom": "Jean-François",
+          "nom_complet": "Jean-François DE GUILLEBON",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "13"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "En avant Salperwick",
+      "libelle_abrege_liste": "En avant Salperwick",
+      "nuance_liste": null,
+      "voix": 99,
+      "pct_voix_exprimes": 28.37,
+      "sieges_cm": 2,
+      "sieges_cc": null,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "PICQUENDAR",
+        "prenom": "Olivier",
+        "nom_complet": "Olivier PICQUENDAR",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "PICQUENDAR",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier PICQUENDAR",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DUMOULIN WAROT",
+          "prenom": "Alexandra",
+          "nom_complet": "Alexandra DUMOULIN WAROT",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

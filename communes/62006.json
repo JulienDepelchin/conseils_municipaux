@@ -1,0 +1,151 @@
+{
+  "code_commune": "62006",
+  "commune": "Achiet-le-Petit",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "LESAGE",
+    "prenom": "Philippe",
+    "nom_complet": "Philippe LESAGE",
+    "age": 71,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 257,
+    "votants": 233,
+    "pct_votants": 90.66,
+    "abstentions": 24,
+    "pct_abstentions": 9.34,
+    "exprimes": 225
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "UNIS POUR ACHIET LE PETIT",
+      "libelle_abrege_liste": "UNIS POUR ACHIET LE PETIT",
+      "nuance_liste": null,
+      "voix": 134,
+      "pct_voix_exprimes": 59.56,
+      "sieges_cm": 9,
+      "sieges_cc": null,
+      "nb_elus": 9,
+      "tete_de_liste": {
+        "nom": "LESAGE",
+        "prenom": "Philippe",
+        "nom_complet": "Philippe LESAGE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LESAGE",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe LESAGE",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BERTOUX",
+          "prenom": "Marie-Thérèse",
+          "nom_complet": "Marie-Thérèse BERTOUX",
+          "sexe": "F",
+          "age": 70,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LABOURÉ",
+          "prenom": "Didier",
+          "nom_complet": "Didier LABOURÉ",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "PRONIER",
+          "prenom": "Anne-Marie",
+          "nom_complet": "Anne-Marie PRONIER",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DESSENNE",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe DESSENNE",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "CHUDOBA",
+          "prenom": "Emilie",
+          "nom_complet": "Emilie CHUDOBA",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "HERMIER",
+          "prenom": "Romain",
+          "nom_complet": "Romain HERMIER",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LAVOISIER",
+          "prenom": "Valérie",
+          "nom_complet": "Valérie LAVOISIER",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "POTTIER",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe POTTIER",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "9"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "A L'ECOUTE DES ACHIETOISES ET DES ACHIETOIS",
+      "libelle_abrege_liste": "A L'ECOUTE DES ACHIETOISES ET DES ACHIETOIS",
+      "nuance_liste": null,
+      "voix": 91,
+      "pct_voix_exprimes": 40.44,
+      "sieges_cm": 2,
+      "sieges_cc": null,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "MALVOISIN",
+        "prenom": "Dominique",
+        "nom_complet": "Dominique MALVOISIN",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "MALVOISIN",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique MALVOISIN",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "PAYEN",
+          "prenom": "Georgette",
+          "nom_complet": "Georgette PAYEN",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

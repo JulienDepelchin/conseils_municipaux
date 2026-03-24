@@ -1,0 +1,163 @@
+{
+  "code_commune": "59584",
+  "commune": "Taisnières-sur-Hon",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "JACMAIN",
+    "prenom": "Chantal",
+    "nom_complet": "Chantal JACMAIN",
+    "age": 66,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 714,
+    "votants": 332,
+    "pct_votants": 46.5,
+    "abstentions": 382,
+    "pct_abstentions": 53.5,
+    "exprimes": 299
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "AGIR UNIR REUSSIR",
+      "libelle_abrege_liste": "AGIR UNIR REUSSIR",
+      "nuance_liste": null,
+      "voix": 299,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "JACMAIN",
+        "prenom": "Chantal",
+        "nom_complet": "Chantal JACMAIN",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "JACMAIN",
+          "prenom": "Chantal",
+          "nom_complet": "Chantal JACMAIN",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "PELINI",
+          "prenom": "Elio",
+          "nom_complet": "Elio PELINI",
+          "sexe": "M",
+          "age": 82,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LEURQUIN",
+          "prenom": "Caroline",
+          "nom_complet": "Caroline LEURQUIN",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "SPRIMONT",
+          "prenom": "Eddy",
+          "nom_complet": "Eddy SPRIMONT",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "FLAMENT",
+          "prenom": "Perrine",
+          "nom_complet": "Perrine FLAMENT",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "CRAPEZ",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier CRAPEZ",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "COVIN",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie COVIN",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "HUART",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe HUART",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DELOISON",
+          "prenom": "Valérie",
+          "nom_complet": "Valérie DELOISON",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "CUISSET",
+          "prenom": "François",
+          "nom_complet": "François CUISSET",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DUBRAY",
+          "prenom": "Gwendoline",
+          "nom_complet": "Gwendoline DUBRAY",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "DEUDON",
+          "prenom": "Kévin",
+          "nom_complet": "Kévin DEUDON",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "MELANDRI",
+          "prenom": "Cinzia",
+          "nom_complet": "Cinzia MELANDRI",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "GILLIARD",
+          "prenom": "Louis",
+          "nom_complet": "Louis GILLIARD",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "DACGNIES",
+          "prenom": "Sarah",
+          "nom_complet": "Sarah DACGNIES",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

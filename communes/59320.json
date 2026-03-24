@@ -1,0 +1,215 @@
+{
+  "code_commune": "59320",
+  "commune": "Illies",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "BOULANGER",
+    "prenom": "Marvin",
+    "nom_complet": "Marvin BOULANGER",
+    "age": 38,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1229,
+    "votants": 908,
+    "pct_votants": 73.88,
+    "abstentions": 321,
+    "pct_abstentions": 26.12,
+    "exprimes": 878
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "AU COEUR D'ILLIES",
+      "libelle_abrege_liste": "AU COEUR D'ILLIES",
+      "nuance_liste": null,
+      "voix": 443,
+      "pct_voix_exprimes": 50.46,
+      "sieges_cm": 15,
+      "sieges_cc": 1,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "BOULANGER",
+        "prenom": "Marvin",
+        "nom_complet": "Marvin BOULANGER",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BOULANGER",
+          "prenom": "Marvin",
+          "nom_complet": "Marvin BOULANGER",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LEGRAND",
+          "prenom": "Laura",
+          "nom_complet": "Laura LEGRAND",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "GAILLIEZ",
+          "prenom": "Cyrille",
+          "nom_complet": "Cyrille GAILLIEZ",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "HAYT",
+          "prenom": "Céline",
+          "nom_complet": "Céline HAYT",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DESCAMPS",
+          "prenom": "Hubert",
+          "nom_complet": "Hubert DESCAMPS",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "BOULANGER",
+          "prenom": "Maréva",
+          "nom_complet": "Maréva BOULANGER",
+          "sexe": "F",
+          "age": 32,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "ANDREJEWSKI",
+          "prenom": "Fabien",
+          "nom_complet": "Fabien ANDREJEWSKI",
+          "sexe": "M",
+          "age": 34,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DENIS",
+          "prenom": "Magali",
+          "nom_complet": "Magali DENIS",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DUQUENOY",
+          "prenom": "Geoffrey",
+          "nom_complet": "Geoffrey DUQUENOY",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "LEBRUN",
+          "prenom": "Sandrine",
+          "nom_complet": "Sandrine LEBRUN",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DELHEM",
+          "prenom": "Jean-Luc",
+          "nom_complet": "Jean-Luc DELHEM",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "DENIS",
+          "prenom": "Agnes",
+          "nom_complet": "Agnes DENIS",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "HONORÉ",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe HONORÉ",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "DEFRANCE",
+          "prenom": "Ludivine",
+          "nom_complet": "Ludivine DEFRANCE",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "LEFEBVRE",
+          "prenom": "Eric",
+          "nom_complet": "Eric LEFEBVRE",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "ILLIES FAIT BON VIVRE",
+      "libelle_abrege_liste": "ILLIES FAIT BON VIVRE",
+      "nuance_liste": null,
+      "voix": 435,
+      "pct_voix_exprimes": 49.54,
+      "sieges_cm": 4,
+      "sieges_cc": 0,
+      "nb_elus": 4,
+      "tete_de_liste": {
+        "nom": "HAYART",
+        "prenom": "Damien",
+        "nom_complet": "Damien HAYART",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "HAYART",
+          "prenom": "Damien",
+          "nom_complet": "Damien HAYART",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LEPETZ",
+          "prenom": "Valérie",
+          "nom_complet": "Valérie LEPETZ",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "TROUILLET",
+          "prenom": "Alain",
+          "nom_complet": "Alain TROUILLET",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DUMORTIER",
+          "prenom": "Magali",
+          "nom_complet": "Magali DUMORTIER",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "4"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

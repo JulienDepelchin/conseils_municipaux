@@ -1,0 +1,279 @@
+{
+  "code_commune": "62861",
+  "commune": "Vimy",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "SPRIMONT",
+    "prenom": "Christian",
+    "nom_complet": "Christian SPRIMONT",
+    "age": 72,
+    "nuance": "LDIV"
+  },
+  "resultats": {
+    "inscrits": 3408,
+    "votants": 2193,
+    "pct_votants": 64.35,
+    "abstentions": 1215,
+    "pct_abstentions": 35.65,
+    "exprimes": 2097
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "VIMY AVEC VOUS",
+      "libelle_abrege_liste": "VIMY AVEC VOUS",
+      "nuance_liste": "LDIV",
+      "voix": 1451,
+      "pct_voix_exprimes": 69.19,
+      "sieges_cm": 23,
+      "sieges_cc": 2,
+      "nb_elus": 23,
+      "tete_de_liste": {
+        "nom": "SPRIMONT",
+        "prenom": "Christian",
+        "nom_complet": "Christian SPRIMONT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "SPRIMONT",
+          "prenom": "Christian",
+          "nom_complet": "Christian SPRIMONT",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LANCRY",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie LANCRY",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "WOJCIESZAK",
+          "prenom": "Julien",
+          "nom_complet": "Julien WOJCIESZAK",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "POEYDOMENGE",
+          "prenom": "Annie",
+          "nom_complet": "Annie POEYDOMENGE",
+          "sexe": "F",
+          "age": 77,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "HEROGUELLE",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe HEROGUELLE",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LEVANT",
+          "prenom": "Agnès",
+          "nom_complet": "Agnès LEVANT",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "HAUTECOEUR",
+          "prenom": "René",
+          "nom_complet": "René HAUTECOEUR",
+          "sexe": "M",
+          "age": 75,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LOUVEAU",
+          "prenom": "Françoise",
+          "nom_complet": "Françoise LOUVEAU",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "LODER",
+          "prenom": "Franck",
+          "nom_complet": "Franck LODER",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "CLEMENCEAU",
+          "prenom": "Marie-Pascale",
+          "nom_complet": "Marie-Pascale CLEMENCEAU",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "BECOURT",
+          "prenom": "Joël",
+          "nom_complet": "Joël BECOURT",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "DARRAS",
+          "prenom": "Anne",
+          "nom_complet": "Anne DARRAS",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "SANSON",
+          "prenom": "Jean-Pierre",
+          "nom_complet": "Jean-Pierre SANSON",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "BRUNEL",
+          "prenom": "Virginie",
+          "nom_complet": "Virginie BRUNEL",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "VERWAERDE",
+          "prenom": "Jean-Marie",
+          "nom_complet": "Jean-Marie VERWAERDE",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "VANEECKE",
+          "prenom": "Elodie",
+          "nom_complet": "Elodie VANEECKE",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "COCHET",
+          "prenom": "Jérémy",
+          "nom_complet": "Jérémy COCHET",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "VANLERBERGHE",
+          "prenom": "Catherine",
+          "nom_complet": "Catherine VANLERBERGHE",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "DEBAS",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe DEBAS",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "BRAY",
+          "prenom": "Danielle",
+          "nom_complet": "Danielle BRAY",
+          "sexe": "F",
+          "age": 77,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "LEMOINE",
+          "prenom": "Roger",
+          "nom_complet": "Roger LEMOINE",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "KAPUSCIK",
+          "prenom": "Hélène",
+          "nom_complet": "Hélène KAPUSCIK",
+          "sexe": "F",
+          "age": 70,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "DEBLOCK",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent DEBLOCK",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "23"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "VIMY UN FUTUR A PARTAGER",
+      "libelle_abrege_liste": "VIMY UN FUTUR A PARTAGER",
+      "nuance_liste": "LDIV",
+      "voix": 646,
+      "pct_voix_exprimes": 30.81,
+      "sieges_cm": 4,
+      "sieges_cc": 0,
+      "nb_elus": 4,
+      "tete_de_liste": {
+        "nom": "NACHEL",
+        "prenom": "Evelyne",
+        "nom_complet": "Evelyne NACHEL",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "NACHEL",
+          "prenom": "Evelyne",
+          "nom_complet": "Evelyne NACHEL",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "GLACHET",
+          "prenom": "Michel",
+          "nom_complet": "Michel GLACHET",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "FONTAINE",
+          "prenom": "Pascale",
+          "nom_complet": "Pascale FONTAINE",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "CATTOEN",
+          "prenom": "Pierre",
+          "nom_complet": "Pierre CATTOEN",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "4"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

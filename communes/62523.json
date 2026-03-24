@@ -1,0 +1,295 @@
+{
+  "code_commune": "62523",
+  "commune": "Loison-sous-Lens",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "TREPCZYNSKI",
+    "prenom": "Fabrice",
+    "nom_complet": "Fabrice TREPCZYNSKI",
+    "age": 56,
+    "nuance": "LRN"
+  },
+  "resultats": {
+    "inscrits": 3846,
+    "votants": 2306,
+    "pct_votants": 59.96,
+    "abstentions": 1540,
+    "pct_abstentions": 40.04,
+    "exprimes": 2243
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "LOISON SANS EXCEPTION",
+      "libelle_abrege_liste": "LOISON SANS EXCEPTION",
+      "nuance_liste": "LRN",
+      "voix": 1132,
+      "pct_voix_exprimes": 50.47,
+      "sieges_cm": 22,
+      "sieges_cc": 2,
+      "nb_elus": 22,
+      "tete_de_liste": {
+        "nom": "TREPCZYNSKI",
+        "prenom": "Fabrice",
+        "nom_complet": "Fabrice TREPCZYNSKI",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "TREPCZYNSKI",
+          "prenom": "Fabrice",
+          "nom_complet": "Fabrice TREPCZYNSKI",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DUBOIS",
+          "prenom": "Lily",
+          "nom_complet": "Lily DUBOIS",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "PAPA",
+          "prenom": "Yannick",
+          "nom_complet": "Yannick PAPA",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "VOISIN",
+          "prenom": "Marie-France",
+          "nom_complet": "Marie-France VOISIN",
+          "sexe": "F",
+          "age": 71,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DUEZ",
+          "prenom": "Jonathan",
+          "nom_complet": "Jonathan DUEZ",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "FROUCHART",
+          "prenom": "Tressy",
+          "nom_complet": "Tressy FROUCHART",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "QUEVA",
+          "prenom": "Sylvain",
+          "nom_complet": "Sylvain QUEVA",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LION",
+          "prenom": "Christelle",
+          "nom_complet": "Christelle LION",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "VANDESAVEL",
+          "prenom": "Jérôme",
+          "nom_complet": "Jérôme VANDESAVEL",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "PERREY",
+          "prenom": "Jocelyne",
+          "nom_complet": "Jocelyne PERREY",
+          "sexe": "F",
+          "age": 77,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "LEVEAU",
+          "prenom": "Xavier",
+          "nom_complet": "Xavier LEVEAU",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "DEFONTAINE",
+          "prenom": "Myriam",
+          "nom_complet": "Myriam DEFONTAINE",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "LESUR",
+          "prenom": "Lionnel",
+          "nom_complet": "Lionnel LESUR",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "HOURDEQUIN",
+          "prenom": "Cindy",
+          "nom_complet": "Cindy HOURDEQUIN",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "DUBOCAGE",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas DUBOCAGE",
+          "sexe": "M",
+          "age": 32,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "FELGUEIRAS",
+          "prenom": "Christelle",
+          "nom_complet": "Christelle FELGUEIRAS",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "CHRETIEN",
+          "prenom": "Lucas",
+          "nom_complet": "Lucas CHRETIEN",
+          "sexe": "M",
+          "age": 32,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "DEFOOR",
+          "prenom": "Ghislaine",
+          "nom_complet": "Ghislaine DEFOOR",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "BAILLEUL",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal BAILLEUL",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "TACQUET",
+          "prenom": "Jeannine",
+          "nom_complet": "Jeannine TACQUET",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "HENON",
+          "prenom": "Sébastien",
+          "nom_complet": "Sébastien HENON",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "FOLLIARD",
+          "prenom": "Geneviève",
+          "nom_complet": "Geneviève FOLLIARD",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "22"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Loison à coeur",
+      "libelle_abrege_liste": "Loison à coeur",
+      "nuance_liste": "LDVG",
+      "voix": 1111,
+      "pct_voix_exprimes": 49.53,
+      "sieges_cm": 7,
+      "sieges_cc": 0,
+      "nb_elus": 7,
+      "tete_de_liste": {
+        "nom": "GUIDÉ",
+        "prenom": "David",
+        "nom_complet": "David GUIDÉ",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "GUIDÉ",
+          "prenom": "David",
+          "nom_complet": "David GUIDÉ",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "KUCHARSKI",
+          "prenom": "Maryline",
+          "nom_complet": "Maryline KUCHARSKI",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "PENETTICOBRA",
+          "prenom": "David",
+          "nom_complet": "David PENETTICOBRA",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "MARLIER",
+          "prenom": "Marie-Hélène",
+          "nom_complet": "Marie-Hélène MARLIER",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "NARCISSE",
+          "prenom": "Bertrand",
+          "nom_complet": "Bertrand NARCISSE",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "WILLE",
+          "prenom": "Catherine",
+          "nom_complet": "Catherine WILLE",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "COQUET",
+          "prenom": "Bernard",
+          "nom_complet": "Bernard COQUET",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "7"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

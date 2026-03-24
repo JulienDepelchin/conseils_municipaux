@@ -1,0 +1,163 @@
+{
+  "code_commune": "59620",
+  "commune": "Villers-au-Tertre",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "PLATEL",
+    "prenom": "Caroline",
+    "nom_complet": "Caroline PLATEL",
+    "age": 49,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 528,
+    "votants": 324,
+    "pct_votants": 61.36,
+    "abstentions": 204,
+    "pct_abstentions": 38.64,
+    "exprimes": 287
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "AVEC ET POUR LES VILLERSOIS - CULTIVONS NOTRE CHANCE",
+      "libelle_abrege_liste": "Avec et pour les villersois - Cultivons notre chance",
+      "nuance_liste": null,
+      "voix": 287,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "PLATEL",
+        "prenom": "Caroline",
+        "nom_complet": "Caroline PLATEL",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "GAILLIEZ",
+          "prenom": "Sylvain",
+          "nom_complet": "Sylvain GAILLIEZ",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "PLATEL",
+          "prenom": "Caroline",
+          "nom_complet": "Caroline PLATEL",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "ELIAS",
+          "prenom": "Marc",
+          "nom_complet": "Marc ELIAS",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "WIBAUT",
+          "prenom": "Caroline",
+          "nom_complet": "Caroline WIBAUT",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "ROUZE",
+          "prenom": "Marc Georges Gérard",
+          "nom_complet": "Marc Georges Gérard ROUZE",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "GELEZ",
+          "prenom": "Pascale",
+          "nom_complet": "Pascale GELEZ",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "PLUTOT",
+          "prenom": "Thomas",
+          "nom_complet": "Thomas PLUTOT",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DAUCHY",
+          "prenom": "Virginie",
+          "nom_complet": "Virginie DAUCHY",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "BATTEN",
+          "prenom": "Benoit",
+          "nom_complet": "Benoit BATTEN",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "VANKIEKEN",
+          "prenom": "Katie",
+          "nom_complet": "Katie VANKIEKEN",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "THIEULLET",
+          "prenom": "Éric",
+          "nom_complet": "Éric THIEULLET",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "DUBOIS",
+          "prenom": "Maïté",
+          "nom_complet": "Maïté DUBOIS",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "BOINSKI",
+          "prenom": "Jeremy",
+          "nom_complet": "Jeremy BOINSKI",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "DUARTE GUERRA",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie DUARTE GUERRA",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "MARMOUSEZ",
+          "prenom": "Richard",
+          "nom_complet": "Richard MARMOUSEZ",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

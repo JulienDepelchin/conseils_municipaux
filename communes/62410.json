@@ -1,0 +1,151 @@
+{
+  "code_commune": "62410",
+  "commune": "Haplincourt",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "PETIT",
+    "prenom": "Philippe",
+    "nom_complet": "Philippe PETIT",
+    "age": 63,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 152,
+    "votants": 133,
+    "pct_votants": 87.5,
+    "abstentions": 19,
+    "pct_abstentions": 12.5,
+    "exprimes": 127
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "Une nouvelle voix pour Haplincourt",
+      "libelle_abrege_liste": "Une nouvelle voix pour Haplincourt",
+      "nuance_liste": null,
+      "voix": 76,
+      "pct_voix_exprimes": 59.84,
+      "sieges_cm": 9,
+      "sieges_cc": null,
+      "nb_elus": 9,
+      "tete_de_liste": {
+        "nom": "PETIT",
+        "prenom": "Philippe",
+        "nom_complet": "Philippe PETIT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "PETIT",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe PETIT",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "HIEZ",
+          "prenom": "Odile",
+          "nom_complet": "Odile HIEZ",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "WARAMBOURG",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas WARAMBOURG",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BERTOUX",
+          "prenom": "Amélie",
+          "nom_complet": "Amélie BERTOUX",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "TRUFFAUX",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe TRUFFAUX",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LEFÈVRE",
+          "prenom": "Hélène",
+          "nom_complet": "Hélène LEFÈVRE",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DELHUVENNE",
+          "prenom": "Thierry",
+          "nom_complet": "Thierry DELHUVENNE",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "MOREL",
+          "prenom": "Magalie",
+          "nom_complet": "Magalie MOREL",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "TILMANT",
+          "prenom": "Benoit",
+          "nom_complet": "Benoit TILMANT",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "9"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Haplincourt collectif : agir ensemble",
+      "libelle_abrege_liste": "Haplincourt collectif : agir ensemble",
+      "nuance_liste": null,
+      "voix": 51,
+      "pct_voix_exprimes": 40.16,
+      "sieges_cm": 2,
+      "sieges_cc": null,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "FLAHAUT",
+        "prenom": "Michel",
+        "nom_complet": "Michel FLAHAUT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "FLAHAUT",
+          "prenom": "Michel",
+          "nom_complet": "Michel FLAHAUT",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "PINAULT",
+          "prenom": "Perrine",
+          "nom_complet": "Perrine PINAULT",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

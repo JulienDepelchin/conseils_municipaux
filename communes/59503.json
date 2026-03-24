@@ -1,0 +1,131 @@
+{
+  "code_commune": "59503",
+  "commune": "Robersart",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "LEFEVRE",
+    "prenom": "Anita",
+    "nom_complet": "Anita LEFEVRE",
+    "age": 70,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 147,
+    "votants": 111,
+    "pct_votants": 75.51,
+    "abstentions": 36,
+    "pct_abstentions": 24.49,
+    "exprimes": 99
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Bien vivre à Robersart",
+      "libelle_abrege_liste": "Bien vivre à Robersart",
+      "nuance_liste": null,
+      "voix": 99,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "LEFEVRE",
+        "prenom": "Anita",
+        "nom_complet": "Anita LEFEVRE",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "LEFEVRE",
+          "prenom": "Anita",
+          "nom_complet": "Anita LEFEVRE",
+          "sexe": "F",
+          "age": 70,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BAVAY",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno BAVAY",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DERAY",
+          "prenom": "Véronique",
+          "nom_complet": "Véronique DERAY",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BLAIRON",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal BLAIRON",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "BRICOUT",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie BRICOUT",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LACROIX",
+          "prenom": "Stéphane",
+          "nom_complet": "Stéphane LACROIX",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "HURBIN",
+          "prenom": "Sandrine",
+          "nom_complet": "Sandrine HURBIN",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LEFEVRE",
+          "prenom": "Sébastien",
+          "nom_complet": "Sébastien LEFEVRE",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "MEURANT",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie MEURANT",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "BRARD",
+          "prenom": "Loïc",
+          "nom_complet": "Loïc BRARD",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "LACOURT",
+          "prenom": "Ludivine",
+          "nom_complet": "Ludivine LACOURT",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

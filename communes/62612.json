@@ -1,0 +1,163 @@
+{
+  "code_commune": "62612",
+  "commune": "Neuvireuil",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "HOUVENAEGHEL",
+    "prenom": "Michel",
+    "nom_complet": "Michel HOUVENAEGHEL",
+    "age": 73,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 456,
+    "votants": 287,
+    "pct_votants": 62.94,
+    "abstentions": 169,
+    "pct_abstentions": 37.06,
+    "exprimes": 229
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Unis pour une commune dynamique et solidiaire",
+      "libelle_abrege_liste": "Unis pour une commune dynamique et solidiaire",
+      "nuance_liste": null,
+      "voix": 229,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "HOUVENAEGHEL",
+        "prenom": "Michel",
+        "nom_complet": "Michel HOUVENAEGHEL",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "HOUVENAEGHEL",
+          "prenom": "Michel",
+          "nom_complet": "Michel HOUVENAEGHEL",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "WAUQUIER",
+          "prenom": "Elisabeth",
+          "nom_complet": "Elisabeth WAUQUIER",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "ROISIN",
+          "prenom": "Didier",
+          "nom_complet": "Didier ROISIN",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "WILLEFERT",
+          "prenom": "Odile",
+          "nom_complet": "Odile WILLEFERT",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "CUISINIER",
+          "prenom": "Alain",
+          "nom_complet": "Alain CUISINIER",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "FOURNIER",
+          "prenom": "Claire",
+          "nom_complet": "Claire FOURNIER",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DELANNOY",
+          "prenom": "Jean-Michel",
+          "nom_complet": "Jean-Michel DELANNOY",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DUBOIS",
+          "prenom": "Marie-France",
+          "nom_complet": "Marie-France DUBOIS",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DELIGNE",
+          "prenom": "Alain",
+          "nom_complet": "Alain DELIGNE",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "TAILLARDAS",
+          "prenom": "Agnès",
+          "nom_complet": "Agnès TAILLARDAS",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "MARTIN",
+          "prenom": "Adrien",
+          "nom_complet": "Adrien MARTIN",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "BURGER",
+          "prenom": "Ingrid",
+          "nom_complet": "Ingrid BURGER",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "DUHAMEL",
+          "prenom": "Arnaud",
+          "nom_complet": "Arnaud DUHAMEL",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "DAUCHY",
+          "prenom": "Audrey",
+          "nom_complet": "Audrey DAUCHY",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "CAPRON",
+          "prenom": "Hugo",
+          "nom_complet": "Hugo CAPRON",
+          "sexe": "M",
+          "age": 26,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

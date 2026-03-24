@@ -1,0 +1,327 @@
+{
+  "code_commune": "62250",
+  "commune": "Courrières",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "PILCH",
+    "prenom": "Christophe",
+    "nom_complet": "Christophe PILCH",
+    "age": 60,
+    "nuance": "LSOC"
+  },
+  "resultats": {
+    "inscrits": 7885,
+    "votants": 4546,
+    "pct_votants": 57.65,
+    "abstentions": 3339,
+    "pct_abstentions": 42.35,
+    "exprimes": 4459
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "CHRISTOPHE PILCH NATURELLEMENT POUR COURRIERES",
+      "libelle_abrege_liste": "CHRISTOPHE PILCH NATURELLEMENT POUR COURRIERES",
+      "nuance_liste": "LSOC",
+      "voix": 3090,
+      "pct_voix_exprimes": 69.3,
+      "sieges_cm": 28,
+      "sieges_cc": 5,
+      "nb_elus": 28,
+      "tete_de_liste": {
+        "nom": "PILCH",
+        "prenom": "Christophe",
+        "nom_complet": "Christophe PILCH",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "PILCH",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe PILCH",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "THIBERVILLE",
+          "prenom": "Frédérique",
+          "nom_complet": "Frédérique THIBERVILLE",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "MONTURY",
+          "prenom": "Bernard",
+          "nom_complet": "Bernard MONTURY",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "FANION",
+          "prenom": "Maria",
+          "nom_complet": "Maria FANION",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "MEHAIGNERY",
+          "prenom": "Charly",
+          "nom_complet": "Charly MEHAIGNERY",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "BLOCQUET",
+          "prenom": "Delphine",
+          "nom_complet": "Delphine BLOCQUET",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DAF",
+          "prenom": "Berranou",
+          "nom_complet": "Berranou DAF",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "ROUSSEAU",
+          "prenom": "Patricia",
+          "nom_complet": "Patricia ROUSSEAU",
+          "sexe": "F",
+          "age": 70,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "FROGET",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe FROGET",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DESPREZ",
+          "prenom": "Marjorie",
+          "nom_complet": "Marjorie DESPREZ",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "LUCAS",
+          "prenom": "Renald",
+          "nom_complet": "Renald LUCAS",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "LAMBERT-ALEXANDRE",
+          "prenom": "Emeline",
+          "nom_complet": "Emeline LAMBERT-ALEXANDRE",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "THERET",
+          "prenom": "François",
+          "nom_complet": "François THERET",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "LESAGE",
+          "prenom": "Carole",
+          "nom_complet": "Carole LESAGE",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "IANNONE",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique IANNONE",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "BERGAMASCHI",
+          "prenom": "Anne-Charlotte",
+          "nom_complet": "Anne-Charlotte BERGAMASCHI",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "OULD-RABAH",
+          "prenom": "Mourad",
+          "nom_complet": "Mourad OULD-RABAH",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "PRODEO",
+          "prenom": "Marion",
+          "nom_complet": "Marion PRODEO",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "DROISSART",
+          "prenom": "Didier",
+          "nom_complet": "Didier DROISSART",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "LE ROUX",
+          "prenom": "Annie",
+          "nom_complet": "Annie LE ROUX",
+          "sexe": "F",
+          "age": 71,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "VERGNAUD",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier VERGNAUD",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "MOUTON",
+          "prenom": "Anne-Lyse",
+          "nom_complet": "Anne-Lyse MOUTON",
+          "sexe": "F",
+          "age": 33,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "ROUSSEAU",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick ROUSSEAU",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "23"
+        },
+        {
+          "nom": "DUPONCHEEL",
+          "prenom": "Gwendoline",
+          "nom_complet": "Gwendoline DUPONCHEEL",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "24"
+        },
+        {
+          "nom": "LEFEBVRE",
+          "prenom": "Bernard",
+          "nom_complet": "Bernard LEFEBVRE",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "25"
+        },
+        {
+          "nom": "PICHONNIER",
+          "prenom": "Patricia",
+          "nom_complet": "Patricia PICHONNIER",
+          "sexe": "F",
+          "age": 73,
+          "rang_liste": "26"
+        },
+        {
+          "nom": "DUHEM",
+          "prenom": "Jerome",
+          "nom_complet": "Jerome DUHEM",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "27"
+        },
+        {
+          "nom": "HAURIEZ",
+          "prenom": "Emilia",
+          "nom_complet": "Emilia HAURIEZ",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "28"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "LE RENOUVEAU POUR COURRIERES",
+      "libelle_abrege_liste": "LE RENOUVEAU POUR COURRIERES",
+      "nuance_liste": "LRN",
+      "voix": 1369,
+      "pct_voix_exprimes": 30.7,
+      "sieges_cm": 5,
+      "sieges_cc": 0,
+      "nb_elus": 5,
+      "tete_de_liste": {
+        "nom": "BARRÉ",
+        "prenom": "Nathalie",
+        "nom_complet": "Nathalie BARRÉ",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "BARRÉ",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie BARRÉ",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "JEUNIAU",
+          "prenom": "Sébastien",
+          "nom_complet": "Sébastien JEUNIAU",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "CHEVRY",
+          "prenom": "Suzanna",
+          "nom_complet": "Suzanna CHEVRY",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DESPREZ",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique DESPREZ",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "BOUTRY",
+          "prenom": "Marie-Françoise",
+          "nom_complet": "Marie-Françoise BOUTRY",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "5"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

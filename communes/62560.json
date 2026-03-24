@@ -1,0 +1,275 @@
+{
+  "code_commune": "62560",
+  "commune": "Marquise",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "LEROY",
+    "prenom": "Olivier",
+    "nom_complet": "Olivier LEROY",
+    "age": 66,
+    "nuance": "LDVC"
+  },
+  "resultats": {
+    "inscrits": 3984,
+    "votants": 1765,
+    "pct_votants": 44.3,
+    "abstentions": 2219,
+    "pct_abstentions": 55.7,
+    "exprimes": 1486
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "BIEN VIVRE A MARQUISE",
+      "libelle_abrege_liste": "BIEN VIVRE A MARQUISE",
+      "nuance_liste": "LDVC",
+      "voix": 1486,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 29,
+      "sieges_cc": 9,
+      "nb_elus": 29,
+      "tete_de_liste": {
+        "nom": "LEROY",
+        "prenom": "Olivier",
+        "nom_complet": "Olivier LEROY",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LEROY",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier LEROY",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "MAMECHE",
+          "prenom": "Louisa",
+          "nom_complet": "Louisa MAMECHE",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "ALEXANDRE",
+          "prenom": "Serge",
+          "nom_complet": "Serge ALEXANDRE",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DUQUESNOY",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie DUQUESNOY",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "ROUSSEL",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe ROUSSEL",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "TELLIEZ",
+          "prenom": "Catherine",
+          "nom_complet": "Catherine TELLIEZ",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "SAMBON",
+          "prenom": "Stéphane",
+          "nom_complet": "Stéphane SAMBON",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DANDRE",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie DANDRE",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "CLABAUT",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier CLABAUT",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "ESPARZA",
+          "prenom": "Virginie",
+          "nom_complet": "Virginie ESPARZA",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "FRATTINI",
+          "prenom": "Giovanni",
+          "nom_complet": "Giovanni FRATTINI",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "D'HAILLECOURT",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie D'HAILLECOURT",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "ETEKI",
+          "prenom": "Eitel",
+          "nom_complet": "Eitel ETEKI",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "LEROUX",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie LEROUX",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "DUMOULIN",
+          "prenom": "Cyrille",
+          "nom_complet": "Cyrille DUMOULIN",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "CAUX",
+          "prenom": "Anne-Sophie",
+          "nom_complet": "Anne-Sophie CAUX",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "DUBRAY",
+          "prenom": "Herve",
+          "nom_complet": "Herve DUBRAY",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "BERTELOOT",
+          "prenom": "Jeanne",
+          "nom_complet": "Jeanne BERTELOOT",
+          "sexe": "F",
+          "age": 28,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "FRANCOIS",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric FRANCOIS",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "HOPPEN",
+          "prenom": "Maike",
+          "nom_complet": "Maike HOPPEN",
+          "sexe": "F",
+          "age": 28,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "GOUDYME",
+          "prenom": "Alix",
+          "nom_complet": "Alix GOUDYME",
+          "sexe": "M",
+          "age": 31,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "DUTERTRE",
+          "prenom": "Ghislaine",
+          "nom_complet": "Ghislaine DUTERTRE",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "DELBAERE",
+          "prenom": "Remy",
+          "nom_complet": "Remy DELBAERE",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "23"
+        },
+        {
+          "nom": "SCHIRRU",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle SCHIRRU",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "24"
+        },
+        {
+          "nom": "SAUVAGE",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier SAUVAGE",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "25"
+        },
+        {
+          "nom": "LEBRUN",
+          "prenom": "Pascale",
+          "nom_complet": "Pascale LEBRUN",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "26"
+        },
+        {
+          "nom": "GRARE",
+          "prenom": "Florian",
+          "nom_complet": "Florian GRARE",
+          "sexe": "M",
+          "age": 30,
+          "rang_liste": "27"
+        },
+        {
+          "nom": "CAPY",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie CAPY",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "28"
+        },
+        {
+          "nom": "ALIN",
+          "prenom": "Francois-Xavier",
+          "nom_complet": "Francois-Xavier ALIN",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "29"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

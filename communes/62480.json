@@ -1,0 +1,227 @@
+{
+  "code_commune": "62480",
+  "commune": "Labourse",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "SCAILLIEREZ",
+    "prenom": "Philippe",
+    "nom_complet": "Philippe SCAILLIEREZ",
+    "age": 55,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 2293,
+    "votants": 1096,
+    "pct_votants": 47.8,
+    "abstentions": 1197,
+    "pct_abstentions": 52.2,
+    "exprimes": 977
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "BIEN VIVRE ENSEMBLE À LABOURSE",
+      "libelle_abrege_liste": "BIEN VIVRE ENSEMBLE À LABOURSE",
+      "nuance_liste": null,
+      "voix": 977,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 23,
+      "sieges_cc": 1,
+      "nb_elus": 23,
+      "tete_de_liste": {
+        "nom": "SCAILLIEREZ",
+        "prenom": "Philippe",
+        "nom_complet": "Philippe SCAILLIEREZ",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "SCAILLIEREZ",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe SCAILLIEREZ",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "CHASTENEZ",
+          "prenom": "Nicole",
+          "nom_complet": "Nicole CHASTENEZ",
+          "sexe": "F",
+          "age": 75,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "PRUVOST",
+          "prenom": "Bernard",
+          "nom_complet": "Bernard PRUVOST",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "VANELLE",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle VANELLE",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "COQUERELLE",
+          "prenom": "Alain",
+          "nom_complet": "Alain COQUERELLE",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "HAUER",
+          "prenom": "Dorothée",
+          "nom_complet": "Dorothée HAUER",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "GLAVIEUX",
+          "prenom": "Johny",
+          "nom_complet": "Johny GLAVIEUX",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "MARTEL",
+          "prenom": "Claudie",
+          "nom_complet": "Claudie MARTEL",
+          "sexe": "F",
+          "age": 74,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DISSAUX",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric DISSAUX",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "SAVOLDELLI",
+          "prenom": "Annick",
+          "nom_complet": "Annick SAVOLDELLI",
+          "sexe": "F",
+          "age": 76,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "JOLY",
+          "prenom": "Roland",
+          "nom_complet": "Roland JOLY",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "BEN",
+          "prenom": "Betty",
+          "nom_complet": "Betty BEN",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "FATOU",
+          "prenom": "Didier",
+          "nom_complet": "Didier FATOU",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "CAZIN",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle CAZIN",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "ROUSSEY",
+          "prenom": "Aimé",
+          "nom_complet": "Aimé ROUSSEY",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "LECOCQ",
+          "prenom": "Delphine",
+          "nom_complet": "Delphine LECOCQ",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "DIENI",
+          "prenom": "Alain",
+          "nom_complet": "Alain DIENI",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "GILLET DIDIO",
+          "prenom": "Rosanna",
+          "nom_complet": "Rosanna GILLET DIDIO",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "LOUCHART",
+          "prenom": "Stéphane",
+          "nom_complet": "Stéphane LOUCHART",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "MALAQUIN",
+          "prenom": "Emilie",
+          "nom_complet": "Emilie MALAQUIN",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "DEBROCK",
+          "prenom": "André",
+          "nom_complet": "André DEBROCK",
+          "sexe": "M",
+          "age": 75,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "HABIBOVIC",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie HABIBOVIC",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "RYCKELYNCK",
+          "prenom": "Ludovic",
+          "nom_complet": "Ludovic RYCKELYNCK",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "23"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "code_commune": "62456",
+  "commune": "Houchin",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "LECONTE",
+    "prenom": "Maurice",
+    "nom_complet": "Maurice LECONTE",
+    "age": 75,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 597,
+    "votants": 413,
+    "pct_votants": 69.18,
+    "abstentions": 184,
+    "pct_abstentions": 30.82,
+    "exprimes": 352
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ENSEMBLE POUR HOUCHIN 2026",
+      "libelle_abrege_liste": "ENSEMBLE POUR HOUCHIN 2026",
+      "nuance_liste": null,
+      "voix": 352,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "LECONTE",
+        "prenom": "Maurice",
+        "nom_complet": "Maurice LECONTE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LECONTE",
+          "prenom": "Maurice",
+          "nom_complet": "Maurice LECONTE",
+          "sexe": "M",
+          "age": 75,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BOCQUET",
+          "prenom": "Marjorie",
+          "nom_complet": "Marjorie BOCQUET",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "CUVELIER",
+          "prenom": "Jean-Philippe",
+          "nom_complet": "Jean-Philippe CUVELIER",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DUBOIS",
+          "prenom": "Fanny",
+          "nom_complet": "Fanny DUBOIS",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "TRINEL",
+          "prenom": "Lucien",
+          "nom_complet": "Lucien TRINEL",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DHENIN-BOYAVALLE",
+          "prenom": "Juliette",
+          "nom_complet": "Juliette DHENIN-BOYAVALLE",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "VISEUR",
+          "prenom": "Michel",
+          "nom_complet": "Michel VISEUR",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "GWIZDEK",
+          "prenom": "Cécile",
+          "nom_complet": "Cécile GWIZDEK",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "LEMANSKI",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier LEMANSKI",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "LORENZO",
+          "prenom": "Aurélie",
+          "nom_complet": "Aurélie LORENZO",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "MARCUS",
+          "prenom": "Jonathan",
+          "nom_complet": "Jonathan MARCUS",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "MASINGUE",
+          "prenom": "Aurélie",
+          "nom_complet": "Aurélie MASINGUE",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "WAMBRE",
+          "prenom": "Donovan",
+          "nom_complet": "Donovan WAMBRE",
+          "sexe": "M",
+          "age": 30,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "GUILBERT",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle GUILBERT",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "MARIEN",
+          "prenom": "Jonathan",
+          "nom_complet": "Jonathan MARIEN",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

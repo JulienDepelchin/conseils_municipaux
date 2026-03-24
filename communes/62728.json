@@ -1,0 +1,163 @@
+{
+  "code_commune": "62728",
+  "commune": "Rumaucourt",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "DRUBAY",
+    "prenom": "Didier",
+    "nom_complet": "Didier DRUBAY",
+    "age": 63,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 545,
+    "votants": 244,
+    "pct_votants": 44.77,
+    "abstentions": 301,
+    "pct_abstentions": 55.23,
+    "exprimes": 210
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "LISTE D'UNION POUR LA DEFENSE DES INTERETS COMMUNAUX",
+      "libelle_abrege_liste": "LISTE D'UNION POUR LA DEFENSE DES INTERETS COMMUNAUX",
+      "nuance_liste": null,
+      "voix": 210,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "DRUBAY",
+        "prenom": "Didier",
+        "nom_complet": "Didier DRUBAY",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DRUBAY",
+          "prenom": "Didier",
+          "nom_complet": "Didier DRUBAY",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "GONSE",
+          "prenom": "Véronique",
+          "nom_complet": "Véronique GONSE",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DHENRY",
+          "prenom": "Jean-Charles",
+          "nom_complet": "Jean-Charles DHENRY",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "PONTUS",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie PONTUS",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "WAQUET",
+          "prenom": "Xavier",
+          "nom_complet": "Xavier WAQUET",
+          "sexe": "M",
+          "age": 34,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DEGEUSER",
+          "prenom": "Agathe",
+          "nom_complet": "Agathe DEGEUSER",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DUPLOUYE",
+          "prenom": "Cédric",
+          "nom_complet": "Cédric DUPLOUYE",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "WAESELYNCK",
+          "prenom": "Catherine",
+          "nom_complet": "Catherine WAESELYNCK",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "CAPIZZI",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe CAPIZZI",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "FLIN",
+          "prenom": "Claire",
+          "nom_complet": "Claire FLIN",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "FOURMAUX",
+          "prenom": "Thierry",
+          "nom_complet": "Thierry FOURMAUX",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "GOMEZ",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie GOMEZ",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "NUYTTENS",
+          "prenom": "Arnaud",
+          "nom_complet": "Arnaud NUYTTENS",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "SEVRETTE",
+          "prenom": "Emmeline",
+          "nom_complet": "Emmeline SEVRETTE",
+          "sexe": "F",
+          "age": 26,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "OUDOUX",
+          "prenom": "Jean Louis",
+          "nom_complet": "Jean Louis OUDOUX",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

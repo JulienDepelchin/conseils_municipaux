@@ -1,0 +1,295 @@
+{
+  "code_commune": "62724",
+  "commune": "Rouvroy",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "CUVILLIER",
+    "prenom": "Valérie",
+    "nom_complet": "Valérie CUVILLIER",
+    "age": 57,
+    "nuance": "LCOM"
+  },
+  "resultats": {
+    "inscrits": 6530,
+    "votants": 3772,
+    "pct_votants": 57.76,
+    "abstentions": 2758,
+    "pct_abstentions": 42.24,
+    "exprimes": 3691
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "ROUVROY, NOTRE AMBITION COMMUNE",
+      "libelle_abrege_liste": "ROUVROY, NOTRE AMBITION COMMUNE",
+      "nuance_liste": "LCOM",
+      "voix": 2375,
+      "pct_voix_exprimes": 64.35,
+      "sieges_cm": 24,
+      "sieges_cc": 3,
+      "nb_elus": 24,
+      "tete_de_liste": {
+        "nom": "CUVILLIER",
+        "prenom": "Valérie",
+        "nom_complet": "Valérie CUVILLIER",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "CUVILLIER",
+          "prenom": "Valérie",
+          "nom_complet": "Valérie CUVILLIER",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BONNET",
+          "prenom": "Didier",
+          "nom_complet": "Didier BONNET",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DENDIEVEL",
+          "prenom": "Marjorie",
+          "nom_complet": "Marjorie DENDIEVEL",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "GRANDSART",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric GRANDSART",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "GORAJSKI",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie GORAJSKI",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "GLORIAN",
+          "prenom": "Grégory",
+          "nom_complet": "Grégory GLORIAN",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "ORMAN",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle ORMAN",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "BRIKI",
+          "prenom": "Miloud",
+          "nom_complet": "Miloud BRIKI",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "ZYMNY",
+          "prenom": "Alice",
+          "nom_complet": "Alice ZYMNY",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "HAJA",
+          "prenom": "Manuel",
+          "nom_complet": "Manuel HAJA",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "KARASIEWICZ",
+          "prenom": "Lucie",
+          "nom_complet": "Lucie KARASIEWICZ",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "DERANCOURT",
+          "prenom": "Guillaume",
+          "nom_complet": "Guillaume DERANCOURT",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "DUBOIS",
+          "prenom": "Géraldine",
+          "nom_complet": "Géraldine DUBOIS",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "COTELLE",
+          "prenom": "Mehdi",
+          "nom_complet": "Mehdi COTELLE",
+          "sexe": "M",
+          "age": 34,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "COQUELLE",
+          "prenom": "Murielle",
+          "nom_complet": "Murielle COQUELLE",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "LEDANOIS",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal LEDANOIS",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "HAUW",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie HAUW",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "DANNE",
+          "prenom": "Valentin",
+          "nom_complet": "Valentin DANNE",
+          "sexe": "M",
+          "age": 24,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "REBOLLO",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle REBOLLO",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "GUEANT",
+          "prenom": "Alain",
+          "nom_complet": "Alain GUEANT",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "SIMON",
+          "prenom": "Delphine",
+          "nom_complet": "Delphine SIMON",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "GOBERT",
+          "prenom": "Arnaud",
+          "nom_complet": "Arnaud GOBERT",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "CANIVEZ",
+          "prenom": "Laura",
+          "nom_complet": "Laura CANIVEZ",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "23"
+        },
+        {
+          "nom": "BROEKAERT",
+          "prenom": "Ludovic",
+          "nom_complet": "Ludovic BROEKAERT",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "24"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ROUVROY, C'EST VOUS !",
+      "libelle_abrege_liste": "ROUVROY, C'EST VOUS !",
+      "nuance_liste": "LRN",
+      "voix": 1316,
+      "pct_voix_exprimes": 35.65,
+      "sieges_cm": 5,
+      "sieges_cc": 1,
+      "nb_elus": 5,
+      "tete_de_liste": {
+        "nom": "DE FREITAS",
+        "prenom": "Leandre",
+        "nom_complet": "Leandre DE FREITAS",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DE FREITAS",
+          "prenom": "Leandre",
+          "nom_complet": "Leandre DE FREITAS",
+          "sexe": "M",
+          "age": 28,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "PIETON",
+          "prenom": "Justine",
+          "nom_complet": "Justine PIETON",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DELVILLE",
+          "prenom": "Jean Marc",
+          "nom_complet": "Jean Marc DELVILLE",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LEROY",
+          "prenom": "Doriane",
+          "nom_complet": "Doriane LEROY",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "KOCMIRSKI",
+          "prenom": "Andre",
+          "nom_complet": "Andre KOCMIRSKI",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "5"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

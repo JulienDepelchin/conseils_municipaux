@@ -1,0 +1,131 @@
+{
+  "code_commune": "62853",
+  "commune": "Vieil-Moutier",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "COQUET",
+    "prenom": "Joël",
+    "nom_complet": "Joël COQUET",
+    "age": 74,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 303,
+    "votants": 214,
+    "pct_votants": 70.63,
+    "abstentions": 89,
+    "pct_abstentions": 29.37,
+    "exprimes": 142
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ENSEMBLE DANS LA CONTINUITE",
+      "libelle_abrege_liste": "ENSEMBLE DANS LA CONTINUITE",
+      "nuance_liste": null,
+      "voix": 142,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "COQUET",
+        "prenom": "Joël",
+        "nom_complet": "Joël COQUET",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "COQUET",
+          "prenom": "Joël",
+          "nom_complet": "Joël COQUET",
+          "sexe": "M",
+          "age": 74,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "ALIZIER",
+          "prenom": "Laura",
+          "nom_complet": "Laura ALIZIER",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BERNARD",
+          "prenom": "Valentin",
+          "nom_complet": "Valentin BERNARD",
+          "sexe": "M",
+          "age": 27,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "CAPRON",
+          "prenom": "Martine",
+          "nom_complet": "Martine CAPRON",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "QUIERTANT",
+          "prenom": "Franck",
+          "nom_complet": "Franck QUIERTANT",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LEDUC",
+          "prenom": "Delphine",
+          "nom_complet": "Delphine LEDUC",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "LEGRAND",
+          "prenom": "Eric",
+          "nom_complet": "Eric LEGRAND",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "ANSEL",
+          "prenom": "Betty",
+          "nom_complet": "Betty ANSEL",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "LEFRANC",
+          "prenom": "Aurélien",
+          "nom_complet": "Aurélien LEFRANC",
+          "sexe": "M",
+          "age": 32,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "HENIART",
+          "prenom": "Elodie",
+          "nom_complet": "Elodie HENIART",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "EURIN",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe EURIN",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

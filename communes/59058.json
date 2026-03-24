@@ -1,0 +1,183 @@
+{
+  "code_commune": "59058",
+  "commune": "Beaufort",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "PÉCHER",
+    "prenom": "Thérèse",
+    "nom_complet": "Thérèse PÉCHER",
+    "age": 72,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 781,
+    "votants": 600,
+    "pct_votants": 76.82,
+    "abstentions": 181,
+    "pct_abstentions": 23.18,
+    "exprimes": 588
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "BEAUFORT ENSEMBLE",
+      "libelle_abrege_liste": "BEAUFORT ENSEMBLE",
+      "nuance_liste": null,
+      "voix": 358,
+      "pct_voix_exprimes": 60.88,
+      "sieges_cm": 12,
+      "sieges_cc": null,
+      "nb_elus": 12,
+      "tete_de_liste": {
+        "nom": "PÉCHER",
+        "prenom": "Thérèse",
+        "nom_complet": "Thérèse PÉCHER",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "PÉCHER",
+          "prenom": "Thérèse",
+          "nom_complet": "Thérèse PÉCHER",
+          "sexe": "F",
+          "age": 72,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LIÉNARD",
+          "prenom": "Ludovic",
+          "nom_complet": "Ludovic LIÉNARD",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "ROSIER",
+          "prenom": "Francine",
+          "nom_complet": "Francine ROSIER",
+          "sexe": "F",
+          "age": 71,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BOUCNEAU",
+          "prenom": "Pierre",
+          "nom_complet": "Pierre BOUCNEAU",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DUBRAY-BRICOUT",
+          "prenom": "Annie",
+          "nom_complet": "Annie DUBRAY-BRICOUT",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "SUQUET",
+          "prenom": "Rémi",
+          "nom_complet": "Rémi SUQUET",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BARTHOLOMÉ",
+          "prenom": "Patricia",
+          "nom_complet": "Patricia BARTHOLOMÉ",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "GRYGOWSKI",
+          "prenom": "Sylvain",
+          "nom_complet": "Sylvain GRYGOWSKI",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "WASTERLAIN",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie WASTERLAIN",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DAUZAT",
+          "prenom": "Grégory",
+          "nom_complet": "Grégory DAUZAT",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "GEAIRAIN",
+          "prenom": "Ségolaine",
+          "nom_complet": "Ségolaine GEAIRAIN",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "STAQUET",
+          "prenom": "Emmanuel",
+          "nom_complet": "Emmanuel STAQUET",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "12"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "BEAUFORT AUTREMENT",
+      "libelle_abrege_liste": "BEAUFORT AUTREMENT",
+      "nuance_liste": null,
+      "voix": 230,
+      "pct_voix_exprimes": 39.12,
+      "sieges_cm": 3,
+      "sieges_cc": null,
+      "nb_elus": 3,
+      "tete_de_liste": {
+        "nom": "VANDEKERKHOVE",
+        "prenom": "Fabrice",
+        "nom_complet": "Fabrice VANDEKERKHOVE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "VANDEKERKHOVE",
+          "prenom": "Fabrice",
+          "nom_complet": "Fabrice VANDEKERKHOVE",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DUMON",
+          "prenom": "Sabrina",
+          "nom_complet": "Sabrina DUMON",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BRULE",
+          "prenom": "Jean-Philippe",
+          "nom_complet": "Jean-Philippe BRULE",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "3"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

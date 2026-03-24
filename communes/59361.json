@@ -1,0 +1,259 @@
+{
+  "code_commune": "59361",
+  "commune": "Lourches",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "DUWEZ-GUESMIA",
+    "prenom": "Dalila",
+    "nom_complet": "Dalila DUWEZ-GUESMIA",
+    "age": 65,
+    "nuance": "LDVG"
+  },
+  "resultats": {
+    "inscrits": 2346,
+    "votants": 801,
+    "pct_votants": 34.14,
+    "abstentions": 1545,
+    "pct_abstentions": 65.86,
+    "exprimes": 632
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "UNIS POUR L'AVENIR",
+      "libelle_abrege_liste": "UNIS POUR L'AVENIR",
+      "nuance_liste": "LDVG",
+      "voix": 632,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 27,
+      "sieges_cc": 2,
+      "nb_elus": 27,
+      "tete_de_liste": {
+        "nom": "DUWEZ-GUESMIA",
+        "prenom": "Dalila",
+        "nom_complet": "Dalila DUWEZ-GUESMIA",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "DUWEZ-GUESMIA",
+          "prenom": "Dalila",
+          "nom_complet": "Dalila DUWEZ-GUESMIA",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "FABRE",
+          "prenom": "Didier",
+          "nom_complet": "Didier FABRE",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DE CARVALHO",
+          "prenom": "Lydie",
+          "nom_complet": "Lydie DE CARVALHO",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "VASSEUR",
+          "prenom": "Michel",
+          "nom_complet": "Michel VASSEUR",
+          "sexe": "M",
+          "age": 78,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "CATTIAUX",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle CATTIAUX",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "CARTIERRE",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal CARTIERRE",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BIHYA-BENALLAL",
+          "prenom": "Chafia",
+          "nom_complet": "Chafia BIHYA-BENALLAL",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "FOGAL",
+          "prenom": "Roberto",
+          "nom_complet": "Roberto FOGAL",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "VOILLOT",
+          "prenom": "Véronique",
+          "nom_complet": "Véronique VOILLOT",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DUHEM",
+          "prenom": "Marc",
+          "nom_complet": "Marc DUHEM",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "BRUNIAUX",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie BRUNIAUX",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "GUESMIA",
+          "prenom": "Farid",
+          "nom_complet": "Farid GUESMIA",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "LEGRAND",
+          "prenom": "Cécilia",
+          "nom_complet": "Cécilia LEGRAND",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "GRÉGOR",
+          "prenom": "Didier",
+          "nom_complet": "Didier GRÉGOR",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "SERPE",
+          "prenom": "Sonia",
+          "nom_complet": "Sonia SERPE",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "WOUTERS",
+          "prenom": "Thierry",
+          "nom_complet": "Thierry WOUTERS",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "TERROUCHE",
+          "prenom": "Maggy",
+          "nom_complet": "Maggy TERROUCHE",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "DRICI",
+          "prenom": "Yannis",
+          "nom_complet": "Yannis DRICI",
+          "sexe": "M",
+          "age": 26,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "ANGIOÏ",
+          "prenom": "Lauréna",
+          "nom_complet": "Lauréna ANGIOÏ",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "LARDÉ",
+          "prenom": "Yohan",
+          "nom_complet": "Yohan LARDÉ",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "BIHYA",
+          "prenom": "Assia",
+          "nom_complet": "Assia BIHYA",
+          "sexe": "F",
+          "age": 21,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "DELFORGE",
+          "prenom": "Johan",
+          "nom_complet": "Johan DELFORGE",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "LECAT",
+          "prenom": "Francine",
+          "nom_complet": "Francine LECAT",
+          "sexe": "F",
+          "age": 77,
+          "rang_liste": "23"
+        },
+        {
+          "nom": "THUILLIEZ",
+          "prenom": "Michel",
+          "nom_complet": "Michel THUILLIEZ",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "24"
+        },
+        {
+          "nom": "LEGRAND",
+          "prenom": "Alfréda",
+          "nom_complet": "Alfréda LEGRAND",
+          "sexe": "F",
+          "age": 78,
+          "rang_liste": "25"
+        },
+        {
+          "nom": "PETIT",
+          "prenom": "Alain",
+          "nom_complet": "Alain PETIT",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "26"
+        },
+        {
+          "nom": "FOGAL",
+          "prenom": "Martine",
+          "nom_complet": "Martine FOGAL",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "27"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

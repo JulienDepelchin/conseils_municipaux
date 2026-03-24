@@ -1,0 +1,517 @@
+{
+  "code_commune": "62193",
+  "commune": "Calais",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "BOUCHART",
+    "prenom": "Natacha",
+    "nom_complet": "Natacha BOUCHART",
+    "age": 62,
+    "nuance": "LDVD"
+  },
+  "resultats": {
+    "inscrits": 51631,
+    "votants": 26123,
+    "pct_votants": 50.6,
+    "abstentions": 25508,
+    "pct_abstentions": 49.4,
+    "exprimes": 25663
+  },
+  "listes": [
+    {
+      "num_panneau": "4",
+      "libelle_liste": "Se battre pour Calais",
+      "libelle_abrege_liste": "Se battre pour Calais",
+      "nuance_liste": "LDVD",
+      "voix": 15412,
+      "pct_voix_exprimes": 60.06,
+      "sieges_cm": 41,
+      "sieges_cc": 21,
+      "nb_elus": 41,
+      "tete_de_liste": {
+        "nom": "BOUCHART",
+        "prenom": "Natacha",
+        "nom_complet": "Natacha BOUCHART",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "BOUCHART",
+          "prenom": "Natacha",
+          "nom_complet": "Natacha BOUCHART",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "HENOT",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric HENOT",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "MALIAR",
+          "prenom": "Faustine",
+          "nom_complet": "Faustine MALIAR",
+          "sexe": "F",
+          "age": 30,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BAHEUX",
+          "prenom": "Eric",
+          "nom_complet": "Eric BAHEUX",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "MATRAT",
+          "prenom": "Caroline",
+          "nom_complet": "Caroline MATRAT",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "PESTRE",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal PESTRE",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "ERRAZI",
+          "prenom": "Nora",
+          "nom_complet": "Nora ERRAZI",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "KARA",
+          "prenom": "Ezedine",
+          "nom_complet": "Ezedine KARA",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "RIGAUX",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie RIGAUX",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "FINOT",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique FINOT",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "GARDIN",
+          "prenom": "Christine",
+          "nom_complet": "Christine GARDIN",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "LOZANO",
+          "prenom": "Ladislas",
+          "nom_complet": "Ladislas LOZANO",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "FONTAINE",
+          "prenom": "Janique",
+          "nom_complet": "Janique FONTAINE",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "CORDENOS",
+          "prenom": "Julien",
+          "nom_complet": "Julien CORDENOS",
+          "sexe": "M",
+          "age": 29,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "LANNOY",
+          "prenom": "Aline",
+          "nom_complet": "Aline LANNOY",
+          "sexe": "F",
+          "age": 25,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "MIGNONET",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe MIGNONET",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "VAN ROOY",
+          "prenom": "Frédérique",
+          "nom_complet": "Frédérique VAN ROOY",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "LENOIR",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent LENOIR",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "DUCORROY",
+          "prenom": "Josiane",
+          "nom_complet": "Josiane DUCORROY",
+          "sexe": "F",
+          "age": 70,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "DOMAIN",
+          "prenom": "Denis",
+          "nom_complet": "Denis DOMAIN",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "DEVIN",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie DEVIN",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "BUTTEZ",
+          "prenom": "Willy",
+          "nom_complet": "Willy BUTTEZ",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "BOUAZZI",
+          "prenom": "Malika",
+          "nom_complet": "Malika BOUAZZI",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "23"
+        },
+        {
+          "nom": "LAPOTRE",
+          "prenom": "Sylvain",
+          "nom_complet": "Sylvain LAPOTRE",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "24"
+        },
+        {
+          "nom": "LEDOUX",
+          "prenom": "Delphine",
+          "nom_complet": "Delphine LEDOUX",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "25"
+        },
+        {
+          "nom": "PILLE",
+          "prenom": "François",
+          "nom_complet": "François PILLE",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "26"
+        },
+        {
+          "nom": "LACHEVRE",
+          "prenom": "Dorothée",
+          "nom_complet": "Dorothée LACHEVRE",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "27"
+        },
+        {
+          "nom": "LEVELEUX",
+          "prenom": "Théo",
+          "nom_complet": "Théo LEVELEUX",
+          "sexe": "M",
+          "age": 22,
+          "rang_liste": "28"
+        },
+        {
+          "nom": "DELANGHE",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle DELANGHE",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "29"
+        },
+        {
+          "nom": "JORE",
+          "prenom": "Sylvain",
+          "nom_complet": "Sylvain JORE",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "30"
+        },
+        {
+          "nom": "STANKOWIAK",
+          "prenom": "Muriel",
+          "nom_complet": "Muriel STANKOWIAK",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "31"
+        },
+        {
+          "nom": "DARRÉ",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique DARRÉ",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "32"
+        },
+        {
+          "nom": "MOUCHON",
+          "prenom": "Josiane",
+          "nom_complet": "Josiane MOUCHON",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "33"
+        },
+        {
+          "nom": "POLLET",
+          "prenom": "Cyril",
+          "nom_complet": "Cyril POLLET",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "34"
+        },
+        {
+          "nom": "BOYAVAL",
+          "prenom": "Françoise",
+          "nom_complet": "Françoise BOYAVAL",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "35"
+        },
+        {
+          "nom": "LEROY",
+          "prenom": "Jean-Marc",
+          "nom_complet": "Jean-Marc LEROY",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "36"
+        },
+        {
+          "nom": "MOUCHON",
+          "prenom": "Guilaine",
+          "nom_complet": "Guilaine MOUCHON",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "37"
+        },
+        {
+          "nom": "MANSARD",
+          "prenom": "Jean-Jacques",
+          "nom_complet": "Jean-Jacques MANSARD",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "38"
+        },
+        {
+          "nom": "COULIOU",
+          "prenom": "Céline",
+          "nom_complet": "Céline COULIOU",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "39"
+        },
+        {
+          "nom": "RYCKMANN",
+          "prenom": "Erwann",
+          "nom_complet": "Erwann RYCKMANN",
+          "sexe": "M",
+          "age": 21,
+          "rang_liste": "40"
+        },
+        {
+          "nom": "ALEXANDRE",
+          "prenom": "Christine",
+          "nom_complet": "Christine ALEXANDRE",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "41"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "6",
+      "libelle_liste": "Unis pour Calais !",
+      "libelle_abrege_liste": "Unis pour Calais !",
+      "nuance_liste": "LRN",
+      "voix": 7031,
+      "pct_voix_exprimes": 27.4,
+      "sieges_cm": 7,
+      "sieges_cc": 4,
+      "nb_elus": 7,
+      "tete_de_liste": {
+        "nom": "DE FLEURIAN",
+        "prenom": "Marc",
+        "nom_complet": "Marc DE FLEURIAN",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DE FLEURIAN",
+          "prenom": "Marc",
+          "nom_complet": "Marc DE FLEURIAN",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LEBLOND",
+          "prenom": "Edwige",
+          "nom_complet": "Edwige LEBLOND",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LEBON",
+          "prenom": "Francis",
+          "nom_complet": "Francis LEBON",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DEMARET",
+          "prenom": "Sandrine",
+          "nom_complet": "Sandrine DEMARET",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LYOEN",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe LYOEN",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "MACQUAERT",
+          "prenom": "Marie-Laurence",
+          "nom_complet": "Marie-Laurence MACQUAERT",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "LOUIS",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal LOUIS",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "7"
+        }
+      ],
+      "statut_conseil": "autre"
+    },
+    {
+      "num_panneau": "5",
+      "libelle_liste": "Calais à gauche toute - Union Populaire, Ecologique et Sociale",
+      "libelle_abrege_liste": "Calais à gauche toute - Union Populaire, Ecologique et Sociale",
+      "nuance_liste": "LFI",
+      "voix": 1360,
+      "pct_voix_exprimes": 5.3,
+      "sieges_cm": 1,
+      "sieges_cc": 0,
+      "nb_elus": 1,
+      "tete_de_liste": {
+        "nom": "LANNOY",
+        "prenom": "Jean-Philippe",
+        "nom_complet": "Jean-Philippe LANNOY",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LANNOY",
+          "prenom": "Jean-Philippe",
+          "nom_complet": "Jean-Philippe LANNOY",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "1"
+        }
+      ],
+      "statut_conseil": "autre"
+    },
+    {
+      "num_panneau": "3",
+      "libelle_liste": "Agissons pour Calais",
+      "libelle_abrege_liste": "Agissons pour Calais",
+      "nuance_liste": "LUG",
+      "voix": 1078,
+      "pct_voix_exprimes": 4.2,
+      "sieges_cm": 0,
+      "sieges_cc": 0,
+      "nb_elus": 0,
+      "tete_de_liste": null,
+      "elus": [],
+      "statut_conseil": "sans_elu"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "Réussir pour Calais!",
+      "libelle_abrege_liste": "Réussir pour Calais!",
+      "nuance_liste": "LDVG",
+      "voix": 483,
+      "pct_voix_exprimes": 1.88,
+      "sieges_cm": 0,
+      "sieges_cc": 0,
+      "nb_elus": 0,
+      "tete_de_liste": null,
+      "elus": [],
+      "statut_conseil": "sans_elu"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Lutte ouvrière - le camp des travailleurs",
+      "libelle_abrege_liste": "Lutte ouvrière - le camp des travailleurs",
+      "nuance_liste": "LEXG",
+      "voix": 299,
+      "pct_voix_exprimes": 1.17,
+      "sieges_cm": 0,
+      "sieges_cc": 0,
+      "nb_elus": 0,
+      "tete_de_liste": null,
+      "elus": [],
+      "statut_conseil": "sans_elu"
+    }
+  ]
+}

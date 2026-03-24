@@ -1,0 +1,131 @@
+{
+  "code_commune": "59169",
+  "commune": "Damousies",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "MASURE",
+    "prenom": "Reinold",
+    "nom_complet": "Reinold MASURE",
+    "age": 58,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 159,
+    "votants": 100,
+    "pct_votants": 62.89,
+    "abstentions": 59,
+    "pct_abstentions": 37.11,
+    "exprimes": 94
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Ensemble pour Damousies",
+      "libelle_abrege_liste": "Ensemble pour Damousies",
+      "nuance_liste": null,
+      "voix": 94,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "MASURE",
+        "prenom": "Reinold",
+        "nom_complet": "Reinold MASURE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "MASURE",
+          "prenom": "Reinold",
+          "nom_complet": "Reinold MASURE",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "SOIL",
+          "prenom": "Chantal",
+          "nom_complet": "Chantal SOIL",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "SCULIER",
+          "prenom": "Léandre",
+          "nom_complet": "Léandre SCULIER",
+          "sexe": "M",
+          "age": 76,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "PETIT",
+          "prenom": "Delphine",
+          "nom_complet": "Delphine PETIT",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "HUFTIER",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe HUFTIER",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "MONIER",
+          "prenom": "Séverine",
+          "nom_complet": "Séverine MONIER",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "WAYMEL",
+          "prenom": "Charles",
+          "nom_complet": "Charles WAYMEL",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DUCROT",
+          "prenom": "Amandine",
+          "nom_complet": "Amandine DUCROT",
+          "sexe": "F",
+          "age": 30,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "CHAMOT",
+          "prenom": "Johan",
+          "nom_complet": "Johan CHAMOT",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "HAUMONT",
+          "prenom": "Hélène",
+          "nom_complet": "Hélène HAUMONT",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "MINON",
+          "prenom": "Félix",
+          "nom_complet": "Félix MINON",
+          "sexe": "M",
+          "age": 21,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

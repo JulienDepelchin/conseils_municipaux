@@ -1,0 +1,383 @@
+{
+  "code_commune": "59163",
+  "commune": "Croix",
+  "departement": "Nord",
+  "tour": "T2",
+  "maire": {
+    "nom": "CAUCHE",
+    "prenom": "Regis",
+    "nom_complet": "Regis CAUCHE",
+    "age": 72,
+    "nuance": "LDVD"
+  },
+  "resultats": {
+    "inscrits": 14034,
+    "votants": 7017,
+    "pct_votants": 50,
+    "abstentions": 7017,
+    "pct_abstentions": 50,
+    "exprimes": 6900
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "ENSEMBLE POUR L'AVENIR DE CROIX",
+      "libelle_abrege_liste": "ENSEMBLE POUR L'AVENIR DE CROIX",
+      "nuance_liste": "LDVD",
+      "voix": 3027,
+      "pct_voix_exprimes": 43.87,
+      "sieges_cm": 26,
+      "sieges_cc": 2,
+      "nb_elus": 26,
+      "tete_de_liste": {
+        "nom": "CAUCHE",
+        "prenom": "Regis",
+        "nom_complet": "Regis CAUCHE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "CAUCHE",
+          "prenom": "Regis",
+          "nom_complet": "Regis CAUCHE",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "VOGEL",
+          "prenom": "Veronique",
+          "nom_complet": "Veronique VOGEL",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "SONNTAG",
+          "prenom": "Pierre",
+          "nom_complet": "Pierre SONNTAG",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "SISEAU",
+          "prenom": "Emmanuelle",
+          "nom_complet": "Emmanuelle SISEAU",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "SILLANI",
+          "prenom": "Antoine",
+          "nom_complet": "Antoine SILLANI",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "BLOCK",
+          "prenom": "Fanny",
+          "nom_complet": "Fanny BLOCK",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "LECOMTE",
+          "prenom": "Georges",
+          "nom_complet": "Georges LECOMTE",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LAVEISSIERE",
+          "prenom": "Catherine",
+          "nom_complet": "Catherine LAVEISSIERE",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "HENNION",
+          "prenom": "Jory",
+          "nom_complet": "Jory HENNION",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "KIELISZEK",
+          "prenom": "Corinne",
+          "nom_complet": "Corinne KIELISZEK",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DIETSCH",
+          "prenom": "Eric",
+          "nom_complet": "Eric DIETSCH",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "BERMANN",
+          "prenom": "Clara",
+          "nom_complet": "Clara BERMANN",
+          "sexe": "F",
+          "age": 29,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "BALTEAUX",
+          "prenom": "Pierre",
+          "nom_complet": "Pierre BALTEAUX",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "DELSALLE",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie DELSALLE",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "LEBLOND",
+          "prenom": "François",
+          "nom_complet": "François LEBLOND",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "CAROEN",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle CAROEN",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "STIEVENARD",
+          "prenom": "Mathieu",
+          "nom_complet": "Mathieu STIEVENARD",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "AGUESSE",
+          "prenom": "Rose",
+          "nom_complet": "Rose AGUESSE",
+          "sexe": "F",
+          "age": 31,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "GARNIER",
+          "prenom": "Anthony",
+          "nom_complet": "Anthony GARNIER",
+          "sexe": "M",
+          "age": 22,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "VANCAUWENBERGHE",
+          "prenom": "Valerie",
+          "nom_complet": "Valerie VANCAUWENBERGHE",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "DESCAMPS",
+          "prenom": "Arnaud",
+          "nom_complet": "Arnaud DESCAMPS",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "KNAUFF",
+          "prenom": "Laurie",
+          "nom_complet": "Laurie KNAUFF",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "DESPRETZ",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick DESPRETZ",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "23"
+        },
+        {
+          "nom": "VIGIER",
+          "prenom": "Vanessa",
+          "nom_complet": "Vanessa VIGIER",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "24"
+        },
+        {
+          "nom": "DELPLACE",
+          "prenom": "Guy-Maxime",
+          "nom_complet": "Guy-Maxime DELPLACE",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "25"
+        },
+        {
+          "nom": "DE DECKER",
+          "prenom": "Marie-Hélène",
+          "nom_complet": "Marie-Hélène DE DECKER",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "26"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "L'UNION POUR CROIX",
+      "libelle_abrege_liste": "L'UNION POUR CROIX",
+      "nuance_liste": "LDVC",
+      "voix": 2397,
+      "pct_voix_exprimes": 34.74,
+      "sieges_cm": 6,
+      "sieges_cc": 0,
+      "nb_elus": 6,
+      "tete_de_liste": {
+        "nom": "VERCAMER",
+        "prenom": "Valentine",
+        "nom_complet": "Valentine VERCAMER",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "VERCAMER",
+          "prenom": "Valentine",
+          "nom_complet": "Valentine VERCAMER",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "CALIFANO",
+          "prenom": "Mario",
+          "nom_complet": "Mario CALIFANO",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LOHEZ",
+          "prenom": "Céline",
+          "nom_complet": "Céline LOHEZ",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "MONCEAU",
+          "prenom": "Alexandre",
+          "nom_complet": "Alexandre MONCEAU",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DELOBEL",
+          "prenom": "Karen",
+          "nom_complet": "Karen DELOBEL",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "JACOBSON",
+          "prenom": "Pierre Patrick",
+          "nom_complet": "Pierre Patrick JACOBSON",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "6"
+        }
+      ],
+      "statut_conseil": "autre"
+    },
+    {
+      "num_panneau": "3",
+      "libelle_liste": "Ensemble pour Croix 2026",
+      "libelle_abrege_liste": "Ensemble pour Croix 2026",
+      "nuance_liste": "LDVG",
+      "voix": 892,
+      "pct_voix_exprimes": 12.93,
+      "sieges_cm": 2,
+      "sieges_cc": 0,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "SOBOCINSKI",
+        "prenom": "Jean Maximilien",
+        "nom_complet": "Jean Maximilien SOBOCINSKI",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "SOBOCINSKI",
+          "prenom": "Jean Maximilien",
+          "nom_complet": "Jean Maximilien SOBOCINSKI",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "VIARD",
+          "prenom": "Hélène",
+          "nom_complet": "Hélène VIARD",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    },
+    {
+      "num_panneau": "4",
+      "libelle_liste": "CROIX INSOUMISE ET CITOYENS",
+      "libelle_abrege_liste": "CROIX INSOUMISE ET CITOYENS",
+      "nuance_liste": "LFI",
+      "voix": 584,
+      "pct_voix_exprimes": 8.46,
+      "sieges_cm": 1,
+      "sieges_cc": 0,
+      "nb_elus": 1,
+      "tete_de_liste": {
+        "nom": "PECQUEUR",
+        "prenom": "Sophie",
+        "nom_complet": "Sophie PECQUEUR",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "PECQUEUR",
+          "prenom": "Sophie",
+          "nom_complet": "Sophie PECQUEUR",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "1"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

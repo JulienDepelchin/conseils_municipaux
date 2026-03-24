@@ -1,0 +1,131 @@
+{
+  "code_commune": "62504",
+  "commune": "Leulinghem",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "CLABAUT",
+    "prenom": "Alain",
+    "nom_complet": "Alain CLABAUT",
+    "age": 79,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 182,
+    "votants": 134,
+    "pct_votants": 73.63,
+    "abstentions": 48,
+    "pct_abstentions": 26.37,
+    "exprimes": 112
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Bien vivre à Leulinghem",
+      "libelle_abrege_liste": "Bien vivre à Leulinghem",
+      "nuance_liste": null,
+      "voix": 112,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "CLABAUT",
+        "prenom": "Alain",
+        "nom_complet": "Alain CLABAUT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "CLABAUT",
+          "prenom": "Alain",
+          "nom_complet": "Alain CLABAUT",
+          "sexe": "M",
+          "age": 79,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "CARLU",
+          "prenom": "Lucie",
+          "nom_complet": "Lucie CARLU",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "MAUFFAIT",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent MAUFFAIT",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "MACREZ",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie MACREZ",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "CLABAUT",
+          "prenom": "Marc",
+          "nom_complet": "Marc CLABAUT",
+          "sexe": "M",
+          "age": 74,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LEMAIRE",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie LEMAIRE",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BOCQUET",
+          "prenom": "Daniel",
+          "nom_complet": "Daniel BOCQUET",
+          "sexe": "M",
+          "age": 74,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DERMENGHEM",
+          "prenom": "Elodie",
+          "nom_complet": "Elodie DERMENGHEM",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "CLABAUT",
+          "prenom": "Etienne",
+          "nom_complet": "Etienne CLABAUT",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "BERTHELEMY",
+          "prenom": "Anne",
+          "nom_complet": "Anne BERTHELEMY",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "FAYEULLE",
+          "prenom": "David",
+          "nom_complet": "David FAYEULLE",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

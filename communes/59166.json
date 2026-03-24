@@ -1,0 +1,183 @@
+{
+  "code_commune": "59166",
+  "commune": "Curgies",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "VANESSE",
+    "prenom": "Didier",
+    "nom_complet": "Didier VANESSE",
+    "age": 67,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1062,
+    "votants": 713,
+    "pct_votants": 67.14,
+    "abstentions": 349,
+    "pct_abstentions": 32.86,
+    "exprimes": 694
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "UNIS POUR CURGIES",
+      "libelle_abrege_liste": "UNIS POUR CURGIES",
+      "nuance_liste": null,
+      "voix": 429,
+      "pct_voix_exprimes": 61.82,
+      "sieges_cm": 12,
+      "sieges_cc": 1,
+      "nb_elus": 12,
+      "tete_de_liste": {
+        "nom": "VANESSE",
+        "prenom": "Didier",
+        "nom_complet": "Didier VANESSE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "VANESSE",
+          "prenom": "Didier",
+          "nom_complet": "Didier VANESSE",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "ARBONNIER",
+          "prenom": "Lucie",
+          "nom_complet": "Lucie ARBONNIER",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BREMENT",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick BREMENT",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "VANESSE",
+          "prenom": "Marie-Béatrice",
+          "nom_complet": "Marie-Béatrice VANESSE",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "BARBIEUX",
+          "prenom": "Pierre",
+          "nom_complet": "Pierre BARBIEUX",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LEVEUGLE",
+          "prenom": "Laure",
+          "nom_complet": "Laure LEVEUGLE",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DANHIEZ",
+          "prenom": "Alain",
+          "nom_complet": "Alain DANHIEZ",
+          "sexe": "M",
+          "age": 74,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "HOT SOUFFLET",
+          "prenom": "Brigitte",
+          "nom_complet": "Brigitte HOT SOUFFLET",
+          "sexe": "F",
+          "age": 70,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DESMEDT",
+          "prenom": "Charles",
+          "nom_complet": "Charles DESMEDT",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DEMOUTIEZ",
+          "prenom": "Lauranne",
+          "nom_complet": "Lauranne DEMOUTIEZ",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "WALGRAEVE",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe WALGRAEVE",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "HOT",
+          "prenom": "Anne-Sophie",
+          "nom_complet": "Anne-Sophie HOT",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "12"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ENSEMBLE POUR CURGIES",
+      "libelle_abrege_liste": "ENSEMBLE POUR CURGIES",
+      "nuance_liste": null,
+      "voix": 265,
+      "pct_voix_exprimes": 38.18,
+      "sieges_cm": 3,
+      "sieges_cc": 0,
+      "nb_elus": 3,
+      "tete_de_liste": {
+        "nom": "ANGLADE",
+        "prenom": "Michaël",
+        "nom_complet": "Michaël ANGLADE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "ANGLADE",
+          "prenom": "Michaël",
+          "nom_complet": "Michaël ANGLADE",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BARDIAUX",
+          "prenom": "Elsa",
+          "nom_complet": "Elsa BARDIAUX",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "MELON",
+          "prenom": "Franck",
+          "nom_complet": "Franck MELON",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "3"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

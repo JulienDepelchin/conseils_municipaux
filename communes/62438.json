@@ -1,0 +1,163 @@
+{
+  "code_commune": "62438",
+  "commune": "Hermaville",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "DÉTOURNÉ",
+    "prenom": "Jean-François",
+    "nom_complet": "Jean-François DÉTOURNÉ",
+    "age": 56,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 488,
+    "votants": 309,
+    "pct_votants": 63.32,
+    "abstentions": 179,
+    "pct_abstentions": 36.68,
+    "exprimes": 275
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "POUR HERMAVILLE AVANÇONS ENSEMBLE",
+      "libelle_abrege_liste": "POUR HERMAVILLE AVANÇONS ENSEMBLE",
+      "nuance_liste": null,
+      "voix": 275,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "DÉTOURNÉ",
+        "prenom": "Jean-François",
+        "nom_complet": "Jean-François DÉTOURNÉ",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DÉTOURNÉ",
+          "prenom": "Jean-François",
+          "nom_complet": "Jean-François DÉTOURNÉ",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "PACHECO",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle PACHECO",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LOTH",
+          "prenom": "Sébastien",
+          "nom_complet": "Sébastien LOTH",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "PARMENTIER",
+          "prenom": "Sandrine",
+          "nom_complet": "Sandrine PARMENTIER",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LESOING",
+          "prenom": "Daniel",
+          "nom_complet": "Daniel LESOING",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "TURPIN",
+          "prenom": "Céline",
+          "nom_complet": "Céline TURPIN",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "HELART",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric HELART",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DAUTRICHE",
+          "prenom": "Aurelie",
+          "nom_complet": "Aurelie DAUTRICHE",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "POUCHAIN",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe POUCHAIN",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DIEVAL",
+          "prenom": "Audrey",
+          "nom_complet": "Audrey DIEVAL",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "BOUBERT",
+          "prenom": "Vincent",
+          "nom_complet": "Vincent BOUBERT",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "LOUIS",
+          "prenom": "Cidjie",
+          "nom_complet": "Cidjie LOUIS",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "BOUTIN",
+          "prenom": "Pierre",
+          "nom_complet": "Pierre BOUTIN",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "SAGNIEZ",
+          "prenom": "Claire",
+          "nom_complet": "Claire SAGNIEZ",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "BRIDOUX",
+          "prenom": "Sebastien",
+          "nom_complet": "Sebastien BRIDOUX",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

@@ -1,0 +1,279 @@
+{
+  "code_commune": "59301",
+  "commune": "Hergnies",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "MERIAUX",
+    "prenom": "Anthony",
+    "nom_complet": "Anthony MERIAUX",
+    "age": 41,
+    "nuance": "LEXD"
+  },
+  "resultats": {
+    "inscrits": 3518,
+    "votants": 2055,
+    "pct_votants": 58.41,
+    "abstentions": 1463,
+    "pct_abstentions": 41.59,
+    "exprimes": 1971
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "DU BON SENS POUR HERGNIES",
+      "libelle_abrege_liste": "DU BON SENS POUR HERGNIES",
+      "nuance_liste": "LEXD",
+      "voix": 1012,
+      "pct_voix_exprimes": 51.34,
+      "sieges_cm": 21,
+      "sieges_cc": 2,
+      "nb_elus": 21,
+      "tete_de_liste": {
+        "nom": "MERIAUX",
+        "prenom": "Anthony",
+        "nom_complet": "Anthony MERIAUX",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "MERIAUX",
+          "prenom": "Anthony",
+          "nom_complet": "Anthony MERIAUX",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DI CRISTINA",
+          "prenom": "Julie",
+          "nom_complet": "Julie DI CRISTINA",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "CHOMBART",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric CHOMBART",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "PIQUE",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique PIQUE",
+          "sexe": "F",
+          "age": 70,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "HOOGERS",
+          "prenom": "Jacky",
+          "nom_complet": "Jacky HOOGERS",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DOULIEZ",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie DOULIEZ",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "VILAIN-ALLARD",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique VILAIN-ALLARD",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "CHARLEZ",
+          "prenom": "Delphine",
+          "nom_complet": "Delphine CHARLEZ",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "KOZAL",
+          "prenom": "Arnaud",
+          "nom_complet": "Arnaud KOZAL",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "TRÉFOIS",
+          "prenom": "Hélèna",
+          "nom_complet": "Hélèna TRÉFOIS",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "SLATKOVIE",
+          "prenom": "Philippe Maurice",
+          "nom_complet": "Philippe Maurice SLATKOVIE",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "VANDYCKE-NOÉ",
+          "prenom": "Nadège",
+          "nom_complet": "Nadège VANDYCKE-NOÉ",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "FONTAINE",
+          "prenom": "Pierre-Mary",
+          "nom_complet": "Pierre-Mary FONTAINE",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "PACE",
+          "prenom": "Sylia",
+          "nom_complet": "Sylia PACE",
+          "sexe": "F",
+          "age": 19,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "DAPSENCE",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas DAPSENCE",
+          "sexe": "M",
+          "age": 29,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "FORTE",
+          "prenom": "Alicia",
+          "nom_complet": "Alicia FORTE",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "JOUVENAUX",
+          "prenom": "David",
+          "nom_complet": "David JOUVENAUX",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "VERCAIGNE",
+          "prenom": "Caroline",
+          "nom_complet": "Caroline VERCAIGNE",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "VANDICHELE",
+          "prenom": "Kevin",
+          "nom_complet": "Kevin VANDICHELE",
+          "sexe": "M",
+          "age": 33,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "ZIOLKOWSKI",
+          "prenom": "Florie",
+          "nom_complet": "Florie ZIOLKOWSKI",
+          "sexe": "F",
+          "age": 25,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "IVAIN",
+          "prenom": "Yannick",
+          "nom_complet": "Yannick IVAIN",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "21"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "UNIS ET SOLIDAIRES POUR HERGNIES",
+      "libelle_abrege_liste": "UNIS ET SOLIDAIRES POUR HERGNIES",
+      "nuance_liste": "LDVD",
+      "voix": 959,
+      "pct_voix_exprimes": 48.66,
+      "sieges_cm": 6,
+      "sieges_cc": 0,
+      "nb_elus": 6,
+      "tete_de_liste": {
+        "nom": "VINCHENT",
+        "prenom": "Frédéric",
+        "nom_complet": "Frédéric VINCHENT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "VINCHENT",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric VINCHENT",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BAILLEUL",
+          "prenom": "Marie-Claude",
+          "nom_complet": "Marie-Claude BAILLEUL",
+          "sexe": "F",
+          "age": 73,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "SCHNEIDER",
+          "prenom": "Jacques",
+          "nom_complet": "Jacques SCHNEIDER",
+          "sexe": "M",
+          "age": 80,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "STIEVET",
+          "prenom": "Séverine",
+          "nom_complet": "Séverine STIEVET",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "BOURLET",
+          "prenom": "Bernard",
+          "nom_complet": "Bernard BOURLET",
+          "sexe": "M",
+          "age": 74,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "CLEMENT",
+          "prenom": "Séverine",
+          "nom_complet": "Séverine CLEMENT",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "6"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

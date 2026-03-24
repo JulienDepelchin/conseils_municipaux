@@ -1,0 +1,163 @@
+{
+  "code_commune": "59103",
+  "commune": "Boussières-sur-Sambre",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "DUPONT",
+    "prenom": "Claude",
+    "nom_complet": "Claude DUPONT",
+    "age": 73,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 378,
+    "votants": 209,
+    "pct_votants": 55.29,
+    "abstentions": 169,
+    "pct_abstentions": 44.71,
+    "exprimes": 191
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "NOTRE VILLAGE NOTRE AVENIR",
+      "libelle_abrege_liste": "NOTRE VILLAGE NOTRE AVENIR",
+      "nuance_liste": null,
+      "voix": 191,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "DUPONT",
+        "prenom": "Claude",
+        "nom_complet": "Claude DUPONT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DUPONT",
+          "prenom": "Claude",
+          "nom_complet": "Claude DUPONT",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BOUTOUTAOU",
+          "prenom": "Sandrine",
+          "nom_complet": "Sandrine BOUTOUTAOU",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "JACOBS",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal JACOBS",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DOYEN",
+          "prenom": "Adeline",
+          "nom_complet": "Adeline DOYEN",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DAUTRICOURT",
+          "prenom": "Jean François",
+          "nom_complet": "Jean François DAUTRICOURT",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "COFFOURNIC",
+          "prenom": "Gaëlle",
+          "nom_complet": "Gaëlle COFFOURNIC",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "ANDRE",
+          "prenom": "Thierry",
+          "nom_complet": "Thierry ANDRE",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "FAUVEAU",
+          "prenom": "Pauline",
+          "nom_complet": "Pauline FAUVEAU",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "CAUCHIES",
+          "prenom": "Dimitri",
+          "nom_complet": "Dimitri CAUCHIES",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "JUPIN",
+          "prenom": "Audrey",
+          "nom_complet": "Audrey JUPIN",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "LEROY",
+          "prenom": "Freddy",
+          "nom_complet": "Freddy LEROY",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "VANDENBOREN",
+          "prenom": "Ange Marie",
+          "nom_complet": "Ange Marie VANDENBOREN",
+          "sexe": "F",
+          "age": 81,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "SELLIEZ",
+          "prenom": "Gerald",
+          "nom_complet": "Gerald SELLIEZ",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "VOYANT",
+          "prenom": "Magali",
+          "nom_complet": "Magali VOYANT",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "WAIRY",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal WAIRY",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

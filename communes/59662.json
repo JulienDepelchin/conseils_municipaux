@@ -1,0 +1,163 @@
+{
+  "code_commune": "59662",
+  "commune": "Winnezeele",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "VANPEENE",
+    "prenom": "Anne",
+    "nom_complet": "Anne VANPEENE",
+    "age": 61,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 956,
+    "votants": 559,
+    "pct_votants": 58.47,
+    "abstentions": 397,
+    "pct_abstentions": 41.53,
+    "exprimes": 460
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "unis pour faire briller Winnezeele",
+      "libelle_abrege_liste": "unis pour faire briller Winnezeele",
+      "nuance_liste": null,
+      "voix": 460,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": 1,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "VANPEENE",
+        "prenom": "Anne",
+        "nom_complet": "Anne VANPEENE",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "VANPEENE",
+          "prenom": "Anne",
+          "nom_complet": "Anne VANPEENE",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BECUE",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal BECUE",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BROUX",
+          "prenom": "Sabrina",
+          "nom_complet": "Sabrina BROUX",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "HEYMAN",
+          "prenom": "François",
+          "nom_complet": "François HEYMAN",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "GHILLEBAERT",
+          "prenom": "Mélanie",
+          "nom_complet": "Mélanie GHILLEBAERT",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DECOOL",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno DECOOL",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BLONDELLE",
+          "prenom": "Véronique",
+          "nom_complet": "Véronique BLONDELLE",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "THORIS",
+          "prenom": "Luc",
+          "nom_complet": "Luc THORIS",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "THULLIER",
+          "prenom": "Céline",
+          "nom_complet": "Céline THULLIER",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "CHRISTIAENS",
+          "prenom": "Didier",
+          "nom_complet": "Didier CHRISTIAENS",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "LESAFFRE",
+          "prenom": "Gwendoline",
+          "nom_complet": "Gwendoline LESAFFRE",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "CANTONNET",
+          "prenom": "Jérôme",
+          "nom_complet": "Jérôme CANTONNET",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "DUPONCHELLE",
+          "prenom": "Monique",
+          "nom_complet": "Monique DUPONCHELLE",
+          "sexe": "F",
+          "age": 78,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "DECUYPER",
+          "prenom": "Cédric",
+          "nom_complet": "Cédric DECUYPER",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "BOCQUET",
+          "prenom": "Véronique",
+          "nom_complet": "Véronique BOCQUET",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

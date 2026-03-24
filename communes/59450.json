@@ -1,0 +1,183 @@
+{
+  "code_commune": "59450",
+  "commune": "Ors",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "VILLAIN",
+    "prenom": "Bruno",
+    "nom_complet": "Bruno VILLAIN",
+    "age": 59,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 514,
+    "votants": 427,
+    "pct_votants": 83.07,
+    "abstentions": 87,
+    "pct_abstentions": 16.93,
+    "exprimes": 410
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ORS 2026",
+      "libelle_abrege_liste": "ORS 2026",
+      "nuance_liste": null,
+      "voix": 249,
+      "pct_voix_exprimes": 60.73,
+      "sieges_cm": 12,
+      "sieges_cc": null,
+      "nb_elus": 12,
+      "tete_de_liste": {
+        "nom": "VILLAIN",
+        "prenom": "Bruno",
+        "nom_complet": "Bruno VILLAIN",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "VILLAIN",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno VILLAIN",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "HUYVAERT",
+          "prenom": "Lucile",
+          "nom_complet": "Lucile HUYVAERT",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "HALLUENT",
+          "prenom": "Michel",
+          "nom_complet": "Michel HALLUENT",
+          "sexe": "M",
+          "age": 76,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BOUCHEZ-CARPENTIER",
+          "prenom": "Lydie",
+          "nom_complet": "Lydie BOUCHEZ-CARPENTIER",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DEPIL",
+          "prenom": "Damien",
+          "nom_complet": "Damien DEPIL",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "BOSQUET",
+          "prenom": "Sophie",
+          "nom_complet": "Sophie BOSQUET",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DUMONT",
+          "prenom": "Anthony",
+          "nom_complet": "Anthony DUMONT",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "STIENNE",
+          "prenom": "Colette",
+          "nom_complet": "Colette STIENNE",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "GODON",
+          "prenom": "Jean Michel",
+          "nom_complet": "Jean Michel GODON",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "VALERE",
+          "prenom": "Adeline",
+          "nom_complet": "Adeline VALERE",
+          "sexe": "F",
+          "age": 30,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "D'HOLLANDER",
+          "prenom": "Étienne",
+          "nom_complet": "Étienne D'HOLLANDER",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "HUIN",
+          "prenom": "Caroline",
+          "nom_complet": "Caroline HUIN",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "12"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "ORS POUR TOUS",
+      "libelle_abrege_liste": "ORS POUR TOUS",
+      "nuance_liste": null,
+      "voix": 161,
+      "pct_voix_exprimes": 39.27,
+      "sieges_cm": 3,
+      "sieges_cc": null,
+      "nb_elus": 3,
+      "tete_de_liste": {
+        "nom": "BAILLON",
+        "prenom": "Bruno",
+        "nom_complet": "Bruno BAILLON",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BAILLON",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno BAILLON",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LEGRAND",
+          "prenom": "Cécile",
+          "nom_complet": "Cécile LEGRAND",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "NETTE",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent NETTE",
+          "sexe": "M",
+          "age": 33,
+          "rang_liste": "3"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

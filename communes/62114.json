@@ -1,0 +1,151 @@
+{
+  "code_commune": "62114",
+  "commune": "Bermicourt",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "FAUQUEMBERGUE",
+    "prenom": "Arnaud",
+    "nom_complet": "Arnaud FAUQUEMBERGUE",
+    "age": 55,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 146,
+    "votants": 132,
+    "pct_votants": 90.41,
+    "abstentions": 14,
+    "pct_abstentions": 9.59,
+    "exprimes": 129
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "LISTE DYNAMIQUE, VOLONTAIRE et D'EXPÉRIENCE, AU SERVICE DE BERMICOURT",
+      "libelle_abrege_liste": "LISTE DYNAMIQUE, VOLONTAIRE et D'EXPÉRIENCE, AU SERVICE DE BERMICOURT",
+      "nuance_liste": null,
+      "voix": 101,
+      "pct_voix_exprimes": 78.29,
+      "sieges_cm": 10,
+      "sieges_cc": null,
+      "nb_elus": 10,
+      "tete_de_liste": {
+        "nom": "FAUQUEMBERGUE",
+        "prenom": "Arnaud",
+        "nom_complet": "Arnaud FAUQUEMBERGUE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "FAUQUEMBERGUE",
+          "prenom": "Arnaud",
+          "nom_complet": "Arnaud FAUQUEMBERGUE",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "GOURDIN",
+          "prenom": "Odile",
+          "nom_complet": "Odile GOURDIN",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "CADET",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno CADET",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "POTTIEZ DEWIMILLE",
+          "prenom": "Charlotte",
+          "nom_complet": "Charlotte POTTIEZ DEWIMILLE",
+          "sexe": "F",
+          "age": 31,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DEBLONDE",
+          "prenom": "Jean-Luc",
+          "nom_complet": "Jean-Luc DEBLONDE",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "CHOQUET",
+          "prenom": "Alyssia",
+          "nom_complet": "Alyssia CHOQUET",
+          "sexe": "F",
+          "age": 31,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "FAUQUEMBERGUE",
+          "prenom": "Yves",
+          "nom_complet": "Yves FAUQUEMBERGUE",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "HUAUME",
+          "prenom": "Sylviane",
+          "nom_complet": "Sylviane HUAUME",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "BALLEUX",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric BALLEUX",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "BALLY",
+          "prenom": "Angélique",
+          "nom_complet": "Angélique BALLY",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "10"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "BERMICOURT NOTRE VILLAGE",
+      "libelle_abrege_liste": "BERMICOURT NOTRE VILLAGE",
+      "nuance_liste": null,
+      "voix": 28,
+      "pct_voix_exprimes": 21.71,
+      "sieges_cm": 1,
+      "sieges_cc": null,
+      "nb_elus": 1,
+      "tete_de_liste": {
+        "nom": "DURLIN",
+        "prenom": "Denis",
+        "nom_complet": "Denis DURLIN",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DURLIN",
+          "prenom": "Denis",
+          "nom_complet": "Denis DURLIN",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "1"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

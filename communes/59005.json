@@ -1,0 +1,279 @@
+{
+  "code_commune": "59005",
+  "commune": "Allennes-les-Marais",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "VANDAELE",
+    "prenom": "Carine",
+    "nom_complet": "Carine VANDAELE",
+    "age": 53,
+    "nuance": "LDVG"
+  },
+  "resultats": {
+    "inscrits": 2960,
+    "votants": 1707,
+    "pct_votants": 57.67,
+    "abstentions": 1253,
+    "pct_abstentions": 42.33,
+    "exprimes": 1643
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "AVEC VOUS POUR ALLENNES",
+      "libelle_abrege_liste": "AVEC VOUS POUR ALLENNES",
+      "nuance_liste": "LDVG",
+      "voix": 879,
+      "pct_voix_exprimes": 53.5,
+      "sieges_cm": 21,
+      "sieges_cc": 1,
+      "nb_elus": 21,
+      "tete_de_liste": {
+        "nom": "VANDAELE",
+        "prenom": "Carine",
+        "nom_complet": "Carine VANDAELE",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "VANDAELE",
+          "prenom": "Carine",
+          "nom_complet": "Carine VANDAELE",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DELTOUR",
+          "prenom": "Jean-Pierre",
+          "nom_complet": "Jean-Pierre DELTOUR",
+          "sexe": "M",
+          "age": 76,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "MARCHE",
+          "prenom": "Agnès",
+          "nom_complet": "Agnès MARCHE",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BROUTIN",
+          "prenom": "Franck",
+          "nom_complet": "Franck BROUTIN",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "TREDEZ",
+          "prenom": "Annick",
+          "nom_complet": "Annick TREDEZ",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "MESTDAGH",
+          "prenom": "Jean",
+          "nom_complet": "Jean MESTDAGH",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DEROEUX",
+          "prenom": "Mathilde",
+          "nom_complet": "Mathilde DEROEUX",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LIBAERT",
+          "prenom": "Stéphane",
+          "nom_complet": "Stéphane LIBAERT",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "TOMASELLA GARNIER",
+          "prenom": "Chantal",
+          "nom_complet": "Chantal TOMASELLA GARNIER",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DUMOUTIER",
+          "prenom": "Alexandre",
+          "nom_complet": "Alexandre DUMOUTIER",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "AMUSAN ROYER",
+          "prenom": "Julie",
+          "nom_complet": "Julie AMUSAN ROYER",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "MARCQ",
+          "prenom": "Fabrice",
+          "nom_complet": "Fabrice MARCQ",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "MAS",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle MAS",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "DUCROCQ",
+          "prenom": "Tony",
+          "nom_complet": "Tony DUCROCQ",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "LACAILLE",
+          "prenom": "Sonia",
+          "nom_complet": "Sonia LACAILLE",
+          "sexe": "F",
+          "age": 25,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "TRÉMOUILLE",
+          "prenom": "Michel",
+          "nom_complet": "Michel TRÉMOUILLE",
+          "sexe": "M",
+          "age": 74,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "VOSGIEN",
+          "prenom": "Delphine",
+          "nom_complet": "Delphine VOSGIEN",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "O'NEILL",
+          "prenom": "Fabian",
+          "nom_complet": "Fabian O'NEILL",
+          "sexe": "M",
+          "age": 28,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "MALEC",
+          "prenom": "Fabienne",
+          "nom_complet": "Fabienne MALEC",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "LIGNIER",
+          "prenom": "Joseph",
+          "nom_complet": "Joseph LIGNIER",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "CAMINADE",
+          "prenom": "Ariane",
+          "nom_complet": "Ariane CAMINADE",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "21"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ENSEMBLE POUR ALLENNES",
+      "libelle_abrege_liste": "ENSEMBLE POUR ALLENNES",
+      "nuance_liste": "LDVD",
+      "voix": 764,
+      "pct_voix_exprimes": 46.5,
+      "sieges_cm": 6,
+      "sieges_cc": 0,
+      "nb_elus": 6,
+      "tete_de_liste": {
+        "nom": "MINNENS",
+        "prenom": "Laurent",
+        "nom_complet": "Laurent MINNENS",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "MINNENS",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent MINNENS",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BOUSSEMART",
+          "prenom": "Marie",
+          "nom_complet": "Marie BOUSSEMART",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LECLERCQ",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe LECLERCQ",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "YARD",
+          "prenom": "Séverine",
+          "nom_complet": "Séverine YARD",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "STACHOWICZ",
+          "prenom": "Maxime",
+          "nom_complet": "Maxime STACHOWICZ",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LEFEBVRE",
+          "prenom": "Ingrid",
+          "nom_complet": "Ingrid LEFEBVRE",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "6"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

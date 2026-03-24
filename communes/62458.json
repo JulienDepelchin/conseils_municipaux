@@ -1,0 +1,163 @@
+{
+  "code_commune": "62458",
+  "commune": "Houlle",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "BERTELOOT",
+    "prenom": "Hervé",
+    "nom_complet": "Hervé BERTELOOT",
+    "age": 70,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 801,
+    "votants": 494,
+    "pct_votants": 61.67,
+    "abstentions": 307,
+    "pct_abstentions": 38.33,
+    "exprimes": 432
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "PARTAGEONS DEMAIN",
+      "libelle_abrege_liste": "PARTAGEONS DEMAIN",
+      "nuance_liste": null,
+      "voix": 432,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": 1,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "BERTELOOT",
+        "prenom": "Hervé",
+        "nom_complet": "Hervé BERTELOOT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BERTELOOT",
+          "prenom": "Hervé",
+          "nom_complet": "Hervé BERTELOOT",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "CREVECOEUR",
+          "prenom": "Audrey",
+          "nom_complet": "Audrey CREVECOEUR",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "COURBOT",
+          "prenom": "Jean-Luc",
+          "nom_complet": "Jean-Luc COURBOT",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "SAINT-MACHIN",
+          "prenom": "Virginie",
+          "nom_complet": "Virginie SAINT-MACHIN",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "FRÉDÉRIC",
+          "prenom": "Stéphane",
+          "nom_complet": "Stéphane FRÉDÉRIC",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "SMIS",
+          "prenom": "Emilie",
+          "nom_complet": "Emilie SMIS",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "WIERRE",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique WIERRE",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LAMBERT",
+          "prenom": "Lucie",
+          "nom_complet": "Lucie LAMBERT",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "MICHEL",
+          "prenom": "Jean-Claude",
+          "nom_complet": "Jean-Claude MICHEL",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "LEURS",
+          "prenom": "Emeline",
+          "nom_complet": "Emeline LEURS",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "BLONDEL",
+          "prenom": "Thibaut",
+          "nom_complet": "Thibaut BLONDEL",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "ZOETE",
+          "prenom": "Pascale",
+          "nom_complet": "Pascale ZOETE",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "VILCOCQ",
+          "prenom": "Fabrice",
+          "nom_complet": "Fabrice VILCOCQ",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "RUCART",
+          "prenom": "Florence",
+          "nom_complet": "Florence RUCART",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "DEBIENNE",
+          "prenom": "François",
+          "nom_complet": "François DEBIENNE",
+          "sexe": "M",
+          "age": 33,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

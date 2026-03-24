@@ -1,0 +1,163 @@
+{
+  "code_commune": "59453",
+  "commune": "Oudezeele",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "DEBERT",
+    "prenom": "Jean-Luc",
+    "nom_complet": "Jean-Luc DEBERT",
+    "age": 57,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 527,
+    "votants": 301,
+    "pct_votants": 57.12,
+    "abstentions": 226,
+    "pct_abstentions": 42.88,
+    "exprimes": 242
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ENSEMBLE POUR OUDEZEELE",
+      "libelle_abrege_liste": "EPO",
+      "nuance_liste": null,
+      "voix": 242,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "DEBERT",
+        "prenom": "Jean-Luc",
+        "nom_complet": "Jean-Luc DEBERT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DEBERT",
+          "prenom": "Jean-Luc",
+          "nom_complet": "Jean-Luc DEBERT",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "HOCHART",
+          "prenom": "Caroline",
+          "nom_complet": "Caroline HOCHART",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "CAVROIS",
+          "prenom": "Pierre",
+          "nom_complet": "Pierre CAVROIS",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "SMAL",
+          "prenom": "Emilie",
+          "nom_complet": "Emilie SMAL",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DESSE",
+          "prenom": "Alexis",
+          "nom_complet": "Alexis DESSE",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DENAES",
+          "prenom": "Ghislaine",
+          "nom_complet": "Ghislaine DENAES",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "COLPAERT",
+          "prenom": "Xavier",
+          "nom_complet": "Xavier COLPAERT",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DELORME",
+          "prenom": "Béatrice",
+          "nom_complet": "Béatrice DELORME",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "LAMOTE",
+          "prenom": "Guilain",
+          "nom_complet": "Guilain LAMOTE",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "SCHERIER",
+          "prenom": "Céline",
+          "nom_complet": "Céline SCHERIER",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "LABAEYE",
+          "prenom": "Matthieu",
+          "nom_complet": "Matthieu LABAEYE",
+          "sexe": "M",
+          "age": 33,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "SCHABAILLE",
+          "prenom": "Yasmina",
+          "nom_complet": "Yasmina SCHABAILLE",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "MILLOIS",
+          "prenom": "Fabien",
+          "nom_complet": "Fabien MILLOIS",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "LIENARD",
+          "prenom": "Madeline",
+          "nom_complet": "Madeline LIENARD",
+          "sexe": "F",
+          "age": 29,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "BREBION",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno BREBION",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

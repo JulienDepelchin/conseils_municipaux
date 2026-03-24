@@ -1,0 +1,183 @@
+{
+  "code_commune": "62812",
+  "commune": "Thiembronne",
+  "departement": "Pas-de-Calais",
+  "tour": "T2",
+  "maire": {
+    "nom": "DEWAMIN",
+    "prenom": "Didier",
+    "nom_complet": "Didier DEWAMIN",
+    "age": 59,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 622,
+    "votants": 543,
+    "pct_votants": 87.3,
+    "abstentions": 79,
+    "pct_abstentions": 12.7,
+    "exprimes": 534
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "ENGAGÉS POUR THIEMBRONNE",
+      "libelle_abrege_liste": "ENGAGÉS POUR THIEMBRONNE",
+      "nuance_liste": null,
+      "voix": 269,
+      "pct_voix_exprimes": 50.37,
+      "sieges_cm": 12,
+      "sieges_cc": null,
+      "nb_elus": 12,
+      "tete_de_liste": {
+        "nom": "DEWAMIN",
+        "prenom": "Didier",
+        "nom_complet": "Didier DEWAMIN",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DEWAMIN",
+          "prenom": "Didier",
+          "nom_complet": "Didier DEWAMIN",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DE SAINTE MARESVILLE-BRICHE",
+          "prenom": "Sophie",
+          "nom_complet": "Sophie DE SAINTE MARESVILLE-BRICHE",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "L'HOMEL",
+          "prenom": "Gilles",
+          "nom_complet": "Gilles L'HOMEL",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "MAGNIEZ-HECQUET",
+          "prenom": "Catherine",
+          "nom_complet": "Catherine MAGNIEZ-HECQUET",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "FLOURET",
+          "prenom": "Julien",
+          "nom_complet": "Julien FLOURET",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "SALMON",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie SALMON",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BELLENGUEZ",
+          "prenom": "Jean-Marc",
+          "nom_complet": "Jean-Marc BELLENGUEZ",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "COLIN-BARBAUX",
+          "prenom": "Ludivine",
+          "nom_complet": "Ludivine COLIN-BARBAUX",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DESCHAMPS",
+          "prenom": "Matthieu",
+          "nom_complet": "Matthieu DESCHAMPS",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DELIESSCHE",
+          "prenom": "Pauline",
+          "nom_complet": "Pauline DELIESSCHE",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "BAUCHE",
+          "prenom": "Jean-Luc",
+          "nom_complet": "Jean-Luc BAUCHE",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "FOURNIER",
+          "prenom": "Céline",
+          "nom_complet": "Céline FOURNIER",
+          "sexe": "F",
+          "age": 31,
+          "rang_liste": "12"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "THIEMBRONNE AUTREMENT",
+      "libelle_abrege_liste": "THIEMBRONNE AUTREMENT",
+      "nuance_liste": null,
+      "voix": 265,
+      "pct_voix_exprimes": 49.63,
+      "sieges_cm": 3,
+      "sieges_cc": null,
+      "nb_elus": 3,
+      "tete_de_liste": {
+        "nom": "POURCHEZ",
+        "prenom": "Olivier",
+        "nom_complet": "Olivier POURCHEZ",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "POURCHEZ",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier POURCHEZ",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "COUSIN",
+          "prenom": "Angélique",
+          "nom_complet": "Angélique COUSIN",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LEMAITRE",
+          "prenom": "Arnaud",
+          "nom_complet": "Arnaud LEMAITRE",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "3"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

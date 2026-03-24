@@ -1,0 +1,183 @@
+{
+  "code_commune": "62568",
+  "commune": "Mercatel",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "VASSEUR",
+    "prenom": "Laurence",
+    "nom_complet": "Laurence VASSEUR",
+    "age": 48,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 533,
+    "votants": 390,
+    "pct_votants": 73.17,
+    "abstentions": 143,
+    "pct_abstentions": 26.83,
+    "exprimes": 366
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "Ensemble pour Mercatel",
+      "libelle_abrege_liste": "Ensemble pour Mercatel",
+      "nuance_liste": null,
+      "voix": 236,
+      "pct_voix_exprimes": 64.48,
+      "sieges_cm": 13,
+      "sieges_cc": null,
+      "nb_elus": 13,
+      "tete_de_liste": {
+        "nom": "VASSEUR",
+        "prenom": "Laurence",
+        "nom_complet": "Laurence VASSEUR",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "VASSEUR",
+          "prenom": "Laurence",
+          "nom_complet": "Laurence VASSEUR",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "ANSQUIN",
+          "prenom": "Daniel",
+          "nom_complet": "Daniel ANSQUIN",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "PARIS",
+          "prenom": "Regine",
+          "nom_complet": "Regine PARIS",
+          "sexe": "F",
+          "age": 74,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "PIMBERT",
+          "prenom": "Frederic",
+          "nom_complet": "Frederic PIMBERT",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "VASSEUR",
+          "prenom": "Agnès",
+          "nom_complet": "Agnès VASSEUR",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "VASSE",
+          "prenom": "Arnaud",
+          "nom_complet": "Arnaud VASSE",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "RAMPLOU",
+          "prenom": "Aurore",
+          "nom_complet": "Aurore RAMPLOU",
+          "sexe": "F",
+          "age": 32,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "TRIVALEU",
+          "prenom": "Guillaume",
+          "nom_complet": "Guillaume TRIVALEU",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "BRENNETOT",
+          "prenom": "Magali",
+          "nom_complet": "Magali BRENNETOT",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "JAMROZ",
+          "prenom": "Jean-Marie",
+          "nom_complet": "Jean-Marie JAMROZ",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DUBOIS",
+          "prenom": "Angélique",
+          "nom_complet": "Angélique DUBOIS",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "DAMIEN",
+          "prenom": "Aurelien",
+          "nom_complet": "Aurelien DAMIEN",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "LEMAIRE",
+          "prenom": "Elodie",
+          "nom_complet": "Elodie LEMAIRE",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "13"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "TOUS ENSEMBLE CONTINUONS A AGIR",
+      "libelle_abrege_liste": "TOUS ENSEMBLE CONTINUONS A AGIR",
+      "nuance_liste": null,
+      "voix": 130,
+      "pct_voix_exprimes": 35.52,
+      "sieges_cm": 2,
+      "sieges_cc": null,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "ROY",
+        "prenom": "Sylvain",
+        "nom_complet": "Sylvain ROY",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "ROY",
+          "prenom": "Sylvain",
+          "nom_complet": "Sylvain ROY",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LAMBERT",
+          "prenom": "Edith",
+          "nom_complet": "Edith LAMBERT",
+          "sexe": "F",
+          "age": 74,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

@@ -1,0 +1,183 @@
+{
+  "code_commune": "62153",
+  "commune": "Bomy",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "PIERRU",
+    "prenom": "Fabrice",
+    "nom_complet": "Fabrice PIERRU",
+    "age": 56,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 499,
+    "votants": 440,
+    "pct_votants": 88.18,
+    "abstentions": 59,
+    "pct_abstentions": 11.82,
+    "exprimes": 419
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Bomy acteur de son Avenir",
+      "libelle_abrege_liste": "Bomy acteur de son Avenir",
+      "nuance_liste": null,
+      "voix": 250,
+      "pct_voix_exprimes": 59.67,
+      "sieges_cm": 12,
+      "sieges_cc": null,
+      "nb_elus": 12,
+      "tete_de_liste": {
+        "nom": "PIERRU",
+        "prenom": "Fabrice",
+        "nom_complet": "Fabrice PIERRU",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "PIERRU",
+          "prenom": "Fabrice",
+          "nom_complet": "Fabrice PIERRU",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "JOUANIN-TORCHY",
+          "prenom": "Carole",
+          "nom_complet": "Carole JOUANIN-TORCHY",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "MEQUINION",
+          "prenom": "Michel",
+          "nom_complet": "Michel MEQUINION",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DEROLLEZ",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie DEROLLEZ",
+          "sexe": "F",
+          "age": 31,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "SANNIER",
+          "prenom": "Jean Pierre",
+          "nom_complet": "Jean Pierre SANNIER",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DUMONT",
+          "prenom": "Perrine",
+          "nom_complet": "Perrine DUMONT",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DEVAUX",
+          "prenom": "Michel",
+          "nom_complet": "Michel DEVAUX",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "CHARLES",
+          "prenom": "Cloé",
+          "nom_complet": "Cloé CHARLES",
+          "sexe": "F",
+          "age": 23,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "LAMMERTYN",
+          "prenom": "Jean-Perre",
+          "nom_complet": "Jean-Perre LAMMERTYN",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "SEGUIN",
+          "prenom": "Lorrine",
+          "nom_complet": "Lorrine SEGUIN",
+          "sexe": "F",
+          "age": 29,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "FASQUELLE",
+          "prenom": "Julien",
+          "nom_complet": "Julien FASQUELLE",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "SAILLY DEMOL",
+          "prenom": "Tatiana",
+          "nom_complet": "Tatiana SAILLY DEMOL",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "12"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "\"Une équipe engagée pour Bomy\"",
+      "libelle_abrege_liste": "\"Une équipe engagée pour Bomy\"",
+      "nuance_liste": null,
+      "voix": 169,
+      "pct_voix_exprimes": 40.33,
+      "sieges_cm": 3,
+      "sieges_cc": null,
+      "nb_elus": 3,
+      "tete_de_liste": {
+        "nom": "BENDRE",
+        "prenom": "Florentin",
+        "nom_complet": "Florentin BENDRE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BENDRE",
+          "prenom": "Florentin",
+          "nom_complet": "Florentin BENDRE",
+          "sexe": "M",
+          "age": 28,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DUBOIS-COURTOIS",
+          "prenom": "Caroline",
+          "nom_complet": "Caroline DUBOIS-COURTOIS",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BENDRE",
+          "prenom": "Michel",
+          "nom_complet": "Michel BENDRE",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "3"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

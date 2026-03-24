@@ -1,0 +1,275 @@
+{
+  "code_commune": "59327",
+  "commune": "Lallaing",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "FONTAINE",
+    "prenom": "Jean-Paul",
+    "nom_complet": "Jean-Paul FONTAINE",
+    "age": 55,
+    "nuance": "LDVD"
+  },
+  "resultats": {
+    "inscrits": 4683,
+    "votants": 1797,
+    "pct_votants": 38.37,
+    "abstentions": 2886,
+    "pct_abstentions": 61.63,
+    "exprimes": 1532
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Lallaing, notre coeur commun",
+      "libelle_abrege_liste": "Lallaing, notre coeur commun",
+      "nuance_liste": "LDVD",
+      "voix": 1532,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 29,
+      "sieges_cc": 3,
+      "nb_elus": 29,
+      "tete_de_liste": {
+        "nom": "FONTAINE",
+        "prenom": "Jean-Paul",
+        "nom_complet": "Jean-Paul FONTAINE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "FONTAINE",
+          "prenom": "Jean-Paul",
+          "nom_complet": "Jean-Paul FONTAINE",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "MAES",
+          "prenom": "Françoise",
+          "nom_complet": "Françoise MAES",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DANCOINE",
+          "prenom": "Thierry",
+          "nom_complet": "Thierry DANCOINE",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "MARTIN",
+          "prenom": "Christelle",
+          "nom_complet": "Christelle MARTIN",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "PIESSET",
+          "prenom": "Arnaud",
+          "nom_complet": "Arnaud PIESSET",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "WASSON",
+          "prenom": "Laurence",
+          "nom_complet": "Laurence WASSON",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "PROVENZANO",
+          "prenom": "Antonio",
+          "nom_complet": "Antonio PROVENZANO",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "ZMYSLONY",
+          "prenom": "Emilie",
+          "nom_complet": "Emilie ZMYSLONY",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "FAUVEAUX",
+          "prenom": "Sébastien",
+          "nom_complet": "Sébastien FAUVEAUX",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DUPONT",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie DUPONT",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "POPEK",
+          "prenom": "Joël",
+          "nom_complet": "Joël POPEK",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "PRZYBYLSKI",
+          "prenom": "Brigitte",
+          "nom_complet": "Brigitte PRZYBYLSKI",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "CATHERINE",
+          "prenom": "Guillaume",
+          "nom_complet": "Guillaume CATHERINE",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "WOZNIAK",
+          "prenom": "Emilie",
+          "nom_complet": "Emilie WOZNIAK",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "LACAILLE",
+          "prenom": "René",
+          "nom_complet": "René LACAILLE",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "BEVILACQUA",
+          "prenom": "Priscilla",
+          "nom_complet": "Priscilla BEVILACQUA",
+          "sexe": "F",
+          "age": 32,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "ZEBBAR",
+          "prenom": "Kamel",
+          "nom_complet": "Kamel ZEBBAR",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "DEVIGNE",
+          "prenom": "Stella",
+          "nom_complet": "Stella DEVIGNE",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "BAVIER",
+          "prenom": "Bernard",
+          "nom_complet": "Bernard BAVIER",
+          "sexe": "M",
+          "age": 74,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "NOIRET",
+          "prenom": "Christiane",
+          "nom_complet": "Christiane NOIRET",
+          "sexe": "F",
+          "age": 73,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "PIOTROWSKI",
+          "prenom": "Georges",
+          "nom_complet": "Georges PIOTROWSKI",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "DUJARDIN",
+          "prenom": "Gilberte",
+          "nom_complet": "Gilberte DUJARDIN",
+          "sexe": "F",
+          "age": 76,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "PRÉVOT",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick PRÉVOT",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "23"
+        },
+        {
+          "nom": "CROENNE",
+          "prenom": "Nelly",
+          "nom_complet": "Nelly CROENNE",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "24"
+        },
+        {
+          "nom": "HORNEZ",
+          "prenom": "Yves",
+          "nom_complet": "Yves HORNEZ",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "25"
+        },
+        {
+          "nom": "HAUDRECHY",
+          "prenom": "Sylviane",
+          "nom_complet": "Sylviane HAUDRECHY",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "26"
+        },
+        {
+          "nom": "DUPONT",
+          "prenom": "Benjamin Claude",
+          "nom_complet": "Benjamin Claude DUPONT",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "27"
+        },
+        {
+          "nom": "DELFORGE",
+          "prenom": "Dorothée",
+          "nom_complet": "Dorothée DELFORGE",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "28"
+        },
+        {
+          "nom": "BLOND",
+          "prenom": "Clément",
+          "nom_complet": "Clément BLOND",
+          "sexe": "M",
+          "age": 22,
+          "rang_liste": "29"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

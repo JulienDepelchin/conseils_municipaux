@@ -1,0 +1,163 @@
+{
+  "code_commune": "59393",
+  "commune": "Maulde",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "HOURDEAU",
+    "prenom": "Jean-François",
+    "nom_complet": "Jean-François HOURDEAU",
+    "age": 49,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 803,
+    "votants": 380,
+    "pct_votants": 47.32,
+    "abstentions": 423,
+    "pct_abstentions": 52.68,
+    "exprimes": 316
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Ensemble, Unis pour Maulde",
+      "libelle_abrege_liste": "Ensemble, Unis pour Maulde",
+      "nuance_liste": null,
+      "voix": 316,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "HOURDEAU",
+        "prenom": "Jean-François",
+        "nom_complet": "Jean-François HOURDEAU",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "HOURDEAU",
+          "prenom": "Jean-François",
+          "nom_complet": "Jean-François HOURDEAU",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "POMMEROLLE",
+          "prenom": "July",
+          "nom_complet": "July POMMEROLLE",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "FINET",
+          "prenom": "Florian",
+          "nom_complet": "Florian FINET",
+          "sexe": "M",
+          "age": 31,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "MONTUELLE",
+          "prenom": "Marie-Christine",
+          "nom_complet": "Marie-Christine MONTUELLE",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "YAHIAOUI",
+          "prenom": "Sidi Mohammed",
+          "nom_complet": "Sidi Mohammed YAHIAOUI",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "BARKOVIC",
+          "prenom": "Catherine",
+          "nom_complet": "Catherine BARKOVIC",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DEMAN",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick DEMAN",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "PELISSIER",
+          "prenom": "Mélanie",
+          "nom_complet": "Mélanie PELISSIER",
+          "sexe": "F",
+          "age": 29,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "NAMUR",
+          "prenom": "Valentin",
+          "nom_complet": "Valentin NAMUR",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "COPIN",
+          "prenom": "Christelle",
+          "nom_complet": "Christelle COPIN",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DUSART",
+          "prenom": "Jean-François",
+          "nom_complet": "Jean-François DUSART",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "SENECHAL",
+          "prenom": "Emilie",
+          "nom_complet": "Emilie SENECHAL",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "NICOLE",
+          "prenom": "Stéphane",
+          "nom_complet": "Stéphane NICOLE",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "VINVENT",
+          "prenom": "Maïté",
+          "nom_complet": "Maïté VINVENT",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "DEJAEGHER",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent DEJAEGHER",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

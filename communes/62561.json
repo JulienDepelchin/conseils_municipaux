@@ -1,0 +1,131 @@
+{
+  "code_commune": "62561",
+  "commune": "Martinpuich",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "PEGORIER",
+    "prenom": "Didier",
+    "nom_complet": "Didier PEGORIER",
+    "age": 59,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 150,
+    "votants": 108,
+    "pct_votants": 72,
+    "abstentions": 42,
+    "pct_abstentions": 28,
+    "exprimes": 93
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ENSEMBLE POUR MARTINPUICH",
+      "libelle_abrege_liste": "ENSEMBLE POUR MARTINPUICH",
+      "nuance_liste": null,
+      "voix": 93,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "PEGORIER",
+        "prenom": "Didier",
+        "nom_complet": "Didier PEGORIER",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "PEGORIER",
+          "prenom": "Didier",
+          "nom_complet": "Didier PEGORIER",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DISTRIBUÉ",
+          "prenom": "Véronique",
+          "nom_complet": "Véronique DISTRIBUÉ",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "SAVARY",
+          "prenom": "Guillaume",
+          "nom_complet": "Guillaume SAVARY",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "WINTREBERT",
+          "prenom": "Anne-Sophie",
+          "nom_complet": "Anne-Sophie WINTREBERT",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "WINTREBERT",
+          "prenom": "Sébastien",
+          "nom_complet": "Sébastien WINTREBERT",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "VAN CAEMELBEKE",
+          "prenom": "Marie-France",
+          "nom_complet": "Marie-France VAN CAEMELBEKE",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "CRAMPON",
+          "prenom": "Kévin",
+          "nom_complet": "Kévin CRAMPON",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "CANDAELE",
+          "prenom": "Elodie",
+          "nom_complet": "Elodie CANDAELE",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "HERBOMEL",
+          "prenom": "Cédric",
+          "nom_complet": "Cédric HERBOMEL",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DERECOURT",
+          "prenom": "Aurore",
+          "nom_complet": "Aurore DERECOURT",
+          "sexe": "F",
+          "age": 25,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "VAN CAEMELBEKE",
+          "prenom": "Théo",
+          "nom_complet": "Théo VAN CAEMELBEKE",
+          "sexe": "M",
+          "age": 19,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

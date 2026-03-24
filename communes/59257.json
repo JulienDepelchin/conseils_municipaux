@@ -1,0 +1,163 @@
+{
+  "code_commune": "59257",
+  "commune": "Fromelles",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "MASSON",
+    "prenom": "Jean-Gabriel",
+    "nom_complet": "Jean-Gabriel MASSON",
+    "age": 52,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 884,
+    "votants": 513,
+    "pct_votants": 58.03,
+    "abstentions": 371,
+    "pct_abstentions": 41.97,
+    "exprimes": 426
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Fromelles, Notre village, Notre Avenir",
+      "libelle_abrege_liste": "Fromelles, Notre village, Notre Avenir",
+      "nuance_liste": null,
+      "voix": 426,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": 1,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "MASSON",
+        "prenom": "Jean-Gabriel",
+        "nom_complet": "Jean-Gabriel MASSON",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "MASSON",
+          "prenom": "Jean-Gabriel",
+          "nom_complet": "Jean-Gabriel MASSON",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BLONDEL",
+          "prenom": "Roselyne",
+          "nom_complet": "Roselyne BLONDEL",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "ROUSSEL",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique ROUSSEL",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LAGACHE",
+          "prenom": "Véronique",
+          "nom_complet": "Véronique LAGACHE",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "FRULEUX",
+          "prenom": "Bernard",
+          "nom_complet": "Bernard FRULEUX",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "MERCIER",
+          "prenom": "Juliette",
+          "nom_complet": "Juliette MERCIER",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "JAMEZ",
+          "prenom": "Guillaume",
+          "nom_complet": "Guillaume JAMEZ",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "BAWEDIN",
+          "prenom": "Christelle",
+          "nom_complet": "Christelle BAWEDIN",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DEFEVRE",
+          "prenom": "Amaury",
+          "nom_complet": "Amaury DEFEVRE",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DESPRES",
+          "prenom": "Coralie",
+          "nom_complet": "Coralie DESPRES",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "GEVAERT",
+          "prenom": "Joël",
+          "nom_complet": "Joël GEVAERT",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "DUPROT",
+          "prenom": "Céline",
+          "nom_complet": "Céline DUPROT",
+          "sexe": "F",
+          "age": 33,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "AVIEZ",
+          "prenom": "Jérémy",
+          "nom_complet": "Jérémy AVIEZ",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "GLORIAN",
+          "prenom": "Nicole",
+          "nom_complet": "Nicole GLORIAN",
+          "sexe": "F",
+          "age": 77,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "DURIEZ",
+          "prenom": "Mickaël",
+          "nom_complet": "Mickaël DURIEZ",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

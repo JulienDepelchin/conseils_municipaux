@@ -1,0 +1,327 @@
+{
+  "code_commune": "62637",
+  "commune": "Oignies",
+  "departement": "Pas-de-Calais",
+  "tour": "T2",
+  "maire": {
+    "nom": "VIAL",
+    "prenom": "François",
+    "nom_complet": "François VIAL",
+    "age": 56,
+    "nuance": "LRN"
+  },
+  "resultats": {
+    "inscrits": 7026,
+    "votants": 4378,
+    "pct_votants": 62.31,
+    "abstentions": 2648,
+    "pct_abstentions": 37.69,
+    "exprimes": 4257
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "OIGNIES POUR VOUS",
+      "libelle_abrege_liste": "OIGNIES POUR VOUS",
+      "nuance_liste": "LRN",
+      "voix": 2291,
+      "pct_voix_exprimes": 53.82,
+      "sieges_cm": 26,
+      "sieges_cc": 4,
+      "nb_elus": 26,
+      "tete_de_liste": {
+        "nom": "VIAL",
+        "prenom": "François",
+        "nom_complet": "François VIAL",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "VIAL",
+          "prenom": "François",
+          "nom_complet": "François VIAL",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BRIX",
+          "prenom": "Celine",
+          "nom_complet": "Celine BRIX",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "VANCRAEYNESTE",
+          "prenom": "Eric",
+          "nom_complet": "Eric VANCRAEYNESTE",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "FELSKI",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie FELSKI",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DUMAISNIL",
+          "prenom": "Jean-Pascal",
+          "nom_complet": "Jean-Pascal DUMAISNIL",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "RONGEAT",
+          "prenom": "Helene",
+          "nom_complet": "Helene RONGEAT",
+          "sexe": "F",
+          "age": 29,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "VAILLANT",
+          "prenom": "Guillaume",
+          "nom_complet": "Guillaume VAILLANT",
+          "sexe": "M",
+          "age": 31,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LOEZ",
+          "prenom": "Claudine",
+          "nom_complet": "Claudine LOEZ",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "MURCZAK",
+          "prenom": "Christian",
+          "nom_complet": "Christian MURCZAK",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "CRAYE",
+          "prenom": "Nicole",
+          "nom_complet": "Nicole CRAYE",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DUROT",
+          "prenom": "David",
+          "nom_complet": "David DUROT",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "DELHAYE",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle DELHAYE",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "VANHAUTE",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe VANHAUTE",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "LEBLOND",
+          "prenom": "Perrine",
+          "nom_complet": "Perrine LEBLOND",
+          "sexe": "F",
+          "age": 31,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "DOTTE",
+          "prenom": "Clement",
+          "nom_complet": "Clement DOTTE",
+          "sexe": "M",
+          "age": 19,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "OLESZAK",
+          "prenom": "Martine",
+          "nom_complet": "Martine OLESZAK",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "TELLE",
+          "prenom": "Pierre",
+          "nom_complet": "Pierre TELLE",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "MEURILLON",
+          "prenom": "Justine",
+          "nom_complet": "Justine MEURILLON",
+          "sexe": "F",
+          "age": 19,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "NAMUR",
+          "prenom": "Raphael",
+          "nom_complet": "Raphael NAMUR",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "BECU",
+          "prenom": "Stephanie",
+          "nom_complet": "Stephanie BECU",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "VAN LOMBERGEN",
+          "prenom": "Sylvain",
+          "nom_complet": "Sylvain VAN LOMBERGEN",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "COQUELLE",
+          "prenom": "Elodie",
+          "nom_complet": "Elodie COQUELLE",
+          "sexe": "F",
+          "age": 29,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "WATTIEZ",
+          "prenom": "Jeremy",
+          "nom_complet": "Jeremy WATTIEZ",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "23"
+        },
+        {
+          "nom": "MILLEVILLE",
+          "prenom": "Mireille",
+          "nom_complet": "Mireille MILLEVILLE",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "24"
+        },
+        {
+          "nom": "MICHALAK",
+          "prenom": "Jean-Jacques",
+          "nom_complet": "Jean-Jacques MICHALAK",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "25"
+        },
+        {
+          "nom": "ACIER",
+          "prenom": "Angelina",
+          "nom_complet": "Angelina ACIER",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "26"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "3",
+      "libelle_liste": "UNIS POUR OIGNIES",
+      "libelle_abrege_liste": "UNIS POUR OIGNIES",
+      "nuance_liste": "LDVG",
+      "voix": 1966,
+      "pct_voix_exprimes": 46.18,
+      "sieges_cm": 7,
+      "sieges_cc": 1,
+      "nb_elus": 7,
+      "tete_de_liste": {
+        "nom": "DUPUIS-MERLEVEDE",
+        "prenom": "Fabienne",
+        "nom_complet": "Fabienne DUPUIS-MERLEVEDE",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "DUPUIS-MERLEVEDE",
+          "prenom": "Fabienne",
+          "nom_complet": "Fabienne DUPUIS-MERLEVEDE",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "ECHAHBA",
+          "prenom": "Rachid",
+          "nom_complet": "Rachid ECHAHBA",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "ZIANE-COGET",
+          "prenom": "Nadine",
+          "nom_complet": "Nadine ZIANE-COGET",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BOIGELOT",
+          "prenom": "Alain",
+          "nom_complet": "Alain BOIGELOT",
+          "sexe": "M",
+          "age": 75,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "BENSALEM",
+          "prenom": "Sandra",
+          "nom_complet": "Sandra BENSALEM",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "NEMRAOUI",
+          "prenom": "Nadir",
+          "nom_complet": "Nadir NEMRAOUI",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DUPARCQ-FABIS",
+          "prenom": "Brigitte",
+          "nom_complet": "Brigitte DUPARCQ-FABIS",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "7"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

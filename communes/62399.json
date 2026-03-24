@@ -1,0 +1,183 @@
+{
+  "code_commune": "62399",
+  "commune": "Habarcq",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "CAPRON",
+    "prenom": "Nicolas",
+    "nom_complet": "Nicolas CAPRON",
+    "age": 55,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 655,
+    "votants": 526,
+    "pct_votants": 80.31,
+    "abstentions": 129,
+    "pct_abstentions": 19.69,
+    "exprimes": 512
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "TOUS ENSEMBLE POUR HABARCQ",
+      "libelle_abrege_liste": "TOUS ENSEMBLE POUR HABARCQ",
+      "nuance_liste": null,
+      "voix": 283,
+      "pct_voix_exprimes": 55.27,
+      "sieges_cm": 12,
+      "sieges_cc": null,
+      "nb_elus": 12,
+      "tete_de_liste": {
+        "nom": "CAPRON",
+        "prenom": "Nicolas",
+        "nom_complet": "Nicolas CAPRON",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "CAPRON",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas CAPRON",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "CHABÉ",
+          "prenom": "Christine",
+          "nom_complet": "Christine CHABÉ",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "GALLET",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier GALLET",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LECLERCQ",
+          "prenom": "Elisabeth",
+          "nom_complet": "Elisabeth LECLERCQ",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "BEUGIN",
+          "prenom": "Sébastien",
+          "nom_complet": "Sébastien BEUGIN",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "MOMEUX",
+          "prenom": "Muriel",
+          "nom_complet": "Muriel MOMEUX",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "LECOURT",
+          "prenom": "Fabien",
+          "nom_complet": "Fabien LECOURT",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DELECAUT",
+          "prenom": "Christel",
+          "nom_complet": "Christel DELECAUT",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "REVELART",
+          "prenom": "Kevin",
+          "nom_complet": "Kevin REVELART",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "ACCIARI",
+          "prenom": "Lauryne",
+          "nom_complet": "Lauryne ACCIARI",
+          "sexe": "F",
+          "age": 22,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DELABY",
+          "prenom": "Jean-Philippe",
+          "nom_complet": "Jean-Philippe DELABY",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "FINET",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie FINET",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "12"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "HABARCQ, VOTRE VILLAGE",
+      "libelle_abrege_liste": "HABARCQ, VOTRE VILLAGE",
+      "nuance_liste": null,
+      "voix": 229,
+      "pct_voix_exprimes": 44.73,
+      "sieges_cm": 3,
+      "sieges_cc": null,
+      "nb_elus": 3,
+      "tete_de_liste": {
+        "nom": "DUHAMEL",
+        "prenom": "Laurent",
+        "nom_complet": "Laurent DUHAMEL",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DUHAMEL",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent DUHAMEL",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "MARECHAL",
+          "prenom": "Delphine",
+          "nom_complet": "Delphine MARECHAL",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "JUBIN",
+          "prenom": "Jérémie",
+          "nom_complet": "Jérémie JUBIN",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "3"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

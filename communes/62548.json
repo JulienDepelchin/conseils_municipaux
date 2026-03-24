@@ -1,0 +1,327 @@
+{
+  "code_commune": "62548",
+  "commune": "Marck",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "DUMONT",
+    "prenom": "Pierre-Henri",
+    "nom_complet": "Pierre-Henri DUMONT",
+    "age": 38,
+    "nuance": "LLR"
+  },
+  "resultats": {
+    "inscrits": 8167,
+    "votants": 4964,
+    "pct_votants": 60.78,
+    "abstentions": 3203,
+    "pct_abstentions": 39.22,
+    "exprimes": 4795
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "Ensemble, fiers de Marck !",
+      "libelle_abrege_liste": "Ensemble, fiers de Marck !",
+      "nuance_liste": "LLR",
+      "voix": 3842,
+      "pct_voix_exprimes": 80.13,
+      "sieges_cm": 30,
+      "sieges_cc": 8,
+      "nb_elus": 30,
+      "tete_de_liste": {
+        "nom": "DUMONT",
+        "prenom": "Pierre-Henri",
+        "nom_complet": "Pierre-Henri DUMONT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DUMONT",
+          "prenom": "Pierre-Henri",
+          "nom_complet": "Pierre-Henri DUMONT",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "NOËL",
+          "prenom": "Corinne",
+          "nom_complet": "Corinne NOËL",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "TACCOEN",
+          "prenom": "Jean-Michel",
+          "nom_complet": "Jean-Michel TACCOEN",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LOUCHEZ",
+          "prenom": "Laurence",
+          "nom_complet": "Laurence LOUCHEZ",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "MARTIN",
+          "prenom": "Fabrice",
+          "nom_complet": "Fabrice MARTIN",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DUMONT-DESEIGNE",
+          "prenom": "Véronique",
+          "nom_complet": "Véronique DUMONT-DESEIGNE",
+          "sexe": "F",
+          "age": 70,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "CARRETTE",
+          "prenom": "Grégory",
+          "nom_complet": "Grégory CARRETTE",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "CORION",
+          "prenom": "Hélène",
+          "nom_complet": "Hélène CORION",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "WILLAUME",
+          "prenom": "Quentin",
+          "nom_complet": "Quentin WILLAUME",
+          "sexe": "M",
+          "age": 30,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "FIOLET-DESTREZ",
+          "prenom": "Evelyne",
+          "nom_complet": "Evelyne FIOLET-DESTREZ",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "LAVALÉE",
+          "prenom": "Pierre",
+          "nom_complet": "Pierre LAVALÉE",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "MILLIEN",
+          "prenom": "Sophie",
+          "nom_complet": "Sophie MILLIEN",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "LOUVET",
+          "prenom": "Dimitri",
+          "nom_complet": "Dimitri LOUVET",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "MERCIER",
+          "prenom": "Sabrina",
+          "nom_complet": "Sabrina MERCIER",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "MASSON",
+          "prenom": "Tony",
+          "nom_complet": "Tony MASSON",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "LACHÈVRE",
+          "prenom": "Charlotte",
+          "nom_complet": "Charlotte LACHÈVRE",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "AMÉDRO",
+          "prenom": "Jérémy",
+          "nom_complet": "Jérémy AMÉDRO",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "LAVIÉVILLE",
+          "prenom": "Marie-Lyne",
+          "nom_complet": "Marie-Lyne LAVIÉVILLE",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "BOURGOIS",
+          "prenom": "Florian",
+          "nom_complet": "Florian BOURGOIS",
+          "sexe": "M",
+          "age": 23,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "DUMILLY",
+          "prenom": "Florence",
+          "nom_complet": "Florence DUMILLY",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "LENGLIN",
+          "prenom": "Daniel",
+          "nom_complet": "Daniel LENGLIN",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "BOURIGEAUD",
+          "prenom": "Christelle",
+          "nom_complet": "Christelle BOURIGEAUD",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "BUTEZ",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe BUTEZ",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "23"
+        },
+        {
+          "nom": "RINGOT",
+          "prenom": "Marie-Andrée",
+          "nom_complet": "Marie-Andrée RINGOT",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "24"
+        },
+        {
+          "nom": "LESENNE",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe LESENNE",
+          "sexe": "M",
+          "age": 34,
+          "rang_liste": "25"
+        },
+        {
+          "nom": "BRANLY",
+          "prenom": "Sandrine",
+          "nom_complet": "Sandrine BRANLY",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "26"
+        },
+        {
+          "nom": "FUZELLIER",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick FUZELLIER",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "27"
+        },
+        {
+          "nom": "RIGOULET",
+          "prenom": "Jeanne",
+          "nom_complet": "Jeanne RIGOULET",
+          "sexe": "F",
+          "age": 28,
+          "rang_liste": "28"
+        },
+        {
+          "nom": "BERNARD",
+          "prenom": "Stéphane",
+          "nom_complet": "Stéphane BERNARD",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "29"
+        },
+        {
+          "nom": "MAERTEN",
+          "prenom": "Annie",
+          "nom_complet": "Annie MAERTEN",
+          "sexe": "F",
+          "age": 70,
+          "rang_liste": "30"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Rassemblement pour Marck",
+      "libelle_abrege_liste": "Rassemblement pour Marck",
+      "nuance_liste": "LRN",
+      "voix": 953,
+      "pct_voix_exprimes": 19.87,
+      "sieges_cm": 3,
+      "sieges_cc": 0,
+      "nb_elus": 3,
+      "tete_de_liste": {
+        "nom": "BACHTA",
+        "prenom": "Jean-François",
+        "nom_complet": "Jean-François BACHTA",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BACHTA",
+          "prenom": "Jean-François",
+          "nom_complet": "Jean-François BACHTA",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DEVOS",
+          "prenom": "Sophie",
+          "nom_complet": "Sophie DEVOS",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LEGROS",
+          "prenom": "Eric",
+          "nom_complet": "Eric LEGROS",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "3"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "code_commune": "62103",
+  "commune": "Béhagnies",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "LELEU",
+    "prenom": "Régis",
+    "nom_complet": "Régis LELEU",
+    "age": 75,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 101,
+    "votants": 73,
+    "pct_votants": 72.28,
+    "abstentions": 28,
+    "pct_abstentions": 27.72,
+    "exprimes": 56
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ÉCOUTE ET PARTAGE",
+      "libelle_abrege_liste": "ÉCOUTE ET PARTAGE",
+      "nuance_liste": null,
+      "voix": 56,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "LELEU",
+        "prenom": "Régis",
+        "nom_complet": "Régis LELEU",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LELEU",
+          "prenom": "Régis",
+          "nom_complet": "Régis LELEU",
+          "sexe": "M",
+          "age": 75,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BONIFACE",
+          "prenom": "Sophie",
+          "nom_complet": "Sophie BONIFACE",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LEPRINCE",
+          "prenom": "Ghislain",
+          "nom_complet": "Ghislain LEPRINCE",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "HECQUET",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle HECQUET",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DENEUVILLE",
+          "prenom": "Xavier",
+          "nom_complet": "Xavier DENEUVILLE",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "COUPÉ",
+          "prenom": "Jennifer",
+          "nom_complet": "Jennifer COUPÉ",
+          "sexe": "F",
+          "age": 32,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "QUINDROIT",
+          "prenom": "Emilien",
+          "nom_complet": "Emilien QUINDROIT",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "PROU",
+          "prenom": "Kimberly",
+          "nom_complet": "Kimberly PROU",
+          "sexe": "F",
+          "age": 29,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "GRARD",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno GRARD",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "AUVRAY",
+          "prenom": "Phébée",
+          "nom_complet": "Phébée AUVRAY",
+          "sexe": "F",
+          "age": 26,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "BOISLEUX",
+          "prenom": "Hubert",
+          "nom_complet": "Hubert BOISLEUX",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

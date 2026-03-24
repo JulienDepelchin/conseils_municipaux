@@ -1,0 +1,171 @@
+{
+  "code_commune": "62343",
+  "commune": "Fontaine-lès-Croisilles",
+  "departement": "Pas-de-Calais",
+  "tour": "T2",
+  "maire": {
+    "nom": "DOLET",
+    "prenom": "Cédric",
+    "nom_complet": "Cédric DOLET",
+    "age": 52,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 226,
+    "votants": 208,
+    "pct_votants": 92.04,
+    "abstentions": 18,
+    "pct_abstentions": 7.96,
+    "exprimes": 207
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "EN AVANT FONTAINE",
+      "libelle_abrege_liste": "EN AVANT FONTAINE",
+      "nuance_liste": null,
+      "voix": 87,
+      "pct_voix_exprimes": 42.03,
+      "sieges_cm": 8,
+      "sieges_cc": null,
+      "nb_elus": 8,
+      "tete_de_liste": {
+        "nom": "DOLET",
+        "prenom": "Cédric",
+        "nom_complet": "Cédric DOLET",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DOLET",
+          "prenom": "Cédric",
+          "nom_complet": "Cédric DOLET",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LEFLON",
+          "prenom": "Laëtitia",
+          "nom_complet": "Laëtitia LEFLON",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "PETERS",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe PETERS",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "PLANQUE",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle PLANQUE",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DUMONT",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier DUMONT",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "WANNEPAIN",
+          "prenom": "Cathy",
+          "nom_complet": "Cathy WANNEPAIN",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BUCQUET",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal BUCQUET",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "TOBISZ",
+          "prenom": "Jessica",
+          "nom_complet": "Jessica TOBISZ",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "8"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "3",
+      "libelle_liste": "UNIS DANS LA DIVERSITÉ, CONSTRUISONS DEMAIN",
+      "libelle_abrege_liste": "UNIS DANS LA DIVERSITÉ, CONSTRUISONS DEMAIN",
+      "nuance_liste": null,
+      "voix": 69,
+      "pct_voix_exprimes": 33.33,
+      "sieges_cm": 2,
+      "sieges_cc": null,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "CHATELAIN",
+        "prenom": "Luc",
+        "nom_complet": "Luc CHATELAIN",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "CHATELAIN",
+          "prenom": "Luc",
+          "nom_complet": "Luc CHATELAIN",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DELATTRE",
+          "prenom": "Corinne",
+          "nom_complet": "Corinne DELATTRE",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Agir ensemble pour Fontaine",
+      "libelle_abrege_liste": "Agir ensemble pour Fontaine",
+      "nuance_liste": null,
+      "voix": 51,
+      "pct_voix_exprimes": 24.64,
+      "sieges_cm": 1,
+      "sieges_cc": null,
+      "nb_elus": 1,
+      "tete_de_liste": {
+        "nom": "BUCQUET",
+        "prenom": "Odile",
+        "nom_complet": "Odile BUCQUET",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "BUCQUET",
+          "prenom": "Odile",
+          "nom_complet": "Odile BUCQUET",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "1"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

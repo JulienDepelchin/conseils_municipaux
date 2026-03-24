@@ -1,0 +1,275 @@
+{
+  "code_commune": "59452",
+  "commune": "Ostricourt",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "RUSINEK",
+    "prenom": "Bruno",
+    "nom_complet": "Bruno RUSINEK",
+    "age": 61,
+    "nuance": "LDVG"
+  },
+  "resultats": {
+    "inscrits": 4105,
+    "votants": 1367,
+    "pct_votants": 33.3,
+    "abstentions": 2738,
+    "pct_abstentions": 66.7,
+    "exprimes": 1093
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "CONTINUONS ENSEMBLE OSTRICOURT",
+      "libelle_abrege_liste": "CONTINUONS ENSEMBLE OSTRICOURT",
+      "nuance_liste": "LDVG",
+      "voix": 1093,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 29,
+      "sieges_cc": 3,
+      "nb_elus": 29,
+      "tete_de_liste": {
+        "nom": "RUSINEK",
+        "prenom": "Bruno",
+        "nom_complet": "Bruno RUSINEK",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "RUSINEK",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno RUSINEK",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DESCAMPS",
+          "prenom": "Aline",
+          "nom_complet": "Aline DESCAMPS",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BEAUVOIS",
+          "prenom": "Sylvain",
+          "nom_complet": "Sylvain BEAUVOIS",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "JOURDAIN",
+          "prenom": "Sylviane",
+          "nom_complet": "Sylviane JOURDAIN",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DELERIVE",
+          "prenom": "Jean Michel",
+          "nom_complet": "Jean Michel DELERIVE",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "BENFRID",
+          "prenom": "Hafida",
+          "nom_complet": "Hafida BENFRID",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DEGHIMA",
+          "prenom": "Rabah",
+          "nom_complet": "Rabah DEGHIMA",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "SMIGOWSKI",
+          "prenom": "Marie-Neige",
+          "nom_complet": "Marie-Neige SMIGOWSKI",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "MONCOURTOIS",
+          "prenom": "Cedric",
+          "nom_complet": "Cedric MONCOURTOIS",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "CNAPELYNCK",
+          "prenom": "Aurelie",
+          "nom_complet": "Aurelie CNAPELYNCK",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "VAN WAELSCAPPEL",
+          "prenom": "Jean-Jacques",
+          "nom_complet": "Jean-Jacques VAN WAELSCAPPEL",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "SENEZ",
+          "prenom": "Cecile",
+          "nom_complet": "Cecile SENEZ",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "BOULOUIZ",
+          "prenom": "Abdella",
+          "nom_complet": "Abdella BOULOUIZ",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "RICCELLI",
+          "prenom": "Marie-Madeline",
+          "nom_complet": "Marie-Madeline RICCELLI",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "HANC",
+          "prenom": "Samuel",
+          "nom_complet": "Samuel HANC",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "IBRIR",
+          "prenom": "Farrah",
+          "nom_complet": "Farrah IBRIR",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "LAGANA",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe LAGANA",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "THERY",
+          "prenom": "Christine",
+          "nom_complet": "Christine THERY",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "ROBERT",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick ROBERT",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "MEKHICI",
+          "prenom": "Yasmine",
+          "nom_complet": "Yasmine MEKHICI",
+          "sexe": "F",
+          "age": 24,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "KURZAWSKI",
+          "prenom": "Rene",
+          "nom_complet": "Rene KURZAWSKI",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "ABDALLA",
+          "prenom": "Peggy",
+          "nom_complet": "Peggy ABDALLA",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "DELLA FRANCA",
+          "prenom": "Franco",
+          "nom_complet": "Franco DELLA FRANCA",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "23"
+        },
+        {
+          "nom": "DELOBEL",
+          "prenom": "Pascale",
+          "nom_complet": "Pascale DELOBEL",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "24"
+        },
+        {
+          "nom": "ANFRAY",
+          "prenom": "Dylan",
+          "nom_complet": "Dylan ANFRAY",
+          "sexe": "M",
+          "age": 26,
+          "rang_liste": "25"
+        },
+        {
+          "nom": "TAUBMANN",
+          "prenom": "Blandine",
+          "nom_complet": "Blandine TAUBMANN",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "26"
+        },
+        {
+          "nom": "JONCKEERE",
+          "prenom": "Renzo",
+          "nom_complet": "Renzo JONCKEERE",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "27"
+        },
+        {
+          "nom": "KLOSOWSKI",
+          "prenom": "Bernadette",
+          "nom_complet": "Bernadette KLOSOWSKI",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "28"
+        },
+        {
+          "nom": "STRICANNE",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier STRICANNE",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "29"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

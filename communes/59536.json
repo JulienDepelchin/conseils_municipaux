@@ -1,0 +1,163 @@
+{
+  "code_commune": "59536",
+  "commune": "Sainte-Marie-Cappel",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "CRÉPIN",
+    "prenom": "Bertrand",
+    "nom_complet": "Bertrand CRÉPIN",
+    "age": 63,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 756,
+    "votants": 465,
+    "pct_votants": 61.51,
+    "abstentions": 291,
+    "pct_abstentions": 38.49,
+    "exprimes": 371
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Liste d'union pour Sainte-Marie-Cappel",
+      "libelle_abrege_liste": "Liste d'union pour Sainte-Marie-Cappel",
+      "nuance_liste": null,
+      "voix": 371,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "CRÉPIN",
+        "prenom": "Bertrand",
+        "nom_complet": "Bertrand CRÉPIN",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "CRÉPIN",
+          "prenom": "Bertrand",
+          "nom_complet": "Bertrand CRÉPIN",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "CHOQUET",
+          "prenom": "Nada",
+          "nom_complet": "Nada CHOQUET",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "HUYGHE",
+          "prenom": "Francis",
+          "nom_complet": "Francis HUYGHE",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BOMMELAER",
+          "prenom": "Sabine",
+          "nom_complet": "Sabine BOMMELAER",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "BODEIN",
+          "prenom": "Ghislain",
+          "nom_complet": "Ghislain BODEIN",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DERYCKE",
+          "prenom": "Anne",
+          "nom_complet": "Anne DERYCKE",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "ABELLEYT",
+          "prenom": "Bernard",
+          "nom_complet": "Bernard ABELLEYT",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "PETITPREZ",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie PETITPREZ",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "WIECH",
+          "prenom": "Gervais",
+          "nom_complet": "Gervais WIECH",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "ZEBOUDJ",
+          "prenom": "Aude",
+          "nom_complet": "Aude ZEBOUDJ",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "LEMILLE",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe LEMILLE",
+          "sexe": "M",
+          "age": 30,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "CHOQUET",
+          "prenom": "Julie",
+          "nom_complet": "Julie CHOQUET",
+          "sexe": "F",
+          "age": 24,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "BOUTRY",
+          "prenom": "Martin",
+          "nom_complet": "Martin BOUTRY",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "PRINGARBE-WIART",
+          "prenom": "Corinne",
+          "nom_complet": "Corinne PRINGARBE-WIART",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "VARLET",
+          "prenom": "Julien",
+          "nom_complet": "Julien VARLET",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

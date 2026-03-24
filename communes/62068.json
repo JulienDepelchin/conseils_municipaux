@@ -1,0 +1,131 @@
+{
+  "code_commune": "62068",
+  "commune": "Ayette",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "TAMAYO",
+    "prenom": "Fabien",
+    "nom_complet": "Fabien TAMAYO",
+    "age": 40,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 293,
+    "votants": 187,
+    "pct_votants": 63.82,
+    "abstentions": 106,
+    "pct_abstentions": 36.18,
+    "exprimes": 158
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Ayette un engagement pour l'avenir",
+      "libelle_abrege_liste": "Ayette un engagement pour l'avenir",
+      "nuance_liste": null,
+      "voix": 158,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "TAMAYO",
+        "prenom": "Fabien",
+        "nom_complet": "Fabien TAMAYO",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "TAMAYO",
+          "prenom": "Fabien",
+          "nom_complet": "Fabien TAMAYO",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "CORDIER",
+          "prenom": "Carole",
+          "nom_complet": "Carole CORDIER",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "PLOUVIEZ",
+          "prenom": "Yoan",
+          "nom_complet": "Yoan PLOUVIEZ",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DERANCOURT",
+          "prenom": "Fabienne",
+          "nom_complet": "Fabienne DERANCOURT",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "SOULISSE",
+          "prenom": "Christian",
+          "nom_complet": "Christian SOULISSE",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "VOYEZ",
+          "prenom": "Catherine",
+          "nom_complet": "Catherine VOYEZ",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "OBRY",
+          "prenom": "Joël",
+          "nom_complet": "Joël OBRY",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LARDIER",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle LARDIER",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DEBAERE",
+          "prenom": "Stéphane",
+          "nom_complet": "Stéphane DEBAERE",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "BOULOGNE",
+          "prenom": "Sybella",
+          "nom_complet": "Sybella BOULOGNE",
+          "sexe": "F",
+          "age": 31,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "LARDIER",
+          "prenom": "Benoît-Joseph",
+          "nom_complet": "Benoît-Joseph LARDIER",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

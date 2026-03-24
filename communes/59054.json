@@ -1,0 +1,163 @@
+{
+  "code_commune": "59054",
+  "commune": "Bavinchove",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "LACONTE",
+    "prenom": "Serge",
+    "nom_complet": "Serge LACONTE",
+    "age": 57,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 802,
+    "votants": 430,
+    "pct_votants": 53.62,
+    "abstentions": 372,
+    "pct_abstentions": 46.38,
+    "exprimes": 330
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Bavinchove, village qui bouge",
+      "libelle_abrege_liste": "BVB",
+      "nuance_liste": null,
+      "voix": 330,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": 1,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "LACONTE",
+        "prenom": "Serge",
+        "nom_complet": "Serge LACONTE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LACONTE",
+          "prenom": "Serge",
+          "nom_complet": "Serge LACONTE",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BONNAILLIE",
+          "prenom": "Aurélie",
+          "nom_complet": "Aurélie BONNAILLIE",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "VILLAIN",
+          "prenom": "Jean-François",
+          "nom_complet": "Jean-François VILLAIN",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "VERLET",
+          "prenom": "Amélie",
+          "nom_complet": "Amélie VERLET",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "QUEVAL",
+          "prenom": "Jonathan",
+          "nom_complet": "Jonathan QUEVAL",
+          "sexe": "M",
+          "age": 30,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "MORDERO",
+          "prenom": "Corinne",
+          "nom_complet": "Corinne MORDERO",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "CUVELIER",
+          "prenom": "Jean-Jacques",
+          "nom_complet": "Jean-Jacques CUVELIER",
+          "sexe": "M",
+          "age": 74,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "BATTEUX",
+          "prenom": "Aurore",
+          "nom_complet": "Aurore BATTEUX",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "VANDENABEELE",
+          "prenom": "Romuald",
+          "nom_complet": "Romuald VANDENABEELE",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "SOHIER",
+          "prenom": "Sandra",
+          "nom_complet": "Sandra SOHIER",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "COUSIN",
+          "prenom": "Rémi",
+          "nom_complet": "Rémi COUSIN",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "LUGEZ",
+          "prenom": "Sofia",
+          "nom_complet": "Sofia LUGEZ",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "FLAUW",
+          "prenom": "Alexis",
+          "nom_complet": "Alexis FLAUW",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "VERCRUYSSE",
+          "prenom": "Jeanne",
+          "nom_complet": "Jeanne VERCRUYSSE",
+          "sexe": "F",
+          "age": 19,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "JULIEN",
+          "prenom": "Martin",
+          "nom_complet": "Martin JULIEN",
+          "sexe": "M",
+          "age": 22,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

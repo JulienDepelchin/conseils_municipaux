@@ -1,0 +1,275 @@
+{
+  "code_commune": "59632",
+  "commune": "Wallers",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "CASTIGLIONE",
+    "prenom": "Salvatore",
+    "nom_complet": "Salvatore CASTIGLIONE",
+    "age": 56,
+    "nuance": "LDVC"
+  },
+  "resultats": {
+    "inscrits": 4029,
+    "votants": 1802,
+    "pct_votants": 44.73,
+    "abstentions": 2227,
+    "pct_abstentions": 55.27,
+    "exprimes": 1559
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Demain s'écrit avec vous !",
+      "libelle_abrege_liste": "Demain s'écrit avec vous !",
+      "nuance_liste": "LDVC",
+      "voix": 1559,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 29,
+      "sieges_cc": 3,
+      "nb_elus": 29,
+      "tete_de_liste": {
+        "nom": "CASTIGLIONE",
+        "prenom": "Salvatore",
+        "nom_complet": "Salvatore CASTIGLIONE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "CASTIGLIONE",
+          "prenom": "Salvatore",
+          "nom_complet": "Salvatore CASTIGLIONE",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BENOIT NÉE COUPET",
+          "prenom": "Fabienne",
+          "nom_complet": "Fabienne BENOIT NÉE COUPET",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "CARON",
+          "prenom": "Bernard",
+          "nom_complet": "Bernard CARON",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DUTRIEUX NÉE LOBEL",
+          "prenom": "Magalie",
+          "nom_complet": "Magalie DUTRIEUX NÉE LOBEL",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "RUNCO",
+          "prenom": "Tonino",
+          "nom_complet": "Tonino RUNCO",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "RODRIGUES PEREIRA NÉE SELVEZ",
+          "prenom": "Adeline",
+          "nom_complet": "Adeline RODRIGUES PEREIRA NÉE SELVEZ",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "STAQUET",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent STAQUET",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "CASTIGLIONE",
+          "prenom": "Vincenza",
+          "nom_complet": "Vincenza CASTIGLIONE",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "CATTIAU",
+          "prenom": "Géry",
+          "nom_complet": "Géry CATTIAU",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "JAWORSKI NÉE BALOURDET",
+          "prenom": "Suzel",
+          "nom_complet": "Suzel JAWORSKI NÉE BALOURDET",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "AROUHAL",
+          "prenom": "Karim",
+          "nom_complet": "Karim AROUHAL",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "COTTEL NÉE TIRY",
+          "prenom": "Bénédicte",
+          "nom_complet": "Bénédicte COTTEL NÉE TIRY",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "CHOMBART",
+          "prenom": "Jérémie",
+          "nom_complet": "Jérémie CHOMBART",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "DEHOUCK NÉE MILLIEZ",
+          "prenom": "Cécile",
+          "nom_complet": "Cécile DEHOUCK NÉE MILLIEZ",
+          "sexe": "F",
+          "age": 75,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "NICODEME",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique NICODEME",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "CARON",
+          "prenom": "Coralie",
+          "nom_complet": "Coralie CARON",
+          "sexe": "F",
+          "age": 30,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "ROUSSEL",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric ROUSSEL",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "SAEGERMAN NÉE TISON",
+          "prenom": "Chantal",
+          "nom_complet": "Chantal SAEGERMAN NÉE TISON",
+          "sexe": "F",
+          "age": 74,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "FORESTIER",
+          "prenom": "Jean-Baptiste",
+          "nom_complet": "Jean-Baptiste FORESTIER",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "DUSSART",
+          "prenom": "Aurore",
+          "nom_complet": "Aurore DUSSART",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "DECARPENTRY",
+          "prenom": "Mathieu",
+          "nom_complet": "Mathieu DECARPENTRY",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "AIELLO",
+          "prenom": "Daniela",
+          "nom_complet": "Daniela AIELLO",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "PETYT",
+          "prenom": "Stéphane",
+          "nom_complet": "Stéphane PETYT",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "23"
+        },
+        {
+          "nom": "DEMEURISSE",
+          "prenom": "Catherine",
+          "nom_complet": "Catherine DEMEURISSE",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "24"
+        },
+        {
+          "nom": "BAUDOYER",
+          "prenom": "Damien",
+          "nom_complet": "Damien BAUDOYER",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "25"
+        },
+        {
+          "nom": "HÉBANT",
+          "prenom": "Peggy",
+          "nom_complet": "Peggy HÉBANT",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "26"
+        },
+        {
+          "nom": "KACZMAREK",
+          "prenom": "David",
+          "nom_complet": "David KACZMAREK",
+          "sexe": "M",
+          "age": 25,
+          "rang_liste": "27"
+        },
+        {
+          "nom": "BUSZYDLIK NÉE DUBRECQ",
+          "prenom": "Mireille",
+          "nom_complet": "Mireille BUSZYDLIK NÉE DUBRECQ",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "28"
+        },
+        {
+          "nom": "DERVAUX",
+          "prenom": "Jérémy",
+          "nom_complet": "Jérémy DERVAUX",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "29"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

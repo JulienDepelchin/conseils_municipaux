@@ -1,0 +1,295 @@
+{
+  "code_commune": "59553",
+  "commune": "Santes",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "BELABBES",
+    "prenom": "Hiazed",
+    "nom_complet": "Hiazed BELABBES",
+    "age": 59,
+    "nuance": "LDVC"
+  },
+  "resultats": {
+    "inscrits": 4807,
+    "votants": 3154,
+    "pct_votants": 65.61,
+    "abstentions": 1653,
+    "pct_abstentions": 34.39,
+    "exprimes": 3073
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "SANTES AGIR ENSEMBLE, LE SENS DE L'AVENIR",
+      "libelle_abrege_liste": "SANTES AGIR ENSEMBLE, LE SENS DE L'AVENIR",
+      "nuance_liste": "LDVC",
+      "voix": 2121,
+      "pct_voix_exprimes": 69.02,
+      "sieges_cm": 25,
+      "sieges_cc": 1,
+      "nb_elus": 25,
+      "tete_de_liste": {
+        "nom": "BELABBES",
+        "prenom": "Hiazed",
+        "nom_complet": "Hiazed BELABBES",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BELABBES",
+          "prenom": "Hiazed",
+          "nom_complet": "Hiazed BELABBES",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DESSEIN",
+          "prenom": "Martine",
+          "nom_complet": "Martine DESSEIN",
+          "sexe": "F",
+          "age": 71,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BENAMEUR",
+          "prenom": "Adam",
+          "nom_complet": "Adam BENAMEUR",
+          "sexe": "M",
+          "age": 26,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "NOWAK",
+          "prenom": "Hélène",
+          "nom_complet": "Hélène NOWAK",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "GRESS",
+          "prenom": "Geoffrey",
+          "nom_complet": "Geoffrey GRESS",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "BOGAERT",
+          "prenom": "Céline",
+          "nom_complet": "Céline BOGAERT",
+          "sexe": "F",
+          "age": 32,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DELEVOYE",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe DELEVOYE",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "BOUSSEMART",
+          "prenom": "Guylaine",
+          "nom_complet": "Guylaine BOUSSEMART",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DRUON",
+          "prenom": "Francis",
+          "nom_complet": "Francis DRUON",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DELCROIX",
+          "prenom": "Sylviane",
+          "nom_complet": "Sylviane DELCROIX",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "BRAME",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe BRAME",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "WAQUET",
+          "prenom": "Nadège",
+          "nom_complet": "Nadège WAQUET",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "DUVERT",
+          "prenom": "Jérôme",
+          "nom_complet": "Jérôme DUVERT",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "LEFEBVRE",
+          "prenom": "Christelle",
+          "nom_complet": "Christelle LEFEBVRE",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "PAGIES",
+          "prenom": "Gailord",
+          "nom_complet": "Gailord PAGIES",
+          "sexe": "M",
+          "age": 29,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "AMADON",
+          "prenom": "Virginie",
+          "nom_complet": "Virginie AMADON",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "KASPRZYK",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe KASPRZYK",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "DOLLET",
+          "prenom": "Pauline",
+          "nom_complet": "Pauline DOLLET",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "COFFINIER",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas COFFINIER",
+          "sexe": "M",
+          "age": 28,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "LEGRAND",
+          "prenom": "Auréline",
+          "nom_complet": "Auréline LEGRAND",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "RUDENT",
+          "prenom": "Sylvain",
+          "nom_complet": "Sylvain RUDENT",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "WALLRICH",
+          "prenom": "Delphine",
+          "nom_complet": "Delphine WALLRICH",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "BRUÈRE",
+          "prenom": "Jérôme",
+          "nom_complet": "Jérôme BRUÈRE",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "23"
+        },
+        {
+          "nom": "RUYSSEN",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie RUYSSEN",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "24"
+        },
+        {
+          "nom": "COCHE",
+          "prenom": "Pierre-Yves",
+          "nom_complet": "Pierre-Yves COCHE",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "25"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "SANTES DEMAIN",
+      "libelle_abrege_liste": "SANTES DEMAIN",
+      "nuance_liste": "LDVC",
+      "voix": 952,
+      "pct_voix_exprimes": 30.98,
+      "sieges_cm": 4,
+      "sieges_cc": 0,
+      "nb_elus": 4,
+      "tete_de_liste": {
+        "nom": "GAILLOT",
+        "prenom": "Francis",
+        "nom_complet": "Francis GAILLOT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "GAILLOT",
+          "prenom": "Francis",
+          "nom_complet": "Francis GAILLOT",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LECLERCQ",
+          "prenom": "Odile",
+          "nom_complet": "Odile LECLERCQ",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "RUCAR",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas RUCAR",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "KEIRSGIETER",
+          "prenom": "Annie",
+          "nom_complet": "Annie KEIRSGIETER",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "4"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

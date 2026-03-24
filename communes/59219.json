@@ -1,0 +1,163 @@
+{
+  "code_commune": "59219",
+  "commune": "Estrun",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "FASCIAUX",
+    "prenom": "Michaël",
+    "nom_complet": "Michaël FASCIAUX",
+    "age": 55,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 596,
+    "votants": 351,
+    "pct_votants": 58.89,
+    "abstentions": 245,
+    "pct_abstentions": 41.11,
+    "exprimes": 318
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ESTRUN, AVEC VOUS, POUR VOUS",
+      "libelle_abrege_liste": "ESTRUN, AVEC VOUS, POUR VOUS",
+      "nuance_liste": null,
+      "voix": 318,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "FASCIAUX",
+        "prenom": "Michaël",
+        "nom_complet": "Michaël FASCIAUX",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "FASCIAUX",
+          "prenom": "Michaël",
+          "nom_complet": "Michaël FASCIAUX",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "COUPEZ",
+          "prenom": "Sabine",
+          "nom_complet": "Sabine COUPEZ",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "GROS",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe GROS",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "PREVOST",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie PREVOST",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DEFOSSEZ",
+          "prenom": "Éric",
+          "nom_complet": "Éric DEFOSSEZ",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "FÖLSING",
+          "prenom": "Kathrin",
+          "nom_complet": "Kathrin FÖLSING",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "MARSEILLE",
+          "prenom": "Maurice",
+          "nom_complet": "Maurice MARSEILLE",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "JOIGNIAUX",
+          "prenom": "Mélanie",
+          "nom_complet": "Mélanie JOIGNIAUX",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "JOLLIVET",
+          "prenom": "Fabien",
+          "nom_complet": "Fabien JOLLIVET",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "BALORY",
+          "prenom": "Élodie",
+          "nom_complet": "Élodie BALORY",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "LEVECQUE",
+          "prenom": "Ronny",
+          "nom_complet": "Ronny LEVECQUE",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "LÉPINE",
+          "prenom": "Valérie",
+          "nom_complet": "Valérie LÉPINE",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "CORBEAU",
+          "prenom": "Mathieu Hervé Gérald",
+          "nom_complet": "Mathieu Hervé Gérald CORBEAU",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "FAUVEAUX",
+          "prenom": "Anaïs",
+          "nom_complet": "Anaïs FAUVEAUX",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "BOCKTAELS",
+          "prenom": "Julien",
+          "nom_complet": "Julien BOCKTAELS",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

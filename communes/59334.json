@@ -1,0 +1,215 @@
+{
+  "code_commune": "59334",
+  "commune": "Lauwin-Planque",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "POIRET",
+    "prenom": "Christian",
+    "nom_complet": "Christian POIRET",
+    "age": 68,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1331,
+    "votants": 1002,
+    "pct_votants": 75.28,
+    "abstentions": 329,
+    "pct_abstentions": 24.72,
+    "exprimes": 976
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "LAUWIN PLANQUE ENSEMBLE POUR LE VILLAGE",
+      "libelle_abrege_liste": "LAUWIN PLANQUE ENSEMBLE POUR LE VILLAGE",
+      "nuance_liste": null,
+      "voix": 546,
+      "pct_voix_exprimes": 55.94,
+      "sieges_cm": 15,
+      "sieges_cc": 1,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "POIRET",
+        "prenom": "Christian",
+        "nom_complet": "Christian POIRET",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "POIRET",
+          "prenom": "Christian",
+          "nom_complet": "Christian POIRET",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "VALLET",
+          "prenom": "Sonia",
+          "nom_complet": "Sonia VALLET",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "MOHAMMED",
+          "prenom": "Abdallah",
+          "nom_complet": "Abdallah MOHAMMED",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LUCIDARME",
+          "prenom": "Christine",
+          "nom_complet": "Christine LUCIDARME",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "PANCHART",
+          "prenom": "Benjamin",
+          "nom_complet": "Benjamin PANCHART",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "FABRESSE",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle FABRESSE",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "FACQ",
+          "prenom": "Patrice",
+          "nom_complet": "Patrice FACQ",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "TAILLART",
+          "prenom": "Chloé",
+          "nom_complet": "Chloé TAILLART",
+          "sexe": "F",
+          "age": 31,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "KESTREMOND",
+          "prenom": "Stéphane",
+          "nom_complet": "Stéphane KESTREMOND",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "BAYE",
+          "prenom": "Adelina",
+          "nom_complet": "Adelina BAYE",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DERON",
+          "prenom": "Fabrice",
+          "nom_complet": "Fabrice DERON",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "DELABY",
+          "prenom": "Corinne",
+          "nom_complet": "Corinne DELABY",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "VANDAMME",
+          "prenom": "Maxime",
+          "nom_complet": "Maxime VANDAMME",
+          "sexe": "M",
+          "age": 23,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "EMBOUAZZA",
+          "prenom": "Marion",
+          "nom_complet": "Marion EMBOUAZZA",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "MARECHAL",
+          "prenom": "Jean-Michel",
+          "nom_complet": "Jean-Michel MARECHAL",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "LAUWIN-PLANQUE POUR ET AVEC VOUS",
+      "libelle_abrege_liste": "LAUWIN-PLANQUE POUR ET AVEC VOUS",
+      "nuance_liste": null,
+      "voix": 430,
+      "pct_voix_exprimes": 44.06,
+      "sieges_cm": 4,
+      "sieges_cc": 0,
+      "nb_elus": 4,
+      "tete_de_liste": {
+        "nom": "SKOTAREK",
+        "prenom": "Christine",
+        "nom_complet": "Christine SKOTAREK",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "SKOTAREK",
+          "prenom": "Christine",
+          "nom_complet": "Christine SKOTAREK",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "JUANCHICH",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent JUANCHICH",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "VAN PAEPEGHEM",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie VAN PAEPEGHEM",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DEHOURS",
+          "prenom": "Didier",
+          "nom_complet": "Didier DEHOURS",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "4"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

@@ -1,0 +1,267 @@
+{
+  "code_commune": "59660",
+  "commune": "Willems",
+  "departement": "Nord",
+  "tour": "T2",
+  "maire": {
+    "nom": "COLAONE",
+    "prenom": "Simond",
+    "nom_complet": "Simond COLAONE",
+    "age": 41,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 2553,
+    "votants": 1801,
+    "pct_votants": 70.54,
+    "abstentions": 752,
+    "pct_abstentions": 29.46,
+    "exprimes": 1781
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "WILLEMS ENSEMBLE",
+      "libelle_abrege_liste": "WILLEMS ENSEMBLE",
+      "nuance_liste": null,
+      "voix": 756,
+      "pct_voix_exprimes": 42.45,
+      "sieges_cm": 17,
+      "sieges_cc": 1,
+      "nb_elus": 17,
+      "tete_de_liste": {
+        "nom": "COLAONE",
+        "prenom": "Simond",
+        "nom_complet": "Simond COLAONE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "COLAONE",
+          "prenom": "Simond",
+          "nom_complet": "Simond COLAONE",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "THERON",
+          "prenom": "Valerie",
+          "nom_complet": "Valerie THERON",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "VANDENDORPE",
+          "prenom": "Antoine",
+          "nom_complet": "Antoine VANDENDORPE",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "SERET",
+          "prenom": "Veronique",
+          "nom_complet": "Veronique SERET",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DUPAS",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe DUPAS",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DENEUVILLE",
+          "prenom": "Annick",
+          "nom_complet": "Annick DENEUVILLE",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "TRONCHON",
+          "prenom": "Jean-Sébastien",
+          "nom_complet": "Jean-Sébastien TRONCHON",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "TISON",
+          "prenom": "Claire",
+          "nom_complet": "Claire TISON",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "SMIGIELSKI",
+          "prenom": "Jean-François",
+          "nom_complet": "Jean-François SMIGIELSKI",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "KOSTRZEWA",
+          "prenom": "Gaëtane",
+          "nom_complet": "Gaëtane KOSTRZEWA",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "CARELS",
+          "prenom": "Ludovic",
+          "nom_complet": "Ludovic CARELS",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "VANDEN DORPE",
+          "prenom": "Annie",
+          "nom_complet": "Annie VANDEN DORPE",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "DUQUESNOY",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe DUQUESNOY",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "COUVEZ",
+          "prenom": "Sandra",
+          "nom_complet": "Sandra COUVEZ",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "MONBEL",
+          "prenom": "David",
+          "nom_complet": "David MONBEL",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "WULLAERT",
+          "prenom": "Audrey",
+          "nom_complet": "Audrey WULLAERT",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "DRUEZ",
+          "prenom": "Maxence",
+          "nom_complet": "Maxence DRUEZ",
+          "sexe": "M",
+          "age": 34,
+          "rang_liste": "17"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "POUR MIEUX VIVRE A WILLEMS notre passion Commune 2026",
+      "libelle_abrege_liste": "POUR MIEUX VIVRE A WILLEMS notre passion Commune 2026",
+      "nuance_liste": null,
+      "voix": 676,
+      "pct_voix_exprimes": 37.96,
+      "sieges_cm": 4,
+      "sieges_cc": 0,
+      "nb_elus": 4,
+      "tete_de_liste": {
+        "nom": "ROLLAND",
+        "prenom": "Thierry",
+        "nom_complet": "Thierry ROLLAND",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "ROLLAND",
+          "prenom": "Thierry",
+          "nom_complet": "Thierry ROLLAND",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "PROUVEUR",
+          "prenom": "Aurore",
+          "nom_complet": "Aurore PROUVEUR",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "REFFAS",
+          "prenom": "Alain",
+          "nom_complet": "Alain REFFAS",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BONNEEL",
+          "prenom": "Audrey Christine",
+          "nom_complet": "Audrey Christine BONNEEL",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "4"
+        }
+      ],
+      "statut_conseil": "autre"
+    },
+    {
+      "num_panneau": "3",
+      "libelle_liste": "AGISSONS POUR WILLEMS",
+      "libelle_abrege_liste": "AGISSONS POUR WILLEMS",
+      "nuance_liste": null,
+      "voix": 349,
+      "pct_voix_exprimes": 19.6,
+      "sieges_cm": 2,
+      "sieges_cc": 0,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "HONVAULT",
+        "prenom": "Etienne",
+        "nom_complet": "Etienne HONVAULT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "HONVAULT",
+          "prenom": "Etienne",
+          "nom_complet": "Etienne HONVAULT",
+          "sexe": "M",
+          "age": 34,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "MAEGHT",
+          "prenom": "Virginie",
+          "nom_complet": "Virginie MAEGHT",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "code_commune": "62616",
+  "commune": "Noeux-lès-Auxi",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "MELIN",
+    "prenom": "Daniel",
+    "nom_complet": "Daniel MELIN",
+    "age": 74,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 160,
+    "votants": 92,
+    "pct_votants": 57.5,
+    "abstentions": 68,
+    "pct_abstentions": 42.5,
+    "exprimes": 57
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Pour un village vivant et solidaire.",
+      "libelle_abrege_liste": "Pour un village vivant et solidaire.",
+      "nuance_liste": null,
+      "voix": 57,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "MELIN",
+        "prenom": "Daniel",
+        "nom_complet": "Daniel MELIN",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "MELIN",
+          "prenom": "Daniel",
+          "nom_complet": "Daniel MELIN",
+          "sexe": "M",
+          "age": 74,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BOTTE",
+          "prenom": "Lucile",
+          "nom_complet": "Lucile BOTTE",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "ALIPRÉ",
+          "prenom": "Stéphane",
+          "nom_complet": "Stéphane ALIPRÉ",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "CUVILLIER",
+          "prenom": "Denise",
+          "nom_complet": "Denise CUVILLIER",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DHERMY",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas DHERMY",
+          "sexe": "M",
+          "age": 34,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "HOUBART",
+          "prenom": "Mandy",
+          "nom_complet": "Mandy HOUBART",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "FRASER",
+          "prenom": "Charley",
+          "nom_complet": "Charley FRASER",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LOUCHART",
+          "prenom": "Véronique",
+          "nom_complet": "Véronique LOUCHART",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "PONCHEL",
+          "prenom": "Manuel",
+          "nom_complet": "Manuel PONCHEL",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "ROEDER",
+          "prenom": "Séverine",
+          "nom_complet": "Séverine ROEDER",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "ROGEZ",
+          "prenom": "Grégory",
+          "nom_complet": "Grégory ROGEZ",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

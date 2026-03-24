@@ -1,0 +1,163 @@
+{
+  "code_commune": "59554",
+  "commune": "Sars-et-Rosières",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "MICHALAK",
+    "prenom": "Jean-Michel",
+    "nom_complet": "Jean-Michel MICHALAK",
+    "age": 54,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 497,
+    "votants": 329,
+    "pct_votants": 66.2,
+    "abstentions": 168,
+    "pct_abstentions": 33.8,
+    "exprimes": 309
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ENSEMBLE SARS ET ROSIERES",
+      "libelle_abrege_liste": "ENSEMBLE SARS ET ROSIERES",
+      "nuance_liste": null,
+      "voix": 309,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "MICHALAK",
+        "prenom": "Jean-Michel",
+        "nom_complet": "Jean-Michel MICHALAK",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "MICHALAK",
+          "prenom": "Jean-Michel",
+          "nom_complet": "Jean-Michel MICHALAK",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DUTHOIT",
+          "prenom": "Christine",
+          "nom_complet": "Christine DUTHOIT",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DUYCK",
+          "prenom": "Michel",
+          "nom_complet": "Michel DUYCK",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "TIZON",
+          "prenom": "Chantal",
+          "nom_complet": "Chantal TIZON",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DUBOIS",
+          "prenom": "Frederic",
+          "nom_complet": "Frederic DUBOIS",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LORIDAN",
+          "prenom": "Christelle",
+          "nom_complet": "Christelle LORIDAN",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "VERCLEVEN",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique VERCLEVEN",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DEGAND",
+          "prenom": "Helene",
+          "nom_complet": "Helene DEGAND",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "CABOT",
+          "prenom": "Sebastien",
+          "nom_complet": "Sebastien CABOT",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "NORMAND",
+          "prenom": "Raphaelle",
+          "nom_complet": "Raphaelle NORMAND",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DELCROIX",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno DELCROIX",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "PREVOST",
+          "prenom": "Michele",
+          "nom_complet": "Michele PREVOST",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "BRASSELET",
+          "prenom": "Antoine",
+          "nom_complet": "Antoine BRASSELET",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "SZLESINSKI",
+          "prenom": "Therese",
+          "nom_complet": "Therese SZLESINSKI",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "LEMATTRE",
+          "prenom": "Marc",
+          "nom_complet": "Marc LEMATTRE",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

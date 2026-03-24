@@ -1,0 +1,295 @@
+{
+  "code_commune": "59253",
+  "commune": "Fresnes-sur-Escaut",
+  "departement": "Nord",
+  "tour": "T2",
+  "maire": {
+    "nom": "FORNIES",
+    "prenom": "Valérie",
+    "nom_complet": "Valérie FORNIES",
+    "age": 57,
+    "nuance": "LDVG"
+  },
+  "resultats": {
+    "inscrits": 4603,
+    "votants": 2885,
+    "pct_votants": 62.68,
+    "abstentions": 1718,
+    "pct_abstentions": 37.32,
+    "exprimes": 2814
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "TENONS LE CAP",
+      "libelle_abrege_liste": "TENONS LE CAP",
+      "nuance_liste": "LDVG",
+      "voix": 1427,
+      "pct_voix_exprimes": 50.71,
+      "sieges_cm": 22,
+      "sieges_cc": 2,
+      "nb_elus": 22,
+      "tete_de_liste": {
+        "nom": "FORNIES",
+        "prenom": "Valérie",
+        "nom_complet": "Valérie FORNIES",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "FORNIES",
+          "prenom": "Valérie",
+          "nom_complet": "Valérie FORNIES",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BARDI",
+          "prenom": "Rudy",
+          "nom_complet": "Rudy BARDI",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "PORQUEDDU",
+          "prenom": "Btisame",
+          "nom_complet": "Btisame PORQUEDDU",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "SKRZYPCZAK",
+          "prenom": "Bernard",
+          "nom_complet": "Bernard SKRZYPCZAK",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DELCROIX",
+          "prenom": "Anne-Marie",
+          "nom_complet": "Anne-Marie DELCROIX",
+          "sexe": "F",
+          "age": 70,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DEMORY",
+          "prenom": "Raymond",
+          "nom_complet": "Raymond DEMORY",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "GOURDIN",
+          "prenom": "Elodie",
+          "nom_complet": "Elodie GOURDIN",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "SYBILLE",
+          "prenom": "Jean-Yves",
+          "nom_complet": "Jean-Yves SYBILLE",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "MISIURNY",
+          "prenom": "Magaly",
+          "nom_complet": "Magaly MISIURNY",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "LEFEBVRE",
+          "prenom": "Michaël",
+          "nom_complet": "Michaël LEFEBVRE",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "PAPIN",
+          "prenom": "Agnès",
+          "nom_complet": "Agnès PAPIN",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "KITLASZ",
+          "prenom": "Damien",
+          "nom_complet": "Damien KITLASZ",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "LOUVION",
+          "prenom": "Thérèse",
+          "nom_complet": "Thérèse LOUVION",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "AUMONT",
+          "prenom": "David",
+          "nom_complet": "David AUMONT",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "COCHIN",
+          "prenom": "Nadège",
+          "nom_complet": "Nadège COCHIN",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "THERET",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe THERET",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "OFFRE",
+          "prenom": "Sylviane",
+          "nom_complet": "Sylviane OFFRE",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "MASSON",
+          "prenom": "Denis",
+          "nom_complet": "Denis MASSON",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "MANIEZ",
+          "prenom": "Marie-Thérèse",
+          "nom_complet": "Marie-Thérèse MANIEZ",
+          "sexe": "F",
+          "age": 76,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "HENRARD",
+          "prenom": "José",
+          "nom_complet": "José HENRARD",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "MELE",
+          "prenom": "Martine",
+          "nom_complet": "Martine MELE",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "STOLTZ",
+          "prenom": "Roland",
+          "nom_complet": "Roland STOLTZ",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "22"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "AGIR ENSEMBLE POUR FRESNES SUR ESCAUT",
+      "libelle_abrege_liste": "AGIR ENSEMBLE POUR FRESNES SUR ESCAUT",
+      "nuance_liste": "LEXD",
+      "voix": 1387,
+      "pct_voix_exprimes": 49.29,
+      "sieges_cm": 7,
+      "sieges_cc": 1,
+      "nb_elus": 7,
+      "tete_de_liste": {
+        "nom": "ZAREMBA",
+        "prenom": "Fabrice",
+        "nom_complet": "Fabrice ZAREMBA",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "ZAREMBA",
+          "prenom": "Fabrice",
+          "nom_complet": "Fabrice ZAREMBA",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "MARECAUX",
+          "prenom": "Mathilde",
+          "nom_complet": "Mathilde MARECAUX",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DUJARDIN",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas DUJARDIN",
+          "sexe": "M",
+          "age": 26,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DECARPENTRY",
+          "prenom": "Magali",
+          "nom_complet": "Magali DECARPENTRY",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "WYSOCKI",
+          "prenom": "Joris",
+          "nom_complet": "Joris WYSOCKI",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DENEUX",
+          "prenom": "Elodie",
+          "nom_complet": "Elodie DENEUX",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "LOVATO",
+          "prenom": "Marc",
+          "nom_complet": "Marc LOVATO",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "7"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

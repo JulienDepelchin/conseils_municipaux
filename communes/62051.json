@@ -1,0 +1,279 @@
+{
+  "code_commune": "62051",
+  "commune": "Auchy-les-Mines",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "LEGRAND",
+    "prenom": "Jean-Michel",
+    "nom_complet": "Jean-Michel LEGRAND",
+    "age": 65,
+    "nuance": "LDVG"
+  },
+  "resultats": {
+    "inscrits": 3709,
+    "votants": 2011,
+    "pct_votants": 54.22,
+    "abstentions": 1698,
+    "pct_abstentions": 45.78,
+    "exprimes": 1795
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "RASSEMBLEMENT ET TRANSPARENCE AVEC VOUS ET POUR VOUS",
+      "libelle_abrege_liste": "RASSEMBLEMENT ET TRANSPARENCE AVEC VOUS ET POUR VOUS",
+      "nuance_liste": "LDVG",
+      "voix": 1412,
+      "pct_voix_exprimes": 78.66,
+      "sieges_cm": 25,
+      "sieges_cc": 2,
+      "nb_elus": 25,
+      "tete_de_liste": {
+        "nom": "LEGRAND",
+        "prenom": "Jean-Michel",
+        "nom_complet": "Jean-Michel LEGRAND",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LEGRAND",
+          "prenom": "Jean-Michel",
+          "nom_complet": "Jean-Michel LEGRAND",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BOUZAT",
+          "prenom": "Karine",
+          "nom_complet": "Karine BOUZAT",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "COURTOIS",
+          "prenom": "Jean-Louis",
+          "nom_complet": "Jean-Louis COURTOIS",
+          "sexe": "M",
+          "age": 75,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "MARCQ",
+          "prenom": "Marie-France",
+          "nom_complet": "Marie-France MARCQ",
+          "sexe": "F",
+          "age": 72,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "GUILLOU",
+          "prenom": "André",
+          "nom_complet": "André GUILLOU",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "HERTOGH",
+          "prenom": "Chloé",
+          "nom_complet": "Chloé HERTOGH",
+          "sexe": "F",
+          "age": 31,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DEGRÉAUX",
+          "prenom": "Kévin",
+          "nom_complet": "Kévin DEGRÉAUX",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "PARQUET",
+          "prenom": "Carine",
+          "nom_complet": "Carine PARQUET",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "GREZ",
+          "prenom": "Gérald",
+          "nom_complet": "Gérald GREZ",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "COUPIN",
+          "prenom": "Sandrine",
+          "nom_complet": "Sandrine COUPIN",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "LEGRAND",
+          "prenom": "Arnaud",
+          "nom_complet": "Arnaud LEGRAND",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "GOUBET",
+          "prenom": "Cindy",
+          "nom_complet": "Cindy GOUBET",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "BONNEL",
+          "prenom": "Jean-Charles",
+          "nom_complet": "Jean-Charles BONNEL",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "HAFID",
+          "prenom": "Malika",
+          "nom_complet": "Malika HAFID",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "MOUREAU",
+          "prenom": "Jean-Claude",
+          "nom_complet": "Jean-Claude MOUREAU",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "BARDOT",
+          "prenom": "Karine",
+          "nom_complet": "Karine BARDOT",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "BOURRIEZ",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier BOURRIEZ",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "SKALECKI",
+          "prenom": "Martine",
+          "nom_complet": "Martine SKALECKI",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "MARCINEK",
+          "prenom": "Thierry",
+          "nom_complet": "Thierry MARCINEK",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "GAUDRÉ",
+          "prenom": "Virginie",
+          "nom_complet": "Virginie GAUDRÉ",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "GALET",
+          "prenom": "Mickaël",
+          "nom_complet": "Mickaël GALET",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "COUET",
+          "prenom": "Claire",
+          "nom_complet": "Claire COUET",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "PONTOIS",
+          "prenom": "Kévin",
+          "nom_complet": "Kévin PONTOIS",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "23"
+        },
+        {
+          "nom": "AUBIN",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie AUBIN",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "24"
+        },
+        {
+          "nom": "THORÉ",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric THORÉ",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "25"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "UN SOUFFLE NOUVEAU POUR VOTRE VILLE",
+      "libelle_abrege_liste": "UN SOUFFLE NOUVEAU POUR VOTRE VILLE",
+      "nuance_liste": "LDIV",
+      "voix": 383,
+      "pct_voix_exprimes": 21.34,
+      "sieges_cm": 2,
+      "sieges_cc": 0,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "CHAUVIN",
+        "prenom": "Deborat",
+        "nom_complet": "Deborat CHAUVIN",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "CHAUVIN",
+          "prenom": "Deborat",
+          "nom_complet": "Deborat CHAUVIN",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "GOULLIART",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe GOULLIART",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

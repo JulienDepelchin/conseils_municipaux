@@ -1,0 +1,131 @@
+{
+  "code_commune": "59232",
+  "commune": "La Flamengrie",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "LECERF",
+    "prenom": "Yohan",
+    "nom_complet": "Yohan LECERF",
+    "age": 44,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 336,
+    "votants": 243,
+    "pct_votants": 72.32,
+    "abstentions": 93,
+    "pct_abstentions": 27.68,
+    "exprimes": 225
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Ensemble, continuons à faire vivre la Flamengrie",
+      "libelle_abrege_liste": "Ensemble, continuons à faire vivre la Flamengrie",
+      "nuance_liste": null,
+      "voix": 225,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "LECERF",
+        "prenom": "Yohan",
+        "nom_complet": "Yohan LECERF",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LECERF",
+          "prenom": "Yohan",
+          "nom_complet": "Yohan LECERF",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DALLE",
+          "prenom": "Flavie",
+          "nom_complet": "Flavie DALLE",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DOTTE",
+          "prenom": "Christian",
+          "nom_complet": "Christian DOTTE",
+          "sexe": "M",
+          "age": 81,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "CICHON",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie CICHON",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "BOTMANS",
+          "prenom": "Jean-Luc",
+          "nom_complet": "Jean-Luc BOTMANS",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "ROUCOUX",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique ROUCOUX",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "MEENS",
+          "prenom": "Geoffrey",
+          "nom_complet": "Geoffrey MEENS",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "MOZDZIERZ",
+          "prenom": "Ombeline",
+          "nom_complet": "Ombeline MOZDZIERZ",
+          "sexe": "F",
+          "age": 29,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "SIMEON",
+          "prenom": "François",
+          "nom_complet": "François SIMEON",
+          "sexe": "M",
+          "age": 20,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "BLOUSE",
+          "prenom": "Astrid",
+          "nom_complet": "Astrid BLOUSE",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "RENTEUX",
+          "prenom": "Jean-Louis",
+          "nom_complet": "Jean-Louis RENTEUX",
+          "sexe": "M",
+          "age": 82,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

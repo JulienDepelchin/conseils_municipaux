@@ -1,0 +1,163 @@
+{
+  "code_commune": "62273",
+  "commune": "Doudeauville",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "COUSIN",
+    "prenom": "Christophe",
+    "nom_complet": "Christophe COUSIN",
+    "age": 54,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 491,
+    "votants": 262,
+    "pct_votants": 53.36,
+    "abstentions": 229,
+    "pct_abstentions": 46.64,
+    "exprimes": 219
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "VIVRE ENSEMBLE !",
+      "libelle_abrege_liste": "VIVRE ENSEMBLE !",
+      "nuance_liste": null,
+      "voix": 219,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "COUSIN",
+        "prenom": "Christophe",
+        "nom_complet": "Christophe COUSIN",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "COUSIN",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe COUSIN",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "ROHART",
+          "prenom": "Anne-Sophie",
+          "nom_complet": "Anne-Sophie ROHART",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "JOLY",
+          "prenom": "René",
+          "nom_complet": "René JOLY",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LELEU",
+          "prenom": "Elodie",
+          "nom_complet": "Elodie LELEU",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DELPLANQUE",
+          "prenom": "Eric",
+          "nom_complet": "Eric DELPLANQUE",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "MERLIER",
+          "prenom": "Thérèse",
+          "nom_complet": "Thérèse MERLIER",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "CIVIERE",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier CIVIERE",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "PENIGUEL",
+          "prenom": "Laure",
+          "nom_complet": "Laure PENIGUEL",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DELATTRE",
+          "prenom": "Kevin",
+          "nom_complet": "Kevin DELATTRE",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DUMONT",
+          "prenom": "Sandrine",
+          "nom_complet": "Sandrine DUMONT",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "GERVAIS",
+          "prenom": "Sebastien",
+          "nom_complet": "Sebastien GERVAIS",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "FOURDINIER",
+          "prenom": "Brigitte",
+          "nom_complet": "Brigitte FOURDINIER",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "DEMAGNY",
+          "prenom": "Thierry",
+          "nom_complet": "Thierry DEMAGNY",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "LECAILLE",
+          "prenom": "Agathe",
+          "nom_complet": "Agathe LECAILLE",
+          "sexe": "F",
+          "age": 23,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "MENUGE",
+          "prenom": "François",
+          "nom_complet": "François MENUGE",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

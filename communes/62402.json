@@ -1,0 +1,131 @@
+{
+  "code_commune": "62402",
+  "commune": "Halinghen",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "BAILLY",
+    "prenom": "Xavier",
+    "nom_complet": "Xavier BAILLY",
+    "age": 65,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 241,
+    "votants": 172,
+    "pct_votants": 71.37,
+    "abstentions": 69,
+    "pct_abstentions": 28.63,
+    "exprimes": 133
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "VIVRE A HALINGHEN",
+      "libelle_abrege_liste": "VIVRE A HALINGHEN",
+      "nuance_liste": null,
+      "voix": 133,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "BAILLY",
+        "prenom": "Xavier",
+        "nom_complet": "Xavier BAILLY",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BAILLY",
+          "prenom": "Xavier",
+          "nom_complet": "Xavier BAILLY",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LEVEL",
+          "prenom": "Mauricette",
+          "nom_complet": "Mauricette LEVEL",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BUTTIAUX",
+          "prenom": "Severin",
+          "nom_complet": "Severin BUTTIAUX",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "THERRY",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie THERRY",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DELFOLSE",
+          "prenom": "Daniel",
+          "nom_complet": "Daniel DELFOLSE",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LHOMME",
+          "prenom": "Séverine",
+          "nom_complet": "Séverine LHOMME",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "FUCHS",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal FUCHS",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "BEAUGENDRE",
+          "prenom": "Florence",
+          "nom_complet": "Florence BEAUGENDRE",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "PALFRAY",
+          "prenom": "Julien",
+          "nom_complet": "Julien PALFRAY",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "LAISNE",
+          "prenom": "Héléna",
+          "nom_complet": "Héléna LAISNE",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "CAMUS",
+          "prenom": "Alexandre",
+          "nom_complet": "Alexandre CAMUS",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

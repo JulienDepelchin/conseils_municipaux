@@ -1,0 +1,203 @@
+{
+  "code_commune": "59381",
+  "commune": "Maresches",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "BRICHANT",
+    "prenom": "Jean Noel",
+    "nom_complet": "Jean Noel BRICHANT",
+    "age": 77,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 671,
+    "votants": 515,
+    "pct_votants": 76.75,
+    "abstentions": 156,
+    "pct_abstentions": 23.25,
+    "exprimes": 505
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Maresches la dynamique continue",
+      "libelle_abrege_liste": "Maresches la dynamique continue",
+      "nuance_liste": null,
+      "voix": 256,
+      "pct_voix_exprimes": 50.69,
+      "sieges_cm": 12,
+      "sieges_cc": null,
+      "nb_elus": 12,
+      "tete_de_liste": {
+        "nom": "BRICHANT",
+        "prenom": "Jean Noel",
+        "nom_complet": "Jean Noel BRICHANT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BRICHANT",
+          "prenom": "Jean Noel",
+          "nom_complet": "Jean Noel BRICHANT",
+          "sexe": "M",
+          "age": 77,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "VITE",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie VITE",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BOQUILLON",
+          "prenom": "Antoine",
+          "nom_complet": "Antoine BOQUILLON",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BIGOTTE",
+          "prenom": "Perrine",
+          "nom_complet": "Perrine BIGOTTE",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "BERNARD",
+          "prenom": "Gervais",
+          "nom_complet": "Gervais BERNARD",
+          "sexe": "M",
+          "age": 74,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "GUYADER",
+          "prenom": "Cecile",
+          "nom_complet": "Cecile GUYADER",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "PJOTZ",
+          "prenom": "Gregory",
+          "nom_complet": "Gregory PJOTZ",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "MALAQUIN",
+          "prenom": "Aurelie",
+          "nom_complet": "Aurelie MALAQUIN",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "LOCOCHE",
+          "prenom": "Sebastien",
+          "nom_complet": "Sebastien LOCOCHE",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "LAURO",
+          "prenom": "Jane",
+          "nom_complet": "Jane LAURO",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "BEN-ALI",
+          "prenom": "Pierre",
+          "nom_complet": "Pierre BEN-ALI",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "MAROUSE",
+          "prenom": "Marie Claude",
+          "nom_complet": "Marie Claude MAROUSE",
+          "sexe": "F",
+          "age": 79,
+          "rang_liste": "12"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "Maresches Unir et Agir",
+      "libelle_abrege_liste": "Maresches Unir et Agir",
+      "nuance_liste": null,
+      "voix": 173,
+      "pct_voix_exprimes": 34.26,
+      "sieges_cm": 2,
+      "sieges_cc": null,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "DENIS",
+        "prenom": "Geoffrey",
+        "nom_complet": "Geoffrey DENIS",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DENIS",
+          "prenom": "Geoffrey",
+          "nom_complet": "Geoffrey DENIS",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "PERFETTO",
+          "prenom": "Cécile",
+          "nom_complet": "Cécile PERFETTO",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    },
+    {
+      "num_panneau": "3",
+      "libelle_liste": "Construisons l'avenir de Maresches",
+      "libelle_abrege_liste": "Construisons l'avenir de Maresches",
+      "nuance_liste": null,
+      "voix": 76,
+      "pct_voix_exprimes": 15.05,
+      "sieges_cm": 1,
+      "sieges_cc": null,
+      "nb_elus": 1,
+      "tete_de_liste": {
+        "nom": "MALIET",
+        "prenom": "Dominique",
+        "nom_complet": "Dominique MALIET",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "MALIET",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique MALIET",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "1"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

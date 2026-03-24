@@ -1,0 +1,131 @@
+{
+  "code_commune": "62077",
+  "commune": "Bajus",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "DERICQUEBOURG",
+    "prenom": "Daniel",
+    "nom_complet": "Daniel DERICQUEBOURG",
+    "age": 58,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 296,
+    "votants": 194,
+    "pct_votants": 65.54,
+    "abstentions": 102,
+    "pct_abstentions": 34.46,
+    "exprimes": 184
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ENSEMBLE POUR BAJUS",
+      "libelle_abrege_liste": "ENSEMBLE POUR BAJUS",
+      "nuance_liste": null,
+      "voix": 184,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "DERICQUEBOURG",
+        "prenom": "Daniel",
+        "nom_complet": "Daniel DERICQUEBOURG",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DERICQUEBOURG",
+          "prenom": "Daniel",
+          "nom_complet": "Daniel DERICQUEBOURG",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "PETIT",
+          "prenom": "Emilie",
+          "nom_complet": "Emilie PETIT",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "MONCHY",
+          "prenom": "Fabrice",
+          "nom_complet": "Fabrice MONCHY",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LÉPILLIET",
+          "prenom": "Sabine",
+          "nom_complet": "Sabine LÉPILLIET",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LELEU",
+          "prenom": "Jean-Michel",
+          "nom_complet": "Jean-Michel LELEU",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "TANCHON",
+          "prenom": "Nina",
+          "nom_complet": "Nina TANCHON",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "GARBE",
+          "prenom": "Eric",
+          "nom_complet": "Eric GARBE",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LEBEL",
+          "prenom": "Agathe",
+          "nom_complet": "Agathe LEBEL",
+          "sexe": "F",
+          "age": 21,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "LECLERCQ",
+          "prenom": "Jonathan",
+          "nom_complet": "Jonathan LECLERCQ",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DERICQUEBOURG",
+          "prenom": "Sélène",
+          "nom_complet": "Sélène DERICQUEBOURG",
+          "sexe": "F",
+          "age": 20,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "GREZ",
+          "prenom": "Yves",
+          "nom_complet": "Yves GREZ",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

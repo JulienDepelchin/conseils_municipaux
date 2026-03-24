@@ -1,0 +1,183 @@
+{
+  "code_commune": "59281",
+  "commune": "Hantay",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "PLANCQ",
+    "prenom": "Gerard",
+    "nom_complet": "Gerard PLANCQ",
+    "age": 59,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 929,
+    "votants": 692,
+    "pct_votants": 74.49,
+    "abstentions": 237,
+    "pct_abstentions": 25.51,
+    "exprimes": 649
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "HANTAY, L'AVENIR SE CONSTRUIT ENSEMBLE",
+      "libelle_abrege_liste": "HANTAY, L'AVENIR SE CONSTRUIT ENSEMBLE",
+      "nuance_liste": null,
+      "voix": 337,
+      "pct_voix_exprimes": 51.93,
+      "sieges_cm": 12,
+      "sieges_cc": 1,
+      "nb_elus": 12,
+      "tete_de_liste": {
+        "nom": "PLANCQ",
+        "prenom": "Gerard",
+        "nom_complet": "Gerard PLANCQ",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "PLANCQ",
+          "prenom": "Gerard",
+          "nom_complet": "Gerard PLANCQ",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BOUREL",
+          "prenom": "Fiona",
+          "nom_complet": "Fiona BOUREL",
+          "sexe": "F",
+          "age": 21,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "MERTENS",
+          "prenom": "Gregory",
+          "nom_complet": "Gregory MERTENS",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "OSTYN",
+          "prenom": "Virginia",
+          "nom_complet": "Virginia OSTYN",
+          "sexe": "F",
+          "age": 31,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "MOUTIEZ",
+          "prenom": "Jean",
+          "nom_complet": "Jean MOUTIEZ",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DEMARESCAUX",
+          "prenom": "Cindy",
+          "nom_complet": "Cindy DEMARESCAUX",
+          "sexe": "F",
+          "age": 33,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "HENNION--ROHART",
+          "prenom": "Tony",
+          "nom_complet": "Tony HENNION--ROHART",
+          "sexe": "M",
+          "age": 20,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "PARIS",
+          "prenom": "Magalie",
+          "nom_complet": "Magalie PARIS",
+          "sexe": "F",
+          "age": 29,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "BLANCART",
+          "prenom": "Kevin",
+          "nom_complet": "Kevin BLANCART",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "BARREAU",
+          "prenom": "Magali",
+          "nom_complet": "Magali BARREAU",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "GRIGNY",
+          "prenom": "Alain",
+          "nom_complet": "Alain GRIGNY",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "PETIT",
+          "prenom": "Christelle",
+          "nom_complet": "Christelle PETIT",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "12"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ENGAGÉS POUR HANTAY",
+      "libelle_abrege_liste": "ENGAGÉS POUR HANTAY",
+      "nuance_liste": null,
+      "voix": 312,
+      "pct_voix_exprimes": 48.07,
+      "sieges_cm": 3,
+      "sieges_cc": 0,
+      "nb_elus": 3,
+      "tete_de_liste": {
+        "nom": "BECLIN",
+        "prenom": "Cecile",
+        "nom_complet": "Cecile BECLIN",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "BECLIN",
+          "prenom": "Cecile",
+          "nom_complet": "Cecile BECLIN",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "HUBERT",
+          "prenom": "Benoit",
+          "nom_complet": "Benoit HUBERT",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BONNEL",
+          "prenom": "Annie",
+          "nom_complet": "Annie BONNEL",
+          "sexe": "F",
+          "age": 74,
+          "rang_liste": "3"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

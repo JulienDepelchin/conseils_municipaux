@@ -1,0 +1,131 @@
+{
+  "code_commune": "59164",
+  "commune": "Croix-Caluyau",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "LEBON",
+    "prenom": "Sandrine",
+    "nom_complet": "Sandrine LEBON",
+    "age": 58,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 218,
+    "votants": 134,
+    "pct_votants": 61.47,
+    "abstentions": 84,
+    "pct_abstentions": 38.53,
+    "exprimes": 126
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "CONTINUONS POUR UN VILLAGE DYNAMIQUE ET INNOVANT",
+      "libelle_abrege_liste": "CONTINUONS POUR UN VILLAGE DYNAMIQUE ET INNOVANT",
+      "nuance_liste": null,
+      "voix": 126,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "LEBON",
+        "prenom": "Sandrine",
+        "nom_complet": "Sandrine LEBON",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "LEBON",
+          "prenom": "Sandrine",
+          "nom_complet": "Sandrine LEBON",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "COUSIN",
+          "prenom": "Jean-Marie",
+          "nom_complet": "Jean-Marie COUSIN",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "PAGNIEZ",
+          "prenom": "Amandine",
+          "nom_complet": "Amandine PAGNIEZ",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BEUVAIN",
+          "prenom": "Didier",
+          "nom_complet": "Didier BEUVAIN",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "PATOUX",
+          "prenom": "Morgane",
+          "nom_complet": "Morgane PATOUX",
+          "sexe": "F",
+          "age": 29,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "PARDOUX",
+          "prenom": "Bernard",
+          "nom_complet": "Bernard PARDOUX",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "RENARD",
+          "prenom": "Beatrice",
+          "nom_complet": "Beatrice RENARD",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DEVOUGES",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal DEVOUGES",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "SALOME",
+          "prenom": "Delphine",
+          "nom_complet": "Delphine SALOME",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "LECOLIER",
+          "prenom": "Sebastien",
+          "nom_complet": "Sebastien LECOLIER",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DORE",
+          "prenom": "Melanie",
+          "nom_complet": "Melanie DORE",
+          "sexe": "F",
+          "age": 30,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

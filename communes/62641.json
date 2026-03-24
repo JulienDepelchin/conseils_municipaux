@@ -1,0 +1,131 @@
+{
+  "code_commune": "62641",
+  "commune": "Ostreville",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "MONCHY",
+    "prenom": "Christophe",
+    "nom_complet": "Christophe MONCHY",
+    "age": 62,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 199,
+    "votants": 130,
+    "pct_votants": 65.33,
+    "abstentions": 69,
+    "pct_abstentions": 34.67,
+    "exprimes": 110
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ENSEMBLE POUR OSTREVILLE",
+      "libelle_abrege_liste": "ENSEMBLE POUR OSTREVILLE",
+      "nuance_liste": null,
+      "voix": 110,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "MONCHY",
+        "prenom": "Christophe",
+        "nom_complet": "Christophe MONCHY",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "MONCHY",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe MONCHY",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DUPUIS",
+          "prenom": "Emmanuelle",
+          "nom_complet": "Emmanuelle DUPUIS",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "ECKERT",
+          "prenom": "Alain",
+          "nom_complet": "Alain ECKERT",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "GOSSE DE GORRE",
+          "prenom": "Hélène",
+          "nom_complet": "Hélène GOSSE DE GORRE",
+          "sexe": "F",
+          "age": 33,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "MARQUANT",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric MARQUANT",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "CANLERS",
+          "prenom": "Monique",
+          "nom_complet": "Monique CANLERS",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "LAIGLE",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier LAIGLE",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DIEVAL",
+          "prenom": "Véronique",
+          "nom_complet": "Véronique DIEVAL",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "LECAS",
+          "prenom": "Valéri",
+          "nom_complet": "Valéri LECAS",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DEFRANCE",
+          "prenom": "Martine",
+          "nom_complet": "Martine DEFRANCE",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DELFORGE",
+          "prenom": "Jean-Noël",
+          "nom_complet": "Jean-Noël DELFORGE",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

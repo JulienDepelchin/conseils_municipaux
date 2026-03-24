@@ -1,0 +1,183 @@
+{
+  "code_commune": "62875",
+  "commune": "Wardrecques",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "ROUSSELLE",
+    "prenom": "Caroline",
+    "nom_complet": "Caroline ROUSSELLE",
+    "age": 41,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1041,
+    "votants": 709,
+    "pct_votants": 68.11,
+    "abstentions": 332,
+    "pct_abstentions": 31.89,
+    "exprimes": 686
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Wardrecques, Dynamique et Solidaire",
+      "libelle_abrege_liste": "Wardrecques, Dynamique et Solidaire",
+      "nuance_liste": null,
+      "voix": 520,
+      "pct_voix_exprimes": 75.8,
+      "sieges_cm": 14,
+      "sieges_cc": 1,
+      "nb_elus": 14,
+      "tete_de_liste": {
+        "nom": "ROUSSELLE",
+        "prenom": "Caroline",
+        "nom_complet": "Caroline ROUSSELLE",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "ROUSSELLE",
+          "prenom": "Caroline",
+          "nom_complet": "Caroline ROUSSELLE",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "FLANDRIN",
+          "prenom": "Guillaume",
+          "nom_complet": "Guillaume FLANDRIN",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "CARPENTIER",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle CARPENTIER",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "MEENS",
+          "prenom": "Denis",
+          "nom_complet": "Denis MEENS",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "SCHRIVE",
+          "prenom": "Annick",
+          "nom_complet": "Annick SCHRIVE",
+          "sexe": "F",
+          "age": 76,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "CUCHEVAL",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal CUCHEVAL",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "MORCHIPONT",
+          "prenom": "Justine",
+          "nom_complet": "Justine MORCHIPONT",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DELECROIX",
+          "prenom": "Benoit",
+          "nom_complet": "Benoit DELECROIX",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "GUERY",
+          "prenom": "Perrine",
+          "nom_complet": "Perrine GUERY",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "BRIDAULT",
+          "prenom": "Julien",
+          "nom_complet": "Julien BRIDAULT",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "GOUILLARD",
+          "prenom": "Jennifer",
+          "nom_complet": "Jennifer GOUILLARD",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "BURKHART",
+          "prenom": "Antoine",
+          "nom_complet": "Antoine BURKHART",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "PRINS",
+          "prenom": "Annie",
+          "nom_complet": "Annie PRINS",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "GUERY",
+          "prenom": "Charles-Henri",
+          "nom_complet": "Charles-Henri GUERY",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "14"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "Pour vous et avec vous",
+      "libelle_abrege_liste": "Pour vous et avec vous",
+      "nuance_liste": null,
+      "voix": 166,
+      "pct_voix_exprimes": 24.2,
+      "sieges_cm": 1,
+      "sieges_cc": 0,
+      "nb_elus": 1,
+      "tete_de_liste": {
+        "nom": "CAULIER",
+        "prenom": "Thérèse",
+        "nom_complet": "Thérèse CAULIER",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "CAULIER",
+          "prenom": "Thérèse",
+          "nom_complet": "Thérèse CAULIER",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "1"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

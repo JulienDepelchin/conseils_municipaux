@@ -1,0 +1,183 @@
+{
+  "code_commune": "59455",
+  "commune": "Paillencourt",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "LEFEBVRE",
+    "prenom": "Fabrice",
+    "nom_complet": "Fabrice LEFEBVRE",
+    "age": 55,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 814,
+    "votants": 611,
+    "pct_votants": 75.06,
+    "abstentions": 203,
+    "pct_abstentions": 24.94,
+    "exprimes": 602
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ENSEMBLE PREPARONS L'AVENIR",
+      "libelle_abrege_liste": "ENSEMBLE PREPARONS L'AVENIR",
+      "nuance_liste": null,
+      "voix": 466,
+      "pct_voix_exprimes": 77.41,
+      "sieges_cm": 14,
+      "sieges_cc": 1,
+      "nb_elus": 14,
+      "tete_de_liste": {
+        "nom": "LEFEBVRE",
+        "prenom": "Fabrice",
+        "nom_complet": "Fabrice LEFEBVRE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LEFEBVRE",
+          "prenom": "Fabrice",
+          "nom_complet": "Fabrice LEFEBVRE",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DELMOTTE",
+          "prenom": "Virginie",
+          "nom_complet": "Virginie DELMOTTE",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DOROSZ",
+          "prenom": "Thomas",
+          "nom_complet": "Thomas DOROSZ",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DENOYELLE",
+          "prenom": "Réjane",
+          "nom_complet": "Réjane DENOYELLE",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "BARBOTIN",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique BARBOTIN",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "BOROWSKI",
+          "prenom": "Sandra",
+          "nom_complet": "Sandra BOROWSKI",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "FONTAINE",
+          "prenom": "Matthieu",
+          "nom_complet": "Matthieu FONTAINE",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DENIMAL",
+          "prenom": "Mélanie",
+          "nom_complet": "Mélanie DENIMAL",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "CHATELAIN",
+          "prenom": "Arnaud",
+          "nom_complet": "Arnaud CHATELAIN",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DELARUE",
+          "prenom": "Coralie",
+          "nom_complet": "Coralie DELARUE",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DEMAILLY",
+          "prenom": "Gilbert",
+          "nom_complet": "Gilbert DEMAILLY",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "POMMIER",
+          "prenom": "Ophelie",
+          "nom_complet": "Ophelie POMMIER",
+          "sexe": "F",
+          "age": 33,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "LACROIX",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent LACROIX",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "LEFEBVRE",
+          "prenom": "Oriane",
+          "nom_complet": "Oriane LEFEBVRE",
+          "sexe": "F",
+          "age": 21,
+          "rang_liste": "14"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "AGIR ENSEMBLE POUR LA TRANSPARENCE",
+      "libelle_abrege_liste": "AGIR ENSEMBLE POUR LA TRANSPARENCE",
+      "nuance_liste": null,
+      "voix": 136,
+      "pct_voix_exprimes": 22.59,
+      "sieges_cm": 1,
+      "sieges_cc": 0,
+      "nb_elus": 1,
+      "tete_de_liste": {
+        "nom": "FAUQUET",
+        "prenom": "Joël",
+        "nom_complet": "Joël FAUQUET",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "FAUQUET",
+          "prenom": "Joël",
+          "nom_complet": "Joël FAUQUET",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "1"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

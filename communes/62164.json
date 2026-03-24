@@ -1,0 +1,183 @@
+{
+  "code_commune": "62164",
+  "commune": "Bourlon",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "BOYER",
+    "prenom": "Jean-Luc",
+    "nom_complet": "Jean-Luc BOYER",
+    "age": 73,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 901,
+    "votants": 649,
+    "pct_votants": 72.03,
+    "abstentions": 252,
+    "pct_abstentions": 27.97,
+    "exprimes": 627
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "BOURLON ENSEMBLE, construisons l'avenir",
+      "libelle_abrege_liste": "BOURLON ENSEMBLE, construisons l'avenir",
+      "nuance_liste": null,
+      "voix": 464,
+      "pct_voix_exprimes": 74,
+      "sieges_cm": 13,
+      "sieges_cc": 2,
+      "nb_elus": 13,
+      "tete_de_liste": {
+        "nom": "BOYER",
+        "prenom": "Jean-Luc",
+        "nom_complet": "Jean-Luc BOYER",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BOYER",
+          "prenom": "Jean-Luc",
+          "nom_complet": "Jean-Luc BOYER",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LAGEAT",
+          "prenom": "Agnès",
+          "nom_complet": "Agnès LAGEAT",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BRUEZ",
+          "prenom": "Xavier",
+          "nom_complet": "Xavier BRUEZ",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "MERESSE",
+          "prenom": "Florence",
+          "nom_complet": "Florence MERESSE",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "COQUART",
+          "prenom": "Vincent",
+          "nom_complet": "Vincent COQUART",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "GAUDRY",
+          "prenom": "Myriam",
+          "nom_complet": "Myriam GAUDRY",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "LAGUILLIER",
+          "prenom": "Régis",
+          "nom_complet": "Régis LAGUILLIER",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DE FRANQUEVILLLE",
+          "prenom": "Maÿlis",
+          "nom_complet": "Maÿlis DE FRANQUEVILLLE",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "MASSON",
+          "prenom": "Vincent",
+          "nom_complet": "Vincent MASSON",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "POTEL",
+          "prenom": "Hong",
+          "nom_complet": "Hong POTEL",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "SRODAWA",
+          "prenom": "Ludovic",
+          "nom_complet": "Ludovic SRODAWA",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "VAN PEVENAEYGE",
+          "prenom": "Blandine",
+          "nom_complet": "Blandine VAN PEVENAEYGE",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "TOURNAY",
+          "prenom": "Clément",
+          "nom_complet": "Clément TOURNAY",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "13"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "BOURLON entre racines et renouveau",
+      "libelle_abrege_liste": "BOURLON entre racines et renouveau",
+      "nuance_liste": null,
+      "voix": 163,
+      "pct_voix_exprimes": 26,
+      "sieges_cm": 2,
+      "sieges_cc": 0,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "BISIAU",
+        "prenom": "Bruno",
+        "nom_complet": "Bruno BISIAU",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BISIAU",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno BISIAU",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BOURGIS",
+          "prenom": "Dorothée",
+          "nom_complet": "Dorothée BOURGIS",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

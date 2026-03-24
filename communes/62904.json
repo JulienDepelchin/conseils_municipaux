@@ -1,0 +1,183 @@
+{
+  "code_commune": "62904",
+  "commune": "Zouafques",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "DUPONT",
+    "prenom": "Franck",
+    "nom_complet": "Franck DUPONT",
+    "age": 58,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 433,
+    "votants": 346,
+    "pct_votants": 79.91,
+    "abstentions": 87,
+    "pct_abstentions": 20.09,
+    "exprimes": 340
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "AVEC VOUS POUR ZOUAFQUES",
+      "libelle_abrege_liste": "AVEC VOUS POUR ZOUAFQUES",
+      "nuance_liste": null,
+      "voix": 237,
+      "pct_voix_exprimes": 69.71,
+      "sieges_cm": 13,
+      "sieges_cc": null,
+      "nb_elus": 13,
+      "tete_de_liste": {
+        "nom": "DUPONT",
+        "prenom": "Franck",
+        "nom_complet": "Franck DUPONT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DUPONT",
+          "prenom": "Franck",
+          "nom_complet": "Franck DUPONT",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LECRAS",
+          "prenom": "Hélène",
+          "nom_complet": "Hélène LECRAS",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LACROIX",
+          "prenom": "Sébastien",
+          "nom_complet": "Sébastien LACROIX",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "CARBONNIER-BOUCHEL",
+          "prenom": "Brigitte",
+          "nom_complet": "Brigitte CARBONNIER-BOUCHEL",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "QUELO",
+          "prenom": "Guillaume",
+          "nom_complet": "Guillaume QUELO",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "SAISON",
+          "prenom": "Céline",
+          "nom_complet": "Céline SAISON",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "FOUBLE",
+          "prenom": "Sylvain",
+          "nom_complet": "Sylvain FOUBLE",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "VANDENBERGUE",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle VANDENBERGUE",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "LEMAIRE",
+          "prenom": "Gérald",
+          "nom_complet": "Gérald LEMAIRE",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "GOUVERNEUR",
+          "prenom": "Sophie",
+          "nom_complet": "Sophie GOUVERNEUR",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "BARA",
+          "prenom": "Rémy",
+          "nom_complet": "Rémy BARA",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "DEVOS",
+          "prenom": "Cathy",
+          "nom_complet": "Cathy DEVOS",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "LOY",
+          "prenom": "Marc",
+          "nom_complet": "Marc LOY",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "13"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "NOTRE COMMUNE, NOTRE AVENIR",
+      "libelle_abrege_liste": "NOTRE COMMUNE, NOTRE AVENIR",
+      "nuance_liste": null,
+      "voix": 103,
+      "pct_voix_exprimes": 30.29,
+      "sieges_cm": 2,
+      "sieges_cc": null,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "PARIS",
+        "prenom": "Anita",
+        "nom_complet": "Anita PARIS",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "PARIS",
+          "prenom": "Anita",
+          "nom_complet": "Anita PARIS",
+          "sexe": "F",
+          "age": 78,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "RIGAUX",
+          "prenom": "Xavier",
+          "nom_complet": "Xavier RIGAUX",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

@@ -1,0 +1,183 @@
+{
+  "code_commune": "59640",
+  "commune": "Wargnies-le-Petit",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "MAGY",
+    "prenom": "Romain",
+    "nom_complet": "Romain MAGY",
+    "age": 45,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 633,
+    "votants": 448,
+    "pct_votants": 70.77,
+    "abstentions": 185,
+    "pct_abstentions": 29.23,
+    "exprimes": 437
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "Wargnies le Petit - La Boiscrête, notre village",
+      "libelle_abrege_liste": "Wargnies le Petit - La Boiscrête, notre village",
+      "nuance_liste": null,
+      "voix": 253,
+      "pct_voix_exprimes": 57.89,
+      "sieges_cm": 12,
+      "sieges_cc": null,
+      "nb_elus": 12,
+      "tete_de_liste": {
+        "nom": "MAGY",
+        "prenom": "Romain",
+        "nom_complet": "Romain MAGY",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "MAGY",
+          "prenom": "Romain",
+          "nom_complet": "Romain MAGY",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "AAICHE",
+          "prenom": "Ines",
+          "nom_complet": "Ines AAICHE",
+          "sexe": "F",
+          "age": 31,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "COLARD",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe COLARD",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "CHEVAL",
+          "prenom": "Coleen",
+          "nom_complet": "Coleen CHEVAL",
+          "sexe": "F",
+          "age": 28,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DUSSART",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique DUSSART",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "ROUSSEAU",
+          "prenom": "Monique",
+          "nom_complet": "Monique ROUSSEAU",
+          "sexe": "F",
+          "age": 72,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "WYSOCKI",
+          "prenom": "Jeremy",
+          "nom_complet": "Jeremy WYSOCKI",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DELVALLEE",
+          "prenom": "Lydie",
+          "nom_complet": "Lydie DELVALLEE",
+          "sexe": "F",
+          "age": 31,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "STEELANDT",
+          "prenom": "Cyril",
+          "nom_complet": "Cyril STEELANDT",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "LESTRINGUE",
+          "prenom": "Daniele",
+          "nom_complet": "Daniele LESTRINGUE",
+          "sexe": "F",
+          "age": 74,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "FUCHS",
+          "prenom": "Mickael",
+          "nom_complet": "Mickael FUCHS",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "MARTIN",
+          "prenom": "Maryse",
+          "nom_complet": "Maryse MARTIN",
+          "sexe": "F",
+          "age": 70,
+          "rang_liste": "12"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "WARGNIES LE PETIT,LA BOISCRÊTE : UNE NOUVELLE DYNAMIQUE",
+      "libelle_abrege_liste": "WARGNIES LE PETIT, LA BOISCRÊTE : UNE NOUVELLE DYNAMIQUE",
+      "nuance_liste": null,
+      "voix": 184,
+      "pct_voix_exprimes": 42.11,
+      "sieges_cm": 3,
+      "sieges_cc": null,
+      "nb_elus": 3,
+      "tete_de_liste": {
+        "nom": "ROUSSEAU",
+        "prenom": "Alexandre",
+        "nom_complet": "Alexandre ROUSSEAU",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "ROUSSEAU",
+          "prenom": "Alexandre",
+          "nom_complet": "Alexandre ROUSSEAU",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "CANIVET",
+          "prenom": "Ludivine",
+          "nom_complet": "Ludivine CANIVET",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BAUFFE",
+          "prenom": "Sebastien",
+          "nom_complet": "Sebastien BAUFFE",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "3"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

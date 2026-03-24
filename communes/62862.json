@@ -1,0 +1,131 @@
+{
+  "code_commune": "62862",
+  "commune": "Vincly",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "HENNEGUELLE",
+    "prenom": "Gilles",
+    "nom_complet": "Gilles HENNEGUELLE",
+    "age": 73,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 111,
+    "votants": 82,
+    "pct_votants": 73.87,
+    "abstentions": 29,
+    "pct_abstentions": 26.13,
+    "exprimes": 72
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "LISTE D'UNION",
+      "libelle_abrege_liste": "LISTE D'UNION",
+      "nuance_liste": null,
+      "voix": 72,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "HENNEGUELLE",
+        "prenom": "Gilles",
+        "nom_complet": "Gilles HENNEGUELLE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "HENNEGUELLE",
+          "prenom": "Gilles",
+          "nom_complet": "Gilles HENNEGUELLE",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "FÉVRIER DAILLIEZ",
+          "prenom": "Gisèle",
+          "nom_complet": "Gisèle FÉVRIER DAILLIEZ",
+          "sexe": "F",
+          "age": 75,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "TRIPENNE",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno TRIPENNE",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "FINARD HENIN",
+          "prenom": "Lucie",
+          "nom_complet": "Lucie FINARD HENIN",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "MERLOT",
+          "prenom": "Jean-Marie",
+          "nom_complet": "Jean-Marie MERLOT",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "SANTUNE DEBLOCK",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie SANTUNE DEBLOCK",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "CRAPET",
+          "prenom": "Jacques",
+          "nom_complet": "Jacques CRAPET",
+          "sexe": "M",
+          "age": 82,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "BEAUBOIS JOLLY",
+          "prenom": "Christèle",
+          "nom_complet": "Christèle BEAUBOIS JOLLY",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "LAINÉ",
+          "prenom": "Fabrice",
+          "nom_complet": "Fabrice LAINÉ",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "MERLOT DAVRIL",
+          "prenom": "Patricia",
+          "nom_complet": "Patricia MERLOT DAVRIL",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "MYLLE",
+          "prenom": "Patrice",
+          "nom_complet": "Patrice MYLLE",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

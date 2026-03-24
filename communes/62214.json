@@ -1,0 +1,183 @@
+{
+  "code_commune": "62214",
+  "commune": "Carly",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "HERDUIN",
+    "prenom": "Aimé",
+    "nom_complet": "Aimé HERDUIN",
+    "age": 71,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 475,
+    "votants": 426,
+    "pct_votants": 89.68,
+    "abstentions": 49,
+    "pct_abstentions": 10.32,
+    "exprimes": 423
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "TOUS ENSEMBLE POUR CARLY",
+      "libelle_abrege_liste": "TOUS ENSEMBLE POUR CARLY",
+      "nuance_liste": null,
+      "voix": 286,
+      "pct_voix_exprimes": 67.61,
+      "sieges_cm": 13,
+      "sieges_cc": null,
+      "nb_elus": 13,
+      "tete_de_liste": {
+        "nom": "HERDUIN",
+        "prenom": "Aimé",
+        "nom_complet": "Aimé HERDUIN",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "HERDUIN",
+          "prenom": "Aimé",
+          "nom_complet": "Aimé HERDUIN",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "HARLE",
+          "prenom": "Laurence",
+          "nom_complet": "Laurence HARLE",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BAILLIEU",
+          "prenom": "François",
+          "nom_complet": "François BAILLIEU",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "FLOUR",
+          "prenom": "Elodie",
+          "nom_complet": "Elodie FLOUR",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "BAJEUX",
+          "prenom": "Sébastien",
+          "nom_complet": "Sébastien BAJEUX",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "WACOGNE",
+          "prenom": "Carine",
+          "nom_complet": "Carine WACOGNE",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "ANDRIEU",
+          "prenom": "Antoine",
+          "nom_complet": "Antoine ANDRIEU",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "QUEHEN",
+          "prenom": "Emilie",
+          "nom_complet": "Emilie QUEHEN",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "SEITELBACH",
+          "prenom": "Michaël",
+          "nom_complet": "Michaël SEITELBACH",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "HUMETZ",
+          "prenom": "Valerie",
+          "nom_complet": "Valerie HUMETZ",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "FREMERY",
+          "prenom": "Joel",
+          "nom_complet": "Joel FREMERY",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "FLAHAUT",
+          "prenom": "Christiane",
+          "nom_complet": "Christiane FLAHAUT",
+          "sexe": "F",
+          "age": 74,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "LEFORT",
+          "prenom": "Jean-Pierre",
+          "nom_complet": "Jean-Pierre LEFORT",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "13"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "CARLY AVEC VOUS",
+      "libelle_abrege_liste": "CARLY AVEC VOUS",
+      "nuance_liste": null,
+      "voix": 137,
+      "pct_voix_exprimes": 32.39,
+      "sieges_cm": 2,
+      "sieges_cc": null,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "VIUDES",
+        "prenom": "Jean-Luc",
+        "nom_complet": "Jean-Luc VIUDES",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "VIUDES",
+          "prenom": "Jean-Luc",
+          "nom_complet": "Jean-Luc VIUDES",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "RAGEOT",
+          "prenom": "Aurelie",
+          "nom_complet": "Aurelie RAGEOT",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

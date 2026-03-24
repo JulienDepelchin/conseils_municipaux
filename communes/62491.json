@@ -1,0 +1,295 @@
+{
+  "code_commune": "62491",
+  "commune": "Laventie",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "DEBAISIEUX",
+    "prenom": "Nathalie",
+    "nom_complet": "Nathalie DEBAISIEUX",
+    "age": 54,
+    "nuance": "LDVC"
+  },
+  "resultats": {
+    "inscrits": 4269,
+    "votants": 2601,
+    "pct_votants": 60.93,
+    "abstentions": 1668,
+    "pct_abstentions": 39.07,
+    "exprimes": 2530
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "PRESERVONS DEMAIN POUR LAVENTIE",
+      "libelle_abrege_liste": "PRESERVONS DEMAIN POUR LAVENTIE",
+      "nuance_liste": "LDVC",
+      "voix": 1271,
+      "pct_voix_exprimes": 50.24,
+      "sieges_cm": 22,
+      "sieges_cc": 4,
+      "nb_elus": 22,
+      "tete_de_liste": {
+        "nom": "DEBAISIEUX",
+        "prenom": "Nathalie",
+        "nom_complet": "Nathalie DEBAISIEUX",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "DEBAISIEUX",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie DEBAISIEUX",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "WIART",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno WIART",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "MANCEY",
+          "prenom": "Véronique",
+          "nom_complet": "Véronique MANCEY",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LAPLUME",
+          "prenom": "Joël",
+          "nom_complet": "Joël LAPLUME",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "COUSIN",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie COUSIN",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DEMONT",
+          "prenom": "Eric",
+          "nom_complet": "Eric DEMONT",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "VERPOEST",
+          "prenom": "Lucie",
+          "nom_complet": "Lucie VERPOEST",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LEGILLON",
+          "prenom": "Sébastien",
+          "nom_complet": "Sébastien LEGILLON",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "VASSEUR",
+          "prenom": "Ludivine",
+          "nom_complet": "Ludivine VASSEUR",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "VERDRON",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent VERDRON",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "HART",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle HART",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "DEVEAUX",
+          "prenom": "Jean-Marie",
+          "nom_complet": "Jean-Marie DEVEAUX",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "BOYET",
+          "prenom": "Juliette",
+          "nom_complet": "Juliette BOYET",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "SCHINDLER",
+          "prenom": "Jean",
+          "nom_complet": "Jean SCHINDLER",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "PEREL",
+          "prenom": "Marie-Cécile",
+          "nom_complet": "Marie-Cécile PEREL",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "MARCHAL",
+          "prenom": "Cyril",
+          "nom_complet": "Cyril MARCHAL",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "DURIEUX",
+          "prenom": "Elise",
+          "nom_complet": "Elise DURIEUX",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "VANCAUWELAERD",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe VANCAUWELAERD",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "CAPLIEZ",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle CAPLIEZ",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "COPIN",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric COPIN",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "DONNET",
+          "prenom": "Jenny",
+          "nom_complet": "Jenny DONNET",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "DUTOIT",
+          "prenom": "Michel",
+          "nom_complet": "Michel DUTOIT",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "22"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "LAVENTIE AUTREMENT",
+      "libelle_abrege_liste": "LAVENTIE AUTREMENT",
+      "nuance_liste": "LDVC",
+      "voix": 1259,
+      "pct_voix_exprimes": 49.76,
+      "sieges_cm": 7,
+      "sieges_cc": 1,
+      "nb_elus": 7,
+      "tete_de_liste": {
+        "nom": "FAIDUTTI",
+        "prenom": "Jean-Marc",
+        "nom_complet": "Jean-Marc FAIDUTTI",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "FAIDUTTI",
+          "prenom": "Jean-Marc",
+          "nom_complet": "Jean-Marc FAIDUTTI",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "JESSEL",
+          "prenom": "Élodie",
+          "nom_complet": "Élodie JESSEL",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "MOUQUET",
+          "prenom": "Denis",
+          "nom_complet": "Denis MOUQUET",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DESMAREZ",
+          "prenom": "Axelle",
+          "nom_complet": "Axelle DESMAREZ",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "MAQUET",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe MAQUET",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DUMONT",
+          "prenom": "Audrey",
+          "nom_complet": "Audrey DUMONT",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "GOBEYN",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas GOBEYN",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "7"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

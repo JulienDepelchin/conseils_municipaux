@@ -1,0 +1,299 @@
+{
+  "code_commune": "59284",
+  "commune": "Hasnon",
+  "departement": "Nord",
+  "tour": "T2",
+  "maire": {
+    "nom": "VERDIERE",
+    "prenom": "Andy",
+    "nom_complet": "Andy VERDIERE",
+    "age": 43,
+    "nuance": "LDVG"
+  },
+  "resultats": {
+    "inscrits": 3144,
+    "votants": 2237,
+    "pct_votants": 71.15,
+    "abstentions": 907,
+    "pct_abstentions": 28.85,
+    "exprimes": 2208
+  },
+  "listes": [
+    {
+      "num_panneau": "3",
+      "libelle_liste": "COEUR D'HASNONAIS",
+      "libelle_abrege_liste": "COEUR D'HASNONAIS",
+      "nuance_liste": "LDVG",
+      "voix": 1110,
+      "pct_voix_exprimes": 50.27,
+      "sieges_cm": 21,
+      "sieges_cc": 2,
+      "nb_elus": 21,
+      "tete_de_liste": {
+        "nom": "VERDIERE",
+        "prenom": "Andy",
+        "nom_complet": "Andy VERDIERE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "VERDIERE",
+          "prenom": "Andy",
+          "nom_complet": "Andy VERDIERE",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "WADBLED",
+          "prenom": "Laetitia",
+          "nom_complet": "Laetitia WADBLED",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BUEMI",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno BUEMI",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DHONT",
+          "prenom": "Audrey",
+          "nom_complet": "Audrey DHONT",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DELCROIX",
+          "prenom": "Thibaut",
+          "nom_complet": "Thibaut DELCROIX",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "VERDIERE",
+          "prenom": "Karine",
+          "nom_complet": "Karine VERDIERE",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "NAGELS",
+          "prenom": "James",
+          "nom_complet": "James NAGELS",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LEQUIMME",
+          "prenom": "Frederique",
+          "nom_complet": "Frederique LEQUIMME",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "LECOEUVRE",
+          "prenom": "Sébastien",
+          "nom_complet": "Sébastien LECOEUVRE",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "LHOTELLERIE",
+          "prenom": "Caroline",
+          "nom_complet": "Caroline LHOTELLERIE",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "FACQ",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric FACQ",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "WALERS",
+          "prenom": "Honorine",
+          "nom_complet": "Honorine WALERS",
+          "sexe": "F",
+          "age": 23,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "LEVEQUE",
+          "prenom": "Hervé",
+          "nom_complet": "Hervé LEVEQUE",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "DEVOS",
+          "prenom": "Sandrine",
+          "nom_complet": "Sandrine DEVOS",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "GRAS",
+          "prenom": "Alain",
+          "nom_complet": "Alain GRAS",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "MOREAU",
+          "prenom": "Peggy",
+          "nom_complet": "Peggy MOREAU",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "GOLINVAL",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno GOLINVAL",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "TRUBLIN MERLIN",
+          "prenom": "Caroline",
+          "nom_complet": "Caroline TRUBLIN MERLIN",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "HUESO",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe HUESO",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "GRARD",
+          "prenom": "Tiphaine",
+          "nom_complet": "Tiphaine GRARD",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "COURBET",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric COURBET",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "21"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "Hasnon, une ambition partagée",
+      "libelle_abrege_liste": "Hasnon, une ambition partagée",
+      "nuance_liste": "LDVG",
+      "voix": 823,
+      "pct_voix_exprimes": 37.27,
+      "sieges_cm": 5,
+      "sieges_cc": 0,
+      "nb_elus": 5,
+      "tete_de_liste": {
+        "nom": "DESMEDT",
+        "prenom": "André",
+        "nom_complet": "André DESMEDT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DESMEDT",
+          "prenom": "André",
+          "nom_complet": "André DESMEDT",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LAMBERT",
+          "prenom": "Marie",
+          "nom_complet": "Marie LAMBERT",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "AUBURSIN",
+          "prenom": "Gaston",
+          "nom_complet": "Gaston AUBURSIN",
+          "sexe": "M",
+          "age": 77,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LECOEUVRE",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie LECOEUVRE",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "HUON",
+          "prenom": "Jean-Pascal",
+          "nom_complet": "Jean-Pascal HUON",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "5"
+        }
+      ],
+      "statut_conseil": "autre"
+    },
+    {
+      "num_panneau": "4",
+      "libelle_liste": "UN NOUVEL ELAN POUR HASNON",
+      "libelle_abrege_liste": "UN NOUVEL ELAN POUR HASNON",
+      "nuance_liste": "LRN",
+      "voix": 275,
+      "pct_voix_exprimes": 12.45,
+      "sieges_cm": 1,
+      "sieges_cc": 0,
+      "nb_elus": 1,
+      "tete_de_liste": {
+        "nom": "GILLOT",
+        "prenom": "Emmanuel",
+        "nom_complet": "Emmanuel GILLOT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "GILLOT",
+          "prenom": "Emmanuel",
+          "nom_complet": "Emmanuel GILLOT",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "1"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

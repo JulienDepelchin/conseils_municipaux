@@ -1,0 +1,163 @@
+{
+  "code_commune": "62766",
+  "commune": "Saint-Omer-Capelle",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "BOULANGER",
+    "prenom": "Béatrice",
+    "nom_complet": "Béatrice BOULANGER",
+    "age": 62,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 788,
+    "votants": 459,
+    "pct_votants": 58.25,
+    "abstentions": 329,
+    "pct_abstentions": 41.75,
+    "exprimes": 415
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Ensemble, Cap' sur l'Avenir",
+      "libelle_abrege_liste": "Ensemble, Cap' sur l'Avenir",
+      "nuance_liste": null,
+      "voix": 415,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": 2,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "BOULANGER",
+        "prenom": "Béatrice",
+        "nom_complet": "Béatrice BOULANGER",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "BOULANGER",
+          "prenom": "Béatrice",
+          "nom_complet": "Béatrice BOULANGER",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "FASQUEL",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe FASQUEL",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "MORTELETTE",
+          "prenom": "Vanina",
+          "nom_complet": "Vanina MORTELETTE",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BARBIER",
+          "prenom": "Hervé",
+          "nom_complet": "Hervé BARBIER",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "HEDEVIN",
+          "prenom": "Martine",
+          "nom_complet": "Martine HEDEVIN",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "MOISSON",
+          "prenom": "Thierry",
+          "nom_complet": "Thierry MOISSON",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "MANTEN",
+          "prenom": "Nadia",
+          "nom_complet": "Nadia MANTEN",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "VANBOSSEL",
+          "prenom": "Lucien",
+          "nom_complet": "Lucien VANBOSSEL",
+          "sexe": "M",
+          "age": 78,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DOMAIN",
+          "prenom": "Marie-Christine",
+          "nom_complet": "Marie-Christine DOMAIN",
+          "sexe": "F",
+          "age": 71,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "LECLERCQ",
+          "prenom": "François-Xavier",
+          "nom_complet": "François-Xavier LECLERCQ",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "HALLET",
+          "prenom": "Régine",
+          "nom_complet": "Régine HALLET",
+          "sexe": "F",
+          "age": 70,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "FASQUEL",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier FASQUEL",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "BERNARD",
+          "prenom": "Sophie",
+          "nom_complet": "Sophie BERNARD",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "PUNIEZ",
+          "prenom": "Quentin",
+          "nom_complet": "Quentin PUNIEZ",
+          "sexe": "M",
+          "age": 24,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "AGEZ",
+          "prenom": "Estelle",
+          "nom_complet": "Estelle AGEZ",
+          "sexe": "F",
+          "age": 32,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "code_commune": "62030",
+  "commune": "Amplier",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "TASSENCOURT",
+    "prenom": "Hubert",
+    "nom_complet": "Hubert TASSENCOURT",
+    "age": 63,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 203,
+    "votants": 123,
+    "pct_votants": 60.59,
+    "abstentions": 80,
+    "pct_abstentions": 39.41,
+    "exprimes": 87
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Liste menée par M. Hubert TASSENCOURT",
+      "libelle_abrege_liste": "Liste menée par M. Hubert TASSENCOURT",
+      "nuance_liste": null,
+      "voix": 87,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "TASSENCOURT",
+        "prenom": "Hubert",
+        "nom_complet": "Hubert TASSENCOURT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "TASSENCOURT",
+          "prenom": "Hubert",
+          "nom_complet": "Hubert TASSENCOURT",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BOVAL",
+          "prenom": "Alexandra",
+          "nom_complet": "Alexandra BOVAL",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "VERRIELE",
+          "prenom": "Didier",
+          "nom_complet": "Didier VERRIELE",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DHEILLY",
+          "prenom": "Ludivine",
+          "nom_complet": "Ludivine DHEILLY",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "BACQUET",
+          "prenom": "Michael",
+          "nom_complet": "Michael BACQUET",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "FRANCOIS-DAMIENS",
+          "prenom": "Emilie",
+          "nom_complet": "Emilie FRANCOIS-DAMIENS",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BAJUS",
+          "prenom": "Patrice",
+          "nom_complet": "Patrice BAJUS",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "HARDUIN",
+          "prenom": "Julie",
+          "nom_complet": "Julie HARDUIN",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "OPERLÉ",
+          "prenom": "Michel",
+          "nom_complet": "Michel OPERLÉ",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "RYCKEWAERT-DARRAS",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique RYCKEWAERT-DARRAS",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "SAGOT",
+          "prenom": "Jean-François",
+          "nom_complet": "Jean-François SAGOT",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

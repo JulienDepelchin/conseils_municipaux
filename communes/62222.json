@@ -1,0 +1,131 @@
+{
+  "code_commune": "62222",
+  "commune": "Chériennes",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "RÉVILLION",
+    "prenom": "Mickaël",
+    "nom_complet": "Mickaël RÉVILLION",
+    "age": 53,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 121,
+    "votants": 99,
+    "pct_votants": 81.82,
+    "abstentions": 22,
+    "pct_abstentions": 18.18,
+    "exprimes": 69
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Liste menée par Révillion Mickaël",
+      "libelle_abrege_liste": "Liste menée par Révillion Mickaël",
+      "nuance_liste": null,
+      "voix": 69,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "RÉVILLION",
+        "prenom": "Mickaël",
+        "nom_complet": "Mickaël RÉVILLION",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "RÉVILLION",
+          "prenom": "Mickaël",
+          "nom_complet": "Mickaël RÉVILLION",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "VICTORIA",
+          "prenom": "Anne-Sophie",
+          "nom_complet": "Anne-Sophie VICTORIA",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "POLMART",
+          "prenom": "Stéphane",
+          "nom_complet": "Stéphane POLMART",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LEFEVRE",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie LEFEVRE",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "HENIN",
+          "prenom": "Adrien",
+          "nom_complet": "Adrien HENIN",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LÉTOILLE",
+          "prenom": "Sabrina",
+          "nom_complet": "Sabrina LÉTOILLE",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "NIVEL",
+          "prenom": "Jérémy",
+          "nom_complet": "Jérémy NIVEL",
+          "sexe": "M",
+          "age": 26,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "AUBRY",
+          "prenom": "Claire",
+          "nom_complet": "Claire AUBRY",
+          "sexe": "F",
+          "age": 28,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "LAGACHE",
+          "prenom": "Hubert",
+          "nom_complet": "Hubert LAGACHE",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "BRIOIS",
+          "prenom": "Claudette",
+          "nom_complet": "Claudette BRIOIS",
+          "sexe": "F",
+          "age": 76,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "LEBEL",
+          "prenom": "Guy",
+          "nom_complet": "Guy LEBEL",
+          "sexe": "M",
+          "age": 74,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

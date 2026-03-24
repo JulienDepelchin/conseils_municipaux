@@ -1,0 +1,275 @@
+{
+  "code_commune": "59143",
+  "commune": "La Chapelle-d'Armentières",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "BRAURE",
+    "prenom": "Damien",
+    "nom_complet": "Damien BRAURE",
+    "age": 58,
+    "nuance": "LDVC"
+  },
+  "resultats": {
+    "inscrits": 6411,
+    "votants": 2397,
+    "pct_votants": 37.39,
+    "abstentions": 4014,
+    "pct_abstentions": 62.61,
+    "exprimes": 1769
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ENSEMBLE POUR LA CHAPELLE D'ARMENTIERES",
+      "libelle_abrege_liste": "ENSEMBLE POUR LA CHAPELLE D'ARMENTIERES",
+      "nuance_liste": "LDVC",
+      "voix": 1769,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 29,
+      "sieges_cc": 1,
+      "nb_elus": 29,
+      "tete_de_liste": {
+        "nom": "BRAURE",
+        "prenom": "Damien",
+        "nom_complet": "Damien BRAURE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BRAURE",
+          "prenom": "Damien",
+          "nom_complet": "Damien BRAURE",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DELPOUVE",
+          "prenom": "Fabienne",
+          "nom_complet": "Fabienne DELPOUVE",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "TORREZ",
+          "prenom": "Franck",
+          "nom_complet": "Franck TORREZ",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "PENET",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie PENET",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DEMEULENAERE",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier DEMEULENAERE",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "GOUWY",
+          "prenom": "Christine",
+          "nom_complet": "Christine GOUWY",
+          "sexe": "F",
+          "age": 71,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "PALMERIO",
+          "prenom": "Dante",
+          "nom_complet": "Dante PALMERIO",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "CRETON",
+          "prenom": "Marie-Hélène",
+          "nom_complet": "Marie-Hélène CRETON",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "HELIN",
+          "prenom": "Rudy",
+          "nom_complet": "Rudy HELIN",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DESPLANCKE",
+          "prenom": "Julie",
+          "nom_complet": "Julie DESPLANCKE",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "LAUWYCK",
+          "prenom": "Alain",
+          "nom_complet": "Alain LAUWYCK",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "DESTAEBEL",
+          "prenom": "Muriel",
+          "nom_complet": "Muriel DESTAEBEL",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "GHOUDDANE",
+          "prenom": "Adile",
+          "nom_complet": "Adile GHOUDDANE",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "BOYER",
+          "prenom": "Fanny",
+          "nom_complet": "Fanny BOYER",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "FACHE",
+          "prenom": "André",
+          "nom_complet": "André FACHE",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "MICHAUX",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie MICHAUX",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "DUEZ",
+          "prenom": "Damien",
+          "nom_complet": "Damien DUEZ",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "VERREYDT",
+          "prenom": "Severine",
+          "nom_complet": "Severine VERREYDT",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "WAGRET",
+          "prenom": "Régis",
+          "nom_complet": "Régis WAGRET",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "HAQUETTE",
+          "prenom": "Emmanuelle",
+          "nom_complet": "Emmanuelle HAQUETTE",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "MALCOURONNE",
+          "prenom": "Arnaud",
+          "nom_complet": "Arnaud MALCOURONNE",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "CORDIER",
+          "prenom": "Julie",
+          "nom_complet": "Julie CORDIER",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "GUÉRY",
+          "prenom": "Jérôme",
+          "nom_complet": "Jérôme GUÉRY",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "23"
+        },
+        {
+          "nom": "PRUVOST",
+          "prenom": "Virginie",
+          "nom_complet": "Virginie PRUVOST",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "24"
+        },
+        {
+          "nom": "BOMMELAER",
+          "prenom": "Bertrand",
+          "nom_complet": "Bertrand BOMMELAER",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "25"
+        },
+        {
+          "nom": "VANDEPUTTE",
+          "prenom": "Agnès",
+          "nom_complet": "Agnès VANDEPUTTE",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "26"
+        },
+        {
+          "nom": "FRANCHOIS",
+          "prenom": "Florian",
+          "nom_complet": "Florian FRANCHOIS",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "27"
+        },
+        {
+          "nom": "BAUDE",
+          "prenom": "Danielle",
+          "nom_complet": "Danielle BAUDE",
+          "sexe": "F",
+          "age": 73,
+          "rang_liste": "28"
+        },
+        {
+          "nom": "DRUART",
+          "prenom": "Gilles",
+          "nom_complet": "Gilles DRUART",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "29"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

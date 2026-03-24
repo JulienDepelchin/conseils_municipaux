@@ -1,0 +1,215 @@
+{
+  "code_commune": "59475",
+  "commune": "Prouvy",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "CHOAIN",
+    "prenom": "Isabelle",
+    "nom_complet": "Isabelle CHOAIN",
+    "age": 65,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1723,
+    "votants": 1211,
+    "pct_votants": 70.28,
+    "abstentions": 512,
+    "pct_abstentions": 29.72,
+    "exprimes": 1169
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "EVIDEMMENT !",
+      "libelle_abrege_liste": "EVIDEMMENT !",
+      "nuance_liste": null,
+      "voix": 909,
+      "pct_voix_exprimes": 77.76,
+      "sieges_cm": 17,
+      "sieges_cc": 1,
+      "nb_elus": 17,
+      "tete_de_liste": {
+        "nom": "CHOAIN",
+        "prenom": "Isabelle",
+        "nom_complet": "Isabelle CHOAIN",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "CHOAIN",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle CHOAIN",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "COUSIN",
+          "prenom": "Renaud",
+          "nom_complet": "Renaud COUSIN",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LECLERCQ",
+          "prenom": "Valérie",
+          "nom_complet": "Valérie LECLERCQ",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LENNE",
+          "prenom": "Jacques",
+          "nom_complet": "Jacques LENNE",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LIENARD",
+          "prenom": "Agnès",
+          "nom_complet": "Agnès LIENARD",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "WYKOWSKI",
+          "prenom": "Ludovic",
+          "nom_complet": "Ludovic WYKOWSKI",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "FARINEAUX",
+          "prenom": "Valérie",
+          "nom_complet": "Valérie FARINEAUX",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LECERF",
+          "prenom": "Arnaud",
+          "nom_complet": "Arnaud LECERF",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "HAVEZ",
+          "prenom": "Christine",
+          "nom_complet": "Christine HAVEZ",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "PETIT",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent PETIT",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "SIEZIEN",
+          "prenom": "Aïcha",
+          "nom_complet": "Aïcha SIEZIEN",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "TRITSCH",
+          "prenom": "Jean-Bernard",
+          "nom_complet": "Jean-Bernard TRITSCH",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "BENAZOUZ",
+          "prenom": "Kheira",
+          "nom_complet": "Kheira BENAZOUZ",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "MARTIN",
+          "prenom": "Julien",
+          "nom_complet": "Julien MARTIN",
+          "sexe": "M",
+          "age": 18,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "MAROUSEZ-DENIS",
+          "prenom": "Bérénice",
+          "nom_complet": "Bérénice MAROUSEZ-DENIS",
+          "sexe": "F",
+          "age": 28,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "PILETTE",
+          "prenom": "Guy",
+          "nom_complet": "Guy PILETTE",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "LAVANCIER",
+          "prenom": "Sandra",
+          "nom_complet": "Sandra LAVANCIER",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "17"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Coeur prouvysien",
+      "libelle_abrege_liste": "Coeur prouvysien",
+      "nuance_liste": null,
+      "voix": 260,
+      "pct_voix_exprimes": 22.24,
+      "sieges_cm": 2,
+      "sieges_cc": 0,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "MONNEUSE",
+        "prenom": "Denis",
+        "nom_complet": "Denis MONNEUSE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "MONNEUSE",
+          "prenom": "Denis",
+          "nom_complet": "Denis MONNEUSE",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DHOUAILLY",
+          "prenom": "Martine",
+          "nom_complet": "Martine DHOUAILLY",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

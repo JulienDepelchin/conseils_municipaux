@@ -1,0 +1,131 @@
+{
+  "code_commune": "59442",
+  "commune": "Obrechies",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "THIRY",
+    "prenom": "Marie-France",
+    "nom_complet": "Marie-France THIRY",
+    "age": 71,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 244,
+    "votants": 161,
+    "pct_votants": 65.98,
+    "abstentions": 83,
+    "pct_abstentions": 34.02,
+    "exprimes": 149
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Une équipe au service du village",
+      "libelle_abrege_liste": "Une équipe au service du village",
+      "nuance_liste": null,
+      "voix": 149,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "THIRY",
+        "prenom": "Marie-France",
+        "nom_complet": "Marie-France THIRY",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "THIRY",
+          "prenom": "Marie-France",
+          "nom_complet": "Marie-France THIRY",
+          "sexe": "F",
+          "age": 71,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DUVEAUX",
+          "prenom": "Michel",
+          "nom_complet": "Michel DUVEAUX",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "CANAPLE",
+          "prenom": "Laëtitia",
+          "nom_complet": "Laëtitia CANAPLE",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "ANSSEAU",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe ANSSEAU",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "POITEVIN",
+          "prenom": "Marie",
+          "nom_complet": "Marie POITEVIN",
+          "sexe": "F",
+          "age": 28,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DOMELIER",
+          "prenom": "Vincent",
+          "nom_complet": "Vincent DOMELIER",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BINOIT",
+          "prenom": "Marina",
+          "nom_complet": "Marina BINOIT",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LAGNEAU",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal LAGNEAU",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "NOTE",
+          "prenom": "Sandrine Sabine",
+          "nom_complet": "Sandrine Sabine NOTE",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "THOMAS",
+          "prenom": "Henri",
+          "nom_complet": "Henri THOMAS",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "PHILIPPE",
+          "prenom": "Sabine",
+          "nom_complet": "Sabine PHILIPPE",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

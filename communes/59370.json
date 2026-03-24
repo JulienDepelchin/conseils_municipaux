@@ -1,0 +1,163 @@
+{
+  "code_commune": "59370",
+  "commune": "Mairieux",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "BOUILLIEZ",
+    "prenom": "Alain",
+    "nom_complet": "Alain BOUILLIEZ",
+    "age": 74,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 555,
+    "votants": 290,
+    "pct_votants": 52.25,
+    "abstentions": 265,
+    "pct_abstentions": 47.75,
+    "exprimes": 248
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Agir pour Mairieux",
+      "libelle_abrege_liste": "Agir pour Mairieux",
+      "nuance_liste": null,
+      "voix": 248,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "BOUILLIEZ",
+        "prenom": "Alain",
+        "nom_complet": "Alain BOUILLIEZ",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BOUILLIEZ",
+          "prenom": "Alain",
+          "nom_complet": "Alain BOUILLIEZ",
+          "sexe": "M",
+          "age": 74,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "SKOWRONSKI",
+          "prenom": "Patricia",
+          "nom_complet": "Patricia SKOWRONSKI",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "MOUILLE",
+          "prenom": "Bernard",
+          "nom_complet": "Bernard MOUILLE",
+          "sexe": "M",
+          "age": 78,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "HAUFFE",
+          "prenom": "Valérie",
+          "nom_complet": "Valérie HAUFFE",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "BOUVRY",
+          "prenom": "Jean",
+          "nom_complet": "Jean BOUVRY",
+          "sexe": "M",
+          "age": 79,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "MORET",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle MORET",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DEDISSE",
+          "prenom": "Bernard",
+          "nom_complet": "Bernard DEDISSE",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LIENARD",
+          "prenom": "Marie-Claire",
+          "nom_complet": "Marie-Claire LIENARD",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DEWINTER",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe DEWINTER",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "LECOCQ",
+          "prenom": "Séverine",
+          "nom_complet": "Séverine LECOCQ",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "RUFIN",
+          "prenom": "Jean-Christophe",
+          "nom_complet": "Jean-Christophe RUFIN",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "MERCK",
+          "prenom": "Cécile",
+          "nom_complet": "Cécile MERCK",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "FREHAUT",
+          "prenom": "Gilles",
+          "nom_complet": "Gilles FREHAUT",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "CAPELLE",
+          "prenom": "Marine",
+          "nom_complet": "Marine CAPELLE",
+          "sexe": "F",
+          "age": 29,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "DOUILLET",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick DOUILLET",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

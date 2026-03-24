@@ -1,0 +1,131 @@
+{
+  "code_commune": "62831",
+  "commune": "Troisvaux",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "HEBERT",
+    "prenom": "Philippe",
+    "nom_complet": "Philippe HEBERT",
+    "age": 59,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 236,
+    "votants": 169,
+    "pct_votants": 71.61,
+    "abstentions": 67,
+    "pct_abstentions": 28.39,
+    "exprimes": 125
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Troisvaux Belval notre avenir commun",
+      "libelle_abrege_liste": "Troisvaux Belval notre avenir commun",
+      "nuance_liste": null,
+      "voix": 125,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "HEBERT",
+        "prenom": "Philippe",
+        "nom_complet": "Philippe HEBERT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "HEBERT",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe HEBERT",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BURET",
+          "prenom": "Elise",
+          "nom_complet": "Elise BURET",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DEBOFFLES",
+          "prenom": "Bertrand",
+          "nom_complet": "Bertrand DEBOFFLES",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "MARTIN",
+          "prenom": "Sabine",
+          "nom_complet": "Sabine MARTIN",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "PETIT",
+          "prenom": "Kévin",
+          "nom_complet": "Kévin PETIT",
+          "sexe": "M",
+          "age": 21,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DECROIX",
+          "prenom": "Dorothée",
+          "nom_complet": "Dorothée DECROIX",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DARRAS",
+          "prenom": "Raphael",
+          "nom_complet": "Raphael DARRAS",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "THULLIEZ",
+          "prenom": "Odette",
+          "nom_complet": "Odette THULLIEZ",
+          "sexe": "F",
+          "age": 70,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "HOURSON",
+          "prenom": "Steeve",
+          "nom_complet": "Steeve HOURSON",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "ERRARD",
+          "prenom": "Lucie",
+          "nom_complet": "Lucie ERRARD",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "CANLERS",
+          "prenom": "Mathieu",
+          "nom_complet": "Mathieu CANLERS",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

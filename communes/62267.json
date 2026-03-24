@@ -1,0 +1,131 @@
+{
+  "code_commune": "62267",
+  "commune": "Dennebroeucq",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "WAREMBOURG",
+    "prenom": "Georget",
+    "nom_complet": "Georget WAREMBOURG",
+    "age": 73,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 287,
+    "votants": 201,
+    "pct_votants": 70.03,
+    "abstentions": 86,
+    "pct_abstentions": 29.97,
+    "exprimes": 169
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Continuons ensemble pour Dennebroeucq",
+      "libelle_abrege_liste": "Continuons ensemble pour Dennebroeucq",
+      "nuance_liste": null,
+      "voix": 169,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "WAREMBOURG",
+        "prenom": "Georget",
+        "nom_complet": "Georget WAREMBOURG",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "WAREMBOURG",
+          "prenom": "Georget",
+          "nom_complet": "Georget WAREMBOURG",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BAUVAIS",
+          "prenom": "Mathilde",
+          "nom_complet": "Mathilde BAUVAIS",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "HERAULT",
+          "prenom": "Jonathan",
+          "nom_complet": "Jonathan HERAULT",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "COSSU - NICOLIS",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie COSSU - NICOLIS",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "PETILLION",
+          "prenom": "Jean-Marc",
+          "nom_complet": "Jean-Marc PETILLION",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "MANTEL",
+          "prenom": "Laurence",
+          "nom_complet": "Laurence MANTEL",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "MERLOT",
+          "prenom": "Moïse",
+          "nom_complet": "Moïse MERLOT",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "SOLTYSIAK",
+          "prenom": "Angeline",
+          "nom_complet": "Angeline SOLTYSIAK",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "SAILLY",
+          "prenom": "Manuel",
+          "nom_complet": "Manuel SAILLY",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "BUIRE",
+          "prenom": "Angèle",
+          "nom_complet": "Angèle BUIRE",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DHAINE",
+          "prenom": "Charles-Henri",
+          "nom_complet": "Charles-Henri DHAINE",
+          "sexe": "M",
+          "age": 33,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

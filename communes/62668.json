@@ -1,0 +1,115 @@
+{
+  "code_commune": "62668",
+  "commune": "Prédefin",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "LASSALLE",
+    "prenom": "Jean-Noël",
+    "nom_complet": "Jean-Noël LASSALLE",
+    "age": 58,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 155,
+    "votants": 117,
+    "pct_votants": 75.48,
+    "abstentions": 38,
+    "pct_abstentions": 24.52,
+    "exprimes": 89
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "PREDEFIN HIER ET DEMAIN",
+      "libelle_abrege_liste": "PREDEFIN HIER ET DEMAIN",
+      "nuance_liste": null,
+      "voix": 89,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 9,
+      "sieges_cc": null,
+      "nb_elus": 9,
+      "tete_de_liste": {
+        "nom": "LASSALLE",
+        "prenom": "Jean-Noël",
+        "nom_complet": "Jean-Noël LASSALLE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LASSALLE",
+          "prenom": "Jean-Noël",
+          "nom_complet": "Jean-Noël LASSALLE",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "CROGIEZ",
+          "prenom": "Mireille",
+          "nom_complet": "Mireille CROGIEZ",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DELVART",
+          "prenom": "Andy",
+          "nom_complet": "Andy DELVART",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "PRIN",
+          "prenom": "Elodie",
+          "nom_complet": "Elodie PRIN",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "MORDACQ",
+          "prenom": "Clément",
+          "nom_complet": "Clément MORDACQ",
+          "sexe": "M",
+          "age": 19,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "CRESPEL",
+          "prenom": "Morgane",
+          "nom_complet": "Morgane CRESPEL",
+          "sexe": "F",
+          "age": 33,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DECROCQ",
+          "prenom": "Damien",
+          "nom_complet": "Damien DECROCQ",
+          "sexe": "M",
+          "age": 32,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "HETRU",
+          "prenom": "Aurore",
+          "nom_complet": "Aurore HETRU",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "MARTIN",
+          "prenom": "Ludovic",
+          "nom_complet": "Ludovic MARTIN",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "9"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

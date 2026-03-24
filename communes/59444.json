@@ -1,0 +1,183 @@
+{
+  "code_commune": "59444",
+  "commune": "Odomez",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "DELFERIERE",
+    "prenom": "Jérôme",
+    "nom_complet": "Jérôme DELFERIERE",
+    "age": 51,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 628,
+    "votants": 439,
+    "pct_votants": 69.9,
+    "abstentions": 189,
+    "pct_abstentions": 30.1,
+    "exprimes": 428
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "BOUGEONS ODOMEZ",
+      "libelle_abrege_liste": "BOUGEONS ODOMEZ",
+      "nuance_liste": null,
+      "voix": 283,
+      "pct_voix_exprimes": 66.12,
+      "sieges_cm": 13,
+      "sieges_cc": null,
+      "nb_elus": 13,
+      "tete_de_liste": {
+        "nom": "DELFERIERE",
+        "prenom": "Jérôme",
+        "nom_complet": "Jérôme DELFERIERE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DELFERIERE",
+          "prenom": "Jérôme",
+          "nom_complet": "Jérôme DELFERIERE",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "COLIN",
+          "prenom": "Carole",
+          "nom_complet": "Carole COLIN",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "VARLET",
+          "prenom": "Rudy",
+          "nom_complet": "Rudy VARLET",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "SAELEUVE",
+          "prenom": "Evelyne",
+          "nom_complet": "Evelyne SAELEUVE",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "HOUDIN",
+          "prenom": "Eric",
+          "nom_complet": "Eric HOUDIN",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "WICKAERT",
+          "prenom": "Carinne",
+          "nom_complet": "Carinne WICKAERT",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BOURSE",
+          "prenom": "Guy",
+          "nom_complet": "Guy BOURSE",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "SALOPPÉ",
+          "prenom": "Virginie",
+          "nom_complet": "Virginie SALOPPÉ",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "FRIGARD",
+          "prenom": "Quentin",
+          "nom_complet": "Quentin FRIGARD",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "JAUER",
+          "prenom": "Emilie",
+          "nom_complet": "Emilie JAUER",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "FREMERY",
+          "prenom": "Maxime",
+          "nom_complet": "Maxime FREMERY",
+          "sexe": "M",
+          "age": 32,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "BERDOU",
+          "prenom": "Virginia",
+          "nom_complet": "Virginia BERDOU",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "WOZNIAK",
+          "prenom": "Jean-Luc",
+          "nom_complet": "Jean-Luc WOZNIAK",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "13"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "Ensemble, faisons avancer Odomez",
+      "libelle_abrege_liste": "Ensemble, faisons avancer Odomez",
+      "nuance_liste": null,
+      "voix": 145,
+      "pct_voix_exprimes": 33.88,
+      "sieges_cm": 2,
+      "sieges_cc": null,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "FRUIT",
+        "prenom": "Olivier",
+        "nom_complet": "Olivier FRUIT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "FRUIT",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier FRUIT",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "HOSPITAL",
+          "prenom": "Emilie",
+          "nom_complet": "Emilie HOSPITAL",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

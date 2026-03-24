@@ -1,0 +1,115 @@
+{
+  "code_commune": "62116",
+  "commune": "Bernieulles",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "CAUX",
+    "prenom": "David",
+    "nom_complet": "David CAUX",
+    "age": 60,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 143,
+    "votants": 99,
+    "pct_votants": 69.23,
+    "abstentions": 44,
+    "pct_abstentions": 30.77,
+    "exprimes": 83
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Vivre Ensemble",
+      "libelle_abrege_liste": "Vivre Ensemble",
+      "nuance_liste": null,
+      "voix": 83,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 9,
+      "sieges_cc": null,
+      "nb_elus": 9,
+      "tete_de_liste": {
+        "nom": "CAUX",
+        "prenom": "David",
+        "nom_complet": "David CAUX",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "CAUX",
+          "prenom": "David",
+          "nom_complet": "David CAUX",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "VASSEUR",
+          "prenom": "Annie",
+          "nom_complet": "Annie VASSEUR",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "SERRURIER",
+          "prenom": "Gérard",
+          "nom_complet": "Gérard SERRURIER",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "GADY-LEVECQUE",
+          "prenom": "Cécile",
+          "nom_complet": "Cécile GADY-LEVECQUE",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "COCATRIX",
+          "prenom": "Arnaud",
+          "nom_complet": "Arnaud COCATRIX",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "CREPIN",
+          "prenom": "Geneviève",
+          "nom_complet": "Geneviève CREPIN",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DELATTRE",
+          "prenom": "Maxime",
+          "nom_complet": "Maxime DELATTRE",
+          "sexe": "M",
+          "age": 32,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "REGNIER",
+          "prenom": "Anaîs",
+          "nom_complet": "Anaîs REGNIER",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "LECUYER",
+          "prenom": "Jean-Yves",
+          "nom_complet": "Jean-Yves LECUYER",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "9"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

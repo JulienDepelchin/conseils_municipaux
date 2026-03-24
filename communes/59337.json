@@ -1,0 +1,163 @@
+{
+  "code_commune": "59337",
+  "commune": "Lederzeele",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "DEKEISTER",
+    "prenom": "Catherine",
+    "nom_complet": "Catherine DEKEISTER",
+    "age": 55,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 559,
+    "votants": 318,
+    "pct_votants": 56.89,
+    "abstentions": 241,
+    "pct_abstentions": 43.11,
+    "exprimes": 280
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Lederzeele : fier de son passé, tourné vers l'avenir",
+      "libelle_abrege_liste": "Lederzeele : fier de son passé, tourné vers l'avenir",
+      "nuance_liste": null,
+      "voix": 280,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "DEKEISTER",
+        "prenom": "Catherine",
+        "nom_complet": "Catherine DEKEISTER",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "DEKEISTER",
+          "prenom": "Catherine",
+          "nom_complet": "Catherine DEKEISTER",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "ARNOUTS",
+          "prenom": "Jean-Paul",
+          "nom_complet": "Jean-Paul ARNOUTS",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DRIEUX",
+          "prenom": "Delphine",
+          "nom_complet": "Delphine DRIEUX",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LEVISSE",
+          "prenom": "Pierre",
+          "nom_complet": "Pierre LEVISSE",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "CHARLEMAGNE",
+          "prenom": "Amélie",
+          "nom_complet": "Amélie CHARLEMAGNE",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LUCHET",
+          "prenom": "Sébastien",
+          "nom_complet": "Sébastien LUCHET",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DECONINCK",
+          "prenom": "Élodie",
+          "nom_complet": "Élodie DECONINCK",
+          "sexe": "F",
+          "age": 31,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "PACCOU",
+          "prenom": "Vincent",
+          "nom_complet": "Vincent PACCOU",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DENIS",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie DENIS",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DEGROOTE",
+          "prenom": "Michaël",
+          "nom_complet": "Michaël DEGROOTE",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DUSAUTOIS",
+          "prenom": "Sabine",
+          "nom_complet": "Sabine DUSAUTOIS",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "DEVRIENDT",
+          "prenom": "Vincent",
+          "nom_complet": "Vincent DEVRIENDT",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "HOLLANT",
+          "prenom": "Marion",
+          "nom_complet": "Marion HOLLANT",
+          "sexe": "F",
+          "age": 33,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "MOERMAN",
+          "prenom": "Antoine",
+          "nom_complet": "Antoine MOERMAN",
+          "sexe": "M",
+          "age": 33,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "VERHILLE",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle VERHILLE",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

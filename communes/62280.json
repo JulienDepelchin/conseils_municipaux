@@ -1,0 +1,131 @@
+{
+  "code_commune": "62280",
+  "commune": "Dury",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "DAILLIEZ",
+    "prenom": "Thierry",
+    "nom_complet": "Thierry DAILLIEZ",
+    "age": 62,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 276,
+    "votants": 171,
+    "pct_votants": 61.96,
+    "abstentions": 105,
+    "pct_abstentions": 38.04,
+    "exprimes": 148
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "NOTRE VILLAGE NOTRE BIEN VIVRE",
+      "libelle_abrege_liste": "NOTRE VILLAGE NOTRE BIEN VIVRE",
+      "nuance_liste": null,
+      "voix": 148,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "DAILLIEZ",
+        "prenom": "Thierry",
+        "nom_complet": "Thierry DAILLIEZ",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DAILLIEZ",
+          "prenom": "Thierry",
+          "nom_complet": "Thierry DAILLIEZ",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "CANIVET",
+          "prenom": "Edwige",
+          "nom_complet": "Edwige CANIVET",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "GODELIEZ",
+          "prenom": "Jonathan",
+          "nom_complet": "Jonathan GODELIEZ",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "MARTIN",
+          "prenom": "Catherine",
+          "nom_complet": "Catherine MARTIN",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LEPRINCE",
+          "prenom": "Jean-François",
+          "nom_complet": "Jean-François LEPRINCE",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "THERY",
+          "prenom": "Corinne",
+          "nom_complet": "Corinne THERY",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "CAVITTE",
+          "prenom": "Gaëtan",
+          "nom_complet": "Gaëtan CAVITTE",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "KABACINSKI",
+          "prenom": "Danièle",
+          "nom_complet": "Danièle KABACINSKI",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "KREGIEL",
+          "prenom": "Stephan",
+          "nom_complet": "Stephan KREGIEL",
+          "sexe": "M",
+          "age": 33,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "TISON",
+          "prenom": "Steffie",
+          "nom_complet": "Steffie TISON",
+          "sexe": "F",
+          "age": 33,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "BRISSEZ",
+          "prenom": "Goeffrey",
+          "nom_complet": "Goeffrey BRISSEZ",
+          "sexe": "M",
+          "age": 28,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

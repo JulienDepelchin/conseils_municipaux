@@ -1,0 +1,183 @@
+{
+  "code_commune": "59501",
+  "commune": "Rieulay",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "DELECLUSE",
+    "prenom": "Marc",
+    "nom_complet": "Marc DELECLUSE",
+    "age": 77,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1059,
+    "votants": 728,
+    "pct_votants": 68.74,
+    "abstentions": 331,
+    "pct_abstentions": 31.26,
+    "exprimes": 705
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "ENSEMBLE POUR RIEULAY, NOTRE VILLAGE",
+      "libelle_abrege_liste": "ENSEMBLE POUR RIEULAY, NOTRE VILLAGE",
+      "nuance_liste": null,
+      "voix": 505,
+      "pct_voix_exprimes": 71.63,
+      "sieges_cm": 13,
+      "sieges_cc": 1,
+      "nb_elus": 13,
+      "tete_de_liste": {
+        "nom": "DELECLUSE",
+        "prenom": "Marc",
+        "nom_complet": "Marc DELECLUSE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DELECLUSE",
+          "prenom": "Marc",
+          "nom_complet": "Marc DELECLUSE",
+          "sexe": "M",
+          "age": 77,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "PAYEN",
+          "prenom": "Maryse",
+          "nom_complet": "Maryse PAYEN",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "GAUSIN",
+          "prenom": "Alain",
+          "nom_complet": "Alain GAUSIN",
+          "sexe": "M",
+          "age": 77,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "WINTENBERGER",
+          "prenom": "Sorene",
+          "nom_complet": "Sorene WINTENBERGER",
+          "sexe": "F",
+          "age": 28,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "GHERARDINI",
+          "prenom": "Guido",
+          "nom_complet": "Guido GHERARDINI",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LEBRUN",
+          "prenom": "Marie-Noëlle",
+          "nom_complet": "Marie-Noëlle LEBRUN",
+          "sexe": "F",
+          "age": 71,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "MAJORCZYK",
+          "prenom": "Eric",
+          "nom_complet": "Eric MAJORCZYK",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "BOURGHELLE",
+          "prenom": "Marie-Lise",
+          "nom_complet": "Marie-Lise BOURGHELLE",
+          "sexe": "F",
+          "age": 70,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "VILAIN",
+          "prenom": "Bertrand",
+          "nom_complet": "Bertrand VILAIN",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "ATMEARE",
+          "prenom": "Elisabeth",
+          "nom_complet": "Elisabeth ATMEARE",
+          "sexe": "F",
+          "age": 70,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "GUENY",
+          "prenom": "Julien",
+          "nom_complet": "Julien GUENY",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "LECLERCQ",
+          "prenom": "Laetitia",
+          "nom_complet": "Laetitia LECLERCQ",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "MONHAY",
+          "prenom": "Jean-Yves",
+          "nom_complet": "Jean-Yves MONHAY",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "13"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Le nouvel élan Rieulaysien",
+      "libelle_abrege_liste": "Le nouvel élan Rieulaysien",
+      "nuance_liste": null,
+      "voix": 200,
+      "pct_voix_exprimes": 28.37,
+      "sieges_cm": 2,
+      "sieges_cc": 0,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "DALLA COSTA",
+        "prenom": "Damien",
+        "nom_complet": "Damien DALLA COSTA",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DALLA COSTA",
+          "prenom": "Damien",
+          "nom_complet": "Damien DALLA COSTA",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DUEZ",
+          "prenom": "Marie-Estelle",
+          "nom_complet": "Marie-Estelle DUEZ",
+          "sexe": "F",
+          "age": 30,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

@@ -1,0 +1,183 @@
+{
+  "code_commune": "59446",
+  "commune": "Oisy",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "LEJEUNE",
+    "prenom": "Bruno",
+    "nom_complet": "Bruno LEJEUNE",
+    "age": 69,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 526,
+    "votants": 438,
+    "pct_votants": 83.27,
+    "abstentions": 88,
+    "pct_abstentions": 16.73,
+    "exprimes": 426
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "CONTINUONS ENSEMBLE le travail mené pour Oisy",
+      "libelle_abrege_liste": "CONTINUONS ENSEMBLE le travail mené pour Oisy",
+      "nuance_liste": null,
+      "voix": 218,
+      "pct_voix_exprimes": 51.17,
+      "sieges_cm": 12,
+      "sieges_cc": null,
+      "nb_elus": 12,
+      "tete_de_liste": {
+        "nom": "LEJEUNE",
+        "prenom": "Bruno",
+        "nom_complet": "Bruno LEJEUNE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LEJEUNE",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno LEJEUNE",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "CYMERMAN",
+          "prenom": "Virginie",
+          "nom_complet": "Virginie CYMERMAN",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DUHEM",
+          "prenom": "Marc",
+          "nom_complet": "Marc DUHEM",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "MARCUS",
+          "prenom": "Laurine",
+          "nom_complet": "Laurine MARCUS",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LECLERC",
+          "prenom": "Serge",
+          "nom_complet": "Serge LECLERC",
+          "sexe": "M",
+          "age": 75,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "MARISSEL",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie MARISSEL",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "TOURNAY",
+          "prenom": "Guillaume",
+          "nom_complet": "Guillaume TOURNAY",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "PIRAUT",
+          "prenom": "Benedetta",
+          "nom_complet": "Benedetta PIRAUT",
+          "sexe": "F",
+          "age": 72,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "VESTE",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric VESTE",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DUDZIAK",
+          "prenom": "Tiffany",
+          "nom_complet": "Tiffany DUDZIAK",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "CARTIGNIES",
+          "prenom": "Yoann",
+          "nom_complet": "Yoann CARTIGNIES",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "VARLET",
+          "prenom": "Caroline",
+          "nom_complet": "Caroline VARLET",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "12"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "OISY AUTREMENT",
+      "libelle_abrege_liste": "OISY AUTREMENT",
+      "nuance_liste": null,
+      "voix": 208,
+      "pct_voix_exprimes": 48.83,
+      "sieges_cm": 3,
+      "sieges_cc": null,
+      "nb_elus": 3,
+      "tete_de_liste": {
+        "nom": "SUCHECKI",
+        "prenom": "Philippe",
+        "nom_complet": "Philippe SUCHECKI",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "SUCHECKI",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe SUCHECKI",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "TANGERO",
+          "prenom": "Berenice",
+          "nom_complet": "Berenice TANGERO",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LAUDE",
+          "prenom": "Paul",
+          "nom_complet": "Paul LAUDE",
+          "sexe": "M",
+          "age": 33,
+          "rang_liste": "3"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

@@ -1,0 +1,247 @@
+{
+  "code_commune": "62252",
+  "commune": "La Couture",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "GAQUÈRE",
+    "prenom": "Raymond",
+    "nom_complet": "Raymond GAQUÈRE",
+    "age": 77,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 2206,
+    "votants": 1534,
+    "pct_votants": 69.54,
+    "abstentions": 672,
+    "pct_abstentions": 30.46,
+    "exprimes": 1509
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "LA COUTURE UN VILLAGE QUI AVANCE AVEC VOUS",
+      "libelle_abrege_liste": "LA COUTURE UN VILLAGE QUI AVANCE AVEC VOUS",
+      "nuance_liste": null,
+      "voix": 815,
+      "pct_voix_exprimes": 54.01,
+      "sieges_cm": 18,
+      "sieges_cc": 1,
+      "nb_elus": 18,
+      "tete_de_liste": {
+        "nom": "GAQUÈRE",
+        "prenom": "Raymond",
+        "nom_complet": "Raymond GAQUÈRE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "GAQUÈRE",
+          "prenom": "Raymond",
+          "nom_complet": "Raymond GAQUÈRE",
+          "sexe": "M",
+          "age": 77,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "VAN-LANDUYT",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle VAN-LANDUYT",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BOUREL",
+          "prenom": "Jacques",
+          "nom_complet": "Jacques BOUREL",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BLONDIAUX",
+          "prenom": "Danielle",
+          "nom_complet": "Danielle BLONDIAUX",
+          "sexe": "F",
+          "age": 76,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LECLERCQ",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe LECLERCQ",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "GUILBAUT",
+          "prenom": "Mélinda",
+          "nom_complet": "Mélinda GUILBAUT",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "VINCENT",
+          "prenom": "Jean-Marc",
+          "nom_complet": "Jean-Marc VINCENT",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "MARQUILLY",
+          "prenom": "Gaëlle",
+          "nom_complet": "Gaëlle MARQUILLY",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "CAYEZ",
+          "prenom": "Marc",
+          "nom_complet": "Marc CAYEZ",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "COCQ",
+          "prenom": "Cécile",
+          "nom_complet": "Cécile COCQ",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DOYER",
+          "prenom": "Régis",
+          "nom_complet": "Régis DOYER",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "STIEVENART",
+          "prenom": "Alicia",
+          "nom_complet": "Alicia STIEVENART",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "FLAUDER",
+          "prenom": "Sébastien",
+          "nom_complet": "Sébastien FLAUDER",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "LECOCQ",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle LECOCQ",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "POLART",
+          "prenom": "Johan",
+          "nom_complet": "Johan POLART",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "DECLERCQ",
+          "prenom": "Caroline",
+          "nom_complet": "Caroline DECLERCQ",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "VITTU",
+          "prenom": "Arnaud",
+          "nom_complet": "Arnaud VITTU",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "JOURET",
+          "prenom": "Émilie",
+          "nom_complet": "Émilie JOURET",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "18"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "UN RENOUVEAU CITOYEN POUR LA COUTURE",
+      "libelle_abrege_liste": "UN RENOUVEAU CITOYEN POUR LA COUTURE",
+      "nuance_liste": null,
+      "voix": 694,
+      "pct_voix_exprimes": 45.99,
+      "sieges_cm": 5,
+      "sieges_cc": 0,
+      "nb_elus": 5,
+      "tete_de_liste": {
+        "nom": "DERACHE",
+        "prenom": "Laurent",
+        "nom_complet": "Laurent DERACHE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DERACHE",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent DERACHE",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "VANTHUYNE",
+          "prenom": "Loetitia",
+          "nom_complet": "Loetitia VANTHUYNE",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DELASSUS",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier DELASSUS",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BAILLY",
+          "prenom": "Manuella",
+          "nom_complet": "Manuella BAILLY",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "FASQUEL",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe FASQUEL",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "5"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

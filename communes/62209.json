@@ -1,0 +1,151 @@
+{
+  "code_commune": "62209",
+  "commune": "Canlers",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "FOURRIQUET",
+    "prenom": "Laurent",
+    "nom_complet": "Laurent FOURRIQUET",
+    "age": 62,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 161,
+    "votants": 147,
+    "pct_votants": 91.3,
+    "abstentions": 14,
+    "pct_abstentions": 8.7,
+    "exprimes": 143
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "POURSUIVONS ENSEMBLE",
+      "libelle_abrege_liste": "POURSUIVONS ENSEMBLE",
+      "nuance_liste": null,
+      "voix": 103,
+      "pct_voix_exprimes": 72.03,
+      "sieges_cm": 10,
+      "sieges_cc": null,
+      "nb_elus": 10,
+      "tete_de_liste": {
+        "nom": "FOURRIQUET",
+        "prenom": "Laurent",
+        "nom_complet": "Laurent FOURRIQUET",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "FOURRIQUET",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent FOURRIQUET",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DACQUIN",
+          "prenom": "Carole",
+          "nom_complet": "Carole DACQUIN",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BECART",
+          "prenom": "Emmanuel",
+          "nom_complet": "Emmanuel BECART",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LEICHT",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie LEICHT",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "NÉDONCHEL",
+          "prenom": "Jean-Pierre",
+          "nom_complet": "Jean-Pierre NÉDONCHEL",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "HAMIDI-CUEGNET",
+          "prenom": "Mireille",
+          "nom_complet": "Mireille HAMIDI-CUEGNET",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DESPREZ",
+          "prenom": "Martin",
+          "nom_complet": "Martin DESPREZ",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DESMONS",
+          "prenom": "Delphine",
+          "nom_complet": "Delphine DESMONS",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "NÉDONCHEL",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe NÉDONCHEL",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "FRAEYE",
+          "prenom": "Véronique",
+          "nom_complet": "Véronique FRAEYE",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "10"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ENSEMBLE POUR NOTRE VILLAGE",
+      "libelle_abrege_liste": "ENSEMBLE POUR NOTRE VILLAGE",
+      "nuance_liste": null,
+      "voix": 40,
+      "pct_voix_exprimes": 27.97,
+      "sieges_cm": 1,
+      "sieges_cc": null,
+      "nb_elus": 1,
+      "tete_de_liste": {
+        "nom": "BIGAND",
+        "prenom": "Pascal",
+        "nom_complet": "Pascal BIGAND",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BIGAND",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal BIGAND",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "1"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

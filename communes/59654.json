@@ -1,0 +1,315 @@
+{
+  "code_commune": "59654",
+  "commune": "Waziers",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "BANSCH",
+    "prenom": "Steve",
+    "nom_complet": "Steve BANSCH",
+    "age": 38,
+    "nuance": "LDIV"
+  },
+  "resultats": {
+    "inscrits": 5127,
+    "votants": 2674,
+    "pct_votants": 52.16,
+    "abstentions": 2453,
+    "pct_abstentions": 47.84,
+    "exprimes": 2574
+  },
+  "listes": [
+    {
+      "num_panneau": "3",
+      "libelle_liste": "WAZIERS NOTRE PRIORITÉ",
+      "libelle_abrege_liste": "WAZIERS NOTRE PRIORITÉ",
+      "nuance_liste": "LDIV",
+      "voix": 1399,
+      "pct_voix_exprimes": 54.35,
+      "sieges_cm": 23,
+      "sieges_cc": 3,
+      "nb_elus": 23,
+      "tete_de_liste": {
+        "nom": "BANSCH",
+        "prenom": "Steve",
+        "nom_complet": "Steve BANSCH",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BANSCH",
+          "prenom": "Steve",
+          "nom_complet": "Steve BANSCH",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "MINET",
+          "prenom": "Anouchka",
+          "nom_complet": "Anouchka MINET",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DOGIMONT",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric DOGIMONT",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "KADI",
+          "prenom": "Ilham",
+          "nom_complet": "Ilham KADI",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "HUMERY",
+          "prenom": "Gilles",
+          "nom_complet": "Gilles HUMERY",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "GUBBA",
+          "prenom": "Virginie",
+          "nom_complet": "Virginie GUBBA",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DHAINAUT",
+          "prenom": "Fabrice",
+          "nom_complet": "Fabrice DHAINAUT",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "MASCLET",
+          "prenom": "Laurence",
+          "nom_complet": "Laurence MASCLET",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "KHECHAÏ",
+          "prenom": "Amir",
+          "nom_complet": "Amir KHECHAÏ",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "LEMAY",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie LEMAY",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DELABY",
+          "prenom": "Éric",
+          "nom_complet": "Éric DELABY",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "SARAJI",
+          "prenom": "Hassina",
+          "nom_complet": "Hassina SARAJI",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "DUTOMBEAU",
+          "prenom": "Jérôme",
+          "nom_complet": "Jérôme DUTOMBEAU",
+          "sexe": "M",
+          "age": 34,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "NOURRY",
+          "prenom": "Coraline",
+          "nom_complet": "Coraline NOURRY",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "GUBBA",
+          "prenom": "Jean-Marc",
+          "nom_complet": "Jean-Marc GUBBA",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "BANNASIK",
+          "prenom": "Fanny",
+          "nom_complet": "Fanny BANNASIK",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "AUGRAS",
+          "prenom": "Willy",
+          "nom_complet": "Willy AUGRAS",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "ELBACHIR",
+          "prenom": "Naïma",
+          "nom_complet": "Naïma ELBACHIR",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "DUFOUR",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier DUFOUR",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "DUPONT",
+          "prenom": "Sandrine",
+          "nom_complet": "Sandrine DUPONT",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "GUISON",
+          "prenom": "José",
+          "nom_complet": "José GUISON",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "LENNE",
+          "prenom": "Cathy",
+          "nom_complet": "Cathy LENNE",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "LECLERCQ",
+          "prenom": "Christian",
+          "nom_complet": "Christian LECLERCQ",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "23"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ENGAGES POUR WAZIERS",
+      "libelle_abrege_liste": "ENGAGES POUR WAZIERS",
+      "nuance_liste": "LDVG",
+      "voix": 602,
+      "pct_voix_exprimes": 23.39,
+      "sieges_cm": 3,
+      "sieges_cc": 0,
+      "nb_elus": 3,
+      "tete_de_liste": {
+        "nom": "POULAIN",
+        "prenom": "Ophélie",
+        "nom_complet": "Ophélie POULAIN",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "POULAIN",
+          "prenom": "Ophélie",
+          "nom_complet": "Ophélie POULAIN",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "ZAÏR",
+          "prenom": "Mohamed",
+          "nom_complet": "Mohamed ZAÏR",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BOUREZ",
+          "prenom": "Naïma",
+          "nom_complet": "Naïma BOUREZ",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "3"
+        }
+      ],
+      "statut_conseil": "autre"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "AGIR POUR WAZIERS",
+      "libelle_abrege_liste": "AGIR POUR WAZIERS",
+      "nuance_liste": "LDVG",
+      "voix": 573,
+      "pct_voix_exprimes": 22.26,
+      "sieges_cm": 3,
+      "sieges_cc": 0,
+      "nb_elus": 3,
+      "tete_de_liste": {
+        "nom": "MICHON",
+        "prenom": "Jacques",
+        "nom_complet": "Jacques MICHON",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "MICHON",
+          "prenom": "Jacques",
+          "nom_complet": "Jacques MICHON",
+          "sexe": "M",
+          "age": 78,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "PARNETZKI-LEQUET",
+          "prenom": "Claudine",
+          "nom_complet": "Claudine PARNETZKI-LEQUET",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "MERCIER",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier MERCIER",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "3"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

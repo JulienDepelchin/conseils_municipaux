@@ -1,0 +1,151 @@
+{
+  "code_commune": "59072",
+  "commune": "Bersillies",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "PINSON",
+    "prenom": "Pascal",
+    "nom_complet": "Pascal PINSON",
+    "age": 68,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 169,
+    "votants": 143,
+    "pct_votants": 84.62,
+    "abstentions": 26,
+    "pct_abstentions": 15.38,
+    "exprimes": 141
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "BIEN VIVRE A BERSILLIES",
+      "libelle_abrege_liste": "BIEN VIVRE A BERSILLIES",
+      "nuance_liste": null,
+      "voix": 73,
+      "pct_voix_exprimes": 51.77,
+      "sieges_cm": 9,
+      "sieges_cc": null,
+      "nb_elus": 9,
+      "tete_de_liste": {
+        "nom": "PINSON",
+        "prenom": "Pascal",
+        "nom_complet": "Pascal PINSON",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "PINSON",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal PINSON",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "ROUSSELLE",
+          "prenom": "Marie-Paule",
+          "nom_complet": "Marie-Paule ROUSSELLE",
+          "sexe": "F",
+          "age": 76,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BLANCHEZ",
+          "prenom": "Jean-Sébastien",
+          "nom_complet": "Jean-Sébastien BLANCHEZ",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "JOLY",
+          "prenom": "Veronique",
+          "nom_complet": "Veronique JOLY",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "VILETTE",
+          "prenom": "Jean-Michel",
+          "nom_complet": "Jean-Michel VILETTE",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "COMPIEGNE",
+          "prenom": "Manon",
+          "nom_complet": "Manon COMPIEGNE",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BIZOUX",
+          "prenom": "Bernard",
+          "nom_complet": "Bernard BIZOUX",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "BOUDJEMA",
+          "prenom": "Yasmina",
+          "nom_complet": "Yasmina BOUDJEMA",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "FERET",
+          "prenom": "Frederic",
+          "nom_complet": "Frederic FERET",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "9"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Bersillies la parole à tous les habitants",
+      "libelle_abrege_liste": "Bersillies la parole à tous les habitants",
+      "nuance_liste": null,
+      "voix": 68,
+      "pct_voix_exprimes": 48.23,
+      "sieges_cm": 2,
+      "sieges_cc": null,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "MEZIANI",
+        "prenom": "Ali",
+        "nom_complet": "Ali MEZIANI",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "MEZIANI",
+          "prenom": "Ali",
+          "nom_complet": "Ali MEZIANI",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "MEZIANI",
+          "prenom": "Claire",
+          "nom_complet": "Claire MEZIANI",
+          "sexe": "F",
+          "age": 25,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

@@ -1,0 +1,347 @@
+{
+  "code_commune": "59574",
+  "commune": "Somain",
+  "departement": "Nord",
+  "tour": "T2",
+  "maire": {
+    "nom": "GROS",
+    "prenom": "Jean-Baptiste",
+    "nom_complet": "Jean-Baptiste GROS",
+    "age": 41,
+    "nuance": "LDIV"
+  },
+  "resultats": {
+    "inscrits": 8919,
+    "votants": 5102,
+    "pct_votants": 57.2,
+    "abstentions": 3817,
+    "pct_abstentions": 42.8,
+    "exprimes": 5027
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "SOMAIN AU COEUR AVEC JEAN-BAPTISTE GROS ET SON EQUIPE",
+      "libelle_abrege_liste": "SOMAIN AU COEUR AVEC JEAN-BAPTISTE GROS ET SON EQUIPE",
+      "nuance_liste": "LDIV",
+      "voix": 2643,
+      "pct_voix_exprimes": 52.58,
+      "sieges_cm": 26,
+      "sieges_cc": 8,
+      "nb_elus": 26,
+      "tete_de_liste": {
+        "nom": "GROS",
+        "prenom": "Jean-Baptiste",
+        "nom_complet": "Jean-Baptiste GROS",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "GROS",
+          "prenom": "Jean-Baptiste",
+          "nom_complet": "Jean-Baptiste GROS",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "WERQUIN",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle WERQUIN",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "SAILLY",
+          "prenom": "Fabien",
+          "nom_complet": "Fabien SAILLY",
+          "sexe": "M",
+          "age": 34,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BAILLEUX",
+          "prenom": "Justine",
+          "nom_complet": "Justine BAILLEUX",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "MARCINIAK",
+          "prenom": "Fabien",
+          "nom_complet": "Fabien MARCINIAK",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "BOURLET",
+          "prenom": "Aïcha",
+          "nom_complet": "Aïcha BOURLET",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "HOUDRE",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas HOUDRE",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "MEUNIER",
+          "prenom": "Virginie",
+          "nom_complet": "Virginie MEUNIER",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "MATUSZEWSKI",
+          "prenom": "Jérôme",
+          "nom_complet": "Jérôme MATUSZEWSKI",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "LINKE",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique LINKE",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "GAMBIER",
+          "prenom": "Fabrice",
+          "nom_complet": "Fabrice GAMBIER",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "PAPADIA LECOCQ",
+          "prenom": "Élisa",
+          "nom_complet": "Élisa PAPADIA LECOCQ",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "GREF",
+          "prenom": "Sébastien",
+          "nom_complet": "Sébastien GREF",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "CAMMERA",
+          "prenom": "Myriam",
+          "nom_complet": "Myriam CAMMERA",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "LOCOGE",
+          "prenom": "Yves",
+          "nom_complet": "Yves LOCOGE",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "DUCHEMIN",
+          "prenom": "Laurence",
+          "nom_complet": "Laurence DUCHEMIN",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "SOUFFLET",
+          "prenom": "Hervé",
+          "nom_complet": "Hervé SOUFFLET",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "WUILLAUME",
+          "prenom": "Véronique",
+          "nom_complet": "Véronique WUILLAUME",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "BRABANT",
+          "prenom": "Pierre",
+          "nom_complet": "Pierre BRABANT",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "VANDREPOTTE",
+          "prenom": "Sarah",
+          "nom_complet": "Sarah VANDREPOTTE",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "CARON",
+          "prenom": "Francis",
+          "nom_complet": "Francis CARON",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "WIART",
+          "prenom": "Claire",
+          "nom_complet": "Claire WIART",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "DIENNE",
+          "prenom": "Romaric",
+          "nom_complet": "Romaric DIENNE",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "23"
+        },
+        {
+          "nom": "PREUD'HOMME",
+          "prenom": "Fabienne",
+          "nom_complet": "Fabienne PREUD'HOMME",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "24"
+        },
+        {
+          "nom": "DUPRIEZ",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe DUPRIEZ",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "25"
+        },
+        {
+          "nom": "LESSCHAVE",
+          "prenom": "Lolita",
+          "nom_complet": "Lolita LESSCHAVE",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "26"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "4",
+      "libelle_liste": "SOMAIN ENSEMBLE",
+      "libelle_abrege_liste": "SOMAIN ENSEMBLE",
+      "nuance_liste": "LDVG",
+      "voix": 1585,
+      "pct_voix_exprimes": 31.53,
+      "sieges_cm": 5,
+      "sieges_cc": 1,
+      "nb_elus": 5,
+      "tete_de_liste": {
+        "nom": "QUENNESSON",
+        "prenom": "Julien",
+        "nom_complet": "Julien QUENNESSON",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "QUENNESSON",
+          "prenom": "Julien",
+          "nom_complet": "Julien QUENNESSON",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "FINKE",
+          "prenom": "Daisy",
+          "nom_complet": "Daisy FINKE",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LEHINGUE",
+          "prenom": "Yazid",
+          "nom_complet": "Yazid LEHINGUE",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "VON WALLENSTEIN",
+          "prenom": "Mélissa",
+          "nom_complet": "Mélissa VON WALLENSTEIN",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "KAHALERRAS",
+          "prenom": "Mohamed",
+          "nom_complet": "Mohamed KAHALERRAS",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "5"
+        }
+      ],
+      "statut_conseil": "autre"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "SOMAIN, LE BON SENS !",
+      "libelle_abrege_liste": "SOMAIN, LE SON SENS !",
+      "nuance_liste": "LRN",
+      "voix": 799,
+      "pct_voix_exprimes": 15.89,
+      "sieges_cm": 2,
+      "sieges_cc": 0,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "DE CAMPEAU",
+        "prenom": "Sigline",
+        "nom_complet": "Sigline DE CAMPEAU",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "DE CAMPEAU",
+          "prenom": "Sigline",
+          "nom_complet": "Sigline DE CAMPEAU",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "MARCHIO",
+          "prenom": "Matthieu",
+          "nom_complet": "Matthieu MARCHIO",
+          "sexe": "M",
+          "age": 32,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

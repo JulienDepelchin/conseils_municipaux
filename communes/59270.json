@@ -1,0 +1,151 @@
+{
+  "code_commune": "59270",
+  "commune": "Grand-Fayt",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "BOULEAU",
+    "prenom": "Laurence",
+    "nom_complet": "Laurence BOULEAU",
+    "age": 50,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 392,
+    "votants": 313,
+    "pct_votants": 79.85,
+    "abstentions": 79,
+    "pct_abstentions": 20.15,
+    "exprimes": 302
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "REUNIS, POUR GRAND-FAYT!",
+      "libelle_abrege_liste": "REUNIS, POUR GRAND-FAYT!",
+      "nuance_liste": null,
+      "voix": 171,
+      "pct_voix_exprimes": 56.62,
+      "sieges_cm": 9,
+      "sieges_cc": null,
+      "nb_elus": 9,
+      "tete_de_liste": {
+        "nom": "BOULEAU",
+        "prenom": "Laurence",
+        "nom_complet": "Laurence BOULEAU",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "BOULEAU",
+          "prenom": "Laurence",
+          "nom_complet": "Laurence BOULEAU",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "SCULFORT",
+          "prenom": "Jean-Paul",
+          "nom_complet": "Jean-Paul SCULFORT",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "HERBIN",
+          "prenom": "Valerie",
+          "nom_complet": "Valerie HERBIN",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LEFEBVRE",
+          "prenom": "David",
+          "nom_complet": "David LEFEBVRE",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "MARMOUZET",
+          "prenom": "Mathilde",
+          "nom_complet": "Mathilde MARMOUZET",
+          "sexe": "F",
+          "age": 32,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DUMESNIL",
+          "prenom": "Hugo",
+          "nom_complet": "Hugo DUMESNIL",
+          "sexe": "M",
+          "age": 33,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "GRODZKI",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle GRODZKI",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LUSSIEZ",
+          "prenom": "Ludovic",
+          "nom_complet": "Ludovic LUSSIEZ",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "TUCHE",
+          "prenom": "Marie",
+          "nom_complet": "Marie TUCHE",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "9"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "AVEC VOUS, POUR L'AVENIR DE GRAND-FAYT",
+      "libelle_abrege_liste": "AVEC VOUS, POUR L'AVENIR DE GRAND-FAYT",
+      "nuance_liste": null,
+      "voix": 131,
+      "pct_voix_exprimes": 43.38,
+      "sieges_cm": 2,
+      "sieges_cc": null,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "DIMANCHE",
+        "prenom": "Sebastien",
+        "nom_complet": "Sebastien DIMANCHE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DIMANCHE",
+          "prenom": "Sebastien",
+          "nom_complet": "Sebastien DIMANCHE",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DELFOSSE",
+          "prenom": "Sabrina",
+          "nom_complet": "Sabrina DELFOSSE",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

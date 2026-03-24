@@ -1,0 +1,163 @@
+{
+  "code_commune": "59218",
+  "commune": "Etroeungt",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "JUSTICE",
+    "prenom": "Vincent",
+    "nom_complet": "Vincent JUSTICE",
+    "age": 65,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 920,
+    "votants": 466,
+    "pct_votants": 50.65,
+    "abstentions": 454,
+    "pct_abstentions": 49.35,
+    "exprimes": 380
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ETRŒUNGT ENSEMBLE POUR DEMAIN",
+      "libelle_abrege_liste": "ETRŒUNGT ENSEMBLE POUR DEMAIN",
+      "nuance_liste": null,
+      "voix": 380,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": 2,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "JUSTICE",
+        "prenom": "Vincent",
+        "nom_complet": "Vincent JUSTICE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "JUSTICE",
+          "prenom": "Vincent",
+          "nom_complet": "Vincent JUSTICE",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "COUVREUR",
+          "prenom": "Anne Sophie",
+          "nom_complet": "Anne Sophie COUVREUR",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "MAIRESSE",
+          "prenom": "Jerome",
+          "nom_complet": "Jerome MAIRESSE",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "NOULE",
+          "prenom": "Magali",
+          "nom_complet": "Magali NOULE",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DESENCLOS",
+          "prenom": "François",
+          "nom_complet": "François DESENCLOS",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "PAINCHART",
+          "prenom": "Laëtitia",
+          "nom_complet": "Laëtitia PAINCHART",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DEKERLE",
+          "prenom": "Alexis",
+          "nom_complet": "Alexis DEKERLE",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "GARIN",
+          "prenom": "Aurelie",
+          "nom_complet": "Aurelie GARIN",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "SOUDRY",
+          "prenom": "Guillaume",
+          "nom_complet": "Guillaume SOUDRY",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DEKERLE",
+          "prenom": "Alexandra",
+          "nom_complet": "Alexandra DEKERLE",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "HONORE",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe HONORE",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "MILAN",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie MILAN",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "DESMARESCAUX",
+          "prenom": "Guy",
+          "nom_complet": "Guy DESMARESCAUX",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "LOUGUET",
+          "prenom": "Helene",
+          "nom_complet": "Helene LOUGUET",
+          "sexe": "F",
+          "age": 31,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "SOUMIER",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal SOUMIER",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

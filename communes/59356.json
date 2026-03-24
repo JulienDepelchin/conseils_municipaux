@@ -1,0 +1,195 @@
+{
+  "code_commune": "59356",
+  "commune": "Lompret",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "MOENECLAEY",
+    "prenom": "Hélène",
+    "nom_complet": "Hélène MOENECLAEY",
+    "age": 49,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1766,
+    "votants": 925,
+    "pct_votants": 52.38,
+    "abstentions": 841,
+    "pct_abstentions": 47.62,
+    "exprimes": 769
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Lompret 2026",
+      "libelle_abrege_liste": "Lompret 2026",
+      "nuance_liste": null,
+      "voix": 769,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 19,
+      "sieges_cc": 1,
+      "nb_elus": 19,
+      "tete_de_liste": {
+        "nom": "MOENECLAEY",
+        "prenom": "Hélène",
+        "nom_complet": "Hélène MOENECLAEY",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "MOENECLAEY",
+          "prenom": "Hélène",
+          "nom_complet": "Hélène MOENECLAEY",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "SPILLIAERT",
+          "prenom": "Pierre",
+          "nom_complet": "Pierre SPILLIAERT",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DASSONVILLE",
+          "prenom": "Sylviane",
+          "nom_complet": "Sylviane DASSONVILLE",
+          "sexe": "F",
+          "age": 77,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "GUILLOT DIT SALOMON",
+          "prenom": "Thierry",
+          "nom_complet": "Thierry GUILLOT DIT SALOMON",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "GAMOT",
+          "prenom": "Celine",
+          "nom_complet": "Celine GAMOT",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "COSTEUR",
+          "prenom": "Didier",
+          "nom_complet": "Didier COSTEUR",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "VANDOMME",
+          "prenom": "Aurélie",
+          "nom_complet": "Aurélie VANDOMME",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "CAPELLE",
+          "prenom": "Christian",
+          "nom_complet": "Christian CAPELLE",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "MARMET",
+          "prenom": "Alice",
+          "nom_complet": "Alice MARMET",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "BOULLAND",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe BOULLAND",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "EL MALLAHI",
+          "prenom": "Fatéha",
+          "nom_complet": "Fatéha EL MALLAHI",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "MONFRIER",
+          "prenom": "Gaël",
+          "nom_complet": "Gaël MONFRIER",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "LEFEVRE",
+          "prenom": "Emilie",
+          "nom_complet": "Emilie LEFEVRE",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "OPPOSITE",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier OPPOSITE",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "BERNAERT",
+          "prenom": "Janine",
+          "nom_complet": "Janine BERNAERT",
+          "sexe": "F",
+          "age": 77,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "TOULEMONDE",
+          "prenom": "Thierry",
+          "nom_complet": "Thierry TOULEMONDE",
+          "sexe": "M",
+          "age": 76,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "BONNIERE",
+          "prenom": "Catherine",
+          "nom_complet": "Catherine BONNIERE",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "AERTS",
+          "prenom": "David",
+          "nom_complet": "David AERTS",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "EVANGELISTA",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie EVANGELISTA",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "19"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

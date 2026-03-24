@@ -1,0 +1,151 @@
+{
+  "code_commune": "59500",
+  "commune": "Ribécourt-la-Tour",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "FEROT",
+    "prenom": "François-Xavier",
+    "nom_complet": "François-Xavier FEROT",
+    "age": 64,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 287,
+    "votants": 233,
+    "pct_votants": 81.18,
+    "abstentions": 54,
+    "pct_abstentions": 18.82,
+    "exprimes": 223
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Unissons-nous pour l'Avenir de Ribécourt-la-Tour",
+      "libelle_abrege_liste": "Unissons-nous pour l'Avenir de Ribécourt-la-Tour",
+      "nuance_liste": null,
+      "voix": 135,
+      "pct_voix_exprimes": 60.54,
+      "sieges_cm": 9,
+      "sieges_cc": null,
+      "nb_elus": 9,
+      "tete_de_liste": {
+        "nom": "FEROT",
+        "prenom": "François-Xavier",
+        "nom_complet": "François-Xavier FEROT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "FEROT",
+          "prenom": "François-Xavier",
+          "nom_complet": "François-Xavier FEROT",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "MARQUES",
+          "prenom": "Christelle",
+          "nom_complet": "Christelle MARQUES",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "GUÉNARD",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe GUÉNARD",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "MUH",
+          "prenom": "Denise",
+          "nom_complet": "Denise MUH",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "PENNEL",
+          "prenom": "Anthony",
+          "nom_complet": "Anthony PENNEL",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "SENECHAL",
+          "prenom": "Véronique",
+          "nom_complet": "Véronique SENECHAL",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "GUENARD",
+          "prenom": "Jean-Michel",
+          "nom_complet": "Jean-Michel GUENARD",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "HEMDANE",
+          "prenom": "Lynda",
+          "nom_complet": "Lynda HEMDANE",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "MINCHEZ",
+          "prenom": "Hugo",
+          "nom_complet": "Hugo MINCHEZ",
+          "sexe": "M",
+          "age": 19,
+          "rang_liste": "9"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "BIEN VIVRE A RIBECOURT-LA-TOUR",
+      "libelle_abrege_liste": "BIEN VIVRE A RIBECOURT-LA-TOUR",
+      "nuance_liste": null,
+      "voix": 88,
+      "pct_voix_exprimes": 39.46,
+      "sieges_cm": 2,
+      "sieges_cc": null,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "COPIE",
+        "prenom": "Philippe",
+        "nom_complet": "Philippe COPIE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "COPIE",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe COPIE",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "FROMENT",
+          "prenom": "Aurore",
+          "nom_complet": "Aurore FROMENT",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

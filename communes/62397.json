@@ -1,0 +1,295 @@
+{
+  "code_commune": "62397",
+  "commune": "Guînes",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "BUY",
+    "prenom": "Éric",
+    "nom_complet": "Éric BUY",
+    "age": 69,
+    "nuance": "LDVG"
+  },
+  "resultats": {
+    "inscrits": 4031,
+    "votants": 2512,
+    "pct_votants": 62.32,
+    "abstentions": 1519,
+    "pct_abstentions": 37.68,
+    "exprimes": 2449
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Eric BUY - Tous ensemble pour Guînes",
+      "libelle_abrege_liste": "Eric BUY - Tous ensemble pour Guînes",
+      "nuance_liste": "LDVG",
+      "voix": 2035,
+      "pct_voix_exprimes": 83.1,
+      "sieges_cm": 27,
+      "sieges_cc": 9,
+      "nb_elus": 27,
+      "tete_de_liste": {
+        "nom": "BUY",
+        "prenom": "Éric",
+        "nom_complet": "Éric BUY",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BUY",
+          "prenom": "Éric",
+          "nom_complet": "Éric BUY",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "MATTE",
+          "prenom": "Julie",
+          "nom_complet": "Julie MATTE",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BAILLEUX",
+          "prenom": "Valentin",
+          "nom_complet": "Valentin BAILLEUX",
+          "sexe": "M",
+          "age": 29,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "CHARPENTIER",
+          "prenom": "Laurence",
+          "nom_complet": "Laurence CHARPENTIER",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "SEILLER",
+          "prenom": "Guy",
+          "nom_complet": "Guy SEILLER",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "JOLY",
+          "prenom": "Edith",
+          "nom_complet": "Edith JOLY",
+          "sexe": "F",
+          "age": 70,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "PONTHIEU",
+          "prenom": "Fabrice",
+          "nom_complet": "Fabrice PONTHIEU",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "GREVIN",
+          "prenom": "Patricia",
+          "nom_complet": "Patricia GREVIN",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "COZE",
+          "prenom": "Thierry",
+          "nom_complet": "Thierry COZE",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "LETREN",
+          "prenom": "Marjorie",
+          "nom_complet": "Marjorie LETREN",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "SAUVAGE",
+          "prenom": "Vincent",
+          "nom_complet": "Vincent SAUVAGE",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "CROQUELOIS",
+          "prenom": "Alicia",
+          "nom_complet": "Alicia CROQUELOIS",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "DENEZ",
+          "prenom": "Jacques",
+          "nom_complet": "Jacques DENEZ",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "FORTIN",
+          "prenom": "Laurine",
+          "nom_complet": "Laurine FORTIN",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "KERCKHOVE",
+          "prenom": "Christian",
+          "nom_complet": "Christian KERCKHOVE",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "DEVIGNES",
+          "prenom": "Janine",
+          "nom_complet": "Janine DEVIGNES",
+          "sexe": "F",
+          "age": 71,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "CHEVALIER",
+          "prenom": "Stéphane",
+          "nom_complet": "Stéphane CHEVALIER",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "TARDIEU",
+          "prenom": "Odile",
+          "nom_complet": "Odile TARDIEU",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "VIGNERON",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas VIGNERON",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "BOURRANT",
+          "prenom": "Laëtitia",
+          "nom_complet": "Laëtitia BOURRANT",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "RENIER",
+          "prenom": "Jean-Pierre",
+          "nom_complet": "Jean-Pierre RENIER",
+          "sexe": "M",
+          "age": 74,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "HOUTEER",
+          "prenom": "Justine",
+          "nom_complet": "Justine HOUTEER",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "VERKARRE",
+          "prenom": "René",
+          "nom_complet": "René VERKARRE",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "23"
+        },
+        {
+          "nom": "LECOUSTRE",
+          "prenom": "Patricia",
+          "nom_complet": "Patricia LECOUSTRE",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "24"
+        },
+        {
+          "nom": "JOLY",
+          "prenom": "Jean-Baptiste",
+          "nom_complet": "Jean-Baptiste JOLY",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "25"
+        },
+        {
+          "nom": "DEWET",
+          "prenom": "Anaëlle",
+          "nom_complet": "Anaëlle DEWET",
+          "sexe": "F",
+          "age": 33,
+          "rang_liste": "26"
+        },
+        {
+          "nom": "SCHUPPE",
+          "prenom": "Fabrice",
+          "nom_complet": "Fabrice SCHUPPE",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "27"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "UN NOUVEAU CAP POUR GUÎNES",
+      "libelle_abrege_liste": "UN NOUVEAU CAP POUR GUÎNES",
+      "nuance_liste": "LRN",
+      "voix": 414,
+      "pct_voix_exprimes": 16.9,
+      "sieges_cm": 2,
+      "sieges_cc": 1,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "FASQUELLE",
+        "prenom": "Cédric",
+        "nom_complet": "Cédric FASQUELLE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "FASQUELLE",
+          "prenom": "Cédric",
+          "nom_complet": "Cédric FASQUELLE",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "MORELLE",
+          "prenom": "Pascale",
+          "nom_complet": "Pascale MORELLE",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

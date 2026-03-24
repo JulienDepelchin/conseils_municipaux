@@ -1,0 +1,163 @@
+{
+  "code_commune": "62123",
+  "commune": "Beussent",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "GUERVILLE",
+    "prenom": "Samuel",
+    "nom_complet": "Samuel GUERVILLE",
+    "age": 54,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 401,
+    "votants": 264,
+    "pct_votants": 65.84,
+    "abstentions": 137,
+    "pct_abstentions": 34.16,
+    "exprimes": 207
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Un village qui avance, avec vous en confiance",
+      "libelle_abrege_liste": "Un village qui avance, avec vous en confiance",
+      "nuance_liste": null,
+      "voix": 207,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "GUERVILLE",
+        "prenom": "Samuel",
+        "nom_complet": "Samuel GUERVILLE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "GUERVILLE",
+          "prenom": "Samuel",
+          "nom_complet": "Samuel GUERVILLE",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "SERGENT",
+          "prenom": "Lucie",
+          "nom_complet": "Lucie SERGENT",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LIGNIER",
+          "prenom": "Johann",
+          "nom_complet": "Johann LIGNIER",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "VASSEUR",
+          "prenom": "Maëlle",
+          "nom_complet": "Maëlle VASSEUR",
+          "sexe": "F",
+          "age": 26,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "SAMIEZ",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno SAMIEZ",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "CUISSOT",
+          "prenom": "Myriam",
+          "nom_complet": "Myriam CUISSOT",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "VIGNERON",
+          "prenom": "Christian",
+          "nom_complet": "Christian VIGNERON",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "FASQUEL",
+          "prenom": "Maud",
+          "nom_complet": "Maud FASQUEL",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "LEVIEL",
+          "prenom": "Denis",
+          "nom_complet": "Denis LEVIEL",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "GOLLIOT",
+          "prenom": "Sophie",
+          "nom_complet": "Sophie GOLLIOT",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "SEILLIER",
+          "prenom": "Jonathan",
+          "nom_complet": "Jonathan SEILLIER",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "BRUNELLE",
+          "prenom": "Isaline",
+          "nom_complet": "Isaline BRUNELLE",
+          "sexe": "F",
+          "age": 29,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "DEHONDT",
+          "prenom": "Julien",
+          "nom_complet": "Julien DEHONDT",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "BELLET LEPLAT",
+          "prenom": "Catherine",
+          "nom_complet": "Catherine BELLET LEPLAT",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "LEROUGE",
+          "prenom": "Geoffrey",
+          "nom_complet": "Geoffrey LEROUGE",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

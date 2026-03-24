@@ -1,0 +1,275 @@
+{
+  "code_commune": "59136",
+  "commune": "Le Cateau-Cambrésis",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "SIMÉON",
+    "prenom": "Serge",
+    "nom_complet": "Serge SIMÉON",
+    "age": 73,
+    "nuance": "LDVC"
+  },
+  "resultats": {
+    "inscrits": 4214,
+    "votants": 1796,
+    "pct_votants": 42.62,
+    "abstentions": 2418,
+    "pct_abstentions": 57.38,
+    "exprimes": 1441
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ENSEMBLE POUR LE CATEAU",
+      "libelle_abrege_liste": "ENSEMBLE POUR LE CATEAU",
+      "nuance_liste": "LDVC",
+      "voix": 1441,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 29,
+      "sieges_cc": 7,
+      "nb_elus": 29,
+      "tete_de_liste": {
+        "nom": "SIMÉON",
+        "prenom": "Serge",
+        "nom_complet": "Serge SIMÉON",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "SIMÉON",
+          "prenom": "Serge",
+          "nom_complet": "Serge SIMÉON",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "MANESSE",
+          "prenom": "Joëlle",
+          "nom_complet": "Joëlle MANESSE",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DESCAMPS",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier DESCAMPS",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "CLERC",
+          "prenom": "Fanny",
+          "nom_complet": "Fanny CLERC",
+          "sexe": "F",
+          "age": 21,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "SIMÉON",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas SIMÉON",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "THEBERT",
+          "prenom": "Chloé",
+          "nom_complet": "Chloé THEBERT",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "MANNEL",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno MANNEL",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "PINHEIRO",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie PINHEIRO",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DAVOINE",
+          "prenom": "Matthieu",
+          "nom_complet": "Matthieu DAVOINE",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "LESAGE",
+          "prenom": "Céline",
+          "nom_complet": "Céline LESAGE",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "PORCHERET",
+          "prenom": "Didier",
+          "nom_complet": "Didier PORCHERET",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "LEFORT",
+          "prenom": "Lydie",
+          "nom_complet": "Lydie LEFORT",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "CARPENTIER-RUELLE",
+          "prenom": "Fabien",
+          "nom_complet": "Fabien CARPENTIER-RUELLE",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "DEMARBAIX",
+          "prenom": "Angélique",
+          "nom_complet": "Angélique DEMARBAIX",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "VITASSE",
+          "prenom": "Dimitri",
+          "nom_complet": "Dimitri VITASSE",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "VREVIN",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie VREVIN",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "DRUENNE",
+          "prenom": "Guy",
+          "nom_complet": "Guy DRUENNE",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "JORION",
+          "prenom": "Séverine",
+          "nom_complet": "Séverine JORION",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "BIHANGOU BOUMBA",
+          "prenom": "André",
+          "nom_complet": "André BIHANGOU BOUMBA",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "VENDEVILLE",
+          "prenom": "Sophie",
+          "nom_complet": "Sophie VENDEVILLE",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "DAVOINE",
+          "prenom": "Guillaume",
+          "nom_complet": "Guillaume DAVOINE",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "BELLIN",
+          "prenom": "Sophie",
+          "nom_complet": "Sophie BELLIN",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "FERNEZ",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe FERNEZ",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "23"
+        },
+        {
+          "nom": "PLATEAUX",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie PLATEAUX",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "24"
+        },
+        {
+          "nom": "LACOMBLED",
+          "prenom": "Bryan",
+          "nom_complet": "Bryan LACOMBLED",
+          "sexe": "M",
+          "age": 21,
+          "rang_liste": "25"
+        },
+        {
+          "nom": "LAFFUT",
+          "prenom": "Bernadette",
+          "nom_complet": "Bernadette LAFFUT",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "26"
+        },
+        {
+          "nom": "PANTEGNIES",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal PANTEGNIES",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "27"
+        },
+        {
+          "nom": "CAMPIN",
+          "prenom": "Françoise",
+          "nom_complet": "Françoise CAMPIN",
+          "sexe": "F",
+          "age": 77,
+          "rang_liste": "28"
+        },
+        {
+          "nom": "MORIAU",
+          "prenom": "Jean-Pascal",
+          "nom_complet": "Jean-Pascal MORIAU",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "29"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

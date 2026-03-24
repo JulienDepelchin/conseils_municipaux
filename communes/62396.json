@@ -1,0 +1,99 @@
+{
+  "code_commune": "62396",
+  "commune": "Guinecourt",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "VISCHERY",
+    "prenom": "Léon",
+    "nom_complet": "Léon VISCHERY",
+    "age": 79,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 12,
+    "votants": 11,
+    "pct_votants": 91.67,
+    "abstentions": 1,
+    "pct_abstentions": 8.33,
+    "exprimes": 11
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "SAUVONS GUINECOURT",
+      "libelle_abrege_liste": "SAUVONS GUINECOURT",
+      "nuance_liste": null,
+      "voix": 11,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 7,
+      "sieges_cc": null,
+      "nb_elus": 7,
+      "tete_de_liste": {
+        "nom": "VISCHERY",
+        "prenom": "Léon",
+        "nom_complet": "Léon VISCHERY",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "VISCHERY",
+          "prenom": "Léon",
+          "nom_complet": "Léon VISCHERY",
+          "sexe": "M",
+          "age": 79,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "THELLIER",
+          "prenom": "Régine",
+          "nom_complet": "Régine THELLIER",
+          "sexe": "F",
+          "age": 73,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BOCHU",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal BOCHU",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BOCHU",
+          "prenom": "Peggy",
+          "nom_complet": "Peggy BOCHU",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "PETIT",
+          "prenom": "Jean-Marie",
+          "nom_complet": "Jean-Marie PETIT",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "VISCHERY",
+          "prenom": "Régine",
+          "nom_complet": "Régine VISCHERY",
+          "sexe": "F",
+          "age": 79,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "THELLIER",
+          "prenom": "Alain",
+          "nom_complet": "Alain THELLIER",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "7"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

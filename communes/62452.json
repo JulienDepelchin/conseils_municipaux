@@ -1,0 +1,163 @@
+{
+  "code_commune": "62452",
+  "commune": "Heuringhem",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "DEGREMONT",
+    "prenom": "Stéphane",
+    "nom_complet": "Stéphane DEGREMONT",
+    "age": 43,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1172,
+    "votants": 788,
+    "pct_votants": 67.24,
+    "abstentions": 384,
+    "pct_abstentions": 32.76,
+    "exprimes": 677
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "HEURINGHEM, NOTRE VILLAGE, NOTRE AVENIR",
+      "libelle_abrege_liste": "HEURINGHEM, NOTRE VILLAGE, NOTRE AVENIR",
+      "nuance_liste": null,
+      "voix": 677,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": 1,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "DEGREMONT",
+        "prenom": "Stéphane",
+        "nom_complet": "Stéphane DEGREMONT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DEGREMONT",
+          "prenom": "Stéphane",
+          "nom_complet": "Stéphane DEGREMONT",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "VERNE",
+          "prenom": "Valérie",
+          "nom_complet": "Valérie VERNE",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DESBROSSE",
+          "prenom": "Paul-Henri",
+          "nom_complet": "Paul-Henri DESBROSSE",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "FLORET",
+          "prenom": "Danny",
+          "nom_complet": "Danny FLORET",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DUBOIS",
+          "prenom": "Stéphane",
+          "nom_complet": "Stéphane DUBOIS",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DENAES",
+          "prenom": "Edith",
+          "nom_complet": "Edith DENAES",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DERLY",
+          "prenom": "Charles",
+          "nom_complet": "Charles DERLY",
+          "sexe": "M",
+          "age": 33,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DELRUE",
+          "prenom": "Laëtitia",
+          "nom_complet": "Laëtitia DELRUE",
+          "sexe": "F",
+          "age": 33,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "CAZIER",
+          "prenom": "Marc",
+          "nom_complet": "Marc CAZIER",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "ANGELIQUE",
+          "prenom": "Laura",
+          "nom_complet": "Laura ANGELIQUE",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "MEURICE",
+          "prenom": "Didier",
+          "nom_complet": "Didier MEURICE",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "MAY",
+          "prenom": "Camille",
+          "nom_complet": "Camille MAY",
+          "sexe": "F",
+          "age": 27,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "CHIVET",
+          "prenom": "Sylvain",
+          "nom_complet": "Sylvain CHIVET",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "CALIN",
+          "prenom": "Cinthia",
+          "nom_complet": "Cinthia CALIN",
+          "sexe": "F",
+          "age": 20,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "BOMMELAERE",
+          "prenom": "Maxence",
+          "nom_complet": "Maxence BOMMELAERE",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

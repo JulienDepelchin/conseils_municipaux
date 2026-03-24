@@ -1,0 +1,163 @@
+{
+  "code_commune": "62613",
+  "commune": "Nielles-lès-Bléquin",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "LEROY",
+    "prenom": "Isabelle",
+    "nom_complet": "Isabelle LEROY",
+    "age": 54,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 628,
+    "votants": 435,
+    "pct_votants": 69.27,
+    "abstentions": 193,
+    "pct_abstentions": 30.73,
+    "exprimes": 344
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Nielles avenir...continuons ensemble!",
+      "libelle_abrege_liste": "Nielles avenir...continuons ensemble!",
+      "nuance_liste": null,
+      "voix": 344,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "LEROY",
+        "prenom": "Isabelle",
+        "nom_complet": "Isabelle LEROY",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "LEROY",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle LEROY",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DUCROCQ",
+          "prenom": "Benoît",
+          "nom_complet": "Benoît DUCROCQ",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BODART",
+          "prenom": "Roselyne",
+          "nom_complet": "Roselyne BODART",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "SETAN",
+          "prenom": "Luc",
+          "nom_complet": "Luc SETAN",
+          "sexe": "M",
+          "age": 74,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "CARON",
+          "prenom": "Céline",
+          "nom_complet": "Céline CARON",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LEMORT",
+          "prenom": "Joël",
+          "nom_complet": "Joël LEMORT",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DENEUVILLE",
+          "prenom": "Dorothée",
+          "nom_complet": "Dorothée DENEUVILLE",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LAWUY",
+          "prenom": "Eric",
+          "nom_complet": "Eric LAWUY",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "MERLIER",
+          "prenom": "Charlotte",
+          "nom_complet": "Charlotte MERLIER",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "FORESTIER",
+          "prenom": "Benoit",
+          "nom_complet": "Benoit FORESTIER",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DUFOUR",
+          "prenom": "Véronique",
+          "nom_complet": "Véronique DUFOUR",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "HANNON",
+          "prenom": "Julien",
+          "nom_complet": "Julien HANNON",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "VENIEL",
+          "prenom": "Corentine",
+          "nom_complet": "Corentine VENIEL",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "DUCROCQ",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent DUCROCQ",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "RETAUX",
+          "prenom": "Aurélie",
+          "nom_complet": "Aurélie RETAUX",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "code_commune": "62312",
+  "commune": "Estrée",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "BRIET",
+    "prenom": "Marc",
+    "nom_complet": "Marc BRIET",
+    "age": 71,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 230,
+    "votants": 150,
+    "pct_votants": 65.22,
+    "abstentions": 80,
+    "pct_abstentions": 34.78,
+    "exprimes": 126
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ESTREE : CONTINUITE ET AVENIR",
+      "libelle_abrege_liste": "ESTREE : CONTINUITE ET AVENIR",
+      "nuance_liste": null,
+      "voix": 126,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "BRIET",
+        "prenom": "Marc",
+        "nom_complet": "Marc BRIET",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BRIET",
+          "prenom": "Marc",
+          "nom_complet": "Marc BRIET",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "CIESIOLKA",
+          "prenom": "Marion",
+          "nom_complet": "Marion CIESIOLKA",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "COCATRIX",
+          "prenom": "Michel",
+          "nom_complet": "Michel COCATRIX",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "MACREZ",
+          "prenom": "Charlésia",
+          "nom_complet": "Charlésia MACREZ",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "GOUDALLE",
+          "prenom": "Antoine",
+          "nom_complet": "Antoine GOUDALLE",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LEROY",
+          "prenom": "Nadine",
+          "nom_complet": "Nadine LEROY",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "GYRE",
+          "prenom": "Thomas",
+          "nom_complet": "Thomas GYRE",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "BELEMBERT",
+          "prenom": "Marjorie",
+          "nom_complet": "Marjorie BELEMBERT",
+          "sexe": "F",
+          "age": 31,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "MAQUINGHEN",
+          "prenom": "Thibaud",
+          "nom_complet": "Thibaud MAQUINGHEN",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "HAUDIQUET",
+          "prenom": "Claire",
+          "nom_complet": "Claire HAUDIQUET",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "BOURIEZ",
+          "prenom": "Ludovic",
+          "nom_complet": "Ludovic BOURIEZ",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

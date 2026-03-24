@@ -1,0 +1,295 @@
+{
+  "code_commune": "62126",
+  "commune": "Beuvry",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "FIGENWALD",
+    "prenom": "Arnaud",
+    "nom_complet": "Arnaud FIGENWALD",
+    "age": 43,
+    "nuance": "LDVG"
+  },
+  "resultats": {
+    "inscrits": 6917,
+    "votants": 4079,
+    "pct_votants": 58.97,
+    "abstentions": 2838,
+    "pct_abstentions": 41.03,
+    "exprimes": 3993
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ENSEMBLE C'EST BEUVRY",
+      "libelle_abrege_liste": "ENSEMBLE C'EST BEUVRY",
+      "nuance_liste": "LDVG",
+      "voix": 2638,
+      "pct_voix_exprimes": 66.07,
+      "sieges_cm": 24,
+      "sieges_cc": 3,
+      "nb_elus": 24,
+      "tete_de_liste": {
+        "nom": "FIGENWALD",
+        "prenom": "Arnaud",
+        "nom_complet": "Arnaud FIGENWALD",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "FIGENWALD",
+          "prenom": "Arnaud",
+          "nom_complet": "Arnaud FIGENWALD",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BUQUET",
+          "prenom": "Véronique",
+          "nom_complet": "Véronique BUQUET",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BRAY",
+          "prenom": "Giovanni",
+          "nom_complet": "Giovanni BRAY",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LEVEUGLE",
+          "prenom": "Emmanuelle",
+          "nom_complet": "Emmanuelle LEVEUGLE",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "VERDOUCQ",
+          "prenom": "Gaëtan",
+          "nom_complet": "Gaëtan VERDOUCQ",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DENIS",
+          "prenom": "Charline",
+          "nom_complet": "Charline DENIS",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "FAUQUEUR",
+          "prenom": "Thierry",
+          "nom_complet": "Thierry FAUQUEUR",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "VANBERGUE",
+          "prenom": "Marie-Cécile",
+          "nom_complet": "Marie-Cécile VANBERGUE",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "GRUSON",
+          "prenom": "Maxime",
+          "nom_complet": "Maxime GRUSON",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "VAMBRE",
+          "prenom": "Laurence",
+          "nom_complet": "Laurence VAMBRE",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "LETOMBE",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe LETOMBE",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "SEMET",
+          "prenom": "Sabrina",
+          "nom_complet": "Sabrina SEMET",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "DUCHATEL",
+          "prenom": "Julien",
+          "nom_complet": "Julien DUCHATEL",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "BOURGOIS",
+          "prenom": "Lydie",
+          "nom_complet": "Lydie BOURGOIS",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "BAUDET",
+          "prenom": "Tommy",
+          "nom_complet": "Tommy BAUDET",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "BOUQUET",
+          "prenom": "Murielle",
+          "nom_complet": "Murielle BOUQUET",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "LELEU",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric LELEU",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "MOULIN",
+          "prenom": "Sandrine",
+          "nom_complet": "Sandrine MOULIN",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "MACKE",
+          "prenom": "Gérard",
+          "nom_complet": "Gérard MACKE",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "SADIKI",
+          "prenom": "Sandra",
+          "nom_complet": "Sandra SADIKI",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "CUISINIER",
+          "prenom": "Antoine",
+          "nom_complet": "Antoine CUISINIER",
+          "sexe": "M",
+          "age": 32,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "BOULANGER",
+          "prenom": "Virginie",
+          "nom_complet": "Virginie BOULANGER",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "ZUCHUAT",
+          "prenom": "Hervé",
+          "nom_complet": "Hervé ZUCHUAT",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "23"
+        },
+        {
+          "nom": "DUQUESNE",
+          "prenom": "Marie-Claude",
+          "nom_complet": "Marie-Claude DUQUESNE",
+          "sexe": "F",
+          "age": 74,
+          "rang_liste": "24"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "BEUVRY VILLE D'AVENIR VILLE POUR TOUS",
+      "libelle_abrege_liste": "BEUVRY VILLE D'AVENIR VILLE POUR TOUS",
+      "nuance_liste": "LRN",
+      "voix": 1355,
+      "pct_voix_exprimes": 33.93,
+      "sieges_cm": 5,
+      "sieges_cc": 1,
+      "nb_elus": 5,
+      "tete_de_liste": {
+        "nom": "DUHAUT",
+        "prenom": "Mickael",
+        "nom_complet": "Mickael DUHAUT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DUHAUT",
+          "prenom": "Mickael",
+          "nom_complet": "Mickael DUHAUT",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DUHAUT",
+          "prenom": "Christelle",
+          "nom_complet": "Christelle DUHAUT",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BECQUET",
+          "prenom": "Sylvain",
+          "nom_complet": "Sylvain BECQUET",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "RUTHMANN",
+          "prenom": "Gaëlle",
+          "nom_complet": "Gaëlle RUTHMANN",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "HARLET",
+          "prenom": "Sergio",
+          "nom_complet": "Sergio HARLET",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "5"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

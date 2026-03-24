@@ -1,0 +1,131 @@
+{
+  "code_commune": "62492",
+  "commune": "Lebiez",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "LEGRAND",
+    "prenom": "Pascal",
+    "nom_complet": "Pascal LEGRAND",
+    "age": 72,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 160,
+    "votants": 124,
+    "pct_votants": 77.5,
+    "abstentions": 36,
+    "pct_abstentions": 22.5,
+    "exprimes": 78
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ENSEMBLE A L'ACTION POUR LEBIEZ",
+      "libelle_abrege_liste": "ENSEMBLE A L'ACTION POUR LEBIEZ",
+      "nuance_liste": null,
+      "voix": 78,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "LEGRAND",
+        "prenom": "Pascal",
+        "nom_complet": "Pascal LEGRAND",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LEGRAND",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal LEGRAND",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "FRANCOIS",
+          "prenom": "Beatrice",
+          "nom_complet": "Beatrice FRANCOIS",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "VERGNIER",
+          "prenom": "Jerome",
+          "nom_complet": "Jerome VERGNIER",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DUMOND",
+          "prenom": "Brigitte",
+          "nom_complet": "Brigitte DUMOND",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "BIENAIME",
+          "prenom": "Henri",
+          "nom_complet": "Henri BIENAIME",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "BAHEU",
+          "prenom": "Faustine",
+          "nom_complet": "Faustine BAHEU",
+          "sexe": "F",
+          "age": 26,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BRANQUART",
+          "prenom": "Francois",
+          "nom_complet": "Francois BRANQUART",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "BULTEAU",
+          "prenom": "Lydie",
+          "nom_complet": "Lydie BULTEAU",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DARSY",
+          "prenom": "Samuel",
+          "nom_complet": "Samuel DARSY",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "NORMAND",
+          "prenom": "Anne",
+          "nom_complet": "Anne NORMAND",
+          "sexe": "F",
+          "age": 24,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "SCHERPEREL",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal SCHERPEREL",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

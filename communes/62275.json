@@ -1,0 +1,151 @@
+{
+  "code_commune": "62275",
+  "commune": "Douriez",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "GRUMEZ",
+    "prenom": "Lucie",
+    "nom_complet": "Lucie GRUMEZ",
+    "age": 36,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 238,
+    "votants": 184,
+    "pct_votants": 77.31,
+    "abstentions": 54,
+    "pct_abstentions": 22.69,
+    "exprimes": 183
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "DOURIEZ ENSEMBLE",
+      "libelle_abrege_liste": "DOURIEZ ENSEMBLE",
+      "nuance_liste": null,
+      "voix": 99,
+      "pct_voix_exprimes": 54.1,
+      "sieges_cm": 9,
+      "sieges_cc": null,
+      "nb_elus": 9,
+      "tete_de_liste": {
+        "nom": "GRUMEZ",
+        "prenom": "Lucie",
+        "nom_complet": "Lucie GRUMEZ",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "GRUMEZ",
+          "prenom": "Lucie",
+          "nom_complet": "Lucie GRUMEZ",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "GRADEL",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe GRADEL",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "MURRU",
+          "prenom": "Maria-Pierre",
+          "nom_complet": "Maria-Pierre MURRU",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LOUCHEZ",
+          "prenom": "Clément",
+          "nom_complet": "Clément LOUCHEZ",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "MARGOLLÉ",
+          "prenom": "Laurie",
+          "nom_complet": "Laurie MARGOLLÉ",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "CARPENTIER",
+          "prenom": "Cyril",
+          "nom_complet": "Cyril CARPENTIER",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DENIVELLE",
+          "prenom": "Cathy",
+          "nom_complet": "Cathy DENIVELLE",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DESOOMER",
+          "prenom": "Jean-Jacques",
+          "nom_complet": "Jean-Jacques DESOOMER",
+          "sexe": "M",
+          "age": 30,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "COCHON",
+          "prenom": "Fabienne",
+          "nom_complet": "Fabienne COCHON",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "9"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "AGIR ENSEMBLE POUR DOURIEZ",
+      "libelle_abrege_liste": "AGIR ENSEMBLE POUR DOURIEZ",
+      "nuance_liste": null,
+      "voix": 84,
+      "pct_voix_exprimes": 45.9,
+      "sieges_cm": 2,
+      "sieges_cc": null,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "PAILLART",
+        "prenom": "Karl",
+        "nom_complet": "Karl PAILLART",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "PAILLART",
+          "prenom": "Karl",
+          "nom_complet": "Karl PAILLART",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LEGRAND",
+          "prenom": "Marie-Christine",
+          "nom_complet": "Marie-Christine LEGRAND",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

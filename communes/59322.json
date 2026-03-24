@@ -1,0 +1,247 @@
+{
+  "code_commune": "59322",
+  "commune": "Iwuy",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "POTEAU",
+    "prenom": "Daniel",
+    "nom_complet": "Daniel POTEAU",
+    "age": 63,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 2563,
+    "votants": 1645,
+    "pct_votants": 64.18,
+    "abstentions": 918,
+    "pct_abstentions": 35.82,
+    "exprimes": 1587
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ENTENTE ET PROGRES SOCIAL",
+      "libelle_abrege_liste": "ENTENTE ET PROGRES SOCIAL",
+      "nuance_liste": null,
+      "voix": 1016,
+      "pct_voix_exprimes": 64.02,
+      "sieges_cm": 19,
+      "sieges_cc": 2,
+      "nb_elus": 19,
+      "tete_de_liste": {
+        "nom": "POTEAU",
+        "prenom": "Daniel",
+        "nom_complet": "Daniel POTEAU",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "POTEAU",
+          "prenom": "Daniel",
+          "nom_complet": "Daniel POTEAU",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DUPUIS",
+          "prenom": "Emilie",
+          "nom_complet": "Emilie DUPUIS",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "PIAT",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe PIAT",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DUBOIS",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie DUBOIS",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "ETUIN",
+          "prenom": "Jean-Pierre",
+          "nom_complet": "Jean-Pierre ETUIN",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "SAUTIER",
+          "prenom": "Marie-France",
+          "nom_complet": "Marie-France SAUTIER",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "POULAIN",
+          "prenom": "Gérard",
+          "nom_complet": "Gérard POULAIN",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "HOLIN",
+          "prenom": "Marie-Cécile",
+          "nom_complet": "Marie-Cécile HOLIN",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "PAYEN",
+          "prenom": "Michel",
+          "nom_complet": "Michel PAYEN",
+          "sexe": "M",
+          "age": 80,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "POTEAU",
+          "prenom": "Sonia",
+          "nom_complet": "Sonia POTEAU",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "CHAPADO",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe CHAPADO",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "SLOMIANY",
+          "prenom": "Nicole",
+          "nom_complet": "Nicole SLOMIANY",
+          "sexe": "F",
+          "age": 79,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "BOURGEOIS",
+          "prenom": "Vincent",
+          "nom_complet": "Vincent BOURGEOIS",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "DEMAILLY",
+          "prenom": "Angélique",
+          "nom_complet": "Angélique DEMAILLY",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "LEFEBVRE",
+          "prenom": "Franck",
+          "nom_complet": "Franck LEFEBVRE",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "GARDEZ",
+          "prenom": "Annie",
+          "nom_complet": "Annie GARDEZ",
+          "sexe": "F",
+          "age": 74,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "DHERBECOURT",
+          "prenom": "Daniel",
+          "nom_complet": "Daniel DHERBECOURT",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "CORTINOVIS",
+          "prenom": "Delphine",
+          "nom_complet": "Delphine CORTINOVIS",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "COLLET",
+          "prenom": "Johan",
+          "nom_complet": "Johan COLLET",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "19"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "IWUY AVEC VOUS ET POUR VOUS!",
+      "libelle_abrege_liste": "IWUY AVEC VOUS ET POUR VOUS!",
+      "nuance_liste": null,
+      "voix": 571,
+      "pct_voix_exprimes": 35.98,
+      "sieges_cm": 4,
+      "sieges_cc": 1,
+      "nb_elus": 4,
+      "tete_de_liste": {
+        "nom": "GUSTIN",
+        "prenom": "Pascal",
+        "nom_complet": "Pascal GUSTIN",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "GUSTIN",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal GUSTIN",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BILLOIR",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie BILLOIR",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "OLIVIER",
+          "prenom": "Maximilien",
+          "nom_complet": "Maximilien OLIVIER",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "HUPEZ",
+          "prenom": "Sandrine",
+          "nom_complet": "Sandrine HUPEZ",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "4"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

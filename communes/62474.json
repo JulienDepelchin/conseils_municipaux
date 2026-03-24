@@ -1,0 +1,163 @@
+{
+  "code_commune": "62474",
+  "commune": "Isques",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "DUMAINE",
+    "prenom": "Bertrand",
+    "nom_complet": "Bertrand DUMAINE",
+    "age": 58,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 910,
+    "votants": 491,
+    "pct_votants": 53.96,
+    "abstentions": 419,
+    "pct_abstentions": 46.04,
+    "exprimes": 440
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ENSEMBLE POUR ISQUES",
+      "libelle_abrege_liste": "ENSEMBLE POUR ISQUES",
+      "nuance_liste": null,
+      "voix": 440,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": 1,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "DUMAINE",
+        "prenom": "Bertrand",
+        "nom_complet": "Bertrand DUMAINE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DUMAINE",
+          "prenom": "Bertrand",
+          "nom_complet": "Bertrand DUMAINE",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "CARON",
+          "prenom": "Brigitte",
+          "nom_complet": "Brigitte CARON",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "GUCHE",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick GUCHE",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DETOUT",
+          "prenom": "Annette",
+          "nom_complet": "Annette DETOUT",
+          "sexe": "F",
+          "age": 70,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DEVIGNE",
+          "prenom": "Jean-Louis",
+          "nom_complet": "Jean-Louis DEVIGNE",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "BECARD",
+          "prenom": "Sonia",
+          "nom_complet": "Sonia BECARD",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "KEDADRA",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier KEDADRA",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "SORET",
+          "prenom": "Gaëlle",
+          "nom_complet": "Gaëlle SORET",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "TRIQUET",
+          "prenom": "Bernard",
+          "nom_complet": "Bernard TRIQUET",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DENIS",
+          "prenom": "Catherine",
+          "nom_complet": "Catherine DENIS",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DELCLOQUE",
+          "prenom": "Michel",
+          "nom_complet": "Michel DELCLOQUE",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "LEGRAND",
+          "prenom": "Lise",
+          "nom_complet": "Lise LEGRAND",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "LECLERCQ",
+          "prenom": "Steven",
+          "nom_complet": "Steven LECLERCQ",
+          "sexe": "M",
+          "age": 31,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "MESTRE",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie MESTRE",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "MAILLARD",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno MAILLARD",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

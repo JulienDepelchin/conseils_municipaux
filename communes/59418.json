@@ -1,0 +1,215 @@
+{
+  "code_commune": "59418",
+  "commune": "Mortagne-du-Nord",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "LUMET",
+    "prenom": "Danielle",
+    "nom_complet": "Danielle LUMET",
+    "age": 78,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1094,
+    "votants": 673,
+    "pct_votants": 61.52,
+    "abstentions": 421,
+    "pct_abstentions": 38.48,
+    "exprimes": 664
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "ENSEMBLE MORTAGNE VERS L'AVENIR",
+      "libelle_abrege_liste": "ENSEMBLE MORTAGNE VERS L'AVENIR",
+      "nuance_liste": null,
+      "voix": 444,
+      "pct_voix_exprimes": 66.87,
+      "sieges_cm": 16,
+      "sieges_cc": 1,
+      "nb_elus": 16,
+      "tete_de_liste": {
+        "nom": "LUMET",
+        "prenom": "Danielle",
+        "nom_complet": "Danielle LUMET",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "LUMET",
+          "prenom": "Danielle",
+          "nom_complet": "Danielle LUMET",
+          "sexe": "F",
+          "age": 78,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LETELLIER",
+          "prenom": "Ryan",
+          "nom_complet": "Ryan LETELLIER",
+          "sexe": "M",
+          "age": 27,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "GAHIDE",
+          "prenom": "Clarisse",
+          "nom_complet": "Clarisse GAHIDE",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "OCHIN",
+          "prenom": "Jean-Luc",
+          "nom_complet": "Jean-Luc OCHIN",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "CHOQUET",
+          "prenom": "Emilie",
+          "nom_complet": "Emilie CHOQUET",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "TROYKENS",
+          "prenom": "Jean-Paul",
+          "nom_complet": "Jean-Paul TROYKENS",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "LOUVIEAUX",
+          "prenom": "Carole",
+          "nom_complet": "Carole LOUVIEAUX",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "MIROUX",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier MIROUX",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "PARVAIS",
+          "prenom": "Elodie",
+          "nom_complet": "Elodie PARVAIS",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "CAPIN",
+          "prenom": "Eric",
+          "nom_complet": "Eric CAPIN",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "RAIMONDI",
+          "prenom": "Delphine",
+          "nom_complet": "Delphine RAIMONDI",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "DENIS",
+          "prenom": "Bertrand",
+          "nom_complet": "Bertrand DENIS",
+          "sexe": "M",
+          "age": 33,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "VALINDUCQ",
+          "prenom": "Angelique",
+          "nom_complet": "Angelique VALINDUCQ",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "LEHEMBRE",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier LEHEMBRE",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "VERBRUGGHE",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie VERBRUGGHE",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "SIMEONI",
+          "prenom": "Eric",
+          "nom_complet": "Eric SIMEONI",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "16"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Liste d'Union Mortagne @utrement",
+      "libelle_abrege_liste": "LUM@",
+      "nuance_liste": null,
+      "voix": 220,
+      "pct_voix_exprimes": 33.13,
+      "sieges_cm": 3,
+      "sieges_cc": 0,
+      "nb_elus": 3,
+      "tete_de_liste": {
+        "nom": "QUIÉVY",
+        "prenom": "Michel",
+        "nom_complet": "Michel QUIÉVY",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "QUIÉVY",
+          "prenom": "Michel",
+          "nom_complet": "Michel QUIÉVY",
+          "sexe": "M",
+          "age": 75,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "HAYEZ",
+          "prenom": "Catherine",
+          "nom_complet": "Catherine HAYEZ",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LENGACHER",
+          "prenom": "Sullivan",
+          "nom_complet": "Sullivan LENGACHER",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "3"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

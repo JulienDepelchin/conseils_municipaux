@@ -1,0 +1,163 @@
+{
+  "code_commune": "62634",
+  "commune": "Offekerque",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "BEAUFILS",
+    "prenom": "Clotilde",
+    "nom_complet": "Clotilde BEAUFILS",
+    "age": 61,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 981,
+    "votants": 561,
+    "pct_votants": 57.19,
+    "abstentions": 420,
+    "pct_abstentions": 42.81,
+    "exprimes": 481
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Agir ensemble pour Offekerque",
+      "libelle_abrege_liste": "Agir ensemble pour Offekerque",
+      "nuance_liste": null,
+      "voix": 481,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": 2,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "BEAUFILS",
+        "prenom": "Clotilde",
+        "nom_complet": "Clotilde BEAUFILS",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "BEAUFILS",
+          "prenom": "Clotilde",
+          "nom_complet": "Clotilde BEAUFILS",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LOUCHEZ",
+          "prenom": "Jacques",
+          "nom_complet": "Jacques LOUCHEZ",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "CHEVALIER",
+          "prenom": "Sandrine",
+          "nom_complet": "Sandrine CHEVALIER",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DUBUIS",
+          "prenom": "Claude",
+          "nom_complet": "Claude DUBUIS",
+          "sexe": "M",
+          "age": 79,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "SENICOURT",
+          "prenom": "Hélène",
+          "nom_complet": "Hélène SENICOURT",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "HOCHART",
+          "prenom": "Rénald",
+          "nom_complet": "Rénald HOCHART",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "GOURDIN",
+          "prenom": "Blandine",
+          "nom_complet": "Blandine GOURDIN",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LIGNY",
+          "prenom": "Sylvain",
+          "nom_complet": "Sylvain LIGNY",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "CLIPET",
+          "prenom": "Jacqueline",
+          "nom_complet": "Jacqueline CLIPET",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "LENGLET",
+          "prenom": "Sébastien",
+          "nom_complet": "Sébastien LENGLET",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "VAESKEN",
+          "prenom": "Karine",
+          "nom_complet": "Karine VAESKEN",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "DELANNOY",
+          "prenom": "Gauthier",
+          "nom_complet": "Gauthier DELANNOY",
+          "sexe": "M",
+          "age": 32,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "VERDIER",
+          "prenom": "Camille",
+          "nom_complet": "Camille VERDIER",
+          "sexe": "F",
+          "age": 33,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "JOLY",
+          "prenom": "Noa",
+          "nom_complet": "Noa JOLY",
+          "sexe": "M",
+          "age": 19,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "CODEVELLE",
+          "prenom": "Annaël",
+          "nom_complet": "Annaël CODEVELLE",
+          "sexe": "F",
+          "age": 26,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

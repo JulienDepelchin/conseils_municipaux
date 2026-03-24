@@ -1,0 +1,377 @@
+{
+  "code_commune": "59172",
+  "commune": "Denain",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "DUFOUR-TONINI",
+    "prenom": "Anne-Lise",
+    "nom_complet": "Anne-Lise DUFOUR-TONINI",
+    "age": 56,
+    "nuance": "LSOC"
+  },
+  "resultats": {
+    "inscrits": 12145,
+    "votants": 6141,
+    "pct_votants": 50.56,
+    "abstentions": 6004,
+    "pct_abstentions": 49.44,
+    "exprimes": 6067
+  },
+  "listes": [
+    {
+      "num_panneau": "4",
+      "libelle_liste": "FIERS D'ÊTRE DENAISIENS",
+      "libelle_abrege_liste": "FIERS D'ÊTRE DENAISIENS",
+      "nuance_liste": "LSOC",
+      "voix": 3781,
+      "pct_voix_exprimes": 62.32,
+      "sieges_cm": 29,
+      "sieges_cc": 10,
+      "nb_elus": 29,
+      "tete_de_liste": {
+        "nom": "DUFOUR-TONINI",
+        "prenom": "Anne-Lise",
+        "nom_complet": "Anne-Lise DUFOUR-TONINI",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "DUFOUR-TONINI",
+          "prenom": "Anne-Lise",
+          "nom_complet": "Anne-Lise DUFOUR-TONINI",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DERGHAL",
+          "prenom": "Akim",
+          "nom_complet": "Akim DERGHAL",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "ZEGGAR",
+          "prenom": "Ludivine",
+          "nom_complet": "Ludivine ZEGGAR",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "CHATELAIN",
+          "prenom": "Guy",
+          "nom_complet": "Guy CHATELAIN",
+          "sexe": "M",
+          "age": 75,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "MALLE",
+          "prenom": "Céline",
+          "nom_complet": "Céline MALLE",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "COTTON",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric COTTON",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "MOHAMED",
+          "prenom": "Yamina",
+          "nom_complet": "Yamina MOHAMED",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "AÂRABAT AMALOU",
+          "prenom": "Amine",
+          "nom_complet": "Amine AÂRABAT AMALOU",
+          "sexe": "M",
+          "age": 21,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "BORTOLOTTI-CARPENTIER",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie BORTOLOTTI-CARPENTIER",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "AUDIN",
+          "prenom": "David",
+          "nom_complet": "David AUDIN",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "BIREMBAUT",
+          "prenom": "Christiane",
+          "nom_complet": "Christiane BIREMBAUT",
+          "sexe": "F",
+          "age": 71,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "CHERRIER",
+          "prenom": "Emmanuel",
+          "nom_complet": "Emmanuel CHERRIER",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "CARTA",
+          "prenom": "Valérie",
+          "nom_complet": "Valérie CARTA",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "LEFEBVRE",
+          "prenom": "Francis",
+          "nom_complet": "Francis LEFEBVRE",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "DUPONT",
+          "prenom": "Nadine",
+          "nom_complet": "Nadine DUPONT",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "ZAOUI",
+          "prenom": "Lakdar",
+          "nom_complet": "Lakdar ZAOUI",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "MIRASOLA",
+          "prenom": "Catherine",
+          "nom_complet": "Catherine MIRASOLA",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "SCHUTZ",
+          "prenom": "Wassim",
+          "nom_complet": "Wassim SCHUTZ",
+          "sexe": "M",
+          "age": 18,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "METRAU",
+          "prenom": "Rania",
+          "nom_complet": "Rania METRAU",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "DAUMERIE",
+          "prenom": "Gérard",
+          "nom_complet": "Gérard DAUMERIE",
+          "sexe": "M",
+          "age": 75,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "GENELLE-GILBERT",
+          "prenom": "Émilie",
+          "nom_complet": "Émilie GENELLE-GILBERT",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "DUCHEMIN",
+          "prenom": "Sébastien",
+          "nom_complet": "Sébastien DUCHEMIN",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "RYSPERT",
+          "prenom": "Rosa-Marie",
+          "nom_complet": "Rosa-Marie RYSPERT",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "23"
+        },
+        {
+          "nom": "SANCHEZ",
+          "prenom": "Thomas",
+          "nom_complet": "Thomas SANCHEZ",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "24"
+        },
+        {
+          "nom": "THUROTTE",
+          "prenom": "Elisabeth",
+          "nom_complet": "Elisabeth THUROTTE",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "25"
+        },
+        {
+          "nom": "ESPALIEU",
+          "prenom": "Jean-François",
+          "nom_complet": "Jean-François ESPALIEU",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "26"
+        },
+        {
+          "nom": "BOUCHEZ",
+          "prenom": "Rachel",
+          "nom_complet": "Rachel BOUCHEZ",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "27"
+        },
+        {
+          "nom": "DELOBE",
+          "prenom": "Christian",
+          "nom_complet": "Christian DELOBE",
+          "sexe": "M",
+          "age": 78,
+          "rang_liste": "28"
+        },
+        {
+          "nom": "THOMAS",
+          "prenom": "Fabienne",
+          "nom_complet": "Fabienne THOMAS",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "29"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "3",
+      "libelle_liste": "NOUS SOMMES DENAIN !",
+      "libelle_abrege_liste": "NOUS SOMMES DENAIN !",
+      "nuance_liste": "LRN",
+      "voix": 1501,
+      "pct_voix_exprimes": 24.74,
+      "sieges_cm": 4,
+      "sieges_cc": 1,
+      "nb_elus": 4,
+      "tete_de_liste": {
+        "nom": "HOCHART",
+        "prenom": "Joshua",
+        "nom_complet": "Joshua HOCHART",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "HOCHART",
+          "prenom": "Joshua",
+          "nom_complet": "Joshua HOCHART",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "WATTEAU",
+          "prenom": "Anne-Sophie",
+          "nom_complet": "Anne-Sophie WATTEAU",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BRAILLY",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric BRAILLY",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BOUILLEZ",
+          "prenom": "Séverine",
+          "nom_complet": "Séverine BOUILLEZ",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "4"
+        }
+      ],
+      "statut_conseil": "autre"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "UN NOUVEAU SOUFFLE POUR DENAIN",
+      "libelle_abrege_liste": "UN NOUVEAU SOUFFLE POUR DENAIN",
+      "nuance_liste": "LEXG",
+      "voix": 648,
+      "pct_voix_exprimes": 10.68,
+      "sieges_cm": 2,
+      "sieges_cc": 0,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "FEDDAL",
+        "prenom": "Youssouf",
+        "nom_complet": "Youssouf FEDDAL",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "FEDDAL",
+          "prenom": "Youssouf",
+          "nom_complet": "Youssouf FEDDAL",
+          "sexe": "M",
+          "age": 34,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "MESSAOUI",
+          "prenom": "Camellia",
+          "nom_complet": "Camellia MESSAOUI",
+          "sexe": "F",
+          "age": 24,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Lutte ouvrière - Le camp des travailleurs",
+      "libelle_abrege_liste": "Lutte ouvrière - Le camp des travailleurs",
+      "nuance_liste": "LEXG",
+      "voix": 137,
+      "pct_voix_exprimes": 2.26,
+      "sieges_cm": 0,
+      "sieges_cc": 0,
+      "nb_elus": 0,
+      "tete_de_liste": null,
+      "elus": [],
+      "statut_conseil": "sans_elu"
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "code_commune": "59563",
+  "commune": "Semousies",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "BEUGNIES",
+    "prenom": "Jerome",
+    "nom_complet": "Jerome BEUGNIES",
+    "age": 53,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 212,
+    "votants": 162,
+    "pct_votants": 76.42,
+    "abstentions": 50,
+    "pct_abstentions": 23.58,
+    "exprimes": 162
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "TOUS ENSEMBLE, CONTINUONS A AGIR PLUS FORT POUR SEMOUSIES",
+      "libelle_abrege_liste": "TOUS ENSEMBLE, CONTINUONS A AGIR PLUS FORT POUR SEMOUSIES",
+      "nuance_liste": null,
+      "voix": 93,
+      "pct_voix_exprimes": 57.41,
+      "sieges_cm": 9,
+      "sieges_cc": null,
+      "nb_elus": 9,
+      "tete_de_liste": {
+        "nom": "BEUGNIES",
+        "prenom": "Jerome",
+        "nom_complet": "Jerome BEUGNIES",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BEUGNIES",
+          "prenom": "Jerome",
+          "nom_complet": "Jerome BEUGNIES",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "GRAVEZ",
+          "prenom": "Roselyne",
+          "nom_complet": "Roselyne GRAVEZ",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "CONTESSE",
+          "prenom": "Francis",
+          "nom_complet": "Francis CONTESSE",
+          "sexe": "M",
+          "age": 75,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "WILLAME",
+          "prenom": "Elodie",
+          "nom_complet": "Elodie WILLAME",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DUPALE",
+          "prenom": "Richard",
+          "nom_complet": "Richard DUPALE",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "JACOB",
+          "prenom": "Corentine",
+          "nom_complet": "Corentine JACOB",
+          "sexe": "F",
+          "age": 27,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DUPIRE",
+          "prenom": "Remi",
+          "nom_complet": "Remi DUPIRE",
+          "sexe": "M",
+          "age": 29,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DECRUCQ",
+          "prenom": "Sonia",
+          "nom_complet": "Sonia DECRUCQ",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DENHEZ",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier DENHEZ",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "9"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "ENSEMBLE, POUR SEMOUSIES",
+      "libelle_abrege_liste": "ENSEMBLE, POUR SEMOUSIES",
+      "nuance_liste": null,
+      "voix": 69,
+      "pct_voix_exprimes": 42.59,
+      "sieges_cm": 2,
+      "sieges_cc": null,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "PECORARO",
+        "prenom": "Jean-Marie",
+        "nom_complet": "Jean-Marie PECORARO",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "PECORARO",
+          "prenom": "Jean-Marie",
+          "nom_complet": "Jean-Marie PECORARO",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "JORION",
+          "prenom": "Christine",
+          "nom_complet": "Christine JORION",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

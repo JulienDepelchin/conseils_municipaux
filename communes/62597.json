@@ -1,0 +1,131 @@
+{
+  "code_commune": "62597",
+  "commune": "Moyenneville",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "CARON",
+    "prenom": "François",
+    "nom_complet": "François CARON",
+    "age": 51,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 203,
+    "votants": 135,
+    "pct_votants": 66.5,
+    "abstentions": 68,
+    "pct_abstentions": 33.5,
+    "exprimes": 126
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Ensemble pour Moyenneville",
+      "libelle_abrege_liste": "Ensemble pour Moyenneville",
+      "nuance_liste": null,
+      "voix": 126,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "CARON",
+        "prenom": "François",
+        "nom_complet": "François CARON",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "CARON",
+          "prenom": "François",
+          "nom_complet": "François CARON",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BRAS",
+          "prenom": "Françoise",
+          "nom_complet": "Françoise BRAS",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BONIFACE",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric BONIFACE",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BELVAL",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie BELVAL",
+          "sexe": "F",
+          "age": 77,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "BRAS",
+          "prenom": "Francis",
+          "nom_complet": "Francis BRAS",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "BERTIN",
+          "prenom": "Yvette",
+          "nom_complet": "Yvette BERTIN",
+          "sexe": "F",
+          "age": 80,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BERTIN",
+          "prenom": "Jean-François",
+          "nom_complet": "Jean-François BERTIN",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "BONIFACE",
+          "prenom": "Sabine",
+          "nom_complet": "Sabine BONIFACE",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "CAFFIN",
+          "prenom": "Louis",
+          "nom_complet": "Louis CAFFIN",
+          "sexe": "M",
+          "age": 28,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "LIEBERT",
+          "prenom": "Michèle",
+          "nom_complet": "Michèle LIEBERT",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "JOVINEL",
+          "prenom": "Damien",
+          "nom_complet": "Damien JOVINEL",
+          "sexe": "M",
+          "age": 28,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

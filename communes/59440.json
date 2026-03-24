@@ -1,0 +1,183 @@
+{
+  "code_commune": "59440",
+  "commune": "Noyelles-sur-Selle",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "CAUDRON MIENS",
+    "prenom": "Muriel",
+    "nom_complet": "Muriel CAUDRON MIENS",
+    "age": 57,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 570,
+    "votants": 437,
+    "pct_votants": 76.67,
+    "abstentions": 133,
+    "pct_abstentions": 23.33,
+    "exprimes": 412
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "EN SELLE POUR NOYELLES",
+      "libelle_abrege_liste": "EN SELLE POUR NOYELLES",
+      "nuance_liste": null,
+      "voix": 275,
+      "pct_voix_exprimes": 66.75,
+      "sieges_cm": 13,
+      "sieges_cc": null,
+      "nb_elus": 13,
+      "tete_de_liste": {
+        "nom": "CAUDRON MIENS",
+        "prenom": "Muriel",
+        "nom_complet": "Muriel CAUDRON MIENS",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "CAUDRON MIENS",
+          "prenom": "Muriel",
+          "nom_complet": "Muriel CAUDRON MIENS",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "SOILEUX",
+          "prenom": "Jean",
+          "nom_complet": "Jean SOILEUX",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "MORAGE",
+          "prenom": "Séverine",
+          "nom_complet": "Séverine MORAGE",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BEAUCAMP",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno BEAUCAMP",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DHAINAUT",
+          "prenom": "Laetitia",
+          "nom_complet": "Laetitia DHAINAUT",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "POUILLE",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe POUILLE",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "TAISNE",
+          "prenom": "Élise",
+          "nom_complet": "Élise TAISNE",
+          "sexe": "F",
+          "age": 31,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DELVOYE",
+          "prenom": "Didier",
+          "nom_complet": "Didier DELVOYE",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "COLEAUX CLAISSE",
+          "prenom": "Pascale",
+          "nom_complet": "Pascale COLEAUX CLAISSE",
+          "sexe": "F",
+          "age": 70,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "KOZAK",
+          "prenom": "Antoine",
+          "nom_complet": "Antoine KOZAK",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "MACAREZ",
+          "prenom": "Christine",
+          "nom_complet": "Christine MACAREZ",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "HENON",
+          "prenom": "Mathieu",
+          "nom_complet": "Mathieu HENON",
+          "sexe": "M",
+          "age": 31,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "GODELIER",
+          "prenom": "Christina",
+          "nom_complet": "Christina GODELIER",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "13"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ENSEMBLE POUR L'AVENIR DE NOYELLES",
+      "libelle_abrege_liste": "ENSEMBLE POUR L'AVENIR DE NOYELLES",
+      "nuance_liste": null,
+      "voix": 137,
+      "pct_voix_exprimes": 33.25,
+      "sieges_cm": 2,
+      "sieges_cc": null,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "SIMON",
+        "prenom": "Daniel",
+        "nom_complet": "Daniel SIMON",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "SIMON",
+          "prenom": "Daniel",
+          "nom_complet": "Daniel SIMON",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "VALLEE",
+          "prenom": "Meggy",
+          "nom_complet": "Meggy VALLEE",
+          "sexe": "F",
+          "age": 31,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

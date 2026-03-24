@@ -1,0 +1,295 @@
+{
+  "code_commune": "59317",
+  "commune": "Houplines",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "LEGRAND",
+    "prenom": "Jean-François",
+    "nom_complet": "Jean-François LEGRAND",
+    "age": 58,
+    "nuance": "LDVD"
+  },
+  "resultats": {
+    "inscrits": 5993,
+    "votants": 3153,
+    "pct_votants": 52.61,
+    "abstentions": 2840,
+    "pct_abstentions": 47.39,
+    "exprimes": 3062
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "HOUPLINES, Notre Passion Commune",
+      "libelle_abrege_liste": "HNPC",
+      "nuance_liste": "LDVD",
+      "voix": 2029,
+      "pct_voix_exprimes": 66.26,
+      "sieges_cm": 24,
+      "sieges_cc": 1,
+      "nb_elus": 24,
+      "tete_de_liste": {
+        "nom": "LEGRAND",
+        "prenom": "Jean-François",
+        "nom_complet": "Jean-François LEGRAND",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LEGRAND",
+          "prenom": "Jean-François",
+          "nom_complet": "Jean-François LEGRAND",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BERCKER",
+          "prenom": "Anne-Sophie",
+          "nom_complet": "Anne-Sophie BERCKER",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BAFCOP",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent BAFCOP",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LEGRAND",
+          "prenom": "Margot",
+          "nom_complet": "Margot LEGRAND",
+          "sexe": "F",
+          "age": 29,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "CNOCKAERT",
+          "prenom": "Léon",
+          "nom_complet": "Léon CNOCKAERT",
+          "sexe": "M",
+          "age": 77,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "VANHOUTTE",
+          "prenom": "Kathy",
+          "nom_complet": "Kathy VANHOUTTE",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "GOMBERT",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric GOMBERT",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "MOREL",
+          "prenom": "Régine",
+          "nom_complet": "Régine MOREL",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DELAYEN",
+          "prenom": "Sylvain",
+          "nom_complet": "Sylvain DELAYEN",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "STIENNE",
+          "prenom": "Manon",
+          "nom_complet": "Manon STIENNE",
+          "sexe": "F",
+          "age": 23,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "LENGLART",
+          "prenom": "Charles",
+          "nom_complet": "Charles LENGLART",
+          "sexe": "M",
+          "age": 28,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "BARDEL",
+          "prenom": "Marie-Laure",
+          "nom_complet": "Marie-Laure BARDEL",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "SPETERS",
+          "prenom": "Simon",
+          "nom_complet": "Simon SPETERS",
+          "sexe": "M",
+          "age": 23,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "DELEDICQUE",
+          "prenom": "Patricia",
+          "nom_complet": "Patricia DELEDICQUE",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "SOFFRAY",
+          "prenom": "Pierre",
+          "nom_complet": "Pierre SOFFRAY",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "MIGNEAU",
+          "prenom": "Christine",
+          "nom_complet": "Christine MIGNEAU",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "BRIOUL",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier BRIOUL",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "KESTELOOT",
+          "prenom": "Elen",
+          "nom_complet": "Elen KESTELOOT",
+          "sexe": "F",
+          "age": 22,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "CHANDIOUX",
+          "prenom": "Maxime",
+          "nom_complet": "Maxime CHANDIOUX",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "FOGARTY",
+          "prenom": "Laetitia",
+          "nom_complet": "Laetitia FOGARTY",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "DUMEZ",
+          "prenom": "Stéphane",
+          "nom_complet": "Stéphane DUMEZ",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "MEERSDAM",
+          "prenom": "Catherine",
+          "nom_complet": "Catherine MEERSDAM",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "LESAGE",
+          "prenom": "Jean-Christophe",
+          "nom_complet": "Jean-Christophe LESAGE",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "23"
+        },
+        {
+          "nom": "BOIDIN",
+          "prenom": "Léa",
+          "nom_complet": "Léa BOIDIN",
+          "sexe": "F",
+          "age": 25,
+          "rang_liste": "24"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "HOUPLINES VERS UN AUTRE AVENIR !",
+      "libelle_abrege_liste": "HOUPLINES VERS UN AUTRE AVENIR !",
+      "nuance_liste": "LUG",
+      "voix": 1033,
+      "pct_voix_exprimes": 33.74,
+      "sieges_cm": 5,
+      "sieges_cc": 0,
+      "nb_elus": 5,
+      "tete_de_liste": {
+        "nom": "TROTTEIN",
+        "prenom": "Karine",
+        "nom_complet": "Karine TROTTEIN",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "TROTTEIN",
+          "prenom": "Karine",
+          "nom_complet": "Karine TROTTEIN",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DUBRUQUE",
+          "prenom": "Christian",
+          "nom_complet": "Christian DUBRUQUE",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "VANMERIS",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie VANMERIS",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "TIBERGHIEN",
+          "prenom": "Alain",
+          "nom_complet": "Alain TIBERGHIEN",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DECLERCQ",
+          "prenom": "Sarah",
+          "nom_complet": "Sarah DECLERCQ",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "5"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

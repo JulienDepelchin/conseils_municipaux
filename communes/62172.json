@@ -1,0 +1,131 @@
+{
+  "code_commune": "62172",
+  "commune": "Boyelles",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "DUMOULIN",
+    "prenom": "Charline",
+    "nom_complet": "Charline DUMOULIN",
+    "age": 63,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 288,
+    "votants": 177,
+    "pct_votants": 61.46,
+    "abstentions": 111,
+    "pct_abstentions": 38.54,
+    "exprimes": 161
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Poursuivre Ensemble pour Boyelles",
+      "libelle_abrege_liste": "Poursuivre Ensemble pour Boyelles",
+      "nuance_liste": null,
+      "voix": 161,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "DUMOULIN",
+        "prenom": "Charline",
+        "nom_complet": "Charline DUMOULIN",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "DUMOULIN",
+          "prenom": "Charline",
+          "nom_complet": "Charline DUMOULIN",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BOCQUEREAU",
+          "prenom": "Jean-Jacques",
+          "nom_complet": "Jean-Jacques BOCQUEREAU",
+          "sexe": "M",
+          "age": 77,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "ROYER",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie ROYER",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "VARLET",
+          "prenom": "Marc",
+          "nom_complet": "Marc VARLET",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DEVEY",
+          "prenom": "Virginie",
+          "nom_complet": "Virginie DEVEY",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LESAGE",
+          "prenom": "Julien",
+          "nom_complet": "Julien LESAGE",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "PLOUVIER",
+          "prenom": "Justine",
+          "nom_complet": "Justine PLOUVIER",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "BOUCHEZ",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier BOUCHEZ",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "LEFEBVRE",
+          "prenom": "Emilie",
+          "nom_complet": "Emilie LEFEBVRE",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "COSSART",
+          "prenom": "Alexandre",
+          "nom_complet": "Alexandre COSSART",
+          "sexe": "M",
+          "age": 33,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "BRUWAERT",
+          "prenom": "Aurélie",
+          "nom_complet": "Aurélie BRUWAERT",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "code_commune": "59594",
+  "commune": "Thun-Saint-Amand",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "BROQUET",
+    "prenom": "Jean-Noël",
+    "nom_complet": "Jean-Noël BROQUET",
+    "age": 62,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 837,
+    "votants": 403,
+    "pct_votants": 48.15,
+    "abstentions": 434,
+    "pct_abstentions": 51.85,
+    "exprimes": 371
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Thun Saint Amand, unis pour agir, ensemble pour réussir !",
+      "libelle_abrege_liste": "Thun Saint Amand, unis pour agir, ensemble pour réussir !",
+      "nuance_liste": null,
+      "voix": 371,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": 1,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "BROQUET",
+        "prenom": "Jean-Noël",
+        "nom_complet": "Jean-Noël BROQUET",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BROQUET",
+          "prenom": "Jean-Noël",
+          "nom_complet": "Jean-Noël BROQUET",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "GENOS BLASZCZYNSKI",
+          "prenom": "Cathy",
+          "nom_complet": "Cathy GENOS BLASZCZYNSKI",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BLOIS",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier BLOIS",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "TAQUET",
+          "prenom": "Sabine",
+          "nom_complet": "Sabine TAQUET",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "BOURDON",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe BOURDON",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "COLLINET",
+          "prenom": "Patricia",
+          "nom_complet": "Patricia COLLINET",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BOUCIF",
+          "prenom": "Rabah",
+          "nom_complet": "Rabah BOUCIF",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "BENIT",
+          "prenom": "Marie-Agnès",
+          "nom_complet": "Marie-Agnès BENIT",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DELFOSSE",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick DELFOSSE",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "VINCKIER",
+          "prenom": "Annick",
+          "nom_complet": "Annick VINCKIER",
+          "sexe": "F",
+          "age": 71,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "WOJCIECHOWSKI",
+          "prenom": "Valentin",
+          "nom_complet": "Valentin WOJCIECHOWSKI",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "BERTOUT",
+          "prenom": "Pascale",
+          "nom_complet": "Pascale BERTOUT",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "VANSON",
+          "prenom": "Thimothée",
+          "nom_complet": "Thimothée VANSON",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "FROMONT",
+          "prenom": "Marie",
+          "nom_complet": "Marie FROMONT",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "BRZOZOWSKI",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric BRZOZOWSKI",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

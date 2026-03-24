@@ -1,0 +1,131 @@
+{
+  "code_commune": "62257",
+  "commune": "Créquy",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "TALLEUX",
+    "prenom": "Michaël",
+    "nom_complet": "Michaël TALLEUX",
+    "age": 50,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 335,
+    "votants": 238,
+    "pct_votants": 71.04,
+    "abstentions": 97,
+    "pct_abstentions": 28.96,
+    "exprimes": 174
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Continuons ensemble pour notre village",
+      "libelle_abrege_liste": "Continuons ensemble pour notre village",
+      "nuance_liste": null,
+      "voix": 174,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "TALLEUX",
+        "prenom": "Michaël",
+        "nom_complet": "Michaël TALLEUX",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "TALLEUX",
+          "prenom": "Michaël",
+          "nom_complet": "Michaël TALLEUX",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "CORNU",
+          "prenom": "Joséphine",
+          "nom_complet": "Joséphine CORNU",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LEROY",
+          "prenom": "Franck",
+          "nom_complet": "Franck LEROY",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "CAZIER",
+          "prenom": "Marie",
+          "nom_complet": "Marie CAZIER",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "JAMBOU",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier JAMBOU",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "FEUILLOLEY",
+          "prenom": "Linda",
+          "nom_complet": "Linda FEUILLOLEY",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "VERDIN",
+          "prenom": "Jean-Claude",
+          "nom_complet": "Jean-Claude VERDIN",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DELCROIX",
+          "prenom": "Marie-Laure",
+          "nom_complet": "Marie-Laure DELCROIX",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "TALLEUX",
+          "prenom": "Kévin",
+          "nom_complet": "Kévin TALLEUX",
+          "sexe": "M",
+          "age": 26,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "BEUVRY",
+          "prenom": "Mireille",
+          "nom_complet": "Mireille BEUVRY",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "BRUNETEAU",
+          "prenom": "Jean-Pierre",
+          "nom_complet": "Jean-Pierre BRUNETEAU",
+          "sexe": "M",
+          "age": 74,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

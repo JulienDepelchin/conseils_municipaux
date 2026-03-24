@@ -1,0 +1,131 @@
+{
+  "code_commune": "62696",
+  "commune": "Reclinghem",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "ROLIN",
+    "prenom": "Joël",
+    "nom_complet": "Joël ROLIN",
+    "age": 65,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 178,
+    "votants": 112,
+    "pct_votants": 62.92,
+    "abstentions": 66,
+    "pct_abstentions": 37.08,
+    "exprimes": 95
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Nouvel élan pour Reclinghem",
+      "libelle_abrege_liste": "Nouvel élan pour Reclinghem",
+      "nuance_liste": null,
+      "voix": 95,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "ROLIN",
+        "prenom": "Joël",
+        "nom_complet": "Joël ROLIN",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "ROLIN",
+          "prenom": "Joël",
+          "nom_complet": "Joël ROLIN",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "MASSON",
+          "prenom": "Angélique",
+          "nom_complet": "Angélique MASSON",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DANEL",
+          "prenom": "Arnaud",
+          "nom_complet": "Arnaud DANEL",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BEN",
+          "prenom": "Hélène",
+          "nom_complet": "Hélène BEN",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "MENTEL",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric MENTEL",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DUBUS",
+          "prenom": "Marlène",
+          "nom_complet": "Marlène DUBUS",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "CZERNER",
+          "prenom": "Jérémy",
+          "nom_complet": "Jérémy CZERNER",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LEBRIEZ",
+          "prenom": "Sophie",
+          "nom_complet": "Sophie LEBRIEZ",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "COURTIN",
+          "prenom": "Grégoire",
+          "nom_complet": "Grégoire COURTIN",
+          "sexe": "M",
+          "age": 31,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "ROLIN",
+          "prenom": "Marie",
+          "nom_complet": "Marie ROLIN",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "SAILLY",
+          "prenom": "Cédric",
+          "nom_complet": "Cédric SAILLY",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

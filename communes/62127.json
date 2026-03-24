@@ -1,0 +1,131 @@
+{
+  "code_commune": "62127",
+  "commune": "Bezinghem",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "DUCROCQ",
+    "prenom": "Philippe",
+    "nom_complet": "Philippe DUCROCQ",
+    "age": 51,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 313,
+    "votants": 184,
+    "pct_votants": 58.79,
+    "abstentions": 129,
+    "pct_abstentions": 41.21,
+    "exprimes": 152
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Pour Bezinghem",
+      "libelle_abrege_liste": "Pour Bezinghem",
+      "nuance_liste": null,
+      "voix": 152,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "DUCROCQ",
+        "prenom": "Philippe",
+        "nom_complet": "Philippe DUCROCQ",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DUCROCQ",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe DUCROCQ",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "HOLUIGUE",
+          "prenom": "Catherine",
+          "nom_complet": "Catherine HOLUIGUE",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DACQUIN",
+          "prenom": "Freddy",
+          "nom_complet": "Freddy DACQUIN",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DUCROCQ",
+          "prenom": "Delphine",
+          "nom_complet": "Delphine DUCROCQ",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LELEU",
+          "prenom": "Didier",
+          "nom_complet": "Didier LELEU",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "BELLENGUEZ",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie BELLENGUEZ",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "REGNIER",
+          "prenom": "Sébastien",
+          "nom_complet": "Sébastien REGNIER",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LELEU",
+          "prenom": "Charlotte",
+          "nom_complet": "Charlotte LELEU",
+          "sexe": "F",
+          "age": 24,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "RENARD",
+          "prenom": "Julien",
+          "nom_complet": "Julien RENARD",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "GLAVIEUX",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie GLAVIEUX",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "CHOQUET",
+          "prenom": "Sébastien",
+          "nom_complet": "Sébastien CHOQUET",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

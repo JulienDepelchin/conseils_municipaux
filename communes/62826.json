@@ -1,0 +1,339 @@
+{
+  "code_commune": "62826",
+  "commune": "Le Touquet-Paris-Plage",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "FASQUELLE",
+    "prenom": "Daniel",
+    "nom_complet": "Daniel FASQUELLE",
+    "age": 63,
+    "nuance": "LDVD"
+  },
+  "resultats": {
+    "inscrits": 5614,
+    "votants": 4022,
+    "pct_votants": 71.64,
+    "abstentions": 1592,
+    "pct_abstentions": 28.36,
+    "exprimes": 3954
+  },
+  "listes": [
+    {
+      "num_panneau": "5",
+      "libelle_liste": "Daniel FASQUELLE et son équipe pour le quotidien des Touquettois",
+      "libelle_abrege_liste": "Daniel FASQUELLE et son équipe pour le quotidien des Touquettois",
+      "nuance_liste": "LDVD",
+      "voix": 2243,
+      "pct_voix_exprimes": 56.73,
+      "sieges_cm": 22,
+      "sieges_cc": 4,
+      "nb_elus": 22,
+      "tete_de_liste": {
+        "nom": "FASQUELLE",
+        "prenom": "Daniel",
+        "nom_complet": "Daniel FASQUELLE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "FASQUELLE",
+          "prenom": "Daniel",
+          "nom_complet": "Daniel FASQUELLE",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "PARENT",
+          "prenom": "Marielle",
+          "nom_complet": "Marielle PARENT",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "CALOIN",
+          "prenom": "Denis",
+          "nom_complet": "Denis CALOIN",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "CAPUS LOTH",
+          "prenom": "Carole",
+          "nom_complet": "Carole CAPUS LOTH",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "JOUVENEL",
+          "prenom": "Anthony",
+          "nom_complet": "Anthony JOUVENEL",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "SAUDEMONT",
+          "prenom": "Marie",
+          "nom_complet": "Marie SAUDEMONT",
+          "sexe": "F",
+          "age": 75,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DE MARCHI",
+          "prenom": "Claude",
+          "nom_complet": "Claude DE MARCHI",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DENIS PARISSEAUX",
+          "prenom": "Liliane",
+          "nom_complet": "Liliane DENIS PARISSEAUX",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "BATAILLE",
+          "prenom": "Jean-Philippe",
+          "nom_complet": "Jean-Philippe BATAILLE",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "BIUNDO",
+          "prenom": "Michèle",
+          "nom_complet": "Michèle BIUNDO",
+          "sexe": "F",
+          "age": 81,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "LEMAÎTRE",
+          "prenom": "Franck",
+          "nom_complet": "Franck LEMAÎTRE",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "BANCQUART",
+          "prenom": "Anne-Sophie",
+          "nom_complet": "Anne-Sophie BANCQUART",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "KORBAS",
+          "prenom": "Alexandre",
+          "nom_complet": "Alexandre KORBAS",
+          "sexe": "M",
+          "age": 78,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "MULLE",
+          "prenom": "Marie-Bénédicte",
+          "nom_complet": "Marie-Bénédicte MULLE",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "COLLIER",
+          "prenom": "Antoine",
+          "nom_complet": "Antoine COLLIER",
+          "sexe": "M",
+          "age": 31,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "BLANQUEFORT",
+          "prenom": "Valérie",
+          "nom_complet": "Valérie BLANQUEFORT",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "MERIC DE BELLEFON",
+          "prenom": "Vincent",
+          "nom_complet": "Vincent MERIC DE BELLEFON",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "LANDRY",
+          "prenom": "Catherine",
+          "nom_complet": "Catherine LANDRY",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "VERMERSCH ALEXANIAN",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe VERMERSCH ALEXANIAN",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "PATERNOTTE",
+          "prenom": "Eléonore",
+          "nom_complet": "Eléonore PATERNOTTE",
+          "sexe": "F",
+          "age": 27,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "TIRY",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe TIRY",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "HENO",
+          "prenom": "Patricia",
+          "nom_complet": "Patricia HENO",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "22"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "4",
+      "libelle_liste": "NOUS LES TOUQUETTOIS",
+      "libelle_abrege_liste": "NOUS LES TOUQUETTOIS",
+      "nuance_liste": "LDVC",
+      "voix": 651,
+      "pct_voix_exprimes": 16.46,
+      "sieges_cm": 2,
+      "sieges_cc": 0,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "LEBREUILLY",
+        "prenom": "Olivier",
+        "nom_complet": "Olivier LEBREUILLY",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LEBREUILLY",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier LEBREUILLY",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "PREVOST",
+          "prenom": "Catherine",
+          "nom_complet": "Catherine PREVOST",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "LE TOUQUET AUTREMENT",
+      "libelle_abrege_liste": "LE TOUQUET AUTREMENT",
+      "nuance_liste": "LDVD",
+      "voix": 467,
+      "pct_voix_exprimes": 11.81,
+      "sieges_cm": 1,
+      "sieges_cc": 0,
+      "nb_elus": 1,
+      "tete_de_liste": {
+        "nom": "PIERRE",
+        "prenom": "Hervé",
+        "nom_complet": "Hervé PIERRE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "PIERRE",
+          "prenom": "Hervé",
+          "nom_complet": "Hervé PIERRE",
+          "sexe": "M",
+          "age": 78,
+          "rang_liste": "1"
+        }
+      ],
+      "statut_conseil": "autre"
+    },
+    {
+      "num_panneau": "3",
+      "libelle_liste": "NOTRE TOUQUET",
+      "libelle_abrege_liste": "NOTRE TOUQUET",
+      "nuance_liste": "LDVD",
+      "voix": 342,
+      "pct_voix_exprimes": 8.65,
+      "sieges_cm": 1,
+      "sieges_cc": 0,
+      "nb_elus": 1,
+      "tete_de_liste": {
+        "nom": "BLARINGHEM",
+        "prenom": "Nicolas",
+        "nom_complet": "Nicolas BLARINGHEM",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BLARINGHEM",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas BLARINGHEM",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "1"
+        }
+      ],
+      "statut_conseil": "autre"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "LE TOUQUET AVEC VOUS",
+      "libelle_abrege_liste": "LE TOUQUET AVEC VOUS",
+      "nuance_liste": "LDVD",
+      "voix": 251,
+      "pct_voix_exprimes": 6.35,
+      "sieges_cm": 1,
+      "sieges_cc": 0,
+      "nb_elus": 1,
+      "tete_de_liste": {
+        "nom": "DELVAL",
+        "prenom": "Cécile",
+        "nom_complet": "Cécile DELVAL",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "DELVAL",
+          "prenom": "Cécile",
+          "nom_complet": "Cécile DELVAL",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "1"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

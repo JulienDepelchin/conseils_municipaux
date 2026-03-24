@@ -1,0 +1,163 @@
+{
+  "code_commune": "59269",
+  "commune": "Gouzeaucourt",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "RICHARD",
+    "prenom": "Jacques",
+    "nom_complet": "Jacques RICHARD",
+    "age": 70,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1173,
+    "votants": 556,
+    "pct_votants": 47.4,
+    "abstentions": 617,
+    "pct_abstentions": 52.6,
+    "exprimes": 440
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ENSEMBLE POUR UN TERRITOIRE VIVANT",
+      "libelle_abrege_liste": "ENSEMBLE POUR UN TERRITOIRE VIVANT",
+      "nuance_liste": null,
+      "voix": 440,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": 1,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "RICHARD",
+        "prenom": "Jacques",
+        "nom_complet": "Jacques RICHARD",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "RICHARD",
+          "prenom": "Jacques",
+          "nom_complet": "Jacques RICHARD",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LAVALLÉE",
+          "prenom": "Céline",
+          "nom_complet": "Céline LAVALLÉE",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "CAREMELLE",
+          "prenom": "Yannick",
+          "nom_complet": "Yannick CAREMELLE",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LEFEBVRE",
+          "prenom": "Delphine",
+          "nom_complet": "Delphine LEFEBVRE",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DECAMPS",
+          "prenom": "Hervé",
+          "nom_complet": "Hervé DECAMPS",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "CHOQUET",
+          "prenom": "Marie-Françoise",
+          "nom_complet": "Marie-Françoise CHOQUET",
+          "sexe": "F",
+          "age": 78,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DELOBEL",
+          "prenom": "Paul",
+          "nom_complet": "Paul DELOBEL",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "REBEILLEAU",
+          "prenom": "Delphine",
+          "nom_complet": "Delphine REBEILLEAU",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "CAREMELLE",
+          "prenom": "Antoine",
+          "nom_complet": "Antoine CAREMELLE",
+          "sexe": "M",
+          "age": 26,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DUBUS",
+          "prenom": "Julie",
+          "nom_complet": "Julie DUBUS",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "MAUFROY",
+          "prenom": "David",
+          "nom_complet": "David MAUFROY",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "DEFAWE",
+          "prenom": "Danielle",
+          "nom_complet": "Danielle DEFAWE",
+          "sexe": "F",
+          "age": 75,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "ENGSTER",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal ENGSTER",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "DELOBEL",
+          "prenom": "Brigitte",
+          "nom_complet": "Brigitte DELOBEL",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "MUNCHOW",
+          "prenom": "Éric",
+          "nom_complet": "Éric MUNCHOW",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

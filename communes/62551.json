@@ -1,0 +1,131 @@
+{
+  "code_commune": "62551",
+  "commune": "Marenla",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "POCHOLLE",
+    "prenom": "Pascal",
+    "nom_complet": "Pascal POCHOLLE",
+    "age": 81,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 212,
+    "votants": 156,
+    "pct_votants": 73.58,
+    "abstentions": 56,
+    "pct_abstentions": 26.42,
+    "exprimes": 106
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "CONTINUONS ENSEMBLE POUR MARENLA",
+      "libelle_abrege_liste": "CONTINUONS ENSEMBLE POUR MARENLA",
+      "nuance_liste": null,
+      "voix": 106,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "POCHOLLE",
+        "prenom": "Pascal",
+        "nom_complet": "Pascal POCHOLLE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "POCHOLLE",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal POCHOLLE",
+          "sexe": "M",
+          "age": 81,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DEVRIENDT",
+          "prenom": "Martine",
+          "nom_complet": "Martine DEVRIENDT",
+          "sexe": "F",
+          "age": 75,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "HANDOUCHE",
+          "prenom": "Jean-Claude",
+          "nom_complet": "Jean-Claude HANDOUCHE",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "MARQUARDT",
+          "prenom": "Alexandrine",
+          "nom_complet": "Alexandrine MARQUARDT",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "POLI",
+          "prenom": "Jean-Jacques",
+          "nom_complet": "Jean-Jacques POLI",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LAMBERT",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie LAMBERT",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "FOURDINIER",
+          "prenom": "François-Xavier",
+          "nom_complet": "François-Xavier FOURDINIER",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "BILLIOUX",
+          "prenom": "Géraldine",
+          "nom_complet": "Géraldine BILLIOUX",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "BRIDENNE",
+          "prenom": "Jérôme",
+          "nom_complet": "Jérôme BRIDENNE",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "MARTEL",
+          "prenom": "Fabienne",
+          "nom_complet": "Fabienne MARTEL",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "LEFEBVRE",
+          "prenom": "Vincent",
+          "nom_complet": "Vincent LEFEBVRE",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

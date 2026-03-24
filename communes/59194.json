@@ -1,0 +1,183 @@
+{
+  "code_commune": "59194",
+  "commune": "Englefontaine",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "HERLEM",
+    "prenom": "Patrice",
+    "nom_complet": "Patrice HERLEM",
+    "age": 63,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1000,
+    "votants": 710,
+    "pct_votants": 71,
+    "abstentions": 290,
+    "pct_abstentions": 29,
+    "exprimes": 693
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ENGAGÉS POUR TOUS, POUR UN VILLGAGE UNI",
+      "libelle_abrege_liste": "ENGAGÉS POUR TOUS, POUR UN VILLGAGE UNI",
+      "nuance_liste": null,
+      "voix": 382,
+      "pct_voix_exprimes": 55.12,
+      "sieges_cm": 12,
+      "sieges_cc": 1,
+      "nb_elus": 12,
+      "tete_de_liste": {
+        "nom": "HERLEM",
+        "prenom": "Patrice",
+        "nom_complet": "Patrice HERLEM",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "HERLEM",
+          "prenom": "Patrice",
+          "nom_complet": "Patrice HERLEM",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "CORDIER",
+          "prenom": "Gaëlle",
+          "nom_complet": "Gaëlle CORDIER",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "FRANQUART",
+          "prenom": "Anthony",
+          "nom_complet": "Anthony FRANQUART",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "HUVELLE",
+          "prenom": "Julie",
+          "nom_complet": "Julie HUVELLE",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "COGNAUT",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe COGNAUT",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "RAVERDY",
+          "prenom": "Françoise",
+          "nom_complet": "Françoise RAVERDY",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "MASSIET",
+          "prenom": "Éric",
+          "nom_complet": "Éric MASSIET",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "CHAIGNET",
+          "prenom": "Véronique",
+          "nom_complet": "Véronique CHAIGNET",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "LECUYER",
+          "prenom": "Marcel",
+          "nom_complet": "Marcel LECUYER",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "VILLERS",
+          "prenom": "Sandrine",
+          "nom_complet": "Sandrine VILLERS",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "PORCQ",
+          "prenom": "Pierre-Joseph",
+          "nom_complet": "Pierre-Joseph PORCQ",
+          "sexe": "M",
+          "age": 34,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "BONTANT",
+          "prenom": "Windy",
+          "nom_complet": "Windy BONTANT",
+          "sexe": "F",
+          "age": 31,
+          "rang_liste": "12"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "Poursuivons ensemble",
+      "libelle_abrege_liste": "Poursuivons ensemble",
+      "nuance_liste": null,
+      "voix": 311,
+      "pct_voix_exprimes": 44.88,
+      "sieges_cm": 3,
+      "sieges_cc": 0,
+      "nb_elus": 3,
+      "tete_de_liste": {
+        "nom": "PLUCHART",
+        "prenom": "Sandra",
+        "nom_complet": "Sandra PLUCHART",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "PLUCHART",
+          "prenom": "Sandra",
+          "nom_complet": "Sandra PLUCHART",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "PAYAGE",
+          "prenom": "Sébastien",
+          "nom_complet": "Sébastien PAYAGE",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LEMOINE",
+          "prenom": "Laëtitia",
+          "nom_complet": "Laëtitia LEMOINE",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "3"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

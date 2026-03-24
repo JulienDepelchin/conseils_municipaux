@@ -1,0 +1,151 @@
+{
+  "code_commune": "62726",
+  "commune": "Ruisseauville",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "POUTHE",
+    "prenom": "Serge",
+    "nom_complet": "Serge POUTHE",
+    "age": 68,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 166,
+    "votants": 145,
+    "pct_votants": 87.35,
+    "abstentions": 21,
+    "pct_abstentions": 12.65,
+    "exprimes": 141
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Ruisseauville vivre ensemble aujourd'hui, préparer demain",
+      "libelle_abrege_liste": "Ruisseauville vivre ensemble aujourd'hui, préparer demain",
+      "nuance_liste": null,
+      "voix": 73,
+      "pct_voix_exprimes": 51.77,
+      "sieges_cm": 9,
+      "sieges_cc": null,
+      "nb_elus": 9,
+      "tete_de_liste": {
+        "nom": "POUTHE",
+        "prenom": "Serge",
+        "nom_complet": "Serge POUTHE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "POUTHE",
+          "prenom": "Serge",
+          "nom_complet": "Serge POUTHE",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LUBIN",
+          "prenom": "Coralie",
+          "nom_complet": "Coralie LUBIN",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "JULIEN",
+          "prenom": "Didier",
+          "nom_complet": "Didier JULIEN",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "PETIT",
+          "prenom": "Tatiana",
+          "nom_complet": "Tatiana PETIT",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "CARPENTIER",
+          "prenom": "Vincent",
+          "nom_complet": "Vincent CARPENTIER",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "BERTRAND",
+          "prenom": "Sophie",
+          "nom_complet": "Sophie BERTRAND",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BREVIER",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier BREVIER",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "GENGEMBRE",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle GENGEMBRE",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DOZINEL",
+          "prenom": "Timothée",
+          "nom_complet": "Timothée DOZINEL",
+          "sexe": "M",
+          "age": 27,
+          "rang_liste": "9"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "RUISSEAUVILLE ENSEMBLE",
+      "libelle_abrege_liste": "RUISSEAUVILLE ENSEMBLE",
+      "nuance_liste": null,
+      "voix": 68,
+      "pct_voix_exprimes": 48.23,
+      "sieges_cm": 2,
+      "sieges_cc": null,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "VANCAPPEL",
+        "prenom": "Romuald",
+        "nom_complet": "Romuald VANCAPPEL",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "VANCAPPEL",
+          "prenom": "Romuald",
+          "nom_complet": "Romuald VANCAPPEL",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LEJEUNE",
+          "prenom": "Lucile",
+          "nom_complet": "Lucile LEJEUNE",
+          "sexe": "F",
+          "age": 71,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

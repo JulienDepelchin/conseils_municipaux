@@ -1,0 +1,99 @@
+{
+  "code_commune": "62208",
+  "commune": "Canettemont",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "BOUCLY",
+    "prenom": "Christian",
+    "nom_complet": "Christian BOUCLY",
+    "age": 71,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 55,
+    "votants": 40,
+    "pct_votants": 72.73,
+    "abstentions": 15,
+    "pct_abstentions": 27.27,
+    "exprimes": 36
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Défense des intérêts communaux",
+      "libelle_abrege_liste": "Défense des intérêts communaux",
+      "nuance_liste": null,
+      "voix": 36,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 7,
+      "sieges_cc": null,
+      "nb_elus": 7,
+      "tete_de_liste": {
+        "nom": "BOUCLY",
+        "prenom": "Christian",
+        "nom_complet": "Christian BOUCLY",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BOUCLY",
+          "prenom": "Christian",
+          "nom_complet": "Christian BOUCLY",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LEDENT",
+          "prenom": "Amandine",
+          "nom_complet": "Amandine LEDENT",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "HIVIN",
+          "prenom": "Jean-Luc",
+          "nom_complet": "Jean-Luc HIVIN",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "RIOULT",
+          "prenom": "Marie-Cécile",
+          "nom_complet": "Marie-Cécile RIOULT",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DELBEY",
+          "prenom": "Johny",
+          "nom_complet": "Johny DELBEY",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "PODEVIN",
+          "prenom": "Charlotte",
+          "nom_complet": "Charlotte PODEVIN",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "LABENNE",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe LABENNE",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "7"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

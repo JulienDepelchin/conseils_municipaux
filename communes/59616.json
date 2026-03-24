@@ -1,0 +1,347 @@
+{
+  "code_commune": "59616",
+  "commune": "Vieux-Condé",
+  "departement": "Nord",
+  "tour": "T2",
+  "maire": {
+    "nom": "BUSTIN",
+    "prenom": "David",
+    "nom_complet": "David BUSTIN",
+    "age": 55,
+    "nuance": "LDVG"
+  },
+  "resultats": {
+    "inscrits": 8039,
+    "votants": 4403,
+    "pct_votants": 54.77,
+    "abstentions": 3636,
+    "pct_abstentions": 45.23,
+    "exprimes": 4337
+  },
+  "listes": [
+    {
+      "num_panneau": "3",
+      "libelle_liste": "Pour Construire Ensemble",
+      "libelle_abrege_liste": "Pour Construire Ensemble",
+      "nuance_liste": "LDVG",
+      "voix": 1973,
+      "pct_voix_exprimes": 45.49,
+      "sieges_cm": 24,
+      "sieges_cc": 3,
+      "nb_elus": 24,
+      "tete_de_liste": {
+        "nom": "BUSTIN",
+        "prenom": "David",
+        "nom_complet": "David BUSTIN",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BUSTIN",
+          "prenom": "David",
+          "nom_complet": "David BUSTIN",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DI CRISTINA",
+          "prenom": "Caroline",
+          "nom_complet": "Caroline DI CRISTINA",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "SIMON",
+          "prenom": "Didier",
+          "nom_complet": "Didier SIMON",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DELCOURT",
+          "prenom": "Fabienne",
+          "nom_complet": "Fabienne DELCOURT",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "SMITS",
+          "prenom": "Jean-François",
+          "nom_complet": "Jean-François SMITS",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "MAKSYMOWICZ",
+          "prenom": "Louisette",
+          "nom_complet": "Louisette MAKSYMOWICZ",
+          "sexe": "F",
+          "age": 74,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "LIÉGEOIS",
+          "prenom": "Bernard",
+          "nom_complet": "Bernard LIÉGEOIS",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "SEMAILLE",
+          "prenom": "Virginie",
+          "nom_complet": "Virginie SEMAILLE",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "FORTE",
+          "prenom": "Serge",
+          "nom_complet": "Serge FORTE",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "MULETTE",
+          "prenom": "Carine",
+          "nom_complet": "Carine MULETTE",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "SIDER",
+          "prenom": "Joël",
+          "nom_complet": "Joël SIDER",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "MRABET",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie MRABET",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "CLIMPONT",
+          "prenom": "Romuald",
+          "nom_complet": "Romuald CLIMPONT",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "PEREK",
+          "prenom": "Caroline",
+          "nom_complet": "Caroline PEREK",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "SÉNÉCHAL",
+          "prenom": "Martial",
+          "nom_complet": "Martial SÉNÉCHAL",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "JEANNIN",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle JEANNIN",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "ANDRÉ",
+          "prenom": "Jimmy",
+          "nom_complet": "Jimmy ANDRÉ",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "LAURENT",
+          "prenom": "Marie-Claude",
+          "nom_complet": "Marie-Claude LAURENT",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "DAPSENCE",
+          "prenom": "Germain",
+          "nom_complet": "Germain DAPSENCE",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "WUILAY",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle WUILAY",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "KROCZYNSKI",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier KROCZYNSKI",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "ARÉNA",
+          "prenom": "Lysiane",
+          "nom_complet": "Lysiane ARÉNA",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "DURAND",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe DURAND",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "23"
+        },
+        {
+          "nom": "WOJTYNIAK",
+          "prenom": "Maryse",
+          "nom_complet": "Maryse WOJTYNIAK",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "24"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "VIEUX-CONDÉ Ô COEUR",
+      "libelle_abrege_liste": "VIEUX-CONDÉ Ô COEUR",
+      "nuance_liste": "LDVG",
+      "voix": 1834,
+      "pct_voix_exprimes": 42.29,
+      "sieges_cm": 7,
+      "sieges_cc": 1,
+      "nb_elus": 7,
+      "tete_de_liste": {
+        "nom": "AGAH",
+        "prenom": "Franck",
+        "nom_complet": "Franck AGAH",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "AGAH",
+          "prenom": "Franck",
+          "nom_complet": "Franck AGAH",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LEMOINE",
+          "prenom": "Marie-France",
+          "nom_complet": "Marie-France LEMOINE",
+          "sexe": "F",
+          "age": 77,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "SCARAMUZZINO",
+          "prenom": "Pierre",
+          "nom_complet": "Pierre SCARAMUZZINO",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DEZOTEUX",
+          "prenom": "Laurence",
+          "nom_complet": "Laurence DEZOTEUX",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "AGAH",
+          "prenom": "Charles",
+          "nom_complet": "Charles AGAH",
+          "sexe": "M",
+          "age": 24,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LANNOY",
+          "prenom": "Brigitte",
+          "nom_complet": "Brigitte LANNOY",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "LEFEBVRE",
+          "prenom": "Franky",
+          "nom_complet": "Franky LEFEBVRE",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "7"
+        }
+      ],
+      "statut_conseil": "autre"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "Unis pour un nouveau départ",
+      "libelle_abrege_liste": "Unis pour un nouveau départ",
+      "nuance_liste": "LEXD",
+      "voix": 530,
+      "pct_voix_exprimes": 12.22,
+      "sieges_cm": 2,
+      "sieges_cc": 0,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "MONNIER",
+        "prenom": "Bruno",
+        "nom_complet": "Bruno MONNIER",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "MONNIER",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno MONNIER",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DI BELLO",
+          "prenom": "Christine",
+          "nom_complet": "Christine DI BELLO",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

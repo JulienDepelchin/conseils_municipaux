@@ -1,0 +1,215 @@
+{
+  "code_commune": "59082",
+  "commune": "Bierne",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "VERHAEGHE",
+    "prenom": "Jean-Jacques",
+    "nom_complet": "Jean-Jacques VERHAEGHE",
+    "age": 61,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1487,
+    "votants": 1050,
+    "pct_votants": 70.61,
+    "abstentions": 437,
+    "pct_abstentions": 29.39,
+    "exprimes": 1033
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "BIERNE NOUS RASSEMBLE",
+      "libelle_abrege_liste": "BNR",
+      "nuance_liste": null,
+      "voix": 621,
+      "pct_voix_exprimes": 60.12,
+      "sieges_cm": 16,
+      "sieges_cc": 2,
+      "nb_elus": 16,
+      "tete_de_liste": {
+        "nom": "VERHAEGHE",
+        "prenom": "Jean-Jacques",
+        "nom_complet": "Jean-Jacques VERHAEGHE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "VERHAEGHE",
+          "prenom": "Jean-Jacques",
+          "nom_complet": "Jean-Jacques VERHAEGHE",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DEWEULF",
+          "prenom": "Julie",
+          "nom_complet": "Julie DEWEULF",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DELANNOY",
+          "prenom": "Jérôme",
+          "nom_complet": "Jérôme DELANNOY",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "COUPIGNY",
+          "prenom": "Delphine",
+          "nom_complet": "Delphine COUPIGNY",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LEROUX",
+          "prenom": "Denis",
+          "nom_complet": "Denis LEROUX",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "THÉRY-SEYS",
+          "prenom": "Claire",
+          "nom_complet": "Claire THÉRY-SEYS",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BOTTE",
+          "prenom": "Maurice",
+          "nom_complet": "Maurice BOTTE",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "VANDEVOORDE",
+          "prenom": "Karine",
+          "nom_complet": "Karine VANDEVOORDE",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DEGROOTE",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent DEGROOTE",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "FIERS",
+          "prenom": "Julie",
+          "nom_complet": "Julie FIERS",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "HOTE",
+          "prenom": "Hervé",
+          "nom_complet": "Hervé HOTE",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "DECOOL",
+          "prenom": "Sabine",
+          "nom_complet": "Sabine DECOOL",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "VANHÉE",
+          "prenom": "Didier",
+          "nom_complet": "Didier VANHÉE",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "BERTHE",
+          "prenom": "Christine",
+          "nom_complet": "Christine BERTHE",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "DEBRUYNE",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal DEBRUYNE",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "DESTEIRDT",
+          "prenom": "Aurélie",
+          "nom_complet": "Aurélie DESTEIRDT",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "16"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "BIERNE C'EST VOUS",
+      "libelle_abrege_liste": "BIERNE C'EST VOUS",
+      "nuance_liste": null,
+      "voix": 412,
+      "pct_voix_exprimes": 39.88,
+      "sieges_cm": 3,
+      "sieges_cc": 0,
+      "nb_elus": 3,
+      "tete_de_liste": {
+        "nom": "BOGAERT",
+        "prenom": "Benoit",
+        "nom_complet": "Benoit BOGAERT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BOGAERT",
+          "prenom": "Benoit",
+          "nom_complet": "Benoit BOGAERT",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BOULOGNE",
+          "prenom": "Delphine",
+          "nom_complet": "Delphine BOULOGNE",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "GILLIOT",
+          "prenom": "Franck",
+          "nom_complet": "Franck GILLIOT",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "3"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "code_commune": "59461",
+  "commune": "Petit-Fayt",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "ROYAUX",
+    "prenom": "Claude",
+    "nom_complet": "Claude ROYAUX",
+    "age": 79,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 216,
+    "votants": 131,
+    "pct_votants": 60.65,
+    "abstentions": 85,
+    "pct_abstentions": 39.35,
+    "exprimes": 102
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Défense des Intérêts communaux",
+      "libelle_abrege_liste": "Défense des Intérêts communaux",
+      "nuance_liste": null,
+      "voix": 102,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "ROYAUX",
+        "prenom": "Claude",
+        "nom_complet": "Claude ROYAUX",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "ROYAUX",
+          "prenom": "Claude",
+          "nom_complet": "Claude ROYAUX",
+          "sexe": "M",
+          "age": 79,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "COCHARD",
+          "prenom": "Léonore",
+          "nom_complet": "Léonore COCHARD",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "CHANTRE",
+          "prenom": "Mathieu",
+          "nom_complet": "Mathieu CHANTRE",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DUPRE",
+          "prenom": "Christine Marie Adrienne",
+          "nom_complet": "Christine Marie Adrienne DUPRE",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "TERRIEN",
+          "prenom": "Alain",
+          "nom_complet": "Alain TERRIEN",
+          "sexe": "M",
+          "age": 77,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "FLAMBARD",
+          "prenom": "Nicole Suzanne Marie Jeanne",
+          "nom_complet": "Nicole Suzanne Marie Jeanne FLAMBARD",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "LEFEVRE",
+          "prenom": "Benjamin",
+          "nom_complet": "Benjamin LEFEVRE",
+          "sexe": "M",
+          "age": 33,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "GENARD",
+          "prenom": "Valérie",
+          "nom_complet": "Valérie GENARD",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "HIRSON",
+          "prenom": "David",
+          "nom_complet": "David HIRSON",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "RANSQUIN-GROUX",
+          "prenom": "Coraline",
+          "nom_complet": "Coraline RANSQUIN-GROUX",
+          "sexe": "F",
+          "age": 30,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "VALENTIN",
+          "prenom": "Sébastien",
+          "nom_complet": "Sébastien VALENTIN",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

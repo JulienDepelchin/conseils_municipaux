@@ -1,0 +1,151 @@
+{
+  "code_commune": "62145",
+  "commune": "Boiry-Notre-Dame",
+  "departement": "Pas-de-Calais",
+  "tour": "T2",
+  "maire": {
+    "nom": "MARTINÉ",
+    "prenom": "Daniel",
+    "nom_complet": "Daniel MARTINÉ",
+    "age": 73,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 403,
+    "votants": 342,
+    "pct_votants": 84.86,
+    "abstentions": 61,
+    "pct_abstentions": 15.14,
+    "exprimes": 334
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "POURSUIVONS NOTRE ENGAGEMENT POUR BOIRY",
+      "libelle_abrege_liste": "POURSUIVONS NOTRE ENGAGEMENT POUR BOIRY",
+      "nuance_liste": null,
+      "voix": 185,
+      "pct_voix_exprimes": 55.39,
+      "sieges_cm": 9,
+      "sieges_cc": null,
+      "nb_elus": 9,
+      "tete_de_liste": {
+        "nom": "MARTINÉ",
+        "prenom": "Daniel",
+        "nom_complet": "Daniel MARTINÉ",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "MARTINÉ",
+          "prenom": "Daniel",
+          "nom_complet": "Daniel MARTINÉ",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BOURDON",
+          "prenom": "Beverly",
+          "nom_complet": "Beverly BOURDON",
+          "sexe": "F",
+          "age": 32,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DALLA MOTTA",
+          "prenom": "Guiseppe",
+          "nom_complet": "Guiseppe DALLA MOTTA",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DEGRAEVE",
+          "prenom": "Manon",
+          "nom_complet": "Manon DEGRAEVE",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "JOUAN",
+          "prenom": "Xavier",
+          "nom_complet": "Xavier JOUAN",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "MONPAYS",
+          "prenom": "Clotilde",
+          "nom_complet": "Clotilde MONPAYS",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "FERMAUT",
+          "prenom": "Yann",
+          "nom_complet": "Yann FERMAUT",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "FASQUEL",
+          "prenom": "Zélie",
+          "nom_complet": "Zélie FASQUEL",
+          "sexe": "F",
+          "age": 26,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "CLAIRET",
+          "prenom": "Yves",
+          "nom_complet": "Yves CLAIRET",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "9"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "3",
+      "libelle_liste": "POUR QUE BOIRY RESTE UN VILLAGE",
+      "libelle_abrege_liste": "POUR QUE BOIRY RESTE UN VILLAGE",
+      "nuance_liste": null,
+      "voix": 149,
+      "pct_voix_exprimes": 44.61,
+      "sieges_cm": 2,
+      "sieges_cc": null,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "KULAS",
+        "prenom": "Aurélie",
+        "nom_complet": "Aurélie KULAS",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "KULAS",
+          "prenom": "Aurélie",
+          "nom_complet": "Aurélie KULAS",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "SAVARY",
+          "prenom": "Steve",
+          "nom_complet": "Steve SAVARY",
+          "sexe": "M",
+          "age": 34,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

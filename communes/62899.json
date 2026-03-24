@@ -1,0 +1,163 @@
+{
+  "code_commune": "62899",
+  "commune": "Wissant",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "DAVIES",
+    "prenom": "Pierre-Edouard",
+    "nom_complet": "Pierre-Edouard DAVIES",
+    "age": 35,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 962,
+    "votants": 603,
+    "pct_votants": 62.68,
+    "abstentions": 359,
+    "pct_abstentions": 37.32,
+    "exprimes": 548
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "UNIS POUR WISSANT",
+      "libelle_abrege_liste": "UNIS POUR WISSANT",
+      "nuance_liste": null,
+      "voix": 548,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "DAVIES",
+        "prenom": "Pierre-Edouard",
+        "nom_complet": "Pierre-Edouard DAVIES",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DAVIES",
+          "prenom": "Pierre-Edouard",
+          "nom_complet": "Pierre-Edouard DAVIES",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BAGES",
+          "prenom": "Ghislaine",
+          "nom_complet": "Ghislaine BAGES",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BEAUGRAND",
+          "prenom": "Sébastien",
+          "nom_complet": "Sébastien BEAUGRAND",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "CHORLAY",
+          "prenom": "Camille",
+          "nom_complet": "Camille CHORLAY",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DEDISSE",
+          "prenom": "Romain",
+          "nom_complet": "Romain DEDISSE",
+          "sexe": "M",
+          "age": 34,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "FOURDINIER-THON",
+          "prenom": "Frédérique",
+          "nom_complet": "Frédérique FOURDINIER-THON",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "PETIT",
+          "prenom": "Jean-Paul",
+          "nom_complet": "Jean-Paul PETIT",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "BELL",
+          "prenom": "Mathilde",
+          "nom_complet": "Mathilde BELL",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "LASSON",
+          "prenom": "Marc",
+          "nom_complet": "Marc LASSON",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "GABRIEL",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie GABRIEL",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DUBOIS",
+          "prenom": "Gaëtan",
+          "nom_complet": "Gaëtan DUBOIS",
+          "sexe": "M",
+          "age": 33,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "ROUTTIER",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie ROUTTIER",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "COLICHE",
+          "prenom": "Vladimir",
+          "nom_complet": "Vladimir COLICHE",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "QUENU",
+          "prenom": "Christine",
+          "nom_complet": "Christine QUENU",
+          "sexe": "F",
+          "age": 70,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "LAUWERS",
+          "prenom": "Alain",
+          "nom_complet": "Alain LAUWERS",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

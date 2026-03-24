@@ -1,0 +1,123 @@
+{
+  "code_commune": "62815",
+  "commune": "Tigny-Noyelle",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "PERNAK",
+    "prenom": "Jeremy",
+    "nom_complet": "Jeremy PERNAK",
+    "age": 45,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 149,
+    "votants": 99,
+    "pct_votants": 66.44,
+    "abstentions": 50,
+    "pct_abstentions": 33.56,
+    "exprimes": 71
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "TIGNY NOYELLE TOUS UNIS POUR UN VILLAGE QUI VIT",
+      "libelle_abrege_liste": "TIGNY NOYELLE TOUS UNIS POUR UN VILLAGE QUI VIT",
+      "nuance_liste": null,
+      "voix": 71,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 10,
+      "sieges_cc": null,
+      "nb_elus": 10,
+      "tete_de_liste": {
+        "nom": "PERNAK",
+        "prenom": "Jeremy",
+        "nom_complet": "Jeremy PERNAK",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "PERNAK",
+          "prenom": "Jeremy",
+          "nom_complet": "Jeremy PERNAK",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "PREVOST",
+          "prenom": "Marie-Helene",
+          "nom_complet": "Marie-Helene PREVOST",
+          "sexe": "F",
+          "age": 71,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LHERMILLIER",
+          "prenom": "Fabien",
+          "nom_complet": "Fabien LHERMILLIER",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "GALLET",
+          "prenom": "Patricia",
+          "nom_complet": "Patricia GALLET",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "GIRAUD",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier GIRAUD",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "MICHAUX",
+          "prenom": "Valerie",
+          "nom_complet": "Valerie MICHAUX",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "LEBRAN",
+          "prenom": "Guislain",
+          "nom_complet": "Guislain LEBRAN",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DA SILVA",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique DA SILVA",
+          "sexe": "F",
+          "age": 72,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "WYPELIER",
+          "prenom": "Francois",
+          "nom_complet": "Francois WYPELIER",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "HINGREZ",
+          "prenom": "Julie",
+          "nom_complet": "Julie HINGREZ",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "10"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

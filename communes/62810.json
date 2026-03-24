@@ -1,0 +1,163 @@
+{
+  "code_commune": "62810",
+  "commune": "Thélus",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "DELIGNE",
+    "prenom": "Jean-François",
+    "nom_complet": "Jean-François DELIGNE",
+    "age": 39,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1107,
+    "votants": 662,
+    "pct_votants": 59.8,
+    "abstentions": 445,
+    "pct_abstentions": 40.2,
+    "exprimes": 593
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "MOUVEMENT GENERATION THELUS",
+      "libelle_abrege_liste": "MOUVEMENT GENERATION THELUS",
+      "nuance_liste": null,
+      "voix": 593,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": 1,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "DELIGNE",
+        "prenom": "Jean-François",
+        "nom_complet": "Jean-François DELIGNE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DELIGNE",
+          "prenom": "Jean-François",
+          "nom_complet": "Jean-François DELIGNE",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "KOWALCZYK",
+          "prenom": "Sylviane",
+          "nom_complet": "Sylviane KOWALCZYK",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LEFEBVRE",
+          "prenom": "Hervé",
+          "nom_complet": "Hervé LEFEBVRE",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DUPAYAGE",
+          "prenom": "Sabrina",
+          "nom_complet": "Sabrina DUPAYAGE",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LEOPOLD",
+          "prenom": "Noam",
+          "nom_complet": "Noam LEOPOLD",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DEVRED",
+          "prenom": "Séverine",
+          "nom_complet": "Séverine DEVRED",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DEFRANCE",
+          "prenom": "David",
+          "nom_complet": "David DEFRANCE",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "SERBOLI",
+          "prenom": "Christine",
+          "nom_complet": "Christine SERBOLI",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DEWAELE",
+          "prenom": "Matthieu",
+          "nom_complet": "Matthieu DEWAELE",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "PUYPE",
+          "prenom": "Marion",
+          "nom_complet": "Marion PUYPE",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "BANDEL",
+          "prenom": "Vincent",
+          "nom_complet": "Vincent BANDEL",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "PRZYBOROWSKI",
+          "prenom": "Virginie",
+          "nom_complet": "Virginie PRZYBOROWSKI",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "CICHANSKI",
+          "prenom": "Jauris",
+          "nom_complet": "Jauris CICHANSKI",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "WATTEBLED",
+          "prenom": "Louise",
+          "nom_complet": "Louise WATTEBLED",
+          "sexe": "F",
+          "age": 21,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "SAVARY",
+          "prenom": "Rémi",
+          "nom_complet": "Rémi SAVARY",
+          "sexe": "M",
+          "age": 31,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

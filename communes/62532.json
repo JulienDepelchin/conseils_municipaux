@@ -1,0 +1,183 @@
+{
+  "code_commune": "62532",
+  "commune": "Lozinghem",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "BIALON",
+    "prenom": "Perrine",
+    "nom_complet": "Perrine BIALON",
+    "age": 42,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 974,
+    "votants": 698,
+    "pct_votants": 71.66,
+    "abstentions": 276,
+    "pct_abstentions": 28.34,
+    "exprimes": 684
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "AVEC VOUS POUR LOZINGHEM",
+      "libelle_abrege_liste": "AVEC VOUS POUR LOZINGHEM",
+      "nuance_liste": null,
+      "voix": 369,
+      "pct_voix_exprimes": 53.95,
+      "sieges_cm": 12,
+      "sieges_cc": 1,
+      "nb_elus": 12,
+      "tete_de_liste": {
+        "nom": "BIALON",
+        "prenom": "Perrine",
+        "nom_complet": "Perrine BIALON",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "BIALON",
+          "prenom": "Perrine",
+          "nom_complet": "Perrine BIALON",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BECU",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal BECU",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "WANTIEZ",
+          "prenom": "Valérie",
+          "nom_complet": "Valérie WANTIEZ",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "GUILAIN",
+          "prenom": "Mathieu",
+          "nom_complet": "Mathieu GUILAIN",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "PAYEN",
+          "prenom": "Aurélie",
+          "nom_complet": "Aurélie PAYEN",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "MAISON",
+          "prenom": "Vincent",
+          "nom_complet": "Vincent MAISON",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "VITSE",
+          "prenom": "Anne-Marie",
+          "nom_complet": "Anne-Marie VITSE",
+          "sexe": "F",
+          "age": 82,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "KACZOR",
+          "prenom": "Bernard",
+          "nom_complet": "Bernard KACZOR",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "BRACQUEMART",
+          "prenom": "Adeline",
+          "nom_complet": "Adeline BRACQUEMART",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "LESAGE",
+          "prenom": "Johann",
+          "nom_complet": "Johann LESAGE",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "ROSE",
+          "prenom": "Virginie",
+          "nom_complet": "Virginie ROSE",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "WALLE",
+          "prenom": "Florian",
+          "nom_complet": "Florian WALLE",
+          "sexe": "M",
+          "age": 27,
+          "rang_liste": "12"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "LOZINGHEM AUJOURD'HUI ET DEMAIN",
+      "libelle_abrege_liste": "LOZINGHEM AUJOURD'HUI ET DEMAIN",
+      "nuance_liste": null,
+      "voix": 315,
+      "pct_voix_exprimes": 46.05,
+      "sieges_cm": 3,
+      "sieges_cc": 0,
+      "nb_elus": 3,
+      "tete_de_liste": {
+        "nom": "DELANNOY",
+        "prenom": "Marie-Josèphe",
+        "nom_complet": "Marie-Josèphe DELANNOY",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "DELANNOY",
+          "prenom": "Marie-Josèphe",
+          "nom_complet": "Marie-Josèphe DELANNOY",
+          "sexe": "F",
+          "age": 77,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LEROY",
+          "prenom": "Toni",
+          "nom_complet": "Toni LEROY",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "PRUVOST",
+          "prenom": "Mélanie",
+          "nom_complet": "Mélanie PRUVOST",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "3"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "code_commune": "62787",
+  "commune": "Sempy",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "WIDEHEM",
+    "prenom": "Pascal",
+    "nom_complet": "Pascal WIDEHEM",
+    "age": 69,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 277,
+    "votants": 241,
+    "pct_votants": 87,
+    "abstentions": 36,
+    "pct_abstentions": 13,
+    "exprimes": 234
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "ENSEMBLE POUR SEMPY",
+      "libelle_abrege_liste": "ENSEMBLE POUR SEMPY",
+      "nuance_liste": null,
+      "voix": 137,
+      "pct_voix_exprimes": 58.55,
+      "sieges_cm": 9,
+      "sieges_cc": null,
+      "nb_elus": 9,
+      "tete_de_liste": {
+        "nom": "WIDEHEM",
+        "prenom": "Pascal",
+        "nom_complet": "Pascal WIDEHEM",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "WIDEHEM",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal WIDEHEM",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "PHILIPPE",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie PHILIPPE",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "CUISSOT",
+          "prenom": "Ludovic",
+          "nom_complet": "Ludovic CUISSOT",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BABINSKI",
+          "prenom": "Martine",
+          "nom_complet": "Martine BABINSKI",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "SANTUNE",
+          "prenom": "André",
+          "nom_complet": "André SANTUNE",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "MENUGE",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie MENUGE",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "FRANCKHAUSER",
+          "prenom": "Didier",
+          "nom_complet": "Didier FRANCKHAUSER",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "BAILLET",
+          "prenom": "Mélodie",
+          "nom_complet": "Mélodie BAILLET",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "HULBOUT",
+          "prenom": "Jérémy",
+          "nom_complet": "Jérémy HULBOUT",
+          "sexe": "M",
+          "age": 23,
+          "rang_liste": "9"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Vivre et agir ensemble pour Sempy",
+      "libelle_abrege_liste": "Vivre et agir ensemble pour Sempy",
+      "nuance_liste": null,
+      "voix": 97,
+      "pct_voix_exprimes": 41.45,
+      "sieges_cm": 2,
+      "sieges_cc": null,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "BATAILLE",
+        "prenom": "Philippe",
+        "nom_complet": "Philippe BATAILLE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BATAILLE",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe BATAILLE",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "MANHAEUE",
+          "prenom": "Florence",
+          "nom_complet": "Florence MANHAEUE",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

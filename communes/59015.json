@@ -1,0 +1,247 @@
+{
+  "code_commune": "59015",
+  "commune": "Arleux",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "VANDEVILLE",
+    "prenom": "Bruno",
+    "nom_complet": "Bruno VANDEVILLE",
+    "age": 51,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 2456,
+    "votants": 1778,
+    "pct_votants": 72.39,
+    "abstentions": 678,
+    "pct_abstentions": 27.61,
+    "exprimes": 1707
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "ARLEUX, GARDONS LE CAP",
+      "libelle_abrege_liste": "ARLEUX, GARDONS LE CAP",
+      "nuance_liste": null,
+      "voix": 913,
+      "pct_voix_exprimes": 53.49,
+      "sieges_cm": 18,
+      "sieges_cc": 1,
+      "nb_elus": 18,
+      "tete_de_liste": {
+        "nom": "VANDEVILLE",
+        "prenom": "Bruno",
+        "nom_complet": "Bruno VANDEVILLE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "VANDEVILLE",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno VANDEVILLE",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "MORY",
+          "prenom": "Laurence",
+          "nom_complet": "Laurence MORY",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "GLABIEN",
+          "prenom": "Arnaud",
+          "nom_complet": "Arnaud GLABIEN",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "RENAULT",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie RENAULT",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "GIBERT",
+          "prenom": "Serge",
+          "nom_complet": "Serge GIBERT",
+          "sexe": "M",
+          "age": 74,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LASSON",
+          "prenom": "Marie",
+          "nom_complet": "Marie LASSON",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DESCAMPS",
+          "prenom": "Sébastien",
+          "nom_complet": "Sébastien DESCAMPS",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LENOIRE",
+          "prenom": "Julie",
+          "nom_complet": "Julie LENOIRE",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "POPULAIRE",
+          "prenom": "Jean-Louis",
+          "nom_complet": "Jean-Louis POPULAIRE",
+          "sexe": "M",
+          "age": 81,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "PINHEIRO",
+          "prenom": "Martine",
+          "nom_complet": "Martine PINHEIRO",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DEGRÉMONT",
+          "prenom": "Axel",
+          "nom_complet": "Axel DEGRÉMONT",
+          "sexe": "M",
+          "age": 26,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "GHADI",
+          "prenom": "Fatima",
+          "nom_complet": "Fatima GHADI",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "DE GUBERNATIS",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe DE GUBERNATIS",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "SIX",
+          "prenom": "Brigitte",
+          "nom_complet": "Brigitte SIX",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "BRIDOUX",
+          "prenom": "Éric",
+          "nom_complet": "Éric BRIDOUX",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "VINCOURT",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie VINCOURT",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "CRAYE",
+          "prenom": "Jean-Paul",
+          "nom_complet": "Jean-Paul CRAYE",
+          "sexe": "M",
+          "age": 76,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "DELPLANQUE",
+          "prenom": "Cathy",
+          "nom_complet": "Cathy DELPLANQUE",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "18"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "UNIS POUR LE CHANGEMENT À ARLEUX !",
+      "libelle_abrege_liste": "UNIS POUR LE CHANGEMENT À ARLEUX !",
+      "nuance_liste": null,
+      "voix": 794,
+      "pct_voix_exprimes": 46.51,
+      "sieges_cm": 5,
+      "sieges_cc": 0,
+      "nb_elus": 5,
+      "tete_de_liste": {
+        "nom": "COQUELLE",
+        "prenom": "Gilles",
+        "nom_complet": "Gilles COQUELLE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "COQUELLE",
+          "prenom": "Gilles",
+          "nom_complet": "Gilles COQUELLE",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LEFEBVRE",
+          "prenom": "Sophie",
+          "nom_complet": "Sophie LEFEBVRE",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BEAUCHAMP",
+          "prenom": "Charles",
+          "nom_complet": "Charles BEAUCHAMP",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LEDENT",
+          "prenom": "Cécile",
+          "nom_complet": "Cécile LEDENT",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LADRIERE",
+          "prenom": "Jean-François",
+          "nom_complet": "Jean-François LADRIERE",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "5"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

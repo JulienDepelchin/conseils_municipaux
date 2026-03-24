@@ -1,0 +1,163 @@
+{
+  "code_commune": "59358",
+  "commune": "Looberghe",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "COOREN",
+    "prenom": "Arnaud",
+    "nom_complet": "Arnaud COOREN",
+    "age": 56,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 962,
+    "votants": 560,
+    "pct_votants": 58.21,
+    "abstentions": 402,
+    "pct_abstentions": 41.79,
+    "exprimes": 519
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Union Républicaine pour la défense des intérêts communaux",
+      "libelle_abrege_liste": "URPDIC",
+      "nuance_liste": null,
+      "voix": 519,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": 2,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "COOREN",
+        "prenom": "Arnaud",
+        "nom_complet": "Arnaud COOREN",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "COOREN",
+          "prenom": "Arnaud",
+          "nom_complet": "Arnaud COOREN",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BOURIEZ",
+          "prenom": "Bérengère",
+          "nom_complet": "Bérengère BOURIEZ",
+          "sexe": "F",
+          "age": 27,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BRYSBAERT",
+          "prenom": "Jean-Marie",
+          "nom_complet": "Jean-Marie BRYSBAERT",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "VANDEWALLE",
+          "prenom": "Marie-Laure",
+          "nom_complet": "Marie-Laure VANDEWALLE",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DEHORTER",
+          "prenom": "Didier",
+          "nom_complet": "Didier DEHORTER",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "SOUTIER",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle SOUTIER",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "ADRIANSEN",
+          "prenom": "Francis",
+          "nom_complet": "Francis ADRIANSEN",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DRIEUX",
+          "prenom": "Fabienne",
+          "nom_complet": "Fabienne DRIEUX",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "HOEDTS",
+          "prenom": "Emile",
+          "nom_complet": "Emile HOEDTS",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DEWAELE",
+          "prenom": "Stephanie",
+          "nom_complet": "Stephanie DEWAELE",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "ROLLAND",
+          "prenom": "Roland",
+          "nom_complet": "Roland ROLLAND",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "HOEDTS",
+          "prenom": "Virginie",
+          "nom_complet": "Virginie HOEDTS",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "DE WITTE",
+          "prenom": "André",
+          "nom_complet": "André DE WITTE",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "VERSCHELDE",
+          "prenom": "Laureen",
+          "nom_complet": "Laureen VERSCHELDE",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "WASELYNCK",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe WASELYNCK",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

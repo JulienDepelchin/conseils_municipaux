@@ -1,0 +1,131 @@
+{
+  "code_commune": "62683",
+  "commune": "Quoeux-Haut-Maînil",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "TIRMARCHE",
+    "prenom": "Fredy",
+    "nom_complet": "Fredy TIRMARCHE",
+    "age": 70,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 176,
+    "votants": 125,
+    "pct_votants": 71.02,
+    "abstentions": 51,
+    "pct_abstentions": 28.98,
+    "exprimes": 88
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Liste menée par TIRMARCHE Fredy",
+      "libelle_abrege_liste": "Liste menée par TIRMARCHE Fredy",
+      "nuance_liste": null,
+      "voix": 88,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "TIRMARCHE",
+        "prenom": "Fredy",
+        "nom_complet": "Fredy TIRMARCHE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "TIRMARCHE",
+          "prenom": "Fredy",
+          "nom_complet": "Fredy TIRMARCHE",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "VASSEUR",
+          "prenom": "Céline",
+          "nom_complet": "Céline VASSEUR",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "HERARD",
+          "prenom": "Benjamin",
+          "nom_complet": "Benjamin HERARD",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "CLAEREBOUT",
+          "prenom": "Camille",
+          "nom_complet": "Camille CLAEREBOUT",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "BOULARD",
+          "prenom": "Loïc",
+          "nom_complet": "Loïc BOULARD",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DENEUX",
+          "prenom": "Delphine",
+          "nom_complet": "Delphine DENEUX",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BOUCHART",
+          "prenom": "Jean-Marie",
+          "nom_complet": "Jean-Marie BOUCHART",
+          "sexe": "M",
+          "age": 74,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "VASSEUR",
+          "prenom": "Caroline",
+          "nom_complet": "Caroline VASSEUR",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "WIART",
+          "prenom": "Bernard",
+          "nom_complet": "Bernard WIART",
+          "sexe": "M",
+          "age": 75,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "CANNESSON",
+          "prenom": "Aurore",
+          "nom_complet": "Aurore CANNESSON",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DUCROT",
+          "prenom": "Eric",
+          "nom_complet": "Eric DUCROT",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

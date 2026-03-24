@@ -1,0 +1,183 @@
+{
+  "code_commune": "62648",
+  "commune": "Parenty",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "DEPRAITER",
+    "prenom": "Serge",
+    "nom_complet": "Serge DEPRAITER",
+    "age": 71,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 400,
+    "votants": 363,
+    "pct_votants": 90.75,
+    "abstentions": 37,
+    "pct_abstentions": 9.25,
+    "exprimes": 356
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Bien vivre au village de Parenty",
+      "libelle_abrege_liste": "Bien vivre au village de Parenty",
+      "nuance_liste": null,
+      "voix": 207,
+      "pct_voix_exprimes": 58.15,
+      "sieges_cm": 12,
+      "sieges_cc": null,
+      "nb_elus": 12,
+      "tete_de_liste": {
+        "nom": "DEPRAITER",
+        "prenom": "Serge",
+        "nom_complet": "Serge DEPRAITER",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DEPRAITER",
+          "prenom": "Serge",
+          "nom_complet": "Serge DEPRAITER",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "FOURCROY",
+          "prenom": "Carine",
+          "nom_complet": "Carine FOURCROY",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DUPEND",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric DUPEND",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "HUCHIN",
+          "prenom": "Marie-France",
+          "nom_complet": "Marie-France HUCHIN",
+          "sexe": "F",
+          "age": 70,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "PERON",
+          "prenom": "Thomas",
+          "nom_complet": "Thomas PERON",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LEMOR",
+          "prenom": "Elisabeth",
+          "nom_complet": "Elisabeth LEMOR",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "LOZINGUEZ",
+          "prenom": "Ludovic",
+          "nom_complet": "Ludovic LOZINGUEZ",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DUCROCQ",
+          "prenom": "Mathilde",
+          "nom_complet": "Mathilde DUCROCQ",
+          "sexe": "F",
+          "age": 26,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "MAILLY",
+          "prenom": "Julien",
+          "nom_complet": "Julien MAILLY",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "GUYOT",
+          "prenom": "Audrey",
+          "nom_complet": "Audrey GUYOT",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "MARBEUF",
+          "prenom": "Rémi",
+          "nom_complet": "Rémi MARBEUF",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "DEROLEZ",
+          "prenom": "Adeline",
+          "nom_complet": "Adeline DEROLEZ",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "12"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "Un nouvel élan pour Parenty",
+      "libelle_abrege_liste": "Un nouvel élan pour Parenty",
+      "nuance_liste": null,
+      "voix": 149,
+      "pct_voix_exprimes": 41.85,
+      "sieges_cm": 3,
+      "sieges_cc": null,
+      "nb_elus": 3,
+      "tete_de_liste": {
+        "nom": "SUEUR",
+        "prenom": "Fabien",
+        "nom_complet": "Fabien SUEUR",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "SUEUR",
+          "prenom": "Fabien",
+          "nom_complet": "Fabien SUEUR",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LANCE",
+          "prenom": "Pauline",
+          "nom_complet": "Pauline LANCE",
+          "sexe": "F",
+          "age": 21,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DARQUE",
+          "prenom": "Franck",
+          "nom_complet": "Franck DARQUE",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "3"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

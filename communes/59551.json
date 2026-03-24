@@ -1,0 +1,195 @@
+{
+  "code_commune": "59551",
+  "commune": "Saméon",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "DUHAMEL",
+    "prenom": "José",
+    "nom_complet": "José DUHAMEL",
+    "age": 66,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1360,
+    "votants": 676,
+    "pct_votants": 49.71,
+    "abstentions": 684,
+    "pct_abstentions": 50.29,
+    "exprimes": 538
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "votre voix, notre village",
+      "libelle_abrege_liste": "votre voix, notre village",
+      "nuance_liste": null,
+      "voix": 538,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 19,
+      "sieges_cc": 1,
+      "nb_elus": 19,
+      "tete_de_liste": {
+        "nom": "DUHAMEL",
+        "prenom": "José",
+        "nom_complet": "José DUHAMEL",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DUHAMEL",
+          "prenom": "José",
+          "nom_complet": "José DUHAMEL",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LICTEVOUT",
+          "prenom": "Valerie",
+          "nom_complet": "Valerie LICTEVOUT",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DEVINCKE",
+          "prenom": "Jerome",
+          "nom_complet": "Jerome DEVINCKE",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "ROUSSELLE",
+          "prenom": "Christiane",
+          "nom_complet": "Christiane ROUSSELLE",
+          "sexe": "F",
+          "age": 76,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DELMOTTE",
+          "prenom": "Jean-Michel",
+          "nom_complet": "Jean-Michel DELMOTTE",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "HIROUX",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle HIROUX",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "GRUSON",
+          "prenom": "Bernard",
+          "nom_complet": "Bernard GRUSON",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "HAGE",
+          "prenom": "Laurence",
+          "nom_complet": "Laurence HAGE",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "ALGLAEVE",
+          "prenom": "Benoit",
+          "nom_complet": "Benoit ALGLAEVE",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "CADET",
+          "prenom": "Marjorie",
+          "nom_complet": "Marjorie CADET",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "GUILLOT",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick GUILLOT",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "CATTEZ VASSEUR",
+          "prenom": "Émiline",
+          "nom_complet": "Émiline CATTEZ VASSEUR",
+          "sexe": "F",
+          "age": 20,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "JONVILLE",
+          "prenom": "Bastien",
+          "nom_complet": "Bastien JONVILLE",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "MILLIER",
+          "prenom": "Ghislaine",
+          "nom_complet": "Ghislaine MILLIER",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "LURANT",
+          "prenom": "David",
+          "nom_complet": "David LURANT",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "DIEVART",
+          "prenom": "Maryline",
+          "nom_complet": "Maryline DIEVART",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "DELCOURT",
+          "prenom": "David",
+          "nom_complet": "David DELCOURT",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "DELCROIX",
+          "prenom": "Caroline",
+          "nom_complet": "Caroline DELCROIX",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "BOSSAERT",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe BOSSAERT",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "19"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

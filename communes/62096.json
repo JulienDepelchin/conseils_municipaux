@@ -1,0 +1,183 @@
+{
+  "code_commune": "62096",
+  "commune": "Beaumetz-lès-Cambrai",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "DECLERCQ",
+    "prenom": "Damien",
+    "nom_complet": "Damien DECLERCQ",
+    "age": 61,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 442,
+    "votants": 317,
+    "pct_votants": 71.72,
+    "abstentions": 125,
+    "pct_abstentions": 28.28,
+    "exprimes": 313
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ENSEMBLE POUR LE RENOUVEAU DE BEAUMETZ-LES-CAMBRAI",
+      "libelle_abrege_liste": "ENSEMBLE POUR LE RENOUVEAU DE BEAUMETZ-LES-CAMBRAI",
+      "nuance_liste": null,
+      "voix": 167,
+      "pct_voix_exprimes": 53.35,
+      "sieges_cm": 12,
+      "sieges_cc": null,
+      "nb_elus": 12,
+      "tete_de_liste": {
+        "nom": "DECLERCQ",
+        "prenom": "Damien",
+        "nom_complet": "Damien DECLERCQ",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DECLERCQ",
+          "prenom": "Damien",
+          "nom_complet": "Damien DECLERCQ",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "TOURNANT",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique TOURNANT",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LEBLANC",
+          "prenom": "Jean-Claude",
+          "nom_complet": "Jean-Claude LEBLANC",
+          "sexe": "M",
+          "age": 78,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BRUGUET",
+          "prenom": "Marie-Thérèse",
+          "nom_complet": "Marie-Thérèse BRUGUET",
+          "sexe": "F",
+          "age": 74,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "BRUGUET",
+          "prenom": "Jean-Marie",
+          "nom_complet": "Jean-Marie BRUGUET",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "BRUYER",
+          "prenom": "Martine",
+          "nom_complet": "Martine BRUYER",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DARTUS",
+          "prenom": "Thomas",
+          "nom_complet": "Thomas DARTUS",
+          "sexe": "M",
+          "age": 21,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "BUCAMP",
+          "prenom": "Caroline",
+          "nom_complet": "Caroline BUCAMP",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "RONNEL",
+          "prenom": "Sébastien",
+          "nom_complet": "Sébastien RONNEL",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "SENECHAL",
+          "prenom": "Corinne",
+          "nom_complet": "Corinne SENECHAL",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "TOURNANT",
+          "prenom": "Alexandre",
+          "nom_complet": "Alexandre TOURNANT",
+          "sexe": "M",
+          "age": 34,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "DEALET",
+          "prenom": "Prescyllia",
+          "nom_complet": "Prescyllia DEALET",
+          "sexe": "F",
+          "age": 33,
+          "rang_liste": "12"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "ENSEMBLE POUR PRESERVER NOTRE VILLAGE ET BATIR UN AVENIR",
+      "libelle_abrege_liste": "ENSEMBLE POUR PRESERVER NOTRE VILLAGE ET BATIR UN AVENIR",
+      "nuance_liste": null,
+      "voix": 146,
+      "pct_voix_exprimes": 46.65,
+      "sieges_cm": 3,
+      "sieges_cc": null,
+      "nb_elus": 3,
+      "tete_de_liste": {
+        "nom": "WLODARCZYK",
+        "prenom": "Marylène",
+        "nom_complet": "Marylène WLODARCZYK",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "WLODARCZYK",
+          "prenom": "Marylène",
+          "nom_complet": "Marylène WLODARCZYK",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "MACHON",
+          "prenom": "René",
+          "nom_complet": "René MACHON",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "GORGUET",
+          "prenom": "Sophie",
+          "nom_complet": "Sophie GORGUET",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "3"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

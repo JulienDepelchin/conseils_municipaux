@@ -1,0 +1,347 @@
+{
+  "code_commune": "62413",
+  "commune": "Harnes",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "GARENAUX-GLINKOWSKI",
+    "prenom": "Anthony",
+    "nom_complet": "Anthony GARENAUX-GLINKOWSKI",
+    "age": 34,
+    "nuance": "LRN"
+  },
+  "resultats": {
+    "inscrits": 8619,
+    "votants": 5103,
+    "pct_votants": 59.21,
+    "abstentions": 3516,
+    "pct_abstentions": 40.79,
+    "exprimes": 5001
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "RASSEMBLEMENT POUR HARNES",
+      "libelle_abrege_liste": "RASSEMBLEMENT POUR HARNES",
+      "nuance_liste": "LRN",
+      "voix": 2515,
+      "pct_voix_exprimes": 50.29,
+      "sieges_cm": 25,
+      "sieges_cc": 3,
+      "nb_elus": 25,
+      "tete_de_liste": {
+        "nom": "GARENAUX-GLINKOWSKI",
+        "prenom": "Anthony",
+        "nom_complet": "Anthony GARENAUX-GLINKOWSKI",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "GARENAUX-GLINKOWSKI",
+          "prenom": "Anthony",
+          "nom_complet": "Anthony GARENAUX-GLINKOWSKI",
+          "sexe": "M",
+          "age": 34,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "JACQUART",
+          "prenom": "Guylaine",
+          "nom_complet": "Guylaine JACQUART",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "MENUGE",
+          "prenom": "Thomas",
+          "nom_complet": "Thomas MENUGE",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DISLAIRE",
+          "prenom": "Corinne",
+          "nom_complet": "Corinne DISLAIRE",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "ROZBROJ",
+          "prenom": "François",
+          "nom_complet": "François ROZBROJ",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LALLART",
+          "prenom": "Pascale",
+          "nom_complet": "Pascale LALLART",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BOUTERAA",
+          "prenom": "Béranger",
+          "nom_complet": "Béranger BOUTERAA",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "PETIT",
+          "prenom": "Amandine",
+          "nom_complet": "Amandine PETIT",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DEDOURGES",
+          "prenom": "André",
+          "nom_complet": "André DEDOURGES",
+          "sexe": "M",
+          "age": 77,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "LALY",
+          "prenom": "Tiphaine",
+          "nom_complet": "Tiphaine LALY",
+          "sexe": "F",
+          "age": 31,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "VLAMYNCK",
+          "prenom": "Sébastien",
+          "nom_complet": "Sébastien VLAMYNCK",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "CAMBRAI",
+          "prenom": "Andrée",
+          "nom_complet": "Andrée CAMBRAI",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "DANIEL",
+          "prenom": "Jérôme",
+          "nom_complet": "Jérôme DANIEL",
+          "sexe": "M",
+          "age": 31,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "MAURO",
+          "prenom": "Loane",
+          "nom_complet": "Loane MAURO",
+          "sexe": "F",
+          "age": 21,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "PASZKIEWICZ",
+          "prenom": "Arnaud",
+          "nom_complet": "Arnaud PASZKIEWICZ",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "CHASTAGNER",
+          "prenom": "Claire",
+          "nom_complet": "Claire CHASTAGNER",
+          "sexe": "F",
+          "age": 25,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "DEBRUILLE",
+          "prenom": "Alexi",
+          "nom_complet": "Alexi DEBRUILLE",
+          "sexe": "M",
+          "age": 23,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "DUHAMEL",
+          "prenom": "Lola",
+          "nom_complet": "Lola DUHAMEL",
+          "sexe": "F",
+          "age": 19,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "GUILBERT",
+          "prenom": "Kévin",
+          "nom_complet": "Kévin GUILBERT",
+          "sexe": "M",
+          "age": 27,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "PIEGZA",
+          "prenom": "Jessica",
+          "nom_complet": "Jessica PIEGZA",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "WRIGHT",
+          "prenom": "Steven",
+          "nom_complet": "Steven WRIGHT",
+          "sexe": "M",
+          "age": 33,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "LADUREAU",
+          "prenom": "Jeanne-Marie",
+          "nom_complet": "Jeanne-Marie LADUREAU",
+          "sexe": "F",
+          "age": 72,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "NAWROCKI",
+          "prenom": "Jean-Claude",
+          "nom_complet": "Jean-Claude NAWROCKI",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "23"
+        },
+        {
+          "nom": "ALLEGAERT",
+          "prenom": "Louëlla",
+          "nom_complet": "Louëlla ALLEGAERT",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "24"
+        },
+        {
+          "nom": "AUGUSTYNIAK",
+          "prenom": "Tom",
+          "nom_complet": "Tom AUGUSTYNIAK",
+          "sexe": "M",
+          "age": 21,
+          "rang_liste": "25"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "3",
+      "libelle_liste": "UNIS POUR HARNES",
+      "libelle_abrege_liste": "UNIS POUR HARNES",
+      "nuance_liste": "LDVG",
+      "voix": 928,
+      "pct_voix_exprimes": 18.56,
+      "sieges_cm": 5,
+      "sieges_cc": 1,
+      "nb_elus": 5,
+      "tete_de_liste": {
+        "nom": "LYSIK",
+        "prenom": "Sébastien",
+        "nom_complet": "Sébastien LYSIK",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LYSIK",
+          "prenom": "Sébastien",
+          "nom_complet": "Sébastien LYSIK",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "YATTOU",
+          "prenom": "Safia",
+          "nom_complet": "Safia YATTOU",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "FONTAINE",
+          "prenom": "Jean-Marie",
+          "nom_complet": "Jean-Marie FONTAINE",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "THOMAS-DEKELINSKI",
+          "prenom": "Marianne",
+          "nom_complet": "Marianne THOMAS-DEKELINSKI",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "CHIMCZAK",
+          "prenom": "Loic",
+          "nom_complet": "Loic CHIMCZAK",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "5"
+        }
+      ],
+      "statut_conseil": "autre"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "HARNES, VOTRE VILLE, NOTRE AVENIR",
+      "libelle_abrege_liste": "HARNES, VOTRE VILLE, NOTRE AVENIR",
+      "nuance_liste": "LDVG",
+      "voix": 1558,
+      "pct_voix_exprimes": 31.15,
+      "sieges_cm": 3,
+      "sieges_cc": 0,
+      "nb_elus": 3,
+      "tete_de_liste": {
+        "nom": "TATE",
+        "prenom": "Corinne",
+        "nom_complet": "Corinne TATE",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "TATE",
+          "prenom": "Corinne",
+          "nom_complet": "Corinne TATE",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "ASEBBANE",
+          "prenom": "Omar",
+          "nom_complet": "Omar ASEBBANE",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "HOUZIAUX",
+          "prenom": "Jeanne",
+          "nom_complet": "Jeanne HOUZIAUX",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "3"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "code_commune": "59113",
+  "commune": "Bruille-lez-Marchiennes",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "CANDELIER",
+    "prenom": "Jean-Jacques",
+    "nom_complet": "Jean-Jacques CANDELIER",
+    "age": 81,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 920,
+    "votants": 621,
+    "pct_votants": 67.5,
+    "abstentions": 299,
+    "pct_abstentions": 32.5,
+    "exprimes": 465
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "LISTE D'UNION DE LA GAUCHE ET DE PROGRES",
+      "libelle_abrege_liste": "LISTE D'UNION DE LA GAUCHE ET DE PROGRES",
+      "nuance_liste": null,
+      "voix": 465,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": 1,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "CANDELIER",
+        "prenom": "Jean-Jacques",
+        "nom_complet": "Jean-Jacques CANDELIER",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "CANDELIER",
+          "prenom": "Jean-Jacques",
+          "nom_complet": "Jean-Jacques CANDELIER",
+          "sexe": "M",
+          "age": 81,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BARDOUX",
+          "prenom": "Corinne",
+          "nom_complet": "Corinne BARDOUX",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "SANNIER",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe SANNIER",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "WIECZOREK",
+          "prenom": "Sophie",
+          "nom_complet": "Sophie WIECZOREK",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "KRZYKALA",
+          "prenom": "Cédric",
+          "nom_complet": "Cédric KRZYKALA",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "BRAY",
+          "prenom": "Laurence",
+          "nom_complet": "Laurence BRAY",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BROUTIN",
+          "prenom": "Geoffroy",
+          "nom_complet": "Geoffroy BROUTIN",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "TOMMASI",
+          "prenom": "Evelyne",
+          "nom_complet": "Evelyne TOMMASI",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "FLEURY",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent FLEURY",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "PETIT",
+          "prenom": "Francine",
+          "nom_complet": "Francine PETIT",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "COISNON",
+          "prenom": "Rémy",
+          "nom_complet": "Rémy COISNON",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "MAZZONI",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle MAZZONI",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "COASNE",
+          "prenom": "Jérémy",
+          "nom_complet": "Jérémy COASNE",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "LEMAIRE",
+          "prenom": "Marie-Claude",
+          "nom_complet": "Marie-Claude LEMAIRE",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "CATERINO",
+          "prenom": "Davide",
+          "nom_complet": "Davide CATERINO",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

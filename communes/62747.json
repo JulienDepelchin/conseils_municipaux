@@ -1,0 +1,163 @@
+{
+  "code_commune": "62747",
+  "commune": "Saint-Floris",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "DEBAECKER",
+    "prenom": "Olivier",
+    "nom_complet": "Olivier DEBAECKER",
+    "age": 49,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 499,
+    "votants": 325,
+    "pct_votants": 65.13,
+    "abstentions": 174,
+    "pct_abstentions": 34.87,
+    "exprimes": 288
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ENSEMBLE ET UNIS POUR L'AVENIR DE NOTRE VILLAGE",
+      "libelle_abrege_liste": "ENSEMBLE ET UNIS POUR L'AVENIR DE NOTRE VILLAGE",
+      "nuance_liste": null,
+      "voix": 288,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "DEBAECKER",
+        "prenom": "Olivier",
+        "nom_complet": "Olivier DEBAECKER",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DEBAECKER",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier DEBAECKER",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BONNEL",
+          "prenom": "Mélanie",
+          "nom_complet": "Mélanie BONNEL",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BAUW",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier BAUW",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "MASSE",
+          "prenom": "Céline",
+          "nom_complet": "Céline MASSE",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "CALONNE",
+          "prenom": "Stéphane",
+          "nom_complet": "Stéphane CALONNE",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DELGERY",
+          "prenom": "Adélaïde",
+          "nom_complet": "Adélaïde DELGERY",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "WEILLAERT",
+          "prenom": "Yves-Marie",
+          "nom_complet": "Yves-Marie WEILLAERT",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "EVRARD",
+          "prenom": "Ludivine",
+          "nom_complet": "Ludivine EVRARD",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "BOUWY",
+          "prenom": "Maxime",
+          "nom_complet": "Maxime BOUWY",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DELCROIX",
+          "prenom": "Laetitia",
+          "nom_complet": "Laetitia DELCROIX",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "CASTILLE",
+          "prenom": "Bertrand",
+          "nom_complet": "Bertrand CASTILLE",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "DUFRÉNOY",
+          "prenom": "Perrine",
+          "nom_complet": "Perrine DUFRÉNOY",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "DELFORGE",
+          "prenom": "Jerome",
+          "nom_complet": "Jerome DELFORGE",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "LACHERY",
+          "prenom": "Catherine",
+          "nom_complet": "Catherine LACHERY",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "LEROUX",
+          "prenom": "Sébastien",
+          "nom_complet": "Sébastien LEROUX",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

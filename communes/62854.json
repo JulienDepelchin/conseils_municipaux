@@ -1,0 +1,163 @@
+{
+  "code_commune": "62854",
+  "commune": "Villers-au-Bois",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "DOUTREMEPUICH",
+    "prenom": "Bernadette",
+    "nom_complet": "Bernadette DOUTREMEPUICH",
+    "age": 76,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 436,
+    "votants": 261,
+    "pct_votants": 59.86,
+    "abstentions": 175,
+    "pct_abstentions": 40.14,
+    "exprimes": 214
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "BIEN VIVRE A VILLERS AU BOIS",
+      "libelle_abrege_liste": "BIEN VIVRE A VILLERS AU BOIS",
+      "nuance_liste": null,
+      "voix": 214,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "DOUTREMEPUICH",
+        "prenom": "Bernadette",
+        "nom_complet": "Bernadette DOUTREMEPUICH",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "DOUTREMEPUICH",
+          "prenom": "Bernadette",
+          "nom_complet": "Bernadette DOUTREMEPUICH",
+          "sexe": "F",
+          "age": 76,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "ROHRBACHER",
+          "prenom": "Sébastien",
+          "nom_complet": "Sébastien ROHRBACHER",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "WARNIER",
+          "prenom": "Catherine",
+          "nom_complet": "Catherine WARNIER",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LOUETTE",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric LOUETTE",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "GLUSSI",
+          "prenom": "Marine",
+          "nom_complet": "Marine GLUSSI",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "BRIANCHON",
+          "prenom": "Julien",
+          "nom_complet": "Julien BRIANCHON",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "SUEUR",
+          "prenom": "Sarah",
+          "nom_complet": "Sarah SUEUR",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "BOURY",
+          "prenom": "Antonin",
+          "nom_complet": "Antonin BOURY",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "ALLEXANDRE",
+          "prenom": "Laura",
+          "nom_complet": "Laura ALLEXANDRE",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "ROUSSELLE",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick ROUSSELLE",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "NICAUD",
+          "prenom": "Florence",
+          "nom_complet": "Florence NICAUD",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "DELBARRE",
+          "prenom": "Antoine",
+          "nom_complet": "Antoine DELBARRE",
+          "sexe": "M",
+          "age": 19,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "CAMBIER",
+          "prenom": "Sonia",
+          "nom_complet": "Sonia CAMBIER",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "GUÉNARD",
+          "prenom": "Anthony",
+          "nom_complet": "Anthony GUÉNARD",
+          "sexe": "M",
+          "age": 33,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "CITERNE",
+          "prenom": "Christelle",
+          "nom_complet": "Christelle CITERNE",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

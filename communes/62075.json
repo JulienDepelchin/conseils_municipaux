@@ -1,0 +1,163 @@
+{
+  "code_commune": "62075",
+  "commune": "Baincthun",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "BOURGEOIS",
+    "prenom": "Stéphane",
+    "nom_complet": "Stéphane BOURGEOIS",
+    "age": 58,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1124,
+    "votants": 667,
+    "pct_votants": 59.34,
+    "abstentions": 457,
+    "pct_abstentions": 40.66,
+    "exprimes": 566
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "BAINCTHUN AVANCE, AVEC VOUS",
+      "libelle_abrege_liste": "BAINCTHUN AVANCE, AVEC VOUS",
+      "nuance_liste": null,
+      "voix": 566,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": 1,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "BOURGEOIS",
+        "prenom": "Stéphane",
+        "nom_complet": "Stéphane BOURGEOIS",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BOURGEOIS",
+          "prenom": "Stéphane",
+          "nom_complet": "Stéphane BOURGEOIS",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "ASSET",
+          "prenom": "Alisson",
+          "nom_complet": "Alisson ASSET",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "HENON",
+          "prenom": "Hervé",
+          "nom_complet": "Hervé HENON",
+          "sexe": "M",
+          "age": 74,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "MANCHUELLE",
+          "prenom": "Véronique",
+          "nom_complet": "Véronique MANCHUELLE",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "NORMANT",
+          "prenom": "Alain",
+          "nom_complet": "Alain NORMANT",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "FLAHAUT",
+          "prenom": "Valérie",
+          "nom_complet": "Valérie FLAHAUT",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "MERLOT",
+          "prenom": "Serge",
+          "nom_complet": "Serge MERLOT",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LANDRON",
+          "prenom": "Maïté",
+          "nom_complet": "Maïté LANDRON",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "FOURCROY",
+          "prenom": "Freddy",
+          "nom_complet": "Freddy FOURCROY",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "FLASQUE",
+          "prenom": "Juliette",
+          "nom_complet": "Juliette FLASQUE",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DUBOIS",
+          "prenom": "Mathieu",
+          "nom_complet": "Mathieu DUBOIS",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "EL HAFDI",
+          "prenom": "Sophie",
+          "nom_complet": "Sophie EL HAFDI",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "LELEU",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe LELEU",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "CHOCHOIS",
+          "prenom": "Hélène",
+          "nom_complet": "Hélène CHOCHOIS",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "HAËM",
+          "prenom": "Emmanuel",
+          "nom_complet": "Emmanuel HAËM",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

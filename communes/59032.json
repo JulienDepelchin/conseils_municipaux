@@ -1,0 +1,295 @@
+{
+  "code_commune": "59032",
+  "commune": "Aulnoy-lez-Valenciennes",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "DEPAGNE",
+    "prenom": "Laurent",
+    "nom_complet": "Laurent DEPAGNE",
+    "age": 57,
+    "nuance": "LDVG"
+  },
+  "resultats": {
+    "inscrits": 4552,
+    "votants": 2460,
+    "pct_votants": 54.04,
+    "abstentions": 2092,
+    "pct_abstentions": 45.96,
+    "exprimes": 2392
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "AGIR POUR AULNOY !",
+      "libelle_abrege_liste": "AGIR POUR AULNOY !",
+      "nuance_liste": "LDVG",
+      "voix": 1679,
+      "pct_voix_exprimes": 70.19,
+      "sieges_cm": 25,
+      "sieges_cc": 3,
+      "nb_elus": 25,
+      "tete_de_liste": {
+        "nom": "DEPAGNE",
+        "prenom": "Laurent",
+        "nom_complet": "Laurent DEPAGNE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DEPAGNE",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent DEPAGNE",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "SANIEZ",
+          "prenom": "Dany",
+          "nom_complet": "Dany SANIEZ",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DUSART",
+          "prenom": "Julien",
+          "nom_complet": "Julien DUSART",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LACOSTE",
+          "prenom": "Agnès",
+          "nom_complet": "Agnès LACOSTE",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "RAHEM",
+          "prenom": "Ahmed",
+          "nom_complet": "Ahmed RAHEM",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "GOZÉ",
+          "prenom": "Anne",
+          "nom_complet": "Anne GOZÉ",
+          "sexe": "F",
+          "age": 71,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "LOTTEAU",
+          "prenom": "Ludwig",
+          "nom_complet": "Ludwig LOTTEAU",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "BENNOUI",
+          "prenom": "Habiba",
+          "nom_complet": "Habiba BENNOUI",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "PIETTE",
+          "prenom": "Thomas",
+          "nom_complet": "Thomas PIETTE",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "TONON",
+          "prenom": "Elsa",
+          "nom_complet": "Elsa TONON",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "KRAJEWSKI",
+          "prenom": "Dimitri",
+          "nom_complet": "Dimitri KRAJEWSKI",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "FONTAINE",
+          "prenom": "Frederique",
+          "nom_complet": "Frederique FONTAINE",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "SABOS",
+          "prenom": "Mathias",
+          "nom_complet": "Mathias SABOS",
+          "sexe": "M",
+          "age": 31,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "EGO",
+          "prenom": "Mélanie",
+          "nom_complet": "Mélanie EGO",
+          "sexe": "F",
+          "age": 29,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "CARLIER",
+          "prenom": "Michael",
+          "nom_complet": "Michael CARLIER",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "HAUDEGAND",
+          "prenom": "Christine",
+          "nom_complet": "Christine HAUDEGAND",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "BAURANCE",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas BAURANCE",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "DELAVAL",
+          "prenom": "Virginie",
+          "nom_complet": "Virginie DELAVAL",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "STYEVKO",
+          "prenom": "Anthony",
+          "nom_complet": "Anthony STYEVKO",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "HOUWENAGHEL",
+          "prenom": "Cindy",
+          "nom_complet": "Cindy HOUWENAGHEL",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "GAQUÈRE",
+          "prenom": "Rudy",
+          "nom_complet": "Rudy GAQUÈRE",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "BAUGNIES",
+          "prenom": "Laetitia",
+          "nom_complet": "Laetitia BAUGNIES",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "LOBRY",
+          "prenom": "Raphael",
+          "nom_complet": "Raphael LOBRY",
+          "sexe": "M",
+          "age": 22,
+          "rang_liste": "23"
+        },
+        {
+          "nom": "MORELLE",
+          "prenom": "Rachel",
+          "nom_complet": "Rachel MORELLE",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "24"
+        },
+        {
+          "nom": "DOIZI",
+          "prenom": "Jerôme",
+          "nom_complet": "Jerôme DOIZI",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "25"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "AULNOY: ENFIN LE CHANGEMENT!",
+      "libelle_abrege_liste": "AULNOY: ENFIN LE CHANGEMENT!",
+      "nuance_liste": "LRN",
+      "voix": 713,
+      "pct_voix_exprimes": 29.81,
+      "sieges_cm": 4,
+      "sieges_cc": 0,
+      "nb_elus": 4,
+      "tete_de_liste": {
+        "nom": "MAZURIER",
+        "prenom": "Philippe",
+        "nom_complet": "Philippe MAZURIER",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "MAZURIER",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe MAZURIER",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "GARY",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle GARY",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "PIROT",
+          "prenom": "Ludwig",
+          "nom_complet": "Ludwig PIROT",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "COULOM",
+          "prenom": "Aline",
+          "nom_complet": "Aline COULOM",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "4"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

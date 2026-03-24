@@ -1,0 +1,163 @@
+{
+  "code_commune": "62486",
+  "commune": "Lambres-lez-Aire",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "PREVOST",
+    "prenom": "Denis",
+    "nom_complet": "Denis PREVOST",
+    "age": 68,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 859,
+    "votants": 466,
+    "pct_votants": 54.25,
+    "abstentions": 393,
+    "pct_abstentions": 45.75,
+    "exprimes": 417
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "LAMBRES LEZ AIRE ET TREZENNES UNIS",
+      "libelle_abrege_liste": "LAMBRES LEZ AIRE ET TREZENNES UNIS",
+      "nuance_liste": null,
+      "voix": 417,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": 1,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "PREVOST",
+        "prenom": "Denis",
+        "nom_complet": "Denis PREVOST",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "PREVOST",
+          "prenom": "Denis",
+          "nom_complet": "Denis PREVOST",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "GRIGNON",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle GRIGNON",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "MAGNIER",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric MAGNIER",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LELEU",
+          "prenom": "Martine",
+          "nom_complet": "Martine LELEU",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "CHRETIEN",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno CHRETIEN",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LECOCQ",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie LECOCQ",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "TOURNEUR",
+          "prenom": "Yannick",
+          "nom_complet": "Yannick TOURNEUR",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "VANDENBERGUE",
+          "prenom": "Marie",
+          "nom_complet": "Marie VANDENBERGUE",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "LECOCQ",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick LECOCQ",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "CHARLEYS",
+          "prenom": "Cindy",
+          "nom_complet": "Cindy CHARLEYS",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "MARLES",
+          "prenom": "Fabien",
+          "nom_complet": "Fabien MARLES",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "MAHIEU",
+          "prenom": "Perrine",
+          "nom_complet": "Perrine MAHIEU",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "CLABAUT",
+          "prenom": "Daniel",
+          "nom_complet": "Daniel CLABAUT",
+          "sexe": "M",
+          "age": 77,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "SERBOURDIN",
+          "prenom": "Marie-Christine",
+          "nom_complet": "Marie-Christine SERBOURDIN",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "CHARLES",
+          "prenom": "Matthieu",
+          "nom_complet": "Matthieu CHARLES",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

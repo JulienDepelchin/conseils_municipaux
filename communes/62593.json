@@ -1,0 +1,99 @@
+{
+  "code_commune": "62593",
+  "commune": "Morval",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "DEVAUX",
+    "prenom": "Nathalie",
+    "nom_complet": "Nathalie DEVAUX",
+    "age": 47,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 69,
+    "votants": 53,
+    "pct_votants": 76.81,
+    "abstentions": 16,
+    "pct_abstentions": 23.19,
+    "exprimes": 39
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Nouvel Élan Pour MORVAL",
+      "libelle_abrege_liste": "Nouvel Élan Pour MORVAL",
+      "nuance_liste": null,
+      "voix": 39,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 7,
+      "sieges_cc": null,
+      "nb_elus": 7,
+      "tete_de_liste": {
+        "nom": "DEVAUX",
+        "prenom": "Nathalie",
+        "nom_complet": "Nathalie DEVAUX",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "DEVAUX",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie DEVAUX",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "D'HOLLANDER",
+          "prenom": "Thierry",
+          "nom_complet": "Thierry D'HOLLANDER",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LECLERCQ",
+          "prenom": "Béatrice",
+          "nom_complet": "Béatrice LECLERCQ",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LOYWYCK",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe LOYWYCK",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DAYRIES",
+          "prenom": "Huguette",
+          "nom_complet": "Huguette DAYRIES",
+          "sexe": "F",
+          "age": 76,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DEVAUX",
+          "prenom": "Jérémy",
+          "nom_complet": "Jérémy DEVAUX",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "CASTELAIN",
+          "prenom": "Maryse",
+          "nom_complet": "Maryse CASTELAIN",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "7"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

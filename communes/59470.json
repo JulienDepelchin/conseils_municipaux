@@ -1,0 +1,195 @@
+{
+  "code_commune": "59470",
+  "commune": "Prémesques",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "HUTCHINSON",
+    "prenom": "Yvan",
+    "nom_complet": "Yvan HUTCHINSON",
+    "age": 50,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1581,
+    "votants": 777,
+    "pct_votants": 49.15,
+    "abstentions": 804,
+    "pct_abstentions": 50.85,
+    "exprimes": 653
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "TOUJOURS ENSEMBLE POUR PREMESQUES 2026",
+      "libelle_abrege_liste": "TOUJOURS ENSEMBLE POUR PREMESQUES 2026",
+      "nuance_liste": null,
+      "voix": 653,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 19,
+      "sieges_cc": 1,
+      "nb_elus": 19,
+      "tete_de_liste": {
+        "nom": "HUTCHINSON",
+        "prenom": "Yvan",
+        "nom_complet": "Yvan HUTCHINSON",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "HUTCHINSON",
+          "prenom": "Yvan",
+          "nom_complet": "Yvan HUTCHINSON",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "GUISLAIN",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie GUISLAIN",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "MARQUE",
+          "prenom": "Arnaud",
+          "nom_complet": "Arnaud MARQUE",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "ALLIOT",
+          "prenom": "Pascale",
+          "nom_complet": "Pascale ALLIOT",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "VANDEN-DORPE",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal VANDEN-DORPE",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "VAN EECKE",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie VAN EECKE",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BASECQ",
+          "prenom": "Ludovic",
+          "nom_complet": "Ludovic BASECQ",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LEFEBVRE",
+          "prenom": "Christine",
+          "nom_complet": "Christine LEFEBVRE",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DUBOIS",
+          "prenom": "Xavier",
+          "nom_complet": "Xavier DUBOIS",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "CAREY",
+          "prenom": "Pascale",
+          "nom_complet": "Pascale CAREY",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "MOUVEAUX",
+          "prenom": "Stéphane",
+          "nom_complet": "Stéphane MOUVEAUX",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "ANNAERT",
+          "prenom": "Christelle",
+          "nom_complet": "Christelle ANNAERT",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "LEROY",
+          "prenom": "Gerard",
+          "nom_complet": "Gerard LEROY",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "DUHEZ",
+          "prenom": "Virginie",
+          "nom_complet": "Virginie DUHEZ",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "DAMÉE",
+          "prenom": "Victor",
+          "nom_complet": "Victor DAMÉE",
+          "sexe": "M",
+          "age": 24,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "OLMETA",
+          "prenom": "Mélanie",
+          "nom_complet": "Mélanie OLMETA",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "DUPONCHELLE",
+          "prenom": "Francois-Xavier",
+          "nom_complet": "Francois-Xavier DUPONCHELLE",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "ZAGHBIB",
+          "prenom": "Romy",
+          "nom_complet": "Romy ZAGHBIB",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "BERNABOT",
+          "prenom": "Stéphane",
+          "nom_complet": "Stéphane BERNABOT",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "19"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

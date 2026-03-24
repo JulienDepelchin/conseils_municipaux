@@ -1,0 +1,123 @@
+{
+  "code_commune": "59490",
+  "commune": "Rainsars",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "WATREMEZ",
+    "prenom": "Colette",
+    "nom_complet": "Colette WATREMEZ",
+    "age": 75,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 155,
+    "votants": 112,
+    "pct_votants": 72.26,
+    "abstentions": 43,
+    "pct_abstentions": 27.74,
+    "exprimes": 88
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Ensemble pour RAINSARS",
+      "libelle_abrege_liste": "Ensemble pour RAINSARS",
+      "nuance_liste": null,
+      "voix": 88,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 10,
+      "sieges_cc": null,
+      "nb_elus": 10,
+      "tete_de_liste": {
+        "nom": "WATREMEZ",
+        "prenom": "Colette",
+        "nom_complet": "Colette WATREMEZ",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "WATREMEZ",
+          "prenom": "Colette",
+          "nom_complet": "Colette WATREMEZ",
+          "sexe": "F",
+          "age": 75,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "PETITJEAN",
+          "prenom": "Gérard",
+          "nom_complet": "Gérard PETITJEAN",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "ARNOUX",
+          "prenom": "Barbara",
+          "nom_complet": "Barbara ARNOUX",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "HOLAY",
+          "prenom": "Didier",
+          "nom_complet": "Didier HOLAY",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "RUTKOWSKI",
+          "prenom": "Céline",
+          "nom_complet": "Céline RUTKOWSKI",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "MICHIES",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe MICHIES",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "GAILLIEZ SCULFORT",
+          "prenom": "Anne Laure",
+          "nom_complet": "Anne Laure GAILLIEZ SCULFORT",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "ANUSET",
+          "prenom": "Samuel",
+          "nom_complet": "Samuel ANUSET",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "LADAN",
+          "prenom": "Gaëlle",
+          "nom_complet": "Gaëlle LADAN",
+          "sexe": "F",
+          "age": 32,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "LEVEQUE",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe LEVEQUE",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "10"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

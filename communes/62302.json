@@ -1,0 +1,131 @@
+{
+  "code_commune": "62302",
+  "commune": "Ergny",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "CARLU",
+    "prenom": "Bruno",
+    "nom_complet": "Bruno CARLU",
+    "age": 61,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 164,
+    "votants": 108,
+    "pct_votants": 65.85,
+    "abstentions": 56,
+    "pct_abstentions": 34.15,
+    "exprimes": 93
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "L'AVENIR ENSEMBLE",
+      "libelle_abrege_liste": "L'AVENIR ENSEMBLE",
+      "nuance_liste": null,
+      "voix": 93,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "CARLU",
+        "prenom": "Bruno",
+        "nom_complet": "Bruno CARLU",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "CARLU",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno CARLU",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BUIRE",
+          "prenom": "Veronique",
+          "nom_complet": "Veronique BUIRE",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "CORDIER",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe CORDIER",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DUCROCQ",
+          "prenom": "Françoise",
+          "nom_complet": "Françoise DUCROCQ",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "HORNOY",
+          "prenom": "Alain",
+          "nom_complet": "Alain HORNOY",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DUHAMEL",
+          "prenom": "Adelaïde",
+          "nom_complet": "Adelaïde DUHAMEL",
+          "sexe": "F",
+          "age": 29,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "REMONT",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas REMONT",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LELEU",
+          "prenom": "Pauline",
+          "nom_complet": "Pauline LELEU",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "ROUSSEL",
+          "prenom": "Pierre-Henri",
+          "nom_complet": "Pierre-Henri ROUSSEL",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "SALOMON",
+          "prenom": "Elisabeth",
+          "nom_complet": "Elisabeth SALOMON",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "SOCKEEL",
+          "prenom": "Guy",
+          "nom_complet": "Guy SOCKEEL",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

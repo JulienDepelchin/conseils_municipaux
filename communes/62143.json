@@ -1,0 +1,99 @@
+{
+  "code_commune": "62143",
+  "commune": "Boffles",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "CROISEL",
+    "prenom": "Raymond",
+    "nom_complet": "Raymond CROISEL",
+    "age": 79,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 38,
+    "votants": 30,
+    "pct_votants": 78.95,
+    "abstentions": 8,
+    "pct_abstentions": 21.05,
+    "exprimes": 29
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "BOFFLES ENSEMBLE",
+      "libelle_abrege_liste": "BOFFLES ENSEMBLE",
+      "nuance_liste": null,
+      "voix": 29,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 7,
+      "sieges_cc": null,
+      "nb_elus": 7,
+      "tete_de_liste": {
+        "nom": "CROISEL",
+        "prenom": "Raymond",
+        "nom_complet": "Raymond CROISEL",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "CROISEL",
+          "prenom": "Raymond",
+          "nom_complet": "Raymond CROISEL",
+          "sexe": "M",
+          "age": 79,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "NIVEL",
+          "prenom": "Cindy",
+          "nom_complet": "Cindy NIVEL",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LEMAIRE",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal LEMAIRE",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "CROISEL",
+          "prenom": "Corinne",
+          "nom_complet": "Corinne CROISEL",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "VIART",
+          "prenom": "Jean-François",
+          "nom_complet": "Jean-François VIART",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "SEXTIUS",
+          "prenom": "Prescillia",
+          "nom_complet": "Prescillia SEXTIUS",
+          "sexe": "F",
+          "age": 32,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "VINSON",
+          "prenom": "Benoît",
+          "nom_complet": "Benoît VINSON",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "7"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

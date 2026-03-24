@@ -1,0 +1,131 @@
+{
+  "code_commune": "62658",
+  "commune": "Pittefaux",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "COPPIN",
+    "prenom": "Patrick",
+    "nom_complet": "Patrick COPPIN",
+    "age": 64,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 118,
+    "votants": 82,
+    "pct_votants": 69.49,
+    "abstentions": 36,
+    "pct_abstentions": 30.51,
+    "exprimes": 75
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "PITTEFAUX CALME ET ENVIRONNEMENT",
+      "libelle_abrege_liste": "PITTEFAUX CALME ET ENVIRONNEMENT",
+      "nuance_liste": null,
+      "voix": 75,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "COPPIN",
+        "prenom": "Patrick",
+        "nom_complet": "Patrick COPPIN",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "COPPIN",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick COPPIN",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DESMYTTERE",
+          "prenom": "Sophie",
+          "nom_complet": "Sophie DESMYTTERE",
+          "sexe": "F",
+          "age": 76,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "CALCOEN",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe CALCOEN",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "GIRSCHIG",
+          "prenom": "Adélaïde",
+          "nom_complet": "Adélaïde GIRSCHIG",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "BAILLET",
+          "prenom": "Arnaud",
+          "nom_complet": "Arnaud BAILLET",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "PORET",
+          "prenom": "Laurence",
+          "nom_complet": "Laurence PORET",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "MARQUET-PAQUIER",
+          "prenom": "Thierry",
+          "nom_complet": "Thierry MARQUET-PAQUIER",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "CROCCEL",
+          "prenom": "Laetitia",
+          "nom_complet": "Laetitia CROCCEL",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "B'AHEU",
+          "prenom": "Thomas",
+          "nom_complet": "Thomas B'AHEU",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "TIERNY",
+          "prenom": "Caroline",
+          "nom_complet": "Caroline TIERNY",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DELMOTTE",
+          "prenom": "Arnaud",
+          "nom_complet": "Arnaud DELMOTTE",
+          "sexe": "M",
+          "age": 30,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "code_commune": "62303",
+  "commune": "Erin",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "LECLERCQ",
+    "prenom": "Cédric",
+    "nom_complet": "Cédric LECLERCQ",
+    "age": 53,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 174,
+    "votants": 108,
+    "pct_votants": 62.07,
+    "abstentions": 66,
+    "pct_abstentions": 37.93,
+    "exprimes": 94
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "BIEN VIVRE A ERIN",
+      "libelle_abrege_liste": "BIEN VIVRE A ERIN",
+      "nuance_liste": null,
+      "voix": 94,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "LECLERCQ",
+        "prenom": "Cédric",
+        "nom_complet": "Cédric LECLERCQ",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LECLERCQ",
+          "prenom": "Cédric",
+          "nom_complet": "Cédric LECLERCQ",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DESMAUX",
+          "prenom": "Viviane",
+          "nom_complet": "Viviane DESMAUX",
+          "sexe": "F",
+          "age": 72,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DELAMARRE",
+          "prenom": "Hubert",
+          "nom_complet": "Hubert DELAMARRE",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LECLERCQ",
+          "prenom": "Carole",
+          "nom_complet": "Carole LECLERCQ",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LAFONTE",
+          "prenom": "Thibaut",
+          "nom_complet": "Thibaut LAFONTE",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "HANIQUE",
+          "prenom": "Céline",
+          "nom_complet": "Céline HANIQUE",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DELENGAIGNE",
+          "prenom": "Damien",
+          "nom_complet": "Damien DELENGAIGNE",
+          "sexe": "M",
+          "age": 34,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DUFOSSE",
+          "prenom": "Elodie",
+          "nom_complet": "Elodie DUFOSSE",
+          "sexe": "F",
+          "age": 31,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DELATTRE",
+          "prenom": "Vincent",
+          "nom_complet": "Vincent DELATTRE",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "THÉRET",
+          "prenom": "Céline",
+          "nom_complet": "Céline THÉRET",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "POLLET",
+          "prenom": "Willaume",
+          "nom_complet": "Willaume POLLET",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "code_commune": "59573",
+  "commune": "Solrinnes",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "LE ROUZIC",
+    "prenom": "Rémi",
+    "nom_complet": "Rémi LE ROUZIC",
+    "age": 66,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 118,
+    "votants": 94,
+    "pct_votants": 79.66,
+    "abstentions": 24,
+    "pct_abstentions": 20.34,
+    "exprimes": 92
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Vivre et agir à Solrinnes",
+      "libelle_abrege_liste": "Vivre et agir à Solrinnes",
+      "nuance_liste": null,
+      "voix": 51,
+      "pct_voix_exprimes": 55.43,
+      "sieges_cm": 9,
+      "sieges_cc": null,
+      "nb_elus": 9,
+      "tete_de_liste": {
+        "nom": "LE ROUZIC",
+        "prenom": "Rémi",
+        "nom_complet": "Rémi LE ROUZIC",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LE ROUZIC",
+          "prenom": "Rémi",
+          "nom_complet": "Rémi LE ROUZIC",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LE ROUZIC",
+          "prenom": "Marie-Thérèse",
+          "nom_complet": "Marie-Thérèse LE ROUZIC",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LECROART",
+          "prenom": "Stéphane",
+          "nom_complet": "Stéphane LECROART",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DUCHET",
+          "prenom": "Laëtitia",
+          "nom_complet": "Laëtitia DUCHET",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "PIRET",
+          "prenom": "Thierry",
+          "nom_complet": "Thierry PIRET",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DECLERCQ",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie DECLERCQ",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BARBET",
+          "prenom": "François",
+          "nom_complet": "François BARBET",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "SIMON",
+          "prenom": "Armony",
+          "nom_complet": "Armony SIMON",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DECONINCK",
+          "prenom": "Franck",
+          "nom_complet": "Franck DECONINCK",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "9"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "Unis pour Solrinnes",
+      "libelle_abrege_liste": "Unis pour Solrinnes",
+      "nuance_liste": null,
+      "voix": 41,
+      "pct_voix_exprimes": 44.57,
+      "sieges_cm": 2,
+      "sieges_cc": null,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "LEGRAND",
+        "prenom": "Marie-Lise",
+        "nom_complet": "Marie-Lise LEGRAND",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "LEGRAND",
+          "prenom": "Marie-Lise",
+          "nom_complet": "Marie-Lise LEGRAND",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BODCHON",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe BODCHON",
+          "sexe": "M",
+          "age": 25,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

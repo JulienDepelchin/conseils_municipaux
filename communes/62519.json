@@ -1,0 +1,163 @@
+{
+  "code_commune": "62519",
+  "commune": "Lisbourg",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "GALLET",
+    "prenom": "Willy",
+    "nom_complet": "Willy GALLET",
+    "age": 52,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 482,
+    "votants": 303,
+    "pct_votants": 62.86,
+    "abstentions": 179,
+    "pct_abstentions": 37.14,
+    "exprimes": 200
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "LISBOURG DE DEMAIN",
+      "libelle_abrege_liste": "LISBOURG DE DEMAIN",
+      "nuance_liste": null,
+      "voix": 200,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "GALLET",
+        "prenom": "Willy",
+        "nom_complet": "Willy GALLET",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "GALLET",
+          "prenom": "Willy",
+          "nom_complet": "Willy GALLET",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BOUTIN",
+          "prenom": "Dany",
+          "nom_complet": "Dany BOUTIN",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "ROUSSEL",
+          "prenom": "Pierre",
+          "nom_complet": "Pierre ROUSSEL",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BLONDEL",
+          "prenom": "Emilie",
+          "nom_complet": "Emilie BLONDEL",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "GUILBERT",
+          "prenom": "Cyril",
+          "nom_complet": "Cyril GUILBERT",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "COQUART",
+          "prenom": "Julie",
+          "nom_complet": "Julie COQUART",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "VANGREVENINGE",
+          "prenom": "Jean-Pierre",
+          "nom_complet": "Jean-Pierre VANGREVENINGE",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DEFEBVIN",
+          "prenom": "Clémence",
+          "nom_complet": "Clémence DEFEBVIN",
+          "sexe": "F",
+          "age": 26,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "BAILLY",
+          "prenom": "Guillaume",
+          "nom_complet": "Guillaume BAILLY",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "LETURGIE",
+          "prenom": "Stella",
+          "nom_complet": "Stella LETURGIE",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "TOULOTTE",
+          "prenom": "Geoffrey",
+          "nom_complet": "Geoffrey TOULOTTE",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "GOGUILLON",
+          "prenom": "Rolande",
+          "nom_complet": "Rolande GOGUILLON",
+          "sexe": "F",
+          "age": 70,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "DUCROCQ",
+          "prenom": "Sébastien",
+          "nom_complet": "Sébastien DUCROCQ",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "TAUVRY",
+          "prenom": "Désirée",
+          "nom_complet": "Désirée TAUVRY",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "PRUVOST",
+          "prenom": "Claude",
+          "nom_complet": "Claude PRUVOST",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "code_commune": "59049",
+  "commune": "Bantouzelle",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "LEMAITRE",
+    "prenom": "Adrien",
+    "nom_complet": "Adrien LEMAITRE",
+    "age": 32,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 333,
+    "votants": 166,
+    "pct_votants": 49.85,
+    "abstentions": 167,
+    "pct_abstentions": 50.15,
+    "exprimes": 141
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Bantouzelle pour tous",
+      "libelle_abrege_liste": "Bantouzelle pour tous",
+      "nuance_liste": null,
+      "voix": 141,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "LEMAITRE",
+        "prenom": "Adrien",
+        "nom_complet": "Adrien LEMAITRE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LEMAITRE",
+          "prenom": "Adrien",
+          "nom_complet": "Adrien LEMAITRE",
+          "sexe": "M",
+          "age": 32,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "MAUR",
+          "prenom": "Sylviane",
+          "nom_complet": "Sylviane MAUR",
+          "sexe": "F",
+          "age": 70,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LEGER",
+          "prenom": "Denis",
+          "nom_complet": "Denis LEGER",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "COCRELLE",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie COCRELLE",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "CARPENTIER",
+          "prenom": "Raphaêl",
+          "nom_complet": "Raphaêl CARPENTIER",
+          "sexe": "M",
+          "age": 33,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LEGRAND",
+          "prenom": "Cathy",
+          "nom_complet": "Cathy LEGRAND",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DEMANET",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal DEMANET",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DETRIVIERE",
+          "prenom": "Aude",
+          "nom_complet": "Aude DETRIVIERE",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "VANHOLEBEKE",
+          "prenom": "Antoine",
+          "nom_complet": "Antoine VANHOLEBEKE",
+          "sexe": "M",
+          "age": 25,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "LAMOURET",
+          "prenom": "Hélène",
+          "nom_complet": "Hélène LAMOURET",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "VERIN",
+          "prenom": "Alain",
+          "nom_complet": "Alain VERIN",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

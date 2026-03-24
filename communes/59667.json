@@ -1,0 +1,131 @@
+{
+  "code_commune": "59667",
+  "commune": "Zermezeele",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "DEVROEDE",
+    "prenom": "Coralie",
+    "nom_complet": "Coralie DEVROEDE",
+    "age": 39,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 195,
+    "votants": 128,
+    "pct_votants": 65.64,
+    "abstentions": 67,
+    "pct_abstentions": 34.36,
+    "exprimes": 106
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Zermezeele, un village qui avance avec vous",
+      "libelle_abrege_liste": "zuvqavav",
+      "nuance_liste": null,
+      "voix": 106,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "DEVROEDE",
+        "prenom": "Coralie",
+        "nom_complet": "Coralie DEVROEDE",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "DEVROEDE",
+          "prenom": "Coralie",
+          "nom_complet": "Coralie DEVROEDE",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "COLIN",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe COLIN",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BASSUEL",
+          "prenom": "Huguette",
+          "nom_complet": "Huguette BASSUEL",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DEHAENE",
+          "prenom": "Sebastien",
+          "nom_complet": "Sebastien DEHAENE",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "KOCH",
+          "prenom": "Emidia",
+          "nom_complet": "Emidia KOCH",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DEHEEGHER",
+          "prenom": "Jordan",
+          "nom_complet": "Jordan DEHEEGHER",
+          "sexe": "M",
+          "age": 28,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "MARTEL",
+          "prenom": "Daisy",
+          "nom_complet": "Daisy MARTEL",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LEPORCQ",
+          "prenom": "Marc",
+          "nom_complet": "Marc LEPORCQ",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "MOCKELYN",
+          "prenom": "Patricia",
+          "nom_complet": "Patricia MOCKELYN",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "MINNE",
+          "prenom": "Bertrand",
+          "nom_complet": "Bertrand MINNE",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "WATELLE",
+          "prenom": "Laura",
+          "nom_complet": "Laura WATELLE",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

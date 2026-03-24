@@ -1,0 +1,131 @@
+{
+  "code_commune": "62404",
+  "commune": "Halloy",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "CAUVET",
+    "prenom": "Jean-Louis",
+    "nom_complet": "Jean-Louis CAUVET",
+    "age": 70,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 166,
+    "votants": 107,
+    "pct_votants": 64.46,
+    "abstentions": 59,
+    "pct_abstentions": 35.54,
+    "exprimes": 87
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "LISTE MENÉE PAR JEAN-LOUIS CAUVET",
+      "libelle_abrege_liste": "LISTE MENÉE PAR JEAN-LOUIS CAUVET",
+      "nuance_liste": null,
+      "voix": 87,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "CAUVET",
+        "prenom": "Jean-Louis",
+        "nom_complet": "Jean-Louis CAUVET",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "CAUVET",
+          "prenom": "Jean-Louis",
+          "nom_complet": "Jean-Louis CAUVET",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "CAUWET",
+          "prenom": "Marilyne",
+          "nom_complet": "Marilyne CAUWET",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DELEVAL",
+          "prenom": "Guillaume",
+          "nom_complet": "Guillaume DELEVAL",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "JABLONSKI",
+          "prenom": "Amélie",
+          "nom_complet": "Amélie JABLONSKI",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LANNOYE",
+          "prenom": "David",
+          "nom_complet": "David LANNOYE",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DELAPORTE",
+          "prenom": "Florence",
+          "nom_complet": "Florence DELAPORTE",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "FOURNIER",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier FOURNIER",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LAROCHE",
+          "prenom": "Chantal",
+          "nom_complet": "Chantal LAROCHE",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "FOURNIER",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent FOURNIER",
+          "sexe": "M",
+          "age": 31,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "MESNIL",
+          "prenom": "Myriam",
+          "nom_complet": "Myriam MESNIL",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "RIVILLON",
+          "prenom": "Christian",
+          "nom_complet": "Christian RIVILLON",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

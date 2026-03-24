@@ -1,0 +1,99 @@
+{
+  "code_commune": "62253",
+  "commune": "Couturelle",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "LEGOUX",
+    "prenom": "Hugues",
+    "nom_complet": "Hugues LEGOUX",
+    "age": 77,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 60,
+    "votants": 52,
+    "pct_votants": 86.67,
+    "abstentions": 8,
+    "pct_abstentions": 13.33,
+    "exprimes": 38
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Liste menée par Legoux Hugues",
+      "libelle_abrege_liste": "Liste menée par Legoux Hugues",
+      "nuance_liste": null,
+      "voix": 38,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 7,
+      "sieges_cc": null,
+      "nb_elus": 7,
+      "tete_de_liste": {
+        "nom": "LEGOUX",
+        "prenom": "Hugues",
+        "nom_complet": "Hugues LEGOUX",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LEGOUX",
+          "prenom": "Hugues",
+          "nom_complet": "Hugues LEGOUX",
+          "sexe": "M",
+          "age": 77,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "CARON",
+          "prenom": "Françoise",
+          "nom_complet": "Françoise CARON",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "FOY",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier FOY",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LEGER",
+          "prenom": "Valérie",
+          "nom_complet": "Valérie LEGER",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "PEGARD",
+          "prenom": "Rémi",
+          "nom_complet": "Rémi PEGARD",
+          "sexe": "M",
+          "age": 32,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "JOURDEL",
+          "prenom": "Alexandra",
+          "nom_complet": "Alexandra JOURDEL",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "TURPIN",
+          "prenom": "David",
+          "nom_complet": "David TURPIN",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "7"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

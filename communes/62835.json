@@ -1,0 +1,183 @@
+{
+  "code_commune": "62835",
+  "commune": "Valhuon",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "LEROY",
+    "prenom": "Maryse",
+    "nom_complet": "Maryse LEROY",
+    "age": 68,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 441,
+    "votants": 346,
+    "pct_votants": 78.46,
+    "abstentions": 95,
+    "pct_abstentions": 21.54,
+    "exprimes": 334
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "S'UNIR ET AGIR POUR VALHUON",
+      "libelle_abrege_liste": "S'UNIR ET AGIR POUR VALHUON",
+      "nuance_liste": null,
+      "voix": 201,
+      "pct_voix_exprimes": 60.18,
+      "sieges_cm": 12,
+      "sieges_cc": null,
+      "nb_elus": 12,
+      "tete_de_liste": {
+        "nom": "LEROY",
+        "prenom": "Maryse",
+        "nom_complet": "Maryse LEROY",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "LEROY",
+          "prenom": "Maryse",
+          "nom_complet": "Maryse LEROY",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BOUCHART",
+          "prenom": "Albert",
+          "nom_complet": "Albert BOUCHART",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DELY",
+          "prenom": "Véronique",
+          "nom_complet": "Véronique DELY",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "PRUVOST",
+          "prenom": "Michael",
+          "nom_complet": "Michael PRUVOST",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "HENNUYER",
+          "prenom": "Caroline",
+          "nom_complet": "Caroline HENNUYER",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LEBAS",
+          "prenom": "Tony",
+          "nom_complet": "Tony LEBAS",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "KIRCHNER",
+          "prenom": "Kelly",
+          "nom_complet": "Kelly KIRCHNER",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DUPONT",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno DUPONT",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "MAGNEZ",
+          "prenom": "Cecilia",
+          "nom_complet": "Cecilia MAGNEZ",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "LEJEUNE",
+          "prenom": "Régis",
+          "nom_complet": "Régis LEJEUNE",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "LECIGNE",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie LECIGNE",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "LEROY",
+          "prenom": "Jean-Michel",
+          "nom_complet": "Jean-Michel LEROY",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "12"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "POUR VALHUON, ENSEMBLE POURSUIVONS LA DYNAMIQUE",
+      "libelle_abrege_liste": "POUR VALHUON, ENSEMBLE POURSUIVONS LA DYNAMIQUE",
+      "nuance_liste": null,
+      "voix": 133,
+      "pct_voix_exprimes": 39.82,
+      "sieges_cm": 3,
+      "sieges_cc": null,
+      "nb_elus": 3,
+      "tete_de_liste": {
+        "nom": "PAGERIE",
+        "prenom": "Marie-Claude",
+        "nom_complet": "Marie-Claude PAGERIE",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "PAGERIE",
+          "prenom": "Marie-Claude",
+          "nom_complet": "Marie-Claude PAGERIE",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LECOCQ",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick LECOCQ",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LEJEUNE",
+          "prenom": "Aline",
+          "nom_complet": "Aline LEJEUNE",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "3"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

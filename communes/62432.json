@@ -1,0 +1,171 @@
+{
+  "code_commune": "62432",
+  "commune": "Herbinghen",
+  "departement": "Pas-de-Calais",
+  "tour": "T2",
+  "maire": {
+    "nom": "DERTHE",
+    "prenom": "Ludovic",
+    "nom_complet": "Ludovic DERTHE",
+    "age": 50,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 312,
+    "votants": 272,
+    "pct_votants": 87.18,
+    "abstentions": 40,
+    "pct_abstentions": 12.82,
+    "exprimes": 266
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "Ensemble, faisons vivre Herbinghen",
+      "libelle_abrege_liste": "Ensemble, faisons vivre Herbinghen",
+      "nuance_liste": null,
+      "voix": 109,
+      "pct_voix_exprimes": 40.98,
+      "sieges_cm": 8,
+      "sieges_cc": null,
+      "nb_elus": 8,
+      "tete_de_liste": {
+        "nom": "DERTHE",
+        "prenom": "Ludovic",
+        "nom_complet": "Ludovic DERTHE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DERTHE",
+          "prenom": "Ludovic",
+          "nom_complet": "Ludovic DERTHE",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DELATTRE",
+          "prenom": "Justine",
+          "nom_complet": "Justine DELATTRE",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "PECQUEUX",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric PECQUEUX",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DELRUE",
+          "prenom": "Justine",
+          "nom_complet": "Justine DELRUE",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "VANDENKOORNHUYSE",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe VANDENKOORNHUYSE",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LEVEUGLE",
+          "prenom": "Audrey",
+          "nom_complet": "Audrey LEVEUGLE",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "MARTINS",
+          "prenom": "Julien",
+          "nom_complet": "Julien MARTINS",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "BOULET",
+          "prenom": "Marine",
+          "nom_complet": "Marine BOULET",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "8"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "3",
+      "libelle_liste": "Un nouveau souffle pour HERBINGHEN",
+      "libelle_abrege_liste": "Un nouveau souffle pour HERBINGHEN",
+      "nuance_liste": null,
+      "voix": 100,
+      "pct_voix_exprimes": 37.59,
+      "sieges_cm": 2,
+      "sieges_cc": null,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "EVRARD",
+        "prenom": "Paul-Marie",
+        "nom_complet": "Paul-Marie EVRARD",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "EVRARD",
+          "prenom": "Paul-Marie",
+          "nom_complet": "Paul-Marie EVRARD",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "QUELDERIE",
+          "prenom": "Anne-Isabelle",
+          "nom_complet": "Anne-Isabelle QUELDERIE",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Préservons notre village, ensemble construisons son avenir",
+      "libelle_abrege_liste": "Préservons notre village, ensemble construisons son avenir",
+      "nuance_liste": null,
+      "voix": 57,
+      "pct_voix_exprimes": 21.43,
+      "sieges_cm": 1,
+      "sieges_cc": null,
+      "nb_elus": 1,
+      "tete_de_liste": {
+        "nom": "DEBONNE",
+        "prenom": "Valentin",
+        "nom_complet": "Valentin DEBONNE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DEBONNE",
+          "prenom": "Valentin",
+          "nom_complet": "Valentin DEBONNE",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "1"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

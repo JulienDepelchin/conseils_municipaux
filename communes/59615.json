@@ -1,0 +1,247 @@
+{
+  "code_commune": "59615",
+  "commune": "Vieux-Berquin",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "LEVEUGLE",
+    "prenom": "Louis",
+    "nom_complet": "Louis LEVEUGLE",
+    "age": 31,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 2060,
+    "votants": 1510,
+    "pct_votants": 73.3,
+    "abstentions": 550,
+    "pct_abstentions": 26.7,
+    "exprimes": 1486
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "CAP SUR 2026 : AVANCONS VERS DEMAIN",
+      "libelle_abrege_liste": "AVD",
+      "nuance_liste": null,
+      "voix": 1063,
+      "pct_voix_exprimes": 71.53,
+      "sieges_cm": 20,
+      "sieges_cc": 2,
+      "nb_elus": 20,
+      "tete_de_liste": {
+        "nom": "LEVEUGLE",
+        "prenom": "Louis",
+        "nom_complet": "Louis LEVEUGLE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LEVEUGLE",
+          "prenom": "Louis",
+          "nom_complet": "Louis LEVEUGLE",
+          "sexe": "M",
+          "age": 31,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "RANCHY",
+          "prenom": "Delphine",
+          "nom_complet": "Delphine RANCHY",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "COURDAIN",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier COURDAIN",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BECK",
+          "prenom": "Dorothée",
+          "nom_complet": "Dorothée BECK",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "HANNEBICQUE",
+          "prenom": "Francois",
+          "nom_complet": "Francois HANNEBICQUE",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "POULAIN",
+          "prenom": "Florie",
+          "nom_complet": "Florie POULAIN",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DEVULDER",
+          "prenom": "Guillaume",
+          "nom_complet": "Guillaume DEVULDER",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "BERTHES",
+          "prenom": "Charlotte",
+          "nom_complet": "Charlotte BERTHES",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "GONTIER",
+          "prenom": "Arnaud",
+          "nom_complet": "Arnaud GONTIER",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DEVOS",
+          "prenom": "Sophie",
+          "nom_complet": "Sophie DEVOS",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DURAND",
+          "prenom": "Jimmy",
+          "nom_complet": "Jimmy DURAND",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "FLAMMEY",
+          "prenom": "Arlette",
+          "nom_complet": "Arlette FLAMMEY",
+          "sexe": "F",
+          "age": 76,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "FAES",
+          "prenom": "Calixte",
+          "nom_complet": "Calixte FAES",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "LEVOYE",
+          "prenom": "Candice",
+          "nom_complet": "Candice LEVOYE",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "GAGET",
+          "prenom": "Stéfan",
+          "nom_complet": "Stéfan GAGET",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "HOUCKE",
+          "prenom": "Bénédicte",
+          "nom_complet": "Bénédicte HOUCKE",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "PROTIN",
+          "prenom": "Albert",
+          "nom_complet": "Albert PROTIN",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "VERET",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie VERET",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "HUGUE",
+          "prenom": "Aurélien",
+          "nom_complet": "Aurélien HUGUE",
+          "sexe": "M",
+          "age": 34,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "ANSART",
+          "prenom": "Claire",
+          "nom_complet": "Claire ANSART",
+          "sexe": "F",
+          "age": 29,
+          "rang_liste": "20"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "Vieux-Berquin, Votre terre d'avenir",
+      "libelle_abrege_liste": "VBVTDA",
+      "nuance_liste": null,
+      "voix": 423,
+      "pct_voix_exprimes": 28.47,
+      "sieges_cm": 3,
+      "sieges_cc": 0,
+      "nb_elus": 3,
+      "tete_de_liste": {
+        "nom": "RUYANT",
+        "prenom": "Pierre-Louis",
+        "nom_complet": "Pierre-Louis RUYANT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "RUYANT",
+          "prenom": "Pierre-Louis",
+          "nom_complet": "Pierre-Louis RUYANT",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DUBOIS",
+          "prenom": "Aurore",
+          "nom_complet": "Aurore DUBOIS",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "VANDAMME",
+          "prenom": "Regis",
+          "nom_complet": "Regis VANDAMME",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "3"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

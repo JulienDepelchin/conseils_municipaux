@@ -1,0 +1,163 @@
+{
+  "code_commune": "59192",
+  "commune": "Emerchicourt",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "ROUSSEL",
+    "prenom": "Régis",
+    "nom_complet": "Régis ROUSSEL",
+    "age": 60,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 648,
+    "votants": 408,
+    "pct_votants": 62.96,
+    "abstentions": 240,
+    "pct_abstentions": 37.04,
+    "exprimes": 353
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "L'Avenir d'Émerchicourt, c'est vous, c'est nous !",
+      "libelle_abrege_liste": "L'Avenir d'Émerchicourt, c'est vous, c'est nous !",
+      "nuance_liste": null,
+      "voix": 353,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "ROUSSEL",
+        "prenom": "Régis",
+        "nom_complet": "Régis ROUSSEL",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "ROUSSEL",
+          "prenom": "Régis",
+          "nom_complet": "Régis ROUSSEL",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "SUM",
+          "prenom": "Michèle",
+          "nom_complet": "Michèle SUM",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DAMS",
+          "prenom": "Gonzague",
+          "nom_complet": "Gonzague DAMS",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BAFCOPS",
+          "prenom": "Marie-Catherine",
+          "nom_complet": "Marie-Catherine BAFCOPS",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DUMONT",
+          "prenom": "Jean-Philippe",
+          "nom_complet": "Jean-Philippe DUMONT",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "CLÉMENT",
+          "prenom": "Chantal",
+          "nom_complet": "Chantal CLÉMENT",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "SZATAN",
+          "prenom": "Michel",
+          "nom_complet": "Michel SZATAN",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "HERBIN",
+          "prenom": "Mélody",
+          "nom_complet": "Mélody HERBIN",
+          "sexe": "F",
+          "age": 32,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "LETENEUR",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe LETENEUR",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "CHANTREAU",
+          "prenom": "Audrey",
+          "nom_complet": "Audrey CHANTREAU",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "PETIT",
+          "prenom": "Taylor",
+          "nom_complet": "Taylor PETIT",
+          "sexe": "M",
+          "age": 32,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "HUTIN",
+          "prenom": "Mélanie",
+          "nom_complet": "Mélanie HUTIN",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "BRULIN",
+          "prenom": "François",
+          "nom_complet": "François BRULIN",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "CHOQUET",
+          "prenom": "Justine",
+          "nom_complet": "Justine CHOQUET",
+          "sexe": "F",
+          "age": 32,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "DUFOUR",
+          "prenom": "Vincent",
+          "nom_complet": "Vincent DUFOUR",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

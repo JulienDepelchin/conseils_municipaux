@@ -1,0 +1,131 @@
+{
+  "code_commune": "62635",
+  "commune": "Offin",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "HOUZEL",
+    "prenom": "Roger",
+    "nom_complet": "Roger HOUZEL",
+    "age": 61,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 196,
+    "votants": 162,
+    "pct_votants": 82.65,
+    "abstentions": 34,
+    "pct_abstentions": 17.35,
+    "exprimes": 124
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "OFFIN",
+      "libelle_abrege_liste": "OFFIN",
+      "nuance_liste": null,
+      "voix": 124,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "HOUZEL",
+        "prenom": "Roger",
+        "nom_complet": "Roger HOUZEL",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "HOUZEL",
+          "prenom": "Roger",
+          "nom_complet": "Roger HOUZEL",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BALDACCI",
+          "prenom": "Christine",
+          "nom_complet": "Christine BALDACCI",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DELAHAYE",
+          "prenom": "Emmanuel",
+          "nom_complet": "Emmanuel DELAHAYE",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BOULENGER",
+          "prenom": "Marie-Pierre",
+          "nom_complet": "Marie-Pierre BOULENGER",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DELBE",
+          "prenom": "Sebastien",
+          "nom_complet": "Sebastien DELBE",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DE BOURNONVILLE",
+          "prenom": "Clotilde",
+          "nom_complet": "Clotilde DE BOURNONVILLE",
+          "sexe": "F",
+          "age": 70,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "MASSON",
+          "prenom": "Jérôme",
+          "nom_complet": "Jérôme MASSON",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "FOURNIER",
+          "prenom": "Raymonde",
+          "nom_complet": "Raymonde FOURNIER",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "NICOLLE",
+          "prenom": "Roger",
+          "nom_complet": "Roger NICOLLE",
+          "sexe": "M",
+          "age": 80,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "VANQUATHEM",
+          "prenom": "Annie",
+          "nom_complet": "Annie VANQUATHEM",
+          "sexe": "F",
+          "age": 86,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "TRUNET",
+          "prenom": "Jean-Baptiste",
+          "nom_complet": "Jean-Baptiste TRUNET",
+          "sexe": "M",
+          "age": 33,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

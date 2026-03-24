@@ -1,0 +1,163 @@
+{
+  "code_commune": "62488",
+  "commune": "Landrethun-lès-Ardres",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "LECLERCQ",
+    "prenom": "Anne-Charlotte",
+    "nom_complet": "Anne-Charlotte LECLERCQ",
+    "age": 43,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 622,
+    "votants": 366,
+    "pct_votants": 58.84,
+    "abstentions": 256,
+    "pct_abstentions": 41.16,
+    "exprimes": 310
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Unis et proches de vous",
+      "libelle_abrege_liste": "Unis et proches de vous",
+      "nuance_liste": null,
+      "voix": 310,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "LECLERCQ",
+        "prenom": "Anne-Charlotte",
+        "nom_complet": "Anne-Charlotte LECLERCQ",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "LECLERCQ",
+          "prenom": "Anne-Charlotte",
+          "nom_complet": "Anne-Charlotte LECLERCQ",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "VALQUE",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno VALQUE",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "POLLET",
+          "prenom": "Aurore",
+          "nom_complet": "Aurore POLLET",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DEVYNCK",
+          "prenom": "Romain",
+          "nom_complet": "Romain DEVYNCK",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "COOLOS",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie COOLOS",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DECOUFOUR",
+          "prenom": "Antoine",
+          "nom_complet": "Antoine DECOUFOUR",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "COLIN",
+          "prenom": "Maud",
+          "nom_complet": "Maud COLIN",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "BOYEZ",
+          "prenom": "François",
+          "nom_complet": "François BOYEZ",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "BEAUGRAND",
+          "prenom": "Anaïs",
+          "nom_complet": "Anaïs BEAUGRAND",
+          "sexe": "F",
+          "age": 32,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DECHERF",
+          "prenom": "Mickaël",
+          "nom_complet": "Mickaël DECHERF",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "HUGON",
+          "prenom": "Delphine",
+          "nom_complet": "Delphine HUGON",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "LEDOUX",
+          "prenom": "Geoffrey",
+          "nom_complet": "Geoffrey LEDOUX",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "ARCHALAÜS",
+          "prenom": "Claudie",
+          "nom_complet": "Claudie ARCHALAÜS",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "DESBARBIEUX",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick DESBARBIEUX",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "POURE",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle POURE",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

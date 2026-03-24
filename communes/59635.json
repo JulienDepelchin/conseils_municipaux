@@ -1,0 +1,131 @@
+{
+  "code_commune": "59635",
+  "commune": "Wambaix",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "MANESSE",
+    "prenom": "Romain",
+    "nom_complet": "Romain MANESSE",
+    "age": 42,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 323,
+    "votants": 210,
+    "pct_votants": 65.02,
+    "abstentions": 113,
+    "pct_abstentions": 34.98,
+    "exprimes": 181
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ENSEMBLE CONTINUONS L'ÉLAN POUR WAMBAIX",
+      "libelle_abrege_liste": "ENSEMBLE CONTINUONS L'ÉLAN POUR WAMBAIX",
+      "nuance_liste": null,
+      "voix": 181,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "MANESSE",
+        "prenom": "Romain",
+        "nom_complet": "Romain MANESSE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "MANESSE",
+          "prenom": "Romain",
+          "nom_complet": "Romain MANESSE",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "CAPPELIEZ",
+          "prenom": "Karine",
+          "nom_complet": "Karine CAPPELIEZ",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LAURENT",
+          "prenom": "Didier",
+          "nom_complet": "Didier LAURENT",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "MAILLY",
+          "prenom": "Amandine",
+          "nom_complet": "Amandine MAILLY",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DESORMAIS",
+          "prenom": "Lionel",
+          "nom_complet": "Lionel DESORMAIS",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "MACHU",
+          "prenom": "Sabine",
+          "nom_complet": "Sabine MACHU",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BANSE",
+          "prenom": "Vincent",
+          "nom_complet": "Vincent BANSE",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "WALLET CELLE",
+          "prenom": "Estelle",
+          "nom_complet": "Estelle WALLET CELLE",
+          "sexe": "F",
+          "age": 30,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "LEFER",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal LEFER",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "CARDON",
+          "prenom": "Clémence",
+          "nom_complet": "Clémence CARDON",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "PLANCOT",
+          "prenom": "Marc",
+          "nom_complet": "Marc PLANCOT",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

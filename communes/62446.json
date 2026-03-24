@@ -1,0 +1,183 @@
+{
+  "code_commune": "62446",
+  "commune": "Hesdigneul-lès-Boulogne",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "HENNEQUIN",
+    "prenom": "Yves",
+    "nom_complet": "Yves HENNEQUIN",
+    "age": 58,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 675,
+    "votants": 519,
+    "pct_votants": 76.89,
+    "abstentions": 156,
+    "pct_abstentions": 23.11,
+    "exprimes": 512
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "HESDIGNEUL LES BOULOGNE, NOTRE VILLAGE, NOTRE AVENIR ENSEMBLE",
+      "libelle_abrege_liste": "HESDIGNEUL LES BOULOGNE, NOTRE VILLAGE, NOTRE AVENIR ENSEMBLE",
+      "nuance_liste": null,
+      "voix": 317,
+      "pct_voix_exprimes": 61.91,
+      "sieges_cm": 12,
+      "sieges_cc": null,
+      "nb_elus": 12,
+      "tete_de_liste": {
+        "nom": "HENNEQUIN",
+        "prenom": "Yves",
+        "nom_complet": "Yves HENNEQUIN",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "HENNEQUIN",
+          "prenom": "Yves",
+          "nom_complet": "Yves HENNEQUIN",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "TARTARE",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle TARTARE",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BOULET",
+          "prenom": "Mario",
+          "nom_complet": "Mario BOULET",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "THELLIER",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie THELLIER",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DEBOVE",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno DEBOVE",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "MALFOY",
+          "prenom": "Monique",
+          "nom_complet": "Monique MALFOY",
+          "sexe": "F",
+          "age": 77,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "TRIQUET",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique TRIQUET",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "FEUTRY",
+          "prenom": "Valérie",
+          "nom_complet": "Valérie FEUTRY",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "ACLOQUE",
+          "prenom": "Cyril",
+          "nom_complet": "Cyril ACLOQUE",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "HOLUIGUE",
+          "prenom": "Géraldine",
+          "nom_complet": "Géraldine HOLUIGUE",
+          "sexe": "F",
+          "age": 32,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "HENNEQUIN",
+          "prenom": "Gabin",
+          "nom_complet": "Gabin HENNEQUIN",
+          "sexe": "M",
+          "age": 25,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "DUMONT",
+          "prenom": "Anne-Sophie",
+          "nom_complet": "Anne-Sophie DUMONT",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "12"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "HESDIGNEUL-LES-BOULOGNE NATURELLEMENT",
+      "libelle_abrege_liste": "HESDIGNEUL-LES-BOULOGNE NATURELLEMENT",
+      "nuance_liste": null,
+      "voix": 195,
+      "pct_voix_exprimes": 38.09,
+      "sieges_cm": 3,
+      "sieges_cc": null,
+      "nb_elus": 3,
+      "tete_de_liste": {
+        "nom": "DUPONT",
+        "prenom": "Marie-Christine",
+        "nom_complet": "Marie-Christine DUPONT",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "DUPONT",
+          "prenom": "Marie-Christine",
+          "nom_complet": "Marie-Christine DUPONT",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LAISNE",
+          "prenom": "Godefroy",
+          "nom_complet": "Godefroy LAISNE",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "MERLIN",
+          "prenom": "Julie",
+          "nom_complet": "Julie MERLIN",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "3"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

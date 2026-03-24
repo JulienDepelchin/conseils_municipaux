@@ -1,0 +1,99 @@
+{
+  "code_commune": "62433",
+  "commune": "Héricourt",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "POILLION",
+    "prenom": "Mickaël",
+    "nom_complet": "Mickaël POILLION",
+    "age": 48,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 92,
+    "votants": 59,
+    "pct_votants": 64.13,
+    "abstentions": 33,
+    "pct_abstentions": 35.87,
+    "exprimes": 50
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "L'AVENIR D'HERICOURT",
+      "libelle_abrege_liste": "L'AVENIR D'HERICOURT",
+      "nuance_liste": null,
+      "voix": 50,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 7,
+      "sieges_cc": null,
+      "nb_elus": 7,
+      "tete_de_liste": {
+        "nom": "POILLION",
+        "prenom": "Mickaël",
+        "nom_complet": "Mickaël POILLION",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "POILLION",
+          "prenom": "Mickaël",
+          "nom_complet": "Mickaël POILLION",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "CITERNE",
+          "prenom": "Bernadette",
+          "nom_complet": "Bernadette CITERNE",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "MONTET",
+          "prenom": "Franck",
+          "nom_complet": "Franck MONTET",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "ROUSSEL",
+          "prenom": "Brigitte",
+          "nom_complet": "Brigitte ROUSSEL",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "THERY",
+          "prenom": "Pierre",
+          "nom_complet": "Pierre THERY",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LEMAIRE",
+          "prenom": "Christine",
+          "nom_complet": "Christine LEMAIRE",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BRACAVAL",
+          "prenom": "Sébastien",
+          "nom_complet": "Sébastien BRACAVAL",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "7"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

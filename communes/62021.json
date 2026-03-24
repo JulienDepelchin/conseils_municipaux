@@ -1,0 +1,131 @@
+{
+  "code_commune": "62021",
+  "commune": "Alette",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "VASSEUR",
+    "prenom": "Constant",
+    "nom_complet": "Constant VASSEUR",
+    "age": 67,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 281,
+    "votants": 204,
+    "pct_votants": 72.6,
+    "abstentions": 77,
+    "pct_abstentions": 27.4,
+    "exprimes": 180
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "LISTE D'UNION POUR ALETTE",
+      "libelle_abrege_liste": "LISTE D'UNION POUR ALETTE",
+      "nuance_liste": null,
+      "voix": 180,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "VASSEUR",
+        "prenom": "Constant",
+        "nom_complet": "Constant VASSEUR",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "VASSEUR",
+          "prenom": "Constant",
+          "nom_complet": "Constant VASSEUR",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "COELEMBIER",
+          "prenom": "Sylvia",
+          "nom_complet": "Sylvia COELEMBIER",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LEGRAND",
+          "prenom": "Daniel",
+          "nom_complet": "Daniel LEGRAND",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BALIKA-THIRET",
+          "prenom": "Lucie",
+          "nom_complet": "Lucie BALIKA-THIRET",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "ANQUEZ",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier ANQUEZ",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "BRASSART",
+          "prenom": "Mélanie",
+          "nom_complet": "Mélanie BRASSART",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BALLY",
+          "prenom": "Raymond",
+          "nom_complet": "Raymond BALLY",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "PECQUEUX",
+          "prenom": "Aurélie",
+          "nom_complet": "Aurélie PECQUEUX",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "WIDEHEN",
+          "prenom": "Franck",
+          "nom_complet": "Franck WIDEHEN",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "VAST",
+          "prenom": "Gaëlle",
+          "nom_complet": "Gaëlle VAST",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "HODICQ",
+          "prenom": "Morgan",
+          "nom_complet": "Morgan HODICQ",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

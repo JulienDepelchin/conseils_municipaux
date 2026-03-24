@@ -1,0 +1,315 @@
+{
+  "code_commune": "59431",
+  "commune": "Nieppe",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "SANDRA",
+    "prenom": "Marie",
+    "nom_complet": "Marie SANDRA",
+    "age": 44,
+    "nuance": "LDVD"
+  },
+  "resultats": {
+    "inscrits": 6426,
+    "votants": 3648,
+    "pct_votants": 56.77,
+    "abstentions": 2778,
+    "pct_abstentions": 43.23,
+    "exprimes": 3565
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "Vivons Nieppe Ensemble",
+      "libelle_abrege_liste": "vne",
+      "nuance_liste": "LDVD",
+      "voix": 1913,
+      "pct_voix_exprimes": 53.66,
+      "sieges_cm": 23,
+      "sieges_cc": 5,
+      "nb_elus": 23,
+      "tete_de_liste": {
+        "nom": "SANDRA",
+        "prenom": "Marie",
+        "nom_complet": "Marie SANDRA",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "SANDRA",
+          "prenom": "Marie",
+          "nom_complet": "Marie SANDRA",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "MEURILLON",
+          "prenom": "Franck",
+          "nom_complet": "Franck MEURILLON",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DARTHOIT",
+          "prenom": "Delphine",
+          "nom_complet": "Delphine DARTHOIT",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DARRY",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno DARRY",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "VIDOCGUE",
+          "prenom": "Pamela",
+          "nom_complet": "Pamela VIDOCGUE",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LENOIR",
+          "prenom": "Jeremy",
+          "nom_complet": "Jeremy LENOIR",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "FERTEIN",
+          "prenom": "Lauriane",
+          "nom_complet": "Lauriane FERTEIN",
+          "sexe": "F",
+          "age": 30,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LASSUE",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal LASSUE",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "ELSENS",
+          "prenom": "Rebecca",
+          "nom_complet": "Rebecca ELSENS",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "PARISSEAUX",
+          "prenom": "Stéphane",
+          "nom_complet": "Stéphane PARISSEAUX",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DI COLA",
+          "prenom": "Mélody",
+          "nom_complet": "Mélody DI COLA",
+          "sexe": "F",
+          "age": 29,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "STIENNE",
+          "prenom": "Jean-Michel",
+          "nom_complet": "Jean-Michel STIENNE",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "VANCLEENPUTTE",
+          "prenom": "Marie-Laure",
+          "nom_complet": "Marie-Laure VANCLEENPUTTE",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "COINTE",
+          "prenom": "Michel",
+          "nom_complet": "Michel COINTE",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "LELEU",
+          "prenom": "Louise",
+          "nom_complet": "Louise LELEU",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "VRANESIC",
+          "prenom": "Baptiste",
+          "nom_complet": "Baptiste VRANESIC",
+          "sexe": "M",
+          "age": 30,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "DANEL",
+          "prenom": "Caroline",
+          "nom_complet": "Caroline DANEL",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "ANTONNY-MARGUE",
+          "prenom": "Renaud",
+          "nom_complet": "Renaud ANTONNY-MARGUE",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "KASIMI",
+          "prenom": "Fatna",
+          "nom_complet": "Fatna KASIMI",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "CODRON",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal CODRON",
+          "sexe": "M",
+          "age": 77,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "BULTEAU",
+          "prenom": "Marie-Pierre",
+          "nom_complet": "Marie-Pierre BULTEAU",
+          "sexe": "F",
+          "age": 77,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "DEPRIESTER",
+          "prenom": "Luc",
+          "nom_complet": "Luc DEPRIESTER",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "COISNE",
+          "prenom": "Emilie",
+          "nom_complet": "Emilie COISNE",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "23"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "3",
+      "libelle_liste": "Nieppe, Réussir Ensemble",
+      "libelle_abrege_liste": "NPE",
+      "nuance_liste": "LDVC",
+      "voix": 1106,
+      "pct_voix_exprimes": 31.02,
+      "sieges_cm": 4,
+      "sieges_cc": 1,
+      "nb_elus": 4,
+      "tete_de_liste": {
+        "nom": "RENIER",
+        "prenom": "Jérôme",
+        "nom_complet": "Jérôme RENIER",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "RENIER",
+          "prenom": "Jérôme",
+          "nom_complet": "Jérôme RENIER",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DUMONT",
+          "prenom": "Carole",
+          "nom_complet": "Carole DUMONT",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "ALOSTERY",
+          "prenom": "Mathieu",
+          "nom_complet": "Mathieu ALOSTERY",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "VERZELE",
+          "prenom": "Valérie",
+          "nom_complet": "Valérie VERZELE",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "4"
+        }
+      ],
+      "statut_conseil": "autre"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Rassemblement à la reconquête de Nieppe",
+      "libelle_abrege_liste": "RRN",
+      "nuance_liste": "LUXD",
+      "voix": 546,
+      "pct_voix_exprimes": 15.32,
+      "sieges_cm": 2,
+      "sieges_cc": 0,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "JOYE",
+        "prenom": "Olivier René",
+        "nom_complet": "Olivier René JOYE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "JOYE",
+          "prenom": "Olivier René",
+          "nom_complet": "Olivier René JOYE",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "COUSIN",
+          "prenom": "Marion Marie-Laure",
+          "nom_complet": "Marion Marie-Laure COUSIN",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

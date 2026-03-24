@@ -1,0 +1,227 @@
+{
+  "code_commune": "62361",
+  "commune": "Frévent",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "DELARCHE",
+    "prenom": "Johann",
+    "nom_complet": "Johann DELARCHE",
+    "age": 53,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 2275,
+    "votants": 1095,
+    "pct_votants": 48.13,
+    "abstentions": 1180,
+    "pct_abstentions": 51.87,
+    "exprimes": 901
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "FREVENT, UN AVENIR EN COMMUN",
+      "libelle_abrege_liste": "FREVENT, UN AVENIR EN COMMUN",
+      "nuance_liste": null,
+      "voix": 901,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 23,
+      "sieges_cc": 8,
+      "nb_elus": 23,
+      "tete_de_liste": {
+        "nom": "DELARCHE",
+        "prenom": "Johann",
+        "nom_complet": "Johann DELARCHE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DELARCHE",
+          "prenom": "Johann",
+          "nom_complet": "Johann DELARCHE",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LEGUILLETTE",
+          "prenom": "Christine",
+          "nom_complet": "Christine LEGUILLETTE",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LEROY",
+          "prenom": "Bryan",
+          "nom_complet": "Bryan LEROY",
+          "sexe": "M",
+          "age": 33,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BODART",
+          "prenom": "Sophie",
+          "nom_complet": "Sophie BODART",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "RAMON",
+          "prenom": "Tony",
+          "nom_complet": "Tony RAMON",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "OBIN",
+          "prenom": "Solweig",
+          "nom_complet": "Solweig OBIN",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "LEBOUGRE",
+          "prenom": "Jackie",
+          "nom_complet": "Jackie LEBOUGRE",
+          "sexe": "M",
+          "age": 78,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "SARRAZYN",
+          "prenom": "Dorothee",
+          "nom_complet": "Dorothee SARRAZYN",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DELERUE",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique DELERUE",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "LELEU",
+          "prenom": "Matilde",
+          "nom_complet": "Matilde LELEU",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "LEFEBVRE",
+          "prenom": "Adrien",
+          "nom_complet": "Adrien LEFEBVRE",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "LAGACHE",
+          "prenom": "Nicole",
+          "nom_complet": "Nicole LAGACHE",
+          "sexe": "F",
+          "age": 73,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "LAGACHE",
+          "prenom": "Yves",
+          "nom_complet": "Yves LAGACHE",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "LEFEBVRE",
+          "prenom": "Katia",
+          "nom_complet": "Katia LEFEBVRE",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "PETAIN",
+          "prenom": "Sylvain",
+          "nom_complet": "Sylvain PETAIN",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "LEGRAND",
+          "prenom": "Maryse",
+          "nom_complet": "Maryse LEGRAND",
+          "sexe": "F",
+          "age": 71,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "DUBOURDIEU",
+          "prenom": "Daniel",
+          "nom_complet": "Daniel DUBOURDIEU",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "LEBOUGRE",
+          "prenom": "Valérie",
+          "nom_complet": "Valérie LEBOUGRE",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "MALINSKI",
+          "prenom": "Christopher",
+          "nom_complet": "Christopher MALINSKI",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "EVRARD",
+          "prenom": "Brigitte",
+          "nom_complet": "Brigitte EVRARD",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "LAURENT",
+          "prenom": "André",
+          "nom_complet": "André LAURENT",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "PLUMART",
+          "prenom": "Claude",
+          "nom_complet": "Claude PLUMART",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "GAUDUIN",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick GAUDUIN",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "23"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

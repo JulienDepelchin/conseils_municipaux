@@ -1,0 +1,163 @@
+{
+  "code_commune": "62704",
+  "commune": "Renty",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "FINDINIER",
+    "prenom": "Jean-Marc",
+    "nom_complet": "Jean-Marc FINDINIER",
+    "age": 61,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 521,
+    "votants": 306,
+    "pct_votants": 58.73,
+    "abstentions": 215,
+    "pct_abstentions": 41.27,
+    "exprimes": 215
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Unis pour Renty",
+      "libelle_abrege_liste": "Unis pour Renty",
+      "nuance_liste": null,
+      "voix": 215,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "FINDINIER",
+        "prenom": "Jean-Marc",
+        "nom_complet": "Jean-Marc FINDINIER",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "FINDINIER",
+          "prenom": "Jean-Marc",
+          "nom_complet": "Jean-Marc FINDINIER",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BELLENGUEZ",
+          "prenom": "Christine",
+          "nom_complet": "Christine BELLENGUEZ",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "FUSILLIER",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric FUSILLIER",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "WAVRANT",
+          "prenom": "Catherine",
+          "nom_complet": "Catherine WAVRANT",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DECROIX",
+          "prenom": "Michel",
+          "nom_complet": "Michel DECROIX",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "BOUVART",
+          "prenom": "Domiique",
+          "nom_complet": "Domiique BOUVART",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "THERY",
+          "prenom": "Maxime",
+          "nom_complet": "Maxime THERY",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "CATEZ",
+          "prenom": "Magali",
+          "nom_complet": "Magali CATEZ",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "BOQUET",
+          "prenom": "Matthieu",
+          "nom_complet": "Matthieu BOQUET",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "MINET",
+          "prenom": "Annabelle",
+          "nom_complet": "Annabelle MINET",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "GRARE",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe GRARE",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "CAMPAGNE",
+          "prenom": "Estelles",
+          "nom_complet": "Estelles CAMPAGNE",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "MILON",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick MILON",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "VASSEUR",
+          "prenom": "Christele",
+          "nom_complet": "Christele VASSEUR",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "FOURNIER",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal FOURNIER",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

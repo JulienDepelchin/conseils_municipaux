@@ -1,0 +1,195 @@
+{
+  "code_commune": "62609",
+  "commune": "Neuville-Saint-Vaast",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "PUCHOIS",
+    "prenom": "Jean Pierre",
+    "nom_complet": "Jean Pierre PUCHOIS",
+    "age": 69,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1304,
+    "votants": 757,
+    "pct_votants": 58.05,
+    "abstentions": 547,
+    "pct_abstentions": 41.95,
+    "exprimes": 631
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Bien ensemble à Neuville-Saint-Vaast",
+      "libelle_abrege_liste": "Bien ensemble à Neuville-Saint-Vaast",
+      "nuance_liste": null,
+      "voix": 631,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 19,
+      "sieges_cc": 1,
+      "nb_elus": 19,
+      "tete_de_liste": {
+        "nom": "PUCHOIS",
+        "prenom": "Jean Pierre",
+        "nom_complet": "Jean Pierre PUCHOIS",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "PUCHOIS",
+          "prenom": "Jean Pierre",
+          "nom_complet": "Jean Pierre PUCHOIS",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BERTRAND",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie BERTRAND",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "FOURNIER",
+          "prenom": "David",
+          "nom_complet": "David FOURNIER",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LANGHAM",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie LANGHAM",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LEGAY",
+          "prenom": "Sébastien",
+          "nom_complet": "Sébastien LEGAY",
+          "sexe": "M",
+          "age": 30,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "KUBICKI",
+          "prenom": "Valérie",
+          "nom_complet": "Valérie KUBICKI",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DURIER",
+          "prenom": "Arnaud",
+          "nom_complet": "Arnaud DURIER",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "REHABI",
+          "prenom": "Sandrine",
+          "nom_complet": "Sandrine REHABI",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DUPUIS",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric DUPUIS",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "CONDAMINE",
+          "prenom": "Estelle",
+          "nom_complet": "Estelle CONDAMINE",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "RUFFIN",
+          "prenom": "Jérôme",
+          "nom_complet": "Jérôme RUFFIN",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "DECOUPIGNY",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie DECOUPIGNY",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "GOURGUECHON",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe GOURGUECHON",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "COGEZ",
+          "prenom": "Justine",
+          "nom_complet": "Justine COGEZ",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "JELONEK",
+          "prenom": "Robert",
+          "nom_complet": "Robert JELONEK",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "SZLASKI",
+          "prenom": "Valérie",
+          "nom_complet": "Valérie SZLASKI",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "DEFIVE",
+          "prenom": "Thomas",
+          "nom_complet": "Thomas DEFIVE",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "PICHAT",
+          "prenom": "Cécile",
+          "nom_complet": "Cécile PICHAT",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "LALOUX",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier LALOUX",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "19"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "code_commune": "59065",
+  "commune": "Bellignies",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "AUDEBERT",
+    "prenom": "Johan",
+    "nom_complet": "Johan AUDEBERT",
+    "age": 50,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 609,
+    "votants": 320,
+    "pct_votants": 52.55,
+    "abstentions": 289,
+    "pct_abstentions": 47.45,
+    "exprimes": 262
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "UN SOUFFLE NOUVEAU POUR BELLIGNIES",
+      "libelle_abrege_liste": "UN SOUFFLE NOUVEAU POUR BELLIGNIES",
+      "nuance_liste": null,
+      "voix": 262,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "AUDEBERT",
+        "prenom": "Johan",
+        "nom_complet": "Johan AUDEBERT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "AUDEBERT",
+          "prenom": "Johan",
+          "nom_complet": "Johan AUDEBERT",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BIETRY",
+          "prenom": "Manon",
+          "nom_complet": "Manon BIETRY",
+          "sexe": "F",
+          "age": 30,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "GUMEZ",
+          "prenom": "Jerome",
+          "nom_complet": "Jerome GUMEZ",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DRUART",
+          "prenom": "Roselyne",
+          "nom_complet": "Roselyne DRUART",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "JOACHIM",
+          "prenom": "Damien",
+          "nom_complet": "Damien JOACHIM",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DRUESNES",
+          "prenom": "Daniele",
+          "nom_complet": "Daniele DRUESNES",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "MARMIGNON",
+          "prenom": "Martial",
+          "nom_complet": "Martial MARMIGNON",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DRUESNES",
+          "prenom": "Helene",
+          "nom_complet": "Helene DRUESNES",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "PRINCELLE",
+          "prenom": "Jean-Pierre",
+          "nom_complet": "Jean-Pierre PRINCELLE",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "GUMEZ",
+          "prenom": "Sabine",
+          "nom_complet": "Sabine GUMEZ",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "TAVERNIER",
+          "prenom": "Damien",
+          "nom_complet": "Damien TAVERNIER",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "MICHAUX",
+          "prenom": "Emilie",
+          "nom_complet": "Emilie MICHAUX",
+          "sexe": "F",
+          "age": 31,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "TAVERNIER",
+          "prenom": "Jean-Marie",
+          "nom_complet": "Jean-Marie TAVERNIER",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "PERRAULT",
+          "prenom": "Frederique",
+          "nom_complet": "Frederique PERRAULT",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "VOISIN",
+          "prenom": "Pierre-Julien",
+          "nom_complet": "Pierre-Julien VOISIN",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

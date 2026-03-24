@@ -1,0 +1,183 @@
+{
+  "code_commune": "62162",
+  "commune": "Bourecq",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "BARROIS",
+    "prenom": "Alain",
+    "nom_complet": "Alain BARROIS",
+    "age": 70,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 417,
+    "votants": 346,
+    "pct_votants": 82.97,
+    "abstentions": 71,
+    "pct_abstentions": 17.03,
+    "exprimes": 341
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "Une nouvelle dynamique pour Bourecq",
+      "libelle_abrege_liste": "Une nouvelle dynamique pour Bourecq",
+      "nuance_liste": null,
+      "voix": 215,
+      "pct_voix_exprimes": 63.05,
+      "sieges_cm": 13,
+      "sieges_cc": null,
+      "nb_elus": 13,
+      "tete_de_liste": {
+        "nom": "BARROIS",
+        "prenom": "Alain",
+        "nom_complet": "Alain BARROIS",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BARROIS",
+          "prenom": "Alain",
+          "nom_complet": "Alain BARROIS",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "CHMIELEWSKI",
+          "prenom": "Carole",
+          "nom_complet": "Carole CHMIELEWSKI",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LECOCQ",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe LECOCQ",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DELASSUS",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle DELASSUS",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "MARIEN",
+          "prenom": "Michel",
+          "nom_complet": "Michel MARIEN",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "BEGUE",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie BEGUE",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "CLABAU",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent CLABAU",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "FRANÇOIS",
+          "prenom": "Alison",
+          "nom_complet": "Alison FRANÇOIS",
+          "sexe": "F",
+          "age": 32,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "CAULIEZ",
+          "prenom": "Guy",
+          "nom_complet": "Guy CAULIEZ",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "PILON",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie PILON",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DORNE",
+          "prenom": "Thibaut",
+          "nom_complet": "Thibaut DORNE",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "DUBLICQ",
+          "prenom": "Justine",
+          "nom_complet": "Justine DUBLICQ",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "DHERMY",
+          "prenom": "Fabrice",
+          "nom_complet": "Fabrice DHERMY",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "13"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "NOS AMBITIONS PARTAGEES",
+      "libelle_abrege_liste": "NOS AMBITIONS PARTAGEES",
+      "nuance_liste": null,
+      "voix": 126,
+      "pct_voix_exprimes": 36.95,
+      "sieges_cm": 2,
+      "sieges_cc": null,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "DELRUE",
+        "prenom": "Laurence",
+        "nom_complet": "Laurence DELRUE",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "DELRUE",
+          "prenom": "Laurence",
+          "nom_complet": "Laurence DELRUE",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LEGAY",
+          "prenom": "Jean-François",
+          "nom_complet": "Jean-François LEGAY",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

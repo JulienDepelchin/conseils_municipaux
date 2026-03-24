@@ -1,0 +1,295 @@
+{
+  "code_commune": "62746",
+  "commune": "Saint-Etienne-au-Mont",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "PASSEBOSC",
+    "prenom": "Brigitte",
+    "nom_complet": "Brigitte PASSEBOSC",
+    "age": 72,
+    "nuance": "LCOM"
+  },
+  "resultats": {
+    "inscrits": 4038,
+    "votants": 2307,
+    "pct_votants": 57.13,
+    "abstentions": 1731,
+    "pct_abstentions": 42.87,
+    "exprimes": 2208
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "ENSEMBLE, NOTRE AMBITION POUR SAINT ETIENNE AU MONT",
+      "libelle_abrege_liste": "ENSEMBLE, NOTRE AMBITION POUR SAINT ETIENNE AU MONT",
+      "nuance_liste": "LCOM",
+      "voix": 1280,
+      "pct_voix_exprimes": 57.97,
+      "sieges_cm": 23,
+      "sieges_cc": 2,
+      "nb_elus": 23,
+      "tete_de_liste": {
+        "nom": "PASSEBOSC",
+        "prenom": "Brigitte",
+        "nom_complet": "Brigitte PASSEBOSC",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "PASSEBOSC",
+          "prenom": "Brigitte",
+          "nom_complet": "Brigitte PASSEBOSC",
+          "sexe": "F",
+          "age": 72,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LEBLOND",
+          "prenom": "Baptiste",
+          "nom_complet": "Baptiste LEBLOND",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "FLOURET",
+          "prenom": "Aurélie",
+          "nom_complet": "Aurélie FLOURET",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "FARRANDS",
+          "prenom": "Joël",
+          "nom_complet": "Joël FARRANDS",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "MARTEL",
+          "prenom": "Audrey",
+          "nom_complet": "Audrey MARTEL",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "JUDA",
+          "prenom": "Marc",
+          "nom_complet": "Marc JUDA",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "COINON",
+          "prenom": "Françoise",
+          "nom_complet": "Françoise COINON",
+          "sexe": "F",
+          "age": 71,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "MERLIN",
+          "prenom": "Sebastien",
+          "nom_complet": "Sebastien MERLIN",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "ROLAND",
+          "prenom": "Angelique",
+          "nom_complet": "Angelique ROLAND",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "GODEAU",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe GODEAU",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "FOURNIER",
+          "prenom": "Véronique",
+          "nom_complet": "Véronique FOURNIER",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "LABBE",
+          "prenom": "Jacques",
+          "nom_complet": "Jacques LABBE",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "HANON",
+          "prenom": "Liliane",
+          "nom_complet": "Liliane HANON",
+          "sexe": "F",
+          "age": 70,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "BILS",
+          "prenom": "Jean-François",
+          "nom_complet": "Jean-François BILS",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "SORRENTINI",
+          "prenom": "Barbara",
+          "nom_complet": "Barbara SORRENTINI",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "SAINTOIN",
+          "prenom": "Michael",
+          "nom_complet": "Michael SAINTOIN",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "BIGUET-PACQUIN",
+          "prenom": "Caroline",
+          "nom_complet": "Caroline BIGUET-PACQUIN",
+          "sexe": "F",
+          "age": 32,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "MAGRIT",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe MAGRIT",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "BAUDE",
+          "prenom": "Annick",
+          "nom_complet": "Annick BAUDE",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "ANQUEZ",
+          "prenom": "Serge",
+          "nom_complet": "Serge ANQUEZ",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "BUCAMP",
+          "prenom": "Fanny",
+          "nom_complet": "Fanny BUCAMP",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "SCARPA",
+          "prenom": "David",
+          "nom_complet": "David SCARPA",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "PATRAS DE CAMPAIGNO",
+          "prenom": "Frederique",
+          "nom_complet": "Frederique PATRAS DE CAMPAIGNO",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "23"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "STEAM CITOYENS",
+      "libelle_abrege_liste": "STEAM CITOYENS",
+      "nuance_liste": "LDIV",
+      "voix": 928,
+      "pct_voix_exprimes": 42.03,
+      "sieges_cm": 6,
+      "sieges_cc": 0,
+      "nb_elus": 6,
+      "tete_de_liste": {
+        "nom": "TERNISIEN",
+        "prenom": "Olivier",
+        "nom_complet": "Olivier TERNISIEN",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "TERNISIEN",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier TERNISIEN",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "COUVELARD",
+          "prenom": "Elvina",
+          "nom_complet": "Elvina COUVELARD",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DANIS",
+          "prenom": "Samuel",
+          "nom_complet": "Samuel DANIS",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "THEO",
+          "prenom": "Coline",
+          "nom_complet": "Coline THEO",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "HARREWYN",
+          "prenom": "Tony",
+          "nom_complet": "Tony HARREWYN",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "BLANGY BEAUVAIS",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie BLANGY BEAUVAIS",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "6"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

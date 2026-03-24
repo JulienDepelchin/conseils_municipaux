@@ -1,0 +1,343 @@
+{
+  "code_commune": "59646",
+  "commune": "Wasquehal",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "DUCRET",
+    "prenom": "Stéphanie",
+    "nom_complet": "Stéphanie DUCRET",
+    "age": 55,
+    "nuance": "LDVD"
+  },
+  "resultats": {
+    "inscrits": 15842,
+    "votants": 8543,
+    "pct_votants": 53.93,
+    "abstentions": 7299,
+    "pct_abstentions": 46.07,
+    "exprimes": 8232
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "WASQUEHAL POUR TOUS",
+      "libelle_abrege_liste": "WASQUEHAL POUR TOUS",
+      "nuance_liste": "LDVD",
+      "voix": 6098,
+      "pct_voix_exprimes": 74.08,
+      "sieges_cm": 31,
+      "sieges_cc": 2,
+      "nb_elus": 31,
+      "tete_de_liste": {
+        "nom": "DUCRET",
+        "prenom": "Stéphanie",
+        "nom_complet": "Stéphanie DUCRET",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "DUCRET",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie DUCRET",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "WATINE",
+          "prenom": "Hugues",
+          "nom_complet": "Hugues WATINE",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "GERARD",
+          "prenom": "Félicie",
+          "nom_complet": "Félicie GERARD",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "VANDEVIVERE",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier VANDEVIVERE",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "MINNE",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie MINNE",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "RAPTIN",
+          "prenom": "Jean-Charles",
+          "nom_complet": "Jean-Charles RAPTIN",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "VERRIEST",
+          "prenom": "Lydia",
+          "nom_complet": "Lydia VERRIEST",
+          "sexe": "F",
+          "age": 78,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "THIEBAUT",
+          "prenom": "David",
+          "nom_complet": "David THIEBAUT",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DESURMONT",
+          "prenom": "Valérie",
+          "nom_complet": "Valérie DESURMONT",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DELEIGNIES",
+          "prenom": "Mathieu",
+          "nom_complet": "Mathieu DELEIGNIES",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DESBUQUOIT",
+          "prenom": "Catherine",
+          "nom_complet": "Catherine DESBUQUOIT",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "ALO",
+          "prenom": "Alexandre",
+          "nom_complet": "Alexandre ALO",
+          "sexe": "M",
+          "age": 31,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "MENDES",
+          "prenom": "Céline",
+          "nom_complet": "Céline MENDES",
+          "sexe": "F",
+          "age": 32,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "VANNARIEN",
+          "prenom": "Julien",
+          "nom_complet": "Julien VANNARIEN",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "PILLE",
+          "prenom": "Christine",
+          "nom_complet": "Christine PILLE",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "LEROY",
+          "prenom": "Joël",
+          "nom_complet": "Joël LEROY",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "BURGGRAEVE",
+          "prenom": "Laureline",
+          "nom_complet": "Laureline BURGGRAEVE",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "COQUANT",
+          "prenom": "Steeve",
+          "nom_complet": "Steeve COQUANT",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "WATINE",
+          "prenom": "Bernadette",
+          "nom_complet": "Bernadette WATINE",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "DUTHOIT",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal DUTHOIT",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "DECAESTECKER",
+          "prenom": "Pascale",
+          "nom_complet": "Pascale DECAESTECKER",
+          "sexe": "F",
+          "age": 71,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "TAECKENS",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe TAECKENS",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "CARON",
+          "prenom": "Joëlle",
+          "nom_complet": "Joëlle CARON",
+          "sexe": "F",
+          "age": 76,
+          "rang_liste": "23"
+        },
+        {
+          "nom": "PRIEUR",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick PRIEUR",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "24"
+        },
+        {
+          "nom": "COUDORO",
+          "prenom": "Romaine",
+          "nom_complet": "Romaine COUDORO",
+          "sexe": "F",
+          "age": 78,
+          "rang_liste": "25"
+        },
+        {
+          "nom": "RENART",
+          "prenom": "Hugo",
+          "nom_complet": "Hugo RENART",
+          "sexe": "M",
+          "age": 28,
+          "rang_liste": "26"
+        },
+        {
+          "nom": "BOUDALIA",
+          "prenom": "Virginie",
+          "nom_complet": "Virginie BOUDALIA",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "27"
+        },
+        {
+          "nom": "LEITAO",
+          "prenom": "Christopher",
+          "nom_complet": "Christopher LEITAO",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "28"
+        },
+        {
+          "nom": "HUANG",
+          "prenom": "Iva",
+          "nom_complet": "Iva HUANG",
+          "sexe": "F",
+          "age": 20,
+          "rang_liste": "29"
+        },
+        {
+          "nom": "VAN DAMME",
+          "prenom": "Thibault",
+          "nom_complet": "Thibault VAN DAMME",
+          "sexe": "M",
+          "age": 27,
+          "rang_liste": "30"
+        },
+        {
+          "nom": "DE COLNET",
+          "prenom": "Coralie",
+          "nom_complet": "Coralie DE COLNET",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "31"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "WASQUEHAL VIVANTE",
+      "libelle_abrege_liste": "WASQUEHAL VIVANTE",
+      "nuance_liste": "LDVG",
+      "voix": 2134,
+      "pct_voix_exprimes": 25.92,
+      "sieges_cm": 4,
+      "sieges_cc": 0,
+      "nb_elus": 4,
+      "tete_de_liste": {
+        "nom": "TIRMARCHE",
+        "prenom": "Benoit",
+        "nom_complet": "Benoit TIRMARCHE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "TIRMARCHE",
+          "prenom": "Benoit",
+          "nom_complet": "Benoit TIRMARCHE",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "PLET",
+          "prenom": "Mathilde",
+          "nom_complet": "Mathilde PLET",
+          "sexe": "F",
+          "age": 25,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "MOLLESTIEN",
+          "prenom": "Brian",
+          "nom_complet": "Brian MOLLESTIEN",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DRUON",
+          "prenom": "Magali",
+          "nom_complet": "Magali DRUON",
+          "sexe": "F",
+          "age": 73,
+          "rang_liste": "4"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

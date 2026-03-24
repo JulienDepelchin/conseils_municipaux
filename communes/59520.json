@@ -1,0 +1,183 @@
+{
+  "code_commune": "59520",
+  "commune": "Rumilly-en-Cambrésis",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "FICHAUX",
+    "prenom": "Jean",
+    "nom_complet": "Jean FICHAUX",
+    "age": 67,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1116,
+    "votants": 782,
+    "pct_votants": 70.07,
+    "abstentions": 334,
+    "pct_abstentions": 29.93,
+    "exprimes": 731
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "AGIR Autrement À RUMILLY en CAMBRESIS",
+      "libelle_abrege_liste": "AGIR Autrement À RUMILLY en CAMBRESIS",
+      "nuance_liste": null,
+      "voix": 517,
+      "pct_voix_exprimes": 70.73,
+      "sieges_cm": 13,
+      "sieges_cc": 1,
+      "nb_elus": 13,
+      "tete_de_liste": {
+        "nom": "FICHAUX",
+        "prenom": "Jean",
+        "nom_complet": "Jean FICHAUX",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "FICHAUX",
+          "prenom": "Jean",
+          "nom_complet": "Jean FICHAUX",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "JOLY",
+          "prenom": "Michèle",
+          "nom_complet": "Michèle JOLY",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "GODECHOUL",
+          "prenom": "Jean-Michel",
+          "nom_complet": "Jean-Michel GODECHOUL",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "WATTELLE",
+          "prenom": "Laurence",
+          "nom_complet": "Laurence WATTELLE",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LEPILLIEZ",
+          "prenom": "Vincent",
+          "nom_complet": "Vincent LEPILLIEZ",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "CARRÉ",
+          "prenom": "Christelle",
+          "nom_complet": "Christelle CARRÉ",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "GOSSELET",
+          "prenom": "Didier",
+          "nom_complet": "Didier GOSSELET",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "HEUDE",
+          "prenom": "Céline",
+          "nom_complet": "Céline HEUDE",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DESSEINT",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal DESSEINT",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "CARON",
+          "prenom": "Aurélie",
+          "nom_complet": "Aurélie CARON",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "SELTENSPERGER",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal SELTENSPERGER",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "MAÏA",
+          "prenom": "Véronique",
+          "nom_complet": "Véronique MAÏA",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "BISIAUX",
+          "prenom": "Matthieu",
+          "nom_complet": "Matthieu BISIAUX",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "13"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "Partageons ensemble nos valeurs pour l'avenir de Rumilly",
+      "libelle_abrege_liste": "Partageons ensemble nos valeurs pour l'avenir de Rumilly",
+      "nuance_liste": null,
+      "voix": 214,
+      "pct_voix_exprimes": 29.27,
+      "sieges_cm": 2,
+      "sieges_cc": 0,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "LIENARD",
+        "prenom": "Michel",
+        "nom_complet": "Michel LIENARD",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LIENARD",
+          "prenom": "Michel",
+          "nom_complet": "Michel LIENARD",
+          "sexe": "M",
+          "age": 74,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "COCHET",
+          "prenom": "Nelly",
+          "nom_complet": "Nelly COCHET",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "code_commune": "59307",
+  "commune": "Holque",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "LAMIAUX",
+    "prenom": "Fabrice",
+    "nom_complet": "Fabrice LAMIAUX",
+    "age": 60,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 741,
+    "votants": 416,
+    "pct_votants": 56.14,
+    "abstentions": 325,
+    "pct_abstentions": 43.86,
+    "exprimes": 356
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "\"vivre holque\"agir aujourd'hui, préparer demain !",
+      "libelle_abrege_liste": "\"vivre holque\"agir aujourd'hui, préparer demain !",
+      "nuance_liste": null,
+      "voix": 356,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "LAMIAUX",
+        "prenom": "Fabrice",
+        "nom_complet": "Fabrice LAMIAUX",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LAMIAUX",
+          "prenom": "Fabrice",
+          "nom_complet": "Fabrice LAMIAUX",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "CASTELLE",
+          "prenom": "Brigitte",
+          "nom_complet": "Brigitte CASTELLE",
+          "sexe": "F",
+          "age": 75,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LEBRUN",
+          "prenom": "Alain",
+          "nom_complet": "Alain LEBRUN",
+          "sexe": "M",
+          "age": 76,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LAMOTE",
+          "prenom": "Natacha",
+          "nom_complet": "Natacha LAMOTE",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "REMÉRAND",
+          "prenom": "Regis",
+          "nom_complet": "Regis REMÉRAND",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "WALRICK",
+          "prenom": "Camille",
+          "nom_complet": "Camille WALRICK",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "LEROY",
+          "prenom": "Stéphane",
+          "nom_complet": "Stéphane LEROY",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "BLOMME",
+          "prenom": "Virginie",
+          "nom_complet": "Virginie BLOMME",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "VERMEERSCH",
+          "prenom": "Francis",
+          "nom_complet": "Francis VERMEERSCH",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DEGOUY",
+          "prenom": "Lynda",
+          "nom_complet": "Lynda DEGOUY",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DUMAREY",
+          "prenom": "Guillaume",
+          "nom_complet": "Guillaume DUMAREY",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "BEAUDET",
+          "prenom": "Thérèse",
+          "nom_complet": "Thérèse BEAUDET",
+          "sexe": "F",
+          "age": 81,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "PIERMATTI",
+          "prenom": "Sebastien",
+          "nom_complet": "Sebastien PIERMATTI",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "DUVAL",
+          "prenom": "Aline",
+          "nom_complet": "Aline DUVAL",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "VERHILLE",
+          "prenom": "Thomas",
+          "nom_complet": "Thomas VERHILLE",
+          "sexe": "M",
+          "age": 28,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

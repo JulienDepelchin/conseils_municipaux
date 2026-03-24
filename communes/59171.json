@@ -1,0 +1,99 @@
+{
+  "code_commune": "59171",
+  "commune": "Dehéries",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "PELLETIER",
+    "prenom": "Gilles",
+    "nom_complet": "Gilles PELLETIER",
+    "age": 74,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 28,
+    "votants": 25,
+    "pct_votants": 89.29,
+    "abstentions": 3,
+    "pct_abstentions": 10.71,
+    "exprimes": 25
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "LISTE D'ACTION D'INTÉRÊT COMMUNAL",
+      "libelle_abrege_liste": "LISTE D'ACTION D'INTÉRÊT COMMUNAL",
+      "nuance_liste": null,
+      "voix": 25,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 7,
+      "sieges_cc": null,
+      "nb_elus": 7,
+      "tete_de_liste": {
+        "nom": "PELLETIER",
+        "prenom": "Gilles",
+        "nom_complet": "Gilles PELLETIER",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "PELLETIER",
+          "prenom": "Gilles",
+          "nom_complet": "Gilles PELLETIER",
+          "sexe": "M",
+          "age": 74,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "CARRÉ",
+          "prenom": "Chantal Violette",
+          "nom_complet": "Chantal Violette CARRÉ",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "HAPPE",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent HAPPE",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "SORRIAUX",
+          "prenom": "Marie",
+          "nom_complet": "Marie SORRIAUX",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "SOUSA",
+          "prenom": "Antonio",
+          "nom_complet": "Antonio SOUSA",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "MACHU",
+          "prenom": "Stephanie",
+          "nom_complet": "Stephanie MACHU",
+          "sexe": "F",
+          "age": 29,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "PELLETIER",
+          "prenom": "Stéphane Jean Robert",
+          "nom_complet": "Stéphane Jean Robert PELLETIER",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "7"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

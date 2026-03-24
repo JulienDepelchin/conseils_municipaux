@@ -1,0 +1,215 @@
+{
+  "code_commune": "59027",
+  "commune": "Aubry-du-Hainaut",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "ZINGRAFF",
+    "prenom": "Raymond",
+    "nom_complet": "Raymond ZINGRAFF",
+    "age": 66,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1264,
+    "votants": 943,
+    "pct_votants": 74.6,
+    "abstentions": 321,
+    "pct_abstentions": 25.4,
+    "exprimes": 920
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Aubry aujourd'hui pour demain",
+      "libelle_abrege_liste": "Aubry aujourd'hui pour demain",
+      "nuance_liste": null,
+      "voix": 595,
+      "pct_voix_exprimes": 64.67,
+      "sieges_cm": 16,
+      "sieges_cc": 1,
+      "nb_elus": 16,
+      "tete_de_liste": {
+        "nom": "ZINGRAFF",
+        "prenom": "Raymond",
+        "nom_complet": "Raymond ZINGRAFF",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "ZINGRAFF",
+          "prenom": "Raymond",
+          "nom_complet": "Raymond ZINGRAFF",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DUBOIS",
+          "prenom": "Élisabeth",
+          "nom_complet": "Élisabeth DUBOIS",
+          "sexe": "F",
+          "age": 76,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LECOSSIER",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe LECOSSIER",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LAÏ",
+          "prenom": "Julie",
+          "nom_complet": "Julie LAÏ",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "GOSSELIN",
+          "prenom": "Jean-Marc",
+          "nom_complet": "Jean-Marc GOSSELIN",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "BONNÉ",
+          "prenom": "Françoise",
+          "nom_complet": "Françoise BONNÉ",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DENYS",
+          "prenom": "Jérôme",
+          "nom_complet": "Jérôme DENYS",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DESZCZ",
+          "prenom": "Colette",
+          "nom_complet": "Colette DESZCZ",
+          "sexe": "F",
+          "age": 74,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "COCHON",
+          "prenom": "Thierry",
+          "nom_complet": "Thierry COCHON",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "GATIER",
+          "prenom": "Alina",
+          "nom_complet": "Alina GATIER",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "LECAT",
+          "prenom": "Alexandre",
+          "nom_complet": "Alexandre LECAT",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "COCHETEUX",
+          "prenom": "Adeline",
+          "nom_complet": "Adeline COCHETEUX",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "GOBLET",
+          "prenom": "Thomas",
+          "nom_complet": "Thomas GOBLET",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "PRADIER",
+          "prenom": "Cathy",
+          "nom_complet": "Cathy PRADIER",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "GOFFART",
+          "prenom": "Régis",
+          "nom_complet": "Régis GOFFART",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "VIAVATTENE",
+          "prenom": "Olivia",
+          "nom_complet": "Olivia VIAVATTENE",
+          "sexe": "F",
+          "age": 32,
+          "rang_liste": "16"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "Aubry ensemble - Aubry autrement",
+      "libelle_abrege_liste": "Aubry ensemble - Aubry autrement",
+      "nuance_liste": null,
+      "voix": 325,
+      "pct_voix_exprimes": 35.33,
+      "sieges_cm": 3,
+      "sieges_cc": 0,
+      "nb_elus": 3,
+      "tete_de_liste": {
+        "nom": "HUYGENS",
+        "prenom": "Stephanie",
+        "nom_complet": "Stephanie HUYGENS",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "HUYGENS",
+          "prenom": "Stephanie",
+          "nom_complet": "Stephanie HUYGENS",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "MAILLARD",
+          "prenom": "Yves",
+          "nom_complet": "Yves MAILLARD",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BRANQUART",
+          "prenom": "Magalie",
+          "nom_complet": "Magalie BRANQUART",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "3"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

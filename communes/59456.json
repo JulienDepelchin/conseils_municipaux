@@ -1,0 +1,295 @@
+{
+  "code_commune": "59456",
+  "commune": "Pecquencourt",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "PIERRACHE",
+    "prenom": "Joël",
+    "nom_complet": "Joël PIERRACHE",
+    "age": 77,
+    "nuance": "LDVG"
+  },
+  "resultats": {
+    "inscrits": 4695,
+    "votants": 3057,
+    "pct_votants": 65.11,
+    "abstentions": 1638,
+    "pct_abstentions": 34.89,
+    "exprimes": 2988
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ENSEMBLE CONTINUONS POUR PECQUENCOURT",
+      "libelle_abrege_liste": "ENSEMBLE CONTINUONS POUR PECQUENCOURT",
+      "nuance_liste": "LDVG",
+      "voix": 1577,
+      "pct_voix_exprimes": 52.78,
+      "sieges_cm": 22,
+      "sieges_cc": 4,
+      "nb_elus": 22,
+      "tete_de_liste": {
+        "nom": "PIERRACHE",
+        "prenom": "Joël",
+        "nom_complet": "Joël PIERRACHE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "PIERRACHE",
+          "prenom": "Joël",
+          "nom_complet": "Joël PIERRACHE",
+          "sexe": "M",
+          "age": 77,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "MAZAGRAN",
+          "prenom": "Lilia Rosanna",
+          "nom_complet": "Lilia Rosanna MAZAGRAN",
+          "sexe": "F",
+          "age": 76,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "CICHOWSKI",
+          "prenom": "Stanislas",
+          "nom_complet": "Stanislas CICHOWSKI",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "GRODZKI",
+          "prenom": "Agnès",
+          "nom_complet": "Agnès GRODZKI",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LECOCQ",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe LECOCQ",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "HANOT",
+          "prenom": "Marie-Claude",
+          "nom_complet": "Marie-Claude HANOT",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "PACIOCCO",
+          "prenom": "Gilles",
+          "nom_complet": "Gilles PACIOCCO",
+          "sexe": "M",
+          "age": 75,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "ALFANO",
+          "prenom": "Marie-Joëlle",
+          "nom_complet": "Marie-Joëlle ALFANO",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "RÉANT",
+          "prenom": "Didier",
+          "nom_complet": "Didier RÉANT",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "WEISS",
+          "prenom": "Véronique",
+          "nom_complet": "Véronique WEISS",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "SCAILLEREZ",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric SCAILLEREZ",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "KOMIN",
+          "prenom": "Pascale",
+          "nom_complet": "Pascale KOMIN",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "TERRIER",
+          "prenom": "Joël",
+          "nom_complet": "Joël TERRIER",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "LEMOINE",
+          "prenom": "Betty",
+          "nom_complet": "Betty LEMOINE",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "MONIOT",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno MONIOT",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "FATIEN",
+          "prenom": "Bernadette",
+          "nom_complet": "Bernadette FATIEN",
+          "sexe": "F",
+          "age": 72,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "JASPART",
+          "prenom": "Jérôme",
+          "nom_complet": "Jérôme JASPART",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "LAMOURILLE",
+          "prenom": "Arlette",
+          "nom_complet": "Arlette LAMOURILLE",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "STALLONE",
+          "prenom": "Etienne",
+          "nom_complet": "Etienne STALLONE",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "DJELTI",
+          "prenom": "Fatna",
+          "nom_complet": "Fatna DJELTI",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "DE MEYER",
+          "prenom": "Jean-Pierre",
+          "nom_complet": "Jean-Pierre DE MEYER",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "DRUELLE",
+          "prenom": "Sylvia",
+          "nom_complet": "Sylvia DRUELLE",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "22"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "UNION DES PECQUENCOURTOIS",
+      "libelle_abrege_liste": "UNION DES PECQUENCOURTOIS",
+      "nuance_liste": "LDVG",
+      "voix": 1411,
+      "pct_voix_exprimes": 47.22,
+      "sieges_cm": 7,
+      "sieges_cc": 1,
+      "nb_elus": 7,
+      "tete_de_liste": {
+        "nom": "VANANDREWELT",
+        "prenom": "Rémy",
+        "nom_complet": "Rémy VANANDREWELT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "VANANDREWELT",
+          "prenom": "Rémy",
+          "nom_complet": "Rémy VANANDREWELT",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "FROMONT",
+          "prenom": "Fabienne",
+          "nom_complet": "Fabienne FROMONT",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LAJLAR",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick LAJLAR",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BOINSKI",
+          "prenom": "Déborah",
+          "nom_complet": "Déborah BOINSKI",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "VEZILIER",
+          "prenom": "Francis",
+          "nom_complet": "Francis VEZILIER",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "MUSIAL",
+          "prenom": "Christelle",
+          "nom_complet": "Christelle MUSIAL",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "OUAAZZI",
+          "prenom": "Omar",
+          "nom_complet": "Omar OUAAZZI",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "7"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

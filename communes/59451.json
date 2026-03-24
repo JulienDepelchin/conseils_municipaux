@@ -1,0 +1,183 @@
+{
+  "code_commune": "59451",
+  "commune": "Orsinval",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "COCHEZ",
+    "prenom": "Valerie",
+    "nom_complet": "Valerie COCHEZ",
+    "age": 54,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 474,
+    "votants": 385,
+    "pct_votants": 81.22,
+    "abstentions": 89,
+    "pct_abstentions": 18.78,
+    "exprimes": 365
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "POURSUIVRE ENSEMBLE",
+      "libelle_abrege_liste": "POURSUIVRE ENSEMBLE",
+      "nuance_liste": null,
+      "voix": 234,
+      "pct_voix_exprimes": 64.11,
+      "sieges_cm": 13,
+      "sieges_cc": null,
+      "nb_elus": 13,
+      "tete_de_liste": {
+        "nom": "COCHEZ",
+        "prenom": "Valerie",
+        "nom_complet": "Valerie COCHEZ",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "COCHEZ",
+          "prenom": "Valerie",
+          "nom_complet": "Valerie COCHEZ",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "CATY",
+          "prenom": "Michaël",
+          "nom_complet": "Michaël CATY",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "MARTEL",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle MARTEL",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BOURLARD",
+          "prenom": "Alain",
+          "nom_complet": "Alain BOURLARD",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "THIRION",
+          "prenom": "Michèle",
+          "nom_complet": "Michèle THIRION",
+          "sexe": "F",
+          "age": 73,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "PANAVILLE",
+          "prenom": "Pierre",
+          "nom_complet": "Pierre PANAVILLE",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "PLAISANT",
+          "prenom": "Kathleen",
+          "nom_complet": "Kathleen PLAISANT",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "ABRAHAM",
+          "prenom": "Pierre",
+          "nom_complet": "Pierre ABRAHAM",
+          "sexe": "M",
+          "age": 24,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DARIMONT",
+          "prenom": "Alvine",
+          "nom_complet": "Alvine DARIMONT",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "MOGUET",
+          "prenom": "Fabien",
+          "nom_complet": "Fabien MOGUET",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "GABET",
+          "prenom": "Marie Jeanne",
+          "nom_complet": "Marie Jeanne GABET",
+          "sexe": "F",
+          "age": 73,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "MOTTE",
+          "prenom": "Arnaud",
+          "nom_complet": "Arnaud MOTTE",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "BERTEAU",
+          "prenom": "Aurelie",
+          "nom_complet": "Aurelie BERTEAU",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "13"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "Agir ensemble pour Orsinval",
+      "libelle_abrege_liste": "Agir ensemble pour Orsinval",
+      "nuance_liste": null,
+      "voix": 131,
+      "pct_voix_exprimes": 35.89,
+      "sieges_cm": 2,
+      "sieges_cc": null,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "MARTENS",
+        "prenom": "André",
+        "nom_complet": "André MARTENS",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "MARTENS",
+          "prenom": "André",
+          "nom_complet": "André MARTENS",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "PRUCHNIEWSKI",
+          "prenom": "Caroline",
+          "nom_complet": "Caroline PRUCHNIEWSKI",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

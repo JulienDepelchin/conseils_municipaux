@@ -1,0 +1,183 @@
+{
+  "code_commune": "59480",
+  "commune": "Quérénaing",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "MAITTE",
+    "prenom": "Sarah",
+    "nom_complet": "Sarah MAITTE",
+    "age": 64,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 670,
+    "votants": 525,
+    "pct_votants": 78.36,
+    "abstentions": 145,
+    "pct_abstentions": 21.64,
+    "exprimes": 516
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Quérénaing, le village qui nous rassemble",
+      "libelle_abrege_liste": "Quérénaing, le village qui nous rassemble",
+      "nuance_liste": null,
+      "voix": 277,
+      "pct_voix_exprimes": 53.68,
+      "sieges_cm": 12,
+      "sieges_cc": null,
+      "nb_elus": 12,
+      "tete_de_liste": {
+        "nom": "MAITTE",
+        "prenom": "Sarah",
+        "nom_complet": "Sarah MAITTE",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "MAITTE",
+          "prenom": "Sarah",
+          "nom_complet": "Sarah MAITTE",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DASSONVILLE",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe DASSONVILLE",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "MAITTE",
+          "prenom": "Marie-Pascale",
+          "nom_complet": "Marie-Pascale MAITTE",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "FROMONT",
+          "prenom": "Guy",
+          "nom_complet": "Guy FROMONT",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DEBUS",
+          "prenom": "Jeannine",
+          "nom_complet": "Jeannine DEBUS",
+          "sexe": "F",
+          "age": 71,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LEMOINE",
+          "prenom": "Jean-Marie",
+          "nom_complet": "Jean-Marie LEMOINE",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DELBOVE",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie DELBOVE",
+          "sexe": "F",
+          "age": 31,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LEBON",
+          "prenom": "Bernard",
+          "nom_complet": "Bernard LEBON",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "TISON",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie TISON",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "PANIEZ",
+          "prenom": "Cedric",
+          "nom_complet": "Cedric PANIEZ",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DUQUESNOY",
+          "prenom": "Alexandra",
+          "nom_complet": "Alexandra DUQUESNOY",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "PERTUZON",
+          "prenom": "Daniel",
+          "nom_complet": "Daniel PERTUZON",
+          "sexe": "M",
+          "age": 81,
+          "rang_liste": "12"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "Quérénaing, village d'hier et de demain",
+      "libelle_abrege_liste": "Quérénaing, village d'hier et de demain",
+      "nuance_liste": null,
+      "voix": 239,
+      "pct_voix_exprimes": 46.32,
+      "sieges_cm": 3,
+      "sieges_cc": null,
+      "nb_elus": 3,
+      "tete_de_liste": {
+        "nom": "JOVENIAUX",
+        "prenom": "Didier",
+        "nom_complet": "Didier JOVENIAUX",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "JOVENIAUX",
+          "prenom": "Didier",
+          "nom_complet": "Didier JOVENIAUX",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "GILET",
+          "prenom": "Valerie",
+          "nom_complet": "Valerie GILET",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "GIADZ",
+          "prenom": "Thierry",
+          "nom_complet": "Thierry GIADZ",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "3"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "code_commune": "62717",
+  "commune": "Roëllecourt",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "BERTHE",
+    "prenom": "Alain",
+    "nom_complet": "Alain BERTHE",
+    "age": 63,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 420,
+    "votants": 233,
+    "pct_votants": 55.48,
+    "abstentions": 187,
+    "pct_abstentions": 44.52,
+    "exprimes": 197
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "NOTRE EQUIPE POUR ROELLECOURT",
+      "libelle_abrege_liste": "NOTRE EQUIPE POUR ROELLECOURT",
+      "nuance_liste": null,
+      "voix": 197,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "BERTHE",
+        "prenom": "Alain",
+        "nom_complet": "Alain BERTHE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BERTHE",
+          "prenom": "Alain",
+          "nom_complet": "Alain BERTHE",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "PROYART",
+          "prenom": "Laura",
+          "nom_complet": "Laura PROYART",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "CARON",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe CARON",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "HANOT",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique HANOT",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "REYNAT",
+          "prenom": "David",
+          "nom_complet": "David REYNAT",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "BOUCHARD",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie BOUCHARD",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "MORICE",
+          "prenom": "Georges",
+          "nom_complet": "Georges MORICE",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "FREMAUX",
+          "prenom": "Élodie",
+          "nom_complet": "Élodie FREMAUX",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "FLAMENT",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal FLAMENT",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "REMY",
+          "prenom": "Betty",
+          "nom_complet": "Betty REMY",
+          "sexe": "F",
+          "age": 32,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "POTAIRE",
+          "prenom": "Yannick",
+          "nom_complet": "Yannick POTAIRE",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "BACON LALOI",
+          "prenom": "Margaux",
+          "nom_complet": "Margaux BACON LALOI",
+          "sexe": "F",
+          "age": 24,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "JACOB",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick JACOB",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "DEMOLIN",
+          "prenom": "Mélanie",
+          "nom_complet": "Mélanie DEMOLIN",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "DECOUVELAERE",
+          "prenom": "Lilian",
+          "nom_complet": "Lilian DECOUVELAERE",
+          "sexe": "M",
+          "age": 21,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

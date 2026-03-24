@@ -1,0 +1,131 @@
+{
+  "code_commune": "62282",
+  "commune": "Eclimeux",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "DEGRENDELE",
+    "prenom": "Christophe",
+    "nom_complet": "Christophe DEGRENDELE",
+    "age": 55,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 143,
+    "votants": 109,
+    "pct_votants": 76.22,
+    "abstentions": 34,
+    "pct_abstentions": 23.78,
+    "exprimes": 67
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Agir ensemble pour Eclimeux",
+      "libelle_abrege_liste": "Agir ensemble pour Eclimeux",
+      "nuance_liste": null,
+      "voix": 67,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "DEGRENDELE",
+        "prenom": "Christophe",
+        "nom_complet": "Christophe DEGRENDELE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DEGRENDELE",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe DEGRENDELE",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DE-GORTER",
+          "prenom": "Annick",
+          "nom_complet": "Annick DE-GORTER",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "MORGANT",
+          "prenom": "François",
+          "nom_complet": "François MORGANT",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "GERON",
+          "prenom": "Hélène",
+          "nom_complet": "Hélène GERON",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DEMILLY",
+          "prenom": "Alain",
+          "nom_complet": "Alain DEMILLY",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "VINCENT",
+          "prenom": "Aurélie",
+          "nom_complet": "Aurélie VINCENT",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "POLLET",
+          "prenom": "Alexandre",
+          "nom_complet": "Alexandre POLLET",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "NOYELLE",
+          "prenom": "Abygaëlle",
+          "nom_complet": "Abygaëlle NOYELLE",
+          "sexe": "F",
+          "age": 25,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DUPUIS",
+          "prenom": "Didier",
+          "nom_complet": "Didier DUPUIS",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DENEUVILLE",
+          "prenom": "Martine",
+          "nom_complet": "Martine DENEUVILLE",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "THOMAS",
+          "prenom": "Hervé",
+          "nom_complet": "Hervé THOMAS",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

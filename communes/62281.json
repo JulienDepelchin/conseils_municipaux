@@ -1,0 +1,151 @@
+{
+  "code_commune": "62281",
+  "commune": "Echinghen",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "DELATTRE",
+    "prenom": "Bernard",
+    "nom_complet": "Bernard DELATTRE",
+    "age": 72,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 271,
+    "votants": 231,
+    "pct_votants": 85.24,
+    "abstentions": 40,
+    "pct_abstentions": 14.76,
+    "exprimes": 226
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "BIEN VIVRE ENSEMBLE A ECHINGHEN",
+      "libelle_abrege_liste": "BIEN VIVRE ENSEMBLE A ECHINGHEN",
+      "nuance_liste": null,
+      "voix": 134,
+      "pct_voix_exprimes": 59.29,
+      "sieges_cm": 9,
+      "sieges_cc": null,
+      "nb_elus": 9,
+      "tete_de_liste": {
+        "nom": "DELATTRE",
+        "prenom": "Bernard",
+        "nom_complet": "Bernard DELATTRE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DELATTRE",
+          "prenom": "Bernard",
+          "nom_complet": "Bernard DELATTRE",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DHELLIN",
+          "prenom": "Julie",
+          "nom_complet": "Julie DHELLIN",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "FLAHAUT",
+          "prenom": "Serge",
+          "nom_complet": "Serge FLAHAUT",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "HUCHIN",
+          "prenom": "Reinelle",
+          "nom_complet": "Reinelle HUCHIN",
+          "sexe": "F",
+          "age": 76,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "PRUVOST",
+          "prenom": "Jean-Freddy",
+          "nom_complet": "Jean-Freddy PRUVOST",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DELSART",
+          "prenom": "Cathie",
+          "nom_complet": "Cathie DELSART",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "LESAGE",
+          "prenom": "Bernard",
+          "nom_complet": "Bernard LESAGE",
+          "sexe": "M",
+          "age": 78,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "GOUDAL",
+          "prenom": "Sylviane",
+          "nom_complet": "Sylviane GOUDAL",
+          "sexe": "F",
+          "age": 77,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "GUYOT",
+          "prenom": "Benjamin",
+          "nom_complet": "Benjamin GUYOT",
+          "sexe": "M",
+          "age": 32,
+          "rang_liste": "9"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "UNIS POUR ECHINGHEN",
+      "libelle_abrege_liste": "UNIS POUR ECHINGHEN",
+      "nuance_liste": null,
+      "voix": 92,
+      "pct_voix_exprimes": 40.71,
+      "sieges_cm": 2,
+      "sieges_cc": null,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "FORYCKI",
+        "prenom": "Maïté",
+        "nom_complet": "Maïté FORYCKI",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "FORYCKI",
+          "prenom": "Maïté",
+          "nom_complet": "Maïté FORYCKI",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LANNOY",
+          "prenom": "Jacques",
+          "nom_complet": "Jacques LANNOY",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

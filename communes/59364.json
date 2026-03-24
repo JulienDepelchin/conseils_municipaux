@@ -1,0 +1,163 @@
+{
+  "code_commune": "59364",
+  "commune": "Louvil",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "FABER",
+    "prenom": "Vinciane",
+    "nom_complet": "Vinciane FABER",
+    "age": 46,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 696,
+    "votants": 427,
+    "pct_votants": 61.35,
+    "abstentions": 269,
+    "pct_abstentions": 38.65,
+    "exprimes": 327
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Agir pour Louvil, notre village",
+      "libelle_abrege_liste": "Agir pour Louvil, notre village",
+      "nuance_liste": null,
+      "voix": 327,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "FABER",
+        "prenom": "Vinciane",
+        "nom_complet": "Vinciane FABER",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "FABER",
+          "prenom": "Vinciane",
+          "nom_complet": "Vinciane FABER",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "ZIEMNIAK",
+          "prenom": "José",
+          "nom_complet": "José ZIEMNIAK",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "KEMPISTA",
+          "prenom": "Cécile",
+          "nom_complet": "Cécile KEMPISTA",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "CAPELLE",
+          "prenom": "Lionel",
+          "nom_complet": "Lionel CAPELLE",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LEYSENS",
+          "prenom": "Marie-Dominique",
+          "nom_complet": "Marie-Dominique LEYSENS",
+          "sexe": "F",
+          "age": 72,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "VERWAERDE",
+          "prenom": "Léni",
+          "nom_complet": "Léni VERWAERDE",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "ROBERTSON",
+          "prenom": "Julie",
+          "nom_complet": "Julie ROBERTSON",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "GRANDGIRARD",
+          "prenom": "Thierry",
+          "nom_complet": "Thierry GRANDGIRARD",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "SCHOONOOGHE",
+          "prenom": "Angélique",
+          "nom_complet": "Angélique SCHOONOOGHE",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "PERINI",
+          "prenom": "Jean-Marc",
+          "nom_complet": "Jean-Marc PERINI",
+          "sexe": "M",
+          "age": 75,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "BARROIS",
+          "prenom": "Virginie",
+          "nom_complet": "Virginie BARROIS",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "BAREZ",
+          "prenom": "Clément",
+          "nom_complet": "Clément BAREZ",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "TRACKOEN",
+          "prenom": "Monique",
+          "nom_complet": "Monique TRACKOEN",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "MERCIER",
+          "prenom": "Alexandre",
+          "nom_complet": "Alexandre MERCIER",
+          "sexe": "M",
+          "age": 34,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "ENRICO",
+          "prenom": "Valérie",
+          "nom_complet": "Valérie ENRICO",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

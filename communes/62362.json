@@ -1,0 +1,151 @@
+{
+  "code_commune": "62362",
+  "commune": "Frévillers",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "VASSEUR",
+    "prenom": "Guy",
+    "nom_complet": "Guy VASSEUR",
+    "age": 67,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 215,
+    "votants": 185,
+    "pct_votants": 86.05,
+    "abstentions": 30,
+    "pct_abstentions": 13.95,
+    "exprimes": 181
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "Préserver nos racines,cultiver notre avenir",
+      "libelle_abrege_liste": "Préserver nos racines, cultiver notre avenir",
+      "nuance_liste": null,
+      "voix": 115,
+      "pct_voix_exprimes": 63.54,
+      "sieges_cm": 9,
+      "sieges_cc": null,
+      "nb_elus": 9,
+      "tete_de_liste": {
+        "nom": "VASSEUR",
+        "prenom": "Guy",
+        "nom_complet": "Guy VASSEUR",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "VASSEUR",
+          "prenom": "Guy",
+          "nom_complet": "Guy VASSEUR",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LECLERCQ",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle LECLERCQ",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BETHENCOURT",
+          "prenom": "Denis",
+          "nom_complet": "Denis BETHENCOURT",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DROLET",
+          "prenom": "Vivane",
+          "nom_complet": "Vivane DROLET",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "PATOU",
+          "prenom": "Eric",
+          "nom_complet": "Eric PATOU",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "SANCHEZ",
+          "prenom": "Hélèna",
+          "nom_complet": "Hélèna SANCHEZ",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DUEZ",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal DUEZ",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LOUCHET",
+          "prenom": "Cathy",
+          "nom_complet": "Cathy LOUCHET",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "COULON",
+          "prenom": "Cédric",
+          "nom_complet": "Cédric COULON",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "9"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Ensemble pour partager de nouvelles envies à Frévillers",
+      "libelle_abrege_liste": "Ensemble pour partager de nouvelles envies à Frévillers",
+      "nuance_liste": null,
+      "voix": 66,
+      "pct_voix_exprimes": 36.46,
+      "sieges_cm": 2,
+      "sieges_cc": null,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "PETIT",
+        "prenom": "Sophie",
+        "nom_complet": "Sophie PETIT",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "PETIT",
+          "prenom": "Sophie",
+          "nom_complet": "Sophie PETIT",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LECOCQ",
+          "prenom": "Lionel",
+          "nom_complet": "Lionel LECOCQ",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

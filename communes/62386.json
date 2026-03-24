@@ -1,0 +1,315 @@
+{
+  "code_commune": "62386",
+  "commune": "Grenay",
+  "departement": "Pas-de-Calais",
+  "tour": "T2",
+  "maire": {
+    "nom": "DUVEAU",
+    "prenom": "Daisy",
+    "nom_complet": "Daisy DUVEAU",
+    "age": 47,
+    "nuance": "LRN"
+  },
+  "resultats": {
+    "inscrits": 4660,
+    "votants": 2864,
+    "pct_votants": 61.46,
+    "abstentions": 1796,
+    "pct_abstentions": 38.54,
+    "exprimes": 2845
+  },
+  "listes": [
+    {
+      "num_panneau": "3",
+      "libelle_liste": "LE CHANGEMENT POUR GRENAY",
+      "libelle_abrege_liste": "LE CHANGEMENT POUR GRENAY",
+      "nuance_liste": "LRN",
+      "voix": 1207,
+      "pct_voix_exprimes": 42.43,
+      "sieges_cm": 21,
+      "sieges_cc": 2,
+      "nb_elus": 21,
+      "tete_de_liste": {
+        "nom": "DUVEAU",
+        "prenom": "Daisy",
+        "nom_complet": "Daisy DUVEAU",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "DUVEAU",
+          "prenom": "Daisy",
+          "nom_complet": "Daisy DUVEAU",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DESMIS",
+          "prenom": "Anthony",
+          "nom_complet": "Anthony DESMIS",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DEJARDIN",
+          "prenom": "Pauline",
+          "nom_complet": "Pauline DEJARDIN",
+          "sexe": "F",
+          "age": 33,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "IBBA",
+          "prenom": "Antoine",
+          "nom_complet": "Antoine IBBA",
+          "sexe": "M",
+          "age": 75,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "BLONDEL",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie BLONDEL",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "MATUSZEWSKI",
+          "prenom": "Yannick",
+          "nom_complet": "Yannick MATUSZEWSKI",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BOUVEUR",
+          "prenom": "Sophie",
+          "nom_complet": "Sophie BOUVEUR",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "TURPIN",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe TURPIN",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "SAGOT",
+          "prenom": "Annie",
+          "nom_complet": "Annie SAGOT",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "BAURIN",
+          "prenom": "Benoît",
+          "nom_complet": "Benoît BAURIN",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "AVERLANT",
+          "prenom": "Valérie",
+          "nom_complet": "Valérie AVERLANT",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "GORRILLIOT",
+          "prenom": "Sylvain",
+          "nom_complet": "Sylvain GORRILLIOT",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "RANVIN",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie RANVIN",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "LEGRAND",
+          "prenom": "Lilian",
+          "nom_complet": "Lilian LEGRAND",
+          "sexe": "M",
+          "age": 23,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "TAILLEZ",
+          "prenom": "Caroline",
+          "nom_complet": "Caroline TAILLEZ",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "TROULIER",
+          "prenom": "Alain",
+          "nom_complet": "Alain TROULIER",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "VASSE",
+          "prenom": "Manon",
+          "nom_complet": "Manon VASSE",
+          "sexe": "F",
+          "age": 25,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "PRUVOST",
+          "prenom": "Franck",
+          "nom_complet": "Franck PRUVOST",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "CAFFIER",
+          "prenom": "Linda",
+          "nom_complet": "Linda CAFFIER",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "DUBOIS",
+          "prenom": "Franck",
+          "nom_complet": "Franck DUBOIS",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "HARLE",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie HARLE",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "21"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "GRENAY 2026, POUR VOUS, AVEC VOUS",
+      "libelle_abrege_liste": "GRENAY 2026, POUR VOUS, AVEC VOUS",
+      "nuance_liste": "LCOM",
+      "voix": 1040,
+      "pct_voix_exprimes": 36.56,
+      "sieges_cm": 5,
+      "sieges_cc": 1,
+      "nb_elus": 5,
+      "tete_de_liste": {
+        "nom": "LELIEUX-BUISSETTE",
+        "prenom": "Christelle",
+        "nom_complet": "Christelle LELIEUX-BUISSETTE",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "LELIEUX-BUISSETTE",
+          "prenom": "Christelle",
+          "nom_complet": "Christelle LELIEUX-BUISSETTE",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "COEUGNIET",
+          "prenom": "Jacky",
+          "nom_complet": "Jacky COEUGNIET",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "KRAMARCZYK",
+          "prenom": "Muriel",
+          "nom_complet": "Muriel KRAMARCZYK",
+          "sexe": "F",
+          "age": 71,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "MANIA",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick MANIA",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LAFRANCE-WASIKOWSKI",
+          "prenom": "Cathie",
+          "nom_complet": "Cathie LAFRANCE-WASIKOWSKI",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "5"
+        }
+      ],
+      "statut_conseil": "autre"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Ensemble pour l'avenir de Grenay",
+      "libelle_abrege_liste": "Ensemble pour l'avenir de Grenay",
+      "nuance_liste": "LDVG",
+      "voix": 598,
+      "pct_voix_exprimes": 21.02,
+      "sieges_cm": 3,
+      "sieges_cc": 0,
+      "nb_elus": 3,
+      "tete_de_liste": {
+        "nom": "CHAMPIRE",
+        "prenom": "Christian",
+        "nom_complet": "Christian CHAMPIRE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "CHAMPIRE",
+          "prenom": "Christian",
+          "nom_complet": "Christian CHAMPIRE",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LECLERCQ",
+          "prenom": "Sandie",
+          "nom_complet": "Sandie LECLERCQ",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "MAGNOLIA",
+          "prenom": "Grégory",
+          "nom_complet": "Grégory MAGNOLIA",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "3"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

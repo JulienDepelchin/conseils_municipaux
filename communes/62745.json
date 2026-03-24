@@ -1,0 +1,131 @@
+{
+  "code_commune": "62745",
+  "commune": "Saint-Denoeux",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "THERRY",
+    "prenom": "Irénée",
+    "nom_complet": "Irénée THERRY",
+    "age": 41,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 128,
+    "votants": 101,
+    "pct_votants": 78.91,
+    "abstentions": 27,
+    "pct_abstentions": 21.09,
+    "exprimes": 86
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ENSEMBLE POUR SAINT-DENOEUX",
+      "libelle_abrege_liste": "ENSEMBLE POUR SAINT-DENOEUX",
+      "nuance_liste": null,
+      "voix": 86,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "THERRY",
+        "prenom": "Irénée",
+        "nom_complet": "Irénée THERRY",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "THERRY",
+          "prenom": "Irénée",
+          "nom_complet": "Irénée THERRY",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "QUETU",
+          "prenom": "Sonia",
+          "nom_complet": "Sonia QUETU",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BASTAERT",
+          "prenom": "Maxime",
+          "nom_complet": "Maxime BASTAERT",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DACQUIN",
+          "prenom": "Maryvonne",
+          "nom_complet": "Maryvonne DACQUIN",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LEROY",
+          "prenom": "Gaylord",
+          "nom_complet": "Gaylord LEROY",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DELANOË",
+          "prenom": "Cathy",
+          "nom_complet": "Cathy DELANOË",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "FORESTIER",
+          "prenom": "David",
+          "nom_complet": "David FORESTIER",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "BERNARD",
+          "prenom": "Audrey",
+          "nom_complet": "Audrey BERNARD",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "PODEVIN",
+          "prenom": "Quentin",
+          "nom_complet": "Quentin PODEVIN",
+          "sexe": "M",
+          "age": 21,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "VANUXEM",
+          "prenom": "Adélaïde",
+          "nom_complet": "Adélaïde VANUXEM",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "FOURCROY",
+          "prenom": "Florian",
+          "nom_complet": "Florian FOURCROY",
+          "sexe": "M",
+          "age": 34,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

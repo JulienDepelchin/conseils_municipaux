@@ -1,0 +1,163 @@
+{
+  "code_commune": "62367",
+  "commune": "Gauchin-Verloingt",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "CRÉPY",
+    "prenom": "Dominique",
+    "nom_complet": "Dominique CRÉPY",
+    "age": 58,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 529,
+    "votants": 318,
+    "pct_votants": 60.11,
+    "abstentions": 211,
+    "pct_abstentions": 39.89,
+    "exprimes": 289
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Tous unis pour Gauchin",
+      "libelle_abrege_liste": "Tous unis pour Gauchin",
+      "nuance_liste": null,
+      "voix": 289,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "CRÉPY",
+        "prenom": "Dominique",
+        "nom_complet": "Dominique CRÉPY",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "CRÉPY",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique CRÉPY",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "FAUQUEMBERGUE",
+          "prenom": "Cécile",
+          "nom_complet": "Cécile FAUQUEMBERGUE",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "CRÉPIN",
+          "prenom": "Hervé",
+          "nom_complet": "Hervé CRÉPIN",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "PRUVOST",
+          "prenom": "Annabelle",
+          "nom_complet": "Annabelle PRUVOST",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "VAN LEEUWEN",
+          "prenom": "Thierry",
+          "nom_complet": "Thierry VAN LEEUWEN",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "MINGANT",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle MINGANT",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "FAUQUEMBERGUE",
+          "prenom": "Thierry",
+          "nom_complet": "Thierry FAUQUEMBERGUE",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LAURENT",
+          "prenom": "Marcya",
+          "nom_complet": "Marcya LAURENT",
+          "sexe": "F",
+          "age": 73,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "NOURRY",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe NOURRY",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "LEGER",
+          "prenom": "Laetitia",
+          "nom_complet": "Laetitia LEGER",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "CHRETIEN",
+          "prenom": "Jean-René",
+          "nom_complet": "Jean-René CHRETIEN",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "DHOLLANDE",
+          "prenom": "Christine",
+          "nom_complet": "Christine DHOLLANDE",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "LEBEAUPIN",
+          "prenom": "Eric",
+          "nom_complet": "Eric LEBEAUPIN",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "LECLERCQ",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle LECLERCQ",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "VANBALEGHEM",
+          "prenom": "Gérald",
+          "nom_complet": "Gérald VANBALEGHEM",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

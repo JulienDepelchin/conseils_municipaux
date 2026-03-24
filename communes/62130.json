@@ -1,0 +1,183 @@
+{
+  "code_commune": "62130",
+  "commune": "Bienvillers-au-Bois",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "CHOQUET",
+    "prenom": "Maryse",
+    "nom_complet": "Maryse CHOQUET",
+    "age": 68,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 551,
+    "votants": 393,
+    "pct_votants": 71.32,
+    "abstentions": 158,
+    "pct_abstentions": 28.68,
+    "exprimes": 376
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "UNIS POUR AGIR",
+      "libelle_abrege_liste": "UNIS POUR AGIR",
+      "nuance_liste": null,
+      "voix": 217,
+      "pct_voix_exprimes": 57.71,
+      "sieges_cm": 12,
+      "sieges_cc": null,
+      "nb_elus": 12,
+      "tete_de_liste": {
+        "nom": "CHOQUET",
+        "prenom": "Maryse",
+        "nom_complet": "Maryse CHOQUET",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "CHOQUET",
+          "prenom": "Maryse",
+          "nom_complet": "Maryse CHOQUET",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LEVEL",
+          "prenom": "François",
+          "nom_complet": "François LEVEL",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DILLY",
+          "prenom": "Patricia",
+          "nom_complet": "Patricia DILLY",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "JONARD",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric JONARD",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "NEPVEU",
+          "prenom": "Clémence",
+          "nom_complet": "Clémence NEPVEU",
+          "sexe": "F",
+          "age": 29,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "SUEUR",
+          "prenom": "Sylvain",
+          "nom_complet": "Sylvain SUEUR",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "LECELLIER",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique LECELLIER",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "BAUDERLICQUE",
+          "prenom": "Vincent",
+          "nom_complet": "Vincent BAUDERLICQUE",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "HOLTON",
+          "prenom": "Céline",
+          "nom_complet": "Céline HOLTON",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "BÉCART",
+          "prenom": "Jérôme",
+          "nom_complet": "Jérôme BÉCART",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DOLLÉ",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie DOLLÉ",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "BRAY",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric BRAY",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "12"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "Créons de la valeur pour Bienvillers au Bois",
+      "libelle_abrege_liste": "Créons de la valeur pour Bienvillers au Bois",
+      "nuance_liste": null,
+      "voix": 159,
+      "pct_voix_exprimes": 42.29,
+      "sieges_cm": 3,
+      "sieges_cc": null,
+      "nb_elus": 3,
+      "tete_de_liste": {
+        "nom": "FONTANA",
+        "prenom": "Bruno",
+        "nom_complet": "Bruno FONTANA",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "FONTANA",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno FONTANA",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DESSEIGNE",
+          "prenom": "Ghislaine",
+          "nom_complet": "Ghislaine DESSEIGNE",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "FONTANA",
+          "prenom": "Tommy",
+          "nom_complet": "Tommy FONTANA",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "3"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

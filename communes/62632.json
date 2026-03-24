@@ -1,0 +1,131 @@
+{
+  "code_commune": "62632",
+  "commune": "Oblinghem",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "HERNU",
+    "prenom": "Stéphane",
+    "nom_complet": "Stéphane HERNU",
+    "age": 53,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 283,
+    "votants": 160,
+    "pct_votants": 56.54,
+    "abstentions": 123,
+    "pct_abstentions": 43.46,
+    "exprimes": 147
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "CONTINUONS POUR NOTRE VILLAGE",
+      "libelle_abrege_liste": "CONTINUONS POUR NOTRE VILLAGE",
+      "nuance_liste": null,
+      "voix": 147,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "HERNU",
+        "prenom": "Stéphane",
+        "nom_complet": "Stéphane HERNU",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "HERNU",
+          "prenom": "Stéphane",
+          "nom_complet": "Stéphane HERNU",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "CLERBOUT",
+          "prenom": "Jacqueline",
+          "nom_complet": "Jacqueline CLERBOUT",
+          "sexe": "F",
+          "age": 73,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "CARPENTIER",
+          "prenom": "Arnaud",
+          "nom_complet": "Arnaud CARPENTIER",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DRAL",
+          "prenom": "Aurélie",
+          "nom_complet": "Aurélie DRAL",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "BARRON",
+          "prenom": "Alexandre",
+          "nom_complet": "Alexandre BARRON",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DZIECINCHOWICZ",
+          "prenom": "Léna",
+          "nom_complet": "Léna DZIECINCHOWICZ",
+          "sexe": "F",
+          "age": 28,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BLONDIAUX",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal BLONDIAUX",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "GUILLEMETTE",
+          "prenom": "Karine",
+          "nom_complet": "Karine GUILLEMETTE",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DESQUIRET",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe DESQUIRET",
+          "sexe": "M",
+          "age": 34,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DUPONT",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie DUPONT",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DESQUIRET",
+          "prenom": "Alexandre",
+          "nom_complet": "Alexandre DESQUIRET",
+          "sexe": "M",
+          "age": 34,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "code_commune": "59140",
+  "commune": "Caullery",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "BRISSEZ",
+    "prenom": "Renelle",
+    "nom_complet": "Renelle BRISSEZ",
+    "age": 70,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 378,
+    "votants": 198,
+    "pct_votants": 52.38,
+    "abstentions": 180,
+    "pct_abstentions": 47.62,
+    "exprimes": 161
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "UNIS POUR CAULLERY",
+      "libelle_abrege_liste": "UNIS POUR CAULLERY",
+      "nuance_liste": null,
+      "voix": 161,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "BRISSEZ",
+        "prenom": "Renelle",
+        "nom_complet": "Renelle BRISSEZ",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "BRISSEZ",
+          "prenom": "Renelle",
+          "nom_complet": "Renelle BRISSEZ",
+          "sexe": "F",
+          "age": 70,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "ARPIN",
+          "prenom": "Jacques",
+          "nom_complet": "Jacques ARPIN",
+          "sexe": "M",
+          "age": 79,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LENOTTE",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie LENOTTE",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "POINDRON",
+          "prenom": "Fabrice",
+          "nom_complet": "Fabrice POINDRON",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "POTEL",
+          "prenom": "Emilie",
+          "nom_complet": "Emilie POTEL",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "ARPIN",
+          "prenom": "Sébastien",
+          "nom_complet": "Sébastien ARPIN",
+          "sexe": "M",
+          "age": 34,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "LADRIÈRE",
+          "prenom": "Marjorie",
+          "nom_complet": "Marjorie LADRIÈRE",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "VANDERMEERSCH",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric VANDERMEERSCH",
+          "sexe": "M",
+          "age": 30,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "HERBET",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique HERBET",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "LADRIERE",
+          "prenom": "Tom",
+          "nom_complet": "Tom LADRIERE",
+          "sexe": "M",
+          "age": 19,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "HERBIN",
+          "prenom": "Amélie",
+          "nom_complet": "Amélie HERBIN",
+          "sexe": "F",
+          "age": 28,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

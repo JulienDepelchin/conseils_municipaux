@@ -1,0 +1,131 @@
+{
+  "code_commune": "62481",
+  "commune": "Labroye",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "HECQUET",
+    "prenom": "Hubert",
+    "nom_complet": "Hubert HECQUET",
+    "age": 63,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 115,
+    "votants": 85,
+    "pct_votants": 73.91,
+    "abstentions": 30,
+    "pct_abstentions": 26.09,
+    "exprimes": 65
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "AGIR ENSEMBLE",
+      "libelle_abrege_liste": "AGIR ENSEMBLE",
+      "nuance_liste": null,
+      "voix": 65,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "HECQUET",
+        "prenom": "Hubert",
+        "nom_complet": "Hubert HECQUET",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "HECQUET",
+          "prenom": "Hubert",
+          "nom_complet": "Hubert HECQUET",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DINDIN",
+          "prenom": "Martine",
+          "nom_complet": "Martine DINDIN",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "FLICOURT",
+          "prenom": "José",
+          "nom_complet": "José FLICOURT",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "TAVERNIER",
+          "prenom": "Géraldine",
+          "nom_complet": "Géraldine TAVERNIER",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LEFEBVRE",
+          "prenom": "Stéphane",
+          "nom_complet": "Stéphane LEFEBVRE",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "GAMBIER",
+          "prenom": "Patricia",
+          "nom_complet": "Patricia GAMBIER",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "TOUPET",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno TOUPET",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "CHOQUET",
+          "prenom": "Carine",
+          "nom_complet": "Carine CHOQUET",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "POULINOT",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick POULINOT",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "MOREL",
+          "prenom": "Mélanie",
+          "nom_complet": "Mélanie MOREL",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "HECQUET",
+          "prenom": "Pierre",
+          "nom_complet": "Pierre HECQUET",
+          "sexe": "M",
+          "age": 20,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

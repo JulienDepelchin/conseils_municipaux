@@ -1,0 +1,183 @@
+{
+  "code_commune": "59629",
+  "commune": "Vred",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "SOQUET",
+    "prenom": "Eric",
+    "nom_complet": "Eric SOQUET",
+    "age": 59,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1026,
+    "votants": 764,
+    "pct_votants": 74.46,
+    "abstentions": 262,
+    "pct_abstentions": 25.54,
+    "exprimes": 734
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "LE VRED CAP",
+      "libelle_abrege_liste": "LE VRED CAP",
+      "nuance_liste": null,
+      "voix": 424,
+      "pct_voix_exprimes": 57.77,
+      "sieges_cm": 13,
+      "sieges_cc": 1,
+      "nb_elus": 13,
+      "tete_de_liste": {
+        "nom": "SOQUET",
+        "prenom": "Eric",
+        "nom_complet": "Eric SOQUET",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "SOQUET",
+          "prenom": "Eric",
+          "nom_complet": "Eric SOQUET",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DEPARIS",
+          "prenom": "Magali",
+          "nom_complet": "Magali DEPARIS",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "CLAISE",
+          "prenom": "Frederic",
+          "nom_complet": "Frederic CLAISE",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LEROUX",
+          "prenom": "Evelyne",
+          "nom_complet": "Evelyne LEROUX",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "BONNET",
+          "prenom": "Guy",
+          "nom_complet": "Guy BONNET",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "REY",
+          "prenom": "Caroline",
+          "nom_complet": "Caroline REY",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "MAITTE",
+          "prenom": "Yves",
+          "nom_complet": "Yves MAITTE",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "GUISLAIN",
+          "prenom": "Chloe",
+          "nom_complet": "Chloe GUISLAIN",
+          "sexe": "F",
+          "age": 25,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "HARDY",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric HARDY",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "MARLIERE",
+          "prenom": "Severine",
+          "nom_complet": "Severine MARLIERE",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "PINATION",
+          "prenom": "Clement",
+          "nom_complet": "Clement PINATION",
+          "sexe": "M",
+          "age": 32,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "DUCAMP",
+          "prenom": "Severine",
+          "nom_complet": "Severine DUCAMP",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "GUYOT",
+          "prenom": "Jean-Pierre",
+          "nom_complet": "Jean-Pierre GUYOT",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "13"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ENSEMBLE FAISONS VIVRE VRED",
+      "libelle_abrege_liste": "ENSEMBLE FAISONS VIVRE VRED",
+      "nuance_liste": null,
+      "voix": 310,
+      "pct_voix_exprimes": 42.23,
+      "sieges_cm": 2,
+      "sieges_cc": 0,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "HALLANT",
+        "prenom": "Dany",
+        "nom_complet": "Dany HALLANT",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "HALLANT",
+          "prenom": "Dany",
+          "nom_complet": "Dany HALLANT",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "RIVIERE",
+          "prenom": "Guillaume",
+          "nom_complet": "Guillaume RIVIERE",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

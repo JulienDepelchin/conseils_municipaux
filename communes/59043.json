@@ -1,0 +1,347 @@
+{
+  "code_commune": "59043",
+  "commune": "Bailleul",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "GREMBER",
+    "prenom": "Jacques",
+    "nom_complet": "Jacques GREMBER",
+    "age": 58,
+    "nuance": "LDIV"
+  },
+  "resultats": {
+    "inscrits": 11072,
+    "votants": 6564,
+    "pct_votants": 59.28,
+    "abstentions": 4508,
+    "pct_abstentions": 40.72,
+    "exprimes": 6322
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "Bailleul en Nous",
+      "libelle_abrege_liste": "BEN",
+      "nuance_liste": "LDIV",
+      "voix": 3417,
+      "pct_voix_exprimes": 54.05,
+      "sieges_cm": 26,
+      "sieges_cc": 10,
+      "nb_elus": 26,
+      "tete_de_liste": {
+        "nom": "GREMBER",
+        "prenom": "Jacques",
+        "nom_complet": "Jacques GREMBER",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "GREMBER",
+          "prenom": "Jacques",
+          "nom_complet": "Jacques GREMBER",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "TRACHEZ",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie TRACHEZ",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "CORDONNIER",
+          "prenom": "Yannick",
+          "nom_complet": "Yannick CORDONNIER",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "MILITAO",
+          "prenom": "Nancy",
+          "nom_complet": "Nancy MILITAO",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "VANCAYZEELE",
+          "prenom": "Gauthier",
+          "nom_complet": "Gauthier VANCAYZEELE",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DOBIGNY",
+          "prenom": "Laure",
+          "nom_complet": "Laure DOBIGNY",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "VERTUN",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric VERTUN",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "FLAMENT",
+          "prenom": "Armelle",
+          "nom_complet": "Armelle FLAMENT",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DESCAMPS",
+          "prenom": "Yannick",
+          "nom_complet": "Yannick DESCAMPS",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "RINGOT",
+          "prenom": "Audrey",
+          "nom_complet": "Audrey RINGOT",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "BATAILLE",
+          "prenom": "Claude",
+          "nom_complet": "Claude BATAILLE",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "ANCELLE",
+          "prenom": "Sophie",
+          "nom_complet": "Sophie ANCELLE",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "DEMOLLIENS",
+          "prenom": "Eric",
+          "nom_complet": "Eric DEMOLLIENS",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "CHARLEY",
+          "prenom": "Alice",
+          "nom_complet": "Alice CHARLEY",
+          "sexe": "F",
+          "age": 30,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "NOTTEAU",
+          "prenom": "Victor",
+          "nom_complet": "Victor NOTTEAU",
+          "sexe": "M",
+          "age": 24,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "ARDOIN",
+          "prenom": "Charlotte",
+          "nom_complet": "Charlotte ARDOIN",
+          "sexe": "F",
+          "age": 32,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "LEMAITRE",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe LEMAITRE",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "LEFEBVRE",
+          "prenom": "Clémentine",
+          "nom_complet": "Clémentine LEFEBVRE",
+          "sexe": "F",
+          "age": 29,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "FRIENCK",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas FRIENCK",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "WALLAERT",
+          "prenom": "Céline",
+          "nom_complet": "Céline WALLAERT",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "GUIRAUD",
+          "prenom": "Romain",
+          "nom_complet": "Romain GUIRAUD",
+          "sexe": "M",
+          "age": 34,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "RYCKEBUSCH",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie RYCKEBUSCH",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "BRAEMS",
+          "prenom": "Rémi",
+          "nom_complet": "Rémi BRAEMS",
+          "sexe": "M",
+          "age": 32,
+          "rang_liste": "23"
+        },
+        {
+          "nom": "DEMOEN",
+          "prenom": "Suzanne",
+          "nom_complet": "Suzanne DEMOEN",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "24"
+        },
+        {
+          "nom": "VALLART",
+          "prenom": "Maxime",
+          "nom_complet": "Maxime VALLART",
+          "sexe": "M",
+          "age": 24,
+          "rang_liste": "25"
+        },
+        {
+          "nom": "HEQUET",
+          "prenom": "Florence",
+          "nom_complet": "Florence HEQUET",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "26"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Bailleuloises, bailleulois",
+      "libelle_abrege_liste": "BB",
+      "nuance_liste": "LDIV",
+      "voix": 1677,
+      "pct_voix_exprimes": 26.53,
+      "sieges_cm": 4,
+      "sieges_cc": 1,
+      "nb_elus": 4,
+      "tete_de_liste": {
+        "nom": "DEVILLEZ",
+        "prenom": "Arnaud",
+        "nom_complet": "Arnaud DEVILLEZ",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DEVILLEZ",
+          "prenom": "Arnaud",
+          "nom_complet": "Arnaud DEVILLEZ",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DELEU-MARÉCHAL",
+          "prenom": "Amélie",
+          "nom_complet": "Amélie DELEU-MARÉCHAL",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "SOWA",
+          "prenom": "Benjamin",
+          "nom_complet": "Benjamin SOWA",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "GALLI",
+          "prenom": "Brigitte",
+          "nom_complet": "Brigitte GALLI",
+          "sexe": "F",
+          "age": 73,
+          "rang_liste": "4"
+        }
+      ],
+      "statut_conseil": "autre"
+    },
+    {
+      "num_panneau": "3",
+      "libelle_liste": "Rassembler pour Bailleul",
+      "libelle_abrege_liste": "RPB",
+      "nuance_liste": "LUG",
+      "voix": 1228,
+      "pct_voix_exprimes": 19.42,
+      "sieges_cm": 3,
+      "sieges_cc": 1,
+      "nb_elus": 3,
+      "tete_de_liste": {
+        "nom": "TALLEU",
+        "prenom": "Alain",
+        "nom_complet": "Alain TALLEU",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "TALLEU",
+          "prenom": "Alain",
+          "nom_complet": "Alain TALLEU",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BOUTEZ",
+          "prenom": "Sophie",
+          "nom_complet": "Sophie BOUTEZ",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DUBOIS",
+          "prenom": "Gérard",
+          "nom_complet": "Gérard DUBOIS",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "3"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

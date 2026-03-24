@@ -1,0 +1,163 @@
+{
+  "code_commune": "59191",
+  "commune": "Elincourt",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "LAUDE",
+    "prenom": "Pierre",
+    "nom_complet": "Pierre LAUDE",
+    "age": 62,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 479,
+    "votants": 253,
+    "pct_votants": 52.82,
+    "abstentions": 226,
+    "pct_abstentions": 47.18,
+    "exprimes": 197
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "AGISSONS ENSEMBLE POUR ELINCOURT",
+      "libelle_abrege_liste": "AGISSONS ENSEMBLE POUR ELINCOURT",
+      "nuance_liste": null,
+      "voix": 197,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "LAUDE",
+        "prenom": "Pierre",
+        "nom_complet": "Pierre LAUDE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LAUDE",
+          "prenom": "Pierre",
+          "nom_complet": "Pierre LAUDE",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "CHRETIENNEAU",
+          "prenom": "Fleur",
+          "nom_complet": "Fleur CHRETIENNEAU",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "CATTOEN",
+          "prenom": "Didier",
+          "nom_complet": "Didier CATTOEN",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LEVET",
+          "prenom": "Sarah",
+          "nom_complet": "Sarah LEVET",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "BOITIAUX",
+          "prenom": "Guillaume",
+          "nom_complet": "Guillaume BOITIAUX",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "CANONNE",
+          "prenom": "Martine",
+          "nom_complet": "Martine CANONNE",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "POBEREJKO",
+          "prenom": "Stéphane",
+          "nom_complet": "Stéphane POBEREJKO",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "BONNET",
+          "prenom": "Delphine Patricia",
+          "nom_complet": "Delphine Patricia BONNET",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "JONCKHEERE",
+          "prenom": "Didier",
+          "nom_complet": "Didier JONCKHEERE",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "MEUNIER",
+          "prenom": "Jocelyne",
+          "nom_complet": "Jocelyne MEUNIER",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "GILLON",
+          "prenom": "Mathieu",
+          "nom_complet": "Mathieu GILLON",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "CANDELIER",
+          "prenom": "Cecile",
+          "nom_complet": "Cecile CANDELIER",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "COUPEZ",
+          "prenom": "Sylvain",
+          "nom_complet": "Sylvain COUPEZ",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "SCHNIER",
+          "prenom": "Mathilde",
+          "nom_complet": "Mathilde SCHNIER",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "HAPPE",
+          "prenom": "Jean-Yves",
+          "nom_complet": "Jean-Yves HAPPE",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

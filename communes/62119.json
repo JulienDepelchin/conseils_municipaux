@@ -1,0 +1,377 @@
+{
+  "code_commune": "62119",
+  "commune": "Béthune",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "GACQUERRE",
+    "prenom": "Olivier",
+    "nom_complet": "Olivier GACQUERRE",
+    "age": 49,
+    "nuance": "LUDI"
+  },
+  "resultats": {
+    "inscrits": 17684,
+    "votants": 9751,
+    "pct_votants": 55.14,
+    "abstentions": 7933,
+    "pct_abstentions": 44.86,
+    "exprimes": 9585
+  },
+  "listes": [
+    {
+      "num_panneau": "3",
+      "libelle_liste": "PROCHE DE VOUS, FORTS ENSEMBLE",
+      "libelle_abrege_liste": "PROCHE DE VOUS, FORTS ENSEMBLE",
+      "nuance_liste": "LUDI",
+      "voix": 6237,
+      "pct_voix_exprimes": 65.07,
+      "sieges_cm": 30,
+      "sieges_cc": 11,
+      "nb_elus": 30,
+      "tete_de_liste": {
+        "nom": "GACQUERRE",
+        "prenom": "Olivier",
+        "nom_complet": "Olivier GACQUERRE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "GACQUERRE",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier GACQUERRE",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BOULART",
+          "prenom": "Annie",
+          "nom_complet": "Annie BOULART",
+          "sexe": "F",
+          "age": 78,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "GIBSON",
+          "prenom": "Pierre-Emmanuel",
+          "nom_complet": "Pierre-Emmanuel GIBSON",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LOISEAU",
+          "prenom": "Ginette",
+          "nom_complet": "Ginette LOISEAU",
+          "sexe": "F",
+          "age": 77,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DUBART",
+          "prenom": "Alain-Eric",
+          "nom_complet": "Alain-Eric DUBART",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "TAVERNIER",
+          "prenom": "Delphine",
+          "nom_complet": "Delphine TAVERNIER",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "ELAZOUZI",
+          "prenom": "Hakim",
+          "nom_complet": "Hakim ELAZOUZI",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "BERTOUX",
+          "prenom": "Maryse",
+          "nom_complet": "Maryse BERTOUX",
+          "sexe": "F",
+          "age": 72,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "KWARTNIK",
+          "prenom": "Pierre",
+          "nom_complet": "Pierre KWARTNIK",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DIA",
+          "prenom": "Fatimata",
+          "nom_complet": "Fatimata DIA",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "SCALONE",
+          "prenom": "Jean Pascal",
+          "nom_complet": "Jean Pascal SCALONE",
+          "sexe": "M",
+          "age": 75,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "HOINVILLE DUWELTZ",
+          "prenom": "Marie-Odile",
+          "nom_complet": "Marie-Odile HOINVILLE DUWELTZ",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "PERRIN",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick PERRIN",
+          "sexe": "M",
+          "age": 76,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "CHOCHOI",
+          "prenom": "Mélinda",
+          "nom_complet": "Mélinda CHOCHOI",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "DECANTER",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier DECANTER",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "BERROYER",
+          "prenom": "Béatrice",
+          "nom_complet": "Béatrice BERROYER",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "CLERBOUT",
+          "prenom": "Gaëtan",
+          "nom_complet": "Gaëtan CLERBOUT",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "THORÉ",
+          "prenom": "Elisabeth",
+          "nom_complet": "Elisabeth THORÉ",
+          "sexe": "F",
+          "age": 29,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "CORDONNIER",
+          "prenom": "Francis",
+          "nom_complet": "Francis CORDONNIER",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "ROBILLARD",
+          "prenom": "Gwendoline",
+          "nom_complet": "Gwendoline ROBILLARD",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "BOTHOREL",
+          "prenom": "Christian",
+          "nom_complet": "Christian BOTHOREL",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "GOTTRAND",
+          "prenom": "Catherine",
+          "nom_complet": "Catherine GOTTRAND",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "DOUALLE",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe DOUALLE",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "23"
+        },
+        {
+          "nom": "SENECHAL",
+          "prenom": "Camille",
+          "nom_complet": "Camille SENECHAL",
+          "sexe": "F",
+          "age": 31,
+          "rang_liste": "24"
+        },
+        {
+          "nom": "BRIGE",
+          "prenom": "Corentin",
+          "nom_complet": "Corentin BRIGE",
+          "sexe": "M",
+          "age": 33,
+          "rang_liste": "25"
+        },
+        {
+          "nom": "PONS",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie PONS",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "26"
+        },
+        {
+          "nom": "BENTIVEGNA",
+          "prenom": "Jérémy",
+          "nom_complet": "Jérémy BENTIVEGNA",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "27"
+        },
+        {
+          "nom": "BLOEMEN",
+          "prenom": "Manon",
+          "nom_complet": "Manon BLOEMEN",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "28"
+        },
+        {
+          "nom": "HANIQUE",
+          "prenom": "Quentin",
+          "nom_complet": "Quentin HANIQUE",
+          "sexe": "M",
+          "age": 23,
+          "rang_liste": "29"
+        },
+        {
+          "nom": "GAUCHER",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie GAUCHER",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "30"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "4",
+      "libelle_liste": "UN MEILLEUR AVENIR POUR BÉTHUNE",
+      "libelle_abrege_liste": "UN MEILLEUR AVENIR POUR BÉTHUNE",
+      "nuance_liste": "LRN",
+      "voix": 2350,
+      "pct_voix_exprimes": 24.52,
+      "sieges_cm": 4,
+      "sieges_cc": 1,
+      "nb_elus": 4,
+      "tete_de_liste": {
+        "nom": "MAESEELE",
+        "prenom": "Alexandre",
+        "nom_complet": "Alexandre MAESEELE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "MAESEELE",
+          "prenom": "Alexandre",
+          "nom_complet": "Alexandre MAESEELE",
+          "sexe": "M",
+          "age": 28,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "PARMENTIER",
+          "prenom": "Caroline",
+          "nom_complet": "Caroline PARMENTIER",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "GAREL",
+          "prenom": "David",
+          "nom_complet": "David GAREL",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "PETITPAS",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie PETITPAS",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "4"
+        }
+      ],
+      "statut_conseil": "autre"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "Mieux, autrement, ensemble pour Béthune",
+      "libelle_abrege_liste": "Mieux, autrement, ensemble pour Béthune",
+      "nuance_liste": "LDVG",
+      "voix": 595,
+      "pct_voix_exprimes": 6.21,
+      "sieges_cm": 1,
+      "sieges_cc": 0,
+      "nb_elus": 1,
+      "tete_de_liste": {
+        "nom": "CAPELLE",
+        "prenom": "Virginie",
+        "nom_complet": "Virginie CAPELLE",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "CAPELLE",
+          "prenom": "Virginie",
+          "nom_complet": "Virginie CAPELLE",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "1"
+        }
+      ],
+      "statut_conseil": "autre"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "BÉTHUNE VERTE ET HUMAINE",
+      "libelle_abrege_liste": "BÉTHUNE VERTE ET HUMAINE",
+      "nuance_liste": "LVEC",
+      "voix": 403,
+      "pct_voix_exprimes": 4.2,
+      "sieges_cm": 0,
+      "sieges_cc": 0,
+      "nb_elus": 0,
+      "tete_de_liste": null,
+      "elus": [],
+      "statut_conseil": "sans_elu"
+    }
+  ]
+}

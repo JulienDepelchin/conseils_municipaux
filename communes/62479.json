@@ -1,0 +1,215 @@
+{
+  "code_commune": "62479",
+  "commune": "Labeuvrière",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "BERTIER",
+    "prenom": "Jacky",
+    "nom_complet": "Jacky BERTIER",
+    "age": 63,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1264,
+    "votants": 995,
+    "pct_votants": 78.72,
+    "abstentions": 269,
+    "pct_abstentions": 21.28,
+    "exprimes": 976
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "ENSEMBLE LABEUVRIÈRE 2026",
+      "libelle_abrege_liste": "ENSEMBLE LABEUVRIÈRE 2026",
+      "nuance_liste": null,
+      "voix": 581,
+      "pct_voix_exprimes": 59.53,
+      "sieges_cm": 15,
+      "sieges_cc": 1,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "BERTIER",
+        "prenom": "Jacky",
+        "nom_complet": "Jacky BERTIER",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BERTIER",
+          "prenom": "Jacky",
+          "nom_complet": "Jacky BERTIER",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LOUCHART",
+          "prenom": "Alexandra",
+          "nom_complet": "Alexandra LOUCHART",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "GREVET",
+          "prenom": "Jean-Christophe",
+          "nom_complet": "Jean-Christophe GREVET",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BEAUCE",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie BEAUCE",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "CATY",
+          "prenom": "Jean-Paul",
+          "nom_complet": "Jean-Paul CATY",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "PRUVOST",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie PRUVOST",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DOYENNETTE",
+          "prenom": "Grégory",
+          "nom_complet": "Grégory DOYENNETTE",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "ROGER",
+          "prenom": "Karine",
+          "nom_complet": "Karine ROGER",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "HANOCQ",
+          "prenom": "André",
+          "nom_complet": "André HANOCQ",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DEMANGE",
+          "prenom": "Véronique",
+          "nom_complet": "Véronique DEMANGE",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "GUILLOT",
+          "prenom": "Stéphane",
+          "nom_complet": "Stéphane GUILLOT",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "COUVILLERS",
+          "prenom": "Audrey",
+          "nom_complet": "Audrey COUVILLERS",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "CORRIETTE",
+          "prenom": "Thiery",
+          "nom_complet": "Thiery CORRIETTE",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "HANOCQ",
+          "prenom": "Charlotte",
+          "nom_complet": "Charlotte HANOCQ",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "VALLET",
+          "prenom": "Théo",
+          "nom_complet": "Théo VALLET",
+          "sexe": "M",
+          "age": 20,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Agir",
+      "libelle_abrege_liste": "Agir",
+      "nuance_liste": null,
+      "voix": 395,
+      "pct_voix_exprimes": 40.47,
+      "sieges_cm": 4,
+      "sieges_cc": 0,
+      "nb_elus": 4,
+      "tete_de_liste": {
+        "nom": "CENSE",
+        "prenom": "Régis",
+        "nom_complet": "Régis CENSE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "CENSE",
+          "prenom": "Régis",
+          "nom_complet": "Régis CENSE",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "GUYOT",
+          "prenom": "Marylise",
+          "nom_complet": "Marylise GUYOT",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "PRUVOST",
+          "prenom": "Rémi",
+          "nom_complet": "Rémi PRUVOST",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BROUTIN",
+          "prenom": "Reynalde",
+          "nom_complet": "Reynalde BROUTIN",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "4"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

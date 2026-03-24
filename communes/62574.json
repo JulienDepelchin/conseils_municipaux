@@ -1,0 +1,131 @@
+{
+  "code_commune": "62574",
+  "commune": "Mingoval",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "DURIEZ",
+    "prenom": "Sidonie",
+    "nom_complet": "Sidonie DURIEZ",
+    "age": 51,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 173,
+    "votants": 124,
+    "pct_votants": 71.68,
+    "abstentions": 49,
+    "pct_abstentions": 28.32,
+    "exprimes": 90
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "A vos côtés, pour Mingoval",
+      "libelle_abrege_liste": "A vos côtés, pour Mingoval",
+      "nuance_liste": null,
+      "voix": 90,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "DURIEZ",
+        "prenom": "Sidonie",
+        "nom_complet": "Sidonie DURIEZ",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "DURIEZ",
+          "prenom": "Sidonie",
+          "nom_complet": "Sidonie DURIEZ",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "PAINBLAN",
+          "prenom": "Jean-Charles",
+          "nom_complet": "Jean-Charles PAINBLAN",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "MASSON",
+          "prenom": "Celine",
+          "nom_complet": "Celine MASSON",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LECOUTRE",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas LECOUTRE",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DECAUCHY",
+          "prenom": "Caroline",
+          "nom_complet": "Caroline DECAUCHY",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DEPLANQUE",
+          "prenom": "Stéphane",
+          "nom_complet": "Stéphane DEPLANQUE",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DEVULDER",
+          "prenom": "Catherine",
+          "nom_complet": "Catherine DEVULDER",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "RUNOWSKI",
+          "prenom": "Thomas",
+          "nom_complet": "Thomas RUNOWSKI",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "ZUBORA",
+          "prenom": "Sylvia",
+          "nom_complet": "Sylvia ZUBORA",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "RINKOWSKI",
+          "prenom": "René",
+          "nom_complet": "René RINKOWSKI",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DILLY",
+          "prenom": "Aurélie",
+          "nom_complet": "Aurélie DILLY",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

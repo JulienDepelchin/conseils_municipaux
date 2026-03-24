@@ -1,0 +1,163 @@
+{
+  "code_commune": "59595",
+  "commune": "Thun-Saint-Martin",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "LEMAIRE",
+    "prenom": "Damien",
+    "nom_complet": "Damien LEMAIRE",
+    "age": 53,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 423,
+    "votants": 250,
+    "pct_votants": 59.1,
+    "abstentions": 173,
+    "pct_abstentions": 40.9,
+    "exprimes": 221
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Engagés pour THUN-SAINT-MARTIN",
+      "libelle_abrege_liste": "Engagés pour THUN-SAINT-MARTIN",
+      "nuance_liste": null,
+      "voix": 221,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "LEMAIRE",
+        "prenom": "Damien",
+        "nom_complet": "Damien LEMAIRE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LEMAIRE",
+          "prenom": "Damien",
+          "nom_complet": "Damien LEMAIRE",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DUEZ",
+          "prenom": "Delphine Gisèle Paulette",
+          "nom_complet": "Delphine Gisèle Paulette DUEZ",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "RIBEAUCOURT",
+          "prenom": "Yves",
+          "nom_complet": "Yves RIBEAUCOURT",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DUPAS-BRUZEK",
+          "prenom": "Catherine",
+          "nom_complet": "Catherine DUPAS-BRUZEK",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "HIBON",
+          "prenom": "Joël",
+          "nom_complet": "Joël HIBON",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DELHAYE",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle DELHAYE",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "COOREMAN",
+          "prenom": "Jean-Marie",
+          "nom_complet": "Jean-Marie COOREMAN",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "URBAIN",
+          "prenom": "Marie-Claude",
+          "nom_complet": "Marie-Claude URBAIN",
+          "sexe": "F",
+          "age": 78,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "PARENT",
+          "prenom": "Bernard",
+          "nom_complet": "Bernard PARENT",
+          "sexe": "M",
+          "age": 74,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DELHAYE",
+          "prenom": "Martine",
+          "nom_complet": "Martine DELHAYE",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DI-FABIO",
+          "prenom": "Stéphane",
+          "nom_complet": "Stéphane DI-FABIO",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "DUTREMEZ",
+          "prenom": "Laura",
+          "nom_complet": "Laura DUTREMEZ",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "LEBLOND",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric LEBLOND",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "GÉRARD",
+          "prenom": "Géraldine",
+          "nom_complet": "Géraldine GÉRARD",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "LASSELIN",
+          "prenom": "Clément",
+          "nom_complet": "Clément LASSELIN",
+          "sexe": "M",
+          "age": 22,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

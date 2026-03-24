@@ -1,0 +1,275 @@
+{
+  "code_commune": "62667",
+  "commune": "Le Portel",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "LEPRETRE",
+    "prenom": "Maxime",
+    "nom_complet": "Maxime LEPRETRE",
+    "age": 48,
+    "nuance": "LDVC"
+  },
+  "resultats": {
+    "inscrits": 7233,
+    "votants": 3533,
+    "pct_votants": 48.85,
+    "abstentions": 3700,
+    "pct_abstentions": 51.15,
+    "exprimes": 3136
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "CAP SUR L'AVENIR",
+      "libelle_abrege_liste": "CAP SUR L'AVENIR",
+      "nuance_liste": "LDVC",
+      "voix": 3136,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 29,
+      "sieges_cc": 4,
+      "nb_elus": 29,
+      "tete_de_liste": {
+        "nom": "LEPRETRE",
+        "prenom": "Maxime",
+        "nom_complet": "Maxime LEPRETRE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LEPRETRE",
+          "prenom": "Maxime",
+          "nom_complet": "Maxime LEPRETRE",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "ROUTIER",
+          "prenom": "Emmanuelle",
+          "nom_complet": "Emmanuelle ROUTIER",
+          "sexe": "F",
+          "age": 29,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DUVAL",
+          "prenom": "Jean-Yves",
+          "nom_complet": "Jean-Yves DUVAL",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BOURGAIN",
+          "prenom": "Christèle",
+          "nom_complet": "Christèle BOURGAIN",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "MAQUINGHEN",
+          "prenom": "Francois",
+          "nom_complet": "Francois MAQUINGHEN",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LEDEZ",
+          "prenom": "Betty",
+          "nom_complet": "Betty LEDEZ",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "CAMBIER",
+          "prenom": "Frederic",
+          "nom_complet": "Frederic CAMBIER",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "PETITPRE",
+          "prenom": "Caroline",
+          "nom_complet": "Caroline PETITPRE",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "COPPIN",
+          "prenom": "Pierre",
+          "nom_complet": "Pierre COPPIN",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "LEMAIRE",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie LEMAIRE",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "PAINSET",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent PAINSET",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "DEWALLE",
+          "prenom": "Laurence",
+          "nom_complet": "Laurence DEWALLE",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "ISIDORE",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe ISIDORE",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "GRIGNON",
+          "prenom": "Christine",
+          "nom_complet": "Christine GRIGNON",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "VINCENT",
+          "prenom": "Jean-Louis",
+          "nom_complet": "Jean-Louis VINCENT",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "LENGAGNE",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie LENGAGNE",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "CHASSOT",
+          "prenom": "Christian",
+          "nom_complet": "Christian CHASSOT",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "DESCAMPS",
+          "prenom": "Elodie",
+          "nom_complet": "Elodie DESCAMPS",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "LELIEVRE",
+          "prenom": "Michel",
+          "nom_complet": "Michel LELIEVRE",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "CROMMAR",
+          "prenom": "Laure",
+          "nom_complet": "Laure CROMMAR",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "TISSERAND",
+          "prenom": "Quentin",
+          "nom_complet": "Quentin TISSERAND",
+          "sexe": "M",
+          "age": 34,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "MONTEIRO",
+          "prenom": "Evelyne",
+          "nom_complet": "Evelyne MONTEIRO",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "MAKHLOUF",
+          "prenom": "Djamal",
+          "nom_complet": "Djamal MAKHLOUF",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "23"
+        },
+        {
+          "nom": "MARESCAUX",
+          "prenom": "Estelle",
+          "nom_complet": "Estelle MARESCAUX",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "24"
+        },
+        {
+          "nom": "LEPERQUE",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe LEPERQUE",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "25"
+        },
+        {
+          "nom": "DUHAMEL",
+          "prenom": "Patricia",
+          "nom_complet": "Patricia DUHAMEL",
+          "sexe": "F",
+          "age": 70,
+          "rang_liste": "26"
+        },
+        {
+          "nom": "AUZOU",
+          "prenom": "Jean-Paul",
+          "nom_complet": "Jean-Paul AUZOU",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "27"
+        },
+        {
+          "nom": "LEPRETRE MAUROUARD",
+          "prenom": "Valérie",
+          "nom_complet": "Valérie LEPRETRE MAUROUARD",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "28"
+        },
+        {
+          "nom": "CHOQUEL",
+          "prenom": "Serge",
+          "nom_complet": "Serge CHOQUEL",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "29"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "code_commune": "62646",
+  "commune": "Palluel",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "GILLERON",
+    "prenom": "Thierry",
+    "nom_complet": "Thierry GILLERON",
+    "age": 61,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 520,
+    "votants": 289,
+    "pct_votants": 55.58,
+    "abstentions": 231,
+    "pct_abstentions": 44.42,
+    "exprimes": 252
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "DEFENSE DES TRADITIONS ET INTERETS COMMUNAUX",
+      "libelle_abrege_liste": "DEFENSE DES TRADITIONS ET INTERETS COMMUNAUX",
+      "nuance_liste": null,
+      "voix": 252,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "GILLERON",
+        "prenom": "Thierry",
+        "nom_complet": "Thierry GILLERON",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "GILLERON",
+          "prenom": "Thierry",
+          "nom_complet": "Thierry GILLERON",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "GARIN",
+          "prenom": "Martine",
+          "nom_complet": "Martine GARIN",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DECAUDAIN",
+          "prenom": "Gérard",
+          "nom_complet": "Gérard DECAUDAIN",
+          "sexe": "M",
+          "age": 79,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DELVOYE",
+          "prenom": "Chantal",
+          "nom_complet": "Chantal DELVOYE",
+          "sexe": "F",
+          "age": 70,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LUCAS",
+          "prenom": "Franck",
+          "nom_complet": "Franck LUCAS",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LEGAY",
+          "prenom": "Marilene",
+          "nom_complet": "Marilene LEGAY",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "ROGEZ",
+          "prenom": "Jérôme",
+          "nom_complet": "Jérôme ROGEZ",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "SURELLE",
+          "prenom": "Véronique",
+          "nom_complet": "Véronique SURELLE",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "MALOSSI",
+          "prenom": "Jean",
+          "nom_complet": "Jean MALOSSI",
+          "sexe": "M",
+          "age": 74,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "LEMAIRE",
+          "prenom": "Ingrid",
+          "nom_complet": "Ingrid LEMAIRE",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "LO CERTO",
+          "prenom": "Nunzio",
+          "nom_complet": "Nunzio LO CERTO",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "LELORNE",
+          "prenom": "Laurence",
+          "nom_complet": "Laurence LELORNE",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "WARTELLE",
+          "prenom": "Romain",
+          "nom_complet": "Romain WARTELLE",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "HOLIN",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie HOLIN",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "PROUVIER",
+          "prenom": "Thomas",
+          "nom_complet": "Thomas PROUVIER",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

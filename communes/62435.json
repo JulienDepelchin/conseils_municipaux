@@ -1,0 +1,151 @@
+{
+  "code_commune": "62435",
+  "commune": "Herlincourt",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "DELORY",
+    "prenom": "Claudine",
+    "nom_complet": "Claudine DELORY",
+    "age": 62,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 84,
+    "votants": 81,
+    "pct_votants": 96.43,
+    "abstentions": 3,
+    "pct_abstentions": 3.57,
+    "exprimes": 80
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "HERLINCOURT, LE MOUVEMENT S'ÉLARGIT",
+      "libelle_abrege_liste": "HERLINCOURT, LE MOUVEMENT S'ÉLARGIT",
+      "nuance_liste": null,
+      "voix": 43,
+      "pct_voix_exprimes": 53.75,
+      "sieges_cm": 9,
+      "sieges_cc": null,
+      "nb_elus": 9,
+      "tete_de_liste": {
+        "nom": "DELORY",
+        "prenom": "Claudine",
+        "nom_complet": "Claudine DELORY",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "DELORY",
+          "prenom": "Claudine",
+          "nom_complet": "Claudine DELORY",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "ARMAND",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe ARMAND",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "MASSON",
+          "prenom": "Anne",
+          "nom_complet": "Anne MASSON",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BILLAUX",
+          "prenom": "Lucien",
+          "nom_complet": "Lucien BILLAUX",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "EPERNON",
+          "prenom": "Sandra",
+          "nom_complet": "Sandra EPERNON",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "KOWALSKI",
+          "prenom": "Romain",
+          "nom_complet": "Romain KOWALSKI",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "LELEU",
+          "prenom": "Aurore",
+          "nom_complet": "Aurore LELEU",
+          "sexe": "F",
+          "age": 30,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "CRÉPIN",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe CRÉPIN",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "BAYARD",
+          "prenom": "Marie",
+          "nom_complet": "Marie BAYARD",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "9"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "Un nouvel élan pour HERLINCOURT",
+      "libelle_abrege_liste": "Un nouvel élan pour HERLINCOURT",
+      "nuance_liste": null,
+      "voix": 37,
+      "pct_voix_exprimes": 46.25,
+      "sieges_cm": 2,
+      "sieges_cc": null,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "DEMONT",
+        "prenom": "Luc",
+        "nom_complet": "Luc DEMONT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DEMONT",
+          "prenom": "Luc",
+          "nom_complet": "Luc DEMONT",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "MONEL",
+          "prenom": "Justine",
+          "nom_complet": "Justine MONEL",
+          "sexe": "F",
+          "age": 33,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

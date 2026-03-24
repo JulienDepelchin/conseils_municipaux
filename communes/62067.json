@@ -1,0 +1,163 @@
+{
+  "code_commune": "62067",
+  "commune": "Avroult",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "LEMAIRE",
+    "prenom": "Isabelle",
+    "nom_complet": "Isabelle LEMAIRE",
+    "age": 54,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 468,
+    "votants": 317,
+    "pct_votants": 67.74,
+    "abstentions": 151,
+    "pct_abstentions": 32.26,
+    "exprimes": 260
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ENSEMBLE POUR AVROULT",
+      "libelle_abrege_liste": "ENSEMBLE POUR AVROULT",
+      "nuance_liste": null,
+      "voix": 260,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "LEMAIRE",
+        "prenom": "Isabelle",
+        "nom_complet": "Isabelle LEMAIRE",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "LEMAIRE",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle LEMAIRE",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BONNIERE",
+          "prenom": "Jean-Marie",
+          "nom_complet": "Jean-Marie BONNIERE",
+          "sexe": "M",
+          "age": 74,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "COLLE",
+          "prenom": "Hélène",
+          "nom_complet": "Hélène COLLE",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DHALLEINE",
+          "prenom": "Maxime",
+          "nom_complet": "Maxime DHALLEINE",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "CASTIER",
+          "prenom": "Fabienne",
+          "nom_complet": "Fabienne CASTIER",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LEDUC",
+          "prenom": "Didier",
+          "nom_complet": "Didier LEDUC",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "SAMYN",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie SAMYN",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "CHOQUART",
+          "prenom": "Guy",
+          "nom_complet": "Guy CHOQUART",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "PERART",
+          "prenom": "Omérine",
+          "nom_complet": "Omérine PERART",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "CUVILLIER",
+          "prenom": "Guy",
+          "nom_complet": "Guy CUVILLIER",
+          "sexe": "M",
+          "age": 80,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "TIERTANT",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie TIERTANT",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "BIAUSQUE",
+          "prenom": "Stéphane",
+          "nom_complet": "Stéphane BIAUSQUE",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "LECREUX",
+          "prenom": "Christine",
+          "nom_complet": "Christine LECREUX",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "FOULON",
+          "prenom": "Sébastien",
+          "nom_complet": "Sébastien FOULON",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "DELPIERRE",
+          "prenom": "Anne",
+          "nom_complet": "Anne DELPIERRE",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

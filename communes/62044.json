@@ -1,0 +1,203 @@
+{
+  "code_commune": "62044",
+  "commune": "Attin",
+  "departement": "Pas-de-Calais",
+  "tour": "T2",
+  "maire": {
+    "nom": "DACHICOURT",
+    "prenom": "Dominique",
+    "nom_complet": "Dominique DACHICOURT",
+    "age": 66,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 725,
+    "votants": 545,
+    "pct_votants": 75.17,
+    "abstentions": 180,
+    "pct_abstentions": 24.83,
+    "exprimes": 542
+  },
+  "listes": [
+    {
+      "num_panneau": "3",
+      "libelle_liste": "Attin, à l'écoute de chacun",
+      "libelle_abrege_liste": "ATTIN, à l'écoute de chacun",
+      "nuance_liste": null,
+      "voix": 244,
+      "pct_voix_exprimes": 45.02,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "DACHICOURT",
+        "prenom": "Dominique",
+        "nom_complet": "Dominique DACHICOURT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DACHICOURT",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique DACHICOURT",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "GUYOT",
+          "prenom": "Laurie",
+          "nom_complet": "Laurie GUYOT",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "SARAZIN",
+          "prenom": "Simon",
+          "nom_complet": "Simon SARAZIN",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "VAN DOORSLAER",
+          "prenom": "Céline",
+          "nom_complet": "Céline VAN DOORSLAER",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "GUERVILLE",
+          "prenom": "Serge",
+          "nom_complet": "Serge GUERVILLE",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DUMONT",
+          "prenom": "Céline",
+          "nom_complet": "Céline DUMONT",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "GAMBART",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno GAMBART",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "HOLLEVILLE",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie HOLLEVILLE",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "VERGNIER",
+          "prenom": "David",
+          "nom_complet": "David VERGNIER",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "CADART",
+          "prenom": "Déborah",
+          "nom_complet": "Déborah CADART",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "SENTUNE",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique SENTUNE",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Préserver l'essentiel, construire l'avenir",
+      "libelle_abrege_liste": "Préserver l'essentiel, construire l'avenir",
+      "nuance_liste": null,
+      "voix": 207,
+      "pct_voix_exprimes": 38.19,
+      "sieges_cm": 3,
+      "sieges_cc": null,
+      "nb_elus": 3,
+      "tete_de_liste": {
+        "nom": "FOURCROY",
+        "prenom": "Philippe",
+        "nom_complet": "Philippe FOURCROY",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "FOURCROY",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe FOURCROY",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BEAUGEOIS",
+          "prenom": "Elodie",
+          "nom_complet": "Elodie BEAUGEOIS",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "RAYMOND",
+          "prenom": "Christian",
+          "nom_complet": "Christian RAYMOND",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "3"
+        }
+      ],
+      "statut_conseil": "autre"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "POUR LAMOUR D ATTIN",
+      "libelle_abrege_liste": "POUR LAMOUR D ATTIN",
+      "nuance_liste": null,
+      "voix": 91,
+      "pct_voix_exprimes": 16.79,
+      "sieges_cm": 1,
+      "sieges_cc": null,
+      "nb_elus": 1,
+      "tete_de_liste": {
+        "nom": "LAMOUR",
+        "prenom": "Pascal",
+        "nom_complet": "Pascal LAMOUR",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LAMOUR",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal LAMOUR",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "1"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

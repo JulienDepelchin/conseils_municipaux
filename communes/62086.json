@@ -1,0 +1,131 @@
+{
+  "code_commune": "62086",
+  "commune": "Bavincourt",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "VERRET",
+    "prenom": "Philippe",
+    "nom_complet": "Philippe VERRET",
+    "age": 70,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 286,
+    "votants": 158,
+    "pct_votants": 55.24,
+    "abstentions": 128,
+    "pct_abstentions": 44.76,
+    "exprimes": 146
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "AU SERVICE DE NOTRE VILLAGE",
+      "libelle_abrege_liste": "AU SERVICE DE NOTRE VILLAGE",
+      "nuance_liste": null,
+      "voix": 146,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "VERRET",
+        "prenom": "Philippe",
+        "nom_complet": "Philippe VERRET",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "VERRET",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe VERRET",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "CORBEAU",
+          "prenom": "Sabrina",
+          "nom_complet": "Sabrina CORBEAU",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BEAUCOURT",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier BEAUCOURT",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DENEUVILLE",
+          "prenom": "Corinne",
+          "nom_complet": "Corinne DENEUVILLE",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "BRIDOUX",
+          "prenom": "François",
+          "nom_complet": "François BRIDOUX",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "MARTIN",
+          "prenom": "Evelyne",
+          "nom_complet": "Evelyne MARTIN",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "CARON",
+          "prenom": "Guillaume",
+          "nom_complet": "Guillaume CARON",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "POINCET",
+          "prenom": "Ingrid",
+          "nom_complet": "Ingrid POINCET",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "GUELTON",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal GUELTON",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "VERHEYDE",
+          "prenom": "Laura",
+          "nom_complet": "Laura VERHEYDE",
+          "sexe": "F",
+          "age": 32,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "LORIDAN",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier LORIDAN",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

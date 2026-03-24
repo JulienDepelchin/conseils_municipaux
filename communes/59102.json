@@ -1,0 +1,151 @@
+{
+  "code_commune": "59102",
+  "commune": "Boussières-en-Cambrésis",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "TERLYNCK",
+    "prenom": "Audrey",
+    "nom_complet": "Audrey TERLYNCK",
+    "age": 40,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 334,
+    "votants": 260,
+    "pct_votants": 77.84,
+    "abstentions": 74,
+    "pct_abstentions": 22.16,
+    "exprimes": 255
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "LA VOIX DES BOUSSIEROIS",
+      "libelle_abrege_liste": "LA VOIX DES BOUSSIEROIS",
+      "nuance_liste": null,
+      "voix": 135,
+      "pct_voix_exprimes": 52.94,
+      "sieges_cm": 9,
+      "sieges_cc": null,
+      "nb_elus": 9,
+      "tete_de_liste": {
+        "nom": "TERLYNCK",
+        "prenom": "Audrey",
+        "nom_complet": "Audrey TERLYNCK",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "TERLYNCK",
+          "prenom": "Audrey",
+          "nom_complet": "Audrey TERLYNCK",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BRICOUT",
+          "prenom": "Vincent",
+          "nom_complet": "Vincent BRICOUT",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "GODET",
+          "prenom": "Marie",
+          "nom_complet": "Marie GODET",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "PACE",
+          "prenom": "Mikaël",
+          "nom_complet": "Mikaël PACE",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "MAZELIN",
+          "prenom": "Renée",
+          "nom_complet": "Renée MAZELIN",
+          "sexe": "F",
+          "age": 72,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LOISEAUX",
+          "prenom": "Valentin",
+          "nom_complet": "Valentin LOISEAUX",
+          "sexe": "M",
+          "age": 21,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DELAVALLE",
+          "prenom": "Claude",
+          "nom_complet": "Claude DELAVALLE",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DAVOINE",
+          "prenom": "Guillaume",
+          "nom_complet": "Guillaume DAVOINE",
+          "sexe": "M",
+          "age": 33,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "MAIRESSE",
+          "prenom": "Fanny",
+          "nom_complet": "Fanny MAIRESSE",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "9"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "A Boussières pas de promesse que du concret",
+      "libelle_abrege_liste": "A Boussières pas de promesse que du concret",
+      "nuance_liste": null,
+      "voix": 120,
+      "pct_voix_exprimes": 47.06,
+      "sieges_cm": 2,
+      "sieges_cc": null,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "LOIGNON",
+        "prenom": "Laurent",
+        "nom_complet": "Laurent LOIGNON",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LOIGNON",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent LOIGNON",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LAMOTTE",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle LAMOTTE",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

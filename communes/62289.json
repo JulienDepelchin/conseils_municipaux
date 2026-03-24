@@ -1,0 +1,163 @@
+{
+  "code_commune": "62289",
+  "commune": "Ecuires",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "COUSIN",
+    "prenom": "Philippe",
+    "nom_complet": "Philippe COUSIN",
+    "age": 72,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 561,
+    "votants": 322,
+    "pct_votants": 57.4,
+    "abstentions": 239,
+    "pct_abstentions": 42.6,
+    "exprimes": 289
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Ecuires, un village uni pour demain",
+      "libelle_abrege_liste": "Ecuires, un village uni pour demain",
+      "nuance_liste": null,
+      "voix": 289,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "COUSIN",
+        "prenom": "Philippe",
+        "nom_complet": "Philippe COUSIN",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "COUSIN",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe COUSIN",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DEGARDIN",
+          "prenom": "Christiane",
+          "nom_complet": "Christiane DEGARDIN",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "HERLANGE",
+          "prenom": "Fabrice",
+          "nom_complet": "Fabrice HERLANGE",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "FRANCART",
+          "prenom": "Adeline",
+          "nom_complet": "Adeline FRANCART",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "MAURIZOT",
+          "prenom": "Michael",
+          "nom_complet": "Michael MAURIZOT",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "RIBOUCHON",
+          "prenom": "Sandrine",
+          "nom_complet": "Sandrine RIBOUCHON",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "GEST",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique GEST",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "PATIN",
+          "prenom": "Hélène",
+          "nom_complet": "Hélène PATIN",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DE COLO",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent DE COLO",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "WIBAUT",
+          "prenom": "Julie",
+          "nom_complet": "Julie WIBAUT",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "ALBRECHT",
+          "prenom": "Jean-François",
+          "nom_complet": "Jean-François ALBRECHT",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "FLIPO",
+          "prenom": "Frédérique",
+          "nom_complet": "Frédérique FLIPO",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "CROXO",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe CROXO",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "LEVRAY",
+          "prenom": "Christelle",
+          "nom_complet": "Christelle LEVRAY",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "FLIPO",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe FLIPO",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

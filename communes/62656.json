@@ -1,0 +1,183 @@
+{
+  "code_commune": "62656",
+  "commune": "Pihem",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "BASUYAUX PECQUEUR",
+    "prenom": "Clarisse",
+    "nom_complet": "Clarisse BASUYAUX PECQUEUR",
+    "age": 54,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 795,
+    "votants": 569,
+    "pct_votants": 71.57,
+    "abstentions": 226,
+    "pct_abstentions": 28.43,
+    "exprimes": 541
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "AGISSONS ENSEMBLE POUR PIHEM",
+      "libelle_abrege_liste": "AGISSONS ENSEMBLE POUR PIHEM",
+      "nuance_liste": null,
+      "voix": 319,
+      "pct_voix_exprimes": 58.96,
+      "sieges_cm": 12,
+      "sieges_cc": null,
+      "nb_elus": 12,
+      "tete_de_liste": {
+        "nom": "BASUYAUX PECQUEUR",
+        "prenom": "Clarisse",
+        "nom_complet": "Clarisse BASUYAUX PECQUEUR",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "BASUYAUX PECQUEUR",
+          "prenom": "Clarisse",
+          "nom_complet": "Clarisse BASUYAUX PECQUEUR",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LEFEBVRE",
+          "prenom": "Didier",
+          "nom_complet": "Didier LEFEBVRE",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LEROY",
+          "prenom": "Françoise",
+          "nom_complet": "Françoise LEROY",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LEROUX",
+          "prenom": "Grégory",
+          "nom_complet": "Grégory LEROUX",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DE SAINTE MARESVILLE",
+          "prenom": "Greta",
+          "nom_complet": "Greta DE SAINTE MARESVILLE",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "MACHART",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric MACHART",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DUMOULIN",
+          "prenom": "Amandine",
+          "nom_complet": "Amandine DUMOULIN",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "HARFAUX",
+          "prenom": "Jean-Claude",
+          "nom_complet": "Jean-Claude HARFAUX",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "POTOT",
+          "prenom": "Martine",
+          "nom_complet": "Martine POTOT",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "BIET",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique BIET",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DUFAY",
+          "prenom": "Karine",
+          "nom_complet": "Karine DUFAY",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "DELEFORTERIE",
+          "prenom": "Georges",
+          "nom_complet": "Georges DELEFORTERIE",
+          "sexe": "M",
+          "age": 28,
+          "rang_liste": "12"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "UN NOUVEL ÉLAN POUR PIHEM",
+      "libelle_abrege_liste": "UN NOUVEL ÉLAN POUR PIHEM",
+      "nuance_liste": null,
+      "voix": 222,
+      "pct_voix_exprimes": 41.04,
+      "sieges_cm": 3,
+      "sieges_cc": null,
+      "nb_elus": 3,
+      "tete_de_liste": {
+        "nom": "CLABAUT",
+        "prenom": "Yves",
+        "nom_complet": "Yves CLABAUT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "CLABAUT",
+          "prenom": "Yves",
+          "nom_complet": "Yves CLABAUT",
+          "sexe": "M",
+          "age": 74,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "CAUET",
+          "prenom": "Marie",
+          "nom_complet": "Marie CAUET",
+          "sexe": "F",
+          "age": 29,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DELOBEL",
+          "prenom": "Gérard",
+          "nom_complet": "Gérard DELOBEL",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "3"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

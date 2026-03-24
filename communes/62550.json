@@ -1,0 +1,183 @@
+{
+  "code_commune": "62550",
+  "commune": "Marconnelle",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "DAUSSY",
+    "prenom": "Philippe",
+    "nom_complet": "Philippe DAUSSY",
+    "age": 63,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 943,
+    "votants": 662,
+    "pct_votants": 70.2,
+    "abstentions": 281,
+    "pct_abstentions": 29.8,
+    "exprimes": 646
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ENSEMBLE POUR MARCONNELLE",
+      "libelle_abrege_liste": "ENSEMBLE POUR MARCONNELLE",
+      "nuance_liste": null,
+      "voix": 351,
+      "pct_voix_exprimes": 54.33,
+      "sieges_cm": 12,
+      "sieges_cc": 2,
+      "nb_elus": 12,
+      "tete_de_liste": {
+        "nom": "DAUSSY",
+        "prenom": "Philippe",
+        "nom_complet": "Philippe DAUSSY",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DAUSSY",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe DAUSSY",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LEVEL",
+          "prenom": "Ludivine",
+          "nom_complet": "Ludivine LEVEL",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "SAMIER",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal SAMIER",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "PETIT",
+          "prenom": "Florence",
+          "nom_complet": "Florence PETIT",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "PRADEYROL",
+          "prenom": "Régis",
+          "nom_complet": "Régis PRADEYROL",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "GAMAIN",
+          "prenom": "Virginie",
+          "nom_complet": "Virginie GAMAIN",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "JOLY",
+          "prenom": "Cyrille",
+          "nom_complet": "Cyrille JOLY",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "TINCHON",
+          "prenom": "Chloé",
+          "nom_complet": "Chloé TINCHON",
+          "sexe": "F",
+          "age": 31,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "ALLÉNO",
+          "prenom": "Jérôme",
+          "nom_complet": "Jérôme ALLÉNO",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DUPORGE",
+          "prenom": "Virginie",
+          "nom_complet": "Virginie DUPORGE",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "SOUDANT",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno SOUDANT",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "LONGUET",
+          "prenom": "Elodie",
+          "nom_complet": "Elodie LONGUET",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "12"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "TOUS POUR MARCONNELLE",
+      "libelle_abrege_liste": "TOUS POUR MARCONNELLE",
+      "nuance_liste": null,
+      "voix": 295,
+      "pct_voix_exprimes": 45.67,
+      "sieges_cm": 3,
+      "sieges_cc": 0,
+      "nb_elus": 3,
+      "tete_de_liste": {
+        "nom": "TREUNET",
+        "prenom": "Stéphane",
+        "nom_complet": "Stéphane TREUNET",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "TREUNET",
+          "prenom": "Stéphane",
+          "nom_complet": "Stéphane TREUNET",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "WAREMBOURG",
+          "prenom": "Jennifer",
+          "nom_complet": "Jennifer WAREMBOURG",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "POULINOT",
+          "prenom": "José",
+          "nom_complet": "José POULINOT",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "3"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

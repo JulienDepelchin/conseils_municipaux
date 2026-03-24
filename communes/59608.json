@@ -1,0 +1,203 @@
+{
+  "code_commune": "59608",
+  "commune": "Vendegies-sur-Ecaillon",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "CARION",
+    "prenom": "Benoît",
+    "nom_complet": "Benoît CARION",
+    "age": 47,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 872,
+    "votants": 694,
+    "pct_votants": 79.59,
+    "abstentions": 178,
+    "pct_abstentions": 20.41,
+    "exprimes": 683
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Au coeur de Vendegies",
+      "libelle_abrege_liste": "Au coeur de Vendegies",
+      "nuance_liste": null,
+      "voix": 400,
+      "pct_voix_exprimes": 58.57,
+      "sieges_cm": 13,
+      "sieges_cc": 2,
+      "nb_elus": 13,
+      "tete_de_liste": {
+        "nom": "CARION",
+        "prenom": "Benoît",
+        "nom_complet": "Benoît CARION",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "CARION",
+          "prenom": "Benoît",
+          "nom_complet": "Benoît CARION",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "GUILLAUMON",
+          "prenom": "Marie",
+          "nom_complet": "Marie GUILLAUMON",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "CATTEAU",
+          "prenom": "Alexis",
+          "nom_complet": "Alexis CATTEAU",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "MERESSE",
+          "prenom": "Marie",
+          "nom_complet": "Marie MERESSE",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DERET",
+          "prenom": "Cédric",
+          "nom_complet": "Cédric DERET",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "CARON",
+          "prenom": "Céline",
+          "nom_complet": "Céline CARON",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "KIELBASIEWICZ",
+          "prenom": "Jérôme",
+          "nom_complet": "Jérôme KIELBASIEWICZ",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "PERNY",
+          "prenom": "Aurélie",
+          "nom_complet": "Aurélie PERNY",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "RUDENT",
+          "prenom": "Maxime",
+          "nom_complet": "Maxime RUDENT",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DELCOURT",
+          "prenom": "Julie",
+          "nom_complet": "Julie DELCOURT",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "MAUVIEL",
+          "prenom": "Clément",
+          "nom_complet": "Clément MAUVIEL",
+          "sexe": "M",
+          "age": 31,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "GILLERON",
+          "prenom": "Pauline",
+          "nom_complet": "Pauline GILLERON",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "GENEAU DE LAMARLIERE",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe GENEAU DE LAMARLIERE",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "13"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "ENSEMBLE POUR VENDEGIES",
+      "libelle_abrege_liste": "ENSEMBLE POUR VENDEGIES",
+      "nuance_liste": null,
+      "voix": 147,
+      "pct_voix_exprimes": 21.52,
+      "sieges_cm": 1,
+      "sieges_cc": 0,
+      "nb_elus": 1,
+      "tete_de_liste": {
+        "nom": "GILLERON",
+        "prenom": "Joselyne",
+        "nom_complet": "Joselyne GILLERON",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "GILLERON",
+          "prenom": "Joselyne",
+          "nom_complet": "Joselyne GILLERON",
+          "sexe": "F",
+          "age": 74,
+          "rang_liste": "1"
+        }
+      ],
+      "statut_conseil": "autre"
+    },
+    {
+      "num_panneau": "3",
+      "libelle_liste": "UNIS POUR VENDEGIES",
+      "libelle_abrege_liste": "UNIS POUR VENDEGIES",
+      "nuance_liste": null,
+      "voix": 136,
+      "pct_voix_exprimes": 19.91,
+      "sieges_cm": 1,
+      "sieges_cc": 0,
+      "nb_elus": 1,
+      "tete_de_liste": {
+        "nom": "TELLE",
+        "prenom": "Dominique",
+        "nom_complet": "Dominique TELLE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "TELLE",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique TELLE",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "1"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

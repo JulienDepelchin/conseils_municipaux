@@ -1,0 +1,131 @@
+{
+  "code_commune": "62633",
+  "commune": "OEuf-en-Ternois",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "CANDAELE",
+    "prenom": "Alexandre",
+    "nom_complet": "Alexandre CANDAELE",
+    "age": 29,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 187,
+    "votants": 139,
+    "pct_votants": 74.33,
+    "abstentions": 48,
+    "pct_abstentions": 25.67,
+    "exprimes": 101
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Ensemble pour notre village",
+      "libelle_abrege_liste": "Ensemble pour notre village",
+      "nuance_liste": null,
+      "voix": 101,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "CANDAELE",
+        "prenom": "Alexandre",
+        "nom_complet": "Alexandre CANDAELE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "CANDAELE",
+          "prenom": "Alexandre",
+          "nom_complet": "Alexandre CANDAELE",
+          "sexe": "M",
+          "age": 29,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "MACRON",
+          "prenom": "Aurore",
+          "nom_complet": "Aurore MACRON",
+          "sexe": "F",
+          "age": 33,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DECOBERT",
+          "prenom": "Alexis",
+          "nom_complet": "Alexis DECOBERT",
+          "sexe": "M",
+          "age": 34,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "CAPRON",
+          "prenom": "Laure",
+          "nom_complet": "Laure CAPRON",
+          "sexe": "F",
+          "age": 33,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DELTOUR",
+          "prenom": "Vincent",
+          "nom_complet": "Vincent DELTOUR",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "VALOIS",
+          "prenom": "Palmyre",
+          "nom_complet": "Palmyre VALOIS",
+          "sexe": "F",
+          "age": 28,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "VERVELLE",
+          "prenom": "Vivien",
+          "nom_complet": "Vivien VERVELLE",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DEBUICHE",
+          "prenom": "Corinne",
+          "nom_complet": "Corinne DEBUICHE",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "PEUCELLE",
+          "prenom": "Bastien",
+          "nom_complet": "Bastien PEUCELLE",
+          "sexe": "M",
+          "age": 26,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DOURNEL",
+          "prenom": "Émilie",
+          "nom_complet": "Émilie DOURNEL",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DUBOURDIEU",
+          "prenom": "Cédric",
+          "nom_complet": "Cédric DUBOURDIEU",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

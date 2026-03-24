@@ -1,0 +1,227 @@
+{
+  "code_commune": "59034",
+  "commune": "Avelin",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "ROUCOU",
+    "prenom": "Jose",
+    "nom_complet": "Jose ROUCOU",
+    "age": 63,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 2225,
+    "votants": 1318,
+    "pct_votants": 59.24,
+    "abstentions": 907,
+    "pct_abstentions": 40.76,
+    "exprimes": 1234
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "BIEN VIVRE A AVELIN",
+      "libelle_abrege_liste": "BIEN VIVRE A AVELIN",
+      "nuance_liste": null,
+      "voix": 1234,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 23,
+      "sieges_cc": 1,
+      "nb_elus": 23,
+      "tete_de_liste": {
+        "nom": "ROUCOU",
+        "prenom": "Jose",
+        "nom_complet": "Jose ROUCOU",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "ROUCOU",
+          "prenom": "Jose",
+          "nom_complet": "Jose ROUCOU",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "MONNET",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie MONNET",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "CARUYER",
+          "prenom": "Damien",
+          "nom_complet": "Damien CARUYER",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LEMAIRE",
+          "prenom": "Aline",
+          "nom_complet": "Aline LEMAIRE",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "CAMBIER",
+          "prenom": "Stephane",
+          "nom_complet": "Stephane CAMBIER",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DEREGNAUCOURT",
+          "prenom": "Genevieve",
+          "nom_complet": "Genevieve DEREGNAUCOURT",
+          "sexe": "F",
+          "age": 75,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "WIPLIE",
+          "prenom": "Sebastien",
+          "nom_complet": "Sebastien WIPLIE",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "HAZARD",
+          "prenom": "Valerie",
+          "nom_complet": "Valerie HAZARD",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "SZTUKOWSKI",
+          "prenom": "Benjamin",
+          "nom_complet": "Benjamin SZTUKOWSKI",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DESRUELLES",
+          "prenom": "Clementine",
+          "nom_complet": "Clementine DESRUELLES",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "FLAMENT",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent FLAMENT",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "LEPERS",
+          "prenom": "Marie",
+          "nom_complet": "Marie LEPERS",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "LEROUX",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe LEROUX",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "BELLEMBOIS",
+          "prenom": "Marine",
+          "nom_complet": "Marine BELLEMBOIS",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "ROSSELLE",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique ROSSELLE",
+          "sexe": "M",
+          "age": 78,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "LESTOQUOY",
+          "prenom": "Marion",
+          "nom_complet": "Marion LESTOQUOY",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "ROHART",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent ROHART",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "MARCHAND",
+          "prenom": "Magali",
+          "nom_complet": "Magali MARCHAND",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "BERNARDY",
+          "prenom": "Stephane",
+          "nom_complet": "Stephane BERNARDY",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "HEMELSDAEL",
+          "prenom": "Marie-Anne",
+          "nom_complet": "Marie-Anne HEMELSDAEL",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "ROBIQUET",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal ROBIQUET",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "LABARE",
+          "prenom": "Anne-Sophie",
+          "nom_complet": "Anne-Sophie LABARE",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "DENYS",
+          "prenom": "Guillaume",
+          "nom_complet": "Guillaume DENYS",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "23"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

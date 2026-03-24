@@ -1,0 +1,131 @@
+{
+  "code_commune": "62777",
+  "commune": "Le Sars",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "BASSEUX",
+    "prenom": "Ludovic",
+    "nom_complet": "Ludovic BASSEUX",
+    "age": 49,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 137,
+    "votants": 78,
+    "pct_votants": 56.93,
+    "abstentions": 59,
+    "pct_abstentions": 43.07,
+    "exprimes": 62
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "LISTE D'UNION",
+      "libelle_abrege_liste": "LISTE D'UNION",
+      "nuance_liste": null,
+      "voix": 62,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "BASSEUX",
+        "prenom": "Ludovic",
+        "nom_complet": "Ludovic BASSEUX",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BASSEUX",
+          "prenom": "Ludovic",
+          "nom_complet": "Ludovic BASSEUX",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "VOISIN",
+          "prenom": "Gilianne",
+          "nom_complet": "Gilianne VOISIN",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BEHAL",
+          "prenom": "Patrice",
+          "nom_complet": "Patrice BEHAL",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "VAN DORPE",
+          "prenom": "Marie",
+          "nom_complet": "Marie VAN DORPE",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "FERET",
+          "prenom": "Thierry",
+          "nom_complet": "Thierry FERET",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "ANDRÉ",
+          "prenom": "Léa",
+          "nom_complet": "Léa ANDRÉ",
+          "sexe": "F",
+          "age": 30,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "JONCKIERE",
+          "prenom": "Ludovic",
+          "nom_complet": "Ludovic JONCKIERE",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DUROT",
+          "prenom": "Laurine",
+          "nom_complet": "Laurine DUROT",
+          "sexe": "F",
+          "age": 26,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "GAUWIN",
+          "prenom": "Vincent",
+          "nom_complet": "Vincent GAUWIN",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "JUMEAUX",
+          "prenom": "Julie",
+          "nom_complet": "Julie JUMEAUX",
+          "sexe": "F",
+          "age": 25,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "BLONDEL",
+          "prenom": "Rémi",
+          "nom_complet": "Rémi BLONDEL",
+          "sexe": "M",
+          "age": 30,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

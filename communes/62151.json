@@ -1,0 +1,163 @@
+{
+  "code_commune": "62151",
+  "commune": "Boisleux-au-Mont",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "DISTINGUIN",
+    "prenom": "Jean-Marie",
+    "nom_complet": "Jean-Marie DISTINGUIN",
+    "age": 76,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 404,
+    "votants": 253,
+    "pct_votants": 62.62,
+    "abstentions": 151,
+    "pct_abstentions": 37.38,
+    "exprimes": 219
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Défense des Intérêts Communaux",
+      "libelle_abrege_liste": "Défense des Intérêts Communaux",
+      "nuance_liste": null,
+      "voix": 219,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "DISTINGUIN",
+        "prenom": "Jean-Marie",
+        "nom_complet": "Jean-Marie DISTINGUIN",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DISTINGUIN",
+          "prenom": "Jean-Marie",
+          "nom_complet": "Jean-Marie DISTINGUIN",
+          "sexe": "M",
+          "age": 76,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "WESTRELIN",
+          "prenom": "Christine",
+          "nom_complet": "Christine WESTRELIN",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BRIOIS",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal BRIOIS",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LACRAMPE",
+          "prenom": "Nicole",
+          "nom_complet": "Nicole LACRAMPE",
+          "sexe": "F",
+          "age": 72,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "THIRÉ",
+          "prenom": "Joel",
+          "nom_complet": "Joel THIRÉ",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DEBUIRE",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie DEBUIRE",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "LOISON",
+          "prenom": "Eddie",
+          "nom_complet": "Eddie LOISON",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "CUYKENS",
+          "prenom": "Marianne",
+          "nom_complet": "Marianne CUYKENS",
+          "sexe": "F",
+          "age": 79,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "BOURGOGNE",
+          "prenom": "Jean-Noël",
+          "nom_complet": "Jean-Noël BOURGOGNE",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "BRAS",
+          "prenom": "Valérie",
+          "nom_complet": "Valérie BRAS",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "BERNAUX",
+          "prenom": "Stéphane",
+          "nom_complet": "Stéphane BERNAUX",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "BOULIEZ",
+          "prenom": "Fanny",
+          "nom_complet": "Fanny BOULIEZ",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "SAGOT",
+          "prenom": "Didier",
+          "nom_complet": "Didier SAGOT",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "PETIARD",
+          "prenom": "Evelyne",
+          "nom_complet": "Evelyne PETIARD",
+          "sexe": "F",
+          "age": 74,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "DEBRET",
+          "prenom": "Oscar",
+          "nom_complet": "Oscar DEBRET",
+          "sexe": "M",
+          "age": 31,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

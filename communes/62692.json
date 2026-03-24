@@ -1,0 +1,131 @@
+{
+  "code_commune": "62692",
+  "commune": "Rebergues",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "WACQUET",
+    "prenom": "Pascal",
+    "nom_complet": "Pascal WACQUET",
+    "age": 50,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 274,
+    "votants": 152,
+    "pct_votants": 55.47,
+    "abstentions": 122,
+    "pct_abstentions": 44.53,
+    "exprimes": 129
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Ensemble pour le Rebergues de demain",
+      "libelle_abrege_liste": "Ensemble pour le Rebergues de demain",
+      "nuance_liste": null,
+      "voix": 129,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "WACQUET",
+        "prenom": "Pascal",
+        "nom_complet": "Pascal WACQUET",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "WACQUET",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal WACQUET",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "MARTINOT",
+          "prenom": "Laurence",
+          "nom_complet": "Laurence MARTINOT",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "GARENAUX",
+          "prenom": "Rodrigue",
+          "nom_complet": "Rodrigue GARENAUX",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "JOLY",
+          "prenom": "Emilie",
+          "nom_complet": "Emilie JOLY",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "PORQUET",
+          "prenom": "Christian",
+          "nom_complet": "Christian PORQUET",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "TAUFOUR",
+          "prenom": "Magali",
+          "nom_complet": "Magali TAUFOUR",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "CUCHEVAL",
+          "prenom": "Richard",
+          "nom_complet": "Richard CUCHEVAL",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DAVID",
+          "prenom": "Hélène",
+          "nom_complet": "Hélène DAVID",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "SPRIET",
+          "prenom": "Bernard",
+          "nom_complet": "Bernard SPRIET",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DESTREZ",
+          "prenom": "Marion",
+          "nom_complet": "Marion DESTREZ",
+          "sexe": "F",
+          "age": 26,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "BOURGOIS",
+          "prenom": "Morgan",
+          "nom_complet": "Morgan BOURGOIS",
+          "sexe": "M",
+          "age": 32,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

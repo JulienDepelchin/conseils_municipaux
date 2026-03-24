@@ -1,0 +1,163 @@
+{
+  "code_commune": "62286",
+  "commune": "Ecquedecques",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "MULLET",
+    "prenom": "Rosemonde",
+    "nom_complet": "Rosemonde MULLET",
+    "age": 65,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 402,
+    "votants": 248,
+    "pct_votants": 61.69,
+    "abstentions": 154,
+    "pct_abstentions": 38.31,
+    "exprimes": 198
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ENSEMBLE POUR ECQUEDECQUES",
+      "libelle_abrege_liste": "ENSEMBLE POUR ECQUEDECQUES",
+      "nuance_liste": null,
+      "voix": 198,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "MULLET",
+        "prenom": "Rosemonde",
+        "nom_complet": "Rosemonde MULLET",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "MULLET",
+          "prenom": "Rosemonde",
+          "nom_complet": "Rosemonde MULLET",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BONNIÈRE",
+          "prenom": "Grégory",
+          "nom_complet": "Grégory BONNIÈRE",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "ALTIER",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie ALTIER",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "ALLEXANDRE",
+          "prenom": "Florian",
+          "nom_complet": "Florian ALLEXANDRE",
+          "sexe": "M",
+          "age": 29,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DURAND",
+          "prenom": "Christel",
+          "nom_complet": "Christel DURAND",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "CROQUET",
+          "prenom": "William",
+          "nom_complet": "William CROQUET",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DELESALLE",
+          "prenom": "Carole",
+          "nom_complet": "Carole DELESALLE",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "RICHIR",
+          "prenom": "Emmanuel",
+          "nom_complet": "Emmanuel RICHIR",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DUCHATEAU",
+          "prenom": "Julie",
+          "nom_complet": "Julie DUCHATEAU",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "ARNOULD",
+          "prenom": "Sylvain",
+          "nom_complet": "Sylvain ARNOULD",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "LEMOINE",
+          "prenom": "Victorine",
+          "nom_complet": "Victorine LEMOINE",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "GUILLEMANT",
+          "prenom": "Mathieu",
+          "nom_complet": "Mathieu GUILLEMANT",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "CAMBIER",
+          "prenom": "Amandine",
+          "nom_complet": "Amandine CAMBIER",
+          "sexe": "F",
+          "age": 31,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "LOYER",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal LOYER",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "MOINSE",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie MOINSE",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

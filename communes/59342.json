@@ -1,0 +1,131 @@
+{
+  "code_commune": "59342",
+  "commune": "Lez-Fontaine",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "HANOT",
+    "prenom": "Philippe",
+    "nom_complet": "Philippe HANOT",
+    "age": 52,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 174,
+    "votants": 113,
+    "pct_votants": 64.94,
+    "abstentions": 61,
+    "pct_abstentions": 35.06,
+    "exprimes": 102
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Ensemble pour Lez-Fontaine",
+      "libelle_abrege_liste": "Ensemble pour Lez-Fontaine",
+      "nuance_liste": null,
+      "voix": 102,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "HANOT",
+        "prenom": "Philippe",
+        "nom_complet": "Philippe HANOT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "HANOT",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe HANOT",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "NICQ",
+          "prenom": "Véronique",
+          "nom_complet": "Véronique NICQ",
+          "sexe": "F",
+          "age": 72,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "SERE",
+          "prenom": "Ignacio",
+          "nom_complet": "Ignacio SERE",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "VINCENT",
+          "prenom": "Sandrine",
+          "nom_complet": "Sandrine VINCENT",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "BLAUWBLOMME",
+          "prenom": "Michel",
+          "nom_complet": "Michel BLAUWBLOMME",
+          "sexe": "M",
+          "age": 75,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "HANOT",
+          "prenom": "Raphaëlle",
+          "nom_complet": "Raphaëlle HANOT",
+          "sexe": "F",
+          "age": 25,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DEHON",
+          "prenom": "Axel",
+          "nom_complet": "Axel DEHON",
+          "sexe": "M",
+          "age": 21,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DHOUDAIN",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie DHOUDAIN",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "MICHAUX",
+          "prenom": "Damien",
+          "nom_complet": "Damien MICHAUX",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "FENAUX",
+          "prenom": "Tiffany",
+          "nom_complet": "Tiffany FENAUX",
+          "sexe": "F",
+          "age": 28,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "LEGRAND",
+          "prenom": "Simon",
+          "nom_complet": "Simon LEGRAND",
+          "sexe": "M",
+          "age": 20,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

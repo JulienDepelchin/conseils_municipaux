@@ -1,0 +1,177 @@
+{
+  "code_commune": "62412",
+  "commune": "Hardinghen",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "TELLIEZ",
+    "prenom": "Nathalie",
+    "nom_complet": "Nathalie TELLIEZ",
+    "age": 62,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 897,
+    "votants": 619,
+    "pct_votants": 69.01,
+    "abstentions": 278,
+    "pct_abstentions": 30.99,
+    "exprimes": 299
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Toujours ensemble pour l'avenir d'Hardinghen",
+      "libelle_abrege_liste": "Toujours ensemble pour l'avenir d'Hardinghen",
+      "nuance_liste": null,
+      "voix": 299,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": 2,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "TELLIEZ",
+        "prenom": "Nathalie",
+        "nom_complet": "Nathalie TELLIEZ",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "TELLIEZ",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie TELLIEZ",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DELANNOY",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique DELANNOY",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "FALEMPIN",
+          "prenom": "Bernadette",
+          "nom_complet": "Bernadette FALEMPIN",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "GUERLAIN",
+          "prenom": "Marc",
+          "nom_complet": "Marc GUERLAIN",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "CARBONNIER",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie CARBONNIER",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DEROUETTE",
+          "prenom": "Damien",
+          "nom_complet": "Damien DEROUETTE",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "MALE",
+          "prenom": "Karine",
+          "nom_complet": "Karine MALE",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LANNOY",
+          "prenom": "Sylvain",
+          "nom_complet": "Sylvain LANNOY",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "FAINE",
+          "prenom": "Paméla",
+          "nom_complet": "Paméla FAINE",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "WIDEHEM",
+          "prenom": "Clément",
+          "nom_complet": "Clément WIDEHEM",
+          "sexe": "M",
+          "age": 32,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "LELEU",
+          "prenom": "Melanie",
+          "nom_complet": "Melanie LELEU",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "LOCQUENEUX",
+          "prenom": "Raphael",
+          "nom_complet": "Raphael LOCQUENEUX",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "PATTYN",
+          "prenom": "Laurence",
+          "nom_complet": "Laurence PATTYN",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "HERENT",
+          "prenom": "Florent",
+          "nom_complet": "Florent HERENT",
+          "sexe": "M",
+          "age": 34,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "VILLEDIEU",
+          "prenom": "Christèle",
+          "nom_complet": "Christèle VILLEDIEU",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "Un autre élan pour Hardinghen",
+      "libelle_abrege_liste": "Un autre élan pour Hardinghen",
+      "nuance_liste": null,
+      "voix": 0,
+      "pct_voix_exprimes": 0,
+      "sieges_cm": 0,
+      "sieges_cc": 0,
+      "nb_elus": 0,
+      "tete_de_liste": null,
+      "elus": [],
+      "statut_conseil": "sans_elu"
+    }
+  ]
+}

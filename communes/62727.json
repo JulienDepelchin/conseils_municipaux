@@ -1,0 +1,203 @@
+{
+  "code_commune": "62727",
+  "commune": "Ruitz",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "MONTEWIS",
+    "prenom": "Arnaud",
+    "nom_complet": "Arnaud MONTEWIS",
+    "age": 48,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1264,
+    "votants": 913,
+    "pct_votants": 72.23,
+    "abstentions": 351,
+    "pct_abstentions": 27.77,
+    "exprimes": 896
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "RUITZ 2026, DEMAIN VOUS APPARTIENT!",
+      "libelle_abrege_liste": "RUITZ 2026, DEMAIN VOUS APPARTIENT!",
+      "nuance_liste": null,
+      "voix": 468,
+      "pct_voix_exprimes": 52.23,
+      "sieges_cm": 12,
+      "sieges_cc": 1,
+      "nb_elus": 12,
+      "tete_de_liste": {
+        "nom": "MONTEWIS",
+        "prenom": "Arnaud",
+        "nom_complet": "Arnaud MONTEWIS",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "MONTEWIS",
+          "prenom": "Arnaud",
+          "nom_complet": "Arnaud MONTEWIS",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "KARASIEWICZ",
+          "prenom": "Christine",
+          "nom_complet": "Christine KARASIEWICZ",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "ROGER",
+          "prenom": "Roland",
+          "nom_complet": "Roland ROGER",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LEBLOND COUVREUR",
+          "prenom": "Danièle",
+          "nom_complet": "Danièle LEBLOND COUVREUR",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LAMBERT",
+          "prenom": "Serge",
+          "nom_complet": "Serge LAMBERT",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DIETHMANN",
+          "prenom": "Audrey",
+          "nom_complet": "Audrey DIETHMANN",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "PLUTA",
+          "prenom": "Michel",
+          "nom_complet": "Michel PLUTA",
+          "sexe": "M",
+          "age": 75,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LECAT CREVISSE",
+          "prenom": "Emilie",
+          "nom_complet": "Emilie LECAT CREVISSE",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "GENTILLE",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas GENTILLE",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DURLINS DELANNOY",
+          "prenom": "Anne-Sophie",
+          "nom_complet": "Anne-Sophie DURLINS DELANNOY",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "ANDRIES",
+          "prenom": "Jules",
+          "nom_complet": "Jules ANDRIES",
+          "sexe": "M",
+          "age": 21,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "HACCART BLOT",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie HACCART BLOT",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "12"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "RUITZ, NOTRE VILLAGE A VOTRE IMAGE",
+      "libelle_abrege_liste": "RUITZ, NOTRE VILLAGE A VOTRE IMAGE",
+      "nuance_liste": null,
+      "voix": 288,
+      "pct_voix_exprimes": 32.14,
+      "sieges_cm": 2,
+      "sieges_cc": 0,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "HELARD-GILLOT",
+        "prenom": "Noémie",
+        "nom_complet": "Noémie HELARD-GILLOT",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "HELARD-GILLOT",
+          "prenom": "Noémie",
+          "nom_complet": "Noémie HELARD-GILLOT",
+          "sexe": "F",
+          "age": 31,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "THELLIEZ",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal THELLIEZ",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    },
+    {
+      "num_panneau": "3",
+      "libelle_liste": "UNIS POUR RUITZ",
+      "libelle_abrege_liste": "UNIS POUR RUITZ",
+      "nuance_liste": null,
+      "voix": 140,
+      "pct_voix_exprimes": 15.63,
+      "sieges_cm": 1,
+      "sieges_cc": 0,
+      "nb_elus": 1,
+      "tete_de_liste": {
+        "nom": "ADANCOURT",
+        "prenom": "Annie",
+        "nom_complet": "Annie ADANCOURT",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "ADANCOURT",
+          "prenom": "Annie",
+          "nom_complet": "Annie ADANCOURT",
+          "sexe": "F",
+          "age": 77,
+          "rang_liste": "1"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

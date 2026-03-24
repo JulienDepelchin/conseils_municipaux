@@ -1,0 +1,131 @@
+{
+  "code_commune": "62290",
+  "commune": "Ecurie",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "CAILLIEREZ",
+    "prenom": "Charline",
+    "nom_complet": "Charline CAILLIEREZ",
+    "age": 59,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 320,
+    "votants": 203,
+    "pct_votants": 63.44,
+    "abstentions": 117,
+    "pct_abstentions": 36.56,
+    "exprimes": 160
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ECURIE, UN VILLAGE QUI AVANCE",
+      "libelle_abrege_liste": "ECURIE, UN VILLAGE QUI AVANCE",
+      "nuance_liste": null,
+      "voix": 160,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "CAILLIEREZ",
+        "prenom": "Charline",
+        "nom_complet": "Charline CAILLIEREZ",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "CAILLIEREZ",
+          "prenom": "Charline",
+          "nom_complet": "Charline CAILLIEREZ",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BACHELET",
+          "prenom": "Mikael",
+          "nom_complet": "Mikael BACHELET",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "THILLIEZ",
+          "prenom": "Christelle",
+          "nom_complet": "Christelle THILLIEZ",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DUFERMONT",
+          "prenom": "Edmond",
+          "nom_complet": "Edmond DUFERMONT",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "JOUVENEZ",
+          "prenom": "Alexia",
+          "nom_complet": "Alexia JOUVENEZ",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "ZYWIECKI",
+          "prenom": "Daniel",
+          "nom_complet": "Daniel ZYWIECKI",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DHORNE",
+          "prenom": "Juliette",
+          "nom_complet": "Juliette DHORNE",
+          "sexe": "F",
+          "age": 30,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "GRARE",
+          "prenom": "Lambert",
+          "nom_complet": "Lambert GRARE",
+          "sexe": "M",
+          "age": 31,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DELFORGE",
+          "prenom": "Thérèse",
+          "nom_complet": "Thérèse DELFORGE",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "MERCIER",
+          "prenom": "Marck",
+          "nom_complet": "Marck MERCIER",
+          "sexe": "M",
+          "age": 31,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "FOURNIER",
+          "prenom": "Michèle",
+          "nom_complet": "Michèle FOURNIER",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

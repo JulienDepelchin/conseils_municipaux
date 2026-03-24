@@ -1,0 +1,195 @@
+{
+  "code_commune": "59262",
+  "commune": "Godewaersvelde",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "SOODTS",
+    "prenom": "Serge",
+    "nom_complet": "Serge SOODTS",
+    "age": 67,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1567,
+    "votants": 916,
+    "pct_votants": 58.46,
+    "abstentions": 651,
+    "pct_abstentions": 41.54,
+    "exprimes": 760
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "GODEWAERSVELDE C EST VOUS",
+      "libelle_abrege_liste": "GCV",
+      "nuance_liste": null,
+      "voix": 760,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 19,
+      "sieges_cc": 1,
+      "nb_elus": 19,
+      "tete_de_liste": {
+        "nom": "SOODTS",
+        "prenom": "Serge",
+        "nom_complet": "Serge SOODTS",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "SOODTS",
+          "prenom": "Serge",
+          "nom_complet": "Serge SOODTS",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "CAREMELLE",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie CAREMELLE",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "VERMEULEN",
+          "prenom": "Antoine",
+          "nom_complet": "Antoine VERMEULEN",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "TRAISNEL",
+          "prenom": "Sophie",
+          "nom_complet": "Sophie TRAISNEL",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "WAEGHEMAEKER",
+          "prenom": "Martial",
+          "nom_complet": "Martial WAEGHEMAEKER",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "VERSTRAETE",
+          "prenom": "Elise",
+          "nom_complet": "Elise VERSTRAETE",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "MASSON",
+          "prenom": "Jean-Baptiste",
+          "nom_complet": "Jean-Baptiste MASSON",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "KINDT",
+          "prenom": "Mikaëlla",
+          "nom_complet": "Mikaëlla KINDT",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "ROYAL",
+          "prenom": "Aurélien",
+          "nom_complet": "Aurélien ROYAL",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "BOUTOILLE",
+          "prenom": "Pauline",
+          "nom_complet": "Pauline BOUTOILLE",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "CARTON",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas CARTON",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "WAELENS",
+          "prenom": "Corinne",
+          "nom_complet": "Corinne WAELENS",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "LOOTEN",
+          "prenom": "François",
+          "nom_complet": "François LOOTEN",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "SMAL",
+          "prenom": "Laëtitia",
+          "nom_complet": "Laëtitia SMAL",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "DELBAERE",
+          "prenom": "Vincent",
+          "nom_complet": "Vincent DELBAERE",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "GOBLET",
+          "prenom": "Loryane",
+          "nom_complet": "Loryane GOBLET",
+          "sexe": "F",
+          "age": 27,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "LEFRANCQ",
+          "prenom": "Samuel",
+          "nom_complet": "Samuel LEFRANCQ",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "BOUREL",
+          "prenom": "Nadine",
+          "nom_complet": "Nadine BOUREL",
+          "sexe": "F",
+          "age": 79,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "DELRUE",
+          "prenom": "Guillaume",
+          "nom_complet": "Guillaume DELRUE",
+          "sexe": "M",
+          "age": 32,
+          "rang_liste": "19"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

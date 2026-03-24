@@ -1,0 +1,163 @@
+{
+  "code_commune": "62638",
+  "commune": "Oisy-le-Verger",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "GUENOT",
+    "prenom": "Marie-Christine",
+    "nom_complet": "Marie-Christine GUENOT",
+    "age": 66,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 932,
+    "votants": 507,
+    "pct_votants": 54.4,
+    "abstentions": 425,
+    "pct_abstentions": 45.6,
+    "exprimes": 452
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "TOUJOURS ENGAGES POUR OISY-LE-VERGER",
+      "libelle_abrege_liste": "TOUJOURS ENGAGES POUR OISY-LE-VERGER",
+      "nuance_liste": null,
+      "voix": 452,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": 2,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "GUENOT",
+        "prenom": "Marie-Christine",
+        "nom_complet": "Marie-Christine GUENOT",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "GUENOT",
+          "prenom": "Marie-Christine",
+          "nom_complet": "Marie-Christine GUENOT",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DELFORGE",
+          "prenom": "Vincent",
+          "nom_complet": "Vincent DELFORGE",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "TREDOULET",
+          "prenom": "Anna",
+          "nom_complet": "Anna TREDOULET",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "SZCZESNY",
+          "prenom": "Frederic",
+          "nom_complet": "Frederic SZCZESNY",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "MARQUET",
+          "prenom": "Séverine",
+          "nom_complet": "Séverine MARQUET",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LEGRAND",
+          "prenom": "Alex",
+          "nom_complet": "Alex LEGRAND",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "LEDO",
+          "prenom": "Nicole",
+          "nom_complet": "Nicole LEDO",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "PIERREPONT",
+          "prenom": "David",
+          "nom_complet": "David PIERREPONT",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "TABARY",
+          "prenom": "Valerie",
+          "nom_complet": "Valerie TABARY",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "HERBIN",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique HERBIN",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "ADAMSKI",
+          "prenom": "Danielle",
+          "nom_complet": "Danielle ADAMSKI",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "MOLLET",
+          "prenom": "Remi",
+          "nom_complet": "Remi MOLLET",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "LEMOINE",
+          "prenom": "Maryline",
+          "nom_complet": "Maryline LEMOINE",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "BENEDEK",
+          "prenom": "Eric",
+          "nom_complet": "Eric BENEDEK",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "BAJEUX",
+          "prenom": "Audrey",
+          "nom_complet": "Audrey BAJEUX",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

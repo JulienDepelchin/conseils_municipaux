@@ -1,0 +1,203 @@
+{
+  "code_commune": "59626",
+  "commune": "Villers-Pol",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "YZANIC",
+    "prenom": "Olivier",
+    "nom_complet": "Olivier YZANIC",
+    "age": 53,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 919,
+    "votants": 726,
+    "pct_votants": 79,
+    "abstentions": 193,
+    "pct_abstentions": 21,
+    "exprimes": 715
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "POURSUIVONS L'ELAN",
+      "libelle_abrege_liste": "POURSUIVONS L'ELAN",
+      "nuance_liste": null,
+      "voix": 443,
+      "pct_voix_exprimes": 61.96,
+      "sieges_cm": 13,
+      "sieges_cc": 1,
+      "nb_elus": 13,
+      "tete_de_liste": {
+        "nom": "YZANIC",
+        "prenom": "Olivier",
+        "nom_complet": "Olivier YZANIC",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "YZANIC",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier YZANIC",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "GRAVELINE",
+          "prenom": "Anne",
+          "nom_complet": "Anne GRAVELINE",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DUCLAYE",
+          "prenom": "Eric",
+          "nom_complet": "Eric DUCLAYE",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "MARTEL",
+          "prenom": "Christelle",
+          "nom_complet": "Christelle MARTEL",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "MERLIN",
+          "prenom": "Alexis",
+          "nom_complet": "Alexis MERLIN",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "BERTON",
+          "prenom": "Helene-Catherine",
+          "nom_complet": "Helene-Catherine BERTON",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "TREDEZ",
+          "prenom": "Wladimir",
+          "nom_complet": "Wladimir TREDEZ",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "CAUCHY",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle CAUCHY",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DRICOT",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier DRICOT",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "RENAUT",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie RENAUT",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "GOFFART",
+          "prenom": "Benoit",
+          "nom_complet": "Benoit GOFFART",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "ALGLAVE",
+          "prenom": "Marie-Claire",
+          "nom_complet": "Marie-Claire ALGLAVE",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "DUVERGER",
+          "prenom": "Elie-Corentin",
+          "nom_complet": "Elie-Corentin DUVERGER",
+          "sexe": "M",
+          "age": 29,
+          "rang_liste": "13"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Simplement Villers-Pol",
+      "libelle_abrege_liste": "Simplement Villers-Pol",
+      "nuance_liste": null,
+      "voix": 150,
+      "pct_voix_exprimes": 20.98,
+      "sieges_cm": 1,
+      "sieges_cc": 0,
+      "nb_elus": 1,
+      "tete_de_liste": {
+        "nom": "POIRETTE",
+        "prenom": "Romain",
+        "nom_complet": "Romain POIRETTE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "POIRETTE",
+          "prenom": "Romain",
+          "nom_complet": "Romain POIRETTE",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "1"
+        }
+      ],
+      "statut_conseil": "autre"
+    },
+    {
+      "num_panneau": "3",
+      "libelle_liste": "Des origines au renouveau",
+      "libelle_abrege_liste": "Des origines au renouveau",
+      "nuance_liste": null,
+      "voix": 122,
+      "pct_voix_exprimes": 17.06,
+      "sieges_cm": 1,
+      "sieges_cc": 0,
+      "nb_elus": 1,
+      "tete_de_liste": {
+        "nom": "MARTEL",
+        "prenom": "Aurelien",
+        "nom_complet": "Aurelien MARTEL",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "MARTEL",
+          "prenom": "Aurelien",
+          "nom_complet": "Aurelien MARTEL",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "1"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

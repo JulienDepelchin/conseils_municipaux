@@ -1,0 +1,247 @@
+{
+  "code_commune": "62489",
+  "commune": "Lapugnoy",
+  "departement": "Pas-de-Calais",
+  "tour": "T2",
+  "maire": {
+    "nom": "DESFONTAINES",
+    "prenom": "Yannick",
+    "nom_complet": "Yannick DESFONTAINES",
+    "age": 44,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 2832,
+    "votants": 1957,
+    "pct_votants": 69.1,
+    "abstentions": 875,
+    "pct_abstentions": 30.9,
+    "exprimes": 1899
+  },
+  "listes": [
+    {
+      "num_panneau": "3",
+      "libelle_liste": "VIVRE ENSEMBLE POUR LAPUGNOY",
+      "libelle_abrege_liste": "VIVRE ENSEMBLE POUR LAPUGNOY",
+      "nuance_liste": null,
+      "voix": 1122,
+      "pct_voix_exprimes": 59.08,
+      "sieges_cm": 19,
+      "sieges_cc": 1,
+      "nb_elus": 19,
+      "tete_de_liste": {
+        "nom": "DESFONTAINES",
+        "prenom": "Yannick",
+        "nom_complet": "Yannick DESFONTAINES",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DESFONTAINES",
+          "prenom": "Yannick",
+          "nom_complet": "Yannick DESFONTAINES",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DUCLERMORTIER",
+          "prenom": "Elodie",
+          "nom_complet": "Elodie DUCLERMORTIER",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DEMARLE",
+          "prenom": "Alain",
+          "nom_complet": "Alain DEMARLE",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DELHOMEZ",
+          "prenom": "Aurore",
+          "nom_complet": "Aurore DELHOMEZ",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "MOULIN-BEUGIN",
+          "prenom": "Jérome",
+          "nom_complet": "Jérome MOULIN-BEUGIN",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DUFRASNE",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie DUFRASNE",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DOYENNETTE",
+          "prenom": "Jérome",
+          "nom_complet": "Jérome DOYENNETTE",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "CHAVATTE",
+          "prenom": "Laurine",
+          "nom_complet": "Laurine CHAVATTE",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "CARNEZ",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe CARNEZ",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "LABBE",
+          "prenom": "Camille",
+          "nom_complet": "Camille LABBE",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "LALART",
+          "prenom": "Adrien",
+          "nom_complet": "Adrien LALART",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "BLOQUET-LIGNIER",
+          "prenom": "Perrine",
+          "nom_complet": "Perrine BLOQUET-LIGNIER",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "BONNIEZ",
+          "prenom": "Pierre-Emmanuel",
+          "nom_complet": "Pierre-Emmanuel BONNIEZ",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "EVERAERE",
+          "prenom": "Laly",
+          "nom_complet": "Laly EVERAERE",
+          "sexe": "F",
+          "age": 20,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "THULIEZ",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric THULIEZ",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "VICHERY",
+          "prenom": "Karine",
+          "nom_complet": "Karine VICHERY",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "DUBUS",
+          "prenom": "Elie",
+          "nom_complet": "Elie DUBUS",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "GORYNIA",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie GORYNIA",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "DANCOISNE",
+          "prenom": "Aurelien",
+          "nom_complet": "Aurelien DANCOISNE",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "19"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "CONTINUONS ENSEMBLE POUR L'AVENIR DE LAPUGNOY",
+      "libelle_abrege_liste": "CONTINUONS ENSEMBLE POUR L'AVENIR DE LAPUGNOY",
+      "nuance_liste": null,
+      "voix": 777,
+      "pct_voix_exprimes": 40.92,
+      "sieges_cm": 4,
+      "sieges_cc": 0,
+      "nb_elus": 4,
+      "tete_de_liste": {
+        "nom": "DELANNOY",
+        "prenom": "Alain",
+        "nom_complet": "Alain DELANNOY",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DELANNOY",
+          "prenom": "Alain",
+          "nom_complet": "Alain DELANNOY",
+          "sexe": "M",
+          "age": 76,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "CARON",
+          "prenom": "Annick",
+          "nom_complet": "Annick CARON",
+          "sexe": "F",
+          "age": 73,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DELANNOY",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick DELANNOY",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "RENOULD PETITPAS",
+          "prenom": "Julie",
+          "nom_complet": "Julie RENOULD PETITPAS",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "4"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

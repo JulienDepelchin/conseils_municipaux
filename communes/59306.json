@@ -1,0 +1,131 @@
+{
+  "code_commune": "59306",
+  "commune": "Hestrud",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "VAN DER VRECKEN",
+    "prenom": "Olivier",
+    "nom_complet": "Olivier VAN DER VRECKEN",
+    "age": 57,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 220,
+    "votants": 106,
+    "pct_votants": 48.18,
+    "abstentions": 114,
+    "pct_abstentions": 51.82,
+    "exprimes": 98
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ENSEMBLE POUR HESTRUD",
+      "libelle_abrege_liste": "ENSEMBLE POUR HESTRUD",
+      "nuance_liste": null,
+      "voix": 98,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "VAN DER VRECKEN",
+        "prenom": "Olivier",
+        "nom_complet": "Olivier VAN DER VRECKEN",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "VAN DER VRECKEN",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier VAN DER VRECKEN",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DARNAUX",
+          "prenom": "Christiane",
+          "nom_complet": "Christiane DARNAUX",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "PETIT",
+          "prenom": "Stephane",
+          "nom_complet": "Stephane PETIT",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BLONDEL",
+          "prenom": "Christelle",
+          "nom_complet": "Christelle BLONDEL",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DERNONCOURT",
+          "prenom": "Franck",
+          "nom_complet": "Franck DERNONCOURT",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "REBOUL",
+          "prenom": "Islande",
+          "nom_complet": "Islande REBOUL",
+          "sexe": "F",
+          "age": 29,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "MOUVET",
+          "prenom": "Thierry",
+          "nom_complet": "Thierry MOUVET",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DAILLY",
+          "prenom": "Elodie",
+          "nom_complet": "Elodie DAILLY",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DELTOUR",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno DELTOUR",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "MONIER",
+          "prenom": "Amandine",
+          "nom_complet": "Amandine MONIER",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DEMONCHAUX",
+          "prenom": "Maëlan",
+          "nom_complet": "Maëlan DEMONCHAUX",
+          "sexe": "M",
+          "age": 25,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

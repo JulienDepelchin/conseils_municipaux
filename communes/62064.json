@@ -1,0 +1,151 @@
+{
+  "code_commune": "62064",
+  "commune": "Avesnes-lès-Bapaume",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "GOSSELIN",
+    "prenom": "Regis",
+    "nom_complet": "Regis GOSSELIN",
+    "age": 74,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 138,
+    "votants": 98,
+    "pct_votants": 71.01,
+    "abstentions": 40,
+    "pct_abstentions": 28.99,
+    "exprimes": 90
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "AU COEUR DE NOTRE PROJET AVESNES AUX AVESNOIS",
+      "libelle_abrege_liste": "AU COEUR DE NOTRE PROJET AVESNES AUX AVESNOIS",
+      "nuance_liste": null,
+      "voix": 47,
+      "pct_voix_exprimes": 52.22,
+      "sieges_cm": 9,
+      "sieges_cc": null,
+      "nb_elus": 9,
+      "tete_de_liste": {
+        "nom": "GOSSELIN",
+        "prenom": "Regis",
+        "nom_complet": "Regis GOSSELIN",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "GOSSELIN",
+          "prenom": "Regis",
+          "nom_complet": "Regis GOSSELIN",
+          "sexe": "M",
+          "age": 74,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "QUATRELIVRE",
+          "prenom": "Marie-Jeanne",
+          "nom_complet": "Marie-Jeanne QUATRELIVRE",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "CARON",
+          "prenom": "Roger",
+          "nom_complet": "Roger CARON",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DUTHOIT",
+          "prenom": "Christine",
+          "nom_complet": "Christine DUTHOIT",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "GHIGLIONE",
+          "prenom": "Loïc",
+          "nom_complet": "Loïc GHIGLIONE",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "ETAYO",
+          "prenom": "Amandine",
+          "nom_complet": "Amandine ETAYO",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BARRAIL",
+          "prenom": "Romain",
+          "nom_complet": "Romain BARRAIL",
+          "sexe": "M",
+          "age": 31,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "FLAHAUT",
+          "prenom": "Gaelle",
+          "nom_complet": "Gaelle FLAHAUT",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "COLAS",
+          "prenom": "Julien",
+          "nom_complet": "Julien COLAS",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "9"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ENSEMBLE POUR AVESNES-LES-BAPAUME",
+      "libelle_abrege_liste": "ENSEMBLE POUR AVESNES-LES-BAPAUME",
+      "nuance_liste": null,
+      "voix": 43,
+      "pct_voix_exprimes": 47.78,
+      "sieges_cm": 2,
+      "sieges_cc": null,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "DELEPINE",
+        "prenom": "Lucie",
+        "nom_complet": "Lucie DELEPINE",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "DELEPINE",
+          "prenom": "Lucie",
+          "nom_complet": "Lucie DELEPINE",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "TABARY",
+          "prenom": "Eric",
+          "nom_complet": "Eric TABARY",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

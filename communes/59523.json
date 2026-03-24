@@ -1,0 +1,227 @@
+{
+  "code_commune": "59523",
+  "commune": "Sainghin-en-Mélantois",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "GORRILLOT",
+    "prenom": "Jean-Pierre",
+    "nom_complet": "Jean-Pierre GORRILLOT",
+    "age": 62,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 2336,
+    "votants": 1122,
+    "pct_votants": 48.03,
+    "abstentions": 1214,
+    "pct_abstentions": 51.97,
+    "exprimes": 947
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Ensemble, Faisons vivre Sainghin",
+      "libelle_abrege_liste": "EFVS",
+      "nuance_liste": null,
+      "voix": 947,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 23,
+      "sieges_cc": 1,
+      "nb_elus": 23,
+      "tete_de_liste": {
+        "nom": "GORRILLOT",
+        "prenom": "Jean-Pierre",
+        "nom_complet": "Jean-Pierre GORRILLOT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "GORRILLOT",
+          "prenom": "Jean-Pierre",
+          "nom_complet": "Jean-Pierre GORRILLOT",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "TOURNON",
+          "prenom": "Marie-José",
+          "nom_complet": "Marie-José TOURNON",
+          "sexe": "F",
+          "age": 75,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "VANNOUQUE",
+          "prenom": "Yves",
+          "nom_complet": "Yves VANNOUQUE",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "VILAIN",
+          "prenom": "Elisabeth",
+          "nom_complet": "Elisabeth VILAIN",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "VANDORPE",
+          "prenom": "Damien",
+          "nom_complet": "Damien VANDORPE",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "OSSELIN",
+          "prenom": "Florence",
+          "nom_complet": "Florence OSSELIN",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "STAMENS",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe STAMENS",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DERISQUEBOURG",
+          "prenom": "Laurence",
+          "nom_complet": "Laurence DERISQUEBOURG",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "TIMMERMAN",
+          "prenom": "Guillaume",
+          "nom_complet": "Guillaume TIMMERMAN",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DETERRE",
+          "prenom": "Céline",
+          "nom_complet": "Céline DETERRE",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "MAZINGARBE",
+          "prenom": "Jean-Claude",
+          "nom_complet": "Jean-Claude MAZINGARBE",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "RASSEL",
+          "prenom": "Sophie",
+          "nom_complet": "Sophie RASSEL",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "CASTAGNA",
+          "prenom": "Adrien",
+          "nom_complet": "Adrien CASTAGNA",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "ERIPRET",
+          "prenom": "Julia",
+          "nom_complet": "Julia ERIPRET",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "FONTAINE",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe FONTAINE",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "BAS",
+          "prenom": "Marie",
+          "nom_complet": "Marie BAS",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "BOUCHEZ",
+          "prenom": "Pierre",
+          "nom_complet": "Pierre BOUCHEZ",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "GALLAIS",
+          "prenom": "Bénédicte",
+          "nom_complet": "Bénédicte GALLAIS",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "CATRICE",
+          "prenom": "Vincent",
+          "nom_complet": "Vincent CATRICE",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "KAMINSKI",
+          "prenom": "Christine",
+          "nom_complet": "Christine KAMINSKI",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "VANDENABEELE",
+          "prenom": "Christian",
+          "nom_complet": "Christian VANDENABEELE",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "PILATE",
+          "prenom": "Morgane",
+          "nom_complet": "Morgane PILATE",
+          "sexe": "F",
+          "age": 31,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "DUCROCQ",
+          "prenom": "Jacques",
+          "nom_complet": "Jacques DUCROCQ",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "23"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

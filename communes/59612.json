@@ -1,0 +1,183 @@
+{
+  "code_commune": "59612",
+  "commune": "Vertain",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "LECOCQ-LEDIEU",
+    "prenom": "France",
+    "nom_complet": "France LECOCQ-LEDIEU",
+    "age": 51,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 491,
+    "votants": 408,
+    "pct_votants": 83.1,
+    "abstentions": 83,
+    "pct_abstentions": 16.9,
+    "exprimes": 399
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "AU CŒUR DE VERTAIN",
+      "libelle_abrege_liste": "AU CŒUR DE VERTAIN",
+      "nuance_liste": null,
+      "voix": 235,
+      "pct_voix_exprimes": 58.9,
+      "sieges_cm": 12,
+      "sieges_cc": null,
+      "nb_elus": 12,
+      "tete_de_liste": {
+        "nom": "LECOCQ-LEDIEU",
+        "prenom": "France",
+        "nom_complet": "France LECOCQ-LEDIEU",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "LECOCQ-LEDIEU",
+          "prenom": "France",
+          "nom_complet": "France LECOCQ-LEDIEU",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DELCROIX",
+          "prenom": "Jean-Paul",
+          "nom_complet": "Jean-Paul DELCROIX",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BERNIER",
+          "prenom": "Amandine",
+          "nom_complet": "Amandine BERNIER",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LENOIR",
+          "prenom": "Thomas",
+          "nom_complet": "Thomas LENOIR",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "COLLET",
+          "prenom": "Renée",
+          "nom_complet": "Renée COLLET",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "BULTÉ",
+          "prenom": "Arnaud",
+          "nom_complet": "Arnaud BULTÉ",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "PIETRZAK-QUILLET",
+          "prenom": "Marie-Pascale",
+          "nom_complet": "Marie-Pascale PIETRZAK-QUILLET",
+          "sexe": "F",
+          "age": 71,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LEBRUN",
+          "prenom": "Géry",
+          "nom_complet": "Géry LEBRUN",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "HERBET-LEVERT",
+          "prenom": "Céline",
+          "nom_complet": "Céline HERBET-LEVERT",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DUPIRE",
+          "prenom": "Denis",
+          "nom_complet": "Denis DUPIRE",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "BOURAHLA-NEF",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie BOURAHLA-NEF",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "DEHAYNIN",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe DEHAYNIN",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "12"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "UNIS POUR VERTAIN",
+      "libelle_abrege_liste": "UNIS POUR VERTAIN",
+      "nuance_liste": null,
+      "voix": 164,
+      "pct_voix_exprimes": 41.1,
+      "sieges_cm": 3,
+      "sieges_cc": null,
+      "nb_elus": 3,
+      "tete_de_liste": {
+        "nom": "BASUYAU",
+        "prenom": "Christine",
+        "nom_complet": "Christine BASUYAU",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "BASUYAU",
+          "prenom": "Christine",
+          "nom_complet": "Christine BASUYAU",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DELCOURT",
+          "prenom": "Luc",
+          "nom_complet": "Luc DELCOURT",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "NAGUI",
+          "prenom": "Manon",
+          "nom_complet": "Manon NAGUI",
+          "sexe": "F",
+          "age": 33,
+          "rang_liste": "3"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

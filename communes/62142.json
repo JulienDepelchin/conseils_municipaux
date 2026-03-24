@@ -1,0 +1,123 @@
+{
+  "code_commune": "62142",
+  "commune": "Blingel",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "DELANNOY",
+    "prenom": "Karine",
+    "nom_complet": "Karine DELANNOY",
+    "age": 52,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 127,
+    "votants": 88,
+    "pct_votants": 69.29,
+    "abstentions": 39,
+    "pct_abstentions": 30.71,
+    "exprimes": 54
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Mon Village, BLINGEL",
+      "libelle_abrege_liste": "Mon Village, BLINGEL",
+      "nuance_liste": null,
+      "voix": 54,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 10,
+      "sieges_cc": null,
+      "nb_elus": 10,
+      "tete_de_liste": {
+        "nom": "DELANNOY",
+        "prenom": "Karine",
+        "nom_complet": "Karine DELANNOY",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "DELANNOY",
+          "prenom": "Karine",
+          "nom_complet": "Karine DELANNOY",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "THELLIER",
+          "prenom": "José",
+          "nom_complet": "José THELLIER",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "FRANQUENOUILLE",
+          "prenom": "Bérengère",
+          "nom_complet": "Bérengère FRANQUENOUILLE",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DUMETZ",
+          "prenom": "Sébastien",
+          "nom_complet": "Sébastien DUMETZ",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "CASTELAIN",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie CASTELAIN",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "PAQUE",
+          "prenom": "Grégoire",
+          "nom_complet": "Grégoire PAQUE",
+          "sexe": "M",
+          "age": 29,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "NIEWIADA",
+          "prenom": "Véronique",
+          "nom_complet": "Véronique NIEWIADA",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "WATTINNE",
+          "prenom": "Christian",
+          "nom_complet": "Christian WATTINNE",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "LAGIER",
+          "prenom": "Dorothée",
+          "nom_complet": "Dorothée LAGIER",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "CASTELAIN",
+          "prenom": "Pierre",
+          "nom_complet": "Pierre CASTELAIN",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "10"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

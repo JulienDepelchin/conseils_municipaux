@@ -1,0 +1,347 @@
+{
+  "code_commune": "62048",
+  "commune": "Auchel",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "CARRÉ",
+    "prenom": "Nicolas",
+    "nom_complet": "Nicolas CARRÉ",
+    "age": 45,
+    "nuance": "LDVC"
+  },
+  "resultats": {
+    "inscrits": 7634,
+    "votants": 3972,
+    "pct_votants": 52.03,
+    "abstentions": 3662,
+    "pct_abstentions": 47.97,
+    "exprimes": 3914
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Auchel, Fière de ses racines, Forte de son avenir",
+      "libelle_abrege_liste": "Auchel, Fière de ses racines, Forte de son avenir",
+      "nuance_liste": "LDVC",
+      "voix": 2326,
+      "pct_voix_exprimes": 59.43,
+      "sieges_cm": 27,
+      "sieges_cc": 4,
+      "nb_elus": 27,
+      "tete_de_liste": {
+        "nom": "CARRÉ",
+        "prenom": "Nicolas",
+        "nom_complet": "Nicolas CARRÉ",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "CARRÉ",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas CARRÉ",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DIERS",
+          "prenom": "Véronique",
+          "nom_complet": "Véronique DIERS",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BAJEUX",
+          "prenom": "Samuel",
+          "nom_complet": "Samuel BAJEUX",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DERAMAUX",
+          "prenom": "Martine",
+          "nom_complet": "Martine DERAMAUX",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "PETIT",
+          "prenom": "Daniel",
+          "nom_complet": "Daniel PETIT",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LENNE",
+          "prenom": "Magalie",
+          "nom_complet": "Magalie LENNE",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DE FARIA",
+          "prenom": "Jérémy",
+          "nom_complet": "Jérémy DE FARIA",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "ROSSIGNOL",
+          "prenom": "Bianca",
+          "nom_complet": "Bianca ROSSIGNOL",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "BRUNEL",
+          "prenom": "Jean-François",
+          "nom_complet": "Jean-François BRUNEL",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "NOWAK",
+          "prenom": "Laura",
+          "nom_complet": "Laura NOWAK",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "LEBLANC",
+          "prenom": "Gilles",
+          "nom_complet": "Gilles LEBLANC",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "STIEVENARD",
+          "prenom": "Ingrid",
+          "nom_complet": "Ingrid STIEVENARD",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "PLOEGER",
+          "prenom": "Lars",
+          "nom_complet": "Lars PLOEGER",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "SEGUIN",
+          "prenom": "Julie",
+          "nom_complet": "Julie SEGUIN",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "REGNIEZ",
+          "prenom": "Matthieu",
+          "nom_complet": "Matthieu REGNIEZ",
+          "sexe": "M",
+          "age": 30,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "DAUCHY",
+          "prenom": "Mélanie",
+          "nom_complet": "Mélanie DAUCHY",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "POINTU",
+          "prenom": "Michel",
+          "nom_complet": "Michel POINTU",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "RENAULT",
+          "prenom": "Carine",
+          "nom_complet": "Carine RENAULT",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "DEROO",
+          "prenom": "Jérome",
+          "nom_complet": "Jérome DEROO",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "SEBERT",
+          "prenom": "Marion",
+          "nom_complet": "Marion SEBERT",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "DELATTRE",
+          "prenom": "Sylvain",
+          "nom_complet": "Sylvain DELATTRE",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "LECLERCQ DÉRUELLE",
+          "prenom": "Aurélie",
+          "nom_complet": "Aurélie LECLERCQ DÉRUELLE",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "PATINIER",
+          "prenom": "Francis",
+          "nom_complet": "Francis PATINIER",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "23"
+        },
+        {
+          "nom": "HOSTALIER",
+          "prenom": "Florence",
+          "nom_complet": "Florence HOSTALIER",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "24"
+        },
+        {
+          "nom": "BLANQUIN",
+          "prenom": "Alain",
+          "nom_complet": "Alain BLANQUIN",
+          "sexe": "M",
+          "age": 75,
+          "rang_liste": "25"
+        },
+        {
+          "nom": "DUCROCQ",
+          "prenom": "Marie Rose",
+          "nom_complet": "Marie Rose DUCROCQ",
+          "sexe": "F",
+          "age": 80,
+          "rang_liste": "26"
+        },
+        {
+          "nom": "DISSAUX",
+          "prenom": "Pierre",
+          "nom_complet": "Pierre DISSAUX",
+          "sexe": "M",
+          "age": 29,
+          "rang_liste": "27"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "3",
+      "libelle_liste": "AUCHEL, UN NOUVEAU DEPART ENSEMBLE!",
+      "libelle_abrege_liste": "AUCHEL, UN NOUVEAU DEPART ENSEMBLE!",
+      "nuance_liste": "LRN",
+      "voix": 1092,
+      "pct_voix_exprimes": 27.9,
+      "sieges_cm": 4,
+      "sieges_cc": 0,
+      "nb_elus": 4,
+      "tete_de_liste": {
+        "nom": "PAUWELS",
+        "prenom": "Remi",
+        "nom_complet": "Remi PAUWELS",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "PAUWELS",
+          "prenom": "Remi",
+          "nom_complet": "Remi PAUWELS",
+          "sexe": "M",
+          "age": 33,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DELLYS",
+          "prenom": "Valérie",
+          "nom_complet": "Valérie DELLYS",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "EVRARD",
+          "prenom": "Auguste",
+          "nom_complet": "Auguste EVRARD",
+          "sexe": "M",
+          "age": 25,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DUBRAY",
+          "prenom": "Marina",
+          "nom_complet": "Marina DUBRAY",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "4"
+        }
+      ],
+      "statut_conseil": "autre"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "AGIR POUR TOUS DANS L'INTERET DE TOUS",
+      "libelle_abrege_liste": "AGIR POUR TOUS DANS L'INTERET DE TOUS",
+      "nuance_liste": "LDIV",
+      "voix": 496,
+      "pct_voix_exprimes": 12.67,
+      "sieges_cm": 2,
+      "sieges_cc": 0,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "PRUVOST",
+        "prenom": "Thierry",
+        "nom_complet": "Thierry PRUVOST",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "PRUVOST",
+          "prenom": "Thierry",
+          "nom_complet": "Thierry PRUVOST",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "GRUSON",
+          "prenom": "Brigitte",
+          "nom_complet": "Brigitte GRUSON",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

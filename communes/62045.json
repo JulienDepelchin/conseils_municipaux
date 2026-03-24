@@ -1,0 +1,183 @@
+{
+  "code_commune": "62045",
+  "commune": "Aubigny-en-Artois",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "LOUIS",
+    "prenom": "Mathieu",
+    "nom_complet": "Mathieu LOUIS",
+    "age": 48,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1060,
+    "votants": 770,
+    "pct_votants": 72.64,
+    "abstentions": 290,
+    "pct_abstentions": 27.36,
+    "exprimes": 731
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "NOUVEL ÉLAN POUR AUBIGNY",
+      "libelle_abrege_liste": "NOUVEL ÉLAN POUR AUBIGNY",
+      "nuance_liste": null,
+      "voix": 450,
+      "pct_voix_exprimes": 61.56,
+      "sieges_cm": 12,
+      "sieges_cc": 3,
+      "nb_elus": 12,
+      "tete_de_liste": {
+        "nom": "LOUIS",
+        "prenom": "Mathieu",
+        "nom_complet": "Mathieu LOUIS",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LOUIS",
+          "prenom": "Mathieu",
+          "nom_complet": "Mathieu LOUIS",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "COSSART",
+          "prenom": "Sophie",
+          "nom_complet": "Sophie COSSART",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BÉCOURT",
+          "prenom": "Michaël",
+          "nom_complet": "Michaël BÉCOURT",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "RAGUIDEAU",
+          "prenom": "Valérie",
+          "nom_complet": "Valérie RAGUIDEAU",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "CORDONNIER",
+          "prenom": "Jean-Paul",
+          "nom_complet": "Jean-Paul CORDONNIER",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "SOULIGNAC",
+          "prenom": "Corine",
+          "nom_complet": "Corine SOULIGNAC",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "CARVALHO",
+          "prenom": "Yohann",
+          "nom_complet": "Yohann CARVALHO",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DESFRANCOIS",
+          "prenom": "Marion",
+          "nom_complet": "Marion DESFRANCOIS",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DUHEM",
+          "prenom": "Jérôme",
+          "nom_complet": "Jérôme DUHEM",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DENIS",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie DENIS",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DEVISE",
+          "prenom": "Thierry",
+          "nom_complet": "Thierry DEVISE",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "CRÉPY",
+          "prenom": "Bénédicte",
+          "nom_complet": "Bénédicte CRÉPY",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "12"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Uni(e)s pour l'Avenir Local",
+      "libelle_abrege_liste": "Uni(e)s pour l'Avenir Local",
+      "nuance_liste": null,
+      "voix": 281,
+      "pct_voix_exprimes": 38.44,
+      "sieges_cm": 3,
+      "sieges_cc": 1,
+      "nb_elus": 3,
+      "tete_de_liste": {
+        "nom": "DUPUIS",
+        "prenom": "Anne-Marie",
+        "nom_complet": "Anne-Marie DUPUIS",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "DUPUIS",
+          "prenom": "Anne-Marie",
+          "nom_complet": "Anne-Marie DUPUIS",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DUPUICH",
+          "prenom": "Quentin",
+          "nom_complet": "Quentin DUPUICH",
+          "sexe": "M",
+          "age": 30,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DEVAUX",
+          "prenom": "Elisabeth",
+          "nom_complet": "Elisabeth DEVAUX",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "3"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

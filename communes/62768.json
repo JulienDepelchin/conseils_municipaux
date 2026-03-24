@@ -1,0 +1,131 @@
+{
+  "code_commune": "62768",
+  "commune": "Saint-Rémy-au-Bois",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "DESREUMAUX",
+    "prenom": "Patrick",
+    "nom_complet": "Patrick DESREUMAUX",
+    "age": 77,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 88,
+    "votants": 67,
+    "pct_votants": 76.14,
+    "abstentions": 21,
+    "pct_abstentions": 23.86,
+    "exprimes": 62
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "POUR SAINT REMY",
+      "libelle_abrege_liste": "POUR SAINT REMY",
+      "nuance_liste": null,
+      "voix": 62,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "DESREUMAUX",
+        "prenom": "Patrick",
+        "nom_complet": "Patrick DESREUMAUX",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DESREUMAUX",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick DESREUMAUX",
+          "sexe": "M",
+          "age": 77,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BOUVILLE",
+          "prenom": "Elodie",
+          "nom_complet": "Elodie BOUVILLE",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "CARPENTIER",
+          "prenom": "Jean Marc",
+          "nom_complet": "Jean Marc CARPENTIER",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BRICHE",
+          "prenom": "Paulette",
+          "nom_complet": "Paulette BRICHE",
+          "sexe": "F",
+          "age": 79,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "CAVREL",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno CAVREL",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "EVRARD",
+          "prenom": "Chantal",
+          "nom_complet": "Chantal EVRARD",
+          "sexe": "F",
+          "age": 70,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "CAVREL",
+          "prenom": "René",
+          "nom_complet": "René CAVREL",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "GODET",
+          "prenom": "Julie",
+          "nom_complet": "Julie GODET",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DELMOTTE",
+          "prenom": "Yohann",
+          "nom_complet": "Yohann DELMOTTE",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "SECQ",
+          "prenom": "Melissa",
+          "nom_complet": "Melissa SECQ",
+          "sexe": "F",
+          "age": 32,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "BELVAL",
+          "prenom": "Bertrand",
+          "nom_complet": "Bertrand BELVAL",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

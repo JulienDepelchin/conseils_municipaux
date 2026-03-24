@@ -1,0 +1,195 @@
+{
+  "code_commune": "59021",
+  "commune": "Assevent",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "MAHIEUX",
+    "prenom": "Marjorie",
+    "nom_complet": "Marjorie MAHIEUX",
+    "age": 44,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1210,
+    "votants": 693,
+    "pct_votants": 57.27,
+    "abstentions": 517,
+    "pct_abstentions": 42.73,
+    "exprimes": 645
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Assevent ville d'actions",
+      "libelle_abrege_liste": "Assevent ville d'actions",
+      "nuance_liste": null,
+      "voix": 645,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 19,
+      "sieges_cc": 1,
+      "nb_elus": 19,
+      "tete_de_liste": {
+        "nom": "MAHIEUX",
+        "prenom": "Marjorie",
+        "nom_complet": "Marjorie MAHIEUX",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "MAHIEUX",
+          "prenom": "Marjorie",
+          "nom_complet": "Marjorie MAHIEUX",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LECOCQ",
+          "prenom": "Jean-Luc",
+          "nom_complet": "Jean-Luc LECOCQ",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "RICOUR ARAUJO",
+          "prenom": "Elodie",
+          "nom_complet": "Elodie RICOUR ARAUJO",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "CUISSET",
+          "prenom": "Jean-Philippe",
+          "nom_complet": "Jean-Philippe CUISSET",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "PARISOT",
+          "prenom": "Catherine",
+          "nom_complet": "Catherine PARISOT",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LECLERCQ",
+          "prenom": "Aurélien",
+          "nom_complet": "Aurélien LECLERCQ",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "CHERONT",
+          "prenom": "Christine",
+          "nom_complet": "Christine CHERONT",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "KOZON",
+          "prenom": "Patrice",
+          "nom_complet": "Patrice KOZON",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "MONNIAUX",
+          "prenom": "Patricia",
+          "nom_complet": "Patricia MONNIAUX",
+          "sexe": "F",
+          "age": 72,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DAUDRUY",
+          "prenom": "Jocelyn",
+          "nom_complet": "Jocelyn DAUDRUY",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "GRAVEZ",
+          "prenom": "Sandrine",
+          "nom_complet": "Sandrine GRAVEZ",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "DAUSSE",
+          "prenom": "Justin",
+          "nom_complet": "Justin DAUSSE",
+          "sexe": "M",
+          "age": 19,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "CRETINOIR",
+          "prenom": "Frédérique",
+          "nom_complet": "Frédérique CRETINOIR",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "DEVILLE",
+          "prenom": "Alexis",
+          "nom_complet": "Alexis DEVILLE",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "MATIGNON",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle MATIGNON",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "LIENARD",
+          "prenom": "Florian",
+          "nom_complet": "Florian LIENARD",
+          "sexe": "M",
+          "age": 19,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "MARIN",
+          "prenom": "Adeline",
+          "nom_complet": "Adeline MARIN",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "PENINCQ",
+          "prenom": "Timothée",
+          "nom_complet": "Timothée PENINCQ",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "DE BRUYNE",
+          "prenom": "Sabrina",
+          "nom_complet": "Sabrina DE BRUYNE",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "19"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

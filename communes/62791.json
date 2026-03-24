@@ -1,0 +1,99 @@
+{
+  "code_commune": "62791",
+  "commune": "Séricourt",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "DUCROQUET",
+    "prenom": "Sylvain",
+    "nom_complet": "Sylvain DUCROQUET",
+    "age": 55,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 46,
+    "votants": 42,
+    "pct_votants": 91.3,
+    "abstentions": 4,
+    "pct_abstentions": 8.7,
+    "exprimes": 31
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Bien vivre à Séricourt",
+      "libelle_abrege_liste": "Bien vivre à Séricourt",
+      "nuance_liste": null,
+      "voix": 31,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 7,
+      "sieges_cc": null,
+      "nb_elus": 7,
+      "tete_de_liste": {
+        "nom": "DUCROQUET",
+        "prenom": "Sylvain",
+        "nom_complet": "Sylvain DUCROQUET",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DUCROQUET",
+          "prenom": "Sylvain",
+          "nom_complet": "Sylvain DUCROQUET",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LOCQUET",
+          "prenom": "Adeline",
+          "nom_complet": "Adeline LOCQUET",
+          "sexe": "F",
+          "age": 33,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BULOT",
+          "prenom": "Jean-Jacques",
+          "nom_complet": "Jean-Jacques BULOT",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "HANOT",
+          "prenom": "Florentine",
+          "nom_complet": "Florentine HANOT",
+          "sexe": "F",
+          "age": 29,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "GOSSE DE GORRE",
+          "prenom": "Guillaume",
+          "nom_complet": "Guillaume GOSSE DE GORRE",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "MAHFAD",
+          "prenom": "Graziella",
+          "nom_complet": "Graziella MAHFAD",
+          "sexe": "F",
+          "age": 23,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DUCROQUET",
+          "prenom": "Etienne",
+          "nom_complet": "Etienne DUCROQUET",
+          "sexe": "M",
+          "age": 24,
+          "rang_liste": "7"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

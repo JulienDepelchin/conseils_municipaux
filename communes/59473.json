@@ -1,0 +1,131 @@
+{
+  "code_commune": "59473",
+  "commune": "Preux-au-Sart",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "HENRION-BOUTTEMANT",
+    "prenom": "Catherine",
+    "nom_complet": "Catherine HENRION-BOUTTEMANT",
+    "age": 63,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 211,
+    "votants": 134,
+    "pct_votants": 63.51,
+    "abstentions": 77,
+    "pct_abstentions": 36.49,
+    "exprimes": 118
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "PREUX AU COEUR",
+      "libelle_abrege_liste": "PREUX AU COEUR",
+      "nuance_liste": null,
+      "voix": 118,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "HENRION-BOUTTEMANT",
+        "prenom": "Catherine",
+        "nom_complet": "Catherine HENRION-BOUTTEMANT",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "HENRION-BOUTTEMANT",
+          "prenom": "Catherine",
+          "nom_complet": "Catherine HENRION-BOUTTEMANT",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "GUIOT",
+          "prenom": "Jean-Baptiste",
+          "nom_complet": "Jean-Baptiste GUIOT",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "GABELLE",
+          "prenom": "Aurelie",
+          "nom_complet": "Aurelie GABELLE",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BERT",
+          "prenom": "Thierry",
+          "nom_complet": "Thierry BERT",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DESSELLE",
+          "prenom": "Edwige",
+          "nom_complet": "Edwige DESSELLE",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "QUENNESON",
+          "prenom": "Mathieu",
+          "nom_complet": "Mathieu QUENNESON",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "FREMAUT",
+          "prenom": "Aline",
+          "nom_complet": "Aline FREMAUT",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "NORMAND",
+          "prenom": "Gery",
+          "nom_complet": "Gery NORMAND",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "BOEZ",
+          "prenom": "Nadine",
+          "nom_complet": "Nadine BOEZ",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "RENAULD",
+          "prenom": "Jean-Philippe",
+          "nom_complet": "Jean-Philippe RENAULD",
+          "sexe": "M",
+          "age": 34,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "LE BIHAN",
+          "prenom": "Gwenaelle",
+          "nom_complet": "Gwenaelle LE BIHAN",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "code_commune": "62039",
+  "commune": "Arleux-en-Gohelle",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "GROBELNY",
+    "prenom": "Norbert",
+    "nom_complet": "Norbert GROBELNY",
+    "age": 67,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 790,
+    "votants": 490,
+    "pct_votants": 62.03,
+    "abstentions": 300,
+    "pct_abstentions": 37.97,
+    "exprimes": 455
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Arleux-en-Gohelle, un village qui bouge!",
+      "libelle_abrege_liste": "Arleux-en-Gohelle, un village qui bouge!",
+      "nuance_liste": null,
+      "voix": 455,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 14,
+      "sieges_cc": null,
+      "nb_elus": 14,
+      "tete_de_liste": {
+        "nom": "GROBELNY",
+        "prenom": "Norbert",
+        "nom_complet": "Norbert GROBELNY",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "GROBELNY",
+          "prenom": "Norbert",
+          "nom_complet": "Norbert GROBELNY",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "SLOWIK",
+          "prenom": "Pascale",
+          "nom_complet": "Pascale SLOWIK",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BLAISE",
+          "prenom": "Yannick",
+          "nom_complet": "Yannick BLAISE",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DENOYELLE",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique DENOYELLE",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "GRISELIN",
+          "prenom": "Jean-Michel",
+          "nom_complet": "Jean-Michel GRISELIN",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "COUSIN",
+          "prenom": "Anne",
+          "nom_complet": "Anne COUSIN",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "MAILLOT",
+          "prenom": "Rémy",
+          "nom_complet": "Rémy MAILLOT",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LECLERCQ",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie LECLERCQ",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "LEROY",
+          "prenom": "Vincent",
+          "nom_complet": "Vincent LEROY",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DASSONNEVILLE",
+          "prenom": "Ophélie",
+          "nom_complet": "Ophélie DASSONNEVILLE",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "HUGARD",
+          "prenom": "Aurélien",
+          "nom_complet": "Aurélien HUGARD",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "DECRÉQUY",
+          "prenom": "Armelle",
+          "nom_complet": "Armelle DECRÉQUY",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "BAILLET",
+          "prenom": "Ludovic",
+          "nom_complet": "Ludovic BAILLET",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "BAUDERLIQUE",
+          "prenom": "Agathe",
+          "nom_complet": "Agathe BAUDERLIQUE",
+          "sexe": "F",
+          "age": 20,
+          "rang_liste": "14"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

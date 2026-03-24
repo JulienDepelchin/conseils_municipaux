@@ -1,0 +1,203 @@
+{
+  "code_commune": "59263",
+  "commune": "Goeulzin",
+  "departement": "Nord",
+  "tour": "T2",
+  "maire": {
+    "nom": "FUSTIN",
+    "prenom": "Francis",
+    "nom_complet": "Francis FUSTIN",
+    "age": 75,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 870,
+    "votants": 699,
+    "pct_votants": 80.34,
+    "abstentions": 171,
+    "pct_abstentions": 19.66,
+    "exprimes": 692
+  },
+  "listes": [
+    {
+      "num_panneau": "3",
+      "libelle_liste": "Continuons Ensemble",
+      "libelle_abrege_liste": "Continuons Ensemble",
+      "nuance_liste": null,
+      "voix": 316,
+      "pct_voix_exprimes": 45.66,
+      "sieges_cm": 11,
+      "sieges_cc": 1,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "FUSTIN",
+        "prenom": "Francis",
+        "nom_complet": "Francis FUSTIN",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "FUSTIN",
+          "prenom": "Francis",
+          "nom_complet": "Francis FUSTIN",
+          "sexe": "M",
+          "age": 75,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "MERCIER",
+          "prenom": "Nadine",
+          "nom_complet": "Nadine MERCIER",
+          "sexe": "F",
+          "age": 70,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "POUILLE",
+          "prenom": "Xavier",
+          "nom_complet": "Xavier POUILLE",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "CAILLEUX",
+          "prenom": "Marion",
+          "nom_complet": "Marion CAILLEUX",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "GARCIA",
+          "prenom": "Angel",
+          "nom_complet": "Angel GARCIA",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "COLLIER",
+          "prenom": "Laurence",
+          "nom_complet": "Laurence COLLIER",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "FRANCOIS",
+          "prenom": "Marc",
+          "nom_complet": "Marc FRANCOIS",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "ZIMOWSKI",
+          "prenom": "Cindy",
+          "nom_complet": "Cindy ZIMOWSKI",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "CHASSAGNE",
+          "prenom": "Eric",
+          "nom_complet": "Eric CHASSAGNE",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "AMATIMAGGIO",
+          "prenom": "Béatrice",
+          "nom_complet": "Béatrice AMATIMAGGIO",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "HERBIN",
+          "prenom": "Matthieu",
+          "nom_complet": "Matthieu HERBIN",
+          "sexe": "M",
+          "age": 27,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "AGIR POUR GOEULZIN - MUNICIPALES 2026",
+      "libelle_abrege_liste": "AGIR POUR GOEULZIN - MUNICIPALES 2026",
+      "nuance_liste": null,
+      "voix": 274,
+      "pct_voix_exprimes": 39.6,
+      "sieges_cm": 3,
+      "sieges_cc": 0,
+      "nb_elus": 3,
+      "tete_de_liste": {
+        "nom": "WANTIER",
+        "prenom": "Vincent",
+        "nom_complet": "Vincent WANTIER",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "WANTIER",
+          "prenom": "Vincent",
+          "nom_complet": "Vincent WANTIER",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "NIKIEL",
+          "prenom": "Cendrine",
+          "nom_complet": "Cendrine NIKIEL",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BEHAGUE",
+          "prenom": "Jérôme",
+          "nom_complet": "Jérôme BEHAGUE",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "3"
+        }
+      ],
+      "statut_conseil": "autre"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "GOEULZIN A COEUR",
+      "libelle_abrege_liste": "GOEULZIN A COEUR",
+      "nuance_liste": null,
+      "voix": 102,
+      "pct_voix_exprimes": 14.74,
+      "sieges_cm": 1,
+      "sieges_cc": 0,
+      "nb_elus": 1,
+      "tete_de_liste": {
+        "nom": "LAMY",
+        "prenom": "Denis",
+        "nom_complet": "Denis LAMY",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LAMY",
+          "prenom": "Denis",
+          "nom_complet": "Denis LAMY",
+          "sexe": "M",
+          "age": 76,
+          "rang_liste": "1"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

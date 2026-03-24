@@ -1,0 +1,163 @@
+{
+  "code_commune": "62654",
+  "commune": "Peuplingues",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "LACROIX",
+    "prenom": "Jean-François",
+    "nom_complet": "Jean-François LACROIX",
+    "age": 59,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 566,
+    "votants": 361,
+    "pct_votants": 63.78,
+    "abstentions": 205,
+    "pct_abstentions": 36.22,
+    "exprimes": 336
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "PEUPLINGUES, CULTIVONS NOTRE AVENIR ENSEMBLE",
+      "libelle_abrege_liste": "PEUPLINGUES, CULTIVONS NOTRE AVENIR ENSEMBLE",
+      "nuance_liste": null,
+      "voix": 336,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "LACROIX",
+        "prenom": "Jean-François",
+        "nom_complet": "Jean-François LACROIX",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LACROIX",
+          "prenom": "Jean-François",
+          "nom_complet": "Jean-François LACROIX",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "JOLY",
+          "prenom": "Christelle",
+          "nom_complet": "Christelle JOLY",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DANIEL",
+          "prenom": "Pierre",
+          "nom_complet": "Pierre DANIEL",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "JESSUS",
+          "prenom": "Christelle",
+          "nom_complet": "Christelle JESSUS",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "POTTEZ",
+          "prenom": "Eric",
+          "nom_complet": "Eric POTTEZ",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DECROIX",
+          "prenom": "Marilena",
+          "nom_complet": "Marilena DECROIX",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BANTEGNIE",
+          "prenom": "Michel",
+          "nom_complet": "Michel BANTEGNIE",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "VANHAECKE",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie VANHAECKE",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "CROIBIER",
+          "prenom": "Maxime",
+          "nom_complet": "Maxime CROIBIER",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "BUTEZ",
+          "prenom": "Marie-Françoise",
+          "nom_complet": "Marie-Françoise BUTEZ",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "FOULON",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal FOULON",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "BIENAIMÉ",
+          "prenom": "Flora",
+          "nom_complet": "Flora BIENAIMÉ",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "VARLET",
+          "prenom": "Marc",
+          "nom_complet": "Marc VARLET",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "GILOTIN",
+          "prenom": "Corinne",
+          "nom_complet": "Corinne GILOTIN",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "RANDOUX",
+          "prenom": "Xavier",
+          "nom_complet": "Xavier RANDOUX",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

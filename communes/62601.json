@@ -1,0 +1,131 @@
+{
+  "code_commune": "62601",
+  "commune": "Nédonchel",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "DARCHICOURT",
+    "prenom": "Amélie",
+    "nom_complet": "Amélie DARCHICOURT",
+    "age": 40,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 144,
+    "votants": 98,
+    "pct_votants": 68.06,
+    "abstentions": 46,
+    "pct_abstentions": 31.94,
+    "exprimes": 80
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Nédonchel, Bien Vivre son Village",
+      "libelle_abrege_liste": "Nédonchel, Bien Vivre son Village",
+      "nuance_liste": null,
+      "voix": 80,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "DARCHICOURT",
+        "prenom": "Amélie",
+        "nom_complet": "Amélie DARCHICOURT",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "DARCHICOURT",
+          "prenom": "Amélie",
+          "nom_complet": "Amélie DARCHICOURT",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DIAZ",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric DIAZ",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DESSAINT",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie DESSAINT",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "FOURMAUX",
+          "prenom": "Jérémy",
+          "nom_complet": "Jérémy FOURMAUX",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DUPONT",
+          "prenom": "Laurence",
+          "nom_complet": "Laurence DUPONT",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "KOLODZIEJCZAK",
+          "prenom": "Daniel",
+          "nom_complet": "Daniel KOLODZIEJCZAK",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "JOLY",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie JOLY",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LEROY",
+          "prenom": "Kevin",
+          "nom_complet": "Kevin LEROY",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "RENARD",
+          "prenom": "Corinne",
+          "nom_complet": "Corinne RENARD",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "MOREL",
+          "prenom": "Jérôme",
+          "nom_complet": "Jérôme MOREL",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "ROGEAU",
+          "prenom": "Cécile",
+          "nom_complet": "Cécile ROGEAU",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

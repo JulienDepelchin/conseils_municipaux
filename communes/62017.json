@@ -1,0 +1,131 @@
+{
+  "code_commune": "62017",
+  "commune": "Aix-en-Ergny",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "GILLET",
+    "prenom": "David",
+    "nom_complet": "David GILLET",
+    "age": 52,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 164,
+    "votants": 97,
+    "pct_votants": 59.15,
+    "abstentions": 67,
+    "pct_abstentions": 40.85,
+    "exprimes": 75
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Unis pour l'avenir d'Aix",
+      "libelle_abrege_liste": "Unis pour l'avenir d'Aix",
+      "nuance_liste": null,
+      "voix": 75,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "GILLET",
+        "prenom": "David",
+        "nom_complet": "David GILLET",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "GILLET",
+          "prenom": "David",
+          "nom_complet": "David GILLET",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LAMORT",
+          "prenom": "Bernadette",
+          "nom_complet": "Bernadette LAMORT",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BRIDOUX",
+          "prenom": "Vincent",
+          "nom_complet": "Vincent BRIDOUX",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DUWIQUET",
+          "prenom": "Virginie",
+          "nom_complet": "Virginie DUWIQUET",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "ANDRADE",
+          "prenom": "Carlos",
+          "nom_complet": "Carlos ANDRADE",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "HARLÉ",
+          "prenom": "Marie",
+          "nom_complet": "Marie HARLÉ",
+          "sexe": "F",
+          "age": 28,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "SOCKEEL",
+          "prenom": "Romain",
+          "nom_complet": "Romain SOCKEEL",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "CLABAUT",
+          "prenom": "Sundy",
+          "nom_complet": "Sundy CLABAUT",
+          "sexe": "F",
+          "age": 28,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "SOCKEEL",
+          "prenom": "Gilles",
+          "nom_complet": "Gilles SOCKEEL",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "RICHARD",
+          "prenom": "Ophélie",
+          "nom_complet": "Ophélie RICHARD",
+          "sexe": "F",
+          "age": 29,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "BUICHE",
+          "prenom": "Joël",
+          "nom_complet": "Joël BUICHE",
+          "sexe": "M",
+          "age": 76,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

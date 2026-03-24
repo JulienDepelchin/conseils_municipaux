@@ -1,0 +1,131 @@
+{
+  "code_commune": "62499",
+  "commune": "Lépine",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "ROUZÉ",
+    "prenom": "Benoit",
+    "nom_complet": "Benoit ROUZÉ",
+    "age": 56,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 251,
+    "votants": 200,
+    "pct_votants": 79.68,
+    "abstentions": 51,
+    "pct_abstentions": 20.32,
+    "exprimes": 174
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Lépine pour Demain",
+      "libelle_abrege_liste": "Lépine pour Demain",
+      "nuance_liste": null,
+      "voix": 174,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "ROUZÉ",
+        "prenom": "Benoit",
+        "nom_complet": "Benoit ROUZÉ",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "ROUZÉ",
+          "prenom": "Benoit",
+          "nom_complet": "Benoit ROUZÉ",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LAMARE",
+          "prenom": "Maryse",
+          "nom_complet": "Maryse LAMARE",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "MASSET",
+          "prenom": "Jean-Luc",
+          "nom_complet": "Jean-Luc MASSET",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BLIN",
+          "prenom": "Hélène",
+          "nom_complet": "Hélène BLIN",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DELENCLOS",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric DELENCLOS",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "BACQUET",
+          "prenom": "Audrey",
+          "nom_complet": "Audrey BACQUET",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DENEUVILLE",
+          "prenom": "Romain",
+          "nom_complet": "Romain DENEUVILLE",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "PACAUX",
+          "prenom": "Valérie",
+          "nom_complet": "Valérie PACAUX",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "FIOLET",
+          "prenom": "Eric",
+          "nom_complet": "Eric FIOLET",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "POUSSET",
+          "prenom": "Brigitte",
+          "nom_complet": "Brigitte POUSSET",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DUCROCQ",
+          "prenom": "Lucien",
+          "nom_complet": "Lucien DUCROCQ",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

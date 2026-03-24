@@ -1,0 +1,163 @@
+{
+  "code_commune": "59454",
+  "commune": "Oxelaëre",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "DIEUSAERT",
+    "prenom": "Stéphane",
+    "nom_complet": "Stéphane DIEUSAERT",
+    "age": 55,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 383,
+    "votants": 279,
+    "pct_votants": 72.85,
+    "abstentions": 104,
+    "pct_abstentions": 27.15,
+    "exprimes": 225
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Oxelaëre Un village de coeur",
+      "libelle_abrege_liste": "Oxelaëre Un village de coeur",
+      "nuance_liste": null,
+      "voix": 225,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "DIEUSAERT",
+        "prenom": "Stéphane",
+        "nom_complet": "Stéphane DIEUSAERT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DIEUSAERT",
+          "prenom": "Stéphane",
+          "nom_complet": "Stéphane DIEUSAERT",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "RUDANT",
+          "prenom": "Audrey",
+          "nom_complet": "Audrey RUDANT",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LOGEZ",
+          "prenom": "Christian",
+          "nom_complet": "Christian LOGEZ",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DETOEUF",
+          "prenom": "Bénédicte",
+          "nom_complet": "Bénédicte DETOEUF",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "ABELLEYT",
+          "prenom": "Loïc",
+          "nom_complet": "Loïc ABELLEYT",
+          "sexe": "M",
+          "age": 27,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "CRÉPIN",
+          "prenom": "Anne-Emmanuelle",
+          "nom_complet": "Anne-Emmanuelle CRÉPIN",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DERHILLE",
+          "prenom": "Damien",
+          "nom_complet": "Damien DERHILLE",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "BROUTELE",
+          "prenom": "Martine",
+          "nom_complet": "Martine BROUTELE",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "PROVO",
+          "prenom": "Guy",
+          "nom_complet": "Guy PROVO",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DEBLONDE",
+          "prenom": "Christelle",
+          "nom_complet": "Christelle DEBLONDE",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "BOLLENGIER",
+          "prenom": "Julien",
+          "nom_complet": "Julien BOLLENGIER",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "DUBOIS",
+          "prenom": "Marie",
+          "nom_complet": "Marie DUBOIS",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "DEGRAEVE",
+          "prenom": "Vincent",
+          "nom_complet": "Vincent DEGRAEVE",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "MOULIN",
+          "prenom": "Justine",
+          "nom_complet": "Justine MOULIN",
+          "sexe": "F",
+          "age": 31,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "VANCAPPEL",
+          "prenom": "Eloi",
+          "nom_complet": "Eloi VANCAPPEL",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

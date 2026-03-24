@@ -1,0 +1,427 @@
+{
+  "code_commune": "59178",
+  "commune": "Douai",
+  "departement": "Nord",
+  "tour": "T2",
+  "maire": {
+    "nom": "CHÉREAU",
+    "prenom": "Frédéric",
+    "nom_complet": "Frédéric CHÉREAU",
+    "age": 51,
+    "nuance": "LUG"
+  },
+  "resultats": {
+    "inscrits": 26538,
+    "votants": 13969,
+    "pct_votants": 52.64,
+    "abstentions": 12569,
+    "pct_abstentions": 47.36,
+    "exprimes": 13678
+  },
+  "listes": [
+    {
+      "num_panneau": "8",
+      "libelle_liste": "DOUAI TOUJOURS !",
+      "libelle_abrege_liste": "DOUAI TOUJOURS !",
+      "nuance_liste": "LUG",
+      "voix": 5710,
+      "pct_voix_exprimes": 41.75,
+      "sieges_cm": 31,
+      "sieges_cc": 14,
+      "nb_elus": 31,
+      "tete_de_liste": {
+        "nom": "CHÉREAU",
+        "prenom": "Frédéric",
+        "nom_complet": "Frédéric CHÉREAU",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "CHÉREAU",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric CHÉREAU",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DE BEUKELAER",
+          "prenom": "Agnès",
+          "nom_complet": "Agnès DE BEUKELAER",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "GUIFFARD",
+          "prenom": "François",
+          "nom_complet": "François GUIFFARD",
+          "sexe": "M",
+          "age": 33,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DELBARRE",
+          "prenom": "Auriane",
+          "nom_complet": "Auriane DELBARRE",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "KHÉRAKI",
+          "prenom": "Mohamed",
+          "nom_complet": "Mohamed KHÉRAKI",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "CARLIER",
+          "prenom": "Maryse",
+          "nom_complet": "Maryse CARLIER",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "MAZY",
+          "prenom": "Hocine",
+          "nom_complet": "Hocine MAZY",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "CHERKI",
+          "prenom": "Nora",
+          "nom_complet": "Nora CHERKI",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "NOWAK",
+          "prenom": "Jacques",
+          "nom_complet": "Jacques NOWAK",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "MEKKI",
+          "prenom": "Jamila",
+          "nom_complet": "Jamila MEKKI",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "LECLERCQ",
+          "prenom": "Jean Christophe",
+          "nom_complet": "Jean Christophe LECLERCQ",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "DIVRECHY",
+          "prenom": "Carolle",
+          "nom_complet": "Carolle DIVRECHY",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "LARIVIERE",
+          "prenom": "François",
+          "nom_complet": "François LARIVIERE",
+          "sexe": "M",
+          "age": 27,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "AHANTAT",
+          "prenom": "Khadija",
+          "nom_complet": "Khadija AHANTAT",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "ERRAFIK",
+          "prenom": "Mounir",
+          "nom_complet": "Mounir ERRAFIK",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "AZZA-MESSAOUDI",
+          "prenom": "Samilla",
+          "nom_complet": "Samilla AZZA-MESSAOUDI",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "SIPIETER",
+          "prenom": "Yvon",
+          "nom_complet": "Yvon SIPIETER",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "DECUPPER-LAUD",
+          "prenom": "Mélanie",
+          "nom_complet": "Mélanie DECUPPER-LAUD",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "HELLO",
+          "prenom": "Geoffrey Félix Robert",
+          "nom_complet": "Geoffrey Félix Robert HELLO",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "DERICQ",
+          "prenom": "Christine",
+          "nom_complet": "Christine DERICQ",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "LANCLU",
+          "prenom": "Sébastien",
+          "nom_complet": "Sébastien LANCLU",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "DEBAIL",
+          "prenom": "Nina",
+          "nom_complet": "Nina DEBAIL",
+          "sexe": "F",
+          "age": 33,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "FELOUKI",
+          "prenom": "Mohamed",
+          "nom_complet": "Mohamed FELOUKI",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "23"
+        },
+        {
+          "nom": "VASSEUR DUHIN",
+          "prenom": "Céline",
+          "nom_complet": "Céline VASSEUR DUHIN",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "24"
+        },
+        {
+          "nom": "FOUCAUT",
+          "prenom": "Bernard",
+          "nom_complet": "Bernard FOUCAUT",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "25"
+        },
+        {
+          "nom": "LEGRAND-REZGUI",
+          "prenom": "Meïssa",
+          "nom_complet": "Meïssa LEGRAND-REZGUI",
+          "sexe": "F",
+          "age": 26,
+          "rang_liste": "26"
+        },
+        {
+          "nom": "PIQUOT",
+          "prenom": "Yves",
+          "nom_complet": "Yves PIQUOT",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "27"
+        },
+        {
+          "nom": "RODICQ TOUCHON",
+          "prenom": "Maelys",
+          "nom_complet": "Maelys RODICQ TOUCHON",
+          "sexe": "F",
+          "age": 19,
+          "rang_liste": "28"
+        },
+        {
+          "nom": "IBERRAKENE",
+          "prenom": "Théo",
+          "nom_complet": "Théo IBERRAKENE",
+          "sexe": "M",
+          "age": 30,
+          "rang_liste": "29"
+        },
+        {
+          "nom": "GILLOT",
+          "prenom": "Sophie",
+          "nom_complet": "Sophie GILLOT",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "30"
+        },
+        {
+          "nom": "ROSSI",
+          "prenom": "Matteo",
+          "nom_complet": "Matteo ROSSI",
+          "sexe": "M",
+          "age": 25,
+          "rang_liste": "31"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "5",
+      "libelle_liste": "Unis Pour Douai",
+      "libelle_abrege_liste": "Unis Pour Douai",
+      "nuance_liste": "LRN",
+      "voix": 5556,
+      "pct_voix_exprimes": 40.62,
+      "sieges_cm": 9,
+      "sieges_cc": 4,
+      "nb_elus": 9,
+      "tete_de_liste": {
+        "nom": "TESSON",
+        "prenom": "Thierry",
+        "nom_complet": "Thierry TESSON",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "TESSON",
+          "prenom": "Thierry",
+          "nom_complet": "Thierry TESSON",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "CARON",
+          "prenom": "Anne",
+          "nom_complet": "Anne CARON",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "FRANCOIS",
+          "prenom": "Thibaut",
+          "nom_complet": "Thibaut FRANCOIS",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "HUMBERT",
+          "prenom": "Agathe",
+          "nom_complet": "Agathe HUMBERT",
+          "sexe": "F",
+          "age": 31,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DECROOCQ",
+          "prenom": "Hugo",
+          "nom_complet": "Hugo DECROOCQ",
+          "sexe": "M",
+          "age": 24,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DELCLEVE",
+          "prenom": "Coralie",
+          "nom_complet": "Coralie DELCLEVE",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "FRYDMAN",
+          "prenom": "Jean-Luc",
+          "nom_complet": "Jean-Luc FRYDMAN",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "HIANNE",
+          "prenom": "Jessica",
+          "nom_complet": "Jessica HIANNE",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "BRENOT",
+          "prenom": "Jacques",
+          "nom_complet": "Jacques BRENOT",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "9"
+        }
+      ],
+      "statut_conseil": "autre"
+    },
+    {
+      "num_panneau": "3",
+      "libelle_liste": "Ensemble, Douai redevient Géante !",
+      "libelle_abrege_liste": "Ensemble, Douai redevient Géante !",
+      "nuance_liste": "LDVD",
+      "voix": 2412,
+      "pct_voix_exprimes": 17.63,
+      "sieges_cm": 3,
+      "sieges_cc": 1,
+      "nb_elus": 3,
+      "tete_de_liste": {
+        "nom": "CRAEYE",
+        "prenom": "Coline",
+        "nom_complet": "Coline CRAEYE",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "CRAEYE",
+          "prenom": "Coline",
+          "nom_complet": "Coline CRAEYE",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "THIERRY",
+          "prenom": "Xavier",
+          "nom_complet": "Xavier THIERRY",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "AUDEGOND",
+          "prenom": "Anne-Sophie",
+          "nom_complet": "Anne-Sophie AUDEGOND",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "3"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

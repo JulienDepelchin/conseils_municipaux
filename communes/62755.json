@@ -1,0 +1,227 @@
+{
+  "code_commune": "62755",
+  "commune": "Saint-Léonard",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "LOIRE",
+    "prenom": "Gwénaëlle",
+    "nom_complet": "Gwénaëlle LOIRE",
+    "age": 53,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 2837,
+    "votants": 1478,
+    "pct_votants": 52.1,
+    "abstentions": 1359,
+    "pct_abstentions": 47.9,
+    "exprimes": 1292
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "AVEC VOUS, SAINT LEONARD, ALLONS PLUS LOIN",
+      "libelle_abrege_liste": "AVEC VOUS, SAINT LEONARD, ALLONS PLUS LOIN",
+      "nuance_liste": null,
+      "voix": 1292,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 23,
+      "sieges_cc": 1,
+      "nb_elus": 23,
+      "tete_de_liste": {
+        "nom": "LOIRE",
+        "prenom": "Gwénaëlle",
+        "nom_complet": "Gwénaëlle LOIRE",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "LOIRE",
+          "prenom": "Gwénaëlle",
+          "nom_complet": "Gwénaëlle LOIRE",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "GOBERT",
+          "prenom": "Willy",
+          "nom_complet": "Willy GOBERT",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "MULARD",
+          "prenom": "Sophie",
+          "nom_complet": "Sophie MULARD",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LOUCHET",
+          "prenom": "Jérémy",
+          "nom_complet": "Jérémy LOUCHET",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "MARTEL",
+          "prenom": "Audrey",
+          "nom_complet": "Audrey MARTEL",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "POCHET",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno POCHET",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "VIGNERON",
+          "prenom": "Céline",
+          "nom_complet": "Céline VIGNERON",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "COSTEUX",
+          "prenom": "Patrice",
+          "nom_complet": "Patrice COSTEUX",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "LEMAIRE",
+          "prenom": "Florence",
+          "nom_complet": "Florence LEMAIRE",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DELBIAUSSE",
+          "prenom": "Adrien",
+          "nom_complet": "Adrien DELBIAUSSE",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "LOUCHET",
+          "prenom": "Ludivine",
+          "nom_complet": "Ludivine LOUCHET",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "PALETTE",
+          "prenom": "Jean-Louis",
+          "nom_complet": "Jean-Louis PALETTE",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "LEROY COURTIN",
+          "prenom": "Hélène",
+          "nom_complet": "Hélène LEROY COURTIN",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "DEVASSINE",
+          "prenom": "David",
+          "nom_complet": "David DEVASSINE",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "BLAISEL",
+          "prenom": "Angelique",
+          "nom_complet": "Angelique BLAISEL",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "FORTIN",
+          "prenom": "Michel",
+          "nom_complet": "Michel FORTIN",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "POCHET",
+          "prenom": "Coraline",
+          "nom_complet": "Coraline POCHET",
+          "sexe": "F",
+          "age": 33,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "DEHAME",
+          "prenom": "Gilles",
+          "nom_complet": "Gilles DEHAME",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "MARCQ-BALY",
+          "prenom": "Laurence",
+          "nom_complet": "Laurence MARCQ-BALY",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "DOLLE",
+          "prenom": "Michel",
+          "nom_complet": "Michel DOLLE",
+          "sexe": "M",
+          "age": 75,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "DELATTRE",
+          "prenom": "Benedite",
+          "nom_complet": "Benedite DELATTRE",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "DUBOIS",
+          "prenom": "Emmanuel",
+          "nom_complet": "Emmanuel DUBOIS",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "STEVENARD",
+          "prenom": "Dorothee",
+          "nom_complet": "Dorothee STEVENARD",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "23"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

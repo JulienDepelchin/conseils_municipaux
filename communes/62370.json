@@ -1,0 +1,131 @@
+{
+  "code_commune": "62370",
+  "commune": "Gennes-Ivergny",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "VISEUR",
+    "prenom": "Jean-Michel",
+    "nom_complet": "Jean-Michel VISEUR",
+    "age": 74,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 101,
+    "votants": 70,
+    "pct_votants": 69.31,
+    "abstentions": 31,
+    "pct_abstentions": 30.69,
+    "exprimes": 46
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "POUR GENNES-IVERGNY",
+      "libelle_abrege_liste": "POUR GENNES-IVERGNY",
+      "nuance_liste": null,
+      "voix": 46,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "VISEUR",
+        "prenom": "Jean-Michel",
+        "nom_complet": "Jean-Michel VISEUR",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "VISEUR",
+          "prenom": "Jean-Michel",
+          "nom_complet": "Jean-Michel VISEUR",
+          "sexe": "M",
+          "age": 74,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "FLICOURT",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie FLICOURT",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "GAVOIS",
+          "prenom": "Jacques",
+          "nom_complet": "Jacques GAVOIS",
+          "sexe": "M",
+          "age": 80,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "MARGRIS",
+          "prenom": "Jacqueline",
+          "nom_complet": "Jacqueline MARGRIS",
+          "sexe": "F",
+          "age": 72,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "FLICOURT",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick FLICOURT",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "MALLET",
+          "prenom": "Justine",
+          "nom_complet": "Justine MALLET",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DUPONT",
+          "prenom": "Maxime",
+          "nom_complet": "Maxime DUPONT",
+          "sexe": "M",
+          "age": 32,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "COSTENOBLE",
+          "prenom": "Valérie",
+          "nom_complet": "Valérie COSTENOBLE",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "SAVREUX",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal SAVREUX",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "MARTEL",
+          "prenom": "Colette",
+          "nom_complet": "Colette MARTEL",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "NOEL",
+          "prenom": "Yves",
+          "nom_complet": "Yves NOEL",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

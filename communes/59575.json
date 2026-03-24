@@ -1,0 +1,131 @@
+{
+  "code_commune": "59575",
+  "commune": "Sommaing",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "SALENGRO",
+    "prenom": "Roland",
+    "nom_complet": "Roland SALENGRO",
+    "age": 69,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 350,
+    "votants": 231,
+    "pct_votants": 66,
+    "abstentions": 119,
+    "pct_abstentions": 34,
+    "exprimes": 214
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Ensemble pour Sommaing, Préparons demain...",
+      "libelle_abrege_liste": "Ensemble pour Sommaing, Préparons demain...",
+      "nuance_liste": null,
+      "voix": 214,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "SALENGRO",
+        "prenom": "Roland",
+        "nom_complet": "Roland SALENGRO",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "SALENGRO",
+          "prenom": "Roland",
+          "nom_complet": "Roland SALENGRO",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BERTON",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique BERTON",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LENOIR",
+          "prenom": "Christian",
+          "nom_complet": "Christian LENOIR",
+          "sexe": "M",
+          "age": 78,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DESOMBREUX",
+          "prenom": "Clarisse",
+          "nom_complet": "Clarisse DESOMBREUX",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LEVIVE",
+          "prenom": "Vincent",
+          "nom_complet": "Vincent LEVIVE",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "GÉRARDEAUX",
+          "prenom": "Marlène",
+          "nom_complet": "Marlène GÉRARDEAUX",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "SOLER",
+          "prenom": "Romain",
+          "nom_complet": "Romain SOLER",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DEHIÈRE",
+          "prenom": "Aurélie",
+          "nom_complet": "Aurélie DEHIÈRE",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "MÉRIAU",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas MÉRIAU",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "SZCZOTKOWSKI",
+          "prenom": "Émilie",
+          "nom_complet": "Émilie SZCZOTKOWSKI",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "POULAIN",
+          "prenom": "Guillaume",
+          "nom_complet": "Guillaume POULAIN",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

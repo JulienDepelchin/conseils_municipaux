@@ -1,0 +1,131 @@
+{
+  "code_commune": "62426",
+  "commune": "Héninel",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "BERNARD",
+    "prenom": "Bernadette",
+    "nom_complet": "Bernadette BERNARD",
+    "age": 71,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 164,
+    "votants": 103,
+    "pct_votants": 62.8,
+    "abstentions": 61,
+    "pct_abstentions": 37.2,
+    "exprimes": 90
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Liste Sortante",
+      "libelle_abrege_liste": "Liste Sortante",
+      "nuance_liste": null,
+      "voix": 90,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "BERNARD",
+        "prenom": "Bernadette",
+        "nom_complet": "Bernadette BERNARD",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "BERNARD",
+          "prenom": "Bernadette",
+          "nom_complet": "Bernadette BERNARD",
+          "sexe": "F",
+          "age": 71,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "COTTIGNY",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent COTTIGNY",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DUBOIS",
+          "prenom": "Justine",
+          "nom_complet": "Justine DUBOIS",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LAVOGEZ",
+          "prenom": "Justin",
+          "nom_complet": "Justin LAVOGEZ",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "BOUTON",
+          "prenom": "Sandrine",
+          "nom_complet": "Sandrine BOUTON",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "CITERNE",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe CITERNE",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "COTTIGNY",
+          "prenom": "Amandine",
+          "nom_complet": "Amandine COTTIGNY",
+          "sexe": "F",
+          "age": 30,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "WILMORT",
+          "prenom": "Gabriel",
+          "nom_complet": "Gabriel WILMORT",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "HENNEGUY",
+          "prenom": "Delphine",
+          "nom_complet": "Delphine HENNEGUY",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "LECORNET",
+          "prenom": "Claude",
+          "nom_complet": "Claude LECORNET",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "BUIRETTE",
+          "prenom": "Carine",
+          "nom_complet": "Carine BUIRETTE",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

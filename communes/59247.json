@@ -1,0 +1,215 @@
+{
+  "code_commune": "59247",
+  "commune": "Forest-sur-Marque",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "DILLIES",
+    "prenom": "Thibault",
+    "nom_complet": "Thibault DILLIES",
+    "age": 60,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1285,
+    "votants": 844,
+    "pct_votants": 65.68,
+    "abstentions": 441,
+    "pct_abstentions": 34.32,
+    "exprimes": 824
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "Avec vous, pour Forest",
+      "libelle_abrege_liste": "Avec vous, pour Forest",
+      "nuance_liste": null,
+      "voix": 437,
+      "pct_voix_exprimes": 53.03,
+      "sieges_cm": 15,
+      "sieges_cc": 1,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "DILLIES",
+        "prenom": "Thibault",
+        "nom_complet": "Thibault DILLIES",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DILLIES",
+          "prenom": "Thibault",
+          "nom_complet": "Thibault DILLIES",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "CHERADAME",
+          "prenom": "Mélissa",
+          "nom_complet": "Mélissa CHERADAME",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "PRONIER",
+          "prenom": "Bernard",
+          "nom_complet": "Bernard PRONIER",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "SCALBERT",
+          "prenom": "Mary-Armelle",
+          "nom_complet": "Mary-Armelle SCALBERT",
+          "sexe": "F",
+          "age": 70,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "SIMOEN",
+          "prenom": "Jean-Pierre",
+          "nom_complet": "Jean-Pierre SIMOEN",
+          "sexe": "M",
+          "age": 74,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LELEU",
+          "prenom": "Sabine",
+          "nom_complet": "Sabine LELEU",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "CATRICE",
+          "prenom": "Pierre-Yves",
+          "nom_complet": "Pierre-Yves CATRICE",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "BLANC-GARIN",
+          "prenom": "Anne-Sophie",
+          "nom_complet": "Anne-Sophie BLANC-GARIN",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "LOUBERT",
+          "prenom": "Jérôme",
+          "nom_complet": "Jérôme LOUBERT",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "VANDAMME",
+          "prenom": "Samantha",
+          "nom_complet": "Samantha VANDAMME",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "HARDUIN",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier HARDUIN",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "KHELKHAL-BERNARD",
+          "prenom": "Linda",
+          "nom_complet": "Linda KHELKHAL-BERNARD",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "FOURNIER",
+          "prenom": "Valentin",
+          "nom_complet": "Valentin FOURNIER",
+          "sexe": "M",
+          "age": 22,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "MOUSQUET",
+          "prenom": "Claire",
+          "nom_complet": "Claire MOUSQUET",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "OLIVIER",
+          "prenom": "Alexandre",
+          "nom_complet": "Alexandre OLIVIER",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "NOTRE VILLAGE, NOTRE AVENIR",
+      "libelle_abrege_liste": "NOTRE VILLAGE, NOTRE AVENIR",
+      "nuance_liste": null,
+      "voix": 387,
+      "pct_voix_exprimes": 46.97,
+      "sieges_cm": 4,
+      "sieges_cc": 0,
+      "nb_elus": 4,
+      "tete_de_liste": {
+        "nom": "GUERIN",
+        "prenom": "Jean-Christophe",
+        "nom_complet": "Jean-Christophe GUERIN",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "GUERIN",
+          "prenom": "Jean-Christophe",
+          "nom_complet": "Jean-Christophe GUERIN",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LE GUEN",
+          "prenom": "Delphine",
+          "nom_complet": "Delphine LE GUEN",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "MERCIER",
+          "prenom": "Benjamin",
+          "nom_complet": "Benjamin MERCIER",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "MAZZOLINI",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie MAZZOLINI",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "4"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

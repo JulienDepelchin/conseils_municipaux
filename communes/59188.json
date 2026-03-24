@@ -1,0 +1,131 @@
+{
+  "code_commune": "59188",
+  "commune": "Ecuélin",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "DELABRE",
+    "prenom": "Emmanuelle",
+    "nom_complet": "Emmanuelle DELABRE",
+    "age": 45,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 112,
+    "votants": 81,
+    "pct_votants": 72.32,
+    "abstentions": 31,
+    "pct_abstentions": 27.68,
+    "exprimes": 72
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Vivre et Agir pour Ecuélin",
+      "libelle_abrege_liste": "Vivire et Agir pour Ecuélin",
+      "nuance_liste": null,
+      "voix": 72,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "DELABRE",
+        "prenom": "Emmanuelle",
+        "nom_complet": "Emmanuelle DELABRE",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "DELABRE",
+          "prenom": "Emmanuelle",
+          "nom_complet": "Emmanuelle DELABRE",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BLONDEAU",
+          "prenom": "David",
+          "nom_complet": "David BLONDEAU",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DAUZAT",
+          "prenom": "Sabrina",
+          "nom_complet": "Sabrina DAUZAT",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LECLERCQ",
+          "prenom": "Jean-Yves",
+          "nom_complet": "Jean-Yves LECLERCQ",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "GALANT DECONNINCK",
+          "prenom": "Nadine",
+          "nom_complet": "Nadine GALANT DECONNINCK",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "VANDERMARCQ",
+          "prenom": "Jean-Luc",
+          "nom_complet": "Jean-Luc VANDERMARCQ",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "LECLERCQ",
+          "prenom": "Caroline",
+          "nom_complet": "Caroline LECLERCQ",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "BERTHE",
+          "prenom": "Alexandre",
+          "nom_complet": "Alexandre BERTHE",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "CONTESSE",
+          "prenom": "Celine",
+          "nom_complet": "Celine CONTESSE",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "LEFEVRE",
+          "prenom": "Florian",
+          "nom_complet": "Florian LEFEVRE",
+          "sexe": "M",
+          "age": 33,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DUBRAY BERTHE",
+          "prenom": "Laurence",
+          "nom_complet": "Laurence DUBRAY BERTHE",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

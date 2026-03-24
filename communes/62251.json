@@ -1,0 +1,183 @@
+{
+  "code_commune": "62251",
+  "commune": "Courset",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "DENAVAUT",
+    "prenom": "Marc",
+    "nom_complet": "Marc DENAVAUT",
+    "age": 69,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 408,
+    "votants": 365,
+    "pct_votants": 89.46,
+    "abstentions": 43,
+    "pct_abstentions": 10.54,
+    "exprimes": 356
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "ENSEMBLE POURSUIVONS L'AVENIR DE COURSET",
+      "libelle_abrege_liste": "ENSEMBLE POURSUIVONS L'AVENIR DE COURSET",
+      "nuance_liste": null,
+      "voix": 231,
+      "pct_voix_exprimes": 64.89,
+      "sieges_cm": 13,
+      "sieges_cc": null,
+      "nb_elus": 13,
+      "tete_de_liste": {
+        "nom": "DENAVAUT",
+        "prenom": "Marc",
+        "nom_complet": "Marc DENAVAUT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DENAVAUT",
+          "prenom": "Marc",
+          "nom_complet": "Marc DENAVAUT",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DUCROCQ",
+          "prenom": "Véronique",
+          "nom_complet": "Véronique DUCROCQ",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "POCHET",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal POCHET",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LELEU",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie LELEU",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DUMONT",
+          "prenom": "Gaétan",
+          "nom_complet": "Gaétan DUMONT",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "MAILLY",
+          "prenom": "Myriam",
+          "nom_complet": "Myriam MAILLY",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "HANQUEZ",
+          "prenom": "Michel",
+          "nom_complet": "Michel HANQUEZ",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DUCROCQ",
+          "prenom": "Aurélie",
+          "nom_complet": "Aurélie DUCROCQ",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DELLERIE",
+          "prenom": "Aurélien",
+          "nom_complet": "Aurélien DELLERIE",
+          "sexe": "M",
+          "age": 34,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "FRANCOIS",
+          "prenom": "Elisabeth",
+          "nom_complet": "Elisabeth FRANCOIS",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "LEDUC",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas LEDUC",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "WACOGNE",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie WACOGNE",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "LEROY",
+          "prenom": "Matthieu",
+          "nom_complet": "Matthieu LEROY",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "13"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "AGIR ENSEMBLE POUR COURSET",
+      "libelle_abrege_liste": "AGIR ENSEMBLE POUR COURSET",
+      "nuance_liste": null,
+      "voix": 125,
+      "pct_voix_exprimes": 35.11,
+      "sieges_cm": 2,
+      "sieges_cc": null,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "POCHET",
+        "prenom": "Camille",
+        "nom_complet": "Camille POCHET",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "POCHET",
+          "prenom": "Camille",
+          "nom_complet": "Camille POCHET",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "CARLU",
+          "prenom": "Yvon",
+          "nom_complet": "Yvon CARLU",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

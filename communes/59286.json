@@ -1,0 +1,347 @@
+{
+  "code_commune": "59286",
+  "commune": "Haubourdin",
+  "departement": "Nord",
+  "tour": "T2",
+  "maire": {
+    "nom": "BEHARELLE",
+    "prenom": "Pierre",
+    "nom_complet": "Pierre BEHARELLE",
+    "age": 66,
+    "nuance": "LDVD"
+  },
+  "resultats": {
+    "inscrits": 9889,
+    "votants": 4839,
+    "pct_votants": 48.93,
+    "abstentions": 5050,
+    "pct_abstentions": 51.07,
+    "exprimes": 4771
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "AGISSONS ENSEMBLE POUR HAUBOURDIN",
+      "libelle_abrege_liste": "AGISSONS ENSEMBLE POUR HAUBOURDIN",
+      "nuance_liste": "LDVD",
+      "voix": 2580,
+      "pct_voix_exprimes": 54.08,
+      "sieges_cm": 26,
+      "sieges_cc": 2,
+      "nb_elus": 26,
+      "tete_de_liste": {
+        "nom": "BEHARELLE",
+        "prenom": "Pierre",
+        "nom_complet": "Pierre BEHARELLE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BEHARELLE",
+          "prenom": "Pierre",
+          "nom_complet": "Pierre BEHARELLE",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "NIREL",
+          "prenom": "Marie-Noelle",
+          "nom_complet": "Marie-Noelle NIREL",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DEGARDIN",
+          "prenom": "Sebastien",
+          "nom_complet": "Sebastien DEGARDIN",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "IDZIOREK",
+          "prenom": "Beatrice",
+          "nom_complet": "Beatrice IDZIOREK",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "BACKELANDT",
+          "prenom": "Jonathan",
+          "nom_complet": "Jonathan BACKELANDT",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "HIROUX",
+          "prenom": "Audrey",
+          "nom_complet": "Audrey HIROUX",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "CATTEZ",
+          "prenom": "Daniel",
+          "nom_complet": "Daniel CATTEZ",
+          "sexe": "M",
+          "age": 75,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "THEETEN",
+          "prenom": "Delphine",
+          "nom_complet": "Delphine THEETEN",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "CRESSON",
+          "prenom": "Arnaud",
+          "nom_complet": "Arnaud CRESSON",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DASSONVILLE",
+          "prenom": "Vanessa",
+          "nom_complet": "Vanessa DASSONVILLE",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "LE CLAIRE",
+          "prenom": "Yanick",
+          "nom_complet": "Yanick LE CLAIRE",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "DILLIES",
+          "prenom": "Jeanne-Marie",
+          "nom_complet": "Jeanne-Marie DILLIES",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "LENFANT",
+          "prenom": "Jose",
+          "nom_complet": "Jose LENFANT",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "BULTEEL",
+          "prenom": "Celine",
+          "nom_complet": "Celine BULTEEL",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "FERET",
+          "prenom": "Franck",
+          "nom_complet": "Franck FERET",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "GAYOU",
+          "prenom": "Berangere",
+          "nom_complet": "Berangere GAYOU",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "LEURS",
+          "prenom": "Jean-Claude",
+          "nom_complet": "Jean-Claude LEURS",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "JOURET",
+          "prenom": "Amelie",
+          "nom_complet": "Amelie JOURET",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "LEMAIRE",
+          "prenom": "Arnault",
+          "nom_complet": "Arnault LEMAIRE",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "DARRAS",
+          "prenom": "Vanessa",
+          "nom_complet": "Vanessa DARRAS",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "LECOUTRE",
+          "prenom": "Jean-Noel",
+          "nom_complet": "Jean-Noel LECOUTRE",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "CHARLET",
+          "prenom": "Caroline",
+          "nom_complet": "Caroline CHARLET",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "OLIVIER",
+          "prenom": "Jonathan",
+          "nom_complet": "Jonathan OLIVIER",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "23"
+        },
+        {
+          "nom": "COOLENS",
+          "prenom": "Ilona",
+          "nom_complet": "Ilona COOLENS",
+          "sexe": "F",
+          "age": 20,
+          "rang_liste": "24"
+        },
+        {
+          "nom": "LECONTE",
+          "prenom": "Bernard",
+          "nom_complet": "Bernard LECONTE",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "25"
+        },
+        {
+          "nom": "GRUSON",
+          "prenom": "Florence",
+          "nom_complet": "Florence GRUSON",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "26"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "3",
+      "libelle_liste": "HAUBOURDIN, FIÈRE ET VIVANTE",
+      "libelle_abrege_liste": "HAUBOURDIN, FIÈRE ET VIVANTE",
+      "nuance_liste": "LRN",
+      "voix": 1654,
+      "pct_voix_exprimes": 34.67,
+      "sieges_cm": 6,
+      "sieges_cc": 0,
+      "nb_elus": 6,
+      "tete_de_liste": {
+        "nom": "CATTEAU",
+        "prenom": "Victor",
+        "nom_complet": "Victor CATTEAU",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "CATTEAU",
+          "prenom": "Victor",
+          "nom_complet": "Victor CATTEAU",
+          "sexe": "M",
+          "age": 30,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "CORNEILLIE",
+          "prenom": "Françoise",
+          "nom_complet": "Françoise CORNEILLIE",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LECLERCQ",
+          "prenom": "Éric",
+          "nom_complet": "Éric LECLERCQ",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "GRACIA",
+          "prenom": "Margaux",
+          "nom_complet": "Margaux GRACIA",
+          "sexe": "F",
+          "age": 26,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "WILINSKI NOWAK",
+          "prenom": "François",
+          "nom_complet": "François WILINSKI NOWAK",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LOTTE",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie LOTTE",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "6"
+        }
+      ],
+      "statut_conseil": "autre"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Haubourdin Alternative Citoyenne",
+      "libelle_abrege_liste": "Haubourdin Alternative Citoyenne",
+      "nuance_liste": "LDVG",
+      "voix": 537,
+      "pct_voix_exprimes": 11.26,
+      "sieges_cm": 1,
+      "sieges_cc": 0,
+      "nb_elus": 1,
+      "tete_de_liste": {
+        "nom": "MARECAILLE",
+        "prenom": "Emmanuel",
+        "nom_complet": "Emmanuel MARECAILLE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "MARECAILLE",
+          "prenom": "Emmanuel",
+          "nom_complet": "Emmanuel MARECAILLE",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "1"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

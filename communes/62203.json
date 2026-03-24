@@ -1,0 +1,131 @@
+{
+  "code_commune": "62203",
+  "commune": "Campagne-lès-Guines",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "DEMILLY",
+    "prenom": "Bruno",
+    "nom_complet": "Bruno DEMILLY",
+    "age": 69,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 354,
+    "votants": 197,
+    "pct_votants": 55.65,
+    "abstentions": 157,
+    "pct_abstentions": 44.35,
+    "exprimes": 153
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "L'avenir en confiance",
+      "libelle_abrege_liste": "L'avenir en confiance",
+      "nuance_liste": null,
+      "voix": 153,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "DEMILLY",
+        "prenom": "Bruno",
+        "nom_complet": "Bruno DEMILLY",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DEMILLY",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno DEMILLY",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "EVRARD",
+          "prenom": "Blandine",
+          "nom_complet": "Blandine EVRARD",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "HAMY",
+          "prenom": "Yannick",
+          "nom_complet": "Yannick HAMY",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "QUEVAL",
+          "prenom": "Françoise",
+          "nom_complet": "Françoise QUEVAL",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "EHLEN",
+          "prenom": "Benoit",
+          "nom_complet": "Benoit EHLEN",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "TAILLY",
+          "prenom": "Sophie",
+          "nom_complet": "Sophie TAILLY",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "LABOUREUR",
+          "prenom": "Maxime",
+          "nom_complet": "Maxime LABOUREUR",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "VILLEMANT",
+          "prenom": "Marion",
+          "nom_complet": "Marion VILLEMANT",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "GABELLE",
+          "prenom": "Bastien",
+          "nom_complet": "Bastien GABELLE",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "VIEILLARD",
+          "prenom": "Fabienne",
+          "nom_complet": "Fabienne VIEILLARD",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "VAILLANT",
+          "prenom": "Julien",
+          "nom_complet": "Julien VAILLANT",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

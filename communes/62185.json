@@ -1,0 +1,131 @@
+{
+  "code_commune": "62185",
+  "commune": "Bullecourt",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "DUCHATELLE",
+    "prenom": "Joëlle",
+    "nom_complet": "Joëlle DUCHATELLE",
+    "age": 79,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 176,
+    "votants": 105,
+    "pct_votants": 59.66,
+    "abstentions": 71,
+    "pct_abstentions": 40.34,
+    "exprimes": 64
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "BULLECOURT POUR VOUS",
+      "libelle_abrege_liste": "BULLECOURT POUR VOUS",
+      "nuance_liste": null,
+      "voix": 64,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "DUCHATELLE",
+        "prenom": "Joëlle",
+        "nom_complet": "Joëlle DUCHATELLE",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "DUCHATELLE",
+          "prenom": "Joëlle",
+          "nom_complet": "Joëlle DUCHATELLE",
+          "sexe": "F",
+          "age": 79,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "FOURNIER-DELATTRE",
+          "prenom": "Geoffrey",
+          "nom_complet": "Geoffrey FOURNIER-DELATTRE",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "FAVIERE",
+          "prenom": "Elodie",
+          "nom_complet": "Elodie FAVIERE",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DUCHATELLE",
+          "prenom": "Daniel",
+          "nom_complet": "Daniel DUCHATELLE",
+          "sexe": "M",
+          "age": 77,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DEFONTAINE",
+          "prenom": "Marie-Claude",
+          "nom_complet": "Marie-Claude DEFONTAINE",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "MATHON",
+          "prenom": "Jean-Louis",
+          "nom_complet": "Jean-Louis MATHON",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "FOURNIER-JUDEK",
+          "prenom": "Fanny",
+          "nom_complet": "Fanny FOURNIER-JUDEK",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "HAUSPIE",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal HAUSPIE",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "MARCINIAK",
+          "prenom": "Sandrine",
+          "nom_complet": "Sandrine MARCINIAK",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "CAMIER",
+          "prenom": "Thomas",
+          "nom_complet": "Thomas CAMIER",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "LEFIN",
+          "prenom": "Léa",
+          "nom_complet": "Léa LEFIN",
+          "sexe": "F",
+          "age": 26,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

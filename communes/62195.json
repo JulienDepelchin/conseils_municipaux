@@ -1,0 +1,215 @@
+{
+  "code_commune": "62195",
+  "commune": "Calonne-sur-la-Lys",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "ZAJAC",
+    "prenom": "Monique",
+    "nom_complet": "Monique ZAJAC",
+    "age": 59,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1205,
+    "votants": 954,
+    "pct_votants": 79.17,
+    "abstentions": 251,
+    "pct_abstentions": 20.83,
+    "exprimes": 926
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ECOUTONS CALONNE",
+      "libelle_abrege_liste": "ECOUTONS CALONNE",
+      "nuance_liste": null,
+      "voix": 600,
+      "pct_voix_exprimes": 64.79,
+      "sieges_cm": 16,
+      "sieges_cc": 1,
+      "nb_elus": 16,
+      "tete_de_liste": {
+        "nom": "ZAJAC",
+        "prenom": "Monique",
+        "nom_complet": "Monique ZAJAC",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "ZAJAC",
+          "prenom": "Monique",
+          "nom_complet": "Monique ZAJAC",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "RAECKELBOOM",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno RAECKELBOOM",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "JOLY",
+          "prenom": "Cindy",
+          "nom_complet": "Cindy JOLY",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "TISON",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent TISON",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "BEAUSSART",
+          "prenom": "Anne-Sophie",
+          "nom_complet": "Anne-Sophie BEAUSSART",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "TERRIER",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric TERRIER",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "CORNE",
+          "prenom": "Déborah",
+          "nom_complet": "Déborah CORNE",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DUBOIS",
+          "prenom": "Mathieu",
+          "nom_complet": "Mathieu DUBOIS",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "LAPORTE",
+          "prenom": "Julie",
+          "nom_complet": "Julie LAPORTE",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "BONTE",
+          "prenom": "Eric",
+          "nom_complet": "Eric BONTE",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "CATRY",
+          "prenom": "Lindsay",
+          "nom_complet": "Lindsay CATRY",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "CABARET",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric CABARET",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "DELEPORTE",
+          "prenom": "Lucie",
+          "nom_complet": "Lucie DELEPORTE",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "LASSALLE",
+          "prenom": "Stephen",
+          "nom_complet": "Stephen LASSALLE",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "RATTEZ",
+          "prenom": "Emeline",
+          "nom_complet": "Emeline RATTEZ",
+          "sexe": "F",
+          "age": 31,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "VANBRUGGE",
+          "prenom": "Thomas",
+          "nom_complet": "Thomas VANBRUGGE",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "16"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "L'ESPRIT DE CALONNE",
+      "libelle_abrege_liste": "L'ESPRIT DE CALONNE",
+      "nuance_liste": null,
+      "voix": 326,
+      "pct_voix_exprimes": 35.21,
+      "sieges_cm": 3,
+      "sieges_cc": 0,
+      "nb_elus": 3,
+      "tete_de_liste": {
+        "nom": "QUESTE",
+        "prenom": "Dominique",
+        "nom_complet": "Dominique QUESTE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "QUESTE",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique QUESTE",
+          "sexe": "M",
+          "age": 75,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "HAVET",
+          "prenom": "Mélodie",
+          "nom_complet": "Mélodie HAVET",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DRANCOURT",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno DRANCOURT",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "3"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

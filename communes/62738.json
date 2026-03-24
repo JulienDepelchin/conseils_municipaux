@@ -1,0 +1,151 @@
+{
+  "code_commune": "62738",
+  "commune": "Sains-lès-Fressin",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "DENECQ",
+    "prenom": "Frederic",
+    "nom_complet": "Frederic DENECQ",
+    "age": 53,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 123,
+    "votants": 113,
+    "pct_votants": 91.87,
+    "abstentions": 10,
+    "pct_abstentions": 8.13,
+    "exprimes": 111
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "AGIR POUR NOTRE VILLAGE",
+      "libelle_abrege_liste": "AGIR POUR NOTRE VILLAGE",
+      "nuance_liste": null,
+      "voix": 73,
+      "pct_voix_exprimes": 65.77,
+      "sieges_cm": 9,
+      "sieges_cc": null,
+      "nb_elus": 9,
+      "tete_de_liste": {
+        "nom": "DENECQ",
+        "prenom": "Frederic",
+        "nom_complet": "Frederic DENECQ",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DENECQ",
+          "prenom": "Frederic",
+          "nom_complet": "Frederic DENECQ",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "GALLET",
+          "prenom": "Lise",
+          "nom_complet": "Lise GALLET",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "SAUTIERE",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick SAUTIERE",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "TRUNET",
+          "prenom": "Maryvonne",
+          "nom_complet": "Maryvonne TRUNET",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "BRANQUART",
+          "prenom": "Dany",
+          "nom_complet": "Dany BRANQUART",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "BIGAN",
+          "prenom": "Marine",
+          "nom_complet": "Marine BIGAN",
+          "sexe": "F",
+          "age": 22,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "FAUQUEUX",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent FAUQUEUX",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "SION",
+          "prenom": "Julie",
+          "nom_complet": "Julie SION",
+          "sexe": "F",
+          "age": 29,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "ALEXANDRE",
+          "prenom": "Emmanuel",
+          "nom_complet": "Emmanuel ALEXANDRE",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "9"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "BIEN VIVRE À SAINS-LES-FRESSIN",
+      "libelle_abrege_liste": "BIEN VIVRE À SAINS-LES-FRESSIN",
+      "nuance_liste": null,
+      "voix": 38,
+      "pct_voix_exprimes": 34.23,
+      "sieges_cm": 2,
+      "sieges_cc": null,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "DEGRUGILLIER",
+        "prenom": "Laetitia",
+        "nom_complet": "Laetitia DEGRUGILLIER",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "DEGRUGILLIER",
+          "prenom": "Laetitia",
+          "nom_complet": "Laetitia DEGRUGILLIER",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "WIDEHEM",
+          "prenom": "Benjamin",
+          "nom_complet": "Benjamin WIDEHEM",
+          "sexe": "M",
+          "age": 34,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

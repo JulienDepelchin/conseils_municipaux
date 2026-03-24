@@ -1,0 +1,151 @@
+{
+  "code_commune": "62702",
+  "commune": "Remilly-Wirquin",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "TRICOT",
+    "prenom": "Lionel",
+    "nom_complet": "Lionel TRICOT",
+    "age": 57,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 304,
+    "votants": 220,
+    "pct_votants": 72.37,
+    "abstentions": 84,
+    "pct_abstentions": 27.63,
+    "exprimes": 213
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Remilly-Wirquin ensemble continuons à écrire l'avenir",
+      "libelle_abrege_liste": "Remilly-Wirquin ensemble continuons à écrire l'avenir",
+      "nuance_liste": null,
+      "voix": 168,
+      "pct_voix_exprimes": 78.87,
+      "sieges_cm": 10,
+      "sieges_cc": null,
+      "nb_elus": 10,
+      "tete_de_liste": {
+        "nom": "TRICOT",
+        "prenom": "Lionel",
+        "nom_complet": "Lionel TRICOT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "TRICOT",
+          "prenom": "Lionel",
+          "nom_complet": "Lionel TRICOT",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "THERY",
+          "prenom": "Caroline Marie Lucienne",
+          "nom_complet": "Caroline Marie Lucienne THERY",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BENOOT",
+          "prenom": "Anthony",
+          "nom_complet": "Anthony BENOOT",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "VASSEUR",
+          "prenom": "Emmanuelle",
+          "nom_complet": "Emmanuelle VASSEUR",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "VASSEUR",
+          "prenom": "Jean-Pierre",
+          "nom_complet": "Jean-Pierre VASSEUR",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DE SAINTE MARESVILLE",
+          "prenom": "Lydie Marie Simone",
+          "nom_complet": "Lydie Marie Simone DE SAINTE MARESVILLE",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DELOBEL",
+          "prenom": "Samuel",
+          "nom_complet": "Samuel DELOBEL",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "POIRET",
+          "prenom": "Karine",
+          "nom_complet": "Karine POIRET",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "SAINT-MAXIN",
+          "prenom": "Jean-Claude Emile Maurice",
+          "nom_complet": "Jean-Claude Emile Maurice SAINT-MAXIN",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DEVOS",
+          "prenom": "Lolita",
+          "nom_complet": "Lolita DEVOS",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "10"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "Réussir ensemble, pour un avenir solidaire et dynamique",
+      "libelle_abrege_liste": "Réussir ensemble, pour un avenir solidaire et dynamique",
+      "nuance_liste": null,
+      "voix": 45,
+      "pct_voix_exprimes": 21.13,
+      "sieges_cm": 1,
+      "sieges_cc": null,
+      "nb_elus": 1,
+      "tete_de_liste": {
+        "nom": "MAILLARD",
+        "prenom": "Jean-Philippe",
+        "nom_complet": "Jean-Philippe MAILLARD",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "MAILLARD",
+          "prenom": "Jean-Philippe",
+          "nom_complet": "Jean-Philippe MAILLARD",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "1"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

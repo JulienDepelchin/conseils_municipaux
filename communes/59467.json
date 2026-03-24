@@ -1,0 +1,195 @@
+{
+  "code_commune": "59467",
+  "commune": "Pont-sur-Sambre",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "DELCROIX",
+    "prenom": "Sébastien",
+    "nom_complet": "Sébastien DELCROIX",
+    "age": 40,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1766,
+    "votants": 965,
+    "pct_votants": 54.64,
+    "abstentions": 801,
+    "pct_abstentions": 45.36,
+    "exprimes": 846
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "PONT-SUR-SAMBRE, construisons ensemble",
+      "libelle_abrege_liste": "PONT-SUR-SAMBRE, construisons ensemble",
+      "nuance_liste": null,
+      "voix": 846,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 19,
+      "sieges_cc": 1,
+      "nb_elus": 19,
+      "tete_de_liste": {
+        "nom": "DELCROIX",
+        "prenom": "Sébastien",
+        "nom_complet": "Sébastien DELCROIX",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DELCROIX",
+          "prenom": "Sébastien",
+          "nom_complet": "Sébastien DELCROIX",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DUPIRE-CAIL",
+          "prenom": "Agnés",
+          "nom_complet": "Agnés DUPIRE-CAIL",
+          "sexe": "F",
+          "age": 70,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "HUVELLE",
+          "prenom": "Richard",
+          "nom_complet": "Richard HUVELLE",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "COCHARD",
+          "prenom": "Aurore",
+          "nom_complet": "Aurore COCHARD",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "COUTO",
+          "prenom": "José",
+          "nom_complet": "José COUTO",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LEGER",
+          "prenom": "Roselyne",
+          "nom_complet": "Roselyne LEGER",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DUPONT",
+          "prenom": "Jérôme",
+          "nom_complet": "Jérôme DUPONT",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DECOTTE",
+          "prenom": "Valérie",
+          "nom_complet": "Valérie DECOTTE",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "BEAUVILAIN",
+          "prenom": "Dylan",
+          "nom_complet": "Dylan BEAUVILAIN",
+          "sexe": "M",
+          "age": 32,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "GILLOT",
+          "prenom": "Séverine",
+          "nom_complet": "Séverine GILLOT",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "FARHI",
+          "prenom": "Dany",
+          "nom_complet": "Dany FARHI",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "CHANDELIER",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie CHANDELIER",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "BOMBECKE",
+          "prenom": "Sébastien",
+          "nom_complet": "Sébastien BOMBECKE",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "AVONTS",
+          "prenom": "Martine",
+          "nom_complet": "Martine AVONTS",
+          "sexe": "F",
+          "age": 70,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "LEMBOURG",
+          "prenom": "Julien",
+          "nom_complet": "Julien LEMBOURG",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "LEMAITRE",
+          "prenom": "Caroline",
+          "nom_complet": "Caroline LEMAITRE",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "HIROUX",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric HIROUX",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "CAUSEUR",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie CAUSEUR",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "DORMIGNY",
+          "prenom": "Matthias",
+          "nom_complet": "Matthias DORMIGNY",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "19"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

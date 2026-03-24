@@ -1,0 +1,279 @@
+{
+  "code_commune": "62268",
+  "commune": "Desvres",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "DEMOLLIENS",
+    "prenom": "Marc",
+    "nom_complet": "Marc DEMOLLIENS",
+    "age": 56,
+    "nuance": "LDVG"
+  },
+  "resultats": {
+    "inscrits": 3483,
+    "votants": 1945,
+    "pct_votants": 55.84,
+    "abstentions": 1538,
+    "pct_abstentions": 44.16,
+    "exprimes": 1836
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "ENGAGES POUR DESVRES",
+      "libelle_abrege_liste": "ENGAGES POUR DESVRES",
+      "nuance_liste": "LDVG",
+      "voix": 1108,
+      "pct_voix_exprimes": 60.35,
+      "sieges_cm": 22,
+      "sieges_cc": 8,
+      "nb_elus": 22,
+      "tete_de_liste": {
+        "nom": "DEMOLLIENS",
+        "prenom": "Marc",
+        "nom_complet": "Marc DEMOLLIENS",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DEMOLLIENS",
+          "prenom": "Marc",
+          "nom_complet": "Marc DEMOLLIENS",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "THILLIEZ",
+          "prenom": "Marylise",
+          "nom_complet": "Marylise THILLIEZ",
+          "sexe": "F",
+          "age": 71,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DUTRIAUX",
+          "prenom": "Ludovic",
+          "nom_complet": "Ludovic DUTRIAUX",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "TELLIER",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie TELLIER",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LEMAIRE",
+          "prenom": "Simon",
+          "nom_complet": "Simon LEMAIRE",
+          "sexe": "M",
+          "age": 32,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DACHICOURT",
+          "prenom": "Anne",
+          "nom_complet": "Anne DACHICOURT",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "SOKI",
+          "prenom": "Rémy",
+          "nom_complet": "Rémy SOKI",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "BAUDE",
+          "prenom": "Anne-Marie",
+          "nom_complet": "Anne-Marie BAUDE",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "LEJOSNE",
+          "prenom": "Raymond",
+          "nom_complet": "Raymond LEJOSNE",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "BALLY",
+          "prenom": "Véronique",
+          "nom_complet": "Véronique BALLY",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "LEDUC",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno LEDUC",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "TERNISIEN",
+          "prenom": "Chantal",
+          "nom_complet": "Chantal TERNISIEN",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "RUFFIN",
+          "prenom": "Thierry",
+          "nom_complet": "Thierry RUFFIN",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "GRABARZ",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie GRABARZ",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "EECKOUT",
+          "prenom": "Eric",
+          "nom_complet": "Eric EECKOUT",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "ROCHE",
+          "prenom": "Monique",
+          "nom_complet": "Monique ROCHE",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "DUFRENNE",
+          "prenom": "Grégory",
+          "nom_complet": "Grégory DUFRENNE",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "BRESSEL",
+          "prenom": "Aurélie",
+          "nom_complet": "Aurélie BRESSEL",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "TOUTAIN",
+          "prenom": "Herald",
+          "nom_complet": "Herald TOUTAIN",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "BIENIOSZEK",
+          "prenom": "Cathy",
+          "nom_complet": "Cathy BIENIOSZEK",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "PERRAULT",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent PERRAULT",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "RICHEVAL",
+          "prenom": "Cécile",
+          "nom_complet": "Cécile RICHEVAL",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "22"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "AGIR ENSEMBLE POUR DESVRES",
+      "libelle_abrege_liste": "AGIR ENSEMBLE POUR DESVRES",
+      "nuance_liste": "LDVD",
+      "voix": 728,
+      "pct_voix_exprimes": 39.65,
+      "sieges_cm": 5,
+      "sieges_cc": 2,
+      "nb_elus": 5,
+      "tete_de_liste": {
+        "nom": "MARCOTTE",
+        "prenom": "Jean-Luc",
+        "nom_complet": "Jean-Luc MARCOTTE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "MARCOTTE",
+          "prenom": "Jean-Luc",
+          "nom_complet": "Jean-Luc MARCOTTE",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "GOURNAY-PRUD'HOMME",
+          "prenom": "Martine",
+          "nom_complet": "Martine GOURNAY-PRUD'HOMME",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "HENNUYER",
+          "prenom": "Jonathan",
+          "nom_complet": "Jonathan HENNUYER",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "PEUGNY",
+          "prenom": "Justine",
+          "nom_complet": "Justine PEUGNY",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "PRUD'HOMME",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe PRUD'HOMME",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "5"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

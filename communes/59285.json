@@ -1,0 +1,267 @@
+{
+  "code_commune": "59285",
+  "commune": "Haspres",
+  "departement": "Nord",
+  "tour": "T2",
+  "maire": {
+    "nom": "DELATTRE",
+    "prenom": "Jean-Francois",
+    "nom_complet": "Jean-Francois DELATTRE",
+    "age": 69,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 2054,
+    "votants": 1431,
+    "pct_votants": 69.67,
+    "abstentions": 623,
+    "pct_abstentions": 30.33,
+    "exprimes": 1407
+  },
+  "listes": [
+    {
+      "num_panneau": "3",
+      "libelle_liste": "AGIR POUR ET AVEC NOTRE VILLAGE",
+      "libelle_abrege_liste": "AGIR POUR ET AVEC NOTRE VILLAGE",
+      "nuance_liste": null,
+      "voix": 542,
+      "pct_voix_exprimes": 38.52,
+      "sieges_cm": 16,
+      "sieges_cc": 1,
+      "nb_elus": 16,
+      "tete_de_liste": {
+        "nom": "DELATTRE",
+        "prenom": "Jean-Francois",
+        "nom_complet": "Jean-Francois DELATTRE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DELATTRE",
+          "prenom": "Jean-Francois",
+          "nom_complet": "Jean-Francois DELATTRE",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LEMOINE",
+          "prenom": "Chantal",
+          "nom_complet": "Chantal LEMOINE",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "COCQUELET",
+          "prenom": "Jean-Noël",
+          "nom_complet": "Jean-Noël COCQUELET",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BRIQUE TAISNE",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie BRIQUE TAISNE",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "REGNIER",
+          "prenom": "Jean-Luc",
+          "nom_complet": "Jean-Luc REGNIER",
+          "sexe": "M",
+          "age": 74,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "WOITTEQUAND",
+          "prenom": "Martine",
+          "nom_complet": "Martine WOITTEQUAND",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "LECOMTE",
+          "prenom": "José",
+          "nom_complet": "José LECOMTE",
+          "sexe": "M",
+          "age": 77,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "BAUCHET",
+          "prenom": "Mélanie",
+          "nom_complet": "Mélanie BAUCHET",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "NUTTIN",
+          "prenom": "Didier",
+          "nom_complet": "Didier NUTTIN",
+          "sexe": "M",
+          "age": 76,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "LEMAIRE ÉPOUSE SAVARY",
+          "prenom": "Evelyne",
+          "nom_complet": "Evelyne LEMAIRE ÉPOUSE SAVARY",
+          "sexe": "F",
+          "age": 73,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "BOUCHEZ",
+          "prenom": "Julien",
+          "nom_complet": "Julien BOUCHEZ",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "COLIN",
+          "prenom": "Marie-Jeanne",
+          "nom_complet": "Marie-Jeanne COLIN",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "BOULANGER",
+          "prenom": "Joffrey",
+          "nom_complet": "Joffrey BOULANGER",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "GUEGUEN ÉPOUSE FLAMENT",
+          "prenom": "Anne",
+          "nom_complet": "Anne GUEGUEN ÉPOUSE FLAMENT",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "BIACHE",
+          "prenom": "Sébastien",
+          "nom_complet": "Sébastien BIACHE",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "CACHEUX",
+          "prenom": "Séverine",
+          "nom_complet": "Séverine CACHEUX",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "16"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "HASPRES À VENIR",
+      "libelle_abrege_liste": "HASPRES À VENIR",
+      "nuance_liste": null,
+      "voix": 478,
+      "pct_voix_exprimes": 33.97,
+      "sieges_cm": 4,
+      "sieges_cc": 0,
+      "nb_elus": 4,
+      "tete_de_liste": {
+        "nom": "VANDERSCHILT",
+        "prenom": "Jean-Yves",
+        "nom_complet": "Jean-Yves VANDERSCHILT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "VANDERSCHILT",
+          "prenom": "Jean-Yves",
+          "nom_complet": "Jean-Yves VANDERSCHILT",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DUBUT",
+          "prenom": "Aurélie",
+          "nom_complet": "Aurélie DUBUT",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "L'ECLUSE",
+          "prenom": "Marie Jean-Philippe",
+          "nom_complet": "Marie Jean-Philippe L'ECLUSE",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DURCAK",
+          "prenom": "Marie",
+          "nom_complet": "Marie DURCAK",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "4"
+        }
+      ],
+      "statut_conseil": "autre"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "HASPRES EN ACTION",
+      "libelle_abrege_liste": "HASPRES EN ACTION",
+      "nuance_liste": null,
+      "voix": 387,
+      "pct_voix_exprimes": 27.51,
+      "sieges_cm": 3,
+      "sieges_cc": 0,
+      "nb_elus": 3,
+      "tete_de_liste": {
+        "nom": "LEMAIRE",
+        "prenom": "Théo",
+        "nom_complet": "Théo LEMAIRE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LEMAIRE",
+          "prenom": "Théo",
+          "nom_complet": "Théo LEMAIRE",
+          "sexe": "M",
+          "age": 26,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LEFEBVRE",
+          "prenom": "Nora",
+          "nom_complet": "Nora LEFEBVRE",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "HOSSELET",
+          "prenom": "Vincent",
+          "nom_complet": "Vincent HOSSELET",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "3"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

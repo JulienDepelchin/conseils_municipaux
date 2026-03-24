@@ -1,0 +1,151 @@
+{
+  "code_commune": "62888",
+  "commune": "Wierre-au-Bois",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "COUSIN",
+    "prenom": "Marc",
+    "nom_complet": "Marc COUSIN",
+    "age": 65,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 215,
+    "votants": 182,
+    "pct_votants": 84.65,
+    "abstentions": 33,
+    "pct_abstentions": 15.35,
+    "exprimes": 180
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ENSEMBLE POUR NOTRE VILLAGE",
+      "libelle_abrege_liste": "ENSEMBLE POUR NOTRE VILLAGE",
+      "nuance_liste": null,
+      "voix": 104,
+      "pct_voix_exprimes": 57.78,
+      "sieges_cm": 9,
+      "sieges_cc": null,
+      "nb_elus": 9,
+      "tete_de_liste": {
+        "nom": "COUSIN",
+        "prenom": "Marc",
+        "nom_complet": "Marc COUSIN",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "COUSIN",
+          "prenom": "Marc",
+          "nom_complet": "Marc COUSIN",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LECOFFRE",
+          "prenom": "Caroline",
+          "nom_complet": "Caroline LECOFFRE",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "PLANQUE",
+          "prenom": "Louis",
+          "nom_complet": "Louis PLANQUE",
+          "sexe": "M",
+          "age": 33,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BORYSIUK",
+          "prenom": "Myriam",
+          "nom_complet": "Myriam BORYSIUK",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DUFOUR",
+          "prenom": "Mathieu",
+          "nom_complet": "Mathieu DUFOUR",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DEVILLEPOIX",
+          "prenom": "Coralie",
+          "nom_complet": "Coralie DEVILLEPOIX",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "ANQUEZ",
+          "prenom": "Vincent",
+          "nom_complet": "Vincent ANQUEZ",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LELEU",
+          "prenom": "Marie",
+          "nom_complet": "Marie LELEU",
+          "sexe": "F",
+          "age": 26,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "RUFIN",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe RUFIN",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "9"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "RACINES ET AVENIR",
+      "libelle_abrege_liste": "RACINES ET AVENIR",
+      "nuance_liste": null,
+      "voix": 76,
+      "pct_voix_exprimes": 42.22,
+      "sieges_cm": 2,
+      "sieges_cc": null,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "ALLION",
+        "prenom": "Christophe",
+        "nom_complet": "Christophe ALLION",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "ALLION",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe ALLION",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "THOMAS",
+          "prenom": "Valérie",
+          "nom_complet": "Valérie THOMAS",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

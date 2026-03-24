@@ -1,0 +1,183 @@
+{
+  "code_commune": "59548",
+  "commune": "Saint-Waast",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "HIROUX",
+    "prenom": "Eric",
+    "nom_complet": "Eric HIROUX",
+    "age": 58,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 516,
+    "votants": 425,
+    "pct_votants": 82.36,
+    "abstentions": 91,
+    "pct_abstentions": 17.64,
+    "exprimes": 417
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "ENSEMBLE CONSTRUISONS LE SAINT WAAST DE DEMAIN",
+      "libelle_abrege_liste": "ENSEMBLE CONSTRUISONS LE SAINT WAAST DE DEMAIN",
+      "nuance_liste": null,
+      "voix": 277,
+      "pct_voix_exprimes": 66.43,
+      "sieges_cm": 13,
+      "sieges_cc": null,
+      "nb_elus": 13,
+      "tete_de_liste": {
+        "nom": "HIROUX",
+        "prenom": "Eric",
+        "nom_complet": "Eric HIROUX",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "HIROUX",
+          "prenom": "Eric",
+          "nom_complet": "Eric HIROUX",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "CARABIN",
+          "prenom": "Marie-Odile",
+          "nom_complet": "Marie-Odile CARABIN",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "WATTIEZ",
+          "prenom": "Patrice",
+          "nom_complet": "Patrice WATTIEZ",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BOEZ-BIZET",
+          "prenom": "Marie-Laure",
+          "nom_complet": "Marie-Laure BOEZ-BIZET",
+          "sexe": "F",
+          "age": 32,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "PREUX",
+          "prenom": "Benoît",
+          "nom_complet": "Benoît PREUX",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "NICOLAS",
+          "prenom": "Clarisse",
+          "nom_complet": "Clarisse NICOLAS",
+          "sexe": "F",
+          "age": 33,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BARNAS",
+          "prenom": "Frederic",
+          "nom_complet": "Frederic BARNAS",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DESTOMBES-CAFFIN",
+          "prenom": "Beatrice",
+          "nom_complet": "Beatrice DESTOMBES-CAFFIN",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "CAVRO",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe CAVRO",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "COPY",
+          "prenom": "Aurelie",
+          "nom_complet": "Aurelie COPY",
+          "sexe": "F",
+          "age": 30,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "MALENGREAUX",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier MALENGREAUX",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "COGEZ",
+          "prenom": "Elodie",
+          "nom_complet": "Elodie COGEZ",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "FERRY",
+          "prenom": "Stephane",
+          "nom_complet": "Stephane FERRY",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "13"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Alliance et Action Saint-Waast-La-Vallée",
+      "libelle_abrege_liste": "Alliance et Action Saint-Waast-La-Vallée",
+      "nuance_liste": null,
+      "voix": 140,
+      "pct_voix_exprimes": 33.57,
+      "sieges_cm": 2,
+      "sieges_cc": null,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "OTTEN",
+        "prenom": "Mandy",
+        "nom_complet": "Mandy OTTEN",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "OTTEN",
+          "prenom": "Mandy",
+          "nom_complet": "Mandy OTTEN",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "MOREAUX-PLUCHART",
+          "prenom": "Dany",
+          "nom_complet": "Dany MOREAUX-PLUCHART",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

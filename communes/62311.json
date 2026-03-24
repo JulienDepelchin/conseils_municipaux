@@ -1,0 +1,235 @@
+{
+  "code_commune": "62311",
+  "commune": "Estevelles",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "CHWICKO",
+    "prenom": "Martine",
+    "nom_complet": "Martine CHWICKO",
+    "age": 60,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1673,
+    "votants": 1025,
+    "pct_votants": 61.27,
+    "abstentions": 648,
+    "pct_abstentions": 38.73,
+    "exprimes": 998
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "ENSEMBLE, CONTINUONS A ECRIRE L'HISTOIRE D'ESTEVELLES",
+      "libelle_abrege_liste": "ENSEMBLE, CONTINUONS A ECRIRE L'HISTOIRE D'ESTEVELLES",
+      "nuance_liste": null,
+      "voix": 608,
+      "pct_voix_exprimes": 60.92,
+      "sieges_cm": 16,
+      "sieges_cc": 1,
+      "nb_elus": 16,
+      "tete_de_liste": {
+        "nom": "CHWICKO",
+        "prenom": "Martine",
+        "nom_complet": "Martine CHWICKO",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "CHWICKO",
+          "prenom": "Martine",
+          "nom_complet": "Martine CHWICKO",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "HAIKEL",
+          "prenom": "Hakim",
+          "nom_complet": "Hakim HAIKEL",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BARWICKI",
+          "prenom": "Anne-Sophie",
+          "nom_complet": "Anne-Sophie BARWICKI",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "KRAWCZYK",
+          "prenom": "Jean-Philippe",
+          "nom_complet": "Jean-Philippe KRAWCZYK",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "HENNACHE",
+          "prenom": "Philippine",
+          "nom_complet": "Philippine HENNACHE",
+          "sexe": "F",
+          "age": 26,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "MOSER",
+          "prenom": "Alain",
+          "nom_complet": "Alain MOSER",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "NAWROCKI",
+          "prenom": "Nadège",
+          "nom_complet": "Nadège NAWROCKI",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "GRENIER",
+          "prenom": "Benoit",
+          "nom_complet": "Benoit GRENIER",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "AMOUREUX",
+          "prenom": "Sandrine",
+          "nom_complet": "Sandrine AMOUREUX",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "PARSY",
+          "prenom": "Loic",
+          "nom_complet": "Loic PARSY",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DE BRUYNE",
+          "prenom": "Karine",
+          "nom_complet": "Karine DE BRUYNE",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "DIEVART",
+          "prenom": "Cédric",
+          "nom_complet": "Cédric DIEVART",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "LAURENT",
+          "prenom": "Stephanie",
+          "nom_complet": "Stephanie LAURENT",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "DUPIR",
+          "prenom": "Maxime",
+          "nom_complet": "Maxime DUPIR",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "WALLEZ",
+          "prenom": "Emilie",
+          "nom_complet": "Emilie WALLEZ",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "RUCKI",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe RUCKI",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "16"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "3",
+      "libelle_liste": "VIVE ESTEVELLES",
+      "libelle_abrege_liste": "VIVE ESTEVELLES",
+      "nuance_liste": null,
+      "voix": 199,
+      "pct_voix_exprimes": 19.94,
+      "sieges_cm": 2,
+      "sieges_cc": 0,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "COLLART",
+        "prenom": "Jean-Michel",
+        "nom_complet": "Jean-Michel COLLART",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "COLLART",
+          "prenom": "Jean-Michel",
+          "nom_complet": "Jean-Michel COLLART",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BELLIER",
+          "prenom": "Geraldine",
+          "nom_complet": "Geraldine BELLIER",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "REAGIR ET S'UNIR POUR ESTEVELLES",
+      "libelle_abrege_liste": "REAGIR ET S'UNIR POUR ESTEVELLES",
+      "nuance_liste": null,
+      "voix": 191,
+      "pct_voix_exprimes": 19.14,
+      "sieges_cm": 1,
+      "sieges_cc": 0,
+      "nb_elus": 1,
+      "tete_de_liste": {
+        "nom": "KULINSKI",
+        "prenom": "Amandine",
+        "nom_complet": "Amandine KULINSKI",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "KULINSKI",
+          "prenom": "Amandine",
+          "nom_complet": "Amandine KULINSKI",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "1"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

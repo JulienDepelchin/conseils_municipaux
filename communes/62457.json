@@ -1,0 +1,315 @@
+{
+  "code_commune": "62457",
+  "commune": "Houdain",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "THIRY",
+    "prenom": "Steven",
+    "nom_complet": "Steven THIRY",
+    "age": 30,
+    "nuance": "LRN"
+  },
+  "resultats": {
+    "inscrits": 5043,
+    "votants": 3335,
+    "pct_votants": 66.13,
+    "abstentions": 1708,
+    "pct_abstentions": 33.87,
+    "exprimes": 3241
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "UN NOUVEL ELAN POUR HOUDAIN",
+      "libelle_abrege_liste": "UN NOUVEL ELAN POUR HOUDAIN",
+      "nuance_liste": "LRN",
+      "voix": 1860,
+      "pct_voix_exprimes": 57.39,
+      "sieges_cm": 23,
+      "sieges_cc": 3,
+      "nb_elus": 23,
+      "tete_de_liste": {
+        "nom": "THIRY",
+        "prenom": "Steven",
+        "nom_complet": "Steven THIRY",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "THIRY",
+          "prenom": "Steven",
+          "nom_complet": "Steven THIRY",
+          "sexe": "M",
+          "age": 30,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "CRESPEL",
+          "prenom": "Bérengère",
+          "nom_complet": "Bérengère CRESPEL",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "MAHAUT",
+          "prenom": "Jurgen",
+          "nom_complet": "Jurgen MAHAUT",
+          "sexe": "M",
+          "age": 24,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "MAERTEN",
+          "prenom": "Marine",
+          "nom_complet": "Marine MAERTEN",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LAURENT",
+          "prenom": "Dylan",
+          "nom_complet": "Dylan LAURENT",
+          "sexe": "M",
+          "age": 31,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DICKES",
+          "prenom": "Godeleine",
+          "nom_complet": "Godeleine DICKES",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "CHANRION",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier CHANRION",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "TILLOY",
+          "prenom": "Amélie",
+          "nom_complet": "Amélie TILLOY",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "JUNGE",
+          "prenom": "Christian",
+          "nom_complet": "Christian JUNGE",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "SEURON",
+          "prenom": "Aurélie",
+          "nom_complet": "Aurélie SEURON",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "FORGEZ",
+          "prenom": "Julien",
+          "nom_complet": "Julien FORGEZ",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "PETITJEAN",
+          "prenom": "Angelique",
+          "nom_complet": "Angelique PETITJEAN",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "BRIL",
+          "prenom": "Loic",
+          "nom_complet": "Loic BRIL",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "LECOCQ",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie LECOCQ",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "LAFARGUE",
+          "prenom": "Steve",
+          "nom_complet": "Steve LAFARGUE",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "DETRES",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle DETRES",
+          "sexe": "F",
+          "age": 24,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "CONFRERE",
+          "prenom": "Pierre-Edouard",
+          "nom_complet": "Pierre-Edouard CONFRERE",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "RENUCCI",
+          "prenom": "Sophie",
+          "nom_complet": "Sophie RENUCCI",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "HAUGHTON",
+          "prenom": "Sébastien",
+          "nom_complet": "Sébastien HAUGHTON",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "BRUNDU",
+          "prenom": "Amélie",
+          "nom_complet": "Amélie BRUNDU",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "NOWACZYK",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent NOWACZYK",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "LEFEBVRE",
+          "prenom": "Mélanie",
+          "nom_complet": "Mélanie LEFEBVRE",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "LEGRAND",
+          "prenom": "Jean-Cyrille",
+          "nom_complet": "Jean-Cyrille LEGRAND",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "23"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "POUR HOUDAIN TOUJOURS EN ACTION",
+      "libelle_abrege_liste": "POUR HOUDAIN TOUJOURS EN ACTION",
+      "nuance_liste": "LDVG",
+      "voix": 894,
+      "pct_voix_exprimes": 27.58,
+      "sieges_cm": 4,
+      "sieges_cc": 0,
+      "nb_elus": 4,
+      "tete_de_liste": {
+        "nom": "RUCKEBUSCH",
+        "prenom": "Isabelle",
+        "nom_complet": "Isabelle RUCKEBUSCH",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "RUCKEBUSCH",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle RUCKEBUSCH",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LEFEBVRE",
+          "prenom": "Daniel",
+          "nom_complet": "Daniel LEFEBVRE",
+          "sexe": "M",
+          "age": 78,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "PRZYBYLA",
+          "prenom": "Amelie",
+          "nom_complet": "Amelie PRZYBYLA",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "JOLY",
+          "prenom": "Bernard",
+          "nom_complet": "Bernard JOLY",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "4"
+        }
+      ],
+      "statut_conseil": "autre"
+    },
+    {
+      "num_panneau": "3",
+      "libelle_liste": "MIEUX VIVRE ENSEMBLE",
+      "libelle_abrege_liste": "MIEUX VIVRE ENSEMBLE",
+      "nuance_liste": "LDVG",
+      "voix": 487,
+      "pct_voix_exprimes": 15.03,
+      "sieges_cm": 2,
+      "sieges_cc": 0,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "DELATTRE",
+        "prenom": "Jean-Paul",
+        "nom_complet": "Jean-Paul DELATTRE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DELATTRE",
+          "prenom": "Jean-Paul",
+          "nom_complet": "Jean-Paul DELATTRE",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "QUINET",
+          "prenom": "Sonia",
+          "nom_complet": "Sonia QUINET",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

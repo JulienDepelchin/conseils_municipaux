@@ -1,0 +1,235 @@
+{
+  "code_commune": "62652",
+  "commune": "Pernes",
+  "departement": "Pas-de-Calais",
+  "tour": "T2",
+  "maire": {
+    "nom": "JOSSIEN",
+    "prenom": "Jérôme",
+    "nom_complet": "Jérôme JOSSIEN",
+    "age": 56,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1215,
+    "votants": 873,
+    "pct_votants": 71.85,
+    "abstentions": 342,
+    "pct_abstentions": 28.15,
+    "exprimes": 860
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Une nouvelle dynamique pour PERNES",
+      "libelle_abrege_liste": "Une nouvelle dynamique pour PERNES",
+      "nuance_liste": null,
+      "voix": 389,
+      "pct_voix_exprimes": 45.23,
+      "sieges_cm": 14,
+      "sieges_cc": 3,
+      "nb_elus": 14,
+      "tete_de_liste": {
+        "nom": "JOSSIEN",
+        "prenom": "Jérôme",
+        "nom_complet": "Jérôme JOSSIEN",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "JOSSIEN",
+          "prenom": "Jérôme",
+          "nom_complet": "Jérôme JOSSIEN",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DERISBOURG VINCETTE",
+          "prenom": "Catherine",
+          "nom_complet": "Catherine DERISBOURG VINCETTE",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "GRASSO",
+          "prenom": "Vito-Antonio",
+          "nom_complet": "Vito-Antonio GRASSO",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "HEMERY THERY",
+          "prenom": "Ludivine",
+          "nom_complet": "Ludivine HEMERY THERY",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "WAGON",
+          "prenom": "Ludovic",
+          "nom_complet": "Ludovic WAGON",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LELEU",
+          "prenom": "Carine",
+          "nom_complet": "Carine LELEU",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "JAZWIECKI",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric JAZWIECKI",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DONCHEZ",
+          "prenom": "Sophie",
+          "nom_complet": "Sophie DONCHEZ",
+          "sexe": "F",
+          "age": 24,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "RISBOURG",
+          "prenom": "James",
+          "nom_complet": "James RISBOURG",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "MOREAU",
+          "prenom": "Shanel",
+          "nom_complet": "Shanel MOREAU",
+          "sexe": "F",
+          "age": 26,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "BRUYANT",
+          "prenom": "Jérôme",
+          "nom_complet": "Jérôme BRUYANT",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "PRONIER",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie PRONIER",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "DEBARGE",
+          "prenom": "Joffrey",
+          "nom_complet": "Joffrey DEBARGE",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "CAMPAGNE",
+          "prenom": "Annie",
+          "nom_complet": "Annie CAMPAGNE",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "14"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "AVEC VOUS POUR PERNES, de nos racines à l'avenir",
+      "libelle_abrege_liste": "AVEC VOUS POUR PERNES, de nos racines à l'avenir",
+      "nuance_liste": null,
+      "voix": 276,
+      "pct_voix_exprimes": 32.09,
+      "sieges_cm": 3,
+      "sieges_cc": 1,
+      "nb_elus": 3,
+      "tete_de_liste": {
+        "nom": "MERLIN",
+        "prenom": "Hélène",
+        "nom_complet": "Hélène MERLIN",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "MERLIN",
+          "prenom": "Hélène",
+          "nom_complet": "Hélène MERLIN",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BECQUART",
+          "prenom": "Yves",
+          "nom_complet": "Yves BECQUART",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BUGNON",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie BUGNON",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "3"
+        }
+      ],
+      "statut_conseil": "autre"
+    },
+    {
+      "num_panneau": "3",
+      "libelle_liste": "UNIR NOS FORCES POUR PERNES",
+      "libelle_abrege_liste": "UNIR NOS FORCES POUR PERNES",
+      "nuance_liste": null,
+      "voix": 195,
+      "pct_voix_exprimes": 22.67,
+      "sieges_cm": 2,
+      "sieges_cc": 0,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "LOBEL",
+        "prenom": "Jérôme",
+        "nom_complet": "Jérôme LOBEL",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LOBEL",
+          "prenom": "Jérôme",
+          "nom_complet": "Jérôme LOBEL",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BRUYANT",
+          "prenom": "Annick",
+          "nom_complet": "Annick BRUYANT",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

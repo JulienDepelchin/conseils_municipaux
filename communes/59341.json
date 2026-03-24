@@ -1,0 +1,131 @@
+{
+  "code_commune": "59341",
+  "commune": "Lesdain",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "GAUTIER",
+    "prenom": "Geneviève",
+    "nom_complet": "Geneviève GAUTIER",
+    "age": 66,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 310,
+    "votants": 206,
+    "pct_votants": 66.45,
+    "abstentions": 104,
+    "pct_abstentions": 33.55,
+    "exprimes": 169
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "AGISSONS ENSEMBLE POUR LESDAIN",
+      "libelle_abrege_liste": "AGISSONS ENSEMBLE POUR LESDAIN",
+      "nuance_liste": null,
+      "voix": 169,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "GAUTIER",
+        "prenom": "Geneviève",
+        "nom_complet": "Geneviève GAUTIER",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "GAUTIER",
+          "prenom": "Geneviève",
+          "nom_complet": "Geneviève GAUTIER",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "PLATEAU",
+          "prenom": "Jean-François",
+          "nom_complet": "Jean-François PLATEAU",
+          "sexe": "M",
+          "age": 77,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BERTON",
+          "prenom": "Françoise",
+          "nom_complet": "Françoise BERTON",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "RICHARD",
+          "prenom": "Franck",
+          "nom_complet": "Franck RICHARD",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "SEEUWS",
+          "prenom": "Natacha",
+          "nom_complet": "Natacha SEEUWS",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DUVINAGE",
+          "prenom": "Jean-Pierre",
+          "nom_complet": "Jean-Pierre DUVINAGE",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "GABET",
+          "prenom": "Evelyne",
+          "nom_complet": "Evelyne GABET",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "GUINET",
+          "prenom": "François",
+          "nom_complet": "François GUINET",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "GUÉDIN",
+          "prenom": "Christelle",
+          "nom_complet": "Christelle GUÉDIN",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "HODIN",
+          "prenom": "David",
+          "nom_complet": "David HODIN",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "ROUSSEAU",
+          "prenom": "Caroline",
+          "nom_complet": "Caroline ROUSSEAU",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

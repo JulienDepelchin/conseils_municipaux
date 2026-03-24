@@ -1,0 +1,335 @@
+{
+  "code_commune": "59225",
+  "commune": "Feignies",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "LEMAITRE",
+    "prenom": "Jean-François",
+    "nom_complet": "Jean-François LEMAITRE",
+    "age": 65,
+    "nuance": "LDVG"
+  },
+  "resultats": {
+    "inscrits": 4736,
+    "votants": 2657,
+    "pct_votants": 56.1,
+    "abstentions": 2079,
+    "pct_abstentions": 43.9,
+    "exprimes": 2586
+  },
+  "listes": [
+    {
+      "num_panneau": "3",
+      "libelle_liste": "Réécrire Feignies Ensemble",
+      "libelle_abrege_liste": "Réécrire Feignies Ensemble",
+      "nuance_liste": "LDVG",
+      "voix": 1313,
+      "pct_voix_exprimes": 50.77,
+      "sieges_cm": 23,
+      "sieges_cc": 2,
+      "nb_elus": 23,
+      "tete_de_liste": {
+        "nom": "LEMAITRE",
+        "prenom": "Jean-François",
+        "nom_complet": "Jean-François LEMAITRE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LEMAITRE",
+          "prenom": "Jean-François",
+          "nom_complet": "Jean-François LEMAITRE",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "CRETINOIR",
+          "prenom": "Carine",
+          "nom_complet": "Carine CRETINOIR",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "POUCHAIN",
+          "prenom": "Jean-Philippe",
+          "nom_complet": "Jean-Philippe POUCHAIN",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "MASCAUT",
+          "prenom": "Corinne",
+          "nom_complet": "Corinne MASCAUT",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "PARENT",
+          "prenom": "Jean-Claude",
+          "nom_complet": "Jean-Claude PARENT",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LECOMTE",
+          "prenom": "Marie-Hélène",
+          "nom_complet": "Marie-Hélène LECOMTE",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "COUVREUR",
+          "prenom": "Alain",
+          "nom_complet": "Alain COUVREUR",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "WOSKOWIAK",
+          "prenom": "Emma",
+          "nom_complet": "Emma WOSKOWIAK",
+          "sexe": "F",
+          "age": 26,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "WALLERAND",
+          "prenom": "Jean-Claude",
+          "nom_complet": "Jean-Claude WALLERAND",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "CHAMBRE",
+          "prenom": "Coralie",
+          "nom_complet": "Coralie CHAMBRE",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "VITRANT",
+          "prenom": "Dylan",
+          "nom_complet": "Dylan VITRANT",
+          "sexe": "M",
+          "age": 26,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "FROMENT",
+          "prenom": "Maryse",
+          "nom_complet": "Maryse FROMENT",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "HECQUET",
+          "prenom": "David",
+          "nom_complet": "David HECQUET",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "REDELBERGER",
+          "prenom": "Anne-Rosy",
+          "nom_complet": "Anne-Rosy REDELBERGER",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "BERTONI",
+          "prenom": "Stephan",
+          "nom_complet": "Stephan BERTONI",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "MARECAUX",
+          "prenom": "Anne-Laure",
+          "nom_complet": "Anne-Laure MARECAUX",
+          "sexe": "F",
+          "age": 31,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "LEMOINE",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe LEMOINE",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "ABDAOUI",
+          "prenom": "Jessica",
+          "nom_complet": "Jessica ABDAOUI",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "RAMEZ",
+          "prenom": "Moïse",
+          "nom_complet": "Moïse RAMEZ",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "PESANT",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie PESANT",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "MARTIN",
+          "prenom": "Jonathan",
+          "nom_complet": "Jonathan MARTIN",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "MERCIER",
+          "prenom": "Valérie",
+          "nom_complet": "Valérie MERCIER",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "CLOUET",
+          "prenom": "Denis",
+          "nom_complet": "Denis CLOUET",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "23"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "4",
+      "libelle_liste": "Feignies... de tout coeur !",
+      "libelle_abrege_liste": "Feignies... de tout coeur !",
+      "nuance_liste": "LDIV",
+      "voix": 814,
+      "pct_voix_exprimes": 31.48,
+      "sieges_cm": 4,
+      "sieges_cc": 1,
+      "nb_elus": 4,
+      "tete_de_liste": {
+        "nom": "LEDUC",
+        "prenom": "Patrick",
+        "nom_complet": "Patrick LEDUC",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LEDUC",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick LEDUC",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "GREGOIRE",
+          "prenom": "Danièla",
+          "nom_complet": "Danièla GREGOIRE",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LAVALLÉE",
+          "prenom": "Éric",
+          "nom_complet": "Éric LAVALLÉE",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "SKRJANC-RAGUSA",
+          "prenom": "Marie-Laure",
+          "nom_complet": "Marie-Laure SKRJANC-RAGUSA",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "4"
+        }
+      ],
+      "statut_conseil": "autre"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "Ensemble, redonnons vie à Feignies",
+      "libelle_abrege_liste": "Ensemble, redonnons vie à Feignies",
+      "nuance_liste": "LDIV",
+      "voix": 237,
+      "pct_voix_exprimes": 9.16,
+      "sieges_cm": 1,
+      "sieges_cc": 0,
+      "nb_elus": 1,
+      "tete_de_liste": {
+        "nom": "DEMEURE",
+        "prenom": "Stéphane",
+        "nom_complet": "Stéphane DEMEURE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DEMEURE",
+          "prenom": "Stéphane",
+          "nom_complet": "Stéphane DEMEURE",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "1"
+        }
+      ],
+      "statut_conseil": "autre"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Agir et batir pour Feignies",
+      "libelle_abrege_liste": "Agir et batir pour Feignies",
+      "nuance_liste": "LDIV",
+      "voix": 222,
+      "pct_voix_exprimes": 8.58,
+      "sieges_cm": 1,
+      "sieges_cc": 0,
+      "nb_elus": 1,
+      "tete_de_liste": {
+        "nom": "LECOMTE",
+        "prenom": "Patrick",
+        "nom_complet": "Patrick LECOMTE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LECOMTE",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick LECOMTE",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "1"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

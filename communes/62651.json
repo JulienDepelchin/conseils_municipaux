@@ -1,0 +1,131 @@
+{
+  "code_commune": "62651",
+  "commune": "Penin",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "THILLIEZ",
+    "prenom": "Christian",
+    "nom_complet": "Christian THILLIEZ",
+    "age": 72,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 342,
+    "votants": 222,
+    "pct_votants": 64.91,
+    "abstentions": 120,
+    "pct_abstentions": 35.09,
+    "exprimes": 167
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "LE BON SENS AU SERVICE DE NOTRE COMMUNE",
+      "libelle_abrege_liste": "LE BON SENS AU SERVICE DE NOTRE COMMUNE",
+      "nuance_liste": null,
+      "voix": 167,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "THILLIEZ",
+        "prenom": "Christian",
+        "nom_complet": "Christian THILLIEZ",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "THILLIEZ",
+          "prenom": "Christian",
+          "nom_complet": "Christian THILLIEZ",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "GRUCHOT",
+          "prenom": "Audrey",
+          "nom_complet": "Audrey GRUCHOT",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "TAVERNE",
+          "prenom": "Romain",
+          "nom_complet": "Romain TAVERNE",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "ROUSSEL",
+          "prenom": "Émilie",
+          "nom_complet": "Émilie ROUSSEL",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "BOUTIN",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe BOUTIN",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "WAMBERGUE",
+          "prenom": "Carole",
+          "nom_complet": "Carole WAMBERGUE",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "LEFEVRE",
+          "prenom": "Franck",
+          "nom_complet": "Franck LEFEVRE",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "VILLETTE",
+          "prenom": "Sandrine",
+          "nom_complet": "Sandrine VILLETTE",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DEVAUX",
+          "prenom": "Guillaume",
+          "nom_complet": "Guillaume DEVAUX",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "NOTTEBAERT",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique NOTTEBAERT",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "HANOT",
+          "prenom": "Michel",
+          "nom_complet": "Michel HANOT",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

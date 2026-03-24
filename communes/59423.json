@@ -1,0 +1,163 @@
+{
+  "code_commune": "59423",
+  "commune": "Neuf-Berquin",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "DASSONNEVILLE",
+    "prenom": "Samuel",
+    "nom_complet": "Samuel DASSONNEVILLE",
+    "age": 47,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1054,
+    "votants": 574,
+    "pct_votants": 54.46,
+    "abstentions": 480,
+    "pct_abstentions": 45.54,
+    "exprimes": 526
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Agir ensemble pour Neuf-Berquin",
+      "libelle_abrege_liste": "Agir ensemble pour Neuf-Berquin",
+      "nuance_liste": null,
+      "voix": 526,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": 1,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "DASSONNEVILLE",
+        "prenom": "Samuel",
+        "nom_complet": "Samuel DASSONNEVILLE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DASSONNEVILLE",
+          "prenom": "Samuel",
+          "nom_complet": "Samuel DASSONNEVILLE",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DELARRE",
+          "prenom": "Jacqueline",
+          "nom_complet": "Jacqueline DELARRE",
+          "sexe": "F",
+          "age": 74,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "PETITPREZ",
+          "prenom": "Sylvain",
+          "nom_complet": "Sylvain PETITPREZ",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BROUCQSAULT",
+          "prenom": "Patricia",
+          "nom_complet": "Patricia BROUCQSAULT",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "HELE",
+          "prenom": "Christian",
+          "nom_complet": "Christian HELE",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "HUCHETTE",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie HUCHETTE",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "MONNIER",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe MONNIER",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DAL-LAMOOT",
+          "prenom": "Virginie",
+          "nom_complet": "Virginie DAL-LAMOOT",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "HUREL",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe HUREL",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "FATRAS",
+          "prenom": "Corentine",
+          "nom_complet": "Corentine FATRAS",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "VANWILDERMEERSCH",
+          "prenom": "Manuel",
+          "nom_complet": "Manuel VANWILDERMEERSCH",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "THILLY",
+          "prenom": "Valérie",
+          "nom_complet": "Valérie THILLY",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "CATTEZ",
+          "prenom": "Pierre",
+          "nom_complet": "Pierre CATTEZ",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "BOURIEZ",
+          "prenom": "Maryline",
+          "nom_complet": "Maryline BOURIEZ",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "VALLART",
+          "prenom": "Thomas",
+          "nom_complet": "Thomas VALLART",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

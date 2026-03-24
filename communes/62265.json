@@ -1,0 +1,177 @@
+{
+  "code_commune": "62265",
+  "commune": "Delettes",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "WATELLE",
+    "prenom": "Gilles",
+    "nom_complet": "Gilles WATELLE",
+    "age": 68,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 849,
+    "votants": 734,
+    "pct_votants": 86.45,
+    "abstentions": 115,
+    "pct_abstentions": 13.55,
+    "exprimes": 327
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Unis et engagés pour notre village",
+      "libelle_abrege_liste": "Unis et engagés pour notre village",
+      "nuance_liste": null,
+      "voix": 327,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": 1,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "WATELLE",
+        "prenom": "Gilles",
+        "nom_complet": "Gilles WATELLE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "WATELLE",
+          "prenom": "Gilles",
+          "nom_complet": "Gilles WATELLE",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BLOT",
+          "prenom": "Marie-Ange",
+          "nom_complet": "Marie-Ange BLOT",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DELBÉ",
+          "prenom": "Fabrice",
+          "nom_complet": "Fabrice DELBÉ",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "FONTAINE",
+          "prenom": "Karine",
+          "nom_complet": "Karine FONTAINE",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "CARUYER",
+          "prenom": "Lionel",
+          "nom_complet": "Lionel CARUYER",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DELMOTTE",
+          "prenom": "Lucie",
+          "nom_complet": "Lucie DELMOTTE",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DUCROCQ",
+          "prenom": "Bernard",
+          "nom_complet": "Bernard DUCROCQ",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DOZINEL",
+          "prenom": "Margaux",
+          "nom_complet": "Margaux DOZINEL",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "NOEL",
+          "prenom": "Julien",
+          "nom_complet": "Julien NOEL",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "BAUWIN",
+          "prenom": "Pauline",
+          "nom_complet": "Pauline BAUWIN",
+          "sexe": "F",
+          "age": 31,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "LECOESTER",
+          "prenom": "Rémi",
+          "nom_complet": "Rémi LECOESTER",
+          "sexe": "M",
+          "age": 34,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "DEWAELE",
+          "prenom": "Cassandra",
+          "nom_complet": "Cassandra DEWAELE",
+          "sexe": "F",
+          "age": 31,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "BAYART",
+          "prenom": "Cédric",
+          "nom_complet": "Cédric BAYART",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "EVRARD",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie EVRARD",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "VARENNE",
+          "prenom": "Adrien",
+          "nom_complet": "Adrien VARENNE",
+          "sexe": "M",
+          "age": 26,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "\"Delettes avec vous\"",
+      "libelle_abrege_liste": "\"Delettes avec vous\"",
+      "nuance_liste": null,
+      "voix": 0,
+      "pct_voix_exprimes": 0,
+      "sieges_cm": 0,
+      "sieges_cc": 0,
+      "nb_elus": 0,
+      "tete_de_liste": null,
+      "elus": [],
+      "statut_conseil": "sans_elu"
+    }
+  ]
+}

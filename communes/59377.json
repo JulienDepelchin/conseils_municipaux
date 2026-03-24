@@ -1,0 +1,215 @@
+{
+  "code_commune": "59377",
+  "commune": "Marcoing",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "HEPNER",
+    "prenom": "Delphine",
+    "nom_complet": "Delphine HEPNER",
+    "age": 41,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1520,
+    "votants": 1090,
+    "pct_votants": 71.71,
+    "abstentions": 430,
+    "pct_abstentions": 28.29,
+    "exprimes": 1053
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "Marcoing, Ensemble pour demain",
+      "libelle_abrege_liste": "Marcoing, Ensemble pour demain",
+      "nuance_liste": null,
+      "voix": 598,
+      "pct_voix_exprimes": 56.79,
+      "sieges_cm": 15,
+      "sieges_cc": 1,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "HEPNER",
+        "prenom": "Delphine",
+        "nom_complet": "Delphine HEPNER",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "HEPNER",
+          "prenom": "Delphine",
+          "nom_complet": "Delphine HEPNER",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LAUDE",
+          "prenom": "Jean-Jacques",
+          "nom_complet": "Jean-Jacques LAUDE",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "GUINET",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie GUINET",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LENNE",
+          "prenom": "Thomas",
+          "nom_complet": "Thomas LENNE",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "MARIANI DUPLOUY",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle MARIANI DUPLOUY",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "VERHAEGHE",
+          "prenom": "Julien",
+          "nom_complet": "Julien VERHAEGHE",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "COQUART",
+          "prenom": "Audrey",
+          "nom_complet": "Audrey COQUART",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "CARRÉ",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric CARRÉ",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DELTOUR",
+          "prenom": "Marion",
+          "nom_complet": "Marion DELTOUR",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "MOREL",
+          "prenom": "Quentin",
+          "nom_complet": "Quentin MOREL",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "MOREL",
+          "prenom": "Ludivine",
+          "nom_complet": "Ludivine MOREL",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "BIGOT",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe BIGOT",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "CABANERO",
+          "prenom": "Céline",
+          "nom_complet": "Céline CABANERO",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "DESBONNET",
+          "prenom": "Albert-Marie",
+          "nom_complet": "Albert-Marie DESBONNET",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "BLANC-GARIN",
+          "prenom": "Magali",
+          "nom_complet": "Magali BLANC-GARIN",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "MARCOING AU COEUR",
+      "libelle_abrege_liste": "MARCOING AU COEUR",
+      "nuance_liste": null,
+      "voix": 455,
+      "pct_voix_exprimes": 43.21,
+      "sieges_cm": 4,
+      "sieges_cc": 0,
+      "nb_elus": 4,
+      "tete_de_liste": {
+        "nom": "DI PARDO",
+        "prenom": "Adrien",
+        "nom_complet": "Adrien DI PARDO",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DI PARDO",
+          "prenom": "Adrien",
+          "nom_complet": "Adrien DI PARDO",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "VERMEULEN",
+          "prenom": "Amélie",
+          "nom_complet": "Amélie VERMEULEN",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "HIELLE",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent HIELLE",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DELLAUX",
+          "prenom": "Héléne",
+          "nom_complet": "Héléne DELLAUX",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "4"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

@@ -1,0 +1,227 @@
+{
+  "code_commune": "62201",
+  "commune": "Camiers",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "CALLEWAERT",
+    "prenom": "Gaston",
+    "nom_complet": "Gaston CALLEWAERT",
+    "age": 65,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 2345,
+    "votants": 1244,
+    "pct_votants": 53.05,
+    "abstentions": 1101,
+    "pct_abstentions": 46.95,
+    "exprimes": 1044
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "L'EXPERIENCE ET LA JEUNESSE POUR DEMAIN !",
+      "libelle_abrege_liste": "L'EXPERIENCE ET LA JEUNESSE POUR DEMAIN !",
+      "nuance_liste": null,
+      "voix": 1044,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 23,
+      "sieges_cc": 2,
+      "nb_elus": 23,
+      "tete_de_liste": {
+        "nom": "CALLEWAERT",
+        "prenom": "Gaston",
+        "nom_complet": "Gaston CALLEWAERT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "CALLEWAERT",
+          "prenom": "Gaston",
+          "nom_complet": "Gaston CALLEWAERT",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DOIGNIES",
+          "prenom": "Gaelle",
+          "nom_complet": "Gaelle DOIGNIES",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "VEREZ",
+          "prenom": "Yannick",
+          "nom_complet": "Yannick VEREZ",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "SLOBODA",
+          "prenom": "Stephanie",
+          "nom_complet": "Stephanie SLOBODA",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LEROUGE",
+          "prenom": "Jeremy",
+          "nom_complet": "Jeremy LEROUGE",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LEFEVRE",
+          "prenom": "Viviane",
+          "nom_complet": "Viviane LEFEVRE",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DESCHARLES",
+          "prenom": "Cyrille",
+          "nom_complet": "Cyrille DESCHARLES",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "GOBERT",
+          "prenom": "Ludivine",
+          "nom_complet": "Ludivine GOBERT",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "RIDEZ",
+          "prenom": "Stephane",
+          "nom_complet": "Stephane RIDEZ",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DUCROCQ",
+          "prenom": "Damassine",
+          "nom_complet": "Damassine DUCROCQ",
+          "sexe": "F",
+          "age": 29,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "VARLET",
+          "prenom": "Dimitri",
+          "nom_complet": "Dimitri VARLET",
+          "sexe": "M",
+          "age": 29,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "FAIT",
+          "prenom": "Cindy",
+          "nom_complet": "Cindy FAIT",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "LANCIAL",
+          "prenom": "Enzo",
+          "nom_complet": "Enzo LANCIAL",
+          "sexe": "M",
+          "age": 24,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "DUPONT",
+          "prenom": "Laurence",
+          "nom_complet": "Laurence DUPONT",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "VERDIER",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas VERDIER",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "DUHAMEL",
+          "prenom": "Helene",
+          "nom_complet": "Helene DUHAMEL",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "PRUVOST",
+          "prenom": "Eric",
+          "nom_complet": "Eric PRUVOST",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "HERVET",
+          "prenom": "Tiphaine",
+          "nom_complet": "Tiphaine HERVET",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "CHRISTMANN",
+          "prenom": "Thomas",
+          "nom_complet": "Thomas CHRISTMANN",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "DENYS",
+          "prenom": "Celine",
+          "nom_complet": "Celine DENYS",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "BOUTOILLE",
+          "prenom": "Julien",
+          "nom_complet": "Julien BOUTOILLE",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "DERUY",
+          "prenom": "Elisa",
+          "nom_complet": "Elisa DERUY",
+          "sexe": "F",
+          "age": 26,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "LIGNIER",
+          "prenom": "Sebastien",
+          "nom_complet": "Sebastien LIGNIER",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "23"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "code_commune": "62308",
+  "commune": "Escoeuilles",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "LEROY",
+    "prenom": "Christian",
+    "nom_complet": "Christian LEROY",
+    "age": 60,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 382,
+    "votants": 250,
+    "pct_votants": 65.45,
+    "abstentions": 132,
+    "pct_abstentions": 34.55,
+    "exprimes": 218
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ESCOEUILLES, NOTRE VILLAGE",
+      "libelle_abrege_liste": "ESCOEUILLES, NOTRE VILLAGE",
+      "nuance_liste": null,
+      "voix": 218,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "LEROY",
+        "prenom": "Christian",
+        "nom_complet": "Christian LEROY",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LEROY",
+          "prenom": "Christian",
+          "nom_complet": "Christian LEROY",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "MACQUET",
+          "prenom": "Aurore",
+          "nom_complet": "Aurore MACQUET",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "HAVART",
+          "prenom": "Daniel",
+          "nom_complet": "Daniel HAVART",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DESOMBRE",
+          "prenom": "Céline",
+          "nom_complet": "Céline DESOMBRE",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "BAYARD",
+          "prenom": "David",
+          "nom_complet": "David BAYARD",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "FAUQUET",
+          "prenom": "Laëtitia",
+          "nom_complet": "Laëtitia FAUQUET",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BRIOUL",
+          "prenom": "Xavier",
+          "nom_complet": "Xavier BRIOUL",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DUSAUTOIR",
+          "prenom": "Valérie",
+          "nom_complet": "Valérie DUSAUTOIR",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "MAILLARD",
+          "prenom": "Gauthier",
+          "nom_complet": "Gauthier MAILLARD",
+          "sexe": "M",
+          "age": 32,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "COQUELLE",
+          "prenom": "Joannie",
+          "nom_complet": "Joannie COQUELLE",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DUMONT",
+          "prenom": "Alexandre",
+          "nom_complet": "Alexandre DUMONT",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

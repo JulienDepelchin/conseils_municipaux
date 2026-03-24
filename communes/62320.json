@@ -1,0 +1,131 @@
+{
+  "code_commune": "62320",
+  "commune": "Etrun",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "BAYART",
+    "prenom": "Didier",
+    "nom_complet": "Didier BAYART",
+    "age": 62,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 232,
+    "votants": 176,
+    "pct_votants": 75.86,
+    "abstentions": 56,
+    "pct_abstentions": 24.14,
+    "exprimes": 159
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "BIEN VIVRE A ETRUN",
+      "libelle_abrege_liste": "BIEN VIVRE A ETRUN",
+      "nuance_liste": null,
+      "voix": 159,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "BAYART",
+        "prenom": "Didier",
+        "nom_complet": "Didier BAYART",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BAYART",
+          "prenom": "Didier",
+          "nom_complet": "Didier BAYART",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BAILLEUL",
+          "prenom": "Fanny",
+          "nom_complet": "Fanny BAILLEUL",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "VASSEUR",
+          "prenom": "Damien",
+          "nom_complet": "Damien VASSEUR",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "FINET",
+          "prenom": "Marjorie",
+          "nom_complet": "Marjorie FINET",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DURTESTE",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick DURTESTE",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "GRIFFART",
+          "prenom": "Maïté",
+          "nom_complet": "Maïté GRIFFART",
+          "sexe": "F",
+          "age": 33,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BUISINE",
+          "prenom": "Jonathan",
+          "nom_complet": "Jonathan BUISINE",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LEGRAND",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle LEGRAND",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "THERET",
+          "prenom": "Pierre-Yves",
+          "nom_complet": "Pierre-Yves THERET",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "COUSIN",
+          "prenom": "Geneviève",
+          "nom_complet": "Geneviève COUSIN",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "GAROT",
+          "prenom": "Matthias",
+          "nom_complet": "Matthias GAROT",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

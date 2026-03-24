@@ -1,0 +1,227 @@
+{
+  "code_commune": "59330",
+  "commune": "Landas",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "DAUCHY",
+    "prenom": "Jean-Louis",
+    "nom_complet": "Jean-Louis DAUCHY",
+    "age": 67,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 2177,
+    "votants": 1136,
+    "pct_votants": 52.18,
+    "abstentions": 1041,
+    "pct_abstentions": 47.82,
+    "exprimes": 924
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Landas'venir",
+      "libelle_abrege_liste": "Landas'venir",
+      "nuance_liste": null,
+      "voix": 924,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 23,
+      "sieges_cc": 1,
+      "nb_elus": 23,
+      "tete_de_liste": {
+        "nom": "DAUCHY",
+        "prenom": "Jean-Louis",
+        "nom_complet": "Jean-Louis DAUCHY",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DAUCHY",
+          "prenom": "Jean-Louis",
+          "nom_complet": "Jean-Louis DAUCHY",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DUHEM",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie DUHEM",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "EGEA",
+          "prenom": "Roberto",
+          "nom_complet": "Roberto EGEA",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "COULON",
+          "prenom": "Pascale",
+          "nom_complet": "Pascale COULON",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LEROY",
+          "prenom": "Denis",
+          "nom_complet": "Denis LEROY",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DECOURTRAY",
+          "prenom": "Chrysoline",
+          "nom_complet": "Chrysoline DECOURTRAY",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DUPIRE",
+          "prenom": "François",
+          "nom_complet": "François DUPIRE",
+          "sexe": "M",
+          "age": 76,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "BOUDART D'HERBOMEZ",
+          "prenom": "Caroline",
+          "nom_complet": "Caroline BOUDART D'HERBOMEZ",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DELMOTTE",
+          "prenom": "Regis",
+          "nom_complet": "Regis DELMOTTE",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "GEITER",
+          "prenom": "Claire",
+          "nom_complet": "Claire GEITER",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DELOBELLE",
+          "prenom": "François",
+          "nom_complet": "François DELOBELLE",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "DESCAMPS",
+          "prenom": "Myriam",
+          "nom_complet": "Myriam DESCAMPS",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "PALICOT",
+          "prenom": "Thomas",
+          "nom_complet": "Thomas PALICOT",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "BERNHARD",
+          "prenom": "Zélie",
+          "nom_complet": "Zélie BERNHARD",
+          "sexe": "F",
+          "age": 20,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "LEDENT",
+          "prenom": "Mickael",
+          "nom_complet": "Mickael LEDENT",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "LEMAITRE",
+          "prenom": "Bérénice",
+          "nom_complet": "Bérénice LEMAITRE",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "LEPOUTRE",
+          "prenom": "Hervé",
+          "nom_complet": "Hervé LEPOUTRE",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "DUCORNEY",
+          "prenom": "Nadège",
+          "nom_complet": "Nadège DUCORNEY",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "DUTCZYN",
+          "prenom": "Stéphane",
+          "nom_complet": "Stéphane DUTCZYN",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "MENU HESPEL",
+          "prenom": "Solveig",
+          "nom_complet": "Solveig MENU HESPEL",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "DUPIRE",
+          "prenom": "Phillippe",
+          "nom_complet": "Phillippe DUPIRE",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "DUPONT",
+          "prenom": "Valérie",
+          "nom_complet": "Valérie DUPONT",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "DELPLANQUE",
+          "prenom": "Benjamin",
+          "nom_complet": "Benjamin DELPLANQUE",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "23"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

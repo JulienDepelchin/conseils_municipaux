@@ -1,0 +1,309 @@
+{
+  "code_commune": "59653",
+  "commune": "Wavrin",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "BLONDEAU",
+    "prenom": "Alain",
+    "nom_complet": "Alain BLONDEAU",
+    "age": 62,
+    "nuance": "LDVD"
+  },
+  "resultats": {
+    "inscrits": 6130,
+    "votants": 3436,
+    "pct_votants": 56.05,
+    "abstentions": 2694,
+    "pct_abstentions": 43.95,
+    "exprimes": 3275
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "UPLC (union pour la continuité)",
+      "libelle_abrege_liste": "UPLC",
+      "nuance_liste": "LDVD",
+      "voix": 2653,
+      "pct_voix_exprimes": 81.01,
+      "sieges_cm": 27,
+      "sieges_cc": 1,
+      "nb_elus": 27,
+      "tete_de_liste": {
+        "nom": "BLONDEAU",
+        "prenom": "Alain",
+        "nom_complet": "Alain BLONDEAU",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BLONDEAU",
+          "prenom": "Alain",
+          "nom_complet": "Alain BLONDEAU",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "PLANCQ",
+          "prenom": "Carmen",
+          "nom_complet": "Carmen PLANCQ",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DUTOIT",
+          "prenom": "Jean-Michel",
+          "nom_complet": "Jean-Michel DUTOIT",
+          "sexe": "M",
+          "age": 77,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LAMBRAY",
+          "prenom": "Cecile",
+          "nom_complet": "Cecile LAMBRAY",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "EQUINE",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe EQUINE",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "CARY",
+          "prenom": "Therese",
+          "nom_complet": "Therese CARY",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BALZANO",
+          "prenom": "Sylvain",
+          "nom_complet": "Sylvain BALZANO",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DUMOULIN",
+          "prenom": "Audrey",
+          "nom_complet": "Audrey DUMOULIN",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DE WAZIERES",
+          "prenom": "Cyril",
+          "nom_complet": "Cyril DE WAZIERES",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "JONVILLE",
+          "prenom": "Regine",
+          "nom_complet": "Regine JONVILLE",
+          "sexe": "F",
+          "age": 77,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DURAND",
+          "prenom": "Bernard",
+          "nom_complet": "Bernard DURAND",
+          "sexe": "M",
+          "age": 78,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "DUQUESNE",
+          "prenom": "Christine",
+          "nom_complet": "Christine DUQUESNE",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "BOURGOIS",
+          "prenom": "Vincent",
+          "nom_complet": "Vincent BOURGOIS",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "HUIZINGA",
+          "prenom": "Martine",
+          "nom_complet": "Martine HUIZINGA",
+          "sexe": "F",
+          "age": 72,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "TURPIN",
+          "prenom": "Patrice",
+          "nom_complet": "Patrice TURPIN",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "LOMBART",
+          "prenom": "Muriel",
+          "nom_complet": "Muriel LOMBART",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "COMPERNOLLE",
+          "prenom": "Guillaume",
+          "nom_complet": "Guillaume COMPERNOLLE",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "PIRET",
+          "prenom": "Annick",
+          "nom_complet": "Annick PIRET",
+          "sexe": "F",
+          "age": 74,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "DESCAMPS",
+          "prenom": "Jean-Yves",
+          "nom_complet": "Jean-Yves DESCAMPS",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "GÉLY",
+          "prenom": "Melissa",
+          "nom_complet": "Melissa GÉLY",
+          "sexe": "F",
+          "age": 30,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "GODSENS",
+          "prenom": "Claude",
+          "nom_complet": "Claude GODSENS",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "SANSSE",
+          "prenom": "Elisabeth",
+          "nom_complet": "Elisabeth SANSSE",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "CRACCO",
+          "prenom": "Stephane",
+          "nom_complet": "Stephane CRACCO",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "23"
+        },
+        {
+          "nom": "CLAVET",
+          "prenom": "Celine",
+          "nom_complet": "Celine CLAVET",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "24"
+        },
+        {
+          "nom": "BLANPAIN",
+          "prenom": "Didier",
+          "nom_complet": "Didier BLANPAIN",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "25"
+        },
+        {
+          "nom": "TOTTEL",
+          "prenom": "Sabine",
+          "nom_complet": "Sabine TOTTEL",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "26"
+        },
+        {
+          "nom": "VANHEY",
+          "prenom": "Patrice",
+          "nom_complet": "Patrice VANHEY",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "27"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ECOUTE ACTIONS WAVRIN",
+      "libelle_abrege_liste": "ECOUTE ACTIONS WAVRIN",
+      "nuance_liste": "LDVC",
+      "voix": 448,
+      "pct_voix_exprimes": 13.68,
+      "sieges_cm": 2,
+      "sieges_cc": 0,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "SELOSSE",
+        "prenom": "Laurence Paule Nicole",
+        "nom_complet": "Laurence Paule Nicole SELOSSE",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "SELOSSE",
+          "prenom": "Laurence Paule Nicole",
+          "nom_complet": "Laurence Paule Nicole SELOSSE",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "COURIER",
+          "prenom": "Thierry",
+          "nom_complet": "Thierry COURIER",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    },
+    {
+      "num_panneau": "3",
+      "libelle_liste": "Vos idées, nos idées ensemble pour Wavrin",
+      "libelle_abrege_liste": "VINIEPW",
+      "nuance_liste": "LDVD",
+      "voix": 174,
+      "pct_voix_exprimes": 5.31,
+      "sieges_cm": 0,
+      "sieges_cc": 0,
+      "nb_elus": 0,
+      "tete_de_liste": null,
+      "elus": [],
+      "statut_conseil": "sans_elu"
+    }
+  ]
+}

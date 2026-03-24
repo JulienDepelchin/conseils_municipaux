@@ -1,0 +1,183 @@
+{
+  "code_commune": "62177",
+  "commune": "Brimeux",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "MANESSE",
+    "prenom": "Jean-Claude",
+    "nom_complet": "Jean-Claude MANESSE",
+    "age": 66,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 681,
+    "votants": 531,
+    "pct_votants": 77.97,
+    "abstentions": 150,
+    "pct_abstentions": 22.03,
+    "exprimes": 505
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "TOUS UNIS POUR BRIMEUX",
+      "libelle_abrege_liste": "TOUS UNIS POUR BRIMEUX",
+      "nuance_liste": null,
+      "voix": 363,
+      "pct_voix_exprimes": 71.88,
+      "sieges_cm": 13,
+      "sieges_cc": null,
+      "nb_elus": 13,
+      "tete_de_liste": {
+        "nom": "MANESSE",
+        "prenom": "Jean-Claude",
+        "nom_complet": "Jean-Claude MANESSE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "MANESSE",
+          "prenom": "Jean-Claude",
+          "nom_complet": "Jean-Claude MANESSE",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "ELOY",
+          "prenom": "Patricia",
+          "nom_complet": "Patricia ELOY",
+          "sexe": "F",
+          "age": 75,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "CORNUEL",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas CORNUEL",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "THUILLIERS",
+          "prenom": "Sandrine",
+          "nom_complet": "Sandrine THUILLIERS",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "GOSSELIN",
+          "prenom": "Jeremy",
+          "nom_complet": "Jeremy GOSSELIN",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LEPRETRE",
+          "prenom": "Delphine",
+          "nom_complet": "Delphine LEPRETRE",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "FROMENTIN",
+          "prenom": "Claude",
+          "nom_complet": "Claude FROMENTIN",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "RINGARD",
+          "prenom": "Denise",
+          "nom_complet": "Denise RINGARD",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "MANESSE",
+          "prenom": "Florent",
+          "nom_complet": "Florent MANESSE",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "BELFANTI",
+          "prenom": "Laurence",
+          "nom_complet": "Laurence BELFANTI",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "FRANCOIS",
+          "prenom": "Romain",
+          "nom_complet": "Romain FRANCOIS",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "GOBERT",
+          "prenom": "Helene",
+          "nom_complet": "Helene GOBERT",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "SAMMARCELLI",
+          "prenom": "Maurice",
+          "nom_complet": "Maurice SAMMARCELLI",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "13"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "BRIMEUX, un avenir qui nous rassemble",
+      "libelle_abrege_liste": "BRIMEUX, un avenir qui nous rassemble",
+      "nuance_liste": null,
+      "voix": 142,
+      "pct_voix_exprimes": 28.12,
+      "sieges_cm": 2,
+      "sieges_cc": null,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "ARNILLAS",
+        "prenom": "Patrick",
+        "nom_complet": "Patrick ARNILLAS",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "ARNILLAS",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick ARNILLAS",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LEBORGNE",
+          "prenom": "Delphine",
+          "nom_complet": "Delphine LEBORGNE",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

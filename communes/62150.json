@@ -1,0 +1,163 @@
+{
+  "code_commune": "62150",
+  "commune": "Boisjean",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "DOUAY",
+    "prenom": "François",
+    "nom_complet": "François DOUAY",
+    "age": 38,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 430,
+    "votants": 343,
+    "pct_votants": 79.77,
+    "abstentions": 87,
+    "pct_abstentions": 20.23,
+    "exprimes": 301
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "BIEN VIVRE A BOIS-JEAN",
+      "libelle_abrege_liste": "BIEN VIVRE A BOIS-JEAN",
+      "nuance_liste": null,
+      "voix": 301,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "DOUAY",
+        "prenom": "François",
+        "nom_complet": "François DOUAY",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DOUAY",
+          "prenom": "François",
+          "nom_complet": "François DOUAY",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LHERBIER",
+          "prenom": "Delphine",
+          "nom_complet": "Delphine LHERBIER",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "ROUSSEL",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas ROUSSEL",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BLART",
+          "prenom": "Véronique",
+          "nom_complet": "Véronique BLART",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "CROMBEZ",
+          "prenom": "Julien",
+          "nom_complet": "Julien CROMBEZ",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "SAUVAGE",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle SAUVAGE",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "GREMONT",
+          "prenom": "Ludovic",
+          "nom_complet": "Ludovic GREMONT",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "FIEVEZ",
+          "prenom": "Lauren",
+          "nom_complet": "Lauren FIEVEZ",
+          "sexe": "F",
+          "age": 33,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "LEFEBVRE",
+          "prenom": "Julien",
+          "nom_complet": "Julien LEFEBVRE",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "FOIRATIER",
+          "prenom": "Laura",
+          "nom_complet": "Laura FOIRATIER",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "BARDOL",
+          "prenom": "Lucas",
+          "nom_complet": "Lucas BARDOL",
+          "sexe": "M",
+          "age": 31,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "HAULLEVILLE",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie HAULLEVILLE",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "HURTEL",
+          "prenom": "Julien",
+          "nom_complet": "Julien HURTEL",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "MARETTE",
+          "prenom": "Audrey",
+          "nom_complet": "Audrey MARETTE",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "DUFOUR",
+          "prenom": "Mathieu",
+          "nom_complet": "Mathieu DUFOUR",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

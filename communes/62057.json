@@ -1,0 +1,315 @@
+{
+  "code_commune": "62057",
+  "commune": "Audruicq",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "PLANQUE",
+    "prenom": "Olivier",
+    "nom_complet": "Olivier PLANQUE",
+    "age": 52,
+    "nuance": "LDVD"
+  },
+  "resultats": {
+    "inscrits": 4063,
+    "votants": 2996,
+    "pct_votants": 73.74,
+    "abstentions": 1067,
+    "pct_abstentions": 26.26,
+    "exprimes": 2965
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Fiers d'être Audruicquois",
+      "libelle_abrege_liste": "Fiers d'être Audruicquois",
+      "nuance_liste": "LDVD",
+      "voix": 1954,
+      "pct_voix_exprimes": 65.9,
+      "sieges_cm": 25,
+      "sieges_cc": 6,
+      "nb_elus": 25,
+      "tete_de_liste": {
+        "nom": "PLANQUE",
+        "prenom": "Olivier",
+        "nom_complet": "Olivier PLANQUE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "PLANQUE",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier PLANQUE",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BOURGOIS",
+          "prenom": "Catherine",
+          "nom_complet": "Catherine BOURGOIS",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "COLIN",
+          "prenom": "Pierre",
+          "nom_complet": "Pierre COLIN",
+          "sexe": "M",
+          "age": 32,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "CHEVALIER",
+          "prenom": "Nicole",
+          "nom_complet": "Nicole CHEVALIER",
+          "sexe": "F",
+          "age": 77,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "SOUPE",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent SOUPE",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "GARENAUX",
+          "prenom": "Laurence",
+          "nom_complet": "Laurence GARENAUX",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "CAMUS",
+          "prenom": "Mario",
+          "nom_complet": "Mario CAMUS",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "GARENEAUX",
+          "prenom": "Virginie",
+          "nom_complet": "Virginie GARENEAUX",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "COOLEN",
+          "prenom": "Thierry",
+          "nom_complet": "Thierry COOLEN",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "FONTAINE",
+          "prenom": "Caroline",
+          "nom_complet": "Caroline FONTAINE",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DEWET",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe DEWET",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "VARENNE",
+          "prenom": "Sophie",
+          "nom_complet": "Sophie VARENNE",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "FASQUEL",
+          "prenom": "Quentin",
+          "nom_complet": "Quentin FASQUEL",
+          "sexe": "M",
+          "age": 28,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "BEUGNIES",
+          "prenom": "Coralie",
+          "nom_complet": "Coralie BEUGNIES",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "FORATIER",
+          "prenom": "Jérémy",
+          "nom_complet": "Jérémy FORATIER",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "WULLENS",
+          "prenom": "Nadine",
+          "nom_complet": "Nadine WULLENS",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "VERSCHEURE",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique VERSCHEURE",
+          "sexe": "M",
+          "age": 74,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "DOYER",
+          "prenom": "Marie-Claude",
+          "nom_complet": "Marie-Claude DOYER",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "FONTAINE",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier FONTAINE",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "HERBERT",
+          "prenom": "Emilie",
+          "nom_complet": "Emilie HERBERT",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "LEGRAND",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas LEGRAND",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "VERSCHEURE",
+          "prenom": "Anita",
+          "nom_complet": "Anita VERSCHEURE",
+          "sexe": "F",
+          "age": 72,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "LEURS",
+          "prenom": "Oscar",
+          "nom_complet": "Oscar LEURS",
+          "sexe": "M",
+          "age": 21,
+          "rang_liste": "23"
+        },
+        {
+          "nom": "DUVIVIER",
+          "prenom": "Véronique",
+          "nom_complet": "Véronique DUVIVIER",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "24"
+        },
+        {
+          "nom": "BRUDER",
+          "prenom": "Arnaud",
+          "nom_complet": "Arnaud BRUDER",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "25"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "3",
+      "libelle_liste": "Audruicq autrement",
+      "libelle_abrege_liste": "Audruicq autrement",
+      "nuance_liste": "LRN",
+      "voix": 569,
+      "pct_voix_exprimes": 19.19,
+      "sieges_cm": 2,
+      "sieges_cc": 0,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "LEDOUX",
+        "prenom": "Laurent",
+        "nom_complet": "Laurent LEDOUX",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LEDOUX",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent LEDOUX",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LESPLULIER",
+          "prenom": "Murielle",
+          "nom_complet": "Murielle LESPLULIER",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "Audruicq avec vous",
+      "libelle_abrege_liste": "Audruicq avec vous",
+      "nuance_liste": "LDVG",
+      "voix": 442,
+      "pct_voix_exprimes": 14.91,
+      "sieges_cm": 2,
+      "sieges_cc": 0,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "LOUCHEZ",
+        "prenom": "Jean-Marie",
+        "nom_complet": "Jean-Marie LOUCHEZ",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LOUCHEZ",
+          "prenom": "Jean-Marie",
+          "nom_complet": "Jean-Marie LOUCHEZ",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "RYCKELYNCK",
+          "prenom": "Bénédicte",
+          "nom_complet": "Bénédicte RYCKELYNCK",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

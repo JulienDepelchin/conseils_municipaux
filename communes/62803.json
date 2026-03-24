@@ -1,0 +1,147 @@
+{
+  "code_commune": "62803",
+  "commune": "Surques",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "TAVERNE",
+    "prenom": "Marie-Hélène",
+    "nom_complet": "Marie-Hélène TAVERNE",
+    "age": 75,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 459,
+    "votants": 282,
+    "pct_votants": 61.44,
+    "abstentions": 177,
+    "pct_abstentions": 38.56,
+    "exprimes": 171
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Ensemble pour Surques",
+      "libelle_abrege_liste": "Ensemble pour Surques",
+      "nuance_liste": null,
+      "voix": 171,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 13,
+      "sieges_cc": null,
+      "nb_elus": 13,
+      "tete_de_liste": {
+        "nom": "TAVERNE",
+        "prenom": "Marie-Hélène",
+        "nom_complet": "Marie-Hélène TAVERNE",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "TAVERNE",
+          "prenom": "Marie-Hélène",
+          "nom_complet": "Marie-Hélène TAVERNE",
+          "sexe": "F",
+          "age": 75,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "CAZIN",
+          "prenom": "Bernard",
+          "nom_complet": "Bernard CAZIN",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "GOUDALIEZ",
+          "prenom": "Marie",
+          "nom_complet": "Marie GOUDALIEZ",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DUQUENOY",
+          "prenom": "Vincent",
+          "nom_complet": "Vincent DUQUENOY",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "FOVET",
+          "prenom": "Estelle",
+          "nom_complet": "Estelle FOVET",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "CAZIN",
+          "prenom": "Rémi",
+          "nom_complet": "Rémi CAZIN",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "MERLAND",
+          "prenom": "Alice",
+          "nom_complet": "Alice MERLAND",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "AGEZ",
+          "prenom": "Jonathan",
+          "nom_complet": "Jonathan AGEZ",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "MALBAUT",
+          "prenom": "Dorine",
+          "nom_complet": "Dorine MALBAUT",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DEFIENNES",
+          "prenom": "Dany",
+          "nom_complet": "Dany DEFIENNES",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "FOURNIER",
+          "prenom": "Céline",
+          "nom_complet": "Céline FOURNIER",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "DESOMBRE",
+          "prenom": "Aurélien",
+          "nom_complet": "Aurélien DESOMBRE",
+          "sexe": "M",
+          "age": 30,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "BREMONT",
+          "prenom": "Christiane",
+          "nom_complet": "Christiane BREMONT",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "13"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

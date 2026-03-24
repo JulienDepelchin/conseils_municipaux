@@ -1,0 +1,299 @@
+{
+  "code_commune": "62019",
+  "commune": "Aix-Noulette",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "MOULIN",
+    "prenom": "Tony",
+    "nom_complet": "Tony MOULIN",
+    "age": 48,
+    "nuance": "LDVG"
+  },
+  "resultats": {
+    "inscrits": 3023,
+    "votants": 2067,
+    "pct_votants": 68.38,
+    "abstentions": 956,
+    "pct_abstentions": 31.62,
+    "exprimes": 1988
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "J'AIME AIX-NOULETTE",
+      "libelle_abrege_liste": "J'AIME AIX-NOULETTE",
+      "nuance_liste": "LDVG",
+      "voix": 1077,
+      "pct_voix_exprimes": 54.18,
+      "sieges_cm": 22,
+      "sieges_cc": 2,
+      "nb_elus": 22,
+      "tete_de_liste": {
+        "nom": "MOULIN",
+        "prenom": "Tony",
+        "nom_complet": "Tony MOULIN",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "MOULIN",
+          "prenom": "Tony",
+          "nom_complet": "Tony MOULIN",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "MICHEL",
+          "prenom": "Karine",
+          "nom_complet": "Karine MICHEL",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "MONPAYS",
+          "prenom": "Dany",
+          "nom_complet": "Dany MONPAYS",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DZIUDZIA",
+          "prenom": "Marie-Christine",
+          "nom_complet": "Marie-Christine DZIUDZIA",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "COOLEN",
+          "prenom": "Dany",
+          "nom_complet": "Dany COOLEN",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "MARTIN",
+          "prenom": "Alize",
+          "nom_complet": "Alize MARTIN",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BRAEMS",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe BRAEMS",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "NASKRET",
+          "prenom": "Valerie",
+          "nom_complet": "Valerie NASKRET",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "GODESENCE",
+          "prenom": "Augustin",
+          "nom_complet": "Augustin GODESENCE",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "ROSZAK",
+          "prenom": "Christine",
+          "nom_complet": "Christine ROSZAK",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "KOWALSKI",
+          "prenom": "Jean-Michel",
+          "nom_complet": "Jean-Michel KOWALSKI",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "JACQUART",
+          "prenom": "Margot",
+          "nom_complet": "Margot JACQUART",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "DUDZIK",
+          "prenom": "Bastien",
+          "nom_complet": "Bastien DUDZIK",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "CATTEAU",
+          "prenom": "Laurence",
+          "nom_complet": "Laurence CATTEAU",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "HUBERT",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier HUBERT",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "DUMEZ",
+          "prenom": "Helene",
+          "nom_complet": "Helene DUMEZ",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "DEMEY",
+          "prenom": "Jean-Gabriel",
+          "nom_complet": "Jean-Gabriel DEMEY",
+          "sexe": "M",
+          "age": 74,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "SANTOS",
+          "prenom": "Magnolia",
+          "nom_complet": "Magnolia SANTOS",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "ALVES-DIAS",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent ALVES-DIAS",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "HERENGUEL",
+          "prenom": "Marie-France",
+          "nom_complet": "Marie-France HERENGUEL",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "DELRUE",
+          "prenom": "Fabrice",
+          "nom_complet": "Fabrice DELRUE",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "HARDY",
+          "prenom": "Emilie",
+          "nom_complet": "Emilie HARDY",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "22"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "3",
+      "libelle_liste": "NOUVEAU DEPART POUR AIX NOULETTE",
+      "libelle_abrege_liste": "NOUVEAU DEPART POUR AIX NOULETTE",
+      "nuance_liste": "LDVG",
+      "voix": 671,
+      "pct_voix_exprimes": 33.75,
+      "sieges_cm": 4,
+      "sieges_cc": 0,
+      "nb_elus": 4,
+      "tete_de_liste": {
+        "nom": "DEBONNE",
+        "prenom": "Gerard",
+        "nom_complet": "Gerard DEBONNE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DEBONNE",
+          "prenom": "Gerard",
+          "nom_complet": "Gerard DEBONNE",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "TILLOY",
+          "prenom": "Brigitte",
+          "nom_complet": "Brigitte TILLOY",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BAR",
+          "prenom": "Michael",
+          "nom_complet": "Michael BAR",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "CORNET",
+          "prenom": "Aurélie",
+          "nom_complet": "Aurélie CORNET",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "4"
+        }
+      ],
+      "statut_conseil": "autre"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "AIX-NOULETTE AVEC VOUS",
+      "libelle_abrege_liste": "AIX-NOULETTE AVEC VOUS",
+      "nuance_liste": "LDVD",
+      "voix": 240,
+      "pct_voix_exprimes": 12.07,
+      "sieges_cm": 1,
+      "sieges_cc": 0,
+      "nb_elus": 1,
+      "tete_de_liste": {
+        "nom": "RAMDANI",
+        "prenom": "Nesrédine",
+        "nom_complet": "Nesrédine RAMDANI",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "RAMDANI",
+          "prenom": "Nesrédine",
+          "nom_complet": "Nesrédine RAMDANI",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "1"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

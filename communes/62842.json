@@ -1,0 +1,295 @@
+{
+  "code_commune": "62842",
+  "commune": "Vendin-le-Vieil",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "GAMBIEZ",
+    "prenom": "Ludovic",
+    "nom_complet": "Ludovic GAMBIEZ",
+    "age": 48,
+    "nuance": "LDVG"
+  },
+  "resultats": {
+    "inscrits": 5851,
+    "votants": 3269,
+    "pct_votants": 55.87,
+    "abstentions": 2582,
+    "pct_abstentions": 44.13,
+    "exprimes": 3172
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "CAP 2026 - CONTINUONS AVEC VOUS POUR VENDIN LE VIEIL",
+      "libelle_abrege_liste": "CAP 2026 - CONTINUONS AVEC VOUS POUR VENDIN LE VIEIL",
+      "nuance_liste": "LDVG",
+      "voix": 2201,
+      "pct_voix_exprimes": 69.39,
+      "sieges_cm": 25,
+      "sieges_cc": 3,
+      "nb_elus": 25,
+      "tete_de_liste": {
+        "nom": "GAMBIEZ",
+        "prenom": "Ludovic",
+        "nom_complet": "Ludovic GAMBIEZ",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "GAMBIEZ",
+          "prenom": "Ludovic",
+          "nom_complet": "Ludovic GAMBIEZ",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BANAS",
+          "prenom": "Carine",
+          "nom_complet": "Carine BANAS",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "OGEZ",
+          "prenom": "Sébastien",
+          "nom_complet": "Sébastien OGEZ",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "SIERLEJA",
+          "prenom": "Cécile",
+          "nom_complet": "Cécile SIERLEJA",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "HERINGUEZ",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno HERINGUEZ",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LAOUR",
+          "prenom": "Clarisse",
+          "nom_complet": "Clarisse LAOUR",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "POLCZYK",
+          "prenom": "Dimitri",
+          "nom_complet": "Dimitri POLCZYK",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "HOUZIAUX - BOUSCH",
+          "prenom": "Corinne",
+          "nom_complet": "Corinne HOUZIAUX - BOUSCH",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DUTHOIT",
+          "prenom": "Patrice",
+          "nom_complet": "Patrice DUTHOIT",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "MACHU SOUMILLON",
+          "prenom": "Marjorie",
+          "nom_complet": "Marjorie MACHU SOUMILLON",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "HEMERY",
+          "prenom": "Jérôme",
+          "nom_complet": "Jérôme HEMERY",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "LEROY",
+          "prenom": "Véronique",
+          "nom_complet": "Véronique LEROY",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "BILLET",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe BILLET",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "SALOME GHIGNET",
+          "prenom": "Cathy",
+          "nom_complet": "Cathy SALOME GHIGNET",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "LESTIENNE",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno LESTIENNE",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "BRAY",
+          "prenom": "Elodie",
+          "nom_complet": "Elodie BRAY",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "THUILLIEZ",
+          "prenom": "Jérôme",
+          "nom_complet": "Jérôme THUILLIEZ",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "VAN BEVER DEMAILLY",
+          "prenom": "Virginie",
+          "nom_complet": "Virginie VAN BEVER DEMAILLY",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "MORAND",
+          "prenom": "Stives",
+          "nom_complet": "Stives MORAND",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "DALEBA HOLLANDER",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie DALEBA HOLLANDER",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "BALLART",
+          "prenom": "Xavier",
+          "nom_complet": "Xavier BALLART",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "CALIBRE BOGACZYK",
+          "prenom": "Marielle",
+          "nom_complet": "Marielle CALIBRE BOGACZYK",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "DUTKIEWICZ",
+          "prenom": "Jean-Marie",
+          "nom_complet": "Jean-Marie DUTKIEWICZ",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "23"
+        },
+        {
+          "nom": "PONTIE",
+          "prenom": "Martine",
+          "nom_complet": "Martine PONTIE",
+          "sexe": "F",
+          "age": 70,
+          "rang_liste": "24"
+        },
+        {
+          "nom": "D'ALMEIDA",
+          "prenom": "Maxence",
+          "nom_complet": "Maxence D'ALMEIDA",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "25"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "VOUS NOUS VENDIN",
+      "libelle_abrege_liste": "VOUS NOUS VENDIN",
+      "nuance_liste": "LDIV",
+      "voix": 971,
+      "pct_voix_exprimes": 30.61,
+      "sieges_cm": 4,
+      "sieges_cc": 0,
+      "nb_elus": 4,
+      "tete_de_liste": {
+        "nom": "GODART",
+        "prenom": "Jean-Noël",
+        "nom_complet": "Jean-Noël GODART",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "GODART",
+          "prenom": "Jean-Noël",
+          "nom_complet": "Jean-Noël GODART",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "MEDJBEUR",
+          "prenom": "Clelya",
+          "nom_complet": "Clelya MEDJBEUR",
+          "sexe": "F",
+          "age": 32,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DRELON",
+          "prenom": "David",
+          "nom_complet": "David DRELON",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "MACKOWIAK",
+          "prenom": "Martine",
+          "nom_complet": "Martine MACKOWIAK",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "4"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

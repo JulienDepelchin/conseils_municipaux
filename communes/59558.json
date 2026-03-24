@@ -1,0 +1,215 @@
+{
+  "code_commune": "59558",
+  "commune": "Saulzoir",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "XHAUFLAIR",
+    "prenom": "Gilbert",
+    "nom_complet": "Gilbert XHAUFLAIR",
+    "age": 70,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1302,
+    "votants": 877,
+    "pct_votants": 67.36,
+    "abstentions": 425,
+    "pct_abstentions": 32.64,
+    "exprimes": 848
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "AGIR AUJOURD'HUI, RÉUSSIR DEMAIN",
+      "libelle_abrege_liste": "AGIR AUJOURD'HUI, RÉUSSIR DEMAIN",
+      "nuance_liste": null,
+      "voix": 531,
+      "pct_voix_exprimes": 62.62,
+      "sieges_cm": 16,
+      "sieges_cc": 2,
+      "nb_elus": 16,
+      "tete_de_liste": {
+        "nom": "XHAUFLAIR",
+        "prenom": "Gilbert",
+        "nom_complet": "Gilbert XHAUFLAIR",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "XHAUFLAIR",
+          "prenom": "Gilbert",
+          "nom_complet": "Gilbert XHAUFLAIR",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "MERIAUX",
+          "prenom": "Roselyne",
+          "nom_complet": "Roselyne MERIAUX",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "GARDIN",
+          "prenom": "Jean-Christophe",
+          "nom_complet": "Jean-Christophe GARDIN",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "SEMAILLE",
+          "prenom": "Delphine",
+          "nom_complet": "Delphine SEMAILLE",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "PONTOIS",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric PONTOIS",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DÉTRIVIÈRE",
+          "prenom": "Marie-Noëlle",
+          "nom_complet": "Marie-Noëlle DÉTRIVIÈRE",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DELAHAYE",
+          "prenom": "Jean-Philippe",
+          "nom_complet": "Jean-Philippe DELAHAYE",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DREMAUX",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie DREMAUX",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "LEDUC",
+          "prenom": "Guillaume",
+          "nom_complet": "Guillaume LEDUC",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "CIUCCOLI",
+          "prenom": "Marine",
+          "nom_complet": "Marine CIUCCOLI",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "GABELLE",
+          "prenom": "Florentin",
+          "nom_complet": "Florentin GABELLE",
+          "sexe": "M",
+          "age": 30,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "VERQUIN",
+          "prenom": "Leone",
+          "nom_complet": "Leone VERQUIN",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "COSSART",
+          "prenom": "Gérard",
+          "nom_complet": "Gérard COSSART",
+          "sexe": "M",
+          "age": 75,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "WALLERAND",
+          "prenom": "Juliette",
+          "nom_complet": "Juliette WALLERAND",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "CORBEAU",
+          "prenom": "Rémy",
+          "nom_complet": "Rémy CORBEAU",
+          "sexe": "M",
+          "age": 31,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "LEROY",
+          "prenom": "Marion",
+          "nom_complet": "Marion LEROY",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "16"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "POUR L'AVENIR DE SAULZOIR, VOTRE VILLAGE",
+      "libelle_abrege_liste": "POUR L'AVENIR DE SAULZOIR, VOTRE VILLAGE",
+      "nuance_liste": null,
+      "voix": 317,
+      "pct_voix_exprimes": 37.38,
+      "sieges_cm": 3,
+      "sieges_cc": 1,
+      "nb_elus": 3,
+      "tete_de_liste": {
+        "nom": "BLONDIAUX",
+        "prenom": "Ludovic",
+        "nom_complet": "Ludovic BLONDIAUX",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BLONDIAUX",
+          "prenom": "Ludovic",
+          "nom_complet": "Ludovic BLONDIAUX",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "GUSTIN",
+          "prenom": "Marie-Martine",
+          "nom_complet": "Marie-Martine GUSTIN",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "PINCHON",
+          "prenom": "Christian",
+          "nom_complet": "Christian PINCHON",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "3"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

@@ -1,0 +1,347 @@
+{
+  "code_commune": "62108",
+  "commune": "Berck",
+  "departement": "Pas-de-Calais",
+  "tour": "T2",
+  "maire": {
+    "nom": "COUSEIN",
+    "prenom": "Bruno",
+    "nom_complet": "Bruno COUSEIN",
+    "age": 71,
+    "nuance": "LDVD"
+  },
+  "resultats": {
+    "inscrits": 11055,
+    "votants": 6436,
+    "pct_votants": 58.22,
+    "abstentions": 4619,
+    "pct_abstentions": 41.78,
+    "exprimes": 6261
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Ensemble pour Berck",
+      "libelle_abrege_liste": "Ensemble pour Berck",
+      "nuance_liste": "LDVD",
+      "voix": 2659,
+      "pct_voix_exprimes": 42.47,
+      "sieges_cm": 24,
+      "sieges_cc": 10,
+      "nb_elus": 24,
+      "tete_de_liste": {
+        "nom": "COUSEIN",
+        "prenom": "Bruno",
+        "nom_complet": "Bruno COUSEIN",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "COUSEIN",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno COUSEIN",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DELENCLOS",
+          "prenom": "Aurélie",
+          "nom_complet": "Aurélie DELENCLOS",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DACHICOURT",
+          "prenom": "Pierre",
+          "nom_complet": "Pierre DACHICOURT",
+          "sexe": "M",
+          "age": 76,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DECLERCQ",
+          "prenom": "Valérie",
+          "nom_complet": "Valérie DECLERCQ",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "BOURBIER",
+          "prenom": "Benoit",
+          "nom_complet": "Benoit BOURBIER",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "BUZELIN",
+          "prenom": "Marie-France",
+          "nom_complet": "Marie-France BUZELIN",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DEROUSSEN",
+          "prenom": "Jean-Louis",
+          "nom_complet": "Jean-Louis DEROUSSEN",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "TRIBOUT",
+          "prenom": "Régine",
+          "nom_complet": "Régine TRIBOUT",
+          "sexe": "F",
+          "age": 70,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DELETRE",
+          "prenom": "Jerome",
+          "nom_complet": "Jerome DELETRE",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "BERTRAND",
+          "prenom": "Emilie",
+          "nom_complet": "Emilie BERTRAND",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "KUCHARSKI",
+          "prenom": "Michel",
+          "nom_complet": "Michel KUCHARSKI",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "CAULIER",
+          "prenom": "Jocelyne",
+          "nom_complet": "Jocelyne CAULIER",
+          "sexe": "F",
+          "age": 76,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "FREVILLE",
+          "prenom": "Sylvain",
+          "nom_complet": "Sylvain FREVILLE",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "LOUCHET-LESTOQUOY",
+          "prenom": "Sophie",
+          "nom_complet": "Sophie LOUCHET-LESTOQUOY",
+          "sexe": "F",
+          "age": 33,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "DELEPLACE",
+          "prenom": "Eric",
+          "nom_complet": "Eric DELEPLACE",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "CARPENTIER",
+          "prenom": "Céline",
+          "nom_complet": "Céline CARPENTIER",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "DELCLOY",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent DELCLOY",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "BERTIN",
+          "prenom": "Daniele",
+          "nom_complet": "Daniele BERTIN",
+          "sexe": "F",
+          "age": 76,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "LOUHOU",
+          "prenom": "Rufin",
+          "nom_complet": "Rufin LOUHOU",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "ALVES MOREIRA",
+          "prenom": "Sophie",
+          "nom_complet": "Sophie ALVES MOREIRA",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "DEROLEZ",
+          "prenom": "Cédric",
+          "nom_complet": "Cédric DEROLEZ",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "LAMBERT",
+          "prenom": "Emeline",
+          "nom_complet": "Emeline LAMBERT",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "DUBOIS",
+          "prenom": "Marc",
+          "nom_complet": "Marc DUBOIS",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "23"
+        },
+        {
+          "nom": "COULY",
+          "prenom": "Francine",
+          "nom_complet": "Francine COULY",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "24"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "3",
+      "libelle_liste": "BERCK PASSIONNÉMENT",
+      "libelle_abrege_liste": "BERCK PASSIONNÉMENT",
+      "nuance_liste": "LDVG",
+      "voix": 1960,
+      "pct_voix_exprimes": 31.3,
+      "sieges_cm": 5,
+      "sieges_cc": 2,
+      "nb_elus": 5,
+      "tete_de_liste": {
+        "nom": "BOUVIER",
+        "prenom": "Jean-Luc",
+        "nom_complet": "Jean-Luc BOUVIER",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BOUVIER",
+          "prenom": "Jean-Luc",
+          "nom_complet": "Jean-Luc BOUVIER",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "HENIN",
+          "prenom": "Melanie",
+          "nom_complet": "Melanie HENIN",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "OFFRE",
+          "prenom": "Anthony",
+          "nom_complet": "Anthony OFFRE",
+          "sexe": "M",
+          "age": 34,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "PINAT",
+          "prenom": "Martine",
+          "nom_complet": "Martine PINAT",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LESAFFRE",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno LESAFFRE",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "5"
+        }
+      ],
+      "statut_conseil": "autre"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "Renouveau pour Berck",
+      "libelle_abrege_liste": "Renouveau pour Berck",
+      "nuance_liste": "LRN",
+      "voix": 1642,
+      "pct_voix_exprimes": 26.23,
+      "sieges_cm": 4,
+      "sieges_cc": 1,
+      "nb_elus": 4,
+      "tete_de_liste": {
+        "nom": "DOLLE",
+        "prenom": "Benoît",
+        "nom_complet": "Benoît DOLLE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DOLLE",
+          "prenom": "Benoît",
+          "nom_complet": "Benoît DOLLE",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DUFOUR",
+          "prenom": "Françoise",
+          "nom_complet": "Françoise DUFOUR",
+          "sexe": "F",
+          "age": 73,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "ABI RAAD",
+          "prenom": "Jad",
+          "nom_complet": "Jad ABI RAAD",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "PECQUERY-MARCHAL",
+          "prenom": "Anne",
+          "nom_complet": "Anne PECQUERY-MARCHAL",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "4"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

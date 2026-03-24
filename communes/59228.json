@@ -1,0 +1,163 @@
+{
+  "code_commune": "59228",
+  "commune": "Férin",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "PEDERENCINO",
+    "prenom": "Michel",
+    "nom_complet": "Michel PEDERENCINO",
+    "age": 73,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1177,
+    "votants": 729,
+    "pct_votants": 61.94,
+    "abstentions": 448,
+    "pct_abstentions": 38.06,
+    "exprimes": 674
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ENSEMBLE POUR FERIN",
+      "libelle_abrege_liste": "ENSEMBLE POUR FERIN",
+      "nuance_liste": null,
+      "voix": 674,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": 1,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "PEDERENCINO",
+        "prenom": "Michel",
+        "nom_complet": "Michel PEDERENCINO",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "PEDERENCINO",
+          "prenom": "Michel",
+          "nom_complet": "Michel PEDERENCINO",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LEGRAND",
+          "prenom": "Priscilla",
+          "nom_complet": "Priscilla LEGRAND",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DESENCLOS",
+          "prenom": "Eric",
+          "nom_complet": "Eric DESENCLOS",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DELOFFRE",
+          "prenom": "Cathy",
+          "nom_complet": "Cathy DELOFFRE",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "VANDENBEUCK",
+          "prenom": "Jean Luc",
+          "nom_complet": "Jean Luc VANDENBEUCK",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "FURNE-SOTY",
+          "prenom": "Benedicte",
+          "nom_complet": "Benedicte FURNE-SOTY",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BLERVAQUE",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe BLERVAQUE",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LUKASIK-LEFEBVRE",
+          "prenom": "Lyse-Marie",
+          "nom_complet": "Lyse-Marie LUKASIK-LEFEBVRE",
+          "sexe": "F",
+          "age": 31,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "ROBILLARD",
+          "prenom": "Frederic",
+          "nom_complet": "Frederic ROBILLARD",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DELHAY",
+          "prenom": "Claudine",
+          "nom_complet": "Claudine DELHAY",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "BOLDO",
+          "prenom": "Remi",
+          "nom_complet": "Remi BOLDO",
+          "sexe": "M",
+          "age": 32,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "GATNER",
+          "prenom": "Lucie",
+          "nom_complet": "Lucie GATNER",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "LASSON",
+          "prenom": "Emmanuel",
+          "nom_complet": "Emmanuel LASSON",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "RENARD",
+          "prenom": "Magali",
+          "nom_complet": "Magali RENARD",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "BROUTIN",
+          "prenom": "Hervé",
+          "nom_complet": "Hervé BROUTIN",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

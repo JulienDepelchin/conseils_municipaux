@@ -1,0 +1,163 @@
+{
+  "code_commune": "59465",
+  "commune": "Pommereuil",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "PAQUET",
+    "prenom": "Pascal",
+    "nom_complet": "Pascal PAQUET",
+    "age": 63,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 539,
+    "votants": 303,
+    "pct_votants": 56.22,
+    "abstentions": 236,
+    "pct_abstentions": 43.78,
+    "exprimes": 257
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "POUR L'AVENIR DE NOTRE VILLAGE",
+      "libelle_abrege_liste": "POUR L'AVENIR DE NOTRE VILLAGE",
+      "nuance_liste": null,
+      "voix": 257,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "PAQUET",
+        "prenom": "Pascal",
+        "nom_complet": "Pascal PAQUET",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "PAQUET",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal PAQUET",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DRUEZ",
+          "prenom": "Martine",
+          "nom_complet": "Martine DRUEZ",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BOQUET",
+          "prenom": "Samuel",
+          "nom_complet": "Samuel BOQUET",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "FERNEZ BASQUIN",
+          "prenom": "Elise",
+          "nom_complet": "Elise FERNEZ BASQUIN",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DAVOINE",
+          "prenom": "Renaud",
+          "nom_complet": "Renaud DAVOINE",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "HUVELLE",
+          "prenom": "Léa",
+          "nom_complet": "Léa HUVELLE",
+          "sexe": "F",
+          "age": 26,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "FERNEZ",
+          "prenom": "André",
+          "nom_complet": "André FERNEZ",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LABARRIÈRE",
+          "prenom": "Alissa",
+          "nom_complet": "Alissa LABARRIÈRE",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "GONSE",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe GONSE",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "LÉGER-DUMONT",
+          "prenom": "Bernadette",
+          "nom_complet": "Bernadette LÉGER-DUMONT",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "HERBIN",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas HERBIN",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "RISBOURG",
+          "prenom": "Anne-Sophie",
+          "nom_complet": "Anne-Sophie RISBOURG",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "LEVÊQUE",
+          "prenom": "Sébastien",
+          "nom_complet": "Sébastien LEVÊQUE",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "PLOUCHART",
+          "prenom": "Aurélie",
+          "nom_complet": "Aurélie PLOUCHART",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "LOZÉ",
+          "prenom": "Stéphane",
+          "nom_complet": "Stéphane LOZÉ",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "code_commune": "62834",
+  "commune": "Vacqueriette-Erquières",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "LAGACHE",
+    "prenom": "Jean-Paul",
+    "nom_complet": "Jean-Paul LAGACHE",
+    "age": 66,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 194,
+    "votants": 120,
+    "pct_votants": 61.86,
+    "abstentions": 74,
+    "pct_abstentions": 38.14,
+    "exprimes": 78
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Agir ensemble pour l'avenir de la commune",
+      "libelle_abrege_liste": "Agir ensemble pour l'avenir de la commune",
+      "nuance_liste": null,
+      "voix": 78,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "LAGACHE",
+        "prenom": "Jean-Paul",
+        "nom_complet": "Jean-Paul LAGACHE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LAGACHE",
+          "prenom": "Jean-Paul",
+          "nom_complet": "Jean-Paul LAGACHE",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DUFOUR",
+          "prenom": "Aurélie",
+          "nom_complet": "Aurélie DUFOUR",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BODESCOT",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique BODESCOT",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LAGACHE",
+          "prenom": "Anne-Philippe",
+          "nom_complet": "Anne-Philippe LAGACHE",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DONTGEZ",
+          "prenom": "François",
+          "nom_complet": "François DONTGEZ",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "PAPEGAY",
+          "prenom": "Elyse",
+          "nom_complet": "Elyse PAPEGAY",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "HERMETZ",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe HERMETZ",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "VERNY",
+          "prenom": "Martine",
+          "nom_complet": "Martine VERNY",
+          "sexe": "F",
+          "age": 70,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "LETOILLE",
+          "prenom": "Sébastien",
+          "nom_complet": "Sébastien LETOILLE",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "VERVELLE",
+          "prenom": "Angélique",
+          "nom_complet": "Angélique VERVELLE",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "VALOIS",
+          "prenom": "Jérôme",
+          "nom_complet": "Jérôme VALOIS",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

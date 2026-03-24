@@ -1,0 +1,183 @@
+{
+  "code_commune": "62584",
+  "commune": "Mont-Bernanchon",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "DUHAMEL",
+    "prenom": "Marie-Claude",
+    "nom_complet": "Marie-Claude DUHAMEL",
+    "age": 80,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1176,
+    "votants": 797,
+    "pct_votants": 67.77,
+    "abstentions": 379,
+    "pct_abstentions": 32.23,
+    "exprimes": 784
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "MONT-BERNENCHON, UN VILLAGE, UNE DYNAMIQUE",
+      "libelle_abrege_liste": "MONT-BERNENCHON, UN VILLAGE, UNE DYNAMIQUE",
+      "nuance_liste": null,
+      "voix": 576,
+      "pct_voix_exprimes": 73.47,
+      "sieges_cm": 13,
+      "sieges_cc": 1,
+      "nb_elus": 13,
+      "tete_de_liste": {
+        "nom": "DUHAMEL",
+        "prenom": "Marie-Claude",
+        "nom_complet": "Marie-Claude DUHAMEL",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "DUHAMEL",
+          "prenom": "Marie-Claude",
+          "nom_complet": "Marie-Claude DUHAMEL",
+          "sexe": "F",
+          "age": 80,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BOULNOT",
+          "prenom": "Yannick",
+          "nom_complet": "Yannick BOULNOT",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "SENECHAL",
+          "prenom": "Annie",
+          "nom_complet": "Annie SENECHAL",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "MESSIANT",
+          "prenom": "Jean-Claude",
+          "nom_complet": "Jean-Claude MESSIANT",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LECLERCQ",
+          "prenom": "Sandrine",
+          "nom_complet": "Sandrine LECLERCQ",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DUBEAUREPAIRE",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe DUBEAUREPAIRE",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "CORAILLER",
+          "prenom": "Sandrine",
+          "nom_complet": "Sandrine CORAILLER",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DEFOSSEZ",
+          "prenom": "Etienne",
+          "nom_complet": "Etienne DEFOSSEZ",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DE PAEPE",
+          "prenom": "Marie",
+          "nom_complet": "Marie DE PAEPE",
+          "sexe": "F",
+          "age": 29,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "CARON",
+          "prenom": "David",
+          "nom_complet": "David CARON",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DISSAUX",
+          "prenom": "Fleurine",
+          "nom_complet": "Fleurine DISSAUX",
+          "sexe": "F",
+          "age": 28,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "BIALLAIS",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick BIALLAIS",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "CHRETIEN",
+          "prenom": "Cindy",
+          "nom_complet": "Cindy CHRETIEN",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "13"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "MONT BERNANCHON AUTREMENT",
+      "libelle_abrege_liste": "MONT BERNANCHON AUTREMENT",
+      "nuance_liste": null,
+      "voix": 208,
+      "pct_voix_exprimes": 26.53,
+      "sieges_cm": 2,
+      "sieges_cc": 0,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "LHEUREUX",
+        "prenom": "Françoise",
+        "nom_complet": "Françoise LHEUREUX",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "LHEUREUX",
+          "prenom": "Françoise",
+          "nom_complet": "Françoise LHEUREUX",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "CREPIEUX",
+          "prenom": "Stephane",
+          "nom_complet": "Stephane CREPIEUX",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

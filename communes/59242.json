@@ -1,0 +1,163 @@
+{
+  "code_commune": "59242",
+  "commune": "Fontaine-au-Bois",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "DUMORTIER",
+    "prenom": "Helene",
+    "nom_complet": "Helene DUMORTIER",
+    "age": 48,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 512,
+    "votants": 360,
+    "pct_votants": 70.31,
+    "abstentions": 152,
+    "pct_abstentions": 29.69,
+    "exprimes": 277
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "AGIR ENSEMBLE POUR L'AVENIR DE FONTAINE-AU-BOIS",
+      "libelle_abrege_liste": "AGIR ENSEMBLE POUR L'AVENIR DE FONTAINE-AU-BOIS",
+      "nuance_liste": null,
+      "voix": 277,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "DUMORTIER",
+        "prenom": "Helene",
+        "nom_complet": "Helene DUMORTIER",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "DUMORTIER",
+          "prenom": "Helene",
+          "nom_complet": "Helene DUMORTIER",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LEMAIRE",
+          "prenom": "Julien",
+          "nom_complet": "Julien LEMAIRE",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "CORNU",
+          "prenom": "Marie-Jose",
+          "nom_complet": "Marie-Jose CORNU",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "CARPENTIER",
+          "prenom": "Yves",
+          "nom_complet": "Yves CARPENTIER",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "BENOIT",
+          "prenom": "Patricia",
+          "nom_complet": "Patricia BENOIT",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "TOURNEUX",
+          "prenom": "Mickael",
+          "nom_complet": "Mickael TOURNEUX",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "CADART",
+          "prenom": "Virginie",
+          "nom_complet": "Virginie CADART",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "BOUCHEZ",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent BOUCHEZ",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DUCHESNE",
+          "prenom": "Claire",
+          "nom_complet": "Claire DUCHESNE",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "CARRON",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe CARRON",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "HENRY",
+          "prenom": "Amandine",
+          "nom_complet": "Amandine HENRY",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "LEFEVRE",
+          "prenom": "Valentin",
+          "nom_complet": "Valentin LEFEVRE",
+          "sexe": "M",
+          "age": 31,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "MINCHEZ",
+          "prenom": "Lucette",
+          "nom_complet": "Lucette MINCHEZ",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "MEURANT",
+          "prenom": "Simon",
+          "nom_complet": "Simon MEURANT",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "MORTIER",
+          "prenom": "Jennifer",
+          "nom_complet": "Jennifer MORTIER",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

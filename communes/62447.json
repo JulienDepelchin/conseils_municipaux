@@ -1,0 +1,275 @@
+{
+  "code_commune": "62447",
+  "commune": "Hesdin-la-Forêt",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "DEMONCHEAUX",
+    "prenom": "Matthieu",
+    "nom_complet": "Matthieu DEMONCHEAUX",
+    "age": 49,
+    "nuance": "LDVD"
+  },
+  "resultats": {
+    "inscrits": 3071,
+    "votants": 1667,
+    "pct_votants": 54.28,
+    "abstentions": 1404,
+    "pct_abstentions": 45.72,
+    "exprimes": 1379
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "HESDIN-LA-FORÊT FIERS DE NOS RACINES",
+      "libelle_abrege_liste": "HESDIN-LA-FORÊT FIERS DE NOS RACINES",
+      "nuance_liste": "LDVD",
+      "voix": 1379,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 29,
+      "sieges_cc": 11,
+      "nb_elus": 29,
+      "tete_de_liste": {
+        "nom": "DEMONCHEAUX",
+        "prenom": "Matthieu",
+        "nom_complet": "Matthieu DEMONCHEAUX",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DEMONCHEAUX",
+          "prenom": "Matthieu",
+          "nom_complet": "Matthieu DEMONCHEAUX",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "FIOLET",
+          "prenom": "Véronique",
+          "nom_complet": "Véronique FIOLET",
+          "sexe": "F",
+          "age": 70,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "PETIT",
+          "prenom": "Francis",
+          "nom_complet": "Francis PETIT",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LEFORT",
+          "prenom": "Christine",
+          "nom_complet": "Christine LEFORT",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "PUAUX",
+          "prenom": "Marco",
+          "nom_complet": "Marco PUAUX",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "BEDHOM",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie BEDHOM",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "HERBIN",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick HERBIN",
+          "sexe": "M",
+          "age": 74,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "PIERROT",
+          "prenom": "Emmanuelle",
+          "nom_complet": "Emmanuelle PIERROT",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "VARLET",
+          "prenom": "Louis Philippe",
+          "nom_complet": "Louis Philippe VARLET",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "BERTIN",
+          "prenom": "Jeanne",
+          "nom_complet": "Jeanne BERTIN",
+          "sexe": "F",
+          "age": 22,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "LEMAIRE",
+          "prenom": "Thierry",
+          "nom_complet": "Thierry LEMAIRE",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "CERRATO",
+          "prenom": "Claudia",
+          "nom_complet": "Claudia CERRATO",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "DEGUINE",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal DEGUINE",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "MARTIN",
+          "prenom": "Katia",
+          "nom_complet": "Katia MARTIN",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "GUILLOUX",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique GUILLOUX",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "CODEVELLE",
+          "prenom": "Corinne",
+          "nom_complet": "Corinne CODEVELLE",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "LEGAY",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric LEGAY",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "CAILLERET",
+          "prenom": "Carole",
+          "nom_complet": "Carole CAILLERET",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "GUILBERT",
+          "prenom": "Bernard",
+          "nom_complet": "Bernard GUILBERT",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "GREVET",
+          "prenom": "Fabienne",
+          "nom_complet": "Fabienne GREVET",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "LAGACHE",
+          "prenom": "Stéphane",
+          "nom_complet": "Stéphane LAGACHE",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "PLE",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie PLE",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "VANDECASTEELE",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno VANDECASTEELE",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "23"
+        },
+        {
+          "nom": "DEDOURS",
+          "prenom": "Anne-Sophie",
+          "nom_complet": "Anne-Sophie DEDOURS",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "24"
+        },
+        {
+          "nom": "COACHE",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe COACHE",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "25"
+        },
+        {
+          "nom": "CAUX",
+          "prenom": "Solène",
+          "nom_complet": "Solène CAUX",
+          "sexe": "F",
+          "age": 29,
+          "rang_liste": "26"
+        },
+        {
+          "nom": "HAZEBROUCQ",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe HAZEBROUCQ",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "27"
+        },
+        {
+          "nom": "BEYAERT",
+          "prenom": "Valérie",
+          "nom_complet": "Valérie BEYAERT",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "28"
+        },
+        {
+          "nom": "JOLY",
+          "prenom": "Cyril",
+          "nom_complet": "Cyril JOLY",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "29"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

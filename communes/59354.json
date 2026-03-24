@@ -1,0 +1,163 @@
+{
+  "code_commune": "59354",
+  "commune": "Loffre",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "GOUY",
+    "prenom": "Eric",
+    "nom_complet": "Eric GOUY",
+    "age": 61,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 595,
+    "votants": 328,
+    "pct_votants": 55.13,
+    "abstentions": 267,
+    "pct_abstentions": 44.87,
+    "exprimes": 278
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Le bien-vivre on vous Loffre",
+      "libelle_abrege_liste": "Le bien-vivre on vous Loffre",
+      "nuance_liste": null,
+      "voix": 278,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "GOUY",
+        "prenom": "Eric",
+        "nom_complet": "Eric GOUY",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "GOUY",
+          "prenom": "Eric",
+          "nom_complet": "Eric GOUY",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LARIVIERE",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie LARIVIERE",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "VIREMOUNEIX",
+          "prenom": "Frederic",
+          "nom_complet": "Frederic VIREMOUNEIX",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "GOUBET",
+          "prenom": "Virginie",
+          "nom_complet": "Virginie GOUBET",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "CAFFIN",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier CAFFIN",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "MACIEJOWSKI",
+          "prenom": "Béatrice",
+          "nom_complet": "Béatrice MACIEJOWSKI",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "ROBERT",
+          "prenom": "Quentin",
+          "nom_complet": "Quentin ROBERT",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "SEDDA",
+          "prenom": "Brigitte",
+          "nom_complet": "Brigitte SEDDA",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "MIELCAREK",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent MIELCAREK",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DELPLACE",
+          "prenom": "Fabienne",
+          "nom_complet": "Fabienne DELPLACE",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "VENTURA",
+          "prenom": "Stéphane",
+          "nom_complet": "Stéphane VENTURA",
+          "sexe": "M",
+          "age": 34,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "MARFIL",
+          "prenom": "Eurydice",
+          "nom_complet": "Eurydice MARFIL",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "VASSEUR",
+          "prenom": "Guillaume",
+          "nom_complet": "Guillaume VASSEUR",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "PLAISANT",
+          "prenom": "Renée",
+          "nom_complet": "Renée PLAISANT",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "ANSART",
+          "prenom": "Jean-Luc",
+          "nom_complet": "Jean-Luc ANSART",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

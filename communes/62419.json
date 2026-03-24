@@ -1,0 +1,131 @@
+{
+  "code_commune": "62419",
+  "commune": "Haut-Loquin",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "CROQUELOIS",
+    "prenom": "Jean-Michel",
+    "nom_complet": "Jean-Michel CROQUELOIS",
+    "age": 69,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 111,
+    "votants": 83,
+    "pct_votants": 74.77,
+    "abstentions": 28,
+    "pct_abstentions": 25.23,
+    "exprimes": 71
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "\"Ensemble pour HAUT-LOQUIN\"",
+      "libelle_abrege_liste": "\"Ensemble pour HAUT-LOQUIN\"",
+      "nuance_liste": null,
+      "voix": 71,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "CROQUELOIS",
+        "prenom": "Jean-Michel",
+        "nom_complet": "Jean-Michel CROQUELOIS",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "CROQUELOIS",
+          "prenom": "Jean-Michel",
+          "nom_complet": "Jean-Michel CROQUELOIS",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LAY",
+          "prenom": "Mélanie",
+          "nom_complet": "Mélanie LAY",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DEVIGNE",
+          "prenom": "Maurice",
+          "nom_complet": "Maurice DEVIGNE",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DEVRIES",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie DEVRIES",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LAMARE",
+          "prenom": "Cédric",
+          "nom_complet": "Cédric LAMARE",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "TOP",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie TOP",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "HEUMEZ",
+          "prenom": "Alain",
+          "nom_complet": "Alain HEUMEZ",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "CROQUELOIS",
+          "prenom": "Pauline",
+          "nom_complet": "Pauline CROQUELOIS",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "BELLENGUEZ",
+          "prenom": "Arnaud",
+          "nom_complet": "Arnaud BELLENGUEZ",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "FOUTREYN",
+          "prenom": "Céline",
+          "nom_complet": "Céline FOUTREYN",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "LEROY",
+          "prenom": "Aurélien",
+          "nom_complet": "Aurélien LEROY",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

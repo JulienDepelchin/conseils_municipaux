@@ -1,0 +1,215 @@
+{
+  "code_commune": "62588",
+  "commune": "Montreuil-sur-Mer",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "DUCROCQ",
+    "prenom": "Pierre",
+    "nom_complet": "Pierre DUCROCQ",
+    "age": 56,
+    "nuance": "LDVD"
+  },
+  "resultats": {
+    "inscrits": 1483,
+    "votants": 1085,
+    "pct_votants": 73.16,
+    "abstentions": 398,
+    "pct_abstentions": 26.84,
+    "exprimes": 1055
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "Ensemble, allons plus loin pour Montreuil sur Mer",
+      "libelle_abrege_liste": "Ensemble, allons plus loin pour Montreuil sur Mer",
+      "nuance_liste": "LDVD",
+      "voix": 660,
+      "pct_voix_exprimes": 62.56,
+      "sieges_cm": 16,
+      "sieges_cc": 1,
+      "nb_elus": 16,
+      "tete_de_liste": {
+        "nom": "DUCROCQ",
+        "prenom": "Pierre",
+        "nom_complet": "Pierre DUCROCQ",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DUCROCQ",
+          "prenom": "Pierre",
+          "nom_complet": "Pierre DUCROCQ",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "RATELADE",
+          "prenom": "Pascale",
+          "nom_complet": "Pascale RATELADE",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DESRUES",
+          "prenom": "François",
+          "nom_complet": "François DESRUES",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LINÉ",
+          "prenom": "Marie-Pierre",
+          "nom_complet": "Marie-Pierre LINÉ",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "SAUGUET",
+          "prenom": "François",
+          "nom_complet": "François SAUGUET",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "VINCENT",
+          "prenom": "Pauline",
+          "nom_complet": "Pauline VINCENT",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "MODET",
+          "prenom": "Jean-Charles",
+          "nom_complet": "Jean-Charles MODET",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "REGNEAULT",
+          "prenom": "Caroline",
+          "nom_complet": "Caroline REGNEAULT",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "CRÉPIN",
+          "prenom": "Guilain",
+          "nom_complet": "Guilain CRÉPIN",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DE SAINTE MARESVILLE VASSEUR",
+          "prenom": "Caroline",
+          "nom_complet": "Caroline DE SAINTE MARESVILLE VASSEUR",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "TESTU",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe TESTU",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "PHILIPPE",
+          "prenom": "Fanny",
+          "nom_complet": "Fanny PHILIPPE",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "OLIVIER",
+          "prenom": "Emeric",
+          "nom_complet": "Emeric OLIVIER",
+          "sexe": "M",
+          "age": 34,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "ZEID",
+          "prenom": "Dina",
+          "nom_complet": "Dina ZEID",
+          "sexe": "F",
+          "age": 24,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "DOAT",
+          "prenom": "Antoine",
+          "nom_complet": "Antoine DOAT",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "POUPART DE SAINTE MARESVILLE",
+          "prenom": "Marie",
+          "nom_complet": "Marie POUPART DE SAINTE MARESVILLE",
+          "sexe": "F",
+          "age": 32,
+          "rang_liste": "16"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Montreuil-sur-Mer: Notre Histoire, Notre Avenir",
+      "libelle_abrege_liste": "Montreuil-sur-Mer: Notre Histoire, Notre Avenir",
+      "nuance_liste": "LDIV",
+      "voix": 395,
+      "pct_voix_exprimes": 37.44,
+      "sieges_cm": 3,
+      "sieges_cc": 0,
+      "nb_elus": 3,
+      "tete_de_liste": {
+        "nom": "CATTEAU",
+        "prenom": "Olivier",
+        "nom_complet": "Olivier CATTEAU",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "CATTEAU",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier CATTEAU",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "MOULUN",
+          "prenom": "Marie-Hélène",
+          "nom_complet": "Marie-Hélène MOULUN",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "REGNAUT",
+          "prenom": "André",
+          "nom_complet": "André REGNAUT",
+          "sexe": "M",
+          "age": 76,
+          "rang_liste": "3"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

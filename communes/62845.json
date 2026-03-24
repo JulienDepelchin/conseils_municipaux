@@ -1,0 +1,163 @@
+{
+  "code_commune": "62845",
+  "commune": "Verlincthun",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "GRANDERIE",
+    "prenom": "Francis",
+    "nom_complet": "Francis GRANDERIE",
+    "age": 74,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 405,
+    "votants": 276,
+    "pct_votants": 68.15,
+    "abstentions": 129,
+    "pct_abstentions": 31.85,
+    "exprimes": 243
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "VERLINCTHUN, AU COEUR DE NOTRE VILLAGE",
+      "libelle_abrege_liste": "VERLINCTHUN, AU COEUR DE NOTRE VILLAGE",
+      "nuance_liste": null,
+      "voix": 243,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "GRANDERIE",
+        "prenom": "Francis",
+        "nom_complet": "Francis GRANDERIE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "GRANDERIE",
+          "prenom": "Francis",
+          "nom_complet": "Francis GRANDERIE",
+          "sexe": "M",
+          "age": 74,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BAILLIARD",
+          "prenom": "Christèle",
+          "nom_complet": "Christèle BAILLIARD",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BLAIRON",
+          "prenom": "Yoann",
+          "nom_complet": "Yoann BLAIRON",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "COANON",
+          "prenom": "Delphine",
+          "nom_complet": "Delphine COANON",
+          "sexe": "F",
+          "age": 32,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "FOURNY",
+          "prenom": "Stephen",
+          "nom_complet": "Stephen FOURNY",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DUVAUCHEL",
+          "prenom": "Virginie",
+          "nom_complet": "Virginie DUVAUCHEL",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "HEDIN",
+          "prenom": "François",
+          "nom_complet": "François HEDIN",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LAMBERT",
+          "prenom": "Sandrine",
+          "nom_complet": "Sandrine LAMBERT",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "MAILLARD",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe MAILLARD",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "MAILLARD",
+          "prenom": "Laurence",
+          "nom_complet": "Laurence MAILLARD",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "MERCIER",
+          "prenom": "Marcel",
+          "nom_complet": "Marcel MERCIER",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "MAQUAIRE",
+          "prenom": "Florence",
+          "nom_complet": "Florence MAQUAIRE",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "NOEL",
+          "prenom": "Yannick",
+          "nom_complet": "Yannick NOEL",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "MOENAERT",
+          "prenom": "Véronique",
+          "nom_complet": "Véronique MOENAERT",
+          "sexe": "F",
+          "age": 75,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "TRIQUET",
+          "prenom": "Herve",
+          "nom_complet": "Herve TRIQUET",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

@@ -1,0 +1,183 @@
+{
+  "code_commune": "62207",
+  "commune": "Campigneulles-les-Petites",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "RAMET",
+    "prenom": "Olivier",
+    "nom_complet": "Olivier RAMET",
+    "age": 51,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 492,
+    "votants": 400,
+    "pct_votants": 81.3,
+    "abstentions": 92,
+    "pct_abstentions": 18.7,
+    "exprimes": 393
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "UNISSONS-NOUS POUR AGIR",
+      "libelle_abrege_liste": "UNISSONS-NOUS POUR AGIR",
+      "nuance_liste": null,
+      "voix": 231,
+      "pct_voix_exprimes": 58.78,
+      "sieges_cm": 12,
+      "sieges_cc": null,
+      "nb_elus": 12,
+      "tete_de_liste": {
+        "nom": "RAMET",
+        "prenom": "Olivier",
+        "nom_complet": "Olivier RAMET",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "RAMET",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier RAMET",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "MACREZ",
+          "prenom": "Christele",
+          "nom_complet": "Christele MACREZ",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DUBOIS",
+          "prenom": "Alex",
+          "nom_complet": "Alex DUBOIS",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "GUY",
+          "prenom": "Maite",
+          "nom_complet": "Maite GUY",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "VASSEUR",
+          "prenom": "Mickael",
+          "nom_complet": "Mickael VASSEUR",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "PASCAL",
+          "prenom": "Veronique",
+          "nom_complet": "Veronique PASCAL",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "VERDURE",
+          "prenom": "Denis",
+          "nom_complet": "Denis VERDURE",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "RIFFLART",
+          "prenom": "Angele",
+          "nom_complet": "Angele RIFFLART",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "MONTRAISIN",
+          "prenom": "Claude",
+          "nom_complet": "Claude MONTRAISIN",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "FARKOA",
+          "prenom": "Anne-Lise",
+          "nom_complet": "Anne-Lise FARKOA",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "PRUVOST",
+          "prenom": "Matthieu",
+          "nom_complet": "Matthieu PRUVOST",
+          "sexe": "M",
+          "age": 30,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "VAN DER MARLIERE",
+          "prenom": "Chantal",
+          "nom_complet": "Chantal VAN DER MARLIERE",
+          "sexe": "F",
+          "age": 76,
+          "rang_liste": "12"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "BIEN VIVRE ENSEMBLE A CAMPIGNEULLES-LES-PETITES",
+      "libelle_abrege_liste": "BIEN VIVRE ENSEMBLE A CAMPIGNEULLES-LES-PETITES",
+      "nuance_liste": null,
+      "voix": 162,
+      "pct_voix_exprimes": 41.22,
+      "sieges_cm": 3,
+      "sieges_cc": null,
+      "nb_elus": 3,
+      "tete_de_liste": {
+        "nom": "DECROIX",
+        "prenom": "Gilles",
+        "nom_complet": "Gilles DECROIX",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DECROIX",
+          "prenom": "Gilles",
+          "nom_complet": "Gilles DECROIX",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "RICHARD",
+          "prenom": "Séverine",
+          "nom_complet": "Séverine RICHARD",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BOUBET",
+          "prenom": "Franck",
+          "nom_complet": "Franck BOUBET",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "3"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

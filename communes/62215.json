@@ -1,0 +1,341 @@
+{
+  "code_commune": "62215",
+  "commune": "Carvin",
+  "departement": "Pas-de-Calais",
+  "tour": "T2",
+  "maire": {
+    "nom": "KEMEL",
+    "prenom": "Philippe",
+    "nom_complet": "Philippe KEMEL",
+    "age": 77,
+    "nuance": "LUG"
+  },
+  "resultats": {
+    "inscrits": 13200,
+    "votants": 7409,
+    "pct_votants": 56.13,
+    "abstentions": 5791,
+    "pct_abstentions": 43.87,
+    "exprimes": 7285
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ENSEMBLE POUR CARVIN",
+      "libelle_abrege_liste": "ENSEMBLE POUR CARVIN",
+      "nuance_liste": "LUG",
+      "voix": 3721,
+      "pct_voix_exprimes": 51.08,
+      "sieges_cm": 26,
+      "sieges_cc": 6,
+      "nb_elus": 26,
+      "tete_de_liste": {
+        "nom": "KEMEL",
+        "prenom": "Philippe",
+        "nom_complet": "Philippe KEMEL",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "KEMEL",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe KEMEL",
+          "sexe": "M",
+          "age": 77,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "ROMMELARD",
+          "prenom": "Aurélie",
+          "nom_complet": "Aurélie ROMMELARD",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DELATTRE",
+          "prenom": "Régis",
+          "nom_complet": "Régis DELATTRE",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "YOSBERGUE",
+          "prenom": "Cécile",
+          "nom_complet": "Cécile YOSBERGUE",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "MASSON",
+          "prenom": "Alain",
+          "nom_complet": "Alain MASSON",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "PIESSET-CAMUS",
+          "prenom": "Caroline",
+          "nom_complet": "Caroline PIESSET-CAMUS",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "SONTA",
+          "prenom": "Mario",
+          "nom_complet": "Mario SONTA",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LAOUAÏL-DJARALLAH",
+          "prenom": "Safia",
+          "nom_complet": "Safia LAOUAÏL-DJARALLAH",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "SERPAUD",
+          "prenom": "Rémi",
+          "nom_complet": "Rémi SERPAUD",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "LICTEVOUT",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie LICTEVOUT",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DESMARICAUX",
+          "prenom": "Franck",
+          "nom_complet": "Franck DESMARICAUX",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "GODART",
+          "prenom": "Maryse",
+          "nom_complet": "Maryse GODART",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "BOUGNAS",
+          "prenom": "Régis",
+          "nom_complet": "Régis BOUGNAS",
+          "sexe": "M",
+          "age": 76,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "VIGNON-DELOUBRIERES",
+          "prenom": "Séverine",
+          "nom_complet": "Séverine VIGNON-DELOUBRIERES",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "BOUACHRA",
+          "prenom": "Bachir",
+          "nom_complet": "Bachir BOUACHRA",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "FLAMENT",
+          "prenom": "Céline",
+          "nom_complet": "Céline FLAMENT",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "LELOUTRE",
+          "prenom": "Michel",
+          "nom_complet": "Michel LELOUTRE",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "GUISELAIN",
+          "prenom": "Aurore",
+          "nom_complet": "Aurore GUISELAIN",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "TAVERNESE",
+          "prenom": "Enzo",
+          "nom_complet": "Enzo TAVERNESE",
+          "sexe": "M",
+          "age": 23,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "POCHET",
+          "prenom": "Béatrice",
+          "nom_complet": "Béatrice POCHET",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "WALCZAK",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas WALCZAK",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "COTILLEC",
+          "prenom": "Camille",
+          "nom_complet": "Camille COTILLEC",
+          "sexe": "F",
+          "age": 18,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "COCHEZ",
+          "prenom": "Cédric",
+          "nom_complet": "Cédric COCHEZ",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "23"
+        },
+        {
+          "nom": "DUBOIS",
+          "prenom": "Marcelle",
+          "nom_complet": "Marcelle DUBOIS",
+          "sexe": "F",
+          "age": 75,
+          "rang_liste": "24"
+        },
+        {
+          "nom": "GRIMONPON",
+          "prenom": "Mathieu",
+          "nom_complet": "Mathieu GRIMONPON",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "25"
+        },
+        {
+          "nom": "BENSALEM",
+          "prenom": "Zakia",
+          "nom_complet": "Zakia BENSALEM",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "26"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "RENDRE CARVIN PLUS BELLE, PLUS SURE, PLUS JUSTE !",
+      "libelle_abrege_liste": "RENDRE CARVIN PLUS BELLE, PLUS SURE, PLUS JUSTE !",
+      "nuance_liste": "LRN",
+      "voix": 3195,
+      "pct_voix_exprimes": 43.86,
+      "sieges_cm": 7,
+      "sieges_cc": 2,
+      "nb_elus": 7,
+      "tete_de_liste": {
+        "nom": "DE RIGNE",
+        "prenom": "Arnaud",
+        "nom_complet": "Arnaud DE RIGNE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DE RIGNE",
+          "prenom": "Arnaud",
+          "nom_complet": "Arnaud DE RIGNE",
+          "sexe": "M",
+          "age": 30,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "KACZOR",
+          "prenom": "Annie",
+          "nom_complet": "Annie KACZOR",
+          "sexe": "F",
+          "age": 74,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BOURSAUD",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe BOURSAUD",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BALAUDE",
+          "prenom": "Brenda",
+          "nom_complet": "Brenda BALAUDE",
+          "sexe": "F",
+          "age": 30,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "JORANT",
+          "prenom": "Geoffrey",
+          "nom_complet": "Geoffrey JORANT",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "BOULOGNE",
+          "prenom": "Maryline",
+          "nom_complet": "Maryline BOULOGNE",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DUTEMPLE",
+          "prenom": "Thomas",
+          "nom_complet": "Thomas DUTEMPLE",
+          "sexe": "M",
+          "age": 34,
+          "rang_liste": "7"
+        }
+      ],
+      "statut_conseil": "autre"
+    },
+    {
+      "num_panneau": "3",
+      "libelle_liste": "CARVIN AVENIR",
+      "libelle_abrege_liste": "CARVIN AVENIR",
+      "nuance_liste": "LDVG",
+      "voix": 369,
+      "pct_voix_exprimes": 5.07,
+      "sieges_cm": 0,
+      "sieges_cc": 0,
+      "nb_elus": 0,
+      "tete_de_liste": null,
+      "elus": [],
+      "statut_conseil": "sans_elu"
+    }
+  ]
+}

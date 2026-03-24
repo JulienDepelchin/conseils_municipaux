@@ -1,0 +1,163 @@
+{
+  "code_commune": "59492",
+  "commune": "Ramillies",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "DELSAUX",
+    "prenom": "Olivier",
+    "nom_complet": "Olivier DELSAUX",
+    "age": 61,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 431,
+    "votants": 285,
+    "pct_votants": 66.13,
+    "abstentions": 146,
+    "pct_abstentions": 33.87,
+    "exprimes": 262
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Union pour le bien communal et rural",
+      "libelle_abrege_liste": "Union pour le bien communal et rural",
+      "nuance_liste": null,
+      "voix": 262,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "DELSAUX",
+        "prenom": "Olivier",
+        "nom_complet": "Olivier DELSAUX",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DELSAUX",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier DELSAUX",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "CHATELAIN",
+          "prenom": "Françoise",
+          "nom_complet": "Françoise CHATELAIN",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DEBUT",
+          "prenom": "Bernard",
+          "nom_complet": "Bernard DEBUT",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "HELLINCK",
+          "prenom": "Bernadette",
+          "nom_complet": "Bernadette HELLINCK",
+          "sexe": "F",
+          "age": 76,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "RAOUT",
+          "prenom": "Alain",
+          "nom_complet": "Alain RAOUT",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "CAPON",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle CAPON",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "LEGRAND",
+          "prenom": "Michel",
+          "nom_complet": "Michel LEGRAND",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "BRAGA",
+          "prenom": "Annick",
+          "nom_complet": "Annick BRAGA",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DELSAUX",
+          "prenom": "Damien",
+          "nom_complet": "Damien DELSAUX",
+          "sexe": "M",
+          "age": 33,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DUGIMONT",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie DUGIMONT",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "FARSY",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal FARSY",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "ETUIN",
+          "prenom": "Valérie",
+          "nom_complet": "Valérie ETUIN",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "VASSEUR",
+          "prenom": "Christian",
+          "nom_complet": "Christian VASSEUR",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "HÉGO",
+          "prenom": "Annie",
+          "nom_complet": "Annie HÉGO",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "LEFEBVRE",
+          "prenom": "Stephane",
+          "nom_complet": "Stephane LEFEBVRE",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

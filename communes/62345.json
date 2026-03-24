@@ -1,0 +1,99 @@
+{
+  "code_commune": "62345",
+  "commune": "Fontaine-l'Etalon",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "TRANNIN",
+    "prenom": "Alain",
+    "nom_complet": "Alain TRANNIN",
+    "age": 63,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 82,
+    "votants": 48,
+    "pct_votants": 58.54,
+    "abstentions": 34,
+    "pct_abstentions": 41.46,
+    "exprimes": 42
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "RURALITÉ ATTRACTIVE",
+      "libelle_abrege_liste": "RURALITÉ ATTRACTIVE",
+      "nuance_liste": null,
+      "voix": 42,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 7,
+      "sieges_cc": null,
+      "nb_elus": 7,
+      "tete_de_liste": {
+        "nom": "TRANNIN",
+        "prenom": "Alain",
+        "nom_complet": "Alain TRANNIN",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "TRANNIN",
+          "prenom": "Alain",
+          "nom_complet": "Alain TRANNIN",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BOTTE",
+          "prenom": "Maryline",
+          "nom_complet": "Maryline BOTTE",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "CALMONT",
+          "prenom": "Jacques",
+          "nom_complet": "Jacques CALMONT",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "JAILIN",
+          "prenom": "Brigitte",
+          "nom_complet": "Brigitte JAILIN",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "COQUART",
+          "prenom": "Yannick",
+          "nom_complet": "Yannick COQUART",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "TUTTELL",
+          "prenom": "Anita",
+          "nom_complet": "Anita TUTTELL",
+          "sexe": "F",
+          "age": 72,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "GOSSE",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique GOSSE",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "7"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

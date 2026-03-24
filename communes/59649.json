@@ -1,0 +1,151 @@
+{
+  "code_commune": "59649",
+  "commune": "Wattignies-la-Victoire",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "QUEVALLIER",
+    "prenom": "Vincent",
+    "nom_complet": "Vincent QUEVALLIER",
+    "age": 54,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 222,
+    "votants": 196,
+    "pct_votants": 88.29,
+    "abstentions": 26,
+    "pct_abstentions": 11.71,
+    "exprimes": 193
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "Nouvelle liste d'entente communale",
+      "libelle_abrege_liste": "Nouvelle liste d'entente communale",
+      "nuance_liste": null,
+      "voix": 114,
+      "pct_voix_exprimes": 59.07,
+      "sieges_cm": 9,
+      "sieges_cc": null,
+      "nb_elus": 9,
+      "tete_de_liste": {
+        "nom": "QUEVALLIER",
+        "prenom": "Vincent",
+        "nom_complet": "Vincent QUEVALLIER",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "QUEVALLIER",
+          "prenom": "Vincent",
+          "nom_complet": "Vincent QUEVALLIER",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LESPINASSE",
+          "prenom": "Renée",
+          "nom_complet": "Renée LESPINASSE",
+          "sexe": "F",
+          "age": 74,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "TONDEUR",
+          "prenom": "Jérémie",
+          "nom_complet": "Jérémie TONDEUR",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BERLEMONT",
+          "prenom": "Morane",
+          "nom_complet": "Morane BERLEMONT",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DERUE",
+          "prenom": "Alain",
+          "nom_complet": "Alain DERUE",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "VERLINDEN",
+          "prenom": "Amandine",
+          "nom_complet": "Amandine VERLINDEN",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "CACHEUX",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas CACHEUX",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "BUSIN",
+          "prenom": "Jennifer",
+          "nom_complet": "Jennifer BUSIN",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "GALLET",
+          "prenom": "Francis",
+          "nom_complet": "Francis GALLET",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "9"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Ensemble pour notre village",
+      "libelle_abrege_liste": "Ensemble pour notre village",
+      "nuance_liste": null,
+      "voix": 79,
+      "pct_voix_exprimes": 40.93,
+      "sieges_cm": 2,
+      "sieges_cc": null,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "LELEUX",
+        "prenom": "Christophe",
+        "nom_complet": "Christophe LELEUX",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LELEUX",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe LELEUX",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DONNAY",
+          "prenom": "Martine",
+          "nom_complet": "Martine DONNAY",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

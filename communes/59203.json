@@ -1,0 +1,195 @@
+{
+  "code_commune": "59203",
+  "commune": "Erre",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "DALY",
+    "prenom": "Jean-François",
+    "nom_complet": "Jean-François DALY",
+    "age": 65,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1114,
+    "votants": 587,
+    "pct_votants": 52.69,
+    "abstentions": 527,
+    "pct_abstentions": 47.31,
+    "exprimes": 556
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "POUR UN AVENIR ENCORE MEILLEUR",
+      "libelle_abrege_liste": "POUR UN AVENIR ENCORE MEILLEUR",
+      "nuance_liste": null,
+      "voix": 556,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 19,
+      "sieges_cc": 2,
+      "nb_elus": 19,
+      "tete_de_liste": {
+        "nom": "DALY",
+        "prenom": "Jean-François",
+        "nom_complet": "Jean-François DALY",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DALY",
+          "prenom": "Jean-François",
+          "nom_complet": "Jean-François DALY",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "RUTKOWSKI",
+          "prenom": "Christelle",
+          "nom_complet": "Christelle RUTKOWSKI",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "PAKOSZ",
+          "prenom": "Alain",
+          "nom_complet": "Alain PAKOSZ",
+          "sexe": "M",
+          "age": 74,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BEGARD",
+          "prenom": "Claire",
+          "nom_complet": "Claire BEGARD",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "TIEFENBACH",
+          "prenom": "Michel",
+          "nom_complet": "Michel TIEFENBACH",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "RIZZO",
+          "prenom": "Virginie",
+          "nom_complet": "Virginie RIZZO",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "MARAGE",
+          "prenom": "Rudy",
+          "nom_complet": "Rudy MARAGE",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LECLERCQ",
+          "prenom": "Nadine",
+          "nom_complet": "Nadine LECLERCQ",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DAVID",
+          "prenom": "Maxime",
+          "nom_complet": "Maxime DAVID",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "EVRARD",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie EVRARD",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "LARCANCHE",
+          "prenom": "Lucien",
+          "nom_complet": "Lucien LARCANCHE",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "BREUX",
+          "prenom": "Martine",
+          "nom_complet": "Martine BREUX",
+          "sexe": "F",
+          "age": 73,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "VERDIN",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick VERDIN",
+          "sexe": "M",
+          "age": 76,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "MOURIZAT",
+          "prenom": "Orane",
+          "nom_complet": "Orane MOURIZAT",
+          "sexe": "F",
+          "age": 20,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "NATHIEZ",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier NATHIEZ",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "MISITA",
+          "prenom": "Marie",
+          "nom_complet": "Marie MISITA",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "MATYSEK",
+          "prenom": "Jean",
+          "nom_complet": "Jean MATYSEK",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "WILLIATTE",
+          "prenom": "Camille",
+          "nom_complet": "Camille WILLIATTE",
+          "sexe": "F",
+          "age": 30,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "HECTOR",
+          "prenom": "Pierre-Marie",
+          "nom_complet": "Pierre-Marie HECTOR",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "19"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

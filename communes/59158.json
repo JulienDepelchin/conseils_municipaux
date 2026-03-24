@@ -1,0 +1,227 @@
+{
+  "code_commune": "59158",
+  "commune": "Coutiches",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "FROMONT",
+    "prenom": "Pascal",
+    "nom_complet": "Pascal FROMONT",
+    "age": 72,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 2555,
+    "votants": 1317,
+    "pct_votants": 51.55,
+    "abstentions": 1238,
+    "pct_abstentions": 48.45,
+    "exprimes": 1148
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Coutiches, notre village, notre avenir",
+      "libelle_abrege_liste": "Coutiches, notre village, notre avenir",
+      "nuance_liste": null,
+      "voix": 1148,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 23,
+      "sieges_cc": 2,
+      "nb_elus": 23,
+      "tete_de_liste": {
+        "nom": "FROMONT",
+        "prenom": "Pascal",
+        "nom_complet": "Pascal FROMONT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "FROMONT",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal FROMONT",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DUFERMONT",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie DUFERMONT",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "ROUSSEAU",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent ROUSSEAU",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BICHET",
+          "prenom": "Marie",
+          "nom_complet": "Marie BICHET",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "SERGENT",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier SERGENT",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "GOBERT-KALETA",
+          "prenom": "Dorine",
+          "nom_complet": "Dorine GOBERT-KALETA",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "RINGEVAL",
+          "prenom": "Denis",
+          "nom_complet": "Denis RINGEVAL",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DOUDOK",
+          "prenom": "Muriel",
+          "nom_complet": "Muriel DOUDOK",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DELPORTE",
+          "prenom": "Mathieu",
+          "nom_complet": "Mathieu DELPORTE",
+          "sexe": "M",
+          "age": 31,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "LAVOGIEZ",
+          "prenom": "Bénédicte",
+          "nom_complet": "Bénédicte LAVOGIEZ",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DESPRETS",
+          "prenom": "Albert",
+          "nom_complet": "Albert DESPRETS",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "VERON",
+          "prenom": "Marie-Odile",
+          "nom_complet": "Marie-Odile VERON",
+          "sexe": "F",
+          "age": 71,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "VANDEVIVERE",
+          "prenom": "Rayad",
+          "nom_complet": "Rayad VANDEVIVERE",
+          "sexe": "M",
+          "age": 31,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "MUSSO",
+          "prenom": "Océane",
+          "nom_complet": "Océane MUSSO",
+          "sexe": "F",
+          "age": 24,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "DESSERY",
+          "prenom": "Bernard",
+          "nom_complet": "Bernard DESSERY",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "RICHET COULON",
+          "prenom": "Caroline",
+          "nom_complet": "Caroline RICHET COULON",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "CHEVALIER",
+          "prenom": "Benoît",
+          "nom_complet": "Benoît CHEVALIER",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "LEMUE",
+          "prenom": "Laurence",
+          "nom_complet": "Laurence LEMUE",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "COCQUEEL",
+          "prenom": "André",
+          "nom_complet": "André COCQUEEL",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "DHONDT",
+          "prenom": "Marie-Paule",
+          "nom_complet": "Marie-Paule DHONDT",
+          "sexe": "F",
+          "age": 73,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "BOURLET",
+          "prenom": "Jean-Brice",
+          "nom_complet": "Jean-Brice BOURLET",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "NOISETTE",
+          "prenom": "Charlène",
+          "nom_complet": "Charlène NOISETTE",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "HEELE",
+          "prenom": "Alain",
+          "nom_complet": "Alain HEELE",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "23"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "code_commune": "62301",
+  "commune": "Equirre",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "PRIN",
+    "prenom": "Marcel",
+    "nom_complet": "Marcel PRIN",
+    "age": 69,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 69,
+    "votants": 50,
+    "pct_votants": 72.46,
+    "abstentions": 19,
+    "pct_abstentions": 27.54,
+    "exprimes": 46
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "liste de Monsieur PRIN Marcel",
+      "libelle_abrege_liste": "liste de Monsieur PRIN Marcel",
+      "nuance_liste": null,
+      "voix": 46,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 7,
+      "sieges_cc": null,
+      "nb_elus": 7,
+      "tete_de_liste": {
+        "nom": "PRIN",
+        "prenom": "Marcel",
+        "nom_complet": "Marcel PRIN",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "PRIN",
+          "prenom": "Marcel",
+          "nom_complet": "Marcel PRIN",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BOUTIN",
+          "prenom": "Martine",
+          "nom_complet": "Martine BOUTIN",
+          "sexe": "F",
+          "age": 70,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DEVAUX",
+          "prenom": "Pierre",
+          "nom_complet": "Pierre DEVAUX",
+          "sexe": "M",
+          "age": 81,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LACRABERIE",
+          "prenom": "Brigitte",
+          "nom_complet": "Brigitte LACRABERIE",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LORIMIER",
+          "prenom": "Eric",
+          "nom_complet": "Eric LORIMIER",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "PRIN",
+          "prenom": "Régine",
+          "nom_complet": "Régine PRIN",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "LOWYS",
+          "prenom": "Henri",
+          "nom_complet": "Henri LOWYS",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "7"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

@@ -1,0 +1,315 @@
+{
+  "code_commune": "62351",
+  "commune": "Fouquières-lès-Lens",
+  "departement": "Pas-de-Calais",
+  "tour": "T2",
+  "maire": {
+    "nom": "HOCHART",
+    "prenom": "Donata",
+    "nom_complet": "Donata HOCHART",
+    "age": 71,
+    "nuance": "LUG"
+  },
+  "resultats": {
+    "inscrits": 4306,
+    "votants": 2298,
+    "pct_votants": 53.37,
+    "abstentions": 2008,
+    "pct_abstentions": 46.63,
+    "exprimes": 2246
+  },
+  "listes": [
+    {
+      "num_panneau": "3",
+      "libelle_liste": "UNIS POUR FOUQUIERES",
+      "libelle_abrege_liste": "UNIS POUR FOUQUIERES",
+      "nuance_liste": "LUG",
+      "voix": 1133,
+      "pct_voix_exprimes": 50.45,
+      "sieges_cm": 22,
+      "sieges_cc": 2,
+      "nb_elus": 22,
+      "tete_de_liste": {
+        "nom": "HOCHART",
+        "prenom": "Donata",
+        "nom_complet": "Donata HOCHART",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "HOCHART",
+          "prenom": "Donata",
+          "nom_complet": "Donata HOCHART",
+          "sexe": "F",
+          "age": 71,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DEGAND",
+          "prenom": "Daniel",
+          "nom_complet": "Daniel DEGAND",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "HERMEL",
+          "prenom": "Claudine",
+          "nom_complet": "Claudine HERMEL",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "FACIAUX",
+          "prenom": "Axel",
+          "nom_complet": "Axel FACIAUX",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "HENOT",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique HENOT",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "FOURNIER",
+          "prenom": "Guillaume",
+          "nom_complet": "Guillaume FOURNIER",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BIELKIN",
+          "prenom": "Laurence",
+          "nom_complet": "Laurence BIELKIN",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "COQUEL",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe COQUEL",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "TOUIL",
+          "prenom": "Marie-Claude",
+          "nom_complet": "Marie-Claude TOUIL",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "BOUDAOUD",
+          "prenom": "Fouad",
+          "nom_complet": "Fouad BOUDAOUD",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "RAULT",
+          "prenom": "Emmanuelle",
+          "nom_complet": "Emmanuelle RAULT",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "CIURYS",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe CIURYS",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "TAVERNESE",
+          "prenom": "Audrey",
+          "nom_complet": "Audrey TAVERNESE",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "PORZYCKI",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe PORZYCKI",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "MERESSE",
+          "prenom": "Marie-Hélène",
+          "nom_complet": "Marie-Hélène MERESSE",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "BENSEDIRA",
+          "prenom": "Abdelouhab",
+          "nom_complet": "Abdelouhab BENSEDIRA",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "PRZYBOROWSKI",
+          "prenom": "Brigitte",
+          "nom_complet": "Brigitte PRZYBOROWSKI",
+          "sexe": "F",
+          "age": 73,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "MENDOLA",
+          "prenom": "Joseph",
+          "nom_complet": "Joseph MENDOLA",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "SACLEUX",
+          "prenom": "Françoise",
+          "nom_complet": "Françoise SACLEUX",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "PEZÉ",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno PEZÉ",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "CHAVAUDRA",
+          "prenom": "Maude",
+          "nom_complet": "Maude CHAVAUDRA",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "SACLEUX",
+          "prenom": "Francky",
+          "nom_complet": "Francky SACLEUX",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "22"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "REANIMONS FOUQUIERES",
+      "libelle_abrege_liste": "REANIMONS FOUQUIERES",
+      "nuance_liste": "LDVG",
+      "voix": 790,
+      "pct_voix_exprimes": 35.17,
+      "sieges_cm": 5,
+      "sieges_cc": 0,
+      "nb_elus": 5,
+      "tete_de_liste": {
+        "nom": "BOURGEOIS",
+        "prenom": "Carnot",
+        "nom_complet": "Carnot BOURGEOIS",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BOURGEOIS",
+          "prenom": "Carnot",
+          "nom_complet": "Carnot BOURGEOIS",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "PAW",
+          "prenom": "Renée",
+          "nom_complet": "Renée PAW",
+          "sexe": "F",
+          "age": 76,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BURGNIES",
+          "prenom": "Fabrice",
+          "nom_complet": "Fabrice BURGNIES",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "WARNEZ",
+          "prenom": "Muriel",
+          "nom_complet": "Muriel WARNEZ",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "VANELSTRAETE",
+          "prenom": "Eric",
+          "nom_complet": "Eric VANELSTRAETE",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "5"
+        }
+      ],
+      "statut_conseil": "autre"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "AVEC VOUS POUR FOUQUIERES",
+      "libelle_abrege_liste": "AVEC VOUS POUR FOUQUIERES",
+      "nuance_liste": "LDVG",
+      "voix": 323,
+      "pct_voix_exprimes": 14.38,
+      "sieges_cm": 2,
+      "sieges_cc": 0,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "BUYCK DHINNIN",
+        "prenom": "Isabelle",
+        "nom_complet": "Isabelle BUYCK DHINNIN",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "BUYCK DHINNIN",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle BUYCK DHINNIN",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "PAYEN",
+          "prenom": "Rémi",
+          "nom_complet": "Rémi PAYEN",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

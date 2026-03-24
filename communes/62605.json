@@ -1,0 +1,99 @@
+{
+  "code_commune": "62605",
+  "commune": "Neulette",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "CUSSAC",
+    "prenom": "Caroline",
+    "nom_complet": "Caroline CUSSAC",
+    "age": 70,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 33,
+    "votants": 25,
+    "pct_votants": 75.76,
+    "abstentions": 8,
+    "pct_abstentions": 24.24,
+    "exprimes": 24
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Liste menée par Cussac Caroline",
+      "libelle_abrege_liste": "Liste menée par Cussac Caroline",
+      "nuance_liste": null,
+      "voix": 24,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 7,
+      "sieges_cc": null,
+      "nb_elus": 7,
+      "tete_de_liste": {
+        "nom": "CUSSAC",
+        "prenom": "Caroline",
+        "nom_complet": "Caroline CUSSAC",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "CUSSAC",
+          "prenom": "Caroline",
+          "nom_complet": "Caroline CUSSAC",
+          "sexe": "F",
+          "age": 70,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LEVEL",
+          "prenom": "Simon",
+          "nom_complet": "Simon LEVEL",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "THEROUANNE",
+          "prenom": "Catherine",
+          "nom_complet": "Catherine THEROUANNE",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "CUSSAC",
+          "prenom": "Jean-Felix",
+          "nom_complet": "Jean-Felix CUSSAC",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "SKRZYPCZAK",
+          "prenom": "Marie-Helene",
+          "nom_complet": "Marie-Helene SKRZYPCZAK",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "SAUTY",
+          "prenom": "Anthony",
+          "nom_complet": "Anthony SAUTY",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DE RAYNAL",
+          "prenom": "Solange",
+          "nom_complet": "Solange DE RAYNAL",
+          "sexe": "F",
+          "age": 75,
+          "rang_liste": "7"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

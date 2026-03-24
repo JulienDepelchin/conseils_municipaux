@@ -1,0 +1,327 @@
+{
+  "code_commune": "59249",
+  "commune": "Fourmies",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "HIRAUX",
+    "prenom": "Mickaël",
+    "nom_complet": "Mickaël HIRAUX",
+    "age": 54,
+    "nuance": "LDVD"
+  },
+  "resultats": {
+    "inscrits": 8449,
+    "votants": 3798,
+    "pct_votants": 44.95,
+    "abstentions": 4651,
+    "pct_abstentions": 55.05,
+    "exprimes": 3646
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "Ensemble, continuons à transformer Fourmies",
+      "libelle_abrege_liste": "Ensemble, continuons à transformer Fourmies",
+      "nuance_liste": "LDVD",
+      "voix": 3163,
+      "pct_voix_exprimes": 86.75,
+      "sieges_cm": 31,
+      "sieges_cc": 18,
+      "nb_elus": 31,
+      "tete_de_liste": {
+        "nom": "HIRAUX",
+        "prenom": "Mickaël",
+        "nom_complet": "Mickaël HIRAUX",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "HIRAUX",
+          "prenom": "Mickaël",
+          "nom_complet": "Mickaël HIRAUX",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "TROCLET",
+          "prenom": "Amandine",
+          "nom_complet": "Amandine TROCLET",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "SIMPÈRE",
+          "prenom": "Maxence",
+          "nom_complet": "Maxence SIMPÈRE",
+          "sexe": "M",
+          "age": 34,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "PATIN",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie PATIN",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "WASCAT",
+          "prenom": "Benoît",
+          "nom_complet": "Benoît WASCAT",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LEFORT",
+          "prenom": "Corinne",
+          "nom_complet": "Corinne LEFORT",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "YDÉ",
+          "prenom": "Louis",
+          "nom_complet": "Louis YDÉ",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "KOLANO",
+          "prenom": "Sandrine",
+          "nom_complet": "Sandrine KOLANO",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "BURY",
+          "prenom": "Jean-Luc",
+          "nom_complet": "Jean-Luc BURY",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DUPARCQ",
+          "prenom": "Agnès",
+          "nom_complet": "Agnès DUPARCQ",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "VIEVILLE",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe VIEVILLE",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "CHARBONNEAU",
+          "prenom": "Christelle",
+          "nom_complet": "Christelle CHARBONNEAU",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "PRONAU",
+          "prenom": "Jean-Paul",
+          "nom_complet": "Jean-Paul PRONAU",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "LIEVRARD",
+          "prenom": "Corinne",
+          "nom_complet": "Corinne LIEVRARD",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "WILHELM",
+          "prenom": "Jean-Pierre",
+          "nom_complet": "Jean-Pierre WILHELM",
+          "sexe": "M",
+          "age": 76,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "SCOTH",
+          "prenom": "Christelle",
+          "nom_complet": "Christelle SCOTH",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "GLASSET",
+          "prenom": "Cédric",
+          "nom_complet": "Cédric GLASSET",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "FRISON",
+          "prenom": "Clotilde",
+          "nom_complet": "Clotilde FRISON",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "MENÉ",
+          "prenom": "Amaury",
+          "nom_complet": "Amaury MENÉ",
+          "sexe": "M",
+          "age": 30,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "SEILLIER",
+          "prenom": "Maryse",
+          "nom_complet": "Maryse SEILLIER",
+          "sexe": "F",
+          "age": 74,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "ALCESILAS",
+          "prenom": "Jérôme",
+          "nom_complet": "Jérôme ALCESILAS",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "TRAP",
+          "prenom": "Claudine",
+          "nom_complet": "Claudine TRAP",
+          "sexe": "F",
+          "age": 78,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "BRETON",
+          "prenom": "Emmanuel",
+          "nom_complet": "Emmanuel BRETON",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "23"
+        },
+        {
+          "nom": "DUBOIS",
+          "prenom": "Marie-Line",
+          "nom_complet": "Marie-Line DUBOIS",
+          "sexe": "F",
+          "age": 71,
+          "rang_liste": "24"
+        },
+        {
+          "nom": "SAUTIÈRE",
+          "prenom": "Alain",
+          "nom_complet": "Alain SAUTIÈRE",
+          "sexe": "M",
+          "age": 78,
+          "rang_liste": "25"
+        },
+        {
+          "nom": "RENAUT",
+          "prenom": "Annick",
+          "nom_complet": "Annick RENAUT",
+          "sexe": "F",
+          "age": 76,
+          "rang_liste": "26"
+        },
+        {
+          "nom": "SIMPÈRE",
+          "prenom": "Thierry",
+          "nom_complet": "Thierry SIMPÈRE",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "27"
+        },
+        {
+          "nom": "OGEZ",
+          "prenom": "Patricia",
+          "nom_complet": "Patricia OGEZ",
+          "sexe": "F",
+          "age": 71,
+          "rang_liste": "28"
+        },
+        {
+          "nom": "BAIL",
+          "prenom": "Jean-Baptiste",
+          "nom_complet": "Jean-Baptiste BAIL",
+          "sexe": "M",
+          "age": 33,
+          "rang_liste": "29"
+        },
+        {
+          "nom": "CANONNE",
+          "prenom": "Marie-Lise",
+          "nom_complet": "Marie-Lise CANONNE",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "30"
+        },
+        {
+          "nom": "LARZILLIERE",
+          "prenom": "Amélien",
+          "nom_complet": "Amélien LARZILLIERE",
+          "sexe": "M",
+          "age": 31,
+          "rang_liste": "31"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Lutte ouvrière - le camp des travailleurs",
+      "libelle_abrege_liste": "Lutte ouvrière - le camp des travailleurs",
+      "nuance_liste": "LEXG",
+      "voix": 483,
+      "pct_voix_exprimes": 13.25,
+      "sieges_cm": 2,
+      "sieges_cc": 1,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "RONDEAUX",
+        "prenom": "Marie-Claude",
+        "nom_complet": "Marie-Claude RONDEAUX",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "RONDEAUX",
+          "prenom": "Marie-Claude",
+          "nom_complet": "Marie-Claude RONDEAUX",
+          "sexe": "F",
+          "age": 70,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "COURNUT",
+          "prenom": "Jean-Charles",
+          "nom_complet": "Jean-Charles COURNUT",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

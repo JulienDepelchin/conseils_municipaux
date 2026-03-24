@@ -1,0 +1,215 @@
+{
+  "code_commune": "62735",
+  "commune": "Sailly-Labourse",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "GAUTIER",
+    "prenom": "Odile",
+    "nom_complet": "Odile GAUTIER",
+    "age": 59,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1829,
+    "votants": 1146,
+    "pct_votants": 62.66,
+    "abstentions": 683,
+    "pct_abstentions": 37.34,
+    "exprimes": 1111
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "UN NOUVEL ÉLAN POUR SAILLY-LABOURSE",
+      "libelle_abrege_liste": "UN NOUVEL ÉLAN POUR SAILLY-LABOURSE",
+      "nuance_liste": null,
+      "voix": 598,
+      "pct_voix_exprimes": 53.83,
+      "sieges_cm": 15,
+      "sieges_cc": 1,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "GAUTIER",
+        "prenom": "Odile",
+        "nom_complet": "Odile GAUTIER",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "GAUTIER",
+          "prenom": "Odile",
+          "nom_complet": "Odile GAUTIER",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DELRUE",
+          "prenom": "Christian",
+          "nom_complet": "Christian DELRUE",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BILLAUT",
+          "prenom": "Émilie",
+          "nom_complet": "Émilie BILLAUT",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "GIACALONE",
+          "prenom": "Alfio",
+          "nom_complet": "Alfio GIACALONE",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "FARDEL",
+          "prenom": "Émilie",
+          "nom_complet": "Émilie FARDEL",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "CARON",
+          "prenom": "Julien",
+          "nom_complet": "Julien CARON",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "MESUREUR",
+          "prenom": "Alexandra",
+          "nom_complet": "Alexandra MESUREUR",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "GAUTIER",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique GAUTIER",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "TEIXEIRA",
+          "prenom": "Marjorie",
+          "nom_complet": "Marjorie TEIXEIRA",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "HUGOO",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier HUGOO",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DELRUE",
+          "prenom": "Peggy",
+          "nom_complet": "Peggy DELRUE",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "LESAGE",
+          "prenom": "Thomas",
+          "nom_complet": "Thomas LESAGE",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "CIAN",
+          "prenom": "Audrey",
+          "nom_complet": "Audrey CIAN",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "THOMAS",
+          "prenom": "Marc",
+          "nom_complet": "Marc THOMAS",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "WAROUX",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie WAROUX",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ENSEMBLE, GARDONS LE CAP VERS L'AVENIR",
+      "libelle_abrege_liste": "ENSEMBLE, GARDONS LE CAP VERS L'AVENIR",
+      "nuance_liste": null,
+      "voix": 513,
+      "pct_voix_exprimes": 46.17,
+      "sieges_cm": 4,
+      "sieges_cc": 0,
+      "nb_elus": 4,
+      "tete_de_liste": {
+        "nom": "HENNEBELLE",
+        "prenom": "Dominique",
+        "nom_complet": "Dominique HENNEBELLE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "HENNEBELLE",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique HENNEBELLE",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "KUBINOWSKI",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie KUBINOWSKI",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "PAWLACZYK",
+          "prenom": "Daniel",
+          "nom_complet": "Daniel PAWLACZYK",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "COUPET",
+          "prenom": "Marie-Noëlle",
+          "nom_complet": "Marie-Noëlle COUPET",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "4"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

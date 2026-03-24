@@ -1,0 +1,183 @@
+{
+  "code_commune": "62042",
+  "commune": "Athies",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "LENGLET",
+    "prenom": "Anthony",
+    "nom_complet": "Anthony LENGLET",
+    "age": 40,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 878,
+    "votants": 714,
+    "pct_votants": 81.32,
+    "abstentions": 164,
+    "pct_abstentions": 18.68,
+    "exprimes": 699
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "Athies - Un engagement pour l'avenir",
+      "libelle_abrege_liste": "Athies - Un engagement pour l'avenir",
+      "nuance_liste": null,
+      "voix": 402,
+      "pct_voix_exprimes": 57.51,
+      "sieges_cm": 12,
+      "sieges_cc": 1,
+      "nb_elus": 12,
+      "tete_de_liste": {
+        "nom": "LENGLET",
+        "prenom": "Anthony",
+        "nom_complet": "Anthony LENGLET",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LENGLET",
+          "prenom": "Anthony",
+          "nom_complet": "Anthony LENGLET",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LEFRANC",
+          "prenom": "Corinne",
+          "nom_complet": "Corinne LEFRANC",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "GOUBET",
+          "prenom": "Maxime",
+          "nom_complet": "Maxime GOUBET",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BINET",
+          "prenom": "Pascale",
+          "nom_complet": "Pascale BINET",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "BOUTIFLAT",
+          "prenom": "Maxime",
+          "nom_complet": "Maxime BOUTIFLAT",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "MAFRANS",
+          "prenom": "Marie",
+          "nom_complet": "Marie MAFRANS",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "LABBENS",
+          "prenom": "Teddy",
+          "nom_complet": "Teddy LABBENS",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "VERLEENE",
+          "prenom": "Julie",
+          "nom_complet": "Julie VERLEENE",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "FROMENT",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas FROMENT",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "MARETTE",
+          "prenom": "Apolline",
+          "nom_complet": "Apolline MARETTE",
+          "sexe": "F",
+          "age": 25,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "LIENARD",
+          "prenom": "Benoit",
+          "nom_complet": "Benoit LIENARD",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "SCAILLIEREZ",
+          "prenom": "Charline",
+          "nom_complet": "Charline SCAILLIEREZ",
+          "sexe": "F",
+          "age": 77,
+          "rang_liste": "12"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Générations Athies",
+      "libelle_abrege_liste": "Générations Athies",
+      "nuance_liste": null,
+      "voix": 297,
+      "pct_voix_exprimes": 42.49,
+      "sieges_cm": 3,
+      "sieges_cc": 0,
+      "nb_elus": 3,
+      "tete_de_liste": {
+        "nom": "AMEELE",
+        "prenom": "Gaëtan",
+        "nom_complet": "Gaëtan AMEELE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "AMEELE",
+          "prenom": "Gaëtan",
+          "nom_complet": "Gaëtan AMEELE",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "KOLACZYK",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique KOLACZYK",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LAMBECQ",
+          "prenom": "Georges",
+          "nom_complet": "Georges LAMBECQ",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "3"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

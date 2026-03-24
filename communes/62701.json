@@ -1,0 +1,131 @@
+{
+  "code_commune": "62701",
+  "commune": "Rely",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "MACKE",
+    "prenom": "Jean-Marie",
+    "nom_complet": "Jean-Marie MACKE",
+    "age": 73,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 375,
+    "votants": 247,
+    "pct_votants": 65.87,
+    "abstentions": 128,
+    "pct_abstentions": 34.13,
+    "exprimes": 213
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ENSEMBLE POUR RELY",
+      "libelle_abrege_liste": "ENSEMBLE POUR RELY",
+      "nuance_liste": null,
+      "voix": 213,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "MACKE",
+        "prenom": "Jean-Marie",
+        "nom_complet": "Jean-Marie MACKE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "MACKE",
+          "prenom": "Jean-Marie",
+          "nom_complet": "Jean-Marie MACKE",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DEFRANCE",
+          "prenom": "Édith",
+          "nom_complet": "Édith DEFRANCE",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "CARON",
+          "prenom": "Pierre-Marie",
+          "nom_complet": "Pierre-Marie CARON",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "MIGNOT",
+          "prenom": "Anne-Sophie",
+          "nom_complet": "Anne-Sophie MIGNOT",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DELECROIX",
+          "prenom": "Michel",
+          "nom_complet": "Michel DELECROIX",
+          "sexe": "M",
+          "age": 75,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "BART",
+          "prenom": "Emilie",
+          "nom_complet": "Emilie BART",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "HUGUET",
+          "prenom": "Franck",
+          "nom_complet": "Franck HUGUET",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "MARIEN",
+          "prenom": "Alexandra",
+          "nom_complet": "Alexandra MARIEN",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DETRUE",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric DETRUE",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "QUENIVET",
+          "prenom": "Lucie",
+          "nom_complet": "Lucie QUENIVET",
+          "sexe": "F",
+          "age": 33,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "JACOB",
+          "prenom": "David",
+          "nom_complet": "David JACOB",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

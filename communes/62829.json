@@ -1,0 +1,131 @@
+{
+  "code_commune": "62829",
+  "commune": "Le Transloy",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "LEFEBVRE",
+    "prenom": "Thierry",
+    "nom_complet": "Thierry LEFEBVRE",
+    "age": 61,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 322,
+    "votants": 185,
+    "pct_votants": 57.45,
+    "abstentions": 137,
+    "pct_abstentions": 42.55,
+    "exprimes": 145
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "UNE EQUIPE ENGAGEE POUR NOTRE VILLAGE",
+      "libelle_abrege_liste": "UNE EQUIPE ENGAGEE POUR NOTRE VILLAGE",
+      "nuance_liste": null,
+      "voix": 145,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "LEFEBVRE",
+        "prenom": "Thierry",
+        "nom_complet": "Thierry LEFEBVRE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LEFEBVRE",
+          "prenom": "Thierry",
+          "nom_complet": "Thierry LEFEBVRE",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DERAM",
+          "prenom": "Jeanne",
+          "nom_complet": "Jeanne DERAM",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "CAPON",
+          "prenom": "Jean-Luc",
+          "nom_complet": "Jean-Luc CAPON",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "CHOPIN",
+          "prenom": "Aurélie",
+          "nom_complet": "Aurélie CHOPIN",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "WATRAIN",
+          "prenom": "Christian",
+          "nom_complet": "Christian WATRAIN",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DHOUAILLY",
+          "prenom": "Julie",
+          "nom_complet": "Julie DHOUAILLY",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "POUILLAUDE",
+          "prenom": "Xavier",
+          "nom_complet": "Xavier POUILLAUDE",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DHENNEULIN",
+          "prenom": "Ilona",
+          "nom_complet": "Ilona DHENNEULIN",
+          "sexe": "F",
+          "age": 33,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DRÉCOURT",
+          "prenom": "Jean-Michel",
+          "nom_complet": "Jean-Michel DRÉCOURT",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "COQUERIE",
+          "prenom": "Justine",
+          "nom_complet": "Justine COQUERIE",
+          "sexe": "F",
+          "age": 32,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "FLOUR",
+          "prenom": "Fabrice",
+          "nom_complet": "Fabrice FLOUR",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

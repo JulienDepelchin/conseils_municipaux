@@ -1,0 +1,183 @@
+{
+  "code_commune": "62174",
+  "commune": "Brêmes",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "MAHIEUX",
+    "prenom": "Jérémy",
+    "nom_complet": "Jérémy MAHIEUX",
+    "age": 33,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1069,
+    "votants": 773,
+    "pct_votants": 72.31,
+    "abstentions": 296,
+    "pct_abstentions": 27.69,
+    "exprimes": 759
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Brêmes 2026, vers un nouvel élan",
+      "libelle_abrege_liste": "Brêmes 2026, vers un nouvel élan",
+      "nuance_liste": null,
+      "voix": 408,
+      "pct_voix_exprimes": 53.75,
+      "sieges_cm": 12,
+      "sieges_cc": 2,
+      "nb_elus": 12,
+      "tete_de_liste": {
+        "nom": "MAHIEUX",
+        "prenom": "Jérémy",
+        "nom_complet": "Jérémy MAHIEUX",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "MAHIEUX",
+          "prenom": "Jérémy",
+          "nom_complet": "Jérémy MAHIEUX",
+          "sexe": "M",
+          "age": 33,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "PONTHIEU",
+          "prenom": "Peggy",
+          "nom_complet": "Peggy PONTHIEU",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "HENNEQUET",
+          "prenom": "Fabrice",
+          "nom_complet": "Fabrice HENNEQUET",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DEWEZ CATEZ",
+          "prenom": "Aurélie",
+          "nom_complet": "Aurélie DEWEZ CATEZ",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "HOUTON",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas HOUTON",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "MILITON",
+          "prenom": "Françoise",
+          "nom_complet": "Françoise MILITON",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "LENNUYEUX",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent LENNUYEUX",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "PIQUET-VALET",
+          "prenom": "Aurélie",
+          "nom_complet": "Aurélie PIQUET-VALET",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "VANDERSLUYS",
+          "prenom": "Rémy",
+          "nom_complet": "Rémy VANDERSLUYS",
+          "sexe": "M",
+          "age": 31,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "LASSALLE",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie LASSALLE",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "FOURCROY",
+          "prenom": "Yohann",
+          "nom_complet": "Yohann FOURCROY",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "FACKEURE",
+          "prenom": "Elise",
+          "nom_complet": "Elise FACKEURE",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "12"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "Brêmes 2026, cap sur l'avenir",
+      "libelle_abrege_liste": "Brêmes 2026, cap sur l'avenir",
+      "nuance_liste": null,
+      "voix": 351,
+      "pct_voix_exprimes": 46.25,
+      "sieges_cm": 3,
+      "sieges_cc": 0,
+      "nb_elus": 3,
+      "tete_de_liste": {
+        "nom": "MARCQ",
+        "prenom": "Brigitte",
+        "nom_complet": "Brigitte MARCQ",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "MARCQ",
+          "prenom": "Brigitte",
+          "nom_complet": "Brigitte MARCQ",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "POUILLY",
+          "prenom": "Tony",
+          "nom_complet": "Tony POUILLY",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "FLAHAUW",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie FLAHAUW",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "3"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

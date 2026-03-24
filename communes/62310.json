@@ -1,0 +1,215 @@
+{
+  "code_commune": "62310",
+  "commune": "Essars",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "BREHON",
+    "prenom": "Jean-Charles",
+    "nom_complet": "Jean-Charles BREHON",
+    "age": 59,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1428,
+    "votants": 1015,
+    "pct_votants": 71.08,
+    "abstentions": 413,
+    "pct_abstentions": 28.92,
+    "exprimes": 990
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "AVANÇONS UNIS POUR L'AVENIR D'ESSARS",
+      "libelle_abrege_liste": "AVANÇONS UNIS POUR L'AVENIR D'ESSARS",
+      "nuance_liste": null,
+      "voix": 643,
+      "pct_voix_exprimes": 64.95,
+      "sieges_cm": 16,
+      "sieges_cc": 1,
+      "nb_elus": 16,
+      "tete_de_liste": {
+        "nom": "BREHON",
+        "prenom": "Jean-Charles",
+        "nom_complet": "Jean-Charles BREHON",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BREHON",
+          "prenom": "Jean-Charles",
+          "nom_complet": "Jean-Charles BREHON",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "PETIT",
+          "prenom": "Brigitte",
+          "nom_complet": "Brigitte PETIT",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "VASSEUR",
+          "prenom": "Marc",
+          "nom_complet": "Marc VASSEUR",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DELLISTE",
+          "prenom": "Cathy",
+          "nom_complet": "Cathy DELLISTE",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "BEZU",
+          "prenom": "Stéphane",
+          "nom_complet": "Stéphane BEZU",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "FENART",
+          "prenom": "Melanie",
+          "nom_complet": "Melanie FENART",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DUBRULLE",
+          "prenom": "Jean-Paul",
+          "nom_complet": "Jean-Paul DUBRULLE",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "FAUVERGUE",
+          "prenom": "Virginie",
+          "nom_complet": "Virginie FAUVERGUE",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "LISEWSKI",
+          "prenom": "Antoine",
+          "nom_complet": "Antoine LISEWSKI",
+          "sexe": "M",
+          "age": 30,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DELASSUS",
+          "prenom": "Florine",
+          "nom_complet": "Florine DELASSUS",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "CARON",
+          "prenom": "Alexandre",
+          "nom_complet": "Alexandre CARON",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "DÉFONTAINE",
+          "prenom": "Marie-Jeanne",
+          "nom_complet": "Marie-Jeanne DÉFONTAINE",
+          "sexe": "F",
+          "age": 72,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "NOCERA",
+          "prenom": "David",
+          "nom_complet": "David NOCERA",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "VILAIN",
+          "prenom": "Ophélie",
+          "nom_complet": "Ophélie VILAIN",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "GOY",
+          "prenom": "Pierre",
+          "nom_complet": "Pierre GOY",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "PANCKOUCKE",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle PANCKOUCKE",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "16"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ENSEMBLE POUR ESSARS",
+      "libelle_abrege_liste": "ENSEMBLE POUR ESSARS",
+      "nuance_liste": null,
+      "voix": 347,
+      "pct_voix_exprimes": 35.05,
+      "sieges_cm": 3,
+      "sieges_cc": 0,
+      "nb_elus": 3,
+      "tete_de_liste": {
+        "nom": "MASSARD",
+        "prenom": "Pascal",
+        "nom_complet": "Pascal MASSARD",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "MASSARD",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal MASSARD",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LE SUAVÉ",
+          "prenom": "Kelly",
+          "nom_complet": "Kelly LE SUAVÉ",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "CZUKIEWYCZ",
+          "prenom": "Alain",
+          "nom_complet": "Alain CZUKIEWYCZ",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "3"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

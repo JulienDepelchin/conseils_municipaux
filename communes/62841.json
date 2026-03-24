@@ -1,0 +1,229 @@
+{
+  "code_commune": "62841",
+  "commune": "Vendin-lès-Béthune",
+  "departement": "Pas-de-Calais",
+  "tour": "T2",
+  "maire": {
+    "nom": "MORIEN",
+    "prenom": "Patrick",
+    "nom_complet": "Patrick MORIEN",
+    "age": 61,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 2052,
+    "votants": 1365,
+    "pct_votants": 66.52,
+    "abstentions": 687,
+    "pct_abstentions": 33.48,
+    "exprimes": 1340
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "V2026 Une équipe proche pour une commune vivante",
+      "libelle_abrege_liste": "V2026 Une équipe proche pour une commune vivante",
+      "nuance_liste": null,
+      "voix": 636,
+      "pct_voix_exprimes": 47.46,
+      "sieges_cm": 15,
+      "sieges_cc": 1,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "MORIEN",
+        "prenom": "Patrick",
+        "nom_complet": "Patrick MORIEN",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "MORIEN",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick MORIEN",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "CARON",
+          "prenom": "Agathe",
+          "nom_complet": "Agathe CARON",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "FARDEL",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe FARDEL",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LITREM",
+          "prenom": "Peggy",
+          "nom_complet": "Peggy LITREM",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DEREUMETZ",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe DEREUMETZ",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LESIEUX",
+          "prenom": "Nicole",
+          "nom_complet": "Nicole LESIEUX",
+          "sexe": "F",
+          "age": 72,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BRASME",
+          "prenom": "Eric",
+          "nom_complet": "Eric BRASME",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "CADART",
+          "prenom": "Tiphanie",
+          "nom_complet": "Tiphanie CADART",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "GROUX",
+          "prenom": "Florent",
+          "nom_complet": "Florent GROUX",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "CADART",
+          "prenom": "Emilie",
+          "nom_complet": "Emilie CADART",
+          "sexe": "F",
+          "age": 29,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "CAINNE",
+          "prenom": "Thomas",
+          "nom_complet": "Thomas CAINNE",
+          "sexe": "M",
+          "age": 21,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "DEROITE",
+          "prenom": "Celine",
+          "nom_complet": "Celine DEROITE",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "CAUX",
+          "prenom": "Julien",
+          "nom_complet": "Julien CAUX",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "MORIEN",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie MORIEN",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "BREBION",
+          "prenom": "Sébastien",
+          "nom_complet": "Sébastien BREBION",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ENSEMBLE POUR VENDIN - CONSTRUISONS L'AVENIR",
+      "libelle_abrege_liste": "ENSEMBLE POUR VENDIN - CONSTRUISONS L'AVENIR",
+      "nuance_liste": null,
+      "voix": 609,
+      "pct_voix_exprimes": 45.45,
+      "sieges_cm": 4,
+      "sieges_cc": 0,
+      "nb_elus": 4,
+      "tete_de_liste": {
+        "nom": "MEYFROIDT",
+        "prenom": "Sylvie",
+        "nom_complet": "Sylvie MEYFROIDT",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "MEYFROIDT",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie MEYFROIDT",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BRISMAIL",
+          "prenom": "Didier",
+          "nom_complet": "Didier BRISMAIL",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "WRZESZCZ",
+          "prenom": "Monique",
+          "nom_complet": "Monique WRZESZCZ",
+          "sexe": "F",
+          "age": 73,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "FLORCZYK",
+          "prenom": "Patrice",
+          "nom_complet": "Patrice FLORCZYK",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "4"
+        }
+      ],
+      "statut_conseil": "autre"
+    },
+    {
+      "num_panneau": "3",
+      "libelle_liste": "Entre hier et demain, un avenir en commun",
+      "libelle_abrege_liste": "Entre hier et demain, un avenir en commun",
+      "nuance_liste": null,
+      "voix": 95,
+      "pct_voix_exprimes": 7.09,
+      "sieges_cm": 0,
+      "sieges_cc": 0,
+      "nb_elus": 0,
+      "tete_de_liste": null,
+      "elus": [],
+      "statut_conseil": "sans_elu"
+    }
+  ]
+}

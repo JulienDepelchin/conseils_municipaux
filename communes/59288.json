@@ -1,0 +1,215 @@
+{
+  "code_commune": "59288",
+  "commune": "Haulchin",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "RACZKIEWICZ",
+    "prenom": "Bruno",
+    "nom_complet": "Bruno RACZKIEWICZ",
+    "age": 61,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1717,
+    "votants": 1090,
+    "pct_votants": 63.48,
+    "abstentions": 627,
+    "pct_abstentions": 36.52,
+    "exprimes": 1064
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "Cap 26-32 pour Haulchin continuons ensemble",
+      "libelle_abrege_liste": "Cap 26-32 pour Haulchin continuons ensemble",
+      "nuance_liste": null,
+      "voix": 542,
+      "pct_voix_exprimes": 50.94,
+      "sieges_cm": 15,
+      "sieges_cc": 1,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "RACZKIEWICZ",
+        "prenom": "Bruno",
+        "nom_complet": "Bruno RACZKIEWICZ",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "RACZKIEWICZ",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno RACZKIEWICZ",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "PARSY",
+          "prenom": "Amélie",
+          "nom_complet": "Amélie PARSY",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "JOURNET",
+          "prenom": "Karl",
+          "nom_complet": "Karl JOURNET",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "RODRIGUES",
+          "prenom": "Marina",
+          "nom_complet": "Marina RODRIGUES",
+          "sexe": "F",
+          "age": 27,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "JACQMART",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier JACQMART",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LALOY",
+          "prenom": "Elodie",
+          "nom_complet": "Elodie LALOY",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "CHARLET",
+          "prenom": "Vincent",
+          "nom_complet": "Vincent CHARLET",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "SOUPLET",
+          "prenom": "Anne-Marie",
+          "nom_complet": "Anne-Marie SOUPLET",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "BECART",
+          "prenom": "Mathieu",
+          "nom_complet": "Mathieu BECART",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "CUCCHIARA",
+          "prenom": "Sabrina",
+          "nom_complet": "Sabrina CUCCHIARA",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "BONNAFOUS",
+          "prenom": "Alain",
+          "nom_complet": "Alain BONNAFOUS",
+          "sexe": "M",
+          "age": 77,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "FLAMENT",
+          "prenom": "Henriette",
+          "nom_complet": "Henriette FLAMENT",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "HARVENT",
+          "prenom": "Marius",
+          "nom_complet": "Marius HARVENT",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "CHOQUET",
+          "prenom": "Jocelyne",
+          "nom_complet": "Jocelyne CHOQUET",
+          "sexe": "F",
+          "age": 76,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "MOUI",
+          "prenom": "Jean-Bernard",
+          "nom_complet": "Jean-Bernard MOUI",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "HAULCHIN POUR VOUS ET AVEC VOUS",
+      "libelle_abrege_liste": "HAULCHIN POUR VOUS ET AVEC VOUS",
+      "nuance_liste": null,
+      "voix": 522,
+      "pct_voix_exprimes": 49.06,
+      "sieges_cm": 4,
+      "sieges_cc": 0,
+      "nb_elus": 4,
+      "tete_de_liste": {
+        "nom": "HEGO-GAUTIER",
+        "prenom": "Isabelle",
+        "nom_complet": "Isabelle HEGO-GAUTIER",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "HEGO-GAUTIER",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle HEGO-GAUTIER",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "THIERY",
+          "prenom": "Jean-Yves",
+          "nom_complet": "Jean-Yves THIERY",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DAVID",
+          "prenom": "Chantal",
+          "nom_complet": "Chantal DAVID",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DUFOUR",
+          "prenom": "Johan",
+          "nom_complet": "Johan DUFOUR",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "4"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

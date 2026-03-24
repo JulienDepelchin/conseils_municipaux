@@ -1,0 +1,131 @@
+{
+  "code_commune": "62165",
+  "commune": "Bournonville",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "LACHERE",
+    "prenom": "Vincent",
+    "nom_complet": "Vincent LACHERE",
+    "age": 41,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 176,
+    "votants": 126,
+    "pct_votants": 71.59,
+    "abstentions": 50,
+    "pct_abstentions": 28.41,
+    "exprimes": 97
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ENSEMBLE POUR NOTRE VILLAGE",
+      "libelle_abrege_liste": "ENSEMBLE POUR NOTRE VILLAGE",
+      "nuance_liste": null,
+      "voix": 97,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "LACHERE",
+        "prenom": "Vincent",
+        "nom_complet": "Vincent LACHERE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LACHERE",
+          "prenom": "Vincent",
+          "nom_complet": "Vincent LACHERE",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DELATTRE",
+          "prenom": "Peggy",
+          "nom_complet": "Peggy DELATTRE",
+          "sexe": "F",
+          "age": 33,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "QUANDALLE",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe QUANDALLE",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DEBETTE",
+          "prenom": "Sylvia",
+          "nom_complet": "Sylvia DEBETTE",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LEROY",
+          "prenom": "Franck",
+          "nom_complet": "Franck LEROY",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LAMARE",
+          "prenom": "Anais",
+          "nom_complet": "Anais LAMARE",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "SENECAT",
+          "prenom": "Jean-Marc",
+          "nom_complet": "Jean-Marc SENECAT",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LARTISIEN",
+          "prenom": "Kelly",
+          "nom_complet": "Kelly LARTISIEN",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "BERTIN",
+          "prenom": "Mathieu",
+          "nom_complet": "Mathieu BERTIN",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "TREIZEBRE",
+          "prenom": "Lucie",
+          "nom_complet": "Lucie TREIZEBRE",
+          "sexe": "F",
+          "age": 32,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "BARON",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas BARON",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

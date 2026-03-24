@@ -1,0 +1,131 @@
+{
+  "code_commune": "62527",
+  "commune": "Longvilliers",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "PETIT",
+    "prenom": "Philippe",
+    "nom_complet": "Philippe PETIT",
+    "age": 65,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 195,
+    "votants": 111,
+    "pct_votants": 56.92,
+    "abstentions": 84,
+    "pct_abstentions": 43.08,
+    "exprimes": 90
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "AGIR TOUS ENSEMBLE POUR LONGVILLIERS",
+      "libelle_abrege_liste": "AGIR TOUS ENSEMBLE POUR LONGVILLIERS",
+      "nuance_liste": null,
+      "voix": 90,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "PETIT",
+        "prenom": "Philippe",
+        "nom_complet": "Philippe PETIT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "PETIT",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe PETIT",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DUMONT",
+          "prenom": "Agnès",
+          "nom_complet": "Agnès DUMONT",
+          "sexe": "F",
+          "age": 70,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "SAILLY",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe SAILLY",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DELAPORTE",
+          "prenom": "Sophie",
+          "nom_complet": "Sophie DELAPORTE",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "SAILLY",
+          "prenom": "Jean-Bernard",
+          "nom_complet": "Jean-Bernard SAILLY",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DAQUIN",
+          "prenom": "Julie",
+          "nom_complet": "Julie DAQUIN",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BAILLET",
+          "prenom": "Mickaël",
+          "nom_complet": "Mickaël BAILLET",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "SAILLY",
+          "prenom": "Estelle",
+          "nom_complet": "Estelle SAILLY",
+          "sexe": "F",
+          "age": 31,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "FOURQUET",
+          "prenom": "Florent",
+          "nom_complet": "Florent FOURQUET",
+          "sexe": "M",
+          "age": 29,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "VANDERHAEGEN",
+          "prenom": "Marie-Claire",
+          "nom_complet": "Marie-Claire VANDERHAEGEN",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "RENAUX",
+          "prenom": "Damien",
+          "nom_complet": "Damien RENAUX",
+          "sexe": "M",
+          "age": 33,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

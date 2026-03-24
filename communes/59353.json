@@ -1,0 +1,131 @@
+{
+  "code_commune": "59353",
+  "commune": "Locquignol",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "BONNIN",
+    "prenom": "Jean-Claude",
+    "nom_complet": "Jean-Claude BONNIN",
+    "age": 78,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 270,
+    "votants": 150,
+    "pct_votants": 55.56,
+    "abstentions": 120,
+    "pct_abstentions": 44.44,
+    "exprimes": 105
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Liste d'Union pour les Intérêts et la Promotion de la Commune",
+      "libelle_abrege_liste": "Liste d'Union pour les Intérêts et la Promotion de la Commune",
+      "nuance_liste": null,
+      "voix": 105,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "BONNIN",
+        "prenom": "Jean-Claude",
+        "nom_complet": "Jean-Claude BONNIN",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BONNIN",
+          "prenom": "Jean-Claude",
+          "nom_complet": "Jean-Claude BONNIN",
+          "sexe": "M",
+          "age": 78,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "POTIEZ",
+          "prenom": "Marie-Carmel",
+          "nom_complet": "Marie-Carmel POTIEZ",
+          "sexe": "F",
+          "age": 70,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BEGUIN",
+          "prenom": "Didier",
+          "nom_complet": "Didier BEGUIN",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BERLEMONT",
+          "prenom": "Marylou",
+          "nom_complet": "Marylou BERLEMONT",
+          "sexe": "F",
+          "age": 31,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "ARDUIN",
+          "prenom": "Gérard",
+          "nom_complet": "Gérard ARDUIN",
+          "sexe": "M",
+          "age": 78,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "BRICHE",
+          "prenom": "Céline",
+          "nom_complet": "Céline BRICHE",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "ABRAHAM",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent ABRAHAM",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "BERNARD",
+          "prenom": "Pascaline",
+          "nom_complet": "Pascaline BERNARD",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "SCHOORENS",
+          "prenom": "Alexandre",
+          "nom_complet": "Alexandre SCHOORENS",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "COTTIGNY",
+          "prenom": "Corie",
+          "nom_complet": "Corie COTTIGNY",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "COLOMINES",
+          "prenom": "Thierry",
+          "nom_complet": "Thierry COLOMINES",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

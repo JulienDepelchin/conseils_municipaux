@@ -1,0 +1,151 @@
+{
+  "code_commune": "62293",
+  "commune": "Embry",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "BOULOGNE",
+    "prenom": "Bruno",
+    "nom_complet": "Bruno BOULOGNE",
+    "age": 49,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 191,
+    "votants": 180,
+    "pct_votants": 94.24,
+    "abstentions": 11,
+    "pct_abstentions": 5.76,
+    "exprimes": 176
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Ensemble, continuons à faire vivre Embry",
+      "libelle_abrege_liste": "Ensemble, continuons à faire vivre Embry",
+      "nuance_liste": null,
+      "voix": 100,
+      "pct_voix_exprimes": 56.82,
+      "sieges_cm": 9,
+      "sieges_cc": null,
+      "nb_elus": 9,
+      "tete_de_liste": {
+        "nom": "BOULOGNE",
+        "prenom": "Bruno",
+        "nom_complet": "Bruno BOULOGNE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BOULOGNE",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno BOULOGNE",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "APPLER",
+          "prenom": "Claudine",
+          "nom_complet": "Claudine APPLER",
+          "sexe": "F",
+          "age": 71,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DELAHAYE",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe DELAHAYE",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "CADART",
+          "prenom": "Mélanie",
+          "nom_complet": "Mélanie CADART",
+          "sexe": "F",
+          "age": 33,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "ROUX",
+          "prenom": "Claude",
+          "nom_complet": "Claude ROUX",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "BRZESKOT",
+          "prenom": "Virginie",
+          "nom_complet": "Virginie BRZESKOT",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "MAILLARD",
+          "prenom": "Alain-Claude",
+          "nom_complet": "Alain-Claude MAILLARD",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "CARON",
+          "prenom": "Virginie",
+          "nom_complet": "Virginie CARON",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "BOULOGNE",
+          "prenom": "Bertrand",
+          "nom_complet": "Bertrand BOULOGNE",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "9"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "CONSTRUISONS EMBRY ENSEMBLE",
+      "libelle_abrege_liste": "CONSTRUISONS EMBRY ENSEMBLE",
+      "nuance_liste": null,
+      "voix": 76,
+      "pct_voix_exprimes": 43.18,
+      "sieges_cm": 2,
+      "sieges_cc": null,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "VERHAMME",
+        "prenom": "Michael",
+        "nom_complet": "Michael VERHAMME",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "VERHAMME",
+          "prenom": "Michael",
+          "nom_complet": "Michael VERHAMME",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "GALAND",
+          "prenom": "Peggy",
+          "nom_complet": "Peggy GALAND",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

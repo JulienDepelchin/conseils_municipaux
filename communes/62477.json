@@ -1,0 +1,163 @@
+{
+  "code_commune": "62477",
+  "commune": "Izel-lès-Hameau",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "SCHULZ",
+    "prenom": "Jean-Michel",
+    "nom_complet": "Jean-Michel SCHULZ",
+    "age": 62,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 580,
+    "votants": 356,
+    "pct_votants": 61.38,
+    "abstentions": 224,
+    "pct_abstentions": 38.62,
+    "exprimes": 310
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Tous pour IZEL-Lès-HAMEAU",
+      "libelle_abrege_liste": "Tous pour IZEL-Lès-HAMEAU",
+      "nuance_liste": null,
+      "voix": 310,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "SCHULZ",
+        "prenom": "Jean-Michel",
+        "nom_complet": "Jean-Michel SCHULZ",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "SCHULZ",
+          "prenom": "Jean-Michel",
+          "nom_complet": "Jean-Michel SCHULZ",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BILAINE",
+          "prenom": "Laurence",
+          "nom_complet": "Laurence BILAINE",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BARLET",
+          "prenom": "Yannick",
+          "nom_complet": "Yannick BARLET",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BOITEZ",
+          "prenom": "Christelle",
+          "nom_complet": "Christelle BOITEZ",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "CALLAUX",
+          "prenom": "Alexandre",
+          "nom_complet": "Alexandre CALLAUX",
+          "sexe": "M",
+          "age": 31,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "BRUNET-BULLOT",
+          "prenom": "Florence",
+          "nom_complet": "Florence BRUNET-BULLOT",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DAVE",
+          "prenom": "Arnaud",
+          "nom_complet": "Arnaud DAVE",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "CUISINIER",
+          "prenom": "Virginie",
+          "nom_complet": "Virginie CUISINIER",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "LEGRIS",
+          "prenom": "Alexandre",
+          "nom_complet": "Alexandre LEGRIS",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "GRARE",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie GRARE",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "LE MERDY",
+          "prenom": "Roderic",
+          "nom_complet": "Roderic LE MERDY",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "LAURENT",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie LAURENT",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "ROUSSEL",
+          "prenom": "Fabrice",
+          "nom_complet": "Fabrice ROUSSEL",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "SORET",
+          "prenom": "Séverine",
+          "nom_complet": "Séverine SORET",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "ZIETEK",
+          "prenom": "Kévin",
+          "nom_complet": "Kévin ZIETEK",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "code_commune": "62131",
+  "commune": "Bihucourt",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "CAILLE",
+    "prenom": "Benoît-Vincent",
+    "nom_complet": "Benoît-Vincent CAILLE",
+    "age": 45,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 268,
+    "votants": 153,
+    "pct_votants": 57.09,
+    "abstentions": 115,
+    "pct_abstentions": 42.91,
+    "exprimes": 118
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Continuer à agir, ensemble pour Bihucourt",
+      "libelle_abrege_liste": "Continuer à agir, ensemble pour Bihucourt",
+      "nuance_liste": null,
+      "voix": 118,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "CAILLE",
+        "prenom": "Benoît-Vincent",
+        "nom_complet": "Benoît-Vincent CAILLE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "CAILLE",
+          "prenom": "Benoît-Vincent",
+          "nom_complet": "Benoît-Vincent CAILLE",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "THUEUX",
+          "prenom": "Geneviève",
+          "nom_complet": "Geneviève THUEUX",
+          "sexe": "F",
+          "age": 71,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "STIENNE",
+          "prenom": "Didier",
+          "nom_complet": "Didier STIENNE",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BOUCAU",
+          "prenom": "Marie-Christine",
+          "nom_complet": "Marie-Christine BOUCAU",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "GOURGUECHON",
+          "prenom": "Hervé",
+          "nom_complet": "Hervé GOURGUECHON",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "BONNELLES",
+          "prenom": "Céline",
+          "nom_complet": "Céline BONNELLES",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "CAZÉ",
+          "prenom": "Joffrey",
+          "nom_complet": "Joffrey CAZÉ",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "BONNEMENT",
+          "prenom": "Brigitte",
+          "nom_complet": "Brigitte BONNEMENT",
+          "sexe": "F",
+          "age": 80,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "HENRY",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent HENRY",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "MARVULLI",
+          "prenom": "Karine",
+          "nom_complet": "Karine MARVULLI",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "PIERZCHNIK",
+          "prenom": "Richard",
+          "nom_complet": "Richard PIERZCHNIK",
+          "sexe": "M",
+          "age": 81,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

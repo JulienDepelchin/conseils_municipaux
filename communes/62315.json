@@ -1,0 +1,131 @@
+{
+  "code_commune": "62315",
+  "commune": "Estréelles",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "MAQUAIRE",
+    "prenom": "Hubert",
+    "nom_complet": "Hubert MAQUAIRE",
+    "age": 52,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 295,
+    "votants": 196,
+    "pct_votants": 66.44,
+    "abstentions": 99,
+    "pct_abstentions": 33.56,
+    "exprimes": 169
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "A VOS COTES POUR ESTREELLES",
+      "libelle_abrege_liste": "A VOS COTES POUR ESTREELLES",
+      "nuance_liste": null,
+      "voix": 169,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "MAQUAIRE",
+        "prenom": "Hubert",
+        "nom_complet": "Hubert MAQUAIRE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "MAQUAIRE",
+          "prenom": "Hubert",
+          "nom_complet": "Hubert MAQUAIRE",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BREMER",
+          "prenom": "Anne-Carine",
+          "nom_complet": "Anne-Carine BREMER",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DUHAMEL",
+          "prenom": "Eric",
+          "nom_complet": "Eric DUHAMEL",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "FROMENT",
+          "prenom": "Sylvaine",
+          "nom_complet": "Sylvaine FROMENT",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LECOUTRE",
+          "prenom": "Vincent",
+          "nom_complet": "Vincent LECOUTRE",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "GEST",
+          "prenom": "Bernadette",
+          "nom_complet": "Bernadette GEST",
+          "sexe": "F",
+          "age": 70,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "FASQUEL",
+          "prenom": "Roland",
+          "nom_complet": "Roland FASQUEL",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "TOP-MERLIN",
+          "prenom": "Amandine",
+          "nom_complet": "Amandine TOP-MERLIN",
+          "sexe": "F",
+          "age": 31,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "PAINDAVOINE",
+          "prenom": "Sébastien",
+          "nom_complet": "Sébastien PAINDAVOINE",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "SKONIECZNY",
+          "prenom": "Chantal",
+          "nom_complet": "Chantal SKONIECZNY",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "KASEBERG",
+          "prenom": "Joachim",
+          "nom_complet": "Joachim KASEBERG",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

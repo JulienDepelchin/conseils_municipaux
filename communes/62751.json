@@ -1,0 +1,183 @@
+{
+  "code_commune": "62751",
+  "commune": "Saint-Inglevert",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "BOUCLET",
+    "prenom": "Francis",
+    "nom_complet": "Francis BOUCLET",
+    "age": 72,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 590,
+    "votants": 480,
+    "pct_votants": 81.36,
+    "abstentions": 110,
+    "pct_abstentions": 18.64,
+    "exprimes": 470
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "LISTE D'UNION ET D'ACTION LOCALE",
+      "libelle_abrege_liste": "LISTE D'UNION ET D'ACTION LOCALE",
+      "nuance_liste": null,
+      "voix": 237,
+      "pct_voix_exprimes": 50.43,
+      "sieges_cm": 12,
+      "sieges_cc": null,
+      "nb_elus": 12,
+      "tete_de_liste": {
+        "nom": "BOUCLET",
+        "prenom": "Francis",
+        "nom_complet": "Francis BOUCLET",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BOUCLET",
+          "prenom": "Francis",
+          "nom_complet": "Francis BOUCLET",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "VASSEUR",
+          "prenom": "Marguerite",
+          "nom_complet": "Marguerite VASSEUR",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "ROUTIER",
+          "prenom": "Didier",
+          "nom_complet": "Didier ROUTIER",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LECLERCQ",
+          "prenom": "Sandrine",
+          "nom_complet": "Sandrine LECLERCQ",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "FOURDINIER",
+          "prenom": "François",
+          "nom_complet": "François FOURDINIER",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "COMELLO GOSSIN",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle COMELLO GOSSIN",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "LEVEL",
+          "prenom": "Gauthier",
+          "nom_complet": "Gauthier LEVEL",
+          "sexe": "M",
+          "age": 25,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LEMOINE",
+          "prenom": "Christine",
+          "nom_complet": "Christine LEMOINE",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "CREPIN",
+          "prenom": "Mathieu",
+          "nom_complet": "Mathieu CREPIN",
+          "sexe": "M",
+          "age": 31,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "LEFEBVRE",
+          "prenom": "Juliette",
+          "nom_complet": "Juliette LEFEBVRE",
+          "sexe": "F",
+          "age": 25,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DIMMERS",
+          "prenom": "Grégory",
+          "nom_complet": "Grégory DIMMERS",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "FONTAINE",
+          "prenom": "Constance",
+          "nom_complet": "Constance FONTAINE",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "12"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "SAINT-INGLEVERT, LE CHANGEMENT QUI RASSEMBLE",
+      "libelle_abrege_liste": "SAINT-INGLEVERT, LE CHANGEMENT QUI RASSEMBLE",
+      "nuance_liste": null,
+      "voix": 233,
+      "pct_voix_exprimes": 49.57,
+      "sieges_cm": 3,
+      "sieges_cc": null,
+      "nb_elus": 3,
+      "tete_de_liste": {
+        "nom": "FABIANSKI",
+        "prenom": "Arnold",
+        "nom_complet": "Arnold FABIANSKI",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "FABIANSKI",
+          "prenom": "Arnold",
+          "nom_complet": "Arnold FABIANSKI",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "GRONDIN",
+          "prenom": "Sandra",
+          "nom_complet": "Sandra GRONDIN",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "CREPIN",
+          "prenom": "Alexandre",
+          "nom_complet": "Alexandre CREPIN",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "3"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

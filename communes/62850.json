@@ -1,0 +1,131 @@
+{
+  "code_commune": "62850",
+  "commune": "Vieil-Hesdin",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "DRUELLE",
+    "prenom": "Christian",
+    "nom_complet": "Christian DRUELLE",
+    "age": 58,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 282,
+    "votants": 175,
+    "pct_votants": 62.06,
+    "abstentions": 107,
+    "pct_abstentions": 37.94,
+    "exprimes": 133
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "VIEIL-HESDIN, UN NOUVEL ELAN",
+      "libelle_abrege_liste": "VIEIL-HESDIN, UN NOUVEL ELAN",
+      "nuance_liste": null,
+      "voix": 133,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "DRUELLE",
+        "prenom": "Christian",
+        "nom_complet": "Christian DRUELLE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DRUELLE",
+          "prenom": "Christian",
+          "nom_complet": "Christian DRUELLE",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "MERLIN",
+          "prenom": "Marie",
+          "nom_complet": "Marie MERLIN",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "PLANCHON",
+          "prenom": "Christian",
+          "nom_complet": "Christian PLANCHON",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "RUCART",
+          "prenom": "Sandrine",
+          "nom_complet": "Sandrine RUCART",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LANDRIEUX",
+          "prenom": "Sébastien",
+          "nom_complet": "Sébastien LANDRIEUX",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LEROY",
+          "prenom": "Christelle",
+          "nom_complet": "Christelle LEROY",
+          "sexe": "F",
+          "age": 73,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DUTERTRE",
+          "prenom": "Michael",
+          "nom_complet": "Michael DUTERTRE",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DUVIVIER",
+          "prenom": "Laëtitia",
+          "nom_complet": "Laëtitia DUVIVIER",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "VERHAEGHE",
+          "prenom": "Roger",
+          "nom_complet": "Roger VERHAEGHE",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "THERET",
+          "prenom": "Agnès",
+          "nom_complet": "Agnès THERET",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "LE GENTIL",
+          "prenom": "Jacques",
+          "nom_complet": "Jacques LE GENTIL",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

@@ -1,0 +1,363 @@
+{
+  "code_commune": "59410",
+  "commune": "Mons-en-Baroeul",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "DA CONCEIÇAO",
+    "prenom": "Diana",
+    "nom_complet": "Diana DA CONCEIÇAO",
+    "age": 55,
+    "nuance": "LDVG"
+  },
+  "resultats": {
+    "inscrits": 12839,
+    "votants": 6148,
+    "pct_votants": 47.89,
+    "abstentions": 6691,
+    "pct_abstentions": 52.11,
+    "exprimes": 5981
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Mons, pour Vous, avec Vous !",
+      "libelle_abrege_liste": "Mons, pour Vous, avec Vous !",
+      "nuance_liste": "LDVG",
+      "voix": 3196,
+      "pct_voix_exprimes": 53.44,
+      "sieges_cm": 28,
+      "sieges_cc": 3,
+      "nb_elus": 28,
+      "tete_de_liste": {
+        "nom": "DA CONCEIÇAO",
+        "prenom": "Diana",
+        "nom_complet": "Diana DA CONCEIÇAO",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "DA CONCEIÇAO",
+          "prenom": "Diana",
+          "nom_complet": "Diana DA CONCEIÇAO",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "SCHOOS",
+          "prenom": "Antoine",
+          "nom_complet": "Antoine SCHOOS",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BLONDIAUX",
+          "prenom": "Nadine Salima",
+          "nom_complet": "Nadine Salima BLONDIAUX",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "MENARD",
+          "prenom": "Baptiste",
+          "nom_complet": "Baptiste MENARD",
+          "sexe": "M",
+          "age": 32,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DEVOS (DOIGNIES)",
+          "prenom": "Rosemonde",
+          "nom_complet": "Rosemonde DEVOS (DOIGNIES)",
+          "sexe": "F",
+          "age": 70,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "BOSSUT",
+          "prenom": "Francis",
+          "nom_complet": "Francis BOSSUT",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "LECONTE",
+          "prenom": "Myriam",
+          "nom_complet": "Myriam LECONTE",
+          "sexe": "F",
+          "age": 72,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "BLOUME",
+          "prenom": "Cédric",
+          "nom_complet": "Cédric BLOUME",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DESSAUVAGE",
+          "prenom": "Myriam",
+          "nom_complet": "Myriam DESSAUVAGE",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "RODRIGUEZ",
+          "prenom": "Antonio-Carlos",
+          "nom_complet": "Antonio-Carlos RODRIGUEZ",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "VETEAU",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle VETEAU",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "DUHAMEL",
+          "prenom": "Franck",
+          "nom_complet": "Franck DUHAMEL",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "ALBA",
+          "prenom": "Marie-Josée",
+          "nom_complet": "Marie-Josée ALBA",
+          "sexe": "F",
+          "age": 71,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "BELAHRIZI",
+          "prenom": "Madjid",
+          "nom_complet": "Madjid BELAHRIZI",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "CORPLET",
+          "prenom": "Mélanie",
+          "nom_complet": "Mélanie CORPLET",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "ALLAIS",
+          "prenom": "Etienne",
+          "nom_complet": "Etienne ALLAIS",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "PUGET",
+          "prenom": "Lorraine",
+          "nom_complet": "Lorraine PUGET",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "SANCHEZ",
+          "prenom": "Thomas",
+          "nom_complet": "Thomas SANCHEZ",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "BOYSAK",
+          "prenom": "Busra",
+          "nom_complet": "Busra BOYSAK",
+          "sexe": "F",
+          "age": 27,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "LEDÉ",
+          "prenom": "Jean-Marie",
+          "nom_complet": "Jean-Marie LEDÉ",
+          "sexe": "M",
+          "age": 79,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "DELILLE",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle DELILLE",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "GANSERLAT",
+          "prenom": "Raymond",
+          "nom_complet": "Raymond GANSERLAT",
+          "sexe": "M",
+          "age": 75,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "BLACHE",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle BLACHE",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "23"
+        },
+        {
+          "nom": "LAMPE",
+          "prenom": "Jean-Christophe",
+          "nom_complet": "Jean-Christophe LAMPE",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "24"
+        },
+        {
+          "nom": "FILLEUL",
+          "prenom": "Martine",
+          "nom_complet": "Martine FILLEUL",
+          "sexe": "F",
+          "age": 72,
+          "rang_liste": "25"
+        },
+        {
+          "nom": "DARMANIN",
+          "prenom": "Jacques",
+          "nom_complet": "Jacques DARMANIN",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "26"
+        },
+        {
+          "nom": "ENGELBIENNE",
+          "prenom": "Marie",
+          "nom_complet": "Marie ENGELBIENNE",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "27"
+        },
+        {
+          "nom": "CHEVILLOTTE",
+          "prenom": "Arthur",
+          "nom_complet": "Arthur CHEVILLOTTE",
+          "sexe": "M",
+          "age": 20,
+          "rang_liste": "28"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "LA NOUVELLE MONS",
+      "libelle_abrege_liste": "LA NOUVELLE MONS",
+      "nuance_liste": "LFI",
+      "voix": 1576,
+      "pct_voix_exprimes": 26.35,
+      "sieges_cm": 4,
+      "sieges_cc": 0,
+      "nb_elus": 4,
+      "tete_de_liste": {
+        "nom": "SALMON",
+        "prenom": "Aymeric",
+        "nom_complet": "Aymeric SALMON",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "SALMON",
+          "prenom": "Aymeric",
+          "nom_complet": "Aymeric SALMON",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "KITAR",
+          "prenom": "Saâlla",
+          "nom_complet": "Saâlla KITAR",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LEMTIRI BELHADJ",
+          "prenom": "Anas",
+          "nom_complet": "Anas LEMTIRI BELHADJ",
+          "sexe": "M",
+          "age": 23,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BEN NEJMA",
+          "prenom": "Najet",
+          "nom_complet": "Najet BEN NEJMA",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "4"
+        }
+      ],
+      "statut_conseil": "autre"
+    },
+    {
+      "num_panneau": "3",
+      "libelle_liste": "MONS CITOYENNE 2026",
+      "libelle_abrege_liste": "MONS CITOYENNE 2026",
+      "nuance_liste": "LVEC",
+      "voix": 1209,
+      "pct_voix_exprimes": 20.21,
+      "sieges_cm": 3,
+      "sieges_cc": 0,
+      "nb_elus": 3,
+      "tete_de_liste": {
+        "nom": "SCAVENNEC",
+        "prenom": "Céline",
+        "nom_complet": "Céline SCAVENNEC",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "SCAVENNEC",
+          "prenom": "Céline",
+          "nom_complet": "Céline SCAVENNEC",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BOUTTIER",
+          "prenom": "Freddy",
+          "nom_complet": "Freddy BOUTTIER",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "EL IDRISSI",
+          "prenom": "Nora",
+          "nom_complet": "Nora EL IDRISSI",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "3"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

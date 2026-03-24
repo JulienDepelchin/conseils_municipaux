@@ -1,0 +1,163 @@
+{
+  "code_commune": "62603",
+  "commune": "Nesles",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "FEUTRY",
+    "prenom": "Guy",
+    "nom_complet": "Guy FEUTRY",
+    "age": 68,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 803,
+    "votants": 442,
+    "pct_votants": 55.04,
+    "abstentions": 361,
+    "pct_abstentions": 44.96,
+    "exprimes": 417
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "GRANDIR ENSEMBLE A NESLES",
+      "libelle_abrege_liste": "GRANDIR ENSEMBLE A NESLES",
+      "nuance_liste": null,
+      "voix": 417,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": 1,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "FEUTRY",
+        "prenom": "Guy",
+        "nom_complet": "Guy FEUTRY",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "FEUTRY",
+          "prenom": "Guy",
+          "nom_complet": "Guy FEUTRY",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BLAISEL",
+          "prenom": "Elodie",
+          "nom_complet": "Elodie BLAISEL",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "MAQUINGHEN",
+          "prenom": "Paul",
+          "nom_complet": "Paul MAQUINGHEN",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "HANQUEZ",
+          "prenom": "Angélique",
+          "nom_complet": "Angélique HANQUEZ",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LIGNIER",
+          "prenom": "Paul",
+          "nom_complet": "Paul LIGNIER",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DUFOUR",
+          "prenom": "Céline",
+          "nom_complet": "Céline DUFOUR",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "MENUGE",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent MENUGE",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "BREQUEVILLE",
+          "prenom": "Patricia",
+          "nom_complet": "Patricia BREQUEVILLE",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "LEPRETRE",
+          "prenom": "Yann",
+          "nom_complet": "Yann LEPRETRE",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "HODICQ",
+          "prenom": "Camille",
+          "nom_complet": "Camille HODICQ",
+          "sexe": "F",
+          "age": 30,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DUHAMEL",
+          "prenom": "Julien",
+          "nom_complet": "Julien DUHAMEL",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "LOUCHEZ",
+          "prenom": "Aurélie",
+          "nom_complet": "Aurélie LOUCHEZ",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "JOLY",
+          "prenom": "Serge",
+          "nom_complet": "Serge JOLY",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "LEJEUNE",
+          "prenom": "Tatiana",
+          "nom_complet": "Tatiana LEJEUNE",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "DUHAMEL",
+          "prenom": "Kevin",
+          "nom_complet": "Kevin DUHAMEL",
+          "sexe": "M",
+          "age": 32,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

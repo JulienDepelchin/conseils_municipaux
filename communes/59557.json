@@ -1,0 +1,215 @@
+{
+  "code_commune": "59557",
+  "commune": "Saultain",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "LORENT",
+    "prenom": "Antoine",
+    "nom_complet": "Antoine LORENT",
+    "age": 42,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1827,
+    "votants": 1272,
+    "pct_votants": 69.62,
+    "abstentions": 555,
+    "pct_abstentions": 30.38,
+    "exprimes": 1250
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "SAULTAIN AVEC VOUS, POUR VOUS",
+      "libelle_abrege_liste": "SAULTAIN AVEC VOUS, POUR VOUS",
+      "nuance_liste": null,
+      "voix": 659,
+      "pct_voix_exprimes": 52.72,
+      "sieges_cm": 15,
+      "sieges_cc": 1,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "LORENT",
+        "prenom": "Antoine",
+        "nom_complet": "Antoine LORENT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LORENT",
+          "prenom": "Antoine",
+          "nom_complet": "Antoine LORENT",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DE PETRIS",
+          "prenom": "Hélène",
+          "nom_complet": "Hélène DE PETRIS",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DELABRE",
+          "prenom": "Julien",
+          "nom_complet": "Julien DELABRE",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "STRAGAPEDE",
+          "prenom": "Elyse",
+          "nom_complet": "Elyse STRAGAPEDE",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "ROVERE",
+          "prenom": "Élio",
+          "nom_complet": "Élio ROVERE",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "WATTIER",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique WATTIER",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "PARMENTIER",
+          "prenom": "Joël",
+          "nom_complet": "Joël PARMENTIER",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DENHEZ",
+          "prenom": "Émilie",
+          "nom_complet": "Émilie DENHEZ",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "COLLIEZ",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique COLLIEZ",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DESTICOURT",
+          "prenom": "Ludivine",
+          "nom_complet": "Ludivine DESTICOURT",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "BENSALEM",
+          "prenom": "Yazide",
+          "nom_complet": "Yazide BENSALEM",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "LASGORCEIX",
+          "prenom": "Marie",
+          "nom_complet": "Marie LASGORCEIX",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "NOYEZ",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe NOYEZ",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "DECONINCK",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie DECONINCK",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "LUSSIEZ",
+          "prenom": "François",
+          "nom_complet": "François LUSSIEZ",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "L'avenir ensemble",
+      "libelle_abrege_liste": "L'avenir ensemble",
+      "nuance_liste": null,
+      "voix": 591,
+      "pct_voix_exprimes": 47.28,
+      "sieges_cm": 4,
+      "sieges_cc": 0,
+      "nb_elus": 4,
+      "tete_de_liste": {
+        "nom": "DANHIEZ",
+        "prenom": "Sandrine",
+        "nom_complet": "Sandrine DANHIEZ",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "DANHIEZ",
+          "prenom": "Sandrine",
+          "nom_complet": "Sandrine DANHIEZ",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "HELOIR",
+          "prenom": "Gaetan",
+          "nom_complet": "Gaetan HELOIR",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LECOSSIER",
+          "prenom": "Sophie",
+          "nom_complet": "Sophie LECOSSIER",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DOLET",
+          "prenom": "Benoit",
+          "nom_complet": "Benoit DOLET",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "4"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

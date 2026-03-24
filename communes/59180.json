@@ -1,0 +1,163 @@
+{
+  "code_commune": "59180",
+  "commune": "Le Doulieu",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "WALBROU",
+    "prenom": "Dominique",
+    "nom_complet": "Dominique WALBROU",
+    "age": 66,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1061,
+    "votants": 637,
+    "pct_votants": 60.04,
+    "abstentions": 424,
+    "pct_abstentions": 39.96,
+    "exprimes": 566
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Ensemble, faisons vivre notre village",
+      "libelle_abrege_liste": "EFVNV",
+      "nuance_liste": null,
+      "voix": 566,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": 1,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "WALBROU",
+        "prenom": "Dominique",
+        "nom_complet": "Dominique WALBROU",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "WALBROU",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique WALBROU",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "GRIGNON-LESTIENNE",
+          "prenom": "Catherine",
+          "nom_complet": "Catherine GRIGNON-LESTIENNE",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "PLANQUE",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe PLANQUE",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DEGRYSE-DUFOUR",
+          "prenom": "Anne",
+          "nom_complet": "Anne DEGRYSE-DUFOUR",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "MATHIS",
+          "prenom": "Julien",
+          "nom_complet": "Julien MATHIS",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DELANGUE-CARDON",
+          "prenom": "Bernadette",
+          "nom_complet": "Bernadette DELANGUE-CARDON",
+          "sexe": "F",
+          "age": 70,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "LAPAILLE",
+          "prenom": "Cédric",
+          "nom_complet": "Cédric LAPAILLE",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "GOMBERT-THOREZ",
+          "prenom": "Ghislaine",
+          "nom_complet": "Ghislaine GOMBERT-THOREZ",
+          "sexe": "F",
+          "age": 70,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "LEFEBVRE",
+          "prenom": "Franck",
+          "nom_complet": "Franck LEFEBVRE",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "LESAGE-PEUCELLE",
+          "prenom": "Nadine",
+          "nom_complet": "Nadine LESAGE-PEUCELLE",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "MARIN",
+          "prenom": "Frantz",
+          "nom_complet": "Frantz MARIN",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "WALLE",
+          "prenom": "Cécile",
+          "nom_complet": "Cécile WALLE",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "HENNACHE",
+          "prenom": "Bernard",
+          "nom_complet": "Bernard HENNACHE",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "TÉTAERT-BLONDÉ",
+          "prenom": "Aurélie",
+          "nom_complet": "Aurélie TÉTAERT-BLONDÉ",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "FRANCHOMME",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe FRANCHOMME",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

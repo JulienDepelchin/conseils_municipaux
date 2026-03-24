@@ -1,0 +1,131 @@
+{
+  "code_commune": "59240",
+  "commune": "Floursies",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "MOYEN",
+    "prenom": "Bruno",
+    "nom_complet": "Bruno MOYEN",
+    "age": 61,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 107,
+    "votants": 84,
+    "pct_votants": 78.5,
+    "abstentions": 23,
+    "pct_abstentions": 21.5,
+    "exprimes": 75
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Ensemble pour Floursies",
+      "libelle_abrege_liste": "Ensemble pour Floursies",
+      "nuance_liste": null,
+      "voix": 75,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "MOYEN",
+        "prenom": "Bruno",
+        "nom_complet": "Bruno MOYEN",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "MOYEN",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno MOYEN",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DEMARQUE",
+          "prenom": "Agnes",
+          "nom_complet": "Agnes DEMARQUE",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "MOULIN",
+          "prenom": "Ludovic",
+          "nom_complet": "Ludovic MOULIN",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "VENDEVILLE",
+          "prenom": "Christine",
+          "nom_complet": "Christine VENDEVILLE",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "HONORE",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique HONORE",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "POULEUR",
+          "prenom": "Agnes",
+          "nom_complet": "Agnes POULEUR",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "CARPENTIER",
+          "prenom": "Anthony",
+          "nom_complet": "Anthony CARPENTIER",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "WAGNER",
+          "prenom": "Sophie",
+          "nom_complet": "Sophie WAGNER",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "BOUREL",
+          "prenom": "Jean-Luc",
+          "nom_complet": "Jean-Luc BOUREL",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "LEFEBVRE",
+          "prenom": "Justine",
+          "nom_complet": "Justine LEFEBVRE",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "CLEMENT",
+          "prenom": "Thierry",
+          "nom_complet": "Thierry CLEMENT",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

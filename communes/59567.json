@@ -1,0 +1,131 @@
+{
+  "code_commune": "59567",
+  "commune": "Séranvillers-Forenville",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "DESMEE",
+    "prenom": "Frédéric",
+    "nom_complet": "Frédéric DESMEE",
+    "age": 47,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 339,
+    "votants": 215,
+    "pct_votants": 63.42,
+    "abstentions": 124,
+    "pct_abstentions": 36.58,
+    "exprimes": 189
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "AGIR POUR L'AVENIR",
+      "libelle_abrege_liste": "AGIR POUR L'AVENIR",
+      "nuance_liste": null,
+      "voix": 189,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "DESMEE",
+        "prenom": "Frédéric",
+        "nom_complet": "Frédéric DESMEE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DESMEE",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric DESMEE",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BUISSET LAVALARD",
+          "prenom": "Marie-Bernadette",
+          "nom_complet": "Marie-Bernadette BUISSET LAVALARD",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LENOTTE",
+          "prenom": "François Xavier",
+          "nom_complet": "François Xavier LENOTTE",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "CORREIA",
+          "prenom": "Sophie",
+          "nom_complet": "Sophie CORREIA",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "BUISSART",
+          "prenom": "Vincent",
+          "nom_complet": "Vincent BUISSART",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "HENNINOT-MARTIN",
+          "prenom": "Rosa",
+          "nom_complet": "Rosa HENNINOT-MARTIN",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "CORAL",
+          "prenom": "Gérard",
+          "nom_complet": "Gérard CORAL",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "MURA",
+          "prenom": "Katina",
+          "nom_complet": "Katina MURA",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "BEZELGA",
+          "prenom": "Daniel",
+          "nom_complet": "Daniel BEZELGA",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "LALOUX",
+          "prenom": "Anne-Sophie",
+          "nom_complet": "Anne-Sophie LALOUX",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "CANONNE",
+          "prenom": "Théo",
+          "nom_complet": "Théo CANONNE",
+          "sexe": "M",
+          "age": 23,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

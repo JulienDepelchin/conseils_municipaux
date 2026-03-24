@@ -1,0 +1,183 @@
+{
+  "code_commune": "62536",
+  "commune": "Magnicourt-en-Comte",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "GUILLEMANT",
+    "prenom": "Simon",
+    "nom_complet": "Simon GUILLEMANT",
+    "age": 34,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 498,
+    "votants": 383,
+    "pct_votants": 76.91,
+    "abstentions": 115,
+    "pct_abstentions": 23.09,
+    "exprimes": 373
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Nouvelle dynamique, même passion, notre village !",
+      "libelle_abrege_liste": "Nouvelle dynamique, même passion, notre village !",
+      "nuance_liste": null,
+      "voix": 232,
+      "pct_voix_exprimes": 62.2,
+      "sieges_cm": 12,
+      "sieges_cc": null,
+      "nb_elus": 12,
+      "tete_de_liste": {
+        "nom": "GUILLEMANT",
+        "prenom": "Simon",
+        "nom_complet": "Simon GUILLEMANT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "GUILLEMANT",
+          "prenom": "Simon",
+          "nom_complet": "Simon GUILLEMANT",
+          "sexe": "M",
+          "age": 34,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DHENIN",
+          "prenom": "Marie",
+          "nom_complet": "Marie DHENIN",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "HERMANT",
+          "prenom": "Fabrice",
+          "nom_complet": "Fabrice HERMANT",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BRAYELLE",
+          "prenom": "Odile",
+          "nom_complet": "Odile BRAYELLE",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DEBUIRE",
+          "prenom": "Xavier",
+          "nom_complet": "Xavier DEBUIRE",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "CNOKAERT",
+          "prenom": "Geneviève",
+          "nom_complet": "Geneviève CNOKAERT",
+          "sexe": "F",
+          "age": 70,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "FARDEL",
+          "prenom": "Alain",
+          "nom_complet": "Alain FARDEL",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "MANIER",
+          "prenom": "Sandrine",
+          "nom_complet": "Sandrine MANIER",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "PODEVIN",
+          "prenom": "Jean",
+          "nom_complet": "Jean PODEVIN",
+          "sexe": "M",
+          "age": 33,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "HERMANT",
+          "prenom": "Catherine",
+          "nom_complet": "Catherine HERMANT",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "FATOUX",
+          "prenom": "Antoine",
+          "nom_complet": "Antoine FATOUX",
+          "sexe": "M",
+          "age": 32,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "KILJANSKI",
+          "prenom": "Anaïs",
+          "nom_complet": "Anaïs KILJANSKI",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "12"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "L'unité pour consolider l'avenir",
+      "libelle_abrege_liste": "L'unité pour consolider l'avenir",
+      "nuance_liste": null,
+      "voix": 141,
+      "pct_voix_exprimes": 37.8,
+      "sieges_cm": 3,
+      "sieges_cc": null,
+      "nb_elus": 3,
+      "tete_de_liste": {
+        "nom": "KLINCKEMAILLIE",
+        "prenom": "Gaëlle",
+        "nom_complet": "Gaëlle KLINCKEMAILLIE",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "KLINCKEMAILLIE",
+          "prenom": "Gaëlle",
+          "nom_complet": "Gaëlle KLINCKEMAILLIE",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "PLOUVIEZ",
+          "prenom": "Jeoffrey",
+          "nom_complet": "Jeoffrey PLOUVIEZ",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LEMAITRE",
+          "prenom": "Geneviève",
+          "nom_complet": "Geneviève LEMAITRE",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "3"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

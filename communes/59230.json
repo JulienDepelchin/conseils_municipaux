@@ -1,0 +1,275 @@
+{
+  "code_commune": "59230",
+  "commune": "Ferrière-la-Grande",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "COURTIN",
+    "prenom": "Benoît",
+    "nom_complet": "Benoît COURTIN",
+    "age": 43,
+    "nuance": "LDVG"
+  },
+  "resultats": {
+    "inscrits": 3782,
+    "votants": 1558,
+    "pct_votants": 41.2,
+    "abstentions": 2224,
+    "pct_abstentions": 58.8,
+    "exprimes": 1281
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Bien Vivre à Ferrière",
+      "libelle_abrege_liste": "Bien Vivre à Ferrière",
+      "nuance_liste": "LDVG",
+      "voix": 1281,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 29,
+      "sieges_cc": 3,
+      "nb_elus": 29,
+      "tete_de_liste": {
+        "nom": "COURTIN",
+        "prenom": "Benoît",
+        "nom_complet": "Benoît COURTIN",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "COURTIN",
+          "prenom": "Benoît",
+          "nom_complet": "Benoît COURTIN",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "HERBIN",
+          "prenom": "Sandrine",
+          "nom_complet": "Sandrine HERBIN",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "PORCHERET",
+          "prenom": "Jean-Michel",
+          "nom_complet": "Jean-Michel PORCHERET",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "UFARTE",
+          "prenom": "Aurélie",
+          "nom_complet": "Aurélie UFARTE",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "COPY",
+          "prenom": "Fabrice",
+          "nom_complet": "Fabrice COPY",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "VANBELLE",
+          "prenom": "Grazielle",
+          "nom_complet": "Grazielle VANBELLE",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "CAFFIAUX",
+          "prenom": "Didier",
+          "nom_complet": "Didier CAFFIAUX",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "GOBINET",
+          "prenom": "Kathia",
+          "nom_complet": "Kathia GOBINET",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "MILLE",
+          "prenom": "Yvon",
+          "nom_complet": "Yvon MILLE",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "GIRARD",
+          "prenom": "Valérie",
+          "nom_complet": "Valérie GIRARD",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "KHALIDI",
+          "prenom": "Yacine",
+          "nom_complet": "Yacine KHALIDI",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "BOUTTEAU",
+          "prenom": "Véronique",
+          "nom_complet": "Véronique BOUTTEAU",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "HARDAT",
+          "prenom": "Jérôme",
+          "nom_complet": "Jérôme HARDAT",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "CENDRE",
+          "prenom": "Françoise",
+          "nom_complet": "Françoise CENDRE",
+          "sexe": "F",
+          "age": 70,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "MOUNIB",
+          "prenom": "Abdeslame",
+          "nom_complet": "Abdeslame MOUNIB",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "LABAR",
+          "prenom": "Sandrine",
+          "nom_complet": "Sandrine LABAR",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "KOZLOWSKI",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe KOZLOWSKI",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "SAUTIERE",
+          "prenom": "Séverine",
+          "nom_complet": "Séverine SAUTIERE",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "LELEUX",
+          "prenom": "Freddy",
+          "nom_complet": "Freddy LELEUX",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "BOUTEBBA",
+          "prenom": "Céline",
+          "nom_complet": "Céline BOUTEBBA",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "CLEMENCEAU",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent CLEMENCEAU",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "OLIVIER",
+          "prenom": "Blandine",
+          "nom_complet": "Blandine OLIVIER",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "DENHEZ",
+          "prenom": "Fabrice",
+          "nom_complet": "Fabrice DENHEZ",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "23"
+        },
+        {
+          "nom": "CARION",
+          "prenom": "Sabrina",
+          "nom_complet": "Sabrina CARION",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "24"
+        },
+        {
+          "nom": "DUCROT",
+          "prenom": "Victor",
+          "nom_complet": "Victor DUCROT",
+          "sexe": "M",
+          "age": 32,
+          "rang_liste": "25"
+        },
+        {
+          "nom": "LOUCHENI",
+          "prenom": "Nora",
+          "nom_complet": "Nora LOUCHENI",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "26"
+        },
+        {
+          "nom": "JOUGLET",
+          "prenom": "Jérémy",
+          "nom_complet": "Jérémy JOUGLET",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "27"
+        },
+        {
+          "nom": "RIVART",
+          "prenom": "Marie-Paule",
+          "nom_complet": "Marie-Paule RIVART",
+          "sexe": "F",
+          "age": 77,
+          "rang_liste": "28"
+        },
+        {
+          "nom": "DRUESNE",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier DRUESNE",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "29"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

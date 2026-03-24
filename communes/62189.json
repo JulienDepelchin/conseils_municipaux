@@ -1,0 +1,131 @@
+{
+  "code_commune": "62189",
+  "commune": "Bus",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "ALEXANDRE",
+    "prenom": "Guy",
+    "nom_complet": "Guy ALEXANDRE",
+    "age": 70,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 102,
+    "votants": 64,
+    "pct_votants": 62.75,
+    "abstentions": 38,
+    "pct_abstentions": 37.25,
+    "exprimes": 57
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ENSEMBLE POUR NOTRE COMMUNE",
+      "libelle_abrege_liste": "ENSEMBLE POUR NOTRE COMMUNE",
+      "nuance_liste": null,
+      "voix": 57,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "ALEXANDRE",
+        "prenom": "Guy",
+        "nom_complet": "Guy ALEXANDRE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "ALEXANDRE",
+          "prenom": "Guy",
+          "nom_complet": "Guy ALEXANDRE",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LEFEBVRE",
+          "prenom": "Alexandra",
+          "nom_complet": "Alexandra LEFEBVRE",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BRIDELLE",
+          "prenom": "Joël",
+          "nom_complet": "Joël BRIDELLE",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "ALEXANDRE",
+          "prenom": "Lysiane",
+          "nom_complet": "Lysiane ALEXANDRE",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DUGAVE",
+          "prenom": "Joël",
+          "nom_complet": "Joël DUGAVE",
+          "sexe": "M",
+          "age": 77,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "CABUZEL",
+          "prenom": "Sarah",
+          "nom_complet": "Sarah CABUZEL",
+          "sexe": "F",
+          "age": 19,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "POUILLAUDE",
+          "prenom": "Florent",
+          "nom_complet": "Florent POUILLAUDE",
+          "sexe": "M",
+          "age": 32,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "PAYEN",
+          "prenom": "Aurore",
+          "nom_complet": "Aurore PAYEN",
+          "sexe": "F",
+          "age": 33,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "ALEXANDRE",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas ALEXANDRE",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "BOGAERT",
+          "prenom": "Gwenaelle",
+          "nom_complet": "Gwenaelle BOGAERT",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DEULIN",
+          "prenom": "Didier",
+          "nom_complet": "Didier DEULIN",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

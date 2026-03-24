@@ -1,0 +1,315 @@
+{
+  "code_commune": "59484",
+  "commune": "Quiévrechain",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "GRINER",
+    "prenom": "Pierre",
+    "nom_complet": "Pierre GRINER",
+    "age": 35,
+    "nuance": "LDVD"
+  },
+  "resultats": {
+    "inscrits": 3752,
+    "votants": 1967,
+    "pct_votants": 52.43,
+    "abstentions": 1785,
+    "pct_abstentions": 47.57,
+    "exprimes": 1920
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "Quiévrechain, plus belle, plus forte, plus fière !",
+      "libelle_abrege_liste": "Quiévrechain, plus belle, plus forte, plus fière !",
+      "nuance_liste": "LDVD",
+      "voix": 1176,
+      "pct_voix_exprimes": 61.25,
+      "sieges_cm": 24,
+      "sieges_cc": 3,
+      "nb_elus": 24,
+      "tete_de_liste": {
+        "nom": "GRINER",
+        "prenom": "Pierre",
+        "nom_complet": "Pierre GRINER",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "GRINER",
+          "prenom": "Pierre",
+          "nom_complet": "Pierre GRINER",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "KACZMAREK",
+          "prenom": "Corinne",
+          "nom_complet": "Corinne KACZMAREK",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LARCIN",
+          "prenom": "Patrice",
+          "nom_complet": "Patrice LARCIN",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DENIS",
+          "prenom": "Jessica",
+          "nom_complet": "Jessica DENIS",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "MOREAU",
+          "prenom": "Jean-Marc",
+          "nom_complet": "Jean-Marc MOREAU",
+          "sexe": "M",
+          "age": 74,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "CHAMPION",
+          "prenom": "Nicole",
+          "nom_complet": "Nicole CHAMPION",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DUCROT",
+          "prenom": "Régis",
+          "nom_complet": "Régis DUCROT",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "COQUELET",
+          "prenom": "Camille",
+          "nom_complet": "Camille COQUELET",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "TOURILLON",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric TOURILLON",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "BARROIS",
+          "prenom": "Fanny",
+          "nom_complet": "Fanny BARROIS",
+          "sexe": "F",
+          "age": 29,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "LECOCQ",
+          "prenom": "Jean",
+          "nom_complet": "Jean LECOCQ",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "BRICOUT",
+          "prenom": "Odile",
+          "nom_complet": "Odile BRICOUT",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "SILVESTRI",
+          "prenom": "Francesco",
+          "nom_complet": "Francesco SILVESTRI",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "DUBOCAGE",
+          "prenom": "Alison",
+          "nom_complet": "Alison DUBOCAGE",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "GRZELKA",
+          "prenom": "Fabrice",
+          "nom_complet": "Fabrice GRZELKA",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "DHONDT",
+          "prenom": "Jeannine",
+          "nom_complet": "Jeannine DHONDT",
+          "sexe": "F",
+          "age": 77,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "LAWINSKI",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique LAWINSKI",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "CHEHIH",
+          "prenom": "Baktha",
+          "nom_complet": "Baktha CHEHIH",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "DESCAMPS",
+          "prenom": "Alain",
+          "nom_complet": "Alain DESCAMPS",
+          "sexe": "M",
+          "age": 78,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "WILMS",
+          "prenom": "Sophie",
+          "nom_complet": "Sophie WILMS",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "MUFFAT-GENDET",
+          "prenom": "Charles-Henri",
+          "nom_complet": "Charles-Henri MUFFAT-GENDET",
+          "sexe": "M",
+          "age": 24,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "BANASZEWSKI",
+          "prenom": "Danièle",
+          "nom_complet": "Danièle BANASZEWSKI",
+          "sexe": "F",
+          "age": 78,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "CARDON",
+          "prenom": "Jean-Claude",
+          "nom_complet": "Jean-Claude CARDON",
+          "sexe": "M",
+          "age": 79,
+          "rang_liste": "23"
+        },
+        {
+          "nom": "LELEUX",
+          "prenom": "Audrey",
+          "nom_complet": "Audrey LELEUX",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "24"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "REUSSIR ENSEMBLE A QUIEVRECHAIN",
+      "libelle_abrege_liste": "REUSSIR ENSEMBLE A QUIEVRECHAIN",
+      "nuance_liste": "LDVG",
+      "voix": 546,
+      "pct_voix_exprimes": 28.44,
+      "sieges_cm": 4,
+      "sieges_cc": 0,
+      "nb_elus": 4,
+      "tete_de_liste": {
+        "nom": "GAILLET",
+        "prenom": "Joël",
+        "nom_complet": "Joël GAILLET",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "GAILLET",
+          "prenom": "Joël",
+          "nom_complet": "Joël GAILLET",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LACQUEMENT-COLSON",
+          "prenom": "Françoise",
+          "nom_complet": "Françoise LACQUEMENT-COLSON",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DESSILLY",
+          "prenom": "José",
+          "nom_complet": "José DESSILLY",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "GEORGETTE",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle GEORGETTE",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "4"
+        }
+      ],
+      "statut_conseil": "autre"
+    },
+    {
+      "num_panneau": "3",
+      "libelle_liste": "QUIEVRECHAIN VOTRE VILLE",
+      "libelle_abrege_liste": "QUIEVRECHAIN VOTRE VILLE",
+      "nuance_liste": "LDVG",
+      "voix": 198,
+      "pct_voix_exprimes": 10.31,
+      "sieges_cm": 1,
+      "sieges_cc": 0,
+      "nb_elus": 1,
+      "tete_de_liste": {
+        "nom": "NAMOR",
+        "prenom": "Bruno",
+        "nom_complet": "Bruno NAMOR",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "NAMOR",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno NAMOR",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "1"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

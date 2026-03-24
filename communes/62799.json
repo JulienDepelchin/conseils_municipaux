@@ -1,0 +1,163 @@
+{
+  "code_commune": "62799",
+  "commune": "Sorrus",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "FLAHAUT",
+    "prenom": "Jacques",
+    "nom_complet": "Jacques FLAHAUT",
+    "age": 65,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 698,
+    "votants": 403,
+    "pct_votants": 57.74,
+    "abstentions": 295,
+    "pct_abstentions": 42.26,
+    "exprimes": 350
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ENSEMBLE POUR SORRUS",
+      "libelle_abrege_liste": "ENSEMBLE POUR SORRUS",
+      "nuance_liste": null,
+      "voix": 350,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "FLAHAUT",
+        "prenom": "Jacques",
+        "nom_complet": "Jacques FLAHAUT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "FLAHAUT",
+          "prenom": "Jacques",
+          "nom_complet": "Jacques FLAHAUT",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "SZUWARSKI",
+          "prenom": "Thérèse",
+          "nom_complet": "Thérèse SZUWARSKI",
+          "sexe": "F",
+          "age": 70,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "RIGAUX",
+          "prenom": "Xavier",
+          "nom_complet": "Xavier RIGAUX",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "CARESMEL",
+          "prenom": "Josée",
+          "nom_complet": "Josée CARESMEL",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "TRUPIN",
+          "prenom": "Jean-Paul",
+          "nom_complet": "Jean-Paul TRUPIN",
+          "sexe": "M",
+          "age": 74,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "CALON",
+          "prenom": "Fabienne",
+          "nom_complet": "Fabienne CALON",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "CARTON",
+          "prenom": "Damien",
+          "nom_complet": "Damien CARTON",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DUNAT",
+          "prenom": "Christelle",
+          "nom_complet": "Christelle DUNAT",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "CAVORY",
+          "prenom": "Guillaume",
+          "nom_complet": "Guillaume CAVORY",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "THOMAS",
+          "prenom": "Martine",
+          "nom_complet": "Martine THOMAS",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DUQUESNOY",
+          "prenom": "Lionel",
+          "nom_complet": "Lionel DUQUESNOY",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "AVISSE",
+          "prenom": "Claire",
+          "nom_complet": "Claire AVISSE",
+          "sexe": "F",
+          "age": 33,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "GOSSELIN",
+          "prenom": "Yves",
+          "nom_complet": "Yves GOSSELIN",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "VAN KALCK",
+          "prenom": "Marion",
+          "nom_complet": "Marion VAN KALCK",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "WONTERGHEM-BILLIAUX",
+          "prenom": "Tom",
+          "nom_complet": "Tom WONTERGHEM-BILLIAUX",
+          "sexe": "M",
+          "age": 20,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

@@ -1,0 +1,195 @@
+{
+  "code_commune": "62329",
+  "commune": "Ferques",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "FALEMPIN",
+    "prenom": "Guillaume",
+    "nom_complet": "Guillaume FALEMPIN",
+    "age": 47,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1484,
+    "votants": 725,
+    "pct_votants": 48.85,
+    "abstentions": 759,
+    "pct_abstentions": 51.15,
+    "exprimes": 651
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ENSEMBLE,CONSTRUISONS DEMAIN",
+      "libelle_abrege_liste": "ENSEMBLE, CONSTRUISONS DEMAIN",
+      "nuance_liste": null,
+      "voix": 651,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 19,
+      "sieges_cc": 3,
+      "nb_elus": 19,
+      "tete_de_liste": {
+        "nom": "FALEMPIN",
+        "prenom": "Guillaume",
+        "nom_complet": "Guillaume FALEMPIN",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "FALEMPIN",
+          "prenom": "Guillaume",
+          "nom_complet": "Guillaume FALEMPIN",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BOUTROY",
+          "prenom": "Anne-Sophie",
+          "nom_complet": "Anne-Sophie BOUTROY",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "CALONNE",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas CALONNE",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "ROCK",
+          "prenom": "Marie-Christine",
+          "nom_complet": "Marie-Christine ROCK",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "BECUWE",
+          "prenom": "Romain",
+          "nom_complet": "Romain BECUWE",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "HIBERT",
+          "prenom": "Katy",
+          "nom_complet": "Katy HIBERT",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "RYCKMANN",
+          "prenom": "Jean-Claude",
+          "nom_complet": "Jean-Claude RYCKMANN",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DETANT",
+          "prenom": "Aurélie",
+          "nom_complet": "Aurélie DETANT",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "TASSART",
+          "prenom": "Jacques",
+          "nom_complet": "Jacques TASSART",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "GUILBERT",
+          "prenom": "Mélanie",
+          "nom_complet": "Mélanie GUILBERT",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "PALAO",
+          "prenom": "Xavier",
+          "nom_complet": "Xavier PALAO",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "SAUVAGE",
+          "prenom": "Aurélie",
+          "nom_complet": "Aurélie SAUVAGE",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "CONDETTE",
+          "prenom": "Jean-Michel",
+          "nom_complet": "Jean-Michel CONDETTE",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "DETOUT",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie DETOUT",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "ORIENT",
+          "prenom": "Stéphane",
+          "nom_complet": "Stéphane ORIENT",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "HEUX",
+          "prenom": "Lucie",
+          "nom_complet": "Lucie HEUX",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "JOLY",
+          "prenom": "Hervé",
+          "nom_complet": "Hervé JOLY",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "AUBERT",
+          "prenom": "Céline",
+          "nom_complet": "Céline AUBERT",
+          "sexe": "F",
+          "age": 32,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "CARON",
+          "prenom": "Yves",
+          "nom_complet": "Yves CARON",
+          "sexe": "M",
+          "age": 77,
+          "rang_liste": "19"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

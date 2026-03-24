@@ -1,0 +1,99 @@
+{
+  "code_commune": "62357",
+  "commune": "Fresnoy",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "DÉCOBERT",
+    "prenom": "Philippe",
+    "nom_complet": "Philippe DÉCOBERT",
+    "age": 59,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 41,
+    "votants": 29,
+    "pct_votants": 70.73,
+    "abstentions": 12,
+    "pct_abstentions": 29.27,
+    "exprimes": 29
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "LISTE DE DÉFENSE DES INTÉRÊTS COMMUNAUX",
+      "libelle_abrege_liste": "LISTE DE DÉFENSE DES INTÉRÊTS COMMUNAUX",
+      "nuance_liste": null,
+      "voix": 29,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 7,
+      "sieges_cc": null,
+      "nb_elus": 7,
+      "tete_de_liste": {
+        "nom": "DÉCOBERT",
+        "prenom": "Philippe",
+        "nom_complet": "Philippe DÉCOBERT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DÉCOBERT",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe DÉCOBERT",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "PRUVOT",
+          "prenom": "Brigitte",
+          "nom_complet": "Brigitte PRUVOT",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "MARCOTTE",
+          "prenom": "Benjamin",
+          "nom_complet": "Benjamin MARCOTTE",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DULARY",
+          "prenom": "Marie",
+          "nom_complet": "Marie DULARY",
+          "sexe": "F",
+          "age": 31,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "HELLUIN",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick HELLUIN",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "NEUVÉGLISE",
+          "prenom": "Mélanie",
+          "nom_complet": "Mélanie NEUVÉGLISE",
+          "sexe": "F",
+          "age": 30,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "GADBLED",
+          "prenom": "Pierre",
+          "nom_complet": "Pierre GADBLED",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "7"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

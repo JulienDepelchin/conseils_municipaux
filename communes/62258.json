@@ -1,0 +1,123 @@
+{
+  "code_commune": "62258",
+  "commune": "Croisette",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "MARTIN",
+    "prenom": "Geoffrey",
+    "nom_complet": "Geoffrey MARTIN",
+    "age": 39,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 225,
+    "votants": 154,
+    "pct_votants": 68.44,
+    "abstentions": 71,
+    "pct_abstentions": 31.56,
+    "exprimes": 122
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "agissons pour l'avenir de croisette",
+      "libelle_abrege_liste": "agissons pour l'avenir de croisette",
+      "nuance_liste": null,
+      "voix": 122,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 10,
+      "sieges_cc": null,
+      "nb_elus": 10,
+      "tete_de_liste": {
+        "nom": "MARTIN",
+        "prenom": "Geoffrey",
+        "nom_complet": "Geoffrey MARTIN",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "MARTIN",
+          "prenom": "Geoffrey",
+          "nom_complet": "Geoffrey MARTIN",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DUPAS",
+          "prenom": "Amélie",
+          "nom_complet": "Amélie DUPAS",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DELAUDIER",
+          "prenom": "Mike",
+          "nom_complet": "Mike DELAUDIER",
+          "sexe": "M",
+          "age": 34,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "HAMED",
+          "prenom": "Amaria",
+          "nom_complet": "Amaria HAMED",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "BACHELET",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe BACHELET",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "MERIE",
+          "prenom": "Marjorie",
+          "nom_complet": "Marjorie MERIE",
+          "sexe": "F",
+          "age": 30,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "PLASSCHAERT",
+          "prenom": "Stéphan",
+          "nom_complet": "Stéphan PLASSCHAERT",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "FUMERY",
+          "prenom": "Marie",
+          "nom_complet": "Marie FUMERY",
+          "sexe": "F",
+          "age": 33,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DEVROEDE",
+          "prenom": "Marc",
+          "nom_complet": "Marc DEVROEDE",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "JOUNIAUX",
+          "prenom": "Gaëlle",
+          "nom_complet": "Gaëlle JOUNIAUX",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "10"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

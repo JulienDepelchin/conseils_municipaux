@@ -1,0 +1,99 @@
+{
+  "code_commune": "62470",
+  "commune": "Incourt",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "DUBOIS",
+    "prenom": "Bernard",
+    "nom_complet": "Bernard DUBOIS",
+    "age": 68,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 64,
+    "votants": 51,
+    "pct_votants": 79.69,
+    "abstentions": 13,
+    "pct_abstentions": 20.31,
+    "exprimes": 41
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Agissons ensemble pour Incourt",
+      "libelle_abrege_liste": "Agissons ensemble pour Incourt",
+      "nuance_liste": null,
+      "voix": 41,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 7,
+      "sieges_cc": null,
+      "nb_elus": 7,
+      "tete_de_liste": {
+        "nom": "DUBOIS",
+        "prenom": "Bernard",
+        "nom_complet": "Bernard DUBOIS",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DUBOIS",
+          "prenom": "Bernard",
+          "nom_complet": "Bernard DUBOIS",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BOQUET",
+          "prenom": "Solène",
+          "nom_complet": "Solène BOQUET",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DESGROUSILLIERS",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique DESGROUSILLIERS",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "TESTART",
+          "prenom": "Céline",
+          "nom_complet": "Céline TESTART",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DUBOIS",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe DUBOIS",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LAMBERT",
+          "prenom": "Élodie",
+          "nom_complet": "Élodie LAMBERT",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DELATTRE",
+          "prenom": "Benjamin",
+          "nom_complet": "Benjamin DELATTRE",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "7"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

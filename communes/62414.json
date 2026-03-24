@@ -1,0 +1,131 @@
+{
+  "code_commune": "62414",
+  "commune": "Haucourt",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "ANDRIEUX",
+    "prenom": "Frédéric",
+    "nom_complet": "Frédéric ANDRIEUX",
+    "age": 59,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 172,
+    "votants": 104,
+    "pct_votants": 60.47,
+    "abstentions": 68,
+    "pct_abstentions": 39.53,
+    "exprimes": 93
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Tous ensemble",
+      "libelle_abrege_liste": "Tous ensemble",
+      "nuance_liste": null,
+      "voix": 93,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "ANDRIEUX",
+        "prenom": "Frédéric",
+        "nom_complet": "Frédéric ANDRIEUX",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "ANDRIEUX",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric ANDRIEUX",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "MONPAYS",
+          "prenom": "Martine",
+          "nom_complet": "Martine MONPAYS",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DELMOTTE",
+          "prenom": "Thomas",
+          "nom_complet": "Thomas DELMOTTE",
+          "sexe": "M",
+          "age": 34,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "MERCIER",
+          "prenom": "Corinne",
+          "nom_complet": "Corinne MERCIER",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "WATEL",
+          "prenom": "Pierre",
+          "nom_complet": "Pierre WATEL",
+          "sexe": "M",
+          "age": 77,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DERECOURT",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie DERECOURT",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "CARON",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick CARON",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "CANY",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie CANY",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "HARBONNIER",
+          "prenom": "Franck",
+          "nom_complet": "Franck HARBONNIER",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DEGAUGUE",
+          "prenom": "Christine",
+          "nom_complet": "Christine DEGAUGUE",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "PEYRATOUT",
+          "prenom": "Julien",
+          "nom_complet": "Julien PEYRATOUT",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "code_commune": "62533",
+  "commune": "Lugy",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "VAN LATENSTEIN",
+    "prenom": "Freddy",
+    "nom_complet": "Freddy VAN LATENSTEIN",
+    "age": 54,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 117,
+    "votants": 78,
+    "pct_votants": 66.67,
+    "abstentions": 39,
+    "pct_abstentions": 33.33,
+    "exprimes": 61
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Liste d'Union",
+      "libelle_abrege_liste": "Liste d'Union",
+      "nuance_liste": null,
+      "voix": 61,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "VAN LATENSTEIN",
+        "prenom": "Freddy",
+        "nom_complet": "Freddy VAN LATENSTEIN",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "VAN LATENSTEIN",
+          "prenom": "Freddy",
+          "nom_complet": "Freddy VAN LATENSTEIN",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "FOURNIER",
+          "prenom": "Amandine",
+          "nom_complet": "Amandine FOURNIER",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "NEDONCELLE",
+          "prenom": "Henri",
+          "nom_complet": "Henri NEDONCELLE",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "FEUTREL",
+          "prenom": "Sabine",
+          "nom_complet": "Sabine FEUTREL",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "COULON",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe COULON",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "ROLIN",
+          "prenom": "Hélène",
+          "nom_complet": "Hélène ROLIN",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "MORENVAL",
+          "prenom": "Michaël",
+          "nom_complet": "Michaël MORENVAL",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "CNUDDE",
+          "prenom": "Carole",
+          "nom_complet": "Carole CNUDDE",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "BLANCQUART",
+          "prenom": "Jérôme",
+          "nom_complet": "Jérôme BLANCQUART",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DEPREETERE",
+          "prenom": "Françoise",
+          "nom_complet": "Françoise DEPREETERE",
+          "sexe": "F",
+          "age": 77,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "GALLET",
+          "prenom": "Steve",
+          "nom_complet": "Steve GALLET",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

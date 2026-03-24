@@ -1,0 +1,163 @@
+{
+  "code_commune": "59397",
+  "commune": "Merckeghem",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "LEURS",
+    "prenom": "Joël",
+    "nom_complet": "Joël LEURS",
+    "age": 58,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 518,
+    "votants": 333,
+    "pct_votants": 64.29,
+    "abstentions": 185,
+    "pct_abstentions": 35.71,
+    "exprimes": 292
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "MERCKEGHEM, avec passion",
+      "libelle_abrege_liste": "MAP",
+      "nuance_liste": null,
+      "voix": 292,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "LEURS",
+        "prenom": "Joël",
+        "nom_complet": "Joël LEURS",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LEURS",
+          "prenom": "Joël",
+          "nom_complet": "Joël LEURS",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "VANMAELE",
+          "prenom": "Danielle",
+          "nom_complet": "Danielle VANMAELE",
+          "sexe": "F",
+          "age": 73,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "FAVEEUW",
+          "prenom": "Bernard",
+          "nom_complet": "Bernard FAVEEUW",
+          "sexe": "M",
+          "age": 74,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DECONINCK",
+          "prenom": "Caty",
+          "nom_complet": "Caty DECONINCK",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "PLUY",
+          "prenom": "Jean-Marie",
+          "nom_complet": "Jean-Marie PLUY",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DELANNOYE",
+          "prenom": "Sophie",
+          "nom_complet": "Sophie DELANNOYE",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BEEKANDT",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal BEEKANDT",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "VERSCHAVE",
+          "prenom": "Chantal",
+          "nom_complet": "Chantal VERSCHAVE",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "LESCIEUX",
+          "prenom": "Régis",
+          "nom_complet": "Régis LESCIEUX",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DEBAISIEUX",
+          "prenom": "Émilie",
+          "nom_complet": "Émilie DEBAISIEUX",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "PACCOU",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno PACCOU",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "PATIN",
+          "prenom": "Maryline",
+          "nom_complet": "Maryline PATIN",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "PLUQUIN",
+          "prenom": "Christian",
+          "nom_complet": "Christian PLUQUIN",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "TAILLEZ",
+          "prenom": "Magdaléna",
+          "nom_complet": "Magdaléna TAILLEZ",
+          "sexe": "F",
+          "age": 28,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "VERHAEGHE",
+          "prenom": "Quentin",
+          "nom_complet": "Quentin VERHAEGHE",
+          "sexe": "M",
+          "age": 33,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

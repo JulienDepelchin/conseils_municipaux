@@ -1,0 +1,183 @@
+{
+  "code_commune": "59545",
+  "commune": "Saint-Souplet",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "QUONIOU",
+    "prenom": "Henri",
+    "nom_complet": "Henri QUONIOU",
+    "age": 68,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 955,
+    "votants": 670,
+    "pct_votants": 70.16,
+    "abstentions": 285,
+    "pct_abstentions": 29.84,
+    "exprimes": 636
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ENSEMBLE AVEC LE MAIRE",
+      "libelle_abrege_liste": "ENSEMBLE AVEC LE MAIRE",
+      "nuance_liste": null,
+      "voix": 473,
+      "pct_voix_exprimes": 74.37,
+      "sieges_cm": 13,
+      "sieges_cc": 1,
+      "nb_elus": 13,
+      "tete_de_liste": {
+        "nom": "QUONIOU",
+        "prenom": "Henri",
+        "nom_complet": "Henri QUONIOU",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "QUONIOU",
+          "prenom": "Henri",
+          "nom_complet": "Henri QUONIOU",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "HENNEQUART",
+          "prenom": "Chantal",
+          "nom_complet": "Chantal HENNEQUART",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BÉRA",
+          "prenom": "Marc",
+          "nom_complet": "Marc BÉRA",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "CHATTELEYN",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle CHATTELEYN",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "MORTIER",
+          "prenom": "Alexandre",
+          "nom_complet": "Alexandre MORTIER",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "BLAISE",
+          "prenom": "Marie-Elisabeth",
+          "nom_complet": "Marie-Elisabeth BLAISE",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "HUMETZ",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe HUMETZ",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "WOJTZAK",
+          "prenom": "Sandrine",
+          "nom_complet": "Sandrine WOJTZAK",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "BURY",
+          "prenom": "Franck",
+          "nom_complet": "Franck BURY",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DESPRES",
+          "prenom": "Marion",
+          "nom_complet": "Marion DESPRES",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "LACOMBLEZ",
+          "prenom": "Bernard",
+          "nom_complet": "Bernard LACOMBLEZ",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "PERE",
+          "prenom": "Marina",
+          "nom_complet": "Marina PERE",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "CARPENTIER",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe CARPENTIER",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "13"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "Saint Souplet-Escaufourt autrement",
+      "libelle_abrege_liste": "Saint Souplet-Escaufourt autrement",
+      "nuance_liste": null,
+      "voix": 163,
+      "pct_voix_exprimes": 25.63,
+      "sieges_cm": 2,
+      "sieges_cc": 0,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "LENOIR",
+        "prenom": "Noel",
+        "nom_complet": "Noel LENOIR",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LENOIR",
+          "prenom": "Noel",
+          "nom_complet": "Noel LENOIR",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "POULAIN",
+          "prenom": "Veronique",
+          "nom_complet": "Veronique POULAIN",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

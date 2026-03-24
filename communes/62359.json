@@ -1,0 +1,163 @@
+{
+  "code_commune": "62359",
+  "commune": "Fressin",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "VERGEOT",
+    "prenom": "Claude",
+    "nom_complet": "Claude VERGEOT",
+    "age": 72,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 475,
+    "votants": 316,
+    "pct_votants": 66.53,
+    "abstentions": 159,
+    "pct_abstentions": 33.47,
+    "exprimes": 248
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ENSEMBLE POUR L'AVENIR DE FRESSIN",
+      "libelle_abrege_liste": "ENSEMBLE POUR L'AVENIR DE FRESSIN",
+      "nuance_liste": null,
+      "voix": 248,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "VERGEOT",
+        "prenom": "Claude",
+        "nom_complet": "Claude VERGEOT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "VERGEOT",
+          "prenom": "Claude",
+          "nom_complet": "Claude VERGEOT",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "PICHONNIER",
+          "prenom": "Hélène",
+          "nom_complet": "Hélène PICHONNIER",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BELVAL",
+          "prenom": "Jean-Noël",
+          "nom_complet": "Jean-Noël BELVAL",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "CONSTANT",
+          "prenom": "Julie",
+          "nom_complet": "Julie CONSTANT",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "WAREMBOURG",
+          "prenom": "Noël",
+          "nom_complet": "Noël WAREMBOURG",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "BAILLEUL",
+          "prenom": "Sonia",
+          "nom_complet": "Sonia BAILLEUL",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "ANSELIN",
+          "prenom": "Jérémy",
+          "nom_complet": "Jérémy ANSELIN",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DELATTRE",
+          "prenom": "Emilie",
+          "nom_complet": "Emilie DELATTRE",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DELCUSE",
+          "prenom": "Sébastien",
+          "nom_complet": "Sébastien DELCUSE",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DUPIRE",
+          "prenom": "Laurence",
+          "nom_complet": "Laurence DUPIRE",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DHALLEINE",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe DHALLEINE",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "LAFFITTE",
+          "prenom": "Amélie",
+          "nom_complet": "Amélie LAFFITTE",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "FAVIER",
+          "prenom": "Bernard",
+          "nom_complet": "Bernard FAVIER",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "TAUPIN",
+          "prenom": "Madeleine",
+          "nom_complet": "Madeleine TAUPIN",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "BOQUET",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe BOQUET",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

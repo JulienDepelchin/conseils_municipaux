@@ -1,0 +1,131 @@
+{
+  "code_commune": "59394",
+  "commune": "Maurois",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "DUBUIS",
+    "prenom": "Bernadette",
+    "nom_complet": "Bernadette DUBUIS",
+    "age": 64,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 279,
+    "votants": 154,
+    "pct_votants": 55.2,
+    "abstentions": 125,
+    "pct_abstentions": 44.8,
+    "exprimes": 150
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "CONTINUER ENSEMBRE POUR MAUROIS",
+      "libelle_abrege_liste": "CONTINUER ENSEMBRE POUR MAUROIS",
+      "nuance_liste": null,
+      "voix": 150,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "DUBUIS",
+        "prenom": "Bernadette",
+        "nom_complet": "Bernadette DUBUIS",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "DUBUIS",
+          "prenom": "Bernadette",
+          "nom_complet": "Bernadette DUBUIS",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DUTILLEUL",
+          "prenom": "Yannick",
+          "nom_complet": "Yannick DUTILLEUL",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LEGROS",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie LEGROS",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "HAVRET",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe HAVRET",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LASSELLE",
+          "prenom": "Véronique",
+          "nom_complet": "Véronique LASSELLE",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DUBUIS",
+          "prenom": "Robert",
+          "nom_complet": "Robert DUBUIS",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "LUSSIEZ",
+          "prenom": "Valérie",
+          "nom_complet": "Valérie LUSSIEZ",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DELALANDE",
+          "prenom": "Eric",
+          "nom_complet": "Eric DELALANDE",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "BERNARD",
+          "prenom": "Justine",
+          "nom_complet": "Justine BERNARD",
+          "sexe": "F",
+          "age": 33,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "ROCHE",
+          "prenom": "Grégory",
+          "nom_complet": "Grégory ROCHE",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DUTILLEUL",
+          "prenom": "Clémence",
+          "nom_complet": "Clémence DUTILLEUL",
+          "sexe": "F",
+          "age": 20,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

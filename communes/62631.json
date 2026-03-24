@@ -1,0 +1,131 @@
+{
+  "code_commune": "62631",
+  "commune": "Nuncq-Hautecôte",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "PRUVOST",
+    "prenom": "Alain",
+    "nom_complet": "Alain PRUVOST",
+    "age": 70,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 347,
+    "votants": 239,
+    "pct_votants": 68.88,
+    "abstentions": 108,
+    "pct_abstentions": 31.12,
+    "exprimes": 181
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Ensemble pour les Nuncquois",
+      "libelle_abrege_liste": "Ensemble pour les Nuncquois",
+      "nuance_liste": null,
+      "voix": 181,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "PRUVOST",
+        "prenom": "Alain",
+        "nom_complet": "Alain PRUVOST",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "PRUVOST",
+          "prenom": "Alain",
+          "nom_complet": "Alain PRUVOST",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "ROUTIER",
+          "prenom": "Sabine",
+          "nom_complet": "Sabine ROUTIER",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "MARTIN",
+          "prenom": "Damien",
+          "nom_complet": "Damien MARTIN",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "GRIMBERT",
+          "prenom": "Laëtitia",
+          "nom_complet": "Laëtitia GRIMBERT",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DELORY",
+          "prenom": "Eric",
+          "nom_complet": "Eric DELORY",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "CANNESSON",
+          "prenom": "Eléonore",
+          "nom_complet": "Eléonore CANNESSON",
+          "sexe": "F",
+          "age": 33,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DAMERMENT",
+          "prenom": "Charles-Henri",
+          "nom_complet": "Charles-Henri DAMERMENT",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LONCLE",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie LONCLE",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "BRAURE",
+          "prenom": "Thomas",
+          "nom_complet": "Thomas BRAURE",
+          "sexe": "M",
+          "age": 21,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "BAYART",
+          "prenom": "Sèverine",
+          "nom_complet": "Sèverine BAYART",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "SAELEN",
+          "prenom": "Aurélien",
+          "nom_complet": "Aurélien SAELEN",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

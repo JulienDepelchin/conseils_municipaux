@@ -1,0 +1,327 @@
+{
+  "code_commune": "59544",
+  "commune": "Saint-Saulve",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "DUSART",
+    "prenom": "Yves",
+    "nom_complet": "Yves DUSART",
+    "age": 53,
+    "nuance": "LDVD"
+  },
+  "resultats": {
+    "inscrits": 8339,
+    "votants": 4349,
+    "pct_votants": 52.15,
+    "abstentions": 3990,
+    "pct_abstentions": 47.85,
+    "exprimes": 4148
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "TOUJOURS UNIS ET DYNAMIQUES POUR L'AVENIR DE NOTRE VILLE",
+      "libelle_abrege_liste": "TOUJOURS UNIS ET DYNAMIQUES POUR L'AVENIR DE NOTRE VILLE",
+      "nuance_liste": "LDVD",
+      "voix": 2680,
+      "pct_voix_exprimes": 64.61,
+      "sieges_cm": 27,
+      "sieges_cc": 4,
+      "nb_elus": 27,
+      "tete_de_liste": {
+        "nom": "DUSART",
+        "prenom": "Yves",
+        "nom_complet": "Yves DUSART",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DUSART",
+          "prenom": "Yves",
+          "nom_complet": "Yves DUSART",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "GOSSET",
+          "prenom": "Christèle",
+          "nom_complet": "Christèle GOSSET",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BROUILLARD",
+          "prenom": "Hervé",
+          "nom_complet": "Hervé BROUILLARD",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "PERRIN",
+          "prenom": "Cindy",
+          "nom_complet": "Cindy PERRIN",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DUCATILLON",
+          "prenom": "François",
+          "nom_complet": "François DUCATILLON",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "MARCHETTI",
+          "prenom": "Cathy",
+          "nom_complet": "Cathy MARCHETTI",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DUBOIS",
+          "prenom": "Jean-Marie",
+          "nom_complet": "Jean-Marie DUBOIS",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LEVEQUE",
+          "prenom": "Maryline",
+          "nom_complet": "Maryline LEVEQUE",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "LEBRUN",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno LEBRUN",
+          "sexe": "M",
+          "age": 80,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "MENNECART",
+          "prenom": "Audrey",
+          "nom_complet": "Audrey MENNECART",
+          "sexe": "F",
+          "age": 33,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "LAMBERT",
+          "prenom": "Fabrice",
+          "nom_complet": "Fabrice LAMBERT",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "MOREL",
+          "prenom": "Annie",
+          "nom_complet": "Annie MOREL",
+          "sexe": "F",
+          "age": 76,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "RUOL",
+          "prenom": "Loïc",
+          "nom_complet": "Loïc RUOL",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "VERHAEGHE",
+          "prenom": "Catherine",
+          "nom_complet": "Catherine VERHAEGHE",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "COUPEZ",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal COUPEZ",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "LESPAGNOL",
+          "prenom": "Leïla",
+          "nom_complet": "Leïla LESPAGNOL",
+          "sexe": "F",
+          "age": 18,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "SANNO",
+          "prenom": "Salvatore",
+          "nom_complet": "Salvatore SANNO",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "SKIMANI",
+          "prenom": "Jeanne",
+          "nom_complet": "Jeanne SKIMANI",
+          "sexe": "F",
+          "age": 22,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "GILLARD",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric GILLARD",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "DERUCHE--HELLI",
+          "prenom": "Océane",
+          "nom_complet": "Océane DERUCHE--HELLI",
+          "sexe": "F",
+          "age": 19,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "COLLART",
+          "prenom": "Jean-François",
+          "nom_complet": "Jean-François COLLART",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "VAN RYCKEGHEM",
+          "prenom": "Emilie",
+          "nom_complet": "Emilie VAN RYCKEGHEM",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "LAURENT",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal LAURENT",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "23"
+        },
+        {
+          "nom": "PINTE",
+          "prenom": "Sandrine",
+          "nom_complet": "Sandrine PINTE",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "24"
+        },
+        {
+          "nom": "CATTELAN",
+          "prenom": "Gian",
+          "nom_complet": "Gian CATTELAN",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "25"
+        },
+        {
+          "nom": "GABET",
+          "prenom": "Martine",
+          "nom_complet": "Martine GABET",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "26"
+        },
+        {
+          "nom": "RICHEZ",
+          "prenom": "Rodolphe",
+          "nom_complet": "Rodolphe RICHEZ",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "27"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "SAINT SAULVE NOTRE FORCE C'EST VOUS",
+      "libelle_abrege_liste": "SAINT SAULVE NOTRE FORCE C'EST VOUS",
+      "nuance_liste": "LDVG",
+      "voix": 1468,
+      "pct_voix_exprimes": 35.39,
+      "sieges_cm": 6,
+      "sieges_cc": 1,
+      "nb_elus": 6,
+      "tete_de_liste": {
+        "nom": "HOCHART",
+        "prenom": "Virginie",
+        "nom_complet": "Virginie HOCHART",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "HOCHART",
+          "prenom": "Virginie",
+          "nom_complet": "Virginie HOCHART",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DERBAY",
+          "prenom": "Daniel",
+          "nom_complet": "Daniel DERBAY",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LABED AOUADI",
+          "prenom": "Sheerazad",
+          "nom_complet": "Sheerazad LABED AOUADI",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DUTOUQUET",
+          "prenom": "Mathieu",
+          "nom_complet": "Mathieu DUTOUQUET",
+          "sexe": "M",
+          "age": 34,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DUREUIL",
+          "prenom": "Estelle",
+          "nom_complet": "Estelle DUREUIL",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "KOLANO",
+          "prenom": "Jean-Michel",
+          "nom_complet": "Jean-Michel KOLANO",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "6"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

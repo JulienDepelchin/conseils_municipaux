@@ -1,0 +1,163 @@
+{
+  "code_commune": "59391",
+  "commune": "Mastaing",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "AIGUIER",
+    "prenom": "Ludovic",
+    "nom_complet": "Ludovic AIGUIER",
+    "age": 52,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 688,
+    "votants": 451,
+    "pct_votants": 65.55,
+    "abstentions": 237,
+    "pct_abstentions": 34.45,
+    "exprimes": 413
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Agir ensemble pour Mastaing",
+      "libelle_abrege_liste": "Agir ensemble pour Mastaing",
+      "nuance_liste": null,
+      "voix": 413,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "AIGUIER",
+        "prenom": "Ludovic",
+        "nom_complet": "Ludovic AIGUIER",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "AIGUIER",
+          "prenom": "Ludovic",
+          "nom_complet": "Ludovic AIGUIER",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BETRENCOURT",
+          "prenom": "Marie-Elise",
+          "nom_complet": "Marie-Elise BETRENCOURT",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "AGUERRE",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas AGUERRE",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BUEMI",
+          "prenom": "Lysiane",
+          "nom_complet": "Lysiane BUEMI",
+          "sexe": "F",
+          "age": 72,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DELAUDIER",
+          "prenom": "Benoît",
+          "nom_complet": "Benoît DELAUDIER",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "CARRIGAND",
+          "prenom": "Carole",
+          "nom_complet": "Carole CARRIGAND",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DELCAMBRE",
+          "prenom": "Jean-Charles",
+          "nom_complet": "Jean-Charles DELCAMBRE",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "CHEVAILLIER",
+          "prenom": "Amandine",
+          "nom_complet": "Amandine CHEVAILLIER",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "MOTTE",
+          "prenom": "Mickaël",
+          "nom_complet": "Mickaël MOTTE",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DELHAU",
+          "prenom": "Francette",
+          "nom_complet": "Francette DELHAU",
+          "sexe": "F",
+          "age": 71,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "POULAIN",
+          "prenom": "Rémi",
+          "nom_complet": "Rémi POULAIN",
+          "sexe": "M",
+          "age": 24,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "DESSAINT",
+          "prenom": "Rose",
+          "nom_complet": "Rose DESSAINT",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "THEBAULT",
+          "prenom": "Denis",
+          "nom_complet": "Denis THEBAULT",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "POULAIN",
+          "prenom": "Angélique",
+          "nom_complet": "Angélique POULAIN",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "VILAIN",
+          "prenom": "Gérard",
+          "nom_complet": "Gérard VILAIN",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

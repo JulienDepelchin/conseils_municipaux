@@ -1,0 +1,295 @@
+{
+  "code_commune": "62035",
+  "commune": "Annezin",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "DEBAS",
+    "prenom": "Gregory",
+    "nom_complet": "Gregory DEBAS",
+    "age": 50,
+    "nuance": "LDVC"
+  },
+  "resultats": {
+    "inscrits": 4323,
+    "votants": 2685,
+    "pct_votants": 62.11,
+    "abstentions": 1638,
+    "pct_abstentions": 37.89,
+    "exprimes": 2596
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ANNEZIN 2026, ENSEMBLE VERS L'AVENIR AVEC GREGORY DEBAS",
+      "libelle_abrege_liste": "ANNEZIN 2026, ENSEMBLE VERS L'AVENIR AVEC GREGORY DEBAS",
+      "nuance_liste": "LDVC",
+      "voix": 1625,
+      "pct_voix_exprimes": 62.6,
+      "sieges_cm": 24,
+      "sieges_cc": 2,
+      "nb_elus": 24,
+      "tete_de_liste": {
+        "nom": "DEBAS",
+        "prenom": "Gregory",
+        "nom_complet": "Gregory DEBAS",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DEBAS",
+          "prenom": "Gregory",
+          "nom_complet": "Gregory DEBAS",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "PETIT",
+          "prenom": "Celine",
+          "nom_complet": "Celine PETIT",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BRETIN",
+          "prenom": "Ludovic",
+          "nom_complet": "Ludovic BRETIN",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "PEZIN",
+          "prenom": "Aurélie",
+          "nom_complet": "Aurélie PEZIN",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DERISBOURG",
+          "prenom": "Didier",
+          "nom_complet": "Didier DERISBOURG",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "PLACE",
+          "prenom": "Sophie",
+          "nom_complet": "Sophie PLACE",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "LEFAIT",
+          "prenom": "Mickael",
+          "nom_complet": "Mickael LEFAIT",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "VANPEENE",
+          "prenom": "Magali",
+          "nom_complet": "Magali VANPEENE",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DONFUT",
+          "prenom": "Francis",
+          "nom_complet": "Francis DONFUT",
+          "sexe": "M",
+          "age": 74,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "CAZE",
+          "prenom": "Martine",
+          "nom_complet": "Martine CAZE",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "CLERBOUT",
+          "prenom": "Michael",
+          "nom_complet": "Michael CLERBOUT",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "MOUY",
+          "prenom": "Marie",
+          "nom_complet": "Marie MOUY",
+          "sexe": "F",
+          "age": 25,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "OBRY",
+          "prenom": "Romaric",
+          "nom_complet": "Romaric OBRY",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "VASSEUR",
+          "prenom": "Marie-Laurence",
+          "nom_complet": "Marie-Laurence VASSEUR",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "FOURCROY",
+          "prenom": "Matthieu",
+          "nom_complet": "Matthieu FOURCROY",
+          "sexe": "M",
+          "age": 33,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "PETIT",
+          "prenom": "Claudine",
+          "nom_complet": "Claudine PETIT",
+          "sexe": "F",
+          "age": 75,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "QUEVA",
+          "prenom": "Jonathan",
+          "nom_complet": "Jonathan QUEVA",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "ELUECQUE",
+          "prenom": "Marie-Aimee",
+          "nom_complet": "Marie-Aimee ELUECQUE",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "PAWLOWSKI",
+          "prenom": "Eric",
+          "nom_complet": "Eric PAWLOWSKI",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "LUCAS",
+          "prenom": "Maryline",
+          "nom_complet": "Maryline LUCAS",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "DUPONT",
+          "prenom": "Guillaume",
+          "nom_complet": "Guillaume DUPONT",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "TIRMAN",
+          "prenom": "Elisabeth",
+          "nom_complet": "Elisabeth TIRMAN",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "THUILLIEZ",
+          "prenom": "Benjamin",
+          "nom_complet": "Benjamin THUILLIEZ",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "23"
+        },
+        {
+          "nom": "THOMAS",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique THOMAS",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "24"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "ANNEZIN CAP 2026",
+      "libelle_abrege_liste": "ANNEZIN CAP 2026",
+      "nuance_liste": "LDIV",
+      "voix": 971,
+      "pct_voix_exprimes": 37.4,
+      "sieges_cm": 5,
+      "sieges_cc": 0,
+      "nb_elus": 5,
+      "tete_de_liste": {
+        "nom": "DELESTREZ",
+        "prenom": "Caroline",
+        "nom_complet": "Caroline DELESTREZ",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "DELESTREZ",
+          "prenom": "Caroline",
+          "nom_complet": "Caroline DELESTREZ",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DELVILLE",
+          "prenom": "David",
+          "nom_complet": "David DELVILLE",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "ROSIAUX",
+          "prenom": "Fatima-Zahra",
+          "nom_complet": "Fatima-Zahra ROSIAUX",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DESPREZ",
+          "prenom": "Benjamin",
+          "nom_complet": "Benjamin DESPREZ",
+          "sexe": "M",
+          "age": 29,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "RONGIER",
+          "prenom": "Melanie",
+          "nom_complet": "Melanie RONGIER",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "5"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

@@ -1,0 +1,247 @@
+{
+  "code_commune": "59429",
+  "commune": "Neuville-sur-Escaut",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "JEAN",
+    "prenom": "Pascal",
+    "nom_complet": "Pascal JEAN",
+    "age": 63,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1931,
+    "votants": 1278,
+    "pct_votants": 66.18,
+    "abstentions": 653,
+    "pct_abstentions": 33.82,
+    "exprimes": 1225
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "Neuville Toujours à coeur",
+      "libelle_abrege_liste": "Neuville Toujours à coeur",
+      "nuance_liste": null,
+      "voix": 696,
+      "pct_voix_exprimes": 56.82,
+      "sieges_cm": 18,
+      "sieges_cc": 1,
+      "nb_elus": 18,
+      "tete_de_liste": {
+        "nom": "JEAN",
+        "prenom": "Pascal",
+        "nom_complet": "Pascal JEAN",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "JEAN",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal JEAN",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DEFERREZ",
+          "prenom": "Véronique",
+          "nom_complet": "Véronique DEFERREZ",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "PIQUE",
+          "prenom": "Jéremie",
+          "nom_complet": "Jéremie PIQUE",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LAKSANAMIXAY",
+          "prenom": "Sophie",
+          "nom_complet": "Sophie LAKSANAMIXAY",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "THUILLIER",
+          "prenom": "Didier",
+          "nom_complet": "Didier THUILLIER",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LANGLET",
+          "prenom": "Danièle",
+          "nom_complet": "Danièle LANGLET",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BORNEMAN",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique BORNEMAN",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DANCZAK",
+          "prenom": "Marie-Annick",
+          "nom_complet": "Marie-Annick DANCZAK",
+          "sexe": "F",
+          "age": 71,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "KAMINSKI",
+          "prenom": "Christian",
+          "nom_complet": "Christian KAMINSKI",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "CAMBAY",
+          "prenom": "Sandrine",
+          "nom_complet": "Sandrine CAMBAY",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "GLAVIER",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe GLAVIER",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "MOURIZAT",
+          "prenom": "Amandine",
+          "nom_complet": "Amandine MOURIZAT",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "FREMEAUX",
+          "prenom": "Claude",
+          "nom_complet": "Claude FREMEAUX",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "BESSE",
+          "prenom": "Édith",
+          "nom_complet": "Édith BESSE",
+          "sexe": "F",
+          "age": 73,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "FRANCOIS",
+          "prenom": "Jordan",
+          "nom_complet": "Jordan FRANCOIS",
+          "sexe": "M",
+          "age": 34,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "BRASSART",
+          "prenom": "Magali",
+          "nom_complet": "Magali BRASSART",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "MOUM",
+          "prenom": "Lahoucen",
+          "nom_complet": "Lahoucen MOUM",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "BERTIN",
+          "prenom": "Sabrina",
+          "nom_complet": "Sabrina BERTIN",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "18"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Vers une nouvelle ère pour Neuville",
+      "libelle_abrege_liste": "Vers une nouvelle ère pour Neuville",
+      "nuance_liste": null,
+      "voix": 529,
+      "pct_voix_exprimes": 43.18,
+      "sieges_cm": 5,
+      "sieges_cc": 0,
+      "nb_elus": 5,
+      "tete_de_liste": {
+        "nom": "SAUTIER",
+        "prenom": "Sebastien",
+        "nom_complet": "Sebastien SAUTIER",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "SAUTIER",
+          "prenom": "Sebastien",
+          "nom_complet": "Sebastien SAUTIER",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "TALMANT",
+          "prenom": "Stephanie",
+          "nom_complet": "Stephanie TALMANT",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "D'HAENE",
+          "prenom": "Fabien",
+          "nom_complet": "Fabien D'HAENE",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "WAXIN",
+          "prenom": "Christine",
+          "nom_complet": "Christine WAXIN",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "BAUDRY",
+          "prenom": "Fabien",
+          "nom_complet": "Fabien BAUDRY",
+          "sexe": "M",
+          "age": 28,
+          "rang_liste": "5"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

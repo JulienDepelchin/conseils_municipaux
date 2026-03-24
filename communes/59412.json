@@ -1,0 +1,151 @@
+{
+  "code_commune": "59412",
+  "commune": "Montay",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "RIBES-GRUERE",
+    "prenom": "Laurence",
+    "nom_complet": "Laurence RIBES-GRUERE",
+    "age": 66,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 204,
+    "votants": 158,
+    "pct_votants": 77.45,
+    "abstentions": 46,
+    "pct_abstentions": 22.55,
+    "exprimes": 150
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Unis pour Montay",
+      "libelle_abrege_liste": "Unis pour Montay",
+      "nuance_liste": null,
+      "voix": 91,
+      "pct_voix_exprimes": 60.67,
+      "sieges_cm": 9,
+      "sieges_cc": null,
+      "nb_elus": 9,
+      "tete_de_liste": {
+        "nom": "RIBES-GRUERE",
+        "prenom": "Laurence",
+        "nom_complet": "Laurence RIBES-GRUERE",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "RIBES-GRUERE",
+          "prenom": "Laurence",
+          "nom_complet": "Laurence RIBES-GRUERE",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "FERAUX",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe FERAUX",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DELPORTE",
+          "prenom": "Cathy",
+          "nom_complet": "Cathy DELPORTE",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "ATTRIDGE",
+          "prenom": "Julien",
+          "nom_complet": "Julien ATTRIDGE",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LECLERCQ",
+          "prenom": "Maryse",
+          "nom_complet": "Maryse LECLERCQ",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DAVAINE",
+          "prenom": "Jason",
+          "nom_complet": "Jason DAVAINE",
+          "sexe": "M",
+          "age": 30,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DEFOSSEZ",
+          "prenom": "Aline",
+          "nom_complet": "Aline DEFOSSEZ",
+          "sexe": "F",
+          "age": 32,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "MICHEL",
+          "prenom": "Jean-Claude",
+          "nom_complet": "Jean-Claude MICHEL",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "SUEUR",
+          "prenom": "Nadine",
+          "nom_complet": "Nadine SUEUR",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "9"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "MONTAY RENOUVEAU",
+      "libelle_abrege_liste": "MONTAY RENOUVEAU",
+      "nuance_liste": null,
+      "voix": 59,
+      "pct_voix_exprimes": 39.33,
+      "sieges_cm": 2,
+      "sieges_cc": null,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "LENGRAND",
+        "prenom": "David",
+        "nom_complet": "David LENGRAND",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LENGRAND",
+          "prenom": "David",
+          "nom_complet": "David LENGRAND",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "KUHM",
+          "prenom": "Fideline",
+          "nom_complet": "Fideline KUHM",
+          "sexe": "F",
+          "age": 30,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

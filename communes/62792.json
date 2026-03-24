@@ -1,0 +1,163 @@
+{
+  "code_commune": "62792",
+  "commune": "Serques",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "CAZIN",
+    "prenom": "Etienne",
+    "nom_complet": "Etienne CAZIN",
+    "age": 67,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1011,
+    "votants": 592,
+    "pct_votants": 58.56,
+    "abstentions": 419,
+    "pct_abstentions": 41.44,
+    "exprimes": 526
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "AGIR ENSEMBLE POUR SERQUES",
+      "libelle_abrege_liste": "AGIR ENSEMBLE POUR SERQUES",
+      "nuance_liste": null,
+      "voix": 526,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": 1,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "CAZIN",
+        "prenom": "Etienne",
+        "nom_complet": "Etienne CAZIN",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "CAZIN",
+          "prenom": "Etienne",
+          "nom_complet": "Etienne CAZIN",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DOUILLY",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle DOUILLY",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "MASSEMIN",
+          "prenom": "Jean-Luc",
+          "nom_complet": "Jean-Luc MASSEMIN",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "VERCOUTRE  EPOUSE BECAERT",
+          "prenom": "Caroline",
+          "nom_complet": "Caroline VERCOUTRE  EPOUSE BECAERT",
+          "sexe": "F",
+          "age": 71,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LOZINGUEZ",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique LOZINGUEZ",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LESCIEUX EPOUSE DEPRECQ",
+          "prenom": "Fabienne",
+          "nom_complet": "Fabienne LESCIEUX EPOUSE DEPRECQ",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "WOETS",
+          "prenom": "Didier",
+          "nom_complet": "Didier WOETS",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "BIGO EPOUSE LAHAYE",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie BIGO EPOUSE LAHAYE",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "ROMMEINS",
+          "prenom": "Jean-Pierre",
+          "nom_complet": "Jean-Pierre ROMMEINS",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DEFOSSEZ EPOUSE CHRETIEN",
+          "prenom": "Marie-Odile",
+          "nom_complet": "Marie-Odile DEFOSSEZ EPOUSE CHRETIEN",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "VASSEUR",
+          "prenom": "Clément",
+          "nom_complet": "Clément VASSEUR",
+          "sexe": "M",
+          "age": 33,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "JAKO EPOUSE LECOUTRE",
+          "prenom": "Sabrina",
+          "nom_complet": "Sabrina JAKO EPOUSE LECOUTRE",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "BAUDENS",
+          "prenom": "Daniel",
+          "nom_complet": "Daniel BAUDENS",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "PARISSEAUX EPOUSE LOINGEVILLE",
+          "prenom": "Erika",
+          "nom_complet": "Erika PARISSEAUX EPOUSE LOINGEVILLE",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "LEROY",
+          "prenom": "Didier",
+          "nom_complet": "Didier LEROY",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

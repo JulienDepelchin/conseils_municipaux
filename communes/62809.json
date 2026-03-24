@@ -1,0 +1,131 @@
+{
+  "code_commune": "62809",
+  "commune": "Ternas",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "GAY",
+    "prenom": "Guillaume",
+    "nom_complet": "Guillaume GAY",
+    "age": 35,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 110,
+    "votants": 64,
+    "pct_votants": 58.18,
+    "abstentions": 46,
+    "pct_abstentions": 41.82,
+    "exprimes": 49
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "POUR TERNAS",
+      "libelle_abrege_liste": "POUR TERNAS",
+      "nuance_liste": null,
+      "voix": 49,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "GAY",
+        "prenom": "Guillaume",
+        "nom_complet": "Guillaume GAY",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "GAY",
+          "prenom": "Guillaume",
+          "nom_complet": "Guillaume GAY",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "ROUSSEL",
+          "prenom": "Nicole",
+          "nom_complet": "Nicole ROUSSEL",
+          "sexe": "F",
+          "age": 70,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BRUCHE",
+          "prenom": "Marc-Antoine",
+          "nom_complet": "Marc-Antoine BRUCHE",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "CAGNIART",
+          "prenom": "Patricia",
+          "nom_complet": "Patricia CAGNIART",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "GAY",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal GAY",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DELFORGE",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie DELFORGE",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BRUCHE",
+          "prenom": "Philippe-Eugène",
+          "nom_complet": "Philippe-Eugène BRUCHE",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "MAËS",
+          "prenom": "Émilie",
+          "nom_complet": "Émilie MAËS",
+          "sexe": "F",
+          "age": 31,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "THERET",
+          "prenom": "Maxence",
+          "nom_complet": "Maxence THERET",
+          "sexe": "M",
+          "age": 29,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DECOTTIGNIES",
+          "prenom": "Genevieve",
+          "nom_complet": "Genevieve DECOTTIGNIES",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "HUVENOIT",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal HUVENOIT",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

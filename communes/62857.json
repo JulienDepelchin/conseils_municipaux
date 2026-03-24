@@ -1,0 +1,131 @@
+{
+  "code_commune": "62857",
+  "commune": "Villers-Châtel",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "SERGIER",
+    "prenom": "Muriel",
+    "nom_complet": "Muriel SERGIER",
+    "age": 72,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 112,
+    "votants": 88,
+    "pct_votants": 78.57,
+    "abstentions": 24,
+    "pct_abstentions": 21.43,
+    "exprimes": 59
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ENSEMBLE AU SERVICE DE TOUS",
+      "libelle_abrege_liste": "ENSEMBLE AU SERVICE DE TOUS",
+      "nuance_liste": null,
+      "voix": 59,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "SERGIER",
+        "prenom": "Muriel",
+        "nom_complet": "Muriel SERGIER",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "SERGIER",
+          "prenom": "Muriel",
+          "nom_complet": "Muriel SERGIER",
+          "sexe": "F",
+          "age": 72,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BOUCHIND'HOMME",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe BOUCHIND'HOMME",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BARRÉ",
+          "prenom": "Cathy",
+          "nom_complet": "Cathy BARRÉ",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LEBLANC",
+          "prenom": "Christian",
+          "nom_complet": "Christian LEBLANC",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "HUYGHE",
+          "prenom": "Thérèse",
+          "nom_complet": "Thérèse HUYGHE",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DRECQ",
+          "prenom": "Alain",
+          "nom_complet": "Alain DRECQ",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "VERET",
+          "prenom": "Liliane",
+          "nom_complet": "Liliane VERET",
+          "sexe": "F",
+          "age": 72,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LENGLET",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe LENGLET",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "BASYN",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle BASYN",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "PETIT",
+          "prenom": "Ludovic",
+          "nom_complet": "Ludovic PETIT",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "VERNHET",
+          "prenom": "Noëlle",
+          "nom_complet": "Noëlle VERNHET",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

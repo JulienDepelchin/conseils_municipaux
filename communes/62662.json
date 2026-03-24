@@ -1,0 +1,203 @@
+{
+  "code_commune": "62662",
+  "commune": "Polincove",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "WILLEMAN",
+    "prenom": "Pascal",
+    "nom_complet": "Pascal WILLEMAN",
+    "age": 57,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 690,
+    "votants": 567,
+    "pct_votants": 82.17,
+    "abstentions": 123,
+    "pct_abstentions": 17.83,
+    "exprimes": 553
+  },
+  "listes": [
+    {
+      "num_panneau": "3",
+      "libelle_liste": "Un nouvel élan pour Polincove",
+      "libelle_abrege_liste": "Un nouvel élan pour Polincove",
+      "nuance_liste": null,
+      "voix": 285,
+      "pct_voix_exprimes": 51.54,
+      "sieges_cm": 12,
+      "sieges_cc": null,
+      "nb_elus": 12,
+      "tete_de_liste": {
+        "nom": "WILLEMAN",
+        "prenom": "Pascal",
+        "nom_complet": "Pascal WILLEMAN",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "WILLEMAN",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal WILLEMAN",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "TAINE",
+          "prenom": "Emeline",
+          "nom_complet": "Emeline TAINE",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "RUFFIN",
+          "prenom": "Mickaël",
+          "nom_complet": "Mickaël RUFFIN",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "CLARISSE",
+          "prenom": "Marina",
+          "nom_complet": "Marina CLARISSE",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "VASSEUR",
+          "prenom": "Bernard",
+          "nom_complet": "Bernard VASSEUR",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "BUTEZ",
+          "prenom": "Pauline",
+          "nom_complet": "Pauline BUTEZ",
+          "sexe": "F",
+          "age": 31,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "NOEL",
+          "prenom": "Maxime",
+          "nom_complet": "Maxime NOEL",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LEBEURRE",
+          "prenom": "Constance",
+          "nom_complet": "Constance LEBEURRE",
+          "sexe": "F",
+          "age": 31,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "POPIEUL",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick POPIEUL",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "COPIN",
+          "prenom": "Aurore",
+          "nom_complet": "Aurore COPIN",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "COURVOISIER",
+          "prenom": "Damien",
+          "nom_complet": "Damien COURVOISIER",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "DECLERCQ",
+          "prenom": "Delphine",
+          "nom_complet": "Delphine DECLERCQ",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "12"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "Pour POLINCOVE, pour VOUS !",
+      "libelle_abrege_liste": "Pour POLINCOVE, pour VOUS !",
+      "nuance_liste": null,
+      "voix": 180,
+      "pct_voix_exprimes": 32.55,
+      "sieges_cm": 2,
+      "sieges_cc": null,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "ROUZÉ",
+        "prenom": "Thierry",
+        "nom_complet": "Thierry ROUZÉ",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "ROUZÉ",
+          "prenom": "Thierry",
+          "nom_complet": "Thierry ROUZÉ",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "POTTE",
+          "prenom": "Marie-Laure",
+          "nom_complet": "Marie-Laure POTTE",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "A L' ECOUTE DES POLINCOVOIS",
+      "libelle_abrege_liste": "A L' ECOUTE DES POLINCOVOIS",
+      "nuance_liste": null,
+      "voix": 88,
+      "pct_voix_exprimes": 15.91,
+      "sieges_cm": 1,
+      "sieges_cc": null,
+      "nb_elus": 1,
+      "tete_de_liste": {
+        "nom": "DEKERF",
+        "prenom": "Sandrine",
+        "nom_complet": "Sandrine DEKERF",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "DEKERF",
+          "prenom": "Sandrine",
+          "nom_complet": "Sandrine DEKERF",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "1"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

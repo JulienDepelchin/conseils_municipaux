@@ -1,0 +1,131 @@
+{
+  "code_commune": "62451",
+  "commune": "Heuchin",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "PERRIN",
+    "prenom": "Angélique",
+    "nom_complet": "Angélique PERRIN",
+    "age": 50,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 330,
+    "votants": 223,
+    "pct_votants": 67.58,
+    "abstentions": 107,
+    "pct_abstentions": 32.42,
+    "exprimes": 191
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Angélique Perrin",
+      "libelle_abrege_liste": "Angélique Perrin",
+      "nuance_liste": null,
+      "voix": 191,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "PERRIN",
+        "prenom": "Angélique",
+        "nom_complet": "Angélique PERRIN",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "PERRIN",
+          "prenom": "Angélique",
+          "nom_complet": "Angélique PERRIN",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "VASSEUR",
+          "prenom": "Eric",
+          "nom_complet": "Eric VASSEUR",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "ATLANI",
+          "prenom": "Vanessa",
+          "nom_complet": "Vanessa ATLANI",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "KONNERT",
+          "prenom": "Robert",
+          "nom_complet": "Robert KONNERT",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DELATTRE",
+          "prenom": "Anne",
+          "nom_complet": "Anne DELATTRE",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DECROIX",
+          "prenom": "Jérémy",
+          "nom_complet": "Jérémy DECROIX",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "FLOUR",
+          "prenom": "Séverine",
+          "nom_complet": "Séverine FLOUR",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DIEU",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe DIEU",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "BRUNEL",
+          "prenom": "Aurore",
+          "nom_complet": "Aurore BRUNEL",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "LEROY",
+          "prenom": "Eric",
+          "nom_complet": "Eric LEROY",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DELAY",
+          "prenom": "Michelle",
+          "nom_complet": "Michelle DELAY",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

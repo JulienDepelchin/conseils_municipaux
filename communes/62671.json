@@ -1,0 +1,131 @@
+{
+  "code_commune": "62671",
+  "commune": "Pronville-en-Artois",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "TOURNEL",
+    "prenom": "Isabelle",
+    "nom_complet": "Isabelle TOURNEL",
+    "age": 61,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 224,
+    "votants": 153,
+    "pct_votants": 68.3,
+    "abstentions": 71,
+    "pct_abstentions": 31.7,
+    "exprimes": 105
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "UNISSONS NOUS POUR PRONVILLE EN ARTOIS",
+      "libelle_abrege_liste": "UNISSONS NOUS POUR PRONVILLE EN ARTOIS",
+      "nuance_liste": null,
+      "voix": 105,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "TOURNEL",
+        "prenom": "Isabelle",
+        "nom_complet": "Isabelle TOURNEL",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "TOURNEL",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle TOURNEL",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "WIART",
+          "prenom": "Arnaud",
+          "nom_complet": "Arnaud WIART",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BENEDET",
+          "prenom": "Valérie",
+          "nom_complet": "Valérie BENEDET",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BUCAMP",
+          "prenom": "Hervé",
+          "nom_complet": "Hervé BUCAMP",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "REVERSE",
+          "prenom": "Martine",
+          "nom_complet": "Martine REVERSE",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "GUINARD",
+          "prenom": "Jean-Marc",
+          "nom_complet": "Jean-Marc GUINARD",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "LECONTE",
+          "prenom": "Marie-Ange",
+          "nom_complet": "Marie-Ange LECONTE",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "CHATELAIN",
+          "prenom": "Marc",
+          "nom_complet": "Marc CHATELAIN",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "MARQUIS",
+          "prenom": "Sabrina",
+          "nom_complet": "Sabrina MARQUIS",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "LECLERCQ",
+          "prenom": "Pierre",
+          "nom_complet": "Pierre LECLERCQ",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DEBAILLIEUL",
+          "prenom": "Mathilde",
+          "nom_complet": "Mathilde DEBAILLIEUL",
+          "sexe": "F",
+          "age": 25,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

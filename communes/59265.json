@@ -1,0 +1,215 @@
+{
+  "code_commune": "59265",
+  "commune": "Gommegnies",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "GUIOST",
+    "prenom": "Benoît",
+    "nom_complet": "Benoît GUIOST",
+    "age": 47,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1810,
+    "votants": 1270,
+    "pct_votants": 70.17,
+    "abstentions": 540,
+    "pct_abstentions": 29.83,
+    "exprimes": 1235
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "Continuons ensemble pour Gommegnies Carnoy !",
+      "libelle_abrege_liste": "Continuons ensemble pour Gommegnies Carnoy !",
+      "nuance_liste": null,
+      "voix": 832,
+      "pct_voix_exprimes": 67.37,
+      "sieges_cm": 16,
+      "sieges_cc": 3,
+      "nb_elus": 16,
+      "tete_de_liste": {
+        "nom": "GUIOST",
+        "prenom": "Benoît",
+        "nom_complet": "Benoît GUIOST",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "GUIOST",
+          "prenom": "Benoît",
+          "nom_complet": "Benoît GUIOST",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "FREHAUT",
+          "prenom": "Carine",
+          "nom_complet": "Carine FREHAUT",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BRUNELLE",
+          "prenom": "Yvon",
+          "nom_complet": "Yvon BRUNELLE",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "PISSON",
+          "prenom": "Chantal",
+          "nom_complet": "Chantal PISSON",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "HONORE",
+          "prenom": "Maxime",
+          "nom_complet": "Maxime HONORE",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "VITO",
+          "prenom": "Christiane",
+          "nom_complet": "Christiane VITO",
+          "sexe": "F",
+          "age": 75,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "SALOMEZ",
+          "prenom": "Thierry",
+          "nom_complet": "Thierry SALOMEZ",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "CARPENTIER",
+          "prenom": "Elisabeth",
+          "nom_complet": "Elisabeth CARPENTIER",
+          "sexe": "F",
+          "age": 71,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "LOCQUENEUX",
+          "prenom": "David",
+          "nom_complet": "David LOCQUENEUX",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "HENRY",
+          "prenom": "Anne",
+          "nom_complet": "Anne HENRY",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DUBRAY",
+          "prenom": "Sébastien",
+          "nom_complet": "Sébastien DUBRAY",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "POLLET",
+          "prenom": "Pâquerette",
+          "nom_complet": "Pâquerette POLLET",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "FRUCHART",
+          "prenom": "Emmanuel",
+          "nom_complet": "Emmanuel FRUCHART",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "MEIMARAKIS",
+          "prenom": "Hélène",
+          "nom_complet": "Hélène MEIMARAKIS",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "RASSCKAERT",
+          "prenom": "Arnaud",
+          "nom_complet": "Arnaud RASSCKAERT",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "DESLAVIERES",
+          "prenom": "Juliette",
+          "nom_complet": "Juliette DESLAVIERES",
+          "sexe": "F",
+          "age": 26,
+          "rang_liste": "16"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "GOMMEGNIES, CARNOY : AUTREMENT !",
+      "libelle_abrege_liste": "GOMMEGNIES, CARNOY : AUTREMENT !",
+      "nuance_liste": null,
+      "voix": 403,
+      "pct_voix_exprimes": 32.63,
+      "sieges_cm": 3,
+      "sieges_cc": 0,
+      "nb_elus": 3,
+      "tete_de_liste": {
+        "nom": "LIMELETTE",
+        "prenom": "Olivier",
+        "nom_complet": "Olivier LIMELETTE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LIMELETTE",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier LIMELETTE",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DORGE",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle DORGE",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LOUVRIER",
+          "prenom": "Sebastien",
+          "nom_complet": "Sebastien LOUVRIER",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "3"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

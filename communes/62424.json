@@ -1,0 +1,131 @@
+{
+  "code_commune": "62424",
+  "commune": "Hendecourt-lès-Cagnicourt",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "SÉNÉCHAL",
+    "prenom": "Denis",
+    "nom_complet": "Denis SÉNÉCHAL",
+    "age": 70,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 261,
+    "votants": 126,
+    "pct_votants": 48.28,
+    "abstentions": 135,
+    "pct_abstentions": 51.72,
+    "exprimes": 105
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "DÉFENSE DES INTÉRÊTS COMMUNAUX",
+      "libelle_abrege_liste": "DÉFENSE DES INTÉRÊTS COMMUNAUX",
+      "nuance_liste": null,
+      "voix": 105,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "SÉNÉCHAL",
+        "prenom": "Denis",
+        "nom_complet": "Denis SÉNÉCHAL",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "SÉNÉCHAL",
+          "prenom": "Denis",
+          "nom_complet": "Denis SÉNÉCHAL",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "FOUILLOUD",
+          "prenom": "Bénédicte",
+          "nom_complet": "Bénédicte FOUILLOUD",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "JACOB",
+          "prenom": "Michel",
+          "nom_complet": "Michel JACOB",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "GOUDEZOONE",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie GOUDEZOONE",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DELATTRE",
+          "prenom": "Thibaut",
+          "nom_complet": "Thibaut DELATTRE",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "BULTEL",
+          "prenom": "Héloïse",
+          "nom_complet": "Héloïse BULTEL",
+          "sexe": "F",
+          "age": 31,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DHORNE",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier DHORNE",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "CORETTE",
+          "prenom": "Linda",
+          "nom_complet": "Linda CORETTE",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "LEFEBVRE",
+          "prenom": "Arnaud",
+          "nom_complet": "Arnaud LEFEBVRE",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DECOSTER",
+          "prenom": "Lucie",
+          "nom_complet": "Lucie DECOSTER",
+          "sexe": "F",
+          "age": 24,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "MARQUAILLE",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno MARQUAILLE",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

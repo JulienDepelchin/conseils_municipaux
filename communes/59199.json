@@ -1,0 +1,163 @@
+{
+  "code_commune": "59199",
+  "commune": "Erchin",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "KUMOREK",
+    "prenom": "Laurent",
+    "nom_complet": "Laurent KUMOREK",
+    "age": 52,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 566,
+    "votants": 325,
+    "pct_votants": 57.42,
+    "abstentions": 241,
+    "pct_abstentions": 42.58,
+    "exprimes": 275
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Avançons ensemble pour ERCHIN !",
+      "libelle_abrege_liste": "Avançons ensemble pour ERCHIN !",
+      "nuance_liste": null,
+      "voix": 275,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "KUMOREK",
+        "prenom": "Laurent",
+        "nom_complet": "Laurent KUMOREK",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "KUMOREK",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent KUMOREK",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "COLMANT",
+          "prenom": "Martine",
+          "nom_complet": "Martine COLMANT",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BLONDEAU",
+          "prenom": "Johann",
+          "nom_complet": "Johann BLONDEAU",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "VAILLANT",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle VAILLANT",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "RASZKOWSKI",
+          "prenom": "Patrice",
+          "nom_complet": "Patrice RASZKOWSKI",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DELVILLE",
+          "prenom": "Céline",
+          "nom_complet": "Céline DELVILLE",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "ROUSSEL",
+          "prenom": "Benoît",
+          "nom_complet": "Benoît ROUSSEL",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "THIBAUT",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique THIBAUT",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DELBENDE",
+          "prenom": "Arnaud",
+          "nom_complet": "Arnaud DELBENDE",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "ROUSSEL",
+          "prenom": "Lilou",
+          "nom_complet": "Lilou ROUSSEL",
+          "sexe": "F",
+          "age": 18,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "PARIS",
+          "prenom": "Georges",
+          "nom_complet": "Georges PARIS",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "DEVENOT",
+          "prenom": "Christiane",
+          "nom_complet": "Christiane DEVENOT",
+          "sexe": "F",
+          "age": 74,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "FAID'HERBE",
+          "prenom": "Ludovic",
+          "nom_complet": "Ludovic FAID'HERBE",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "PASCOAL",
+          "prenom": "Valérie",
+          "nom_complet": "Valérie PASCOAL",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "CASETTI",
+          "prenom": "Jean-Yves",
+          "nom_complet": "Jean-Yves CASETTI",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

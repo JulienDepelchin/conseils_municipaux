@@ -1,0 +1,163 @@
+{
+  "code_commune": "59396",
+  "commune": "Mecquignies",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "ROMAIN",
+    "prenom": "Frédéric",
+    "nom_complet": "Frédéric ROMAIN",
+    "age": 57,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 524,
+    "votants": 299,
+    "pct_votants": 57.06,
+    "abstentions": 225,
+    "pct_abstentions": 42.94,
+    "exprimes": 270
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Bien vivre à Mecquignies",
+      "libelle_abrege_liste": "Bien vivre à Mecquignies",
+      "nuance_liste": null,
+      "voix": 270,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "ROMAIN",
+        "prenom": "Frédéric",
+        "nom_complet": "Frédéric ROMAIN",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "ROMAIN",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric ROMAIN",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "QUARTIER",
+          "prenom": "Linda",
+          "nom_complet": "Linda QUARTIER",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "FLAMME",
+          "prenom": "Matthieu",
+          "nom_complet": "Matthieu FLAMME",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "MER",
+          "prenom": "Graziella",
+          "nom_complet": "Graziella MER",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "SEYNHAEVE",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe SEYNHAEVE",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "FOUCRIER",
+          "prenom": "Sabrina",
+          "nom_complet": "Sabrina FOUCRIER",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "MULPAS",
+          "prenom": "Jean-Paul",
+          "nom_complet": "Jean-Paul MULPAS",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "WILMART",
+          "prenom": "Solène",
+          "nom_complet": "Solène WILMART",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "HARBONNIER",
+          "prenom": "Quentin",
+          "nom_complet": "Quentin HARBONNIER",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "VIARDOT",
+          "prenom": "Delphine",
+          "nom_complet": "Delphine VIARDOT",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "MAGRO",
+          "prenom": "Eric",
+          "nom_complet": "Eric MAGRO",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "FERRARO",
+          "prenom": "Bérengère",
+          "nom_complet": "Bérengère FERRARO",
+          "sexe": "F",
+          "age": 30,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "MAILLE",
+          "prenom": "Jean-Michel",
+          "nom_complet": "Jean-Michel MAILLE",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "PROUVEUR",
+          "prenom": "Marie-Lise",
+          "nom_complet": "Marie-Lise PROUVEUR",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "FILMOTTE",
+          "prenom": "Franck",
+          "nom_complet": "Franck FILMOTTE",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

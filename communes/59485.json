@@ -1,0 +1,215 @@
+{
+  "code_commune": "59485",
+  "commune": "Quiévy",
+  "departement": "Nord",
+  "tour": "T2",
+  "maire": {
+    "nom": "WAXIN",
+    "prenom": "Julien",
+    "nom_complet": "Julien WAXIN",
+    "age": 36,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1364,
+    "votants": 1061,
+    "pct_votants": 77.79,
+    "abstentions": 303,
+    "pct_abstentions": 22.21,
+    "exprimes": 1035
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Quiévy c'est vous",
+      "libelle_abrege_liste": "Quiévy c'est vous",
+      "nuance_liste": null,
+      "voix": 519,
+      "pct_voix_exprimes": 50.14,
+      "sieges_cm": 15,
+      "sieges_cc": 2,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "WAXIN",
+        "prenom": "Julien",
+        "nom_complet": "Julien WAXIN",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "WAXIN",
+          "prenom": "Julien",
+          "nom_complet": "Julien WAXIN",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "GALLIEZ",
+          "prenom": "Cindy",
+          "nom_complet": "Cindy GALLIEZ",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BAUVOIS",
+          "prenom": "Guy",
+          "nom_complet": "Guy BAUVOIS",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BLAIRON",
+          "prenom": "Aurélie",
+          "nom_complet": "Aurélie BLAIRON",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LAFUENTE",
+          "prenom": "Ludovic",
+          "nom_complet": "Ludovic LAFUENTE",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DARRAS",
+          "prenom": "Marie-Paule",
+          "nom_complet": "Marie-Paule DARRAS",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "SANTER",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric SANTER",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "GOBINET",
+          "prenom": "Marine",
+          "nom_complet": "Marine GOBINET",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "CARRON",
+          "prenom": "Jean-Michel",
+          "nom_complet": "Jean-Michel CARRON",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "GALIO",
+          "prenom": "Anne-Thérèse",
+          "nom_complet": "Anne-Thérèse GALIO",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "VAN VAËCK",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe VAN VAËCK",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "DECISY",
+          "prenom": "Denise",
+          "nom_complet": "Denise DECISY",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "LAVENNE",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick LAVENNE",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "RICHTER",
+          "prenom": "Virginie",
+          "nom_complet": "Virginie RICHTER",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "HOCQUET",
+          "prenom": "Davy",
+          "nom_complet": "Davy HOCQUET",
+          "sexe": "M",
+          "age": 34,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "3",
+      "libelle_liste": "Ensemble pour Quiévy",
+      "libelle_abrege_liste": "Ensemble pour Quiévy",
+      "nuance_liste": null,
+      "voix": 516,
+      "pct_voix_exprimes": 49.86,
+      "sieges_cm": 4,
+      "sieges_cc": 0,
+      "nb_elus": 4,
+      "tete_de_liste": {
+        "nom": "HALLE",
+        "prenom": "Sylvain",
+        "nom_complet": "Sylvain HALLE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "HALLE",
+          "prenom": "Sylvain",
+          "nom_complet": "Sylvain HALLE",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "CANONNE",
+          "prenom": "Marilyne",
+          "nom_complet": "Marilyne CANONNE",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "MACHU",
+          "prenom": "Daniel",
+          "nom_complet": "Daniel MACHU",
+          "sexe": "M",
+          "age": 74,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "SCHMIDTMAYER",
+          "prenom": "Marie",
+          "nom_complet": "Marie SCHMIDTMAYER",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "4"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

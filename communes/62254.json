@@ -1,0 +1,163 @@
+{
+  "code_commune": "62254",
+  "commune": "Coyecques",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "DELFORGE",
+    "prenom": "Pascal",
+    "nom_complet": "Pascal DELFORGE",
+    "age": 58,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 471,
+    "votants": 311,
+    "pct_votants": 66.03,
+    "abstentions": 160,
+    "pct_abstentions": 33.97,
+    "exprimes": 189
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Ensemble pour Coyecques",
+      "libelle_abrege_liste": "Ensemble pour Coyecques",
+      "nuance_liste": null,
+      "voix": 189,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "DELFORGE",
+        "prenom": "Pascal",
+        "nom_complet": "Pascal DELFORGE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DELFORGE",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal DELFORGE",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DUMONT",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie DUMONT",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DUFOUR",
+          "prenom": "Denis",
+          "nom_complet": "Denis DUFOUR",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "GALLET",
+          "prenom": "Marie-Claire",
+          "nom_complet": "Marie-Claire GALLET",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "COQUET",
+          "prenom": "Yves",
+          "nom_complet": "Yves COQUET",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "CHEVALIER",
+          "prenom": "Mathilde",
+          "nom_complet": "Mathilde CHEVALIER",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BOUTILLIER",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique BOUTILLIER",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "HOYEZ",
+          "prenom": "Marine",
+          "nom_complet": "Marine HOYEZ",
+          "sexe": "F",
+          "age": 33,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "LEFEBVRE",
+          "prenom": "Bauduin",
+          "nom_complet": "Bauduin LEFEBVRE",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "LEMAITRE",
+          "prenom": "Cindy",
+          "nom_complet": "Cindy LEMAITRE",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "POUCHAIN",
+          "prenom": "Jean-Noël",
+          "nom_complet": "Jean-Noël POUCHAIN",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "MONCHY",
+          "prenom": "Véronique",
+          "nom_complet": "Véronique MONCHY",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "BERTIN",
+          "prenom": "Gaëtan",
+          "nom_complet": "Gaëtan BERTIN",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "PENSARINI",
+          "prenom": "Joanna",
+          "nom_complet": "Joanna PENSARINI",
+          "sexe": "F",
+          "age": 31,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "SAISON",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas SAISON",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

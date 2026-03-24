@@ -1,0 +1,151 @@
+{
+  "code_commune": "62887",
+  "commune": "Widehem",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "GAMBART",
+    "prenom": "Alexandre",
+    "nom_complet": "Alexandre GAMBART",
+    "age": 32,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 225,
+    "votants": 183,
+    "pct_votants": 81.33,
+    "abstentions": 42,
+    "pct_abstentions": 18.67,
+    "exprimes": 181
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Pour Widehem, l'avenir se construit ensemble",
+      "libelle_abrege_liste": "Pour Widehem, l'avenir se construit ensemble",
+      "nuance_liste": null,
+      "voix": 93,
+      "pct_voix_exprimes": 51.38,
+      "sieges_cm": 9,
+      "sieges_cc": null,
+      "nb_elus": 9,
+      "tete_de_liste": {
+        "nom": "GAMBART",
+        "prenom": "Alexandre",
+        "nom_complet": "Alexandre GAMBART",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "GAMBART",
+          "prenom": "Alexandre",
+          "nom_complet": "Alexandre GAMBART",
+          "sexe": "M",
+          "age": 32,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LAVIGOGNE",
+          "prenom": "Charline",
+          "nom_complet": "Charline LAVIGOGNE",
+          "sexe": "F",
+          "age": 32,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LHOTELLIER",
+          "prenom": "Serge",
+          "nom_complet": "Serge LHOTELLIER",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "MAILLARD",
+          "prenom": "Marie-Laure",
+          "nom_complet": "Marie-Laure MAILLARD",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LEVELEUX",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno LEVELEUX",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "MEURICE",
+          "prenom": "Sabrina",
+          "nom_complet": "Sabrina MEURICE",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DELEFORGE",
+          "prenom": "Cyril",
+          "nom_complet": "Cyril DELEFORGE",
+          "sexe": "M",
+          "age": 23,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "BRASSEUR",
+          "prenom": "Emilie",
+          "nom_complet": "Emilie BRASSEUR",
+          "sexe": "F",
+          "age": 28,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DUCROCQ",
+          "prenom": "Benjamin",
+          "nom_complet": "Benjamin DUCROCQ",
+          "sexe": "M",
+          "age": 32,
+          "rang_liste": "9"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "BIEN VIVRE A WIDEHEM",
+      "libelle_abrege_liste": "BIEN VIVRE A WIDEHEM",
+      "nuance_liste": null,
+      "voix": 88,
+      "pct_voix_exprimes": 48.62,
+      "sieges_cm": 2,
+      "sieges_cc": null,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "VERBRUGGHE",
+        "prenom": "Kevin",
+        "nom_complet": "Kevin VERBRUGGHE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "VERBRUGGHE",
+          "prenom": "Kevin",
+          "nom_complet": "Kevin VERBRUGGHE",
+          "sexe": "M",
+          "age": 33,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LEVELEUX",
+          "prenom": "Emeline",
+          "nom_complet": "Emeline LEVELEUX",
+          "sexe": "F",
+          "age": 29,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

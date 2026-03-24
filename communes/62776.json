@@ -1,0 +1,131 @@
+{
+  "code_commune": "62776",
+  "commune": "Sapignies",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "CARON",
+    "prenom": "Nadine",
+    "nom_complet": "Nadine CARON",
+    "age": 53,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 144,
+    "votants": 84,
+    "pct_votants": 58.33,
+    "abstentions": 60,
+    "pct_abstentions": 41.67,
+    "exprimes": 62
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "SAPIGNIES UN JOUR SAPIGNIES TOUJOURS",
+      "libelle_abrege_liste": "SAPIGNIES UN JOUR SAPIGNIES TOUJOURS",
+      "nuance_liste": null,
+      "voix": 62,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "CARON",
+        "prenom": "Nadine",
+        "nom_complet": "Nadine CARON",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "CARON",
+          "prenom": "Nadine",
+          "nom_complet": "Nadine CARON",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "GODEFROY",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe GODEFROY",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DELAUTTRE",
+          "prenom": "Anne-Sophie",
+          "nom_complet": "Anne-Sophie DELAUTTRE",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BREART",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno BREART",
+          "sexe": "M",
+          "age": 31,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "GROGLER",
+          "prenom": "Bénédicte",
+          "nom_complet": "Bénédicte GROGLER",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "CUVILLIER",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno CUVILLIER",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BERTHE",
+          "prenom": "Ludivine",
+          "nom_complet": "Ludivine BERTHE",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "BONELLO",
+          "prenom": "Alain",
+          "nom_complet": "Alain BONELLO",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "GROGLER",
+          "prenom": "Patricia",
+          "nom_complet": "Patricia GROGLER",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "LAMBIN",
+          "prenom": "Guy",
+          "nom_complet": "Guy LAMBIN",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "CHATELAIN",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique CHATELAIN",
+          "sexe": "F",
+          "age": 75,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

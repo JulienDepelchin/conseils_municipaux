@@ -1,0 +1,183 @@
+{
+  "code_commune": "59628",
+  "commune": "Volckerinckhove",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "BEUN",
+    "prenom": "Nathalie",
+    "nom_complet": "Nathalie BEUN",
+    "age": 61,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 453,
+    "votants": 367,
+    "pct_votants": 81.02,
+    "abstentions": 86,
+    "pct_abstentions": 18.98,
+    "exprimes": 359
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "VIVRE ENSEMBLE AU COEUR DE LA FLANDRE",
+      "libelle_abrege_liste": "VIVRE ENSEMBLE AU COEUR DE LA FLANDRE",
+      "nuance_liste": null,
+      "voix": 239,
+      "pct_voix_exprimes": 66.57,
+      "sieges_cm": 13,
+      "sieges_cc": null,
+      "nb_elus": 13,
+      "tete_de_liste": {
+        "nom": "BEUN",
+        "prenom": "Nathalie",
+        "nom_complet": "Nathalie BEUN",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "BEUN",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie BEUN",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "ACHTE",
+          "prenom": "Vincent",
+          "nom_complet": "Vincent ACHTE",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DRIEUX",
+          "prenom": "Caroline",
+          "nom_complet": "Caroline DRIEUX",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "MONSTERLEET",
+          "prenom": "Jules",
+          "nom_complet": "Jules MONSTERLEET",
+          "sexe": "M",
+          "age": 27,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "JACQUEMART",
+          "prenom": "Marie-Francoise",
+          "nom_complet": "Marie-Francoise JACQUEMART",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "BERQUEZ",
+          "prenom": "Hervé",
+          "nom_complet": "Hervé BERQUEZ",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BAILLIEU",
+          "prenom": "Caroline",
+          "nom_complet": "Caroline BAILLIEU",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "VANPOUILLE",
+          "prenom": "Louis",
+          "nom_complet": "Louis VANPOUILLE",
+          "sexe": "M",
+          "age": 27,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "PIT MESEURE",
+          "prenom": "Ophélie",
+          "nom_complet": "Ophélie PIT MESEURE",
+          "sexe": "F",
+          "age": 30,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "RIFFLART",
+          "prenom": "Jocelyn",
+          "nom_complet": "Jocelyn RIFFLART",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "PORTENAERT",
+          "prenom": "Caroline",
+          "nom_complet": "Caroline PORTENAERT",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "CARDON",
+          "prenom": "Jean-Luc",
+          "nom_complet": "Jean-Luc CARDON",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "DUTOIT",
+          "prenom": "Jessie",
+          "nom_complet": "Jessie DUTOIT",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "13"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "VOLCK AU COEUR",
+      "libelle_abrege_liste": "VOLCK AU COEUR",
+      "nuance_liste": null,
+      "voix": 120,
+      "pct_voix_exprimes": 33.43,
+      "sieges_cm": 2,
+      "sieges_cc": null,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "MAEGHT",
+        "prenom": "Alain",
+        "nom_complet": "Alain MAEGHT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "MAEGHT",
+          "prenom": "Alain",
+          "nom_complet": "Alain MAEGHT",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "FELETIN",
+          "prenom": "Caroline",
+          "nom_complet": "Caroline FELETIN",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

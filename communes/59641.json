@@ -1,0 +1,195 @@
+{
+  "code_commune": "59641",
+  "commune": "Warhem",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "DUJARDIN",
+    "prenom": "Eric",
+    "nom_complet": "Eric DUJARDIN",
+    "age": 64,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1658,
+    "votants": 899,
+    "pct_votants": 54.22,
+    "abstentions": 759,
+    "pct_abstentions": 45.78,
+    "exprimes": 837
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "GARDONS LE CAP !",
+      "libelle_abrege_liste": "GARDONS LE CAP !",
+      "nuance_liste": null,
+      "voix": 837,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 19,
+      "sieges_cc": 2,
+      "nb_elus": 19,
+      "tete_de_liste": {
+        "nom": "DUJARDIN",
+        "prenom": "Eric",
+        "nom_complet": "Eric DUJARDIN",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DUJARDIN",
+          "prenom": "Eric",
+          "nom_complet": "Eric DUJARDIN",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "VERRIELE",
+          "prenom": "Camille",
+          "nom_complet": "Camille VERRIELE",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "VERSMISSE",
+          "prenom": "René",
+          "nom_complet": "René VERSMISSE",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "SOETE",
+          "prenom": "Marie Agnès",
+          "nom_complet": "Marie Agnès SOETE",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "CRONIE",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe CRONIE",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "RYCKELYNCK",
+          "prenom": "Hélène",
+          "nom_complet": "Hélène RYCKELYNCK",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "ATTELEYN",
+          "prenom": "David",
+          "nom_complet": "David ATTELEYN",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LECHARPENTIER",
+          "prenom": "Corinne",
+          "nom_complet": "Corinne LECHARPENTIER",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "ROUSSEL",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric ROUSSEL",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DEVOS-LACHENE",
+          "prenom": "Francine",
+          "nom_complet": "Francine DEVOS-LACHENE",
+          "sexe": "F",
+          "age": 70,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "VANDAELE",
+          "prenom": "Jean-Luc",
+          "nom_complet": "Jean-Luc VANDAELE",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "POTIER",
+          "prenom": "Céline",
+          "nom_complet": "Céline POTIER",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "UYTTERHAEGEN",
+          "prenom": "David",
+          "nom_complet": "David UYTTERHAEGEN",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "KUBIAK",
+          "prenom": "Christèle",
+          "nom_complet": "Christèle KUBIAK",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "LAURENT",
+          "prenom": "Benoit",
+          "nom_complet": "Benoit LAURENT",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "CARTON",
+          "prenom": "Marion",
+          "nom_complet": "Marion CARTON",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "VANHEMS",
+          "prenom": "Baptiste",
+          "nom_complet": "Baptiste VANHEMS",
+          "sexe": "M",
+          "age": 33,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "TACCOEN",
+          "prenom": "Cindy",
+          "nom_complet": "Cindy TACCOEN",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "DE CORTE",
+          "prenom": "Stéphane",
+          "nom_complet": "Stéphane DE CORTE",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "19"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "code_commune": "62298",
+  "commune": "Epinoy",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "DELEVAQUE",
+    "prenom": "Corinne",
+    "nom_complet": "Corinne DELEVAQUE",
+    "age": 64,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 384,
+    "votants": 212,
+    "pct_votants": 55.21,
+    "abstentions": 172,
+    "pct_abstentions": 44.79,
+    "exprimes": 195
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ENSEMBLE, CONSTRUISONS L'AVENIR D'EPINOY",
+      "libelle_abrege_liste": "ENSEMBLE, CONSTRUISONS L'AVENIR D'EPINOY",
+      "nuance_liste": null,
+      "voix": 195,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "DELEVAQUE",
+        "prenom": "Corinne",
+        "nom_complet": "Corinne DELEVAQUE",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "DELEVAQUE",
+          "prenom": "Corinne",
+          "nom_complet": "Corinne DELEVAQUE",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BUSTIN",
+          "prenom": "Emmanuel",
+          "nom_complet": "Emmanuel BUSTIN",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "MACCHIA",
+          "prenom": "Maryvonne",
+          "nom_complet": "Maryvonne MACCHIA",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "MONIER",
+          "prenom": "Mickael",
+          "nom_complet": "Mickael MONIER",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "POREZ",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie POREZ",
+          "sexe": "F",
+          "age": 70,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "CRAPOULET",
+          "prenom": "Romain",
+          "nom_complet": "Romain CRAPOULET",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DESCARPENTRIES",
+          "prenom": "Chantal",
+          "nom_complet": "Chantal DESCARPENTRIES",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "CHAUWIN",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe CHAUWIN",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "SEGARD",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle SEGARD",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DUCHATELLE",
+          "prenom": "Gael",
+          "nom_complet": "Gael DUCHATELLE",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "BOTTE",
+          "prenom": "Estelle",
+          "nom_complet": "Estelle BOTTE",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

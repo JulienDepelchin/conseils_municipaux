@@ -1,0 +1,163 @@
+{
+  "code_commune": "62391",
+  "commune": "Guarbecque",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "DEPAEUW",
+    "prenom": "Didier",
+    "nom_complet": "Didier DEPAEUW",
+    "age": 62,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1167,
+    "votants": 751,
+    "pct_votants": 64.35,
+    "abstentions": 416,
+    "pct_abstentions": 35.65,
+    "exprimes": 696
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ENSEMBLE POUR GUARBECQUE",
+      "libelle_abrege_liste": "ENSEMBLE POUR GUARBECQUE",
+      "nuance_liste": null,
+      "voix": 696,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": 1,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "DEPAEUW",
+        "prenom": "Didier",
+        "nom_complet": "Didier DEPAEUW",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DEPAEUW",
+          "prenom": "Didier",
+          "nom_complet": "Didier DEPAEUW",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "HELLEBOID-VANCAEYZEELE",
+          "prenom": "Bénédicte",
+          "nom_complet": "Bénédicte HELLEBOID-VANCAEYZEELE",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "PRIEM",
+          "prenom": "Marc",
+          "nom_complet": "Marc PRIEM",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "VENEL-THELLIEZ",
+          "prenom": "Marie-Thérèse",
+          "nom_complet": "Marie-Thérèse VENEL-THELLIEZ",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "TOURSEL",
+          "prenom": "Didier",
+          "nom_complet": "Didier TOURSEL",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "FERNSNER",
+          "prenom": "Véronique",
+          "nom_complet": "Véronique FERNSNER",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "POULLE",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe POULLE",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LENOIR",
+          "prenom": "Céline",
+          "nom_complet": "Céline LENOIR",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "GAQUIERE",
+          "prenom": "David",
+          "nom_complet": "David GAQUIERE",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "BOULINGUIEZ",
+          "prenom": "Cindy",
+          "nom_complet": "Cindy BOULINGUIEZ",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DUMUR",
+          "prenom": "Gaylord",
+          "nom_complet": "Gaylord DUMUR",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "PIENNE",
+          "prenom": "Marion Bénédicte",
+          "nom_complet": "Marion Bénédicte PIENNE",
+          "sexe": "F",
+          "age": 28,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "PLANQUE",
+          "prenom": "Maxime",
+          "nom_complet": "Maxime PLANQUE",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "PAYELLE",
+          "prenom": "Emilie Célina",
+          "nom_complet": "Emilie Célina PAYELLE",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "LESAGE",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe LESAGE",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

@@ -1,0 +1,215 @@
+{
+  "code_commune": "62262",
+  "commune": "Cuinchy",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "DELECOURT",
+    "prenom": "Dominique",
+    "nom_complet": "Dominique DELECOURT",
+    "age": 68,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1363,
+    "votants": 988,
+    "pct_votants": 72.49,
+    "abstentions": 375,
+    "pct_abstentions": 27.51,
+    "exprimes": 960
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Cuinchy, notre village, notre avenir",
+      "libelle_abrege_liste": "Cuinchy, notre village, notre avenir",
+      "nuance_liste": null,
+      "voix": 628,
+      "pct_voix_exprimes": 65.42,
+      "sieges_cm": 16,
+      "sieges_cc": 1,
+      "nb_elus": 16,
+      "tete_de_liste": {
+        "nom": "DELECOURT",
+        "prenom": "Dominique",
+        "nom_complet": "Dominique DELECOURT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DELECOURT",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique DELECOURT",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BARIL",
+          "prenom": "Joëlle",
+          "nom_complet": "Joëlle BARIL",
+          "sexe": "F",
+          "age": 78,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "SNAET",
+          "prenom": "Guillaume",
+          "nom_complet": "Guillaume SNAET",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "MICHEL",
+          "prenom": "Sophie",
+          "nom_complet": "Sophie MICHEL",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "GALLET",
+          "prenom": "Maxime",
+          "nom_complet": "Maxime GALLET",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "RENSY",
+          "prenom": "Roseline",
+          "nom_complet": "Roseline RENSY",
+          "sexe": "F",
+          "age": 70,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "FACHE",
+          "prenom": "Pierre",
+          "nom_complet": "Pierre FACHE",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "HABOURDIN",
+          "prenom": "Cindy",
+          "nom_complet": "Cindy HABOURDIN",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DELSERT",
+          "prenom": "Jean-Marc",
+          "nom_complet": "Jean-Marc DELSERT",
+          "sexe": "M",
+          "age": 74,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "LEDOUX",
+          "prenom": "Gaëlle",
+          "nom_complet": "Gaëlle LEDOUX",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "FURSTENAU",
+          "prenom": "Arnaud",
+          "nom_complet": "Arnaud FURSTENAU",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "CAPET",
+          "prenom": "Lucile",
+          "nom_complet": "Lucile CAPET",
+          "sexe": "F",
+          "age": 27,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "CARON",
+          "prenom": "Thierry",
+          "nom_complet": "Thierry CARON",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "BLOCQUET",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie BLOCQUET",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "DASSONVILLE",
+          "prenom": "Hubert",
+          "nom_complet": "Hubert DASSONVILLE",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "LEFEBVRE",
+          "prenom": "Michèle",
+          "nom_complet": "Michèle LEFEBVRE",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "16"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "CUINCHY ENSEMBLE",
+      "libelle_abrege_liste": "CUINCHY ENSEMBLE",
+      "nuance_liste": null,
+      "voix": 332,
+      "pct_voix_exprimes": 34.58,
+      "sieges_cm": 3,
+      "sieges_cc": 0,
+      "nb_elus": 3,
+      "tete_de_liste": {
+        "nom": "RAMARD",
+        "prenom": "David",
+        "nom_complet": "David RAMARD",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "RAMARD",
+          "prenom": "David",
+          "nom_complet": "David RAMARD",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DRUMEZ",
+          "prenom": "Céline",
+          "nom_complet": "Céline DRUMEZ",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DOUBLET",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe DOUBLET",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "3"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

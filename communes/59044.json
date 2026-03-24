@@ -1,0 +1,295 @@
+{
+  "code_commune": "59044",
+  "commune": "Baisieux",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "DAVID",
+    "prenom": "Olivier",
+    "nom_complet": "Olivier DAVID",
+    "age": 50,
+    "nuance": "LDVD"
+  },
+  "resultats": {
+    "inscrits": 4138,
+    "votants": 2698,
+    "pct_votants": 65.2,
+    "abstentions": 1440,
+    "pct_abstentions": 34.8,
+    "exprimes": 2646
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "AGIR POUR BAISIEUX",
+      "libelle_abrege_liste": "AGIR POUR BAISIEUX",
+      "nuance_liste": "LDVD",
+      "voix": 1553,
+      "pct_voix_exprimes": 58.69,
+      "sieges_cm": 23,
+      "sieges_cc": 1,
+      "nb_elus": 23,
+      "tete_de_liste": {
+        "nom": "DAVID",
+        "prenom": "Olivier",
+        "nom_complet": "Olivier DAVID",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DAVID",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier DAVID",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LECLERCQ",
+          "prenom": "Marie Andrée",
+          "nom_complet": "Marie Andrée LECLERCQ",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DEWAILLY",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno DEWAILLY",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DUFOREAU",
+          "prenom": "Coralie",
+          "nom_complet": "Coralie DUFOREAU",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DUQUESNE",
+          "prenom": "Cedric",
+          "nom_complet": "Cedric DUQUESNE",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DUMOULIN",
+          "prenom": "Faustine",
+          "nom_complet": "Faustine DUMOULIN",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "COLLET",
+          "prenom": "Sebastien",
+          "nom_complet": "Sebastien COLLET",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DUFOUR",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle DUFOUR",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "LENFANT",
+          "prenom": "Guy",
+          "nom_complet": "Guy LENFANT",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "PRUDHOMME",
+          "prenom": "Emilie",
+          "nom_complet": "Emilie PRUDHOMME",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DELRUE",
+          "prenom": "Francis",
+          "nom_complet": "Francis DELRUE",
+          "sexe": "M",
+          "age": 75,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "BLONDEEL",
+          "prenom": "Anne",
+          "nom_complet": "Anne BLONDEEL",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "ATRAGIE",
+          "prenom": "Theo",
+          "nom_complet": "Theo ATRAGIE",
+          "sexe": "M",
+          "age": 24,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "WETZEL",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie WETZEL",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "PARSY",
+          "prenom": "Gaëtan",
+          "nom_complet": "Gaëtan PARSY",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "THIBAUT",
+          "prenom": "Marjorie",
+          "nom_complet": "Marjorie THIBAUT",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "FICHAUX",
+          "prenom": "Thomas",
+          "nom_complet": "Thomas FICHAUX",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "BOURDON",
+          "prenom": "Lucile",
+          "nom_complet": "Lucile BOURDON",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "THIBAUT",
+          "prenom": "Morgan",
+          "nom_complet": "Morgan THIBAUT",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "LAMARE PLONQUET",
+          "prenom": "Vinciane",
+          "nom_complet": "Vinciane LAMARE PLONQUET",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "MAHIEU",
+          "prenom": "Gauthier",
+          "nom_complet": "Gauthier MAHIEU",
+          "sexe": "M",
+          "age": 18,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "BAROUX",
+          "prenom": "Severine",
+          "nom_complet": "Severine BAROUX",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "KARP",
+          "prenom": "Daniel",
+          "nom_complet": "Daniel KARP",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "23"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "BAISIEUX AVEC VOUS",
+      "libelle_abrege_liste": "BAISIEUX AVEC VOUS",
+      "nuance_liste": "LDVC",
+      "voix": 1093,
+      "pct_voix_exprimes": 41.31,
+      "sieges_cm": 6,
+      "sieges_cc": 0,
+      "nb_elus": 6,
+      "tete_de_liste": {
+        "nom": "CUSSEAU",
+        "prenom": "Pascale",
+        "nom_complet": "Pascale CUSSEAU",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "CUSSEAU",
+          "prenom": "Pascale",
+          "nom_complet": "Pascale CUSSEAU",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "CAILLIEZ",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno CAILLIEZ",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "PAQUIER TITECA",
+          "prenom": "Odile",
+          "nom_complet": "Odile PAQUIER TITECA",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "ANTUNES",
+          "prenom": "Paulo",
+          "nom_complet": "Paulo ANTUNES",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DESPREZ",
+          "prenom": "Sophie",
+          "nom_complet": "Sophie DESPREZ",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "FIEVET",
+          "prenom": "Jean-Michel",
+          "nom_complet": "Jean-Michel FIEVET",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "6"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

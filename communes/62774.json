@@ -1,0 +1,299 @@
+{
+  "code_commune": "62774",
+  "commune": "Sangatte",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "ALLEMAND",
+    "prenom": "Guy",
+    "nom_complet": "Guy ALLEMAND",
+    "age": 70,
+    "nuance": "LDVG"
+  },
+  "resultats": {
+    "inscrits": 3862,
+    "votants": 2399,
+    "pct_votants": 62.12,
+    "abstentions": 1463,
+    "pct_abstentions": 37.88,
+    "exprimes": 2305
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Une nouvelle énergie à vos côtés",
+      "libelle_abrege_liste": "Une nouvelle énergie à vos côtés",
+      "nuance_liste": "LDVG",
+      "voix": 1231,
+      "pct_voix_exprimes": 53.41,
+      "sieges_cm": 21,
+      "sieges_cc": 3,
+      "nb_elus": 21,
+      "tete_de_liste": {
+        "nom": "ALLEMAND",
+        "prenom": "Guy",
+        "nom_complet": "Guy ALLEMAND",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "ALLEMAND",
+          "prenom": "Guy",
+          "nom_complet": "Guy ALLEMAND",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "TRZECIAKOWSKI-ALBRUN",
+          "prenom": "Fabienne",
+          "nom_complet": "Fabienne TRZECIAKOWSKI-ALBRUN",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BRAEMS",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick BRAEMS",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "VASSEUR",
+          "prenom": "Claudine",
+          "nom_complet": "Claudine VASSEUR",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "BALLART",
+          "prenom": "Fabrice",
+          "nom_complet": "Fabrice BALLART",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DURIEUX",
+          "prenom": "Chantal",
+          "nom_complet": "Chantal DURIEUX",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DENEZ",
+          "prenom": "Luc",
+          "nom_complet": "Luc DENEZ",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "MAHMOUDI",
+          "prenom": "Jihane",
+          "nom_complet": "Jihane MAHMOUDI",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DESTREHEM",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent DESTREHEM",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "EVRARD",
+          "prenom": "Océane",
+          "nom_complet": "Océane EVRARD",
+          "sexe": "F",
+          "age": 32,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DELOZIERE",
+          "prenom": "Jean-Sébastien",
+          "nom_complet": "Jean-Sébastien DELOZIERE",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "VAN DEN BROUCKE",
+          "prenom": "Nicole",
+          "nom_complet": "Nicole VAN DEN BROUCKE",
+          "sexe": "F",
+          "age": 77,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "PLAYE",
+          "prenom": "Joël",
+          "nom_complet": "Joël PLAYE",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "HAMY",
+          "prenom": "Aurore",
+          "nom_complet": "Aurore HAMY",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "COUTURIER",
+          "prenom": "Jérôme",
+          "nom_complet": "Jérôme COUTURIER",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "PLAYE",
+          "prenom": "Sophie",
+          "nom_complet": "Sophie PLAYE",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "HENON",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno HENON",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "THELU",
+          "prenom": "Melyssa",
+          "nom_complet": "Melyssa THELU",
+          "sexe": "F",
+          "age": 20,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "MASSET",
+          "prenom": "Christian",
+          "nom_complet": "Christian MASSET",
+          "sexe": "M",
+          "age": 74,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "COPYANS",
+          "prenom": "Julie",
+          "nom_complet": "Julie COPYANS",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "RIGOULET",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal RIGOULET",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "21"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "A L'ECOUTE DES ADMINISTRES POUR UN VIVRE MIEUX",
+      "libelle_abrege_liste": "A L'ECOUTE DES ADMINISTRES POUR UN VIVRE MIEUX",
+      "nuance_liste": "LDVD",
+      "voix": 561,
+      "pct_voix_exprimes": 24.34,
+      "sieges_cm": 3,
+      "sieges_cc": 0,
+      "nb_elus": 3,
+      "tete_de_liste": {
+        "nom": "MACRON",
+        "prenom": "Jean Pierre",
+        "nom_complet": "Jean Pierre MACRON",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "MACRON",
+          "prenom": "Jean Pierre",
+          "nom_complet": "Jean Pierre MACRON",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "SOURDEVAL",
+          "prenom": "Peggy",
+          "nom_complet": "Peggy SOURDEVAL",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LAFORGE",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier LAFORGE",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "3"
+        }
+      ],
+      "statut_conseil": "autre"
+    },
+    {
+      "num_panneau": "3",
+      "libelle_liste": "ENSEMBLE FAISONS AUTREMENT",
+      "libelle_abrege_liste": "ENSEMBLE FAISONS AUTREMENT",
+      "nuance_liste": "LDVD",
+      "voix": 513,
+      "pct_voix_exprimes": 22.26,
+      "sieges_cm": 3,
+      "sieges_cc": 0,
+      "nb_elus": 3,
+      "tete_de_liste": {
+        "nom": "HOCHART",
+        "prenom": "René",
+        "nom_complet": "René HOCHART",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "HOCHART",
+          "prenom": "René",
+          "nom_complet": "René HOCHART",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "THOMAS",
+          "prenom": "Caroline",
+          "nom_complet": "Caroline THOMAS",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "VECCHIOLI",
+          "prenom": "Tony",
+          "nom_complet": "Tony VECCHIOLI",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "3"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

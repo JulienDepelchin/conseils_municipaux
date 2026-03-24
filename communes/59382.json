@@ -1,0 +1,183 @@
+{
+  "code_commune": "59382",
+  "commune": "Maretz",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "LESNE SETIAUX",
+    "prenom": "Monique",
+    "nom_complet": "Monique LESNE SETIAUX",
+    "age": 63,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 945,
+    "votants": 602,
+    "pct_votants": 63.7,
+    "abstentions": 343,
+    "pct_abstentions": 36.3,
+    "exprimes": 574
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ENSEMBLE CONTINUONS À CONSTRUIRE LE MARETZ DE DEMAIN",
+      "libelle_abrege_liste": "ENSEMBLE CONTINUONS À CONSTRUIRE LE MARETZ DE DEMAIN",
+      "nuance_liste": null,
+      "voix": 390,
+      "pct_voix_exprimes": 67.94,
+      "sieges_cm": 13,
+      "sieges_cc": 1,
+      "nb_elus": 13,
+      "tete_de_liste": {
+        "nom": "LESNE SETIAUX",
+        "prenom": "Monique",
+        "nom_complet": "Monique LESNE SETIAUX",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "LESNE SETIAUX",
+          "prenom": "Monique",
+          "nom_complet": "Monique LESNE SETIAUX",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "FOSSE",
+          "prenom": "Jérôme",
+          "nom_complet": "Jérôme FOSSE",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LESNE PLANCOT",
+          "prenom": "Christelle",
+          "nom_complet": "Christelle LESNE PLANCOT",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BLAVOET",
+          "prenom": "Frederic",
+          "nom_complet": "Frederic BLAVOET",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "OLIVIER",
+          "prenom": "Gwendoline",
+          "nom_complet": "Gwendoline OLIVIER",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LEGRAND",
+          "prenom": "Thomas",
+          "nom_complet": "Thomas LEGRAND",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "LEDIEU",
+          "prenom": "Alexandra",
+          "nom_complet": "Alexandra LEDIEU",
+          "sexe": "F",
+          "age": 32,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "GANDOLFI",
+          "prenom": "Rodrigue",
+          "nom_complet": "Rodrigue GANDOLFI",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "LEFEBVRE EPOUSE TAINE",
+          "prenom": "Edwige",
+          "nom_complet": "Edwige LEFEBVRE EPOUSE TAINE",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "CHENEST",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe CHENEST",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "KOPCZYNSKI",
+          "prenom": "Emilie",
+          "nom_complet": "Emilie KOPCZYNSKI",
+          "sexe": "F",
+          "age": 32,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "SEURY",
+          "prenom": "Ludovic",
+          "nom_complet": "Ludovic SEURY",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "DELANSAY EPOUSE CADET",
+          "prenom": "Sandra",
+          "nom_complet": "Sandra DELANSAY EPOUSE CADET",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "13"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "ECOUTER-PARTICIPER-RESPECTER POUR DEMAIN",
+      "libelle_abrege_liste": "ECOUTER-PARTICIPER-RESPECTER POUR DEMAIN",
+      "nuance_liste": null,
+      "voix": 184,
+      "pct_voix_exprimes": 32.06,
+      "sieges_cm": 2,
+      "sieges_cc": 0,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "GERVAIS",
+        "prenom": "Marie-Eve",
+        "nom_complet": "Marie-Eve GERVAIS",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "GERVAIS",
+          "prenom": "Marie-Eve",
+          "nom_complet": "Marie-Eve GERVAIS",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DESMULLIER",
+          "prenom": "Axel",
+          "nom_complet": "Axel DESMULLIER",
+          "sexe": "M",
+          "age": 33,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

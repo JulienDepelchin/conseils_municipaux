@@ -1,0 +1,163 @@
+{
+  "code_commune": "62384",
+  "commune": "Graincourt-lès-Havrincourt",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "DUMONT",
+    "prenom": "Jean-Marcel",
+    "nom_complet": "Jean-Marcel DUMONT",
+    "age": 74,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 435,
+    "votants": 223,
+    "pct_votants": 51.26,
+    "abstentions": 212,
+    "pct_abstentions": 48.74,
+    "exprimes": 182
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ENSEMBLE POUR L'AVENIR DE GRAINCOURT",
+      "libelle_abrege_liste": "ENSEMBLE POUR L'AVENIR DE GRAINCOURT",
+      "nuance_liste": null,
+      "voix": 182,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "DUMONT",
+        "prenom": "Jean-Marcel",
+        "nom_complet": "Jean-Marcel DUMONT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DUMONT",
+          "prenom": "Jean-Marcel",
+          "nom_complet": "Jean-Marcel DUMONT",
+          "sexe": "M",
+          "age": 74,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DUMONT",
+          "prenom": "Jeanne-Marie",
+          "nom_complet": "Jeanne-Marie DUMONT",
+          "sexe": "F",
+          "age": 76,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BRIDELLE",
+          "prenom": "Jean-Michel",
+          "nom_complet": "Jean-Michel BRIDELLE",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "VERBRUGGHE",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie VERBRUGGHE",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "HEPNER",
+          "prenom": "Guy",
+          "nom_complet": "Guy HEPNER",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "AILLIOT",
+          "prenom": "Yvette",
+          "nom_complet": "Yvette AILLIOT",
+          "sexe": "F",
+          "age": 74,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DUMONT",
+          "prenom": "Stephane",
+          "nom_complet": "Stephane DUMONT",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "AILLIOT",
+          "prenom": "Emilie",
+          "nom_complet": "Emilie AILLIOT",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "PIRA",
+          "prenom": "Cédric",
+          "nom_complet": "Cédric PIRA",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DEBOURGES",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique DEBOURGES",
+          "sexe": "F",
+          "age": 74,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "ASRYAN",
+          "prenom": "Hovik",
+          "nom_complet": "Hovik ASRYAN",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "HEPNER",
+          "prenom": "Carole",
+          "nom_complet": "Carole HEPNER",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "BRIDELLE",
+          "prenom": "Cyprien",
+          "nom_complet": "Cyprien BRIDELLE",
+          "sexe": "M",
+          "age": 24,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "MÉNET",
+          "prenom": "Sandra",
+          "nom_complet": "Sandra MÉNET",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "SENECHAL",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno SENECHAL",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

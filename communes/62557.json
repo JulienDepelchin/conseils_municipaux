@@ -1,0 +1,215 @@
+{
+  "code_commune": "62557",
+  "commune": "Maroeuil",
+  "departement": "Pas-de-Calais",
+  "tour": "T2",
+  "maire": {
+    "nom": "DELATTRE",
+    "prenom": "Sébastien",
+    "nom_complet": "Sébastien DELATTRE",
+    "age": 46,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 2350,
+    "votants": 1646,
+    "pct_votants": 70.04,
+    "abstentions": 704,
+    "pct_abstentions": 29.96,
+    "exprimes": 1601
+  },
+  "listes": [
+    {
+      "num_panneau": "3",
+      "libelle_liste": "Une nouvelle histoire à écrire ensemble",
+      "libelle_abrege_liste": "Une nouvelle histoire à écrire ensemble",
+      "nuance_liste": null,
+      "voix": 932,
+      "pct_voix_exprimes": 58.21,
+      "sieges_cm": 15,
+      "sieges_cc": 1,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "DELATTRE",
+        "prenom": "Sébastien",
+        "nom_complet": "Sébastien DELATTRE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DELATTRE",
+          "prenom": "Sébastien",
+          "nom_complet": "Sébastien DELATTRE",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "RICQUART",
+          "prenom": "Sophie",
+          "nom_complet": "Sophie RICQUART",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "FRANCOIS",
+          "prenom": "Serge",
+          "nom_complet": "Serge FRANCOIS",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "MARTIN",
+          "prenom": "Sylvia",
+          "nom_complet": "Sylvia MARTIN",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DEGUFFROY",
+          "prenom": "Pierre",
+          "nom_complet": "Pierre DEGUFFROY",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "PALASZ",
+          "prenom": "Hélène",
+          "nom_complet": "Hélène PALASZ",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "PUCHOIS",
+          "prenom": "Michel",
+          "nom_complet": "Michel PUCHOIS",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "JOLIBOIS",
+          "prenom": "Jennifer",
+          "nom_complet": "Jennifer JOLIBOIS",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "BARBIER",
+          "prenom": "Mathieu",
+          "nom_complet": "Mathieu BARBIER",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "BERLAN",
+          "prenom": "Elodie",
+          "nom_complet": "Elodie BERLAN",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "VANIET",
+          "prenom": "Vincent",
+          "nom_complet": "Vincent VANIET",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "DOISNE",
+          "prenom": "Romy",
+          "nom_complet": "Romy DOISNE",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "BEUGNET",
+          "prenom": "Loïc",
+          "nom_complet": "Loïc BEUGNET",
+          "sexe": "M",
+          "age": 31,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "CARPENTIER",
+          "prenom": "Amélie",
+          "nom_complet": "Amélie CARPENTIER",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "LHOMME",
+          "prenom": "Christian",
+          "nom_complet": "Christian LHOMME",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "POUR MAROEUIL, SIMPLEMENT",
+      "libelle_abrege_liste": "POUR MAROEUIL, SIMPLEMENT",
+      "nuance_liste": null,
+      "voix": 669,
+      "pct_voix_exprimes": 41.79,
+      "sieges_cm": 4,
+      "sieges_cc": 0,
+      "nb_elus": 4,
+      "tete_de_liste": {
+        "nom": "BALESTRA",
+        "prenom": "Aldo",
+        "nom_complet": "Aldo BALESTRA",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BALESTRA",
+          "prenom": "Aldo",
+          "nom_complet": "Aldo BALESTRA",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DEFRANCE",
+          "prenom": "Françoise",
+          "nom_complet": "Françoise DEFRANCE",
+          "sexe": "F",
+          "age": 76,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "CUISINIER",
+          "prenom": "Gérard",
+          "nom_complet": "Gérard CUISINIER",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BARNET",
+          "prenom": "Marie-Thérèse",
+          "nom_complet": "Marie-Thérèse BARNET",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "4"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

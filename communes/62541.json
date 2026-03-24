@@ -1,0 +1,131 @@
+{
+  "code_commune": "62541",
+  "commune": "Maisoncelle",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "PÉRIN",
+    "prenom": "Étienne",
+    "nom_complet": "Étienne PÉRIN",
+    "age": 57,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 92,
+    "votants": 66,
+    "pct_votants": 71.74,
+    "abstentions": 26,
+    "pct_abstentions": 28.26,
+    "exprimes": 51
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "AU COEUR DE MAISONCELLE",
+      "libelle_abrege_liste": "AU COEUR DE MAISONCELLE",
+      "nuance_liste": null,
+      "voix": 51,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "PÉRIN",
+        "prenom": "Étienne",
+        "nom_complet": "Étienne PÉRIN",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "PÉRIN",
+          "prenom": "Étienne",
+          "nom_complet": "Étienne PÉRIN",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DUPUIS",
+          "prenom": "Delphine",
+          "nom_complet": "Delphine DUPUIS",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "RENAULT",
+          "prenom": "Antoine",
+          "nom_complet": "Antoine RENAULT",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LHOMME",
+          "prenom": "Aurélie",
+          "nom_complet": "Aurélie LHOMME",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "CARLIEZ",
+          "prenom": "Arnaud",
+          "nom_complet": "Arnaud CARLIEZ",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "ADOU",
+          "prenom": "Catherine",
+          "nom_complet": "Catherine ADOU",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DENOYELLE",
+          "prenom": "Vincent",
+          "nom_complet": "Vincent DENOYELLE",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LEJEUNE",
+          "prenom": "Sophie",
+          "nom_complet": "Sophie LEJEUNE",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "BERTHE",
+          "prenom": "Anthony",
+          "nom_complet": "Anthony BERTHE",
+          "sexe": "M",
+          "age": 34,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "JENNEQUIN",
+          "prenom": "Sandie",
+          "nom_complet": "Sandie JENNEQUIN",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DASSONNEVILLE",
+          "prenom": "René",
+          "nom_complet": "René DASSONNEVILLE",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

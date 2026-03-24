@@ -1,0 +1,183 @@
+{
+  "code_commune": "62699",
+  "commune": "Recques-sur-Hem",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "RYCKEBUSCH",
+    "prenom": "Christophe",
+    "nom_complet": "Christophe RYCKEBUSCH",
+    "age": 57,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 487,
+    "votants": 373,
+    "pct_votants": 76.59,
+    "abstentions": 114,
+    "pct_abstentions": 23.41,
+    "exprimes": 357
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "Le village avant tout, une équipe engagée",
+      "libelle_abrege_liste": "Le village avant tout, une équipe engagée",
+      "nuance_liste": null,
+      "voix": 207,
+      "pct_voix_exprimes": 57.98,
+      "sieges_cm": 12,
+      "sieges_cc": null,
+      "nb_elus": 12,
+      "tete_de_liste": {
+        "nom": "RYCKEBUSCH",
+        "prenom": "Christophe",
+        "nom_complet": "Christophe RYCKEBUSCH",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "RYCKEBUSCH",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe RYCKEBUSCH",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "GARENAUX",
+          "prenom": "Christelle",
+          "nom_complet": "Christelle GARENAUX",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LESCIEUX",
+          "prenom": "Benjamin",
+          "nom_complet": "Benjamin LESCIEUX",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "GOUDEZEUNE",
+          "prenom": "Karine",
+          "nom_complet": "Karine GOUDEZEUNE",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LEFEBVRE",
+          "prenom": "David",
+          "nom_complet": "David LEFEBVRE",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "CHAGOT",
+          "prenom": "Catherine",
+          "nom_complet": "Catherine CHAGOT",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DELANNOY",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas DELANNOY",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "MILLIOT",
+          "prenom": "Charlotte",
+          "nom_complet": "Charlotte MILLIOT",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "BECQUET",
+          "prenom": "Jérémy",
+          "nom_complet": "Jérémy BECQUET",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DELATTRE",
+          "prenom": "Adeline",
+          "nom_complet": "Adeline DELATTRE",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "BOUFFART",
+          "prenom": "Stéphane",
+          "nom_complet": "Stéphane BOUFFART",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "PICQUART",
+          "prenom": "Marie-Cécile",
+          "nom_complet": "Marie-Cécile PICQUART",
+          "sexe": "F",
+          "age": 71,
+          "rang_liste": "12"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "La convivialité au coeur de notre village",
+      "libelle_abrege_liste": "La convivialité au coeur de notre village",
+      "nuance_liste": null,
+      "voix": 150,
+      "pct_voix_exprimes": 42.02,
+      "sieges_cm": 3,
+      "sieges_cc": null,
+      "nb_elus": 3,
+      "tete_de_liste": {
+        "nom": "ROBE",
+        "prenom": "Daniel",
+        "nom_complet": "Daniel ROBE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "ROBE",
+          "prenom": "Daniel",
+          "nom_complet": "Daniel ROBE",
+          "sexe": "M",
+          "age": 76,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BASTIEN",
+          "prenom": "Nicole",
+          "nom_complet": "Nicole BASTIEN",
+          "sexe": "F",
+          "age": 78,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "CARON",
+          "prenom": "Fabrice",
+          "nom_complet": "Fabrice CARON",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "3"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

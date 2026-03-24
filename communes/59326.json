@@ -1,0 +1,163 @@
+{
+  "code_commune": "59326",
+  "commune": "Killem",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "VANBAELINGHEM",
+    "prenom": "Jean-Luc",
+    "nom_complet": "Jean-Luc VANBAELINGHEM",
+    "age": 69,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 821,
+    "votants": 476,
+    "pct_votants": 57.98,
+    "abstentions": 345,
+    "pct_abstentions": 42.02,
+    "exprimes": 416
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Proches de vous et engagés pour Killem",
+      "libelle_abrege_liste": "PDVEEPK",
+      "nuance_liste": null,
+      "voix": 416,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": 2,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "VANBAELINGHEM",
+        "prenom": "Jean-Luc",
+        "nom_complet": "Jean-Luc VANBAELINGHEM",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "VANBAELINGHEM",
+          "prenom": "Jean-Luc",
+          "nom_complet": "Jean-Luc VANBAELINGHEM",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "WADOUX",
+          "prenom": "Evelyne",
+          "nom_complet": "Evelyne WADOUX",
+          "sexe": "F",
+          "age": 70,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "COUVREUR",
+          "prenom": "Noël",
+          "nom_complet": "Noël COUVREUR",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BARBEZ",
+          "prenom": "Nora",
+          "nom_complet": "Nora BARBEZ",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "BERNARD",
+          "prenom": "Jean-Claude",
+          "nom_complet": "Jean-Claude BERNARD",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "BÉGHIN",
+          "prenom": "Emily",
+          "nom_complet": "Emily BÉGHIN",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "CAMPAGNIE",
+          "prenom": "Pierre",
+          "nom_complet": "Pierre CAMPAGNIE",
+          "sexe": "M",
+          "age": 76,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "PRÉVOST",
+          "prenom": "Hélène",
+          "nom_complet": "Hélène PRÉVOST",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DEVOS",
+          "prenom": "Gaël",
+          "nom_complet": "Gaël DEVOS",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "BARRAS",
+          "prenom": "Brigitte",
+          "nom_complet": "Brigitte BARRAS",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "VANBAELINGHEM",
+          "prenom": "Thomas",
+          "nom_complet": "Thomas VANBAELINGHEM",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "BRUGE",
+          "prenom": "Maryline",
+          "nom_complet": "Maryline BRUGE",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "FOSSAERT",
+          "prenom": "Etienne",
+          "nom_complet": "Etienne FOSSAERT",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "SCHEERS",
+          "prenom": "Ophélia",
+          "nom_complet": "Ophélia SCHEERS",
+          "sexe": "F",
+          "age": 33,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "VIEREN",
+          "prenom": "Stéphane",
+          "nom_complet": "Stéphane VIEREN",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

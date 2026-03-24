@@ -1,0 +1,99 @@
+{
+  "code_commune": "62720",
+  "commune": "Rombly",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "LOISON",
+    "prenom": "Jasmine",
+    "nom_complet": "Jasmine LOISON",
+    "age": 67,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 42,
+    "votants": 34,
+    "pct_votants": 80.95,
+    "abstentions": 8,
+    "pct_abstentions": 19.05,
+    "exprimes": 28
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "POUR NOTRE VILLAGE, TOUT SIMPLEMENT",
+      "libelle_abrege_liste": "POUR NOTRE VILLAGE, TOUT SIMPLEMENT",
+      "nuance_liste": null,
+      "voix": 28,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 7,
+      "sieges_cc": null,
+      "nb_elus": 7,
+      "tete_de_liste": {
+        "nom": "LOISON",
+        "prenom": "Jasmine",
+        "nom_complet": "Jasmine LOISON",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "LOISON",
+          "prenom": "Jasmine",
+          "nom_complet": "Jasmine LOISON",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LEROY",
+          "prenom": "Fabrice",
+          "nom_complet": "Fabrice LEROY",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "FLAMENT",
+          "prenom": "Annick",
+          "nom_complet": "Annick FLAMENT",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DECROIX",
+          "prenom": "David",
+          "nom_complet": "David DECROIX",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "FACON",
+          "prenom": "Raymonde",
+          "nom_complet": "Raymonde FACON",
+          "sexe": "F",
+          "age": 77,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "MOREL",
+          "prenom": "Max",
+          "nom_complet": "Max MOREL",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "SOHIER",
+          "prenom": "Justine",
+          "nom_complet": "Justine SOHIER",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "7"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

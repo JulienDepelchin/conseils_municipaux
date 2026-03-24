@@ -1,0 +1,395 @@
+{
+  "code_commune": "59569",
+  "commune": "Sin-le-Noble",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "DUMONT",
+    "prenom": "Christophe",
+    "nom_complet": "Christophe DUMONT",
+    "age": 56,
+    "nuance": "LDIV"
+  },
+  "resultats": {
+    "inscrits": 10862,
+    "votants": 5302,
+    "pct_votants": 48.81,
+    "abstentions": 5560,
+    "pct_abstentions": 51.19,
+    "exprimes": 5208
+  },
+  "listes": [
+    {
+      "num_panneau": "3",
+      "libelle_liste": "Pour Sin-Le-Noble, ensemble et autrement !",
+      "libelle_abrege_liste": "Pour Sin-Le-Noble, ensemble et autrement !",
+      "nuance_liste": "LDIV",
+      "voix": 3099,
+      "pct_voix_exprimes": 59.5,
+      "sieges_cm": 27,
+      "sieges_cc": 6,
+      "nb_elus": 27,
+      "tete_de_liste": {
+        "nom": "DUMONT",
+        "prenom": "Christophe",
+        "nom_complet": "Christophe DUMONT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DUMONT",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe DUMONT",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DUPRIEZ",
+          "prenom": "Christelle",
+          "nom_complet": "Christelle DUPRIEZ",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "JARUGA",
+          "prenom": "Henri",
+          "nom_complet": "Henri JARUGA",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DELATTRE",
+          "prenom": "Marie-José",
+          "nom_complet": "Marie-José DELATTRE",
+          "sexe": "F",
+          "age": 73,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "CARREZ",
+          "prenom": "Didier",
+          "nom_complet": "Didier CARREZ",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "MARYSSAEL",
+          "prenom": "Marie",
+          "nom_complet": "Marie MARYSSAEL",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BAILLEZ",
+          "prenom": "Marc",
+          "nom_complet": "Marc BAILLEZ",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "CARAMOUR",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie CARAMOUR",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DAMBRIN",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal DAMBRIN",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DORNE",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie DORNE",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DUBREUCQ",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick DUBREUCQ",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "FRANCK",
+          "prenom": "Laetitia",
+          "nom_complet": "Laetitia FRANCK",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "MOULDI",
+          "prenom": "Rachid",
+          "nom_complet": "Rachid MOULDI",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "MAS",
+          "prenom": "Élodie",
+          "nom_complet": "Élodie MAS",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "PAWLAK",
+          "prenom": "Daniel",
+          "nom_complet": "Daniel PAWLAK",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "ALLUIN",
+          "prenom": "Delphine",
+          "nom_complet": "Delphine ALLUIN",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "VENANT",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe VENANT",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "WYBO",
+          "prenom": "Mathilde",
+          "nom_complet": "Mathilde WYBO",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "LIÉVIN",
+          "prenom": "Jean",
+          "nom_complet": "Jean LIÉVIN",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "MABRIER",
+          "prenom": "Pauline",
+          "nom_complet": "Pauline MABRIER",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "BERLINET",
+          "prenom": "Jean-Pierre",
+          "nom_complet": "Jean-Pierre BERLINET",
+          "sexe": "M",
+          "age": 79,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "HOURNON",
+          "prenom": "Emeline",
+          "nom_complet": "Emeline HOURNON",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "KRZYKALA",
+          "prenom": "Rémi",
+          "nom_complet": "Rémi KRZYKALA",
+          "sexe": "M",
+          "age": 25,
+          "rang_liste": "23"
+        },
+        {
+          "nom": "DUMONT",
+          "prenom": "Christiane",
+          "nom_complet": "Christiane DUMONT",
+          "sexe": "F",
+          "age": 75,
+          "rang_liste": "24"
+        },
+        {
+          "nom": "HOUCK",
+          "prenom": "Gilles",
+          "nom_complet": "Gilles HOUCK",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "25"
+        },
+        {
+          "nom": "BEDENIK",
+          "prenom": "Claudine",
+          "nom_complet": "Claudine BEDENIK",
+          "sexe": "F",
+          "age": 76,
+          "rang_liste": "26"
+        },
+        {
+          "nom": "DELVAL",
+          "prenom": "Freddy",
+          "nom_complet": "Freddy DELVAL",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "27"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "SIN-LE-NOBLE TRANQUILLE ET PROTEGÉE",
+      "libelle_abrege_liste": "SIN-LE-NOBLE TRANQUILLE ET PROTEGÉE",
+      "nuance_liste": "LRN",
+      "voix": 1238,
+      "pct_voix_exprimes": 23.77,
+      "sieges_cm": 4,
+      "sieges_cc": 1,
+      "nb_elus": 4,
+      "tete_de_liste": {
+        "nom": "SKURPEL",
+        "prenom": "Antoine",
+        "nom_complet": "Antoine SKURPEL",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "SKURPEL",
+          "prenom": "Antoine",
+          "nom_complet": "Antoine SKURPEL",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "VAILLANT",
+          "prenom": "Nicole",
+          "nom_complet": "Nicole VAILLANT",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LADUREAU",
+          "prenom": "Éric",
+          "nom_complet": "Éric LADUREAU",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LEONE",
+          "prenom": "Anaëlle",
+          "nom_complet": "Anaëlle LEONE",
+          "sexe": "F",
+          "age": 23,
+          "rang_liste": "4"
+        }
+      ],
+      "statut_conseil": "autre"
+    },
+    {
+      "num_panneau": "4",
+      "libelle_liste": "SIN-LE-NOBLE, L'AVENIR SOLIDAIRE",
+      "libelle_abrege_liste": "SIN-LE-NOBLE, L'AVENIR SOLIDAIRE",
+      "nuance_liste": "LDVG",
+      "voix": 323,
+      "pct_voix_exprimes": 6.2,
+      "sieges_cm": 1,
+      "sieges_cc": 0,
+      "nb_elus": 1,
+      "tete_de_liste": {
+        "nom": "BARTHASSARADY",
+        "prenom": "Gilbert",
+        "nom_complet": "Gilbert BARTHASSARADY",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BARTHASSARADY",
+          "prenom": "Gilbert",
+          "nom_complet": "Gilbert BARTHASSARADY",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "1"
+        }
+      ],
+      "statut_conseil": "autre"
+    },
+    {
+      "num_panneau": "6",
+      "libelle_liste": "Sin-Le-Noble pour un nouveau départ",
+      "libelle_abrege_liste": "Sin-Le-Noble pour un nouveau départ",
+      "nuance_liste": "LDVG",
+      "voix": 311,
+      "pct_voix_exprimes": 5.97,
+      "sieges_cm": 1,
+      "sieges_cc": 0,
+      "nb_elus": 1,
+      "tete_de_liste": {
+        "nom": "WILLAEYS",
+        "prenom": "Pierre",
+        "nom_complet": "Pierre WILLAEYS",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "WILLAEYS",
+          "prenom": "Pierre",
+          "nom_complet": "Pierre WILLAEYS",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "1"
+        }
+      ],
+      "statut_conseil": "autre"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "Lutte ouvrière - Le camp des travailleurs",
+      "libelle_abrege_liste": "Lutte ouvrière - Le camp des travailleurs",
+      "nuance_liste": "LEXG",
+      "voix": 127,
+      "pct_voix_exprimes": 2.44,
+      "sieges_cm": 0,
+      "sieges_cc": 0,
+      "nb_elus": 0,
+      "tete_de_liste": null,
+      "elus": [],
+      "statut_conseil": "sans_elu"
+    },
+    {
+      "num_panneau": "5",
+      "libelle_liste": "AGIR POUR SIN LE NOBLE",
+      "libelle_abrege_liste": "AGIR POUR SIN LE NOBLE",
+      "nuance_liste": "LDVG",
+      "voix": 110,
+      "pct_voix_exprimes": 2.11,
+      "sieges_cm": 0,
+      "sieges_cc": 0,
+      "nb_elus": 0,
+      "tete_de_liste": null,
+      "elus": [],
+      "statut_conseil": "sans_elu"
+    }
+  ]
+}

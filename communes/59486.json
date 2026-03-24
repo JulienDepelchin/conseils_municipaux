@@ -1,0 +1,227 @@
+{
+  "code_commune": "59486",
+  "commune": "Râches",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "BOUREL",
+    "prenom": "Edith",
+    "nom_complet": "Edith BOUREL",
+    "age": 74,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 2117,
+    "votants": 846,
+    "pct_votants": 39.96,
+    "abstentions": 1271,
+    "pct_abstentions": 60.04,
+    "exprimes": 730
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "mieux vivre ensemble à Râches",
+      "libelle_abrege_liste": "mieux vivre ensemble à Râches",
+      "nuance_liste": null,
+      "voix": 730,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 23,
+      "sieges_cc": 1,
+      "nb_elus": 23,
+      "tete_de_liste": {
+        "nom": "BOUREL",
+        "prenom": "Edith",
+        "nom_complet": "Edith BOUREL",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "BOUREL",
+          "prenom": "Edith",
+          "nom_complet": "Edith BOUREL",
+          "sexe": "F",
+          "age": 74,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DECORPS",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe DECORPS",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BIENCOURT",
+          "prenom": "Caroline",
+          "nom_complet": "Caroline BIENCOURT",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DENYS",
+          "prenom": "Gregory",
+          "nom_complet": "Gregory DENYS",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "MEIGNOTTE",
+          "prenom": "Patricia",
+          "nom_complet": "Patricia MEIGNOTTE",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "WATTELET",
+          "prenom": "Daniel",
+          "nom_complet": "Daniel WATTELET",
+          "sexe": "M",
+          "age": 76,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "CARPENTIER",
+          "prenom": "Josette",
+          "nom_complet": "Josette CARPENTIER",
+          "sexe": "F",
+          "age": 77,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DELMOTTE",
+          "prenom": "Marc",
+          "nom_complet": "Marc DELMOTTE",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "COUSSEMENT",
+          "prenom": "Carmela",
+          "nom_complet": "Carmela COUSSEMENT",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "ANDRÉ",
+          "prenom": "François",
+          "nom_complet": "François ANDRÉ",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "ANSEUR",
+          "prenom": "Fatiha",
+          "nom_complet": "Fatiha ANSEUR",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "BOUREL",
+          "prenom": "Sebastien",
+          "nom_complet": "Sebastien BOUREL",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "PAUQUET-DUBART",
+          "prenom": "Ludivine",
+          "nom_complet": "Ludivine PAUQUET-DUBART",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "BRIEUX",
+          "prenom": "Marc",
+          "nom_complet": "Marc BRIEUX",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "HOUSEAUX",
+          "prenom": "Marine",
+          "nom_complet": "Marine HOUSEAUX",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "DEMAGNY",
+          "prenom": "Fabien",
+          "nom_complet": "Fabien DEMAGNY",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "LEFEBVRE",
+          "prenom": "Anne-Sophie",
+          "nom_complet": "Anne-Sophie LEFEBVRE",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "MEIGNOTTE",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique MEIGNOTTE",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "QUARGNUL",
+          "prenom": "Fanny",
+          "nom_complet": "Fanny QUARGNUL",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "POTIER",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas POTIER",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "REVEL",
+          "prenom": "Brigitte",
+          "nom_complet": "Brigitte REVEL",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "SCHMIDT",
+          "prenom": "Daniel",
+          "nom_complet": "Daniel SCHMIDT",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "SKOTAREK",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie SKOTAREK",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "23"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

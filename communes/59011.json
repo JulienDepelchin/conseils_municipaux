@@ -1,0 +1,347 @@
+{
+  "code_commune": "59011",
+  "commune": "Annoeullin",
+  "departement": "Nord",
+  "tour": "T2",
+  "maire": {
+    "nom": "LEROY",
+    "prenom": "Sebastien",
+    "nom_complet": "Sebastien LEROY",
+    "age": 50,
+    "nuance": "LDVG"
+  },
+  "resultats": {
+    "inscrits": 7770,
+    "votants": 4551,
+    "pct_votants": 58.57,
+    "abstentions": 3219,
+    "pct_abstentions": 41.43,
+    "exprimes": 4418
+  },
+  "listes": [
+    {
+      "num_panneau": "3",
+      "libelle_liste": "Annoeullin au coeur avec Sébastien Leroy",
+      "libelle_abrege_liste": "Annoeullin au coeur avec Sébastien Leroy",
+      "nuance_liste": "LDVG",
+      "voix": 1839,
+      "pct_voix_exprimes": 41.63,
+      "sieges_cm": 24,
+      "sieges_cc": 1,
+      "nb_elus": 24,
+      "tete_de_liste": {
+        "nom": "LEROY",
+        "prenom": "Sebastien",
+        "nom_complet": "Sebastien LEROY",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LEROY",
+          "prenom": "Sebastien",
+          "nom_complet": "Sebastien LEROY",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "MAILLE",
+          "prenom": "Sophie",
+          "nom_complet": "Sophie MAILLE",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "PARSY",
+          "prenom": "Julien",
+          "nom_complet": "Julien PARSY",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "MEGNAFI",
+          "prenom": "Souad",
+          "nom_complet": "Souad MEGNAFI",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LECOEUCHE",
+          "prenom": "Alexis",
+          "nom_complet": "Alexis LECOEUCHE",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LEJOINT",
+          "prenom": "Marjorie",
+          "nom_complet": "Marjorie LEJOINT",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "KULAKOWSKI",
+          "prenom": "Simon",
+          "nom_complet": "Simon KULAKOWSKI",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "WAMBERGUE",
+          "prenom": "Sabrina",
+          "nom_complet": "Sabrina WAMBERGUE",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "RYCKEBUSCH",
+          "prenom": "Frederic",
+          "nom_complet": "Frederic RYCKEBUSCH",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "BERQUÉ",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle BERQUÉ",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "SAMIEZ",
+          "prenom": "Hervé",
+          "nom_complet": "Hervé SAMIEZ",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "POISSONNIER-LEROUX",
+          "prenom": "Anne-Marie",
+          "nom_complet": "Anne-Marie POISSONNIER-LEROUX",
+          "sexe": "F",
+          "age": 71,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "MASSE",
+          "prenom": "Victor",
+          "nom_complet": "Victor MASSE",
+          "sexe": "M",
+          "age": 24,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "CADRAN",
+          "prenom": "Josette",
+          "nom_complet": "Josette CADRAN",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "CROMBECQ",
+          "prenom": "Jean-Paul",
+          "nom_complet": "Jean-Paul CROMBECQ",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "GUGELOT",
+          "prenom": "Justine",
+          "nom_complet": "Justine GUGELOT",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "DELATTRE",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe DELATTRE",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "DUBAR",
+          "prenom": "Catherine",
+          "nom_complet": "Catherine DUBAR",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "VANDENBUSSCHE",
+          "prenom": "Bernard",
+          "nom_complet": "Bernard VANDENBUSSCHE",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "GOUDAL",
+          "prenom": "Laetitia",
+          "nom_complet": "Laetitia GOUDAL",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "BERQUÉ",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique BERQUÉ",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "DONNÉ",
+          "prenom": "Estelle",
+          "nom_complet": "Estelle DONNÉ",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "MERLOT",
+          "prenom": "Fabrice",
+          "nom_complet": "Fabrice MERLOT",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "23"
+        },
+        {
+          "nom": "MARLIER",
+          "prenom": "Stephanie",
+          "nom_complet": "Stephanie MARLIER",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "24"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "4",
+      "libelle_liste": "AGIR POUR ANNOEULLIN",
+      "libelle_abrege_liste": "AGIR POUR ANNOEULLIN",
+      "nuance_liste": "LDVD",
+      "voix": 1587,
+      "pct_voix_exprimes": 35.92,
+      "sieges_cm": 6,
+      "sieges_cc": 0,
+      "nb_elus": 6,
+      "tete_de_liste": {
+        "nom": "SPILLEBOUT",
+        "prenom": "Thierry",
+        "nom_complet": "Thierry SPILLEBOUT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "SPILLEBOUT",
+          "prenom": "Thierry",
+          "nom_complet": "Thierry SPILLEBOUT",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DESFOSSEZ",
+          "prenom": "Hélène",
+          "nom_complet": "Hélène DESFOSSEZ",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "PIETROWSKI",
+          "prenom": "Matthieu",
+          "nom_complet": "Matthieu PIETROWSKI",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "PARIS",
+          "prenom": "Aurore",
+          "nom_complet": "Aurore PARIS",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "VANSTEENKISTE",
+          "prenom": "Antoine",
+          "nom_complet": "Antoine VANSTEENKISTE",
+          "sexe": "M",
+          "age": 29,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "GREGORI",
+          "prenom": "Danielle",
+          "nom_complet": "Danielle GREGORI",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "6"
+        }
+      ],
+      "statut_conseil": "autre"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Rassemblons Annoeullin",
+      "libelle_abrege_liste": "Rassemblons Annoeullin",
+      "nuance_liste": "LRN",
+      "voix": 992,
+      "pct_voix_exprimes": 22.45,
+      "sieges_cm": 3,
+      "sieges_cc": 0,
+      "nb_elus": 3,
+      "tete_de_liste": {
+        "nom": "BLONDEAU",
+        "prenom": "Quentin",
+        "nom_complet": "Quentin BLONDEAU",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BLONDEAU",
+          "prenom": "Quentin",
+          "nom_complet": "Quentin BLONDEAU",
+          "sexe": "M",
+          "age": 30,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "SION",
+          "prenom": "Magali",
+          "nom_complet": "Magali SION",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "CATTEAU",
+          "prenom": "Yann",
+          "nom_complet": "Yann CATTEAU",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "3"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

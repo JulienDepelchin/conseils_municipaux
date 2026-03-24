@@ -1,0 +1,195 @@
+{
+  "code_commune": "59528",
+  "commune": "Saint-Aubert",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "GÉRARD",
+    "prenom": "Pascal",
+    "nom_complet": "Pascal GÉRARD",
+    "age": 61,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1186,
+    "votants": 638,
+    "pct_votants": 53.79,
+    "abstentions": 548,
+    "pct_abstentions": 46.21,
+    "exprimes": 547
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "CONTINUONS ENSEMBLE POUR SAINT-AUBERT",
+      "libelle_abrege_liste": "CONTINUONS ENSEMBLE POUR SAINT-AUBERT",
+      "nuance_liste": null,
+      "voix": 547,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 19,
+      "sieges_cc": 1,
+      "nb_elus": 19,
+      "tete_de_liste": {
+        "nom": "GÉRARD",
+        "prenom": "Pascal",
+        "nom_complet": "Pascal GÉRARD",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "GÉRARD",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal GÉRARD",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LOUVION",
+          "prenom": "Christelle",
+          "nom_complet": "Christelle LOUVION",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "CALIPPE",
+          "prenom": "David",
+          "nom_complet": "David CALIPPE",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "MARGERIN",
+          "prenom": "Adeline",
+          "nom_complet": "Adeline MARGERIN",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DESTIENNE",
+          "prenom": "Albert",
+          "nom_complet": "Albert DESTIENNE",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "FARCY",
+          "prenom": "Audrey",
+          "nom_complet": "Audrey FARCY",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "ESCOT IZQUIERDO",
+          "prenom": "José",
+          "nom_complet": "José ESCOT IZQUIERDO",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "ANSCUTTER",
+          "prenom": "Elisabeth",
+          "nom_complet": "Elisabeth ANSCUTTER",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "BOROWSKI",
+          "prenom": "Jean-Marie",
+          "nom_complet": "Jean-Marie BOROWSKI",
+          "sexe": "M",
+          "age": 77,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DAILLIEZ",
+          "prenom": "Gaëtane",
+          "nom_complet": "Gaëtane DAILLIEZ",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DEHOLLAIN",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno DEHOLLAIN",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "DUFLOT",
+          "prenom": "Angèle",
+          "nom_complet": "Angèle DUFLOT",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "GERNEZ",
+          "prenom": "Claude",
+          "nom_complet": "Claude GERNEZ",
+          "sexe": "M",
+          "age": 74,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "LEMAIRE",
+          "prenom": "Anne",
+          "nom_complet": "Anne LEMAIRE",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "HUYGENS",
+          "prenom": "Emilian",
+          "nom_complet": "Emilian HUYGENS",
+          "sexe": "M",
+          "age": 26,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "PORET",
+          "prenom": "Evelyne",
+          "nom_complet": "Evelyne PORET",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "MAWART",
+          "prenom": "Maxime",
+          "nom_complet": "Maxime MAWART",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "TERRAULLES",
+          "prenom": "Élodie",
+          "nom_complet": "Élodie TERRAULLES",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "VEIGNIE",
+          "prenom": "Ludovic",
+          "nom_complet": "Ludovic VEIGNIE",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "19"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

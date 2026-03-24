@@ -1,0 +1,227 @@
+{
+  "code_commune": "59466",
+  "commune": "Pont-à-Marcq",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "CLEMENT",
+    "prenom": "Sylvain",
+    "nom_complet": "Sylvain CLEMENT",
+    "age": 51,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 2358,
+    "votants": 1209,
+    "pct_votants": 51.27,
+    "abstentions": 1149,
+    "pct_abstentions": 48.73,
+    "exprimes": 1135
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ENSEMBLE POUR L'AVENIR",
+      "libelle_abrege_liste": "ENSEMBLE POUR L'AVENIR",
+      "nuance_liste": null,
+      "voix": 1135,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 23,
+      "sieges_cc": 1,
+      "nb_elus": 23,
+      "tete_de_liste": {
+        "nom": "CLEMENT",
+        "prenom": "Sylvain",
+        "nom_complet": "Sylvain CLEMENT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "CLEMENT",
+          "prenom": "Sylvain",
+          "nom_complet": "Sylvain CLEMENT",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "MEIRE DA SILVA",
+          "prenom": "Albertina",
+          "nom_complet": "Albertina MEIRE DA SILVA",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "CLAISSE",
+          "prenom": "Fernand",
+          "nom_complet": "Fernand CLAISSE",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "FLAMENT",
+          "prenom": "Séverine",
+          "nom_complet": "Séverine FLAMENT",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "FRANCKE",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier FRANCKE",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DEFFRENNES",
+          "prenom": "Pascale",
+          "nom_complet": "Pascale DEFFRENNES",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "MATTON",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe MATTON",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DUGRAIN",
+          "prenom": "Sophie",
+          "nom_complet": "Sophie DUGRAIN",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "CARDON",
+          "prenom": "Guillaume",
+          "nom_complet": "Guillaume CARDON",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "LANGLANT",
+          "prenom": "Margaux",
+          "nom_complet": "Margaux LANGLANT",
+          "sexe": "F",
+          "age": 30,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DARRAS",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent DARRAS",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "SAMMARCELLI",
+          "prenom": "Elise",
+          "nom_complet": "Elise SAMMARCELLI",
+          "sexe": "F",
+          "age": 32,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "LAURENT",
+          "prenom": "Eric",
+          "nom_complet": "Eric LAURENT",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "DEKERLE",
+          "prenom": "Bérangère",
+          "nom_complet": "Bérangère DEKERLE",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "FALLOUEY",
+          "prenom": "Charles",
+          "nom_complet": "Charles FALLOUEY",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "THULLIER",
+          "prenom": "Sabine",
+          "nom_complet": "Sabine THULLIER",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "CNOCKAERT",
+          "prenom": "David",
+          "nom_complet": "David CNOCKAERT",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "MARESCAUX",
+          "prenom": "Périne",
+          "nom_complet": "Périne MARESCAUX",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "LE LAGADEC",
+          "prenom": "Matthieu",
+          "nom_complet": "Matthieu LE LAGADEC",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "JACQUOT",
+          "prenom": "Mathilde",
+          "nom_complet": "Mathilde JACQUOT",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "DESCAMPS",
+          "prenom": "Jacques",
+          "nom_complet": "Jacques DESCAMPS",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "RACINET",
+          "prenom": "Marine",
+          "nom_complet": "Marine RACINET",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "DEBUSSCHERE",
+          "prenom": "Albert",
+          "nom_complet": "Albert DEBUSSCHERE",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "23"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

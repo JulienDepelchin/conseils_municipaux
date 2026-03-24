@@ -1,0 +1,163 @@
+{
+  "code_commune": "62650",
+  "commune": "Pelves",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "BORDAS",
+    "prenom": "André",
+    "nom_complet": "André BORDAS",
+    "age": 64,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 607,
+    "votants": 366,
+    "pct_votants": 60.3,
+    "abstentions": 241,
+    "pct_abstentions": 39.7,
+    "exprimes": 278
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Unis pour l'avenir",
+      "libelle_abrege_liste": "Unis pour l'avenir",
+      "nuance_liste": null,
+      "voix": 278,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "BORDAS",
+        "prenom": "André",
+        "nom_complet": "André BORDAS",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BORDAS",
+          "prenom": "André",
+          "nom_complet": "André BORDAS",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "NOWAK",
+          "prenom": "Angélique",
+          "nom_complet": "Angélique NOWAK",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "CAULLET",
+          "prenom": "Jean-Pierre",
+          "nom_complet": "Jean-Pierre CAULLET",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "FLAHAUW",
+          "prenom": "Caroline",
+          "nom_complet": "Caroline FLAHAUW",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "MUSICO",
+          "prenom": "Adriano",
+          "nom_complet": "Adriano MUSICO",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "MANNECHET",
+          "prenom": "Emilie",
+          "nom_complet": "Emilie MANNECHET",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "CHARRUAUD",
+          "prenom": "Daniel",
+          "nom_complet": "Daniel CHARRUAUD",
+          "sexe": "M",
+          "age": 79,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "KOLBER",
+          "prenom": "Amandine",
+          "nom_complet": "Amandine KOLBER",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "GOUBET",
+          "prenom": "Grégory",
+          "nom_complet": "Grégory GOUBET",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "LECAT",
+          "prenom": "Orlane",
+          "nom_complet": "Orlane LECAT",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "VERET",
+          "prenom": "Sylvain",
+          "nom_complet": "Sylvain VERET",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "LOOTEN",
+          "prenom": "Claudine",
+          "nom_complet": "Claudine LOOTEN",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "CATHELAIN",
+          "prenom": "Joël",
+          "nom_complet": "Joël CATHELAIN",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "REMY",
+          "prenom": "Jacqueline",
+          "nom_complet": "Jacqueline REMY",
+          "sexe": "F",
+          "age": 71,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "LOYER",
+          "prenom": "Axel",
+          "nom_complet": "Axel LOYER",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

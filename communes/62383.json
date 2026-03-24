@@ -1,0 +1,183 @@
+{
+  "code_commune": "62383",
+  "commune": "Gouy-sous-Bellonne",
+  "departement": "Pas-de-Calais",
+  "tour": "T2",
+  "maire": {
+    "nom": "DHENIN",
+    "prenom": "Véronique",
+    "nom_complet": "Véronique DHENIN",
+    "age": 60,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1127,
+    "votants": 831,
+    "pct_votants": 73.74,
+    "abstentions": 296,
+    "pct_abstentions": 26.26,
+    "exprimes": 807
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "AGISSONS POUR GOUY",
+      "libelle_abrege_liste": "AGISSONS POUR GOUY",
+      "nuance_liste": null,
+      "voix": 462,
+      "pct_voix_exprimes": 57.25,
+      "sieges_cm": 12,
+      "sieges_cc": 2,
+      "nb_elus": 12,
+      "tete_de_liste": {
+        "nom": "DHENIN",
+        "prenom": "Véronique",
+        "nom_complet": "Véronique DHENIN",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "DHENIN",
+          "prenom": "Véronique",
+          "nom_complet": "Véronique DHENIN",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "CANONNE",
+          "prenom": "Michaël",
+          "nom_complet": "Michaël CANONNE",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LOLIVIER",
+          "prenom": "Clémentina",
+          "nom_complet": "Clémentina LOLIVIER",
+          "sexe": "F",
+          "age": 73,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DUTOIT",
+          "prenom": "Marc",
+          "nom_complet": "Marc DUTOIT",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "MIKA",
+          "prenom": "Hélène",
+          "nom_complet": "Hélène MIKA",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "HONORE",
+          "prenom": "Serge",
+          "nom_complet": "Serge HONORE",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DENQUIN",
+          "prenom": "Mathilde",
+          "nom_complet": "Mathilde DENQUIN",
+          "sexe": "F",
+          "age": 21,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "CABRE",
+          "prenom": "Bastien",
+          "nom_complet": "Bastien CABRE",
+          "sexe": "M",
+          "age": 24,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "SANSON",
+          "prenom": "Nicole",
+          "nom_complet": "Nicole SANSON",
+          "sexe": "F",
+          "age": 78,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "MAROUZÉ",
+          "prenom": "Maxime",
+          "nom_complet": "Maxime MAROUZÉ",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DOCO",
+          "prenom": "Laurence",
+          "nom_complet": "Laurence DOCO",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "BAES",
+          "prenom": "Manuel",
+          "nom_complet": "Manuel BAES",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "12"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "3",
+      "libelle_liste": "GOUY ENSEMBLE",
+      "libelle_abrege_liste": "GOUY ENSEMBLE",
+      "nuance_liste": null,
+      "voix": 345,
+      "pct_voix_exprimes": 42.75,
+      "sieges_cm": 3,
+      "sieges_cc": 0,
+      "nb_elus": 3,
+      "tete_de_liste": {
+        "nom": "KOLASINSKI",
+        "prenom": "Christophe",
+        "nom_complet": "Christophe KOLASINSKI",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "KOLASINSKI",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe KOLASINSKI",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "GUEN",
+          "prenom": "Marie-Astrid",
+          "nom_complet": "Marie-Astrid GUEN",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "HANTUTE",
+          "prenom": "Sébastien",
+          "nom_complet": "Sébastien HANTUTE",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "3"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

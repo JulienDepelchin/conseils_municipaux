@@ -1,0 +1,131 @@
+{
+  "code_commune": "59001",
+  "commune": "Abancourt",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "CAPELLE",
+    "prenom": "René",
+    "nom_complet": "René CAPELLE",
+    "age": 71,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 363,
+    "votants": 248,
+    "pct_votants": 68.32,
+    "abstentions": 115,
+    "pct_abstentions": 31.68,
+    "exprimes": 201
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Agir pour Abancourt",
+      "libelle_abrege_liste": "Agir pour Abancourt",
+      "nuance_liste": null,
+      "voix": 201,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "CAPELLE",
+        "prenom": "René",
+        "nom_complet": "René CAPELLE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "CAPELLE",
+          "prenom": "René",
+          "nom_complet": "René CAPELLE",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "POULAIN",
+          "prenom": "Bernadette",
+          "nom_complet": "Bernadette POULAIN",
+          "sexe": "F",
+          "age": 71,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BEKKOUCH",
+          "prenom": "Mohamed",
+          "nom_complet": "Mohamed BEKKOUCH",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DUPONT",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle DUPONT",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "GRANDJEAN",
+          "prenom": "Stéphane",
+          "nom_complet": "Stéphane GRANDJEAN",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LAINE",
+          "prenom": "Françoise",
+          "nom_complet": "Françoise LAINE",
+          "sexe": "F",
+          "age": 79,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "HARY",
+          "prenom": "Bernard",
+          "nom_complet": "Bernard HARY",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "GOURGUECHON",
+          "prenom": "Bernadette",
+          "nom_complet": "Bernadette GOURGUECHON",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "LEMAIRE",
+          "prenom": "Rudy",
+          "nom_complet": "Rudy LEMAIRE",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "MARLIERE",
+          "prenom": "Valérie",
+          "nom_complet": "Valérie MARLIERE",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "FUMERY",
+          "prenom": "Romain",
+          "nom_complet": "Romain FUMERY",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

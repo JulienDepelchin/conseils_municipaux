@@ -1,0 +1,151 @@
+{
+  "code_commune": "62636",
+  "commune": "Offrethun",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "GOMEL",
+    "prenom": "Therese",
+    "nom_complet": "Therese GOMEL",
+    "age": 46,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 234,
+    "votants": 195,
+    "pct_votants": 83.33,
+    "abstentions": 39,
+    "pct_abstentions": 16.67,
+    "exprimes": 193
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "OFFRETHUN UN AVENIR COMMUN",
+      "libelle_abrege_liste": "OFFRETHUN UN AVENIR COMMUN",
+      "nuance_liste": null,
+      "voix": 112,
+      "pct_voix_exprimes": 58.03,
+      "sieges_cm": 9,
+      "sieges_cc": null,
+      "nb_elus": 9,
+      "tete_de_liste": {
+        "nom": "GOMEL",
+        "prenom": "Therese",
+        "nom_complet": "Therese GOMEL",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "GOMEL",
+          "prenom": "Therese",
+          "nom_complet": "Therese GOMEL",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "SINNAEVE",
+          "prenom": "Romuald",
+          "nom_complet": "Romuald SINNAEVE",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "FOURNY",
+          "prenom": "Sandra",
+          "nom_complet": "Sandra FOURNY",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "QUENU",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal QUENU",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DESOMBRE",
+          "prenom": "Agnès",
+          "nom_complet": "Agnès DESOMBRE",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "TURPIN",
+          "prenom": "Claude",
+          "nom_complet": "Claude TURPIN",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DURIEZ",
+          "prenom": "Sandrine",
+          "nom_complet": "Sandrine DURIEZ",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "HONORE",
+          "prenom": "Paul",
+          "nom_complet": "Paul HONORE",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "CAZIN",
+          "prenom": "Camille",
+          "nom_complet": "Camille CAZIN",
+          "sexe": "F",
+          "age": 33,
+          "rang_liste": "9"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "ENSEMBLE POUR DEMAIN",
+      "libelle_abrege_liste": "ENSEMBLE POUR DEMAIN",
+      "nuance_liste": null,
+      "voix": 81,
+      "pct_voix_exprimes": 41.97,
+      "sieges_cm": 2,
+      "sieges_cc": null,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "EMAILLE",
+        "prenom": "Philippe",
+        "nom_complet": "Philippe EMAILLE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "EMAILLE",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe EMAILLE",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BRONGNIART-TRIQUET",
+          "prenom": "Claire",
+          "nom_complet": "Claire BRONGNIART-TRIQUET",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

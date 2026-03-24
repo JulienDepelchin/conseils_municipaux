@@ -1,0 +1,151 @@
+{
+  "code_commune": "62144",
+  "commune": "Boiry-Becquerelle",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "PLET",
+    "prenom": "Luigui",
+    "nom_complet": "Luigui PLET",
+    "age": 68,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 372,
+    "votants": 296,
+    "pct_votants": 79.57,
+    "abstentions": 76,
+    "pct_abstentions": 20.43,
+    "exprimes": 290
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ENSEMBLE POUR BOIRY-BECQUERELLE",
+      "libelle_abrege_liste": "ENSEMBLE POUR BOIRY-BECQUERELLE",
+      "nuance_liste": null,
+      "voix": 237,
+      "pct_voix_exprimes": 81.72,
+      "sieges_cm": 10,
+      "sieges_cc": null,
+      "nb_elus": 10,
+      "tete_de_liste": {
+        "nom": "PLET",
+        "prenom": "Luigui",
+        "nom_complet": "Luigui PLET",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "PLET",
+          "prenom": "Luigui",
+          "nom_complet": "Luigui PLET",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "MISSIAEN",
+          "prenom": "Laëtitia",
+          "nom_complet": "Laëtitia MISSIAEN",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "FRERE",
+          "prenom": "Marc",
+          "nom_complet": "Marc FRERE",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LIGNY",
+          "prenom": "Anne-Sophie",
+          "nom_complet": "Anne-Sophie LIGNY",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LYONNET",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe LYONNET",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "MERCHIER",
+          "prenom": "Sandrine",
+          "nom_complet": "Sandrine MERCHIER",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DELMOTTE",
+          "prenom": "Emmanuel",
+          "nom_complet": "Emmanuel DELMOTTE",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "CANDEILLE",
+          "prenom": "Catherine",
+          "nom_complet": "Catherine CANDEILLE",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "BOURBON",
+          "prenom": "Cédric",
+          "nom_complet": "Cédric BOURBON",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "YVETOT",
+          "prenom": "Agnès",
+          "nom_complet": "Agnès YVETOT",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "10"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "UN NOUVEL ELAN POUR DEMAIN",
+      "libelle_abrege_liste": "UN NOUVEL ELAN POUR DEMAIN",
+      "nuance_liste": null,
+      "voix": 53,
+      "pct_voix_exprimes": 18.28,
+      "sieges_cm": 1,
+      "sieges_cc": null,
+      "nb_elus": 1,
+      "tete_de_liste": {
+        "nom": "WAREMBOURG",
+        "prenom": "Francis",
+        "nom_complet": "Francis WAREMBOURG",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "WAREMBOURG",
+          "prenom": "Francis",
+          "nom_complet": "Francis WAREMBOURG",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "1"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

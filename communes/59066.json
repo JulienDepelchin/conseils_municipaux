@@ -1,0 +1,131 @@
+{
+  "code_commune": "59066",
+  "commune": "Bérelles",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "DAUZAT",
+    "prenom": "Sonia",
+    "nom_complet": "Sonia DAUZAT",
+    "age": 38,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 114,
+    "votants": 69,
+    "pct_votants": 60.53,
+    "abstentions": 45,
+    "pct_abstentions": 39.47,
+    "exprimes": 42
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Protégeons l'avenir de Bérelles",
+      "libelle_abrege_liste": "Protégeons l'avenir de Bérelles",
+      "nuance_liste": null,
+      "voix": 42,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "DAUZAT",
+        "prenom": "Sonia",
+        "nom_complet": "Sonia DAUZAT",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "DAUZAT",
+          "prenom": "Sonia",
+          "nom_complet": "Sonia DAUZAT",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "CATRAIN",
+          "prenom": "Mathieu",
+          "nom_complet": "Mathieu CATRAIN",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "PRZYBYLSKA",
+          "prenom": "Catherine",
+          "nom_complet": "Catherine PRZYBYLSKA",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DE MENIS",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe DE MENIS",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "WARTELLE TRAEN",
+          "prenom": "Geraldine",
+          "nom_complet": "Geraldine WARTELLE TRAEN",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "BLONDIAU",
+          "prenom": "Luc",
+          "nom_complet": "Luc BLONDIAU",
+          "sexe": "M",
+          "age": 24,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "FERET",
+          "prenom": "Camille",
+          "nom_complet": "Camille FERET",
+          "sexe": "F",
+          "age": 27,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "JAUPART",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent JAUPART",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "CARTIEAUX",
+          "prenom": "Delphine",
+          "nom_complet": "Delphine CARTIEAUX",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DAUZAT",
+          "prenom": "Thomas",
+          "nom_complet": "Thomas DAUZAT",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "FARINEAU",
+          "prenom": "Eve",
+          "nom_complet": "Eve FARINEAU",
+          "sexe": "F",
+          "age": 33,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

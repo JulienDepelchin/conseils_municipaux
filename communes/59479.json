@@ -1,0 +1,227 @@
+{
+  "code_commune": "59479",
+  "commune": "Quarouble",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "DOCHEZ",
+    "prenom": "Philippe",
+    "nom_complet": "Philippe DOCHEZ",
+    "age": 68,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 2565,
+    "votants": 1011,
+    "pct_votants": 39.42,
+    "abstentions": 1554,
+    "pct_abstentions": 60.58,
+    "exprimes": 906
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "QUAROUBLE, ENSEMBLE POUR ALLER PLUS LOIN",
+      "libelle_abrege_liste": "QUAROUBLE, ENSEMBLE POUR ALLER PLUS LOIN",
+      "nuance_liste": null,
+      "voix": 906,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 23,
+      "sieges_cc": 2,
+      "nb_elus": 23,
+      "tete_de_liste": {
+        "nom": "DOCHEZ",
+        "prenom": "Philippe",
+        "nom_complet": "Philippe DOCHEZ",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DOCHEZ",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe DOCHEZ",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LAMOTTE BURETTE",
+          "prenom": "Maud",
+          "nom_complet": "Maud LAMOTTE BURETTE",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DOCHEZ",
+          "prenom": "Vincent",
+          "nom_complet": "Vincent DOCHEZ",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "PORTEMONT",
+          "prenom": "Anne-Sophie",
+          "nom_complet": "Anne-Sophie PORTEMONT",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "TROCHUT",
+          "prenom": "Raymond",
+          "nom_complet": "Raymond TROCHUT",
+          "sexe": "M",
+          "age": 78,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DELVALLÉE",
+          "prenom": "Axelle",
+          "nom_complet": "Axelle DELVALLÉE",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "LAMBOUR",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe LAMBOUR",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "HERVIEU BRONSARD",
+          "prenom": "Sophie",
+          "nom_complet": "Sophie HERVIEU BRONSARD",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "FLOQUET",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe FLOQUET",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "LACHAUSSEE",
+          "prenom": "Sandrine",
+          "nom_complet": "Sandrine LACHAUSSEE",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "CERIANA",
+          "prenom": "Romain",
+          "nom_complet": "Romain CERIANA",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "NUTTIN",
+          "prenom": "Anne",
+          "nom_complet": "Anne NUTTIN",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "PISSON",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe PISSON",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "COUNE",
+          "prenom": "Alisson",
+          "nom_complet": "Alisson COUNE",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "BROUX",
+          "prenom": "Mathias",
+          "nom_complet": "Mathias BROUX",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "MARIAGE",
+          "prenom": "Anne-Sophie",
+          "nom_complet": "Anne-Sophie MARIAGE",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "VERSTAVEL",
+          "prenom": "Stéphane",
+          "nom_complet": "Stéphane VERSTAVEL",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "FALSE",
+          "prenom": "Fabienne",
+          "nom_complet": "Fabienne FALSE",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "HIOLLE",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier HIOLLE",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "BOURGUIN",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie BOURGUIN",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "WANTELLET",
+          "prenom": "Jean-Marc",
+          "nom_complet": "Jean-Marc WANTELLET",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "RENARD",
+          "prenom": "Delphine",
+          "nom_complet": "Delphine RENARD",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "TRUCHASSOU",
+          "prenom": "Marc",
+          "nom_complet": "Marc TRUCHASSOU",
+          "sexe": "M",
+          "age": 76,
+          "rang_liste": "23"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

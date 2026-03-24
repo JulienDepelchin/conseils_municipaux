@@ -1,0 +1,99 @@
+{
+  "code_commune": "62389",
+  "commune": "Grincourt-lès-Pas",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "BROCVIELLE",
+    "prenom": "Patricia",
+    "nom_complet": "Patricia BROCVIELLE",
+    "age": 48,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 30,
+    "votants": 20,
+    "pct_votants": 66.67,
+    "abstentions": 10,
+    "pct_abstentions": 33.33,
+    "exprimes": 16
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Ensemble Pour Grincourt",
+      "libelle_abrege_liste": "Ensemble Pour Grincourt",
+      "nuance_liste": null,
+      "voix": 16,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 7,
+      "sieges_cc": null,
+      "nb_elus": 7,
+      "tete_de_liste": {
+        "nom": "BROCVIELLE",
+        "prenom": "Patricia",
+        "nom_complet": "Patricia BROCVIELLE",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "BROCVIELLE",
+          "prenom": "Patricia",
+          "nom_complet": "Patricia BROCVIELLE",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DERNIAME",
+          "prenom": "Daniel",
+          "nom_complet": "Daniel DERNIAME",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BROCVIELLE",
+          "prenom": "Michelle",
+          "nom_complet": "Michelle BROCVIELLE",
+          "sexe": "F",
+          "age": 83,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "FRANÇOIS",
+          "prenom": "Benoît",
+          "nom_complet": "Benoît FRANÇOIS",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DESRUES",
+          "prenom": "Elise",
+          "nom_complet": "Elise DESRUES",
+          "sexe": "F",
+          "age": 24,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "GUERANGER",
+          "prenom": "Maurice",
+          "nom_complet": "Maurice GUERANGER",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "FRANÇOIS",
+          "prenom": "Christine",
+          "nom_complet": "Christine FRANÇOIS",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "7"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

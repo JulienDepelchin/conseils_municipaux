@@ -1,0 +1,327 @@
+{
+  "code_commune": "59152",
+  "commune": "Comines",
+  "departement": "Nord",
+  "tour": "T2",
+  "maire": {
+    "nom": "TEMPREMANT",
+    "prenom": "Grégory",
+    "nom_complet": "Grégory TEMPREMANT",
+    "age": 47,
+    "nuance": "LDVD"
+  },
+  "resultats": {
+    "inscrits": 10060,
+    "votants": 5417,
+    "pct_votants": 53.85,
+    "abstentions": 4643,
+    "pct_abstentions": 46.15,
+    "exprimes": 5167
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "AGIR ENSEMBLE POUR COMINES",
+      "libelle_abrege_liste": "AGIR ENSEMBLE POUR COMINES",
+      "nuance_liste": "LDVD",
+      "voix": 2915,
+      "pct_voix_exprimes": 56.42,
+      "sieges_cm": 26,
+      "sieges_cc": 1,
+      "nb_elus": 26,
+      "tete_de_liste": {
+        "nom": "TEMPREMANT",
+        "prenom": "Grégory",
+        "nom_complet": "Grégory TEMPREMANT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "TEMPREMANT",
+          "prenom": "Grégory",
+          "nom_complet": "Grégory TEMPREMANT",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "VERMES",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle VERMES",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "VIANE",
+          "prenom": "Sébastien",
+          "nom_complet": "Sébastien VIANE",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DELANNOY",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle DELANNOY",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "CLIQUENNOIS",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe CLIQUENNOIS",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DAVOUST",
+          "prenom": "Catherine",
+          "nom_complet": "Catherine DAVOUST",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "SCHOUTTETEN",
+          "prenom": "Justin",
+          "nom_complet": "Justin SCHOUTTETEN",
+          "sexe": "M",
+          "age": 34,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LEROY",
+          "prenom": "Justine",
+          "nom_complet": "Justine LEROY",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "REBOUILLAT",
+          "prenom": "Wilfried",
+          "nom_complet": "Wilfried REBOUILLAT",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "MAZINGUE",
+          "prenom": "Lise",
+          "nom_complet": "Lise MAZINGUE",
+          "sexe": "F",
+          "age": 25,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "D'HALLUIN",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric D'HALLUIN",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "LEROY",
+          "prenom": "Nathanaëlle",
+          "nom_complet": "Nathanaëlle LEROY",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "DESREUMAUX",
+          "prenom": "Ludovic",
+          "nom_complet": "Ludovic DESREUMAUX",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "DELEU",
+          "prenom": "Marie-Dominique",
+          "nom_complet": "Marie-Dominique DELEU",
+          "sexe": "F",
+          "age": 71,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "DEHANE-DELPLANQUE",
+          "prenom": "Raphaël",
+          "nom_complet": "Raphaël DEHANE-DELPLANQUE",
+          "sexe": "M",
+          "age": 18,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "NAVARRO",
+          "prenom": "Sylvia",
+          "nom_complet": "Sylvia NAVARRO",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "MOUBTAKIR",
+          "prenom": "Adil",
+          "nom_complet": "Adil MOUBTAKIR",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "GRISLAIN",
+          "prenom": "Charlotte",
+          "nom_complet": "Charlotte GRISLAIN",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "LEROY",
+          "prenom": "Cédric",
+          "nom_complet": "Cédric LEROY",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "LAVALLÉE",
+          "prenom": "Marie-Françoise",
+          "nom_complet": "Marie-Françoise LAVALLÉE",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "BODART",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric BODART",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "TEMPREMANT",
+          "prenom": "Aurélie",
+          "nom_complet": "Aurélie TEMPREMANT",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "DUPUIS",
+          "prenom": "Gérard",
+          "nom_complet": "Gérard DUPUIS",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "23"
+        },
+        {
+          "nom": "CALVOS",
+          "prenom": "Camille",
+          "nom_complet": "Camille CALVOS",
+          "sexe": "F",
+          "age": 30,
+          "rang_liste": "24"
+        },
+        {
+          "nom": "IMODANE",
+          "prenom": "Lahoucine",
+          "nom_complet": "Lahoucine IMODANE",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "25"
+        },
+        {
+          "nom": "DAMAREZ",
+          "prenom": "Carine",
+          "nom_complet": "Carine DAMAREZ",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "26"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "3",
+      "libelle_liste": "COMINES AVEC PASSION",
+      "libelle_abrege_liste": "COMINES AVEC PASSION",
+      "nuance_liste": "LDVD",
+      "voix": 2252,
+      "pct_voix_exprimes": 43.58,
+      "sieges_cm": 7,
+      "sieges_cc": 0,
+      "nb_elus": 7,
+      "tete_de_liste": {
+        "nom": "HOUSET",
+        "prenom": "Alexis",
+        "nom_complet": "Alexis HOUSET",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "HOUSET",
+          "prenom": "Alexis",
+          "nom_complet": "Alexis HOUSET",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DUBOIS",
+          "prenom": "Annabelle",
+          "nom_complet": "Annabelle DUBOIS",
+          "sexe": "F",
+          "age": 18,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "MONROGER",
+          "prenom": "Jean-Claude",
+          "nom_complet": "Jean-Claude MONROGER",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LABALETTE",
+          "prenom": "Christiane",
+          "nom_complet": "Christiane LABALETTE",
+          "sexe": "F",
+          "age": 75,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "BLAECKE",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno BLAECKE",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "SINHNACHACK",
+          "prenom": "Inthawa",
+          "nom_complet": "Inthawa SINHNACHACK",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BREINE",
+          "prenom": "Frederic",
+          "nom_complet": "Frederic BREINE",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "7"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

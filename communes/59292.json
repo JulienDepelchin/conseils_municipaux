@@ -1,0 +1,247 @@
+{
+  "code_commune": "59292",
+  "commune": "Haveluy",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "RYCKELYNCK",
+    "prenom": "Jean-Paul",
+    "nom_complet": "Jean-Paul RYCKELYNCK",
+    "age": 64,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 2446,
+    "votants": 1771,
+    "pct_votants": 72.4,
+    "abstentions": 675,
+    "pct_abstentions": 27.6,
+    "exprimes": 1718
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ENSEMBLE, HAVELUY VERS L'AVENIR",
+      "libelle_abrege_liste": "ENSEMBLE, HAVELUY VERS L'AVENIR",
+      "nuance_liste": null,
+      "voix": 949,
+      "pct_voix_exprimes": 55.24,
+      "sieges_cm": 18,
+      "sieges_cc": 1,
+      "nb_elus": 18,
+      "tete_de_liste": {
+        "nom": "RYCKELYNCK",
+        "prenom": "Jean-Paul",
+        "nom_complet": "Jean-Paul RYCKELYNCK",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "RYCKELYNCK",
+          "prenom": "Jean-Paul",
+          "nom_complet": "Jean-Paul RYCKELYNCK",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "PERTOLDI",
+          "prenom": "Claudine",
+          "nom_complet": "Claudine PERTOLDI",
+          "sexe": "F",
+          "age": 75,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LEBBADER",
+          "prenom": "Driss",
+          "nom_complet": "Driss LEBBADER",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "FARENEAU",
+          "prenom": "Gwenaëlle",
+          "nom_complet": "Gwenaëlle FARENEAU",
+          "sexe": "F",
+          "age": 25,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "CHATELLAIN",
+          "prenom": "Jérémy",
+          "nom_complet": "Jérémy CHATELLAIN",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LAINE",
+          "prenom": "Marilyne",
+          "nom_complet": "Marilyne LAINE",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "HAMLAH",
+          "prenom": "Mustapha",
+          "nom_complet": "Mustapha HAMLAH",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DEJONGHE-BRUSCA",
+          "prenom": "Virginie",
+          "nom_complet": "Virginie DEJONGHE-BRUSCA",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "BUONGIORNO",
+          "prenom": "Grégory",
+          "nom_complet": "Grégory BUONGIORNO",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "SMAGGHE",
+          "prenom": "Delphine",
+          "nom_complet": "Delphine SMAGGHE",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "FERAHTIA",
+          "prenom": "Abdelkader",
+          "nom_complet": "Abdelkader FERAHTIA",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "FREMAUX",
+          "prenom": "Gaëlle",
+          "nom_complet": "Gaëlle FREMAUX",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "MORELLE",
+          "prenom": "Claude",
+          "nom_complet": "Claude MORELLE",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "AMGHAR",
+          "prenom": "Samia",
+          "nom_complet": "Samia AMGHAR",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "LIÉNARD",
+          "prenom": "Jean-Marc",
+          "nom_complet": "Jean-Marc LIÉNARD",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "BERNARDO TEIXEIRA",
+          "prenom": "Nadia",
+          "nom_complet": "Nadia BERNARDO TEIXEIRA",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "GIRARD",
+          "prenom": "Jean-Claude",
+          "nom_complet": "Jean-Claude GIRARD",
+          "sexe": "M",
+          "age": 74,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "DIVERCHY",
+          "prenom": "Jennifer",
+          "nom_complet": "Jennifer DIVERCHY",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "18"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "HAVELUY, UNE VILLE QUI NOUS UNIT",
+      "libelle_abrege_liste": "HAVELUY, UNE VILLE QUI NOUS UNIT",
+      "nuance_liste": null,
+      "voix": 769,
+      "pct_voix_exprimes": 44.76,
+      "sieges_cm": 5,
+      "sieges_cc": 0,
+      "nb_elus": 5,
+      "tete_de_liste": {
+        "nom": "MAYEUX",
+        "prenom": "Mariette",
+        "nom_complet": "Mariette MAYEUX",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "MAYEUX",
+          "prenom": "Mariette",
+          "nom_complet": "Mariette MAYEUX",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "FERMAUT",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier FERMAUT",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "CLOSSE",
+          "prenom": "Emmanuelle",
+          "nom_complet": "Emmanuelle CLOSSE",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BOULLERIER",
+          "prenom": "Mickael",
+          "nom_complet": "Mickael BOULLERIER",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DHAUSSY",
+          "prenom": "Laurence",
+          "nom_complet": "Laurence DHAUSSY",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "5"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

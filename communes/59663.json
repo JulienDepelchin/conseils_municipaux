@@ -1,0 +1,315 @@
+{
+  "code_commune": "59663",
+  "commune": "Wormhout",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "CALCOEN",
+    "prenom": "David",
+    "nom_complet": "David CALCOEN",
+    "age": 47,
+    "nuance": "LDVD"
+  },
+  "resultats": {
+    "inscrits": 4459,
+    "votants": 3271,
+    "pct_votants": 73.36,
+    "abstentions": 1188,
+    "pct_abstentions": 26.64,
+    "exprimes": 3202
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "UNIS POUR WORMHOUT",
+      "libelle_abrege_liste": "UPW",
+      "nuance_liste": "LDVD",
+      "voix": 1772,
+      "pct_voix_exprimes": 55.34,
+      "sieges_cm": 23,
+      "sieges_cc": 5,
+      "nb_elus": 23,
+      "tete_de_liste": {
+        "nom": "CALCOEN",
+        "prenom": "David",
+        "nom_complet": "David CALCOEN",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "CALCOEN",
+          "prenom": "David",
+          "nom_complet": "David CALCOEN",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "GROYSILLIER",
+          "prenom": "Céline",
+          "nom_complet": "Céline GROYSILLIER",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DERAM",
+          "prenom": "Didier",
+          "nom_complet": "Didier DERAM",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BECK",
+          "prenom": "Sabrina",
+          "nom_complet": "Sabrina BECK",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DELMOTTE",
+          "prenom": "Vincent",
+          "nom_complet": "Vincent DELMOTTE",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "BLÉJA",
+          "prenom": "Virginie",
+          "nom_complet": "Virginie BLÉJA",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DOOM",
+          "prenom": "Emmanuel",
+          "nom_complet": "Emmanuel DOOM",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DUPUITS",
+          "prenom": "Laurence",
+          "nom_complet": "Laurence DUPUITS",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "VANAGT",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent VANAGT",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "LECLERCQ",
+          "prenom": "Anne-Sophie",
+          "nom_complet": "Anne-Sophie LECLERCQ",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "GILLIERS",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas GILLIERS",
+          "sexe": "M",
+          "age": 33,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "NOVELLE",
+          "prenom": "Sabrina",
+          "nom_complet": "Sabrina NOVELLE",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "MARQUISE",
+          "prenom": "Lucas",
+          "nom_complet": "Lucas MARQUISE",
+          "sexe": "M",
+          "age": 27,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "COURBOT",
+          "prenom": "Monique",
+          "nom_complet": "Monique COURBOT",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "POISSONNET",
+          "prenom": "Luc",
+          "nom_complet": "Luc POISSONNET",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "BOLLE",
+          "prenom": "Christine",
+          "nom_complet": "Christine BOLLE",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "DENTREBECQ",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick DENTREBECQ",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "BULTEEL",
+          "prenom": "Martine",
+          "nom_complet": "Martine BULTEEL",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "KERCKHOVE",
+          "prenom": "Fabien",
+          "nom_complet": "Fabien KERCKHOVE",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "VÉROVE",
+          "prenom": "Catherine",
+          "nom_complet": "Catherine VÉROVE",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "TALLEU",
+          "prenom": "Benoît",
+          "nom_complet": "Benoît TALLEU",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "DUPUICH",
+          "prenom": "Émilie",
+          "nom_complet": "Émilie DUPUICH",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "GIRARD",
+          "prenom": "Cyrille",
+          "nom_complet": "Cyrille GIRARD",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "23"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "3",
+      "libelle_liste": "Une équipe qui s'engage pour Wormhout",
+      "libelle_abrege_liste": "VEQSEPW",
+      "nuance_liste": "LDVD",
+      "voix": 912,
+      "pct_voix_exprimes": 28.48,
+      "sieges_cm": 4,
+      "sieges_cc": 1,
+      "nb_elus": 4,
+      "tete_de_liste": {
+        "nom": "DEVOS",
+        "prenom": "Frédéric",
+        "nom_complet": "Frédéric DEVOS",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DEVOS",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric DEVOS",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "PRUVO",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle PRUVO",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DEGRAND",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe DEGRAND",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DRELON",
+          "prenom": "Christelle",
+          "nom_complet": "Christelle DRELON",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "4"
+        }
+      ],
+      "statut_conseil": "autre"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "UN NOUVEL ELAN POUR WORMHOUT",
+      "libelle_abrege_liste": "UNEPW",
+      "nuance_liste": "LRN",
+      "voix": 518,
+      "pct_voix_exprimes": 16.18,
+      "sieges_cm": 2,
+      "sieges_cc": 0,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "MAERTEN",
+        "prenom": "Eric",
+        "nom_complet": "Eric MAERTEN",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "MAERTEN",
+          "prenom": "Eric",
+          "nom_complet": "Eric MAERTEN",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "PRONIER",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle PRONIER",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

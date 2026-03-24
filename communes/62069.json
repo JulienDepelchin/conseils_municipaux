@@ -1,0 +1,151 @@
+{
+  "code_commune": "62069",
+  "commune": "Azincourt",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "DALLERY",
+    "prenom": "Benoit",
+    "nom_complet": "Benoit DALLERY",
+    "age": 61,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 236,
+    "votants": 209,
+    "pct_votants": 88.56,
+    "abstentions": 27,
+    "pct_abstentions": 11.44,
+    "exprimes": 205
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Unis pour Azincourt",
+      "libelle_abrege_liste": "Unis pour Azincourt",
+      "nuance_liste": null,
+      "voix": 124,
+      "pct_voix_exprimes": 60.49,
+      "sieges_cm": 9,
+      "sieges_cc": null,
+      "nb_elus": 9,
+      "tete_de_liste": {
+        "nom": "DALLERY",
+        "prenom": "Benoit",
+        "nom_complet": "Benoit DALLERY",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DALLERY",
+          "prenom": "Benoit",
+          "nom_complet": "Benoit DALLERY",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "JENNEQUIN",
+          "prenom": "Laetitia",
+          "nom_complet": "Laetitia JENNEQUIN",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "POCLET",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas POCLET",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "ROSEUW",
+          "prenom": "Brigitte",
+          "nom_complet": "Brigitte ROSEUW",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DE CHABOT",
+          "prenom": "Eric",
+          "nom_complet": "Eric DE CHABOT",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "FREVAQUE",
+          "prenom": "Helene",
+          "nom_complet": "Helene FREVAQUE",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "LABURE",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal LABURE",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "HORN",
+          "prenom": "Jessica",
+          "nom_complet": "Jessica HORN",
+          "sexe": "F",
+          "age": 31,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "PETITBOIS",
+          "prenom": "Hubert",
+          "nom_complet": "Hubert PETITBOIS",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "9"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "AZINCOURT, TOUJOURS",
+      "libelle_abrege_liste": "AZINCOURT, TOUJOURS",
+      "nuance_liste": null,
+      "voix": 81,
+      "pct_voix_exprimes": 39.51,
+      "sieges_cm": 2,
+      "sieges_cc": null,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "THÉRET",
+        "prenom": "Francine",
+        "nom_complet": "Francine THÉRET",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "THÉRET",
+          "prenom": "Francine",
+          "nom_complet": "Francine THÉRET",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "GALLET",
+          "prenom": "Gaston",
+          "nom_complet": "Gaston GALLET",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

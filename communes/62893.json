@@ -1,0 +1,315 @@
+{
+  "code_commune": "62893",
+  "commune": "Wimereux",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "DUBAËLE",
+    "prenom": "Jean-Luc",
+    "nom_complet": "Jean-Luc DUBAËLE",
+    "age": 59,
+    "nuance": "LDVC"
+  },
+  "resultats": {
+    "inscrits": 5906,
+    "votants": 3621,
+    "pct_votants": 61.31,
+    "abstentions": 2285,
+    "pct_abstentions": 38.69,
+    "exprimes": 3531
+  },
+  "listes": [
+    {
+      "num_panneau": "3",
+      "libelle_liste": "WIMEREUX POUR TOUS",
+      "libelle_abrege_liste": "WIMEREUX POUR TOUS",
+      "nuance_liste": "LDVC",
+      "voix": 1898,
+      "pct_voix_exprimes": 53.75,
+      "sieges_cm": 23,
+      "sieges_cc": 3,
+      "nb_elus": 23,
+      "tete_de_liste": {
+        "nom": "DUBAËLE",
+        "prenom": "Jean-Luc",
+        "nom_complet": "Jean-Luc DUBAËLE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DUBAËLE",
+          "prenom": "Jean-Luc",
+          "nom_complet": "Jean-Luc DUBAËLE",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DUQUESNE",
+          "prenom": "Cécile",
+          "nom_complet": "Cécile DUQUESNE",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BOUTLEUX",
+          "prenom": "Guy",
+          "nom_complet": "Guy BOUTLEUX",
+          "sexe": "M",
+          "age": 75,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BONJOUR ROUSSEAU",
+          "prenom": "Marie-José",
+          "nom_complet": "Marie-José BONJOUR ROUSSEAU",
+          "sexe": "F",
+          "age": 70,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "CAILLIER",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe CAILLIER",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "FOURNY",
+          "prenom": "Micheline",
+          "nom_complet": "Micheline FOURNY",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DEVIN",
+          "prenom": "Serge",
+          "nom_complet": "Serge DEVIN",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "COLL",
+          "prenom": "Helene",
+          "nom_complet": "Helene COLL",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DUBRULLE",
+          "prenom": "Marc",
+          "nom_complet": "Marc DUBRULLE",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "BRICHE",
+          "prenom": "Noemie",
+          "nom_complet": "Noemie BRICHE",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "SAMUEL",
+          "prenom": "Jean-Michel",
+          "nom_complet": "Jean-Michel SAMUEL",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "BAILLARD",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie BAILLARD",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "LELEU",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno LELEU",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "POUBLON",
+          "prenom": "Marie-Simone",
+          "nom_complet": "Marie-Simone POUBLON",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "ARBLAY",
+          "prenom": "Bertrand",
+          "nom_complet": "Bertrand ARBLAY",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "MERGLEN",
+          "prenom": "Pierrette",
+          "nom_complet": "Pierrette MERGLEN",
+          "sexe": "F",
+          "age": 72,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "SENECAL",
+          "prenom": "Maxime",
+          "nom_complet": "Maxime SENECAL",
+          "sexe": "M",
+          "age": 33,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "BERNARD",
+          "prenom": "Sabine",
+          "nom_complet": "Sabine BERNARD",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "GHEZAL",
+          "prenom": "Mehdi",
+          "nom_complet": "Mehdi GHEZAL",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "NOURTIER",
+          "prenom": "Fabienne",
+          "nom_complet": "Fabienne NOURTIER",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "BOISLEUX",
+          "prenom": "Arthur",
+          "nom_complet": "Arthur BOISLEUX",
+          "sexe": "M",
+          "age": 32,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "HARDUIN",
+          "prenom": "Loetitia",
+          "nom_complet": "Loetitia HARDUIN",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "DESPIERRE",
+          "prenom": "Christian",
+          "nom_complet": "Christian DESPIERRE",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "23"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "WIMEREUX 2026-2032",
+      "libelle_abrege_liste": "WIMEREUX 2026-2032",
+      "nuance_liste": "LDVC",
+      "voix": 908,
+      "pct_voix_exprimes": 25.72,
+      "sieges_cm": 3,
+      "sieges_cc": 0,
+      "nb_elus": 3,
+      "tete_de_liste": {
+        "nom": "GIRES",
+        "prenom": "Jean-Christophe",
+        "nom_complet": "Jean-Christophe GIRES",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "GIRES",
+          "prenom": "Jean-Christophe",
+          "nom_complet": "Jean-Christophe GIRES",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BARDEAUX",
+          "prenom": "Sandrine",
+          "nom_complet": "Sandrine BARDEAUX",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "JOUGLEUX",
+          "prenom": "Jean-Luc",
+          "nom_complet": "Jean-Luc JOUGLEUX",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "3"
+        }
+      ],
+      "statut_conseil": "autre"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "WIMEREUSIENS AVEC VOUS POUR VOUS",
+      "libelle_abrege_liste": "WIMEREUSIENS AVEC VOUS POUR VOUS",
+      "nuance_liste": "LDVG",
+      "voix": 725,
+      "pct_voix_exprimes": 20.53,
+      "sieges_cm": 3,
+      "sieges_cc": 0,
+      "nb_elus": 3,
+      "tete_de_liste": {
+        "nom": "SERGENT",
+        "prenom": "Didier",
+        "nom_complet": "Didier SERGENT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "SERGENT",
+          "prenom": "Didier",
+          "nom_complet": "Didier SERGENT",
+          "sexe": "M",
+          "age": 75,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LAIFA",
+          "prenom": "Oriane",
+          "nom_complet": "Oriane LAIFA",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "MORBIDELLI",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe MORBIDELLI",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "3"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

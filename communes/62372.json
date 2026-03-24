@@ -1,0 +1,131 @@
+{
+  "code_commune": "62372",
+  "commune": "Givenchy-le-Noble",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "LEFEBVRE",
+    "prenom": "Philippe",
+    "nom_complet": "Philippe LEFEBVRE",
+    "age": 71,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 132,
+    "votants": 88,
+    "pct_votants": 66.67,
+    "abstentions": 44,
+    "pct_abstentions": 33.33,
+    "exprimes": 70
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ENSEMBLE POUR GIVENCHY",
+      "libelle_abrege_liste": "ENSEMBLE POUR GIVENCHY",
+      "nuance_liste": null,
+      "voix": 70,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "LEFEBVRE",
+        "prenom": "Philippe",
+        "nom_complet": "Philippe LEFEBVRE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LEFEBVRE",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe LEFEBVRE",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "COUSIN",
+          "prenom": "Jeanne-Marie",
+          "nom_complet": "Jeanne-Marie COUSIN",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "CARON",
+          "prenom": "Cédric",
+          "nom_complet": "Cédric CARON",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DEBRY DE LA BRESTESCHE",
+          "prenom": "Marie",
+          "nom_complet": "Marie DEBRY DE LA BRESTESCHE",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DELANNOY",
+          "prenom": "Jean-François",
+          "nom_complet": "Jean-François DELANNOY",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DIEVAL",
+          "prenom": "Marie-Paule",
+          "nom_complet": "Marie-Paule DIEVAL",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DUCATEZ",
+          "prenom": "Samuel",
+          "nom_complet": "Samuel DUCATEZ",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "MERCHEZ",
+          "prenom": "Marie-Noëlle",
+          "nom_complet": "Marie-Noëlle MERCHEZ",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "MONCHY",
+          "prenom": "Jean-Paul",
+          "nom_complet": "Jean-Paul MONCHY",
+          "sexe": "M",
+          "age": 76,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "WACHEUX",
+          "prenom": "Sophie",
+          "nom_complet": "Sophie WACHEUX",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "ROGIEZ",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe ROGIEZ",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

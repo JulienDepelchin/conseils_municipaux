@@ -1,0 +1,163 @@
+{
+  "code_commune": "62325",
+  "commune": "Fauquembergues",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "MEQUIGNON",
+    "prenom": "Alain",
+    "nom_complet": "Alain MEQUIGNON",
+    "age": 69,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 657,
+    "votants": 440,
+    "pct_votants": 66.97,
+    "abstentions": 217,
+    "pct_abstentions": 33.03,
+    "exprimes": 338
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Rassembler et Agir",
+      "libelle_abrege_liste": "Rassembler et Agir",
+      "nuance_liste": null,
+      "voix": 338,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "MEQUIGNON",
+        "prenom": "Alain",
+        "nom_complet": "Alain MEQUIGNON",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "MEQUIGNON",
+          "prenom": "Alain",
+          "nom_complet": "Alain MEQUIGNON",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DIEUDONNE",
+          "prenom": "Cathy",
+          "nom_complet": "Cathy DIEUDONNE",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "MAUFFAIT",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno MAUFFAIT",
+          "sexe": "M",
+          "age": 74,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DESANGLOIS",
+          "prenom": "Marie-Claire",
+          "nom_complet": "Marie-Claire DESANGLOIS",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "SCHRYVE",
+          "prenom": "Roger",
+          "nom_complet": "Roger SCHRYVE",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "FLOURET",
+          "prenom": "Elodie",
+          "nom_complet": "Elodie FLOURET",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "PETIT",
+          "prenom": "Jean-Philippe",
+          "nom_complet": "Jean-Philippe PETIT",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "HURTEVENT",
+          "prenom": "Sophie",
+          "nom_complet": "Sophie HURTEVENT",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "BARRAS",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric BARRAS",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DENEUVILLE",
+          "prenom": "Laura",
+          "nom_complet": "Laura DENEUVILLE",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "QUESTE",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe QUESTE",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "DALLONGEVILLE",
+          "prenom": "Sigrid",
+          "nom_complet": "Sigrid DALLONGEVILLE",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "BRICHE",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe BRICHE",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "CHABE",
+          "prenom": "Laura",
+          "nom_complet": "Laura CHABE",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "DESANGLOIS",
+          "prenom": "Ludovic",
+          "nom_complet": "Ludovic DESANGLOIS",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "code_commune": "62260",
+  "commune": "Croix-en-Ternois",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "BÉRON",
+    "prenom": "Régis",
+    "nom_complet": "Régis BÉRON",
+    "age": 64,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 241,
+    "votants": 140,
+    "pct_votants": 58.09,
+    "abstentions": 101,
+    "pct_abstentions": 41.91,
+    "exprimes": 127
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Ensemble",
+      "libelle_abrege_liste": "Ensemble",
+      "nuance_liste": null,
+      "voix": 127,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "BÉRON",
+        "prenom": "Régis",
+        "nom_complet": "Régis BÉRON",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BÉRON",
+          "prenom": "Régis",
+          "nom_complet": "Régis BÉRON",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "PIGOUCHE",
+          "prenom": "Corinne",
+          "nom_complet": "Corinne PIGOUCHE",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "SOYEZ",
+          "prenom": "Cédric",
+          "nom_complet": "Cédric SOYEZ",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DAVAINE",
+          "prenom": "Aurélie",
+          "nom_complet": "Aurélie DAVAINE",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "CLIQUET",
+          "prenom": "Alain",
+          "nom_complet": "Alain CLIQUET",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "PETIT",
+          "prenom": "Agnès",
+          "nom_complet": "Agnès PETIT",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "LEMAHIEU",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe LEMAHIEU",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "CAMBRON",
+          "prenom": "Margaux",
+          "nom_complet": "Margaux CAMBRON",
+          "sexe": "F",
+          "age": 28,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "FROMENTEL",
+          "prenom": "Mickaël",
+          "nom_complet": "Mickaël FROMENTEL",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "ROLOFF",
+          "prenom": "Marie-José",
+          "nom_complet": "Marie-José ROLOFF",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "PAUMELLE",
+          "prenom": "Julien",
+          "nom_complet": "Julien PAUMELLE",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

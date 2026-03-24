@@ -1,0 +1,389 @@
+{
+  "code_commune": "62498",
+  "commune": "Lens",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "ROBERT",
+    "prenom": "Sylvain",
+    "nom_complet": "Sylvain ROBERT",
+    "age": 53,
+    "nuance": "LUG"
+  },
+  "resultats": {
+    "inscrits": 22560,
+    "votants": 11546,
+    "pct_votants": 51.18,
+    "abstentions": 11014,
+    "pct_abstentions": 48.82,
+    "exprimes": 11306
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "LENS TOUJOURS",
+      "libelle_abrege_liste": "LENS TOUJOURS",
+      "nuance_liste": "LUG",
+      "voix": 5734,
+      "pct_voix_exprimes": 50.72,
+      "sieges_cm": 30,
+      "sieges_cc": 9,
+      "nb_elus": 30,
+      "tete_de_liste": {
+        "nom": "ROBERT",
+        "prenom": "Sylvain",
+        "nom_complet": "Sylvain ROBERT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "ROBERT",
+          "prenom": "Sylvain",
+          "nom_complet": "Sylvain ROBERT",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "AIT-CHIKHEBBIH",
+          "prenom": "Fatima",
+          "nom_complet": "Fatima AIT-CHIKHEBBIH",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LANNOY",
+          "prenom": "Sebastien",
+          "nom_complet": "Sebastien LANNOY",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "KAUFMANN",
+          "prenom": "Sophie",
+          "nom_complet": "Sophie KAUFMANN",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "OUDJANI",
+          "prenom": "Chérif",
+          "nom_complet": "Chérif OUDJANI",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "GLEMBA",
+          "prenom": "Virginie",
+          "nom_complet": "Virginie GLEMBA",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "COURCOL",
+          "prenom": "Pierre-Yves",
+          "nom_complet": "Pierre-Yves COURCOL",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "ESSAIDI",
+          "prenom": "Ines",
+          "nom_complet": "Ines ESSAIDI",
+          "sexe": "F",
+          "age": 27,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "HANON",
+          "prenom": "Jean-Pierre",
+          "nom_complet": "Jean-Pierre HANON",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DAVID",
+          "prenom": "Adeline",
+          "nom_complet": "Adeline DAVID",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "CECAK",
+          "prenom": "Jean-François",
+          "nom_complet": "Jean-François CECAK",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "MEPHU NGUIFO",
+          "prenom": "Laure",
+          "nom_complet": "Laure MEPHU NGUIFO",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "DESOUTTER",
+          "prenom": "Jean-Christophe",
+          "nom_complet": "Jean-Christophe DESOUTTER",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "PETERSEN",
+          "prenom": "Melissa",
+          "nom_complet": "Melissa PETERSEN",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "LOURDEL",
+          "prenom": "Jordan",
+          "nom_complet": "Jordan LOURDEL",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "CORRE",
+          "prenom": "Hélène",
+          "nom_complet": "Hélène CORRE",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "GHEYSENS",
+          "prenom": "Thibault",
+          "nom_complet": "Thibault GHEYSENS",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "BARBAUT",
+          "prenom": "Maryse",
+          "nom_complet": "Maryse BARBAUT",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "DAUBRESSE",
+          "prenom": "Thierry",
+          "nom_complet": "Thierry DAUBRESSE",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "DEGOUVE",
+          "prenom": "Ludivine",
+          "nom_complet": "Ludivine DEGOUVE",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "WATTIER",
+          "prenom": "Antoine",
+          "nom_complet": "Antoine WATTIER",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "BRAET",
+          "prenom": "Patricia",
+          "nom_complet": "Patricia BRAET",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "MAZURE",
+          "prenom": "Pierre",
+          "nom_complet": "Pierre MAZURE",
+          "sexe": "M",
+          "age": 79,
+          "rang_liste": "23"
+        },
+        {
+          "nom": "ROPERTO",
+          "prenom": "Armelle",
+          "nom_complet": "Armelle ROPERTO",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "24"
+        },
+        {
+          "nom": "NYCZ",
+          "prenom": "Francis",
+          "nom_complet": "Francis NYCZ",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "25"
+        },
+        {
+          "nom": "LAGNIEZ",
+          "prenom": "Sandrine",
+          "nom_complet": "Sandrine LAGNIEZ",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "26"
+        },
+        {
+          "nom": "BOUKERCHA",
+          "prenom": "Farid",
+          "nom_complet": "Farid BOUKERCHA",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "27"
+        },
+        {
+          "nom": "DUPUIS",
+          "prenom": "Sonia",
+          "nom_complet": "Sonia DUPUIS",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "28"
+        },
+        {
+          "nom": "BILLEBAULT",
+          "prenom": "Mickael",
+          "nom_complet": "Mickael BILLEBAULT",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "29"
+        },
+        {
+          "nom": "NION",
+          "prenom": "Christiane",
+          "nom_complet": "Christiane NION",
+          "sexe": "F",
+          "age": 74,
+          "rang_liste": "30"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "3",
+      "libelle_liste": "ENSEMBLE SAUVONS LENS !",
+      "libelle_abrege_liste": "ENSEMBLE SAUVONS LENS !",
+      "nuance_liste": "LRN",
+      "voix": 5256,
+      "pct_voix_exprimes": 46.49,
+      "sieges_cm": 9,
+      "sieges_cc": 2,
+      "nb_elus": 9,
+      "tete_de_liste": {
+        "nom": "CLAVET",
+        "prenom": "Bruno",
+        "nom_complet": "Bruno CLAVET",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "CLAVET",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno CLAVET",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "COROENNE",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle COROENNE",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "OZOG",
+          "prenom": "Maxime",
+          "nom_complet": "Maxime OZOG",
+          "sexe": "M",
+          "age": 30,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "ZAVODSZKI",
+          "prenom": "Virginie",
+          "nom_complet": "Virginie ZAVODSZKI",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "AUDANT",
+          "prenom": "Alexis",
+          "nom_complet": "Alexis AUDANT",
+          "sexe": "M",
+          "age": 33,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LAUWERS",
+          "prenom": "Frédérique",
+          "nom_complet": "Frédérique LAUWERS",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "PONTHIEU",
+          "prenom": "Jonathan",
+          "nom_complet": "Jonathan PONTHIEU",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "MAY",
+          "prenom": "Marie",
+          "nom_complet": "Marie MAY",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DE SCHEPPER",
+          "prenom": "Serge",
+          "nom_complet": "Serge DE SCHEPPER",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "9"
+        }
+      ],
+      "statut_conseil": "autre"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "Lutte ouvrière - Le camp des travailleurs",
+      "libelle_abrege_liste": "Lutte ouvrière - Le camp des travailleurs",
+      "nuance_liste": "LEXG",
+      "voix": 316,
+      "pct_voix_exprimes": 2.79,
+      "sieges_cm": 0,
+      "sieges_cc": 0,
+      "nb_elus": 0,
+      "tete_de_liste": null,
+      "elus": [],
+      "statut_conseil": "sans_elu"
+    }
+  ]
+}

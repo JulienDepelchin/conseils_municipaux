@@ -1,0 +1,299 @@
+{
+  "code_commune": "59160",
+  "commune": "Crespin",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "GOLINVAL",
+    "prenom": "Philippe",
+    "nom_complet": "Philippe GOLINVAL",
+    "age": 53,
+    "nuance": "LDVD"
+  },
+  "resultats": {
+    "inscrits": 3184,
+    "votants": 1912,
+    "pct_votants": 60.05,
+    "abstentions": 1272,
+    "pct_abstentions": 39.95,
+    "exprimes": 1869
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "CRESPIN SE CONSTRUIT AVEC VOUS ! CONTINUONS ENSEMBLE !",
+      "libelle_abrege_liste": "CRESPIN SE CONSTRUIT AVEC VOUS ! CONTINUONS ENSEMBLE !",
+      "nuance_liste": "LDVD",
+      "voix": 1225,
+      "pct_voix_exprimes": 65.54,
+      "sieges_cm": 23,
+      "sieges_cc": 2,
+      "nb_elus": 23,
+      "tete_de_liste": {
+        "nom": "GOLINVAL",
+        "prenom": "Philippe",
+        "nom_complet": "Philippe GOLINVAL",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "GOLINVAL",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe GOLINVAL",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "ROUSSEL",
+          "prenom": "Stephanie",
+          "nom_complet": "Stephanie ROUSSEL",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "COLLET",
+          "prenom": "Eric",
+          "nom_complet": "Eric COLLET",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "ANSART",
+          "prenom": "Melanie",
+          "nom_complet": "Melanie ANSART",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "NOISETTE",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick NOISETTE",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "TOURNAY",
+          "prenom": "Sabine",
+          "nom_complet": "Sabine TOURNAY",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "WALLOT",
+          "prenom": "Geoffrey",
+          "nom_complet": "Geoffrey WALLOT",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "MANNINO",
+          "prenom": "Stephanie",
+          "nom_complet": "Stephanie MANNINO",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "SAHLI",
+          "prenom": "Sadreddine",
+          "nom_complet": "Sadreddine SAHLI",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DELAIRE",
+          "prenom": "Emeline",
+          "nom_complet": "Emeline DELAIRE",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "LIENARD",
+          "prenom": "Matthieu",
+          "nom_complet": "Matthieu LIENARD",
+          "sexe": "M",
+          "age": 25,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "HOCQUAUX",
+          "prenom": "Farida",
+          "nom_complet": "Farida HOCQUAUX",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "PICHON",
+          "prenom": "Maxime",
+          "nom_complet": "Maxime PICHON",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "BRONSART",
+          "prenom": "Estelle",
+          "nom_complet": "Estelle BRONSART",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "GARY",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas GARY",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "DEMORTIER",
+          "prenom": "Lea",
+          "nom_complet": "Lea DEMORTIER",
+          "sexe": "F",
+          "age": 31,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "LEBON",
+          "prenom": "Kevin",
+          "nom_complet": "Kevin LEBON",
+          "sexe": "M",
+          "age": 34,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "LANNOY",
+          "prenom": "Aude",
+          "nom_complet": "Aude LANNOY",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "CARREZ",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier CARREZ",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "LORGE",
+          "prenom": "Margaux",
+          "nom_complet": "Margaux LORGE",
+          "sexe": "F",
+          "age": 31,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "BOTTIAU",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe BOTTIAU",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "DUBOIS",
+          "prenom": "Anne-Lise",
+          "nom_complet": "Anne-Lise DUBOIS",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "WALLERAND",
+          "prenom": "Jeremy",
+          "nom_complet": "Jeremy WALLERAND",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "23"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "3",
+      "libelle_liste": "TOUS UNIS POUR CRESPIN",
+      "libelle_abrege_liste": "TOUS UNIS POUR CRESPIN",
+      "nuance_liste": "LDVD",
+      "voix": 494,
+      "pct_voix_exprimes": 26.43,
+      "sieges_cm": 3,
+      "sieges_cc": 0,
+      "nb_elus": 3,
+      "tete_de_liste": {
+        "nom": "ADAM",
+        "prenom": "Pascal",
+        "nom_complet": "Pascal ADAM",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "ADAM",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal ADAM",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "CABAREZ",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie CABAREZ",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "MOREAU",
+          "prenom": "Pierre",
+          "nom_complet": "Pierre MOREAU",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "3"
+        }
+      ],
+      "statut_conseil": "autre"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "CRESPIN D'ANTAN POUR DEMAIN",
+      "libelle_abrege_liste": "CRESPIN D'ANTAN POUR DEMAIN",
+      "nuance_liste": "LDVD",
+      "voix": 150,
+      "pct_voix_exprimes": 8.03,
+      "sieges_cm": 1,
+      "sieges_cc": 0,
+      "nb_elus": 1,
+      "tete_de_liste": {
+        "nom": "DEMARCQ",
+        "prenom": "Erik",
+        "nom_complet": "Erik DEMARCQ",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DEMARCQ",
+          "prenom": "Erik",
+          "nom_complet": "Erik DEMARCQ",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "1"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "code_commune": "62622",
+  "commune": "Nort-Leulinghem",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "BRAME",
+    "prenom": "Jean-Marie",
+    "nom_complet": "Jean-Marie BRAME",
+    "age": 64,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 178,
+    "votants": 139,
+    "pct_votants": 78.09,
+    "abstentions": 39,
+    "pct_abstentions": 21.91,
+    "exprimes": 134
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ENSEMBLE AU COEUR DE NORT-LEULINGHEM",
+      "libelle_abrege_liste": "ENSEMBLE AU COEUR DE NORT-LEULINGHEM",
+      "nuance_liste": null,
+      "voix": 134,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "BRAME",
+        "prenom": "Jean-Marie",
+        "nom_complet": "Jean-Marie BRAME",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BRAME",
+          "prenom": "Jean-Marie",
+          "nom_complet": "Jean-Marie BRAME",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "VENACQUE",
+          "prenom": "Régine",
+          "nom_complet": "Régine VENACQUE",
+          "sexe": "F",
+          "age": 71,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LECOCQ",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique LECOCQ",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DELHAYE",
+          "prenom": "Ludivine",
+          "nom_complet": "Ludivine DELHAYE",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "NOEL",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe NOEL",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "ROUSSELLE",
+          "prenom": "Karine",
+          "nom_complet": "Karine ROUSSELLE",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "FOVET",
+          "prenom": "Patrice",
+          "nom_complet": "Patrice FOVET",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LEROY",
+          "prenom": "Audrey",
+          "nom_complet": "Audrey LEROY",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "BATTEL",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas BATTEL",
+          "sexe": "M",
+          "age": 34,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DEMARTHE",
+          "prenom": "Laurie",
+          "nom_complet": "Laurie DEMARTHE",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "HANNEDOUCHE",
+          "prenom": "Charles",
+          "nom_complet": "Charles HANNEDOUCHE",
+          "sexe": "M",
+          "age": 26,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

@@ -1,0 +1,427 @@
+{
+  "code_commune": "62160",
+  "commune": "Boulogne-sur-Mer",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "CUVILLIER",
+    "prenom": "Frédéric",
+    "nom_complet": "Frédéric CUVILLIER",
+    "age": 57,
+    "nuance": "LSOC"
+  },
+  "resultats": {
+    "inscrits": 25930,
+    "votants": 13232,
+    "pct_votants": 51.03,
+    "abstentions": 12698,
+    "pct_abstentions": 48.97,
+    "exprimes": 12879
+  },
+  "listes": [
+    {
+      "num_panneau": "3",
+      "libelle_liste": "BOULOGNE PLUS LOIN, PLUS FORT AVEC FREDERIC CUVILLIER",
+      "libelle_abrege_liste": "BOULOGNE PLUS LOIN, PLUS FORT AVEC FREDERIC CUVILLIER",
+      "nuance_liste": "LSOC",
+      "voix": 6947,
+      "pct_voix_exprimes": 53.94,
+      "sieges_cm": 34,
+      "sieges_cc": 17,
+      "nb_elus": 34,
+      "tete_de_liste": {
+        "nom": "CUVILLIER",
+        "prenom": "Frédéric",
+        "nom_complet": "Frédéric CUVILLIER",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "CUVILLIER",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric CUVILLIER",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "HINGREZ-CÉRÉDA",
+          "prenom": "Mireille",
+          "nom_complet": "Mireille HINGREZ-CÉRÉDA",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "ETIENNE",
+          "prenom": "Jean-Claude",
+          "nom_complet": "Jean-Claude ETIENNE",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LE LAN",
+          "prenom": "Anne",
+          "nom_complet": "Anne LE LAN",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "CHAMPIONNET",
+          "prenom": "Julien",
+          "nom_complet": "Julien CHAMPIONNET",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "MAILLARD",
+          "prenom": "Lucie",
+          "nom_complet": "Lucie MAILLARD",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "SUSLAMARE",
+          "prenom": "Grégory",
+          "nom_complet": "Grégory SUSLAMARE",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "BIGOT",
+          "prenom": "Frédérique",
+          "nom_complet": "Frédérique BIGOT",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "COUQUET",
+          "prenom": "Claude",
+          "nom_complet": "Claude COUQUET",
+          "sexe": "M",
+          "age": 75,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "LAPLACE-MANIER",
+          "prenom": "Roselyne",
+          "nom_complet": "Roselyne LAPLACE-MANIER",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "VACHE",
+          "prenom": "Jean-Marie",
+          "nom_complet": "Jean-Marie VACHE",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "JORDENS",
+          "prenom": "Evelyne",
+          "nom_complet": "Evelyne JORDENS",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "HOCHART",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe HOCHART",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "RIOUST",
+          "prenom": "Valérie",
+          "nom_complet": "Valérie RIOUST",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "LEBLOND",
+          "prenom": "Guillaume",
+          "nom_complet": "Guillaume LEBLOND",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "RITAINE-MARTEL",
+          "prenom": "Julie",
+          "nom_complet": "Julie RITAINE-MARTEL",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "DHUEME",
+          "prenom": "Keven",
+          "nom_complet": "Keven DHUEME",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "LANCEZEUX",
+          "prenom": "Cassandra",
+          "nom_complet": "Cassandra LANCEZEUX",
+          "sexe": "F",
+          "age": 31,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "CROQUELOIS",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno CROQUELOIS",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "BUTTI",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle BUTTI",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "LEMAIRE",
+          "prenom": "Alexandre",
+          "nom_complet": "Alexandre LEMAIRE",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "WANPOUILLE",
+          "prenom": "Béatrice",
+          "nom_complet": "Béatrice WANPOUILLE",
+          "sexe": "F",
+          "age": 70,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "PATIN",
+          "prenom": "Clément",
+          "nom_complet": "Clément PATIN",
+          "sexe": "M",
+          "age": 31,
+          "rang_liste": "23"
+        },
+        {
+          "nom": "TOUSSENT",
+          "prenom": "Marina",
+          "nom_complet": "Marina TOUSSENT",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "24"
+        },
+        {
+          "nom": "DUBOIS",
+          "prenom": "Eric-Louis",
+          "nom_complet": "Eric-Louis DUBOIS",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "25"
+        },
+        {
+          "nom": "LHEUREUX",
+          "prenom": "Pascaline",
+          "nom_complet": "Pascaline LHEUREUX",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "26"
+        },
+        {
+          "nom": "RIVENEZ",
+          "prenom": "Jimmy",
+          "nom_complet": "Jimmy RIVENEZ",
+          "sexe": "M",
+          "age": 30,
+          "rang_liste": "27"
+        },
+        {
+          "nom": "DUTERTE",
+          "prenom": "Fabienne",
+          "nom_complet": "Fabienne DUTERTE",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "28"
+        },
+        {
+          "nom": "CLECH",
+          "prenom": "Regis-Hubert",
+          "nom_complet": "Regis-Hubert CLECH",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "29"
+        },
+        {
+          "nom": "FOUQUET",
+          "prenom": "Martine",
+          "nom_complet": "Martine FOUQUET",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "30"
+        },
+        {
+          "nom": "FOURNIER",
+          "prenom": "Cyril",
+          "nom_complet": "Cyril FOURNIER",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "31"
+        },
+        {
+          "nom": "LEPRETRE",
+          "prenom": "Aurélie",
+          "nom_complet": "Aurélie LEPRETRE",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "32"
+        },
+        {
+          "nom": "BLAISEL",
+          "prenom": "Serge",
+          "nom_complet": "Serge BLAISEL",
+          "sexe": "M",
+          "age": 74,
+          "rang_liste": "33"
+        },
+        {
+          "nom": "LEGRIS",
+          "prenom": "Héléne",
+          "nom_complet": "Héléne LEGRIS",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "34"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "UN AVENIR POUR BOULOGNE-SUR-MER",
+      "libelle_abrege_liste": "UN AVENIR POUR BOULOGNE-SUR-MER",
+      "nuance_liste": "LRN",
+      "voix": 4225,
+      "pct_voix_exprimes": 32.81,
+      "sieges_cm": 7,
+      "sieges_cc": 3,
+      "nb_elus": 7,
+      "tete_de_liste": {
+        "nom": "GOLLIOT",
+        "prenom": "Antoine",
+        "nom_complet": "Antoine GOLLIOT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "GOLLIOT",
+          "prenom": "Antoine",
+          "nom_complet": "Antoine GOLLIOT",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LEDOUX",
+          "prenom": "Julie",
+          "nom_complet": "Julie LEDOUX",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "PAMART",
+          "prenom": "Thomas",
+          "nom_complet": "Thomas PAMART",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DEPRE",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie DEPRE",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "MARRIE",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno MARRIE",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "VAN STEENLANT",
+          "prenom": "Jeanine",
+          "nom_complet": "Jeanine VAN STEENLANT",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "LEBRAN",
+          "prenom": "Cyriaque",
+          "nom_complet": "Cyriaque LEBRAN",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "7"
+        }
+      ],
+      "statut_conseil": "autre"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ELAN CITOYEN BOULONNAIS",
+      "libelle_abrege_liste": "ELAN CITOYEN BOULONNAIS",
+      "nuance_liste": "LDVG",
+      "voix": 1707,
+      "pct_voix_exprimes": 13.25,
+      "sieges_cm": 2,
+      "sieges_cc": 1,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "LEGRAND",
+        "prenom": "Baptiste",
+        "nom_complet": "Baptiste LEGRAND",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LEGRAND",
+          "prenom": "Baptiste",
+          "nom_complet": "Baptiste LEGRAND",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "COQUELAERE",
+          "prenom": "Paty",
+          "nom_complet": "Paty COQUELAERE",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

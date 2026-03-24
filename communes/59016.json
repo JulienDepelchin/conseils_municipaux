@@ -1,0 +1,195 @@
+{
+  "code_commune": "59016",
+  "commune": "Armbouts-Cappel",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "AVERLANT",
+    "prenom": "Pierre",
+    "nom_complet": "Pierre AVERLANT",
+    "age": 63,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1883,
+    "votants": 1108,
+    "pct_votants": 58.84,
+    "abstentions": 775,
+    "pct_abstentions": 41.16,
+    "exprimes": 972
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "donnons de l'élan à un village grandissant",
+      "libelle_abrege_liste": "DEVG",
+      "nuance_liste": null,
+      "voix": 972,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 19,
+      "sieges_cc": 1,
+      "nb_elus": 19,
+      "tete_de_liste": {
+        "nom": "AVERLANT",
+        "prenom": "Pierre",
+        "nom_complet": "Pierre AVERLANT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "AVERLANT",
+          "prenom": "Pierre",
+          "nom_complet": "Pierre AVERLANT",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "PORREAUX",
+          "prenom": "Fabienne",
+          "nom_complet": "Fabienne PORREAUX",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "VANMARQUE",
+          "prenom": "David",
+          "nom_complet": "David VANMARQUE",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "PADIÉ-GICHTENAERE",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle PADIÉ-GICHTENAERE",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "FAUQUET",
+          "prenom": "Ludovic Francis Louis",
+          "nom_complet": "Ludovic Francis Louis FAUQUET",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LAGATIE",
+          "prenom": "Véronique",
+          "nom_complet": "Véronique LAGATIE",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "SETOLA",
+          "prenom": "Elio",
+          "nom_complet": "Elio SETOLA",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LEMAIRE",
+          "prenom": "Louise Andrée Marcelle",
+          "nom_complet": "Louise Andrée Marcelle LEMAIRE",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "OSSELEZ",
+          "prenom": "Thierry",
+          "nom_complet": "Thierry OSSELEZ",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "BOIDIN",
+          "prenom": "Jessica Chantal Marguerite",
+          "nom_complet": "Jessica Chantal Marguerite BOIDIN",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "PADIÉ",
+          "prenom": "Joël Léon Kléber",
+          "nom_complet": "Joël Léon Kléber PADIÉ",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "DUTRY",
+          "prenom": "Maryline",
+          "nom_complet": "Maryline DUTRY",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "BLONDÉ",
+          "prenom": "Emmanuel",
+          "nom_complet": "Emmanuel BLONDÉ",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "GILLET",
+          "prenom": "Pauline Francine Justine",
+          "nom_complet": "Pauline Francine Justine GILLET",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "BAERT",
+          "prenom": "Sébastien",
+          "nom_complet": "Sébastien BAERT",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "MAGNÉ",
+          "prenom": "Sandrine",
+          "nom_complet": "Sandrine MAGNÉ",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "DELCROIX",
+          "prenom": "Sébastien",
+          "nom_complet": "Sébastien DELCROIX",
+          "sexe": "M",
+          "age": 32,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "CALOONE",
+          "prenom": "Lucie Véronique Marcelle",
+          "nom_complet": "Lucie Véronique Marcelle CALOONE",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "VANDENBILCKE",
+          "prenom": "Gaetan",
+          "nom_complet": "Gaetan VANDENBILCKE",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "19"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

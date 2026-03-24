@@ -1,0 +1,163 @@
+{
+  "code_commune": "62693",
+  "commune": "Rebreuve-Ranchicourt",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "STACH",
+    "prenom": "Grégory",
+    "nom_complet": "Grégory STACH",
+    "age": 51,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 906,
+    "votants": 620,
+    "pct_votants": 68.43,
+    "abstentions": 286,
+    "pct_abstentions": 31.57,
+    "exprimes": 545
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Fidèles à notre histoire Ensemble vers l'avenir",
+      "libelle_abrege_liste": "Fidèles à notre histoire Ensemble vers l'avenir",
+      "nuance_liste": null,
+      "voix": 545,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": 1,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "STACH",
+        "prenom": "Grégory",
+        "nom_complet": "Grégory STACH",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "STACH",
+          "prenom": "Grégory",
+          "nom_complet": "Grégory STACH",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DUBOIS",
+          "prenom": "Catherine",
+          "nom_complet": "Catherine DUBOIS",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BÉTHENCOURT",
+          "prenom": "Matthieu",
+          "nom_complet": "Matthieu BÉTHENCOURT",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "STANISLAWSKI",
+          "prenom": "Marie-Claude",
+          "nom_complet": "Marie-Claude STANISLAWSKI",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "VIANDIER",
+          "prenom": "Guillaume",
+          "nom_complet": "Guillaume VIANDIER",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "FRATCZAK",
+          "prenom": "Delfinne",
+          "nom_complet": "Delfinne FRATCZAK",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DELOMEZ",
+          "prenom": "Kévin",
+          "nom_complet": "Kévin DELOMEZ",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "PECQUEUR",
+          "prenom": "Véronique",
+          "nom_complet": "Véronique PECQUEUR",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "LETURCQ",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe LETURCQ",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "MILOSZYK",
+          "prenom": "Annie",
+          "nom_complet": "Annie MILOSZYK",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "MOUBAREK",
+          "prenom": "Anthony",
+          "nom_complet": "Anthony MOUBAREK",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "SINTIVE",
+          "prenom": "Christelle",
+          "nom_complet": "Christelle SINTIVE",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "HAZEBROUCK",
+          "prenom": "Paul",
+          "nom_complet": "Paul HAZEBROUCK",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "DESFONTAINES",
+          "prenom": "Julie",
+          "nom_complet": "Julie DESFONTAINES",
+          "sexe": "F",
+          "age": 24,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "OLIVIER",
+          "prenom": "Roger",
+          "nom_complet": "Roger OLIVIER",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

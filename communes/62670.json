@@ -1,0 +1,163 @@
+{
+  "code_commune": "62670",
+  "commune": "Preures",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "COFFRE",
+    "prenom": "Christophe",
+    "nom_complet": "Christophe COFFRE",
+    "age": 66,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 464,
+    "votants": 302,
+    "pct_votants": 65.09,
+    "abstentions": 162,
+    "pct_abstentions": 34.91,
+    "exprimes": 225
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Construire ensemble",
+      "libelle_abrege_liste": "Construire ensemble",
+      "nuance_liste": null,
+      "voix": 225,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "COFFRE",
+        "prenom": "Christophe",
+        "nom_complet": "Christophe COFFRE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "COFFRE",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe COFFRE",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BLERARD",
+          "prenom": "Hélène",
+          "nom_complet": "Hélène BLERARD",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "CREPIN",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier CREPIN",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "CHIM",
+          "prenom": "Cindy",
+          "nom_complet": "Cindy CHIM",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DACQUIN",
+          "prenom": "Vincent",
+          "nom_complet": "Vincent DACQUIN",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DERAT",
+          "prenom": "Valérie",
+          "nom_complet": "Valérie DERAT",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "FINDINIER",
+          "prenom": "Freddy",
+          "nom_complet": "Freddy FINDINIER",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "GAUTARD",
+          "prenom": "Karen",
+          "nom_complet": "Karen GAUTARD",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "KRZEMIANOWSKI",
+          "prenom": "Julien",
+          "nom_complet": "Julien KRZEMIANOWSKI",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "LAMBOROT",
+          "prenom": "Flavie",
+          "nom_complet": "Flavie LAMBOROT",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "LAMOUR",
+          "prenom": "Sylvain",
+          "nom_complet": "Sylvain LAMOUR",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "SOUDAIN",
+          "prenom": "Anne-Marie",
+          "nom_complet": "Anne-Marie SOUDAIN",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "LEFRANÇOIS",
+          "prenom": "Michaël",
+          "nom_complet": "Michaël LEFRANÇOIS",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "VASSEUR",
+          "prenom": "Cathy",
+          "nom_complet": "Cathy VASSEUR",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "LEMOR",
+          "prenom": "Damien",
+          "nom_complet": "Damien LEMOR",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

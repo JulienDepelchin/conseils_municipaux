@@ -1,0 +1,235 @@
+{
+  "code_commune": "59221",
+  "commune": "Famars",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "DUPIRE",
+    "prenom": "Véronique",
+    "nom_complet": "Véronique DUPIRE",
+    "age": 69,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1816,
+    "votants": 1204,
+    "pct_votants": 66.3,
+    "abstentions": 612,
+    "pct_abstentions": 33.7,
+    "exprimes": 1188
+  },
+  "listes": [
+    {
+      "num_panneau": "3",
+      "libelle_liste": "AGIR POUR FAMARS",
+      "libelle_abrege_liste": "AGIR POUR FAMARS",
+      "nuance_liste": null,
+      "voix": 620,
+      "pct_voix_exprimes": 52.19,
+      "sieges_cm": 15,
+      "sieges_cc": 1,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "DUPIRE",
+        "prenom": "Véronique",
+        "nom_complet": "Véronique DUPIRE",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "DUPIRE",
+          "prenom": "Véronique",
+          "nom_complet": "Véronique DUPIRE",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "CAILLIERET",
+          "prenom": "Jean",
+          "nom_complet": "Jean CAILLIERET",
+          "sexe": "M",
+          "age": 78,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "WUILMOT",
+          "prenom": "Annie",
+          "nom_complet": "Annie WUILMOT",
+          "sexe": "F",
+          "age": 73,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DE SAINT VAAST",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal DE SAINT VAAST",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "VAN GULCK DAUTEL",
+          "prenom": "Christine",
+          "nom_complet": "Christine VAN GULCK DAUTEL",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "MAILLARD",
+          "prenom": "Hervé",
+          "nom_complet": "Hervé MAILLARD",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "FRAMERY",
+          "prenom": "Annie",
+          "nom_complet": "Annie FRAMERY",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DUPIRE",
+          "prenom": "Paul",
+          "nom_complet": "Paul DUPIRE",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "PIERRI",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle PIERRI",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DELCOURT",
+          "prenom": "Sylvain",
+          "nom_complet": "Sylvain DELCOURT",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DELPORTE",
+          "prenom": "Laetitia",
+          "nom_complet": "Laetitia DELPORTE",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "LECLERCQ",
+          "prenom": "Régis",
+          "nom_complet": "Régis LECLERCQ",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "LOCTEAU",
+          "prenom": "Catherine",
+          "nom_complet": "Catherine LOCTEAU",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "PARMENTIER",
+          "prenom": "Hippolyte",
+          "nom_complet": "Hippolyte PARMENTIER",
+          "sexe": "M",
+          "age": 18,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "LORETTE",
+          "prenom": "Valérie",
+          "nom_complet": "Valérie LORETTE",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "UNIS POUR FAMARS",
+      "libelle_abrege_liste": "UNIS POUR FAMARS",
+      "nuance_liste": null,
+      "voix": 413,
+      "pct_voix_exprimes": 34.76,
+      "sieges_cm": 3,
+      "sieges_cc": 0,
+      "nb_elus": 3,
+      "tete_de_liste": {
+        "nom": "BRUNET",
+        "prenom": "Joël",
+        "nom_complet": "Joël BRUNET",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BRUNET",
+          "prenom": "Joël",
+          "nom_complet": "Joël BRUNET",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "CHAVALLE",
+          "prenom": "Leila",
+          "nom_complet": "Leila CHAVALLE",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "QUIEVREUX",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe QUIEVREUX",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "3"
+        }
+      ],
+      "statut_conseil": "autre"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "FAMARS RENOUVEAU",
+      "libelle_abrege_liste": "FAMARS RENOUVEAU",
+      "nuance_liste": null,
+      "voix": 155,
+      "pct_voix_exprimes": 13.05,
+      "sieges_cm": 1,
+      "sieges_cc": 0,
+      "nb_elus": 1,
+      "tete_de_liste": {
+        "nom": "FORTUNA",
+        "prenom": "Frédéric",
+        "nom_complet": "Frédéric FORTUNA",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "FORTUNA",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric FORTUNA",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "1"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

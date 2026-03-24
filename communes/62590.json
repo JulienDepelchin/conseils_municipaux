@@ -1,0 +1,99 @@
+{
+  "code_commune": "62590",
+  "commune": "Monts-en-Ternois",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "DELEAU",
+    "prenom": "François",
+    "nom_complet": "François DELEAU",
+    "age": 59,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 53,
+    "votants": 39,
+    "pct_votants": 73.58,
+    "abstentions": 14,
+    "pct_abstentions": 26.42,
+    "exprimes": 29
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Notre village, notre avenir",
+      "libelle_abrege_liste": "Notre village, notre avenir",
+      "nuance_liste": null,
+      "voix": 29,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 7,
+      "sieges_cc": null,
+      "nb_elus": 7,
+      "tete_de_liste": {
+        "nom": "DELEAU",
+        "prenom": "François",
+        "nom_complet": "François DELEAU",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DELEAU",
+          "prenom": "François",
+          "nom_complet": "François DELEAU",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "JOLLY",
+          "prenom": "Hélène",
+          "nom_complet": "Hélène JOLLY",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DERAMECOURT",
+          "prenom": "François",
+          "nom_complet": "François DERAMECOURT",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LEGER",
+          "prenom": "Perrine",
+          "nom_complet": "Perrine LEGER",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "PRUVOST",
+          "prenom": "Aurélien",
+          "nom_complet": "Aurélien PRUVOST",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DELEAU",
+          "prenom": "Sarah",
+          "nom_complet": "Sarah DELEAU",
+          "sexe": "F",
+          "age": 30,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DESAULTY",
+          "prenom": "Matthieu",
+          "nom_complet": "Matthieu DESAULTY",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "7"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

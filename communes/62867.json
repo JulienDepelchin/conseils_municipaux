@@ -1,0 +1,131 @@
+{
+  "code_commune": "62867",
+  "commune": "Wacquinghen",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "GAVOIS",
+    "prenom": "Denis",
+    "nom_complet": "Denis GAVOIS",
+    "age": 70,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 199,
+    "votants": 132,
+    "pct_votants": 66.33,
+    "abstentions": 67,
+    "pct_abstentions": 33.67,
+    "exprimes": 112
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "CONTINUONS ENSEMBLE POUR WACQUINGHEN",
+      "libelle_abrege_liste": "CONTINUONS ENSEMBLE POUR WACQUINGHEN",
+      "nuance_liste": null,
+      "voix": 112,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "GAVOIS",
+        "prenom": "Denis",
+        "nom_complet": "Denis GAVOIS",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "GAVOIS",
+          "prenom": "Denis",
+          "nom_complet": "Denis GAVOIS",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "GELDOF",
+          "prenom": "Lydie",
+          "nom_complet": "Lydie GELDOF",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "IVART",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier IVART",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "RAVIART",
+          "prenom": "Marine",
+          "nom_complet": "Marine RAVIART",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "PENIGUEL",
+          "prenom": "Raphaël",
+          "nom_complet": "Raphaël PENIGUEL",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "ATCHRIMI",
+          "prenom": "Nadège",
+          "nom_complet": "Nadège ATCHRIMI",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "LACHERE",
+          "prenom": "Ludovic",
+          "nom_complet": "Ludovic LACHERE",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DUPONT",
+          "prenom": "Perle",
+          "nom_complet": "Perle DUPONT",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DEWAS",
+          "prenom": "Thomas",
+          "nom_complet": "Thomas DEWAS",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "BOULY",
+          "prenom": "Solène",
+          "nom_complet": "Solène BOULY",
+          "sexe": "F",
+          "age": 33,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DUTERTRE",
+          "prenom": "Matthieu",
+          "nom_complet": "Matthieu DUTERTRE",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

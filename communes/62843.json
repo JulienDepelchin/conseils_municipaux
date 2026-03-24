@@ -1,0 +1,151 @@
+{
+  "code_commune": "62843",
+  "commune": "Verchin",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "DENOYELLE PRUVOST",
+    "prenom": "Florence",
+    "nom_complet": "Florence DENOYELLE PRUVOST",
+    "age": 43,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 183,
+    "votants": 171,
+    "pct_votants": 93.44,
+    "abstentions": 12,
+    "pct_abstentions": 6.56,
+    "exprimes": 171
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "AGIR ENSEMBLE POUR VERCHIN",
+      "libelle_abrege_liste": "AGIR ENSEMBLE POUR VERCHIN",
+      "nuance_liste": null,
+      "voix": 111,
+      "pct_voix_exprimes": 64.91,
+      "sieges_cm": 9,
+      "sieges_cc": null,
+      "nb_elus": 9,
+      "tete_de_liste": {
+        "nom": "DENOYELLE PRUVOST",
+        "prenom": "Florence",
+        "nom_complet": "Florence DENOYELLE PRUVOST",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "DENOYELLE PRUVOST",
+          "prenom": "Florence",
+          "nom_complet": "Florence DENOYELLE PRUVOST",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "EDOUART",
+          "prenom": "Lionel",
+          "nom_complet": "Lionel EDOUART",
+          "sexe": "M",
+          "age": 34,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DESCAMPS",
+          "prenom": "Lucie",
+          "nom_complet": "Lucie DESCAMPS",
+          "sexe": "F",
+          "age": 26,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "ROUSSEL",
+          "prenom": "Rene",
+          "nom_complet": "Rene ROUSSEL",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LECONTE",
+          "prenom": "Justine",
+          "nom_complet": "Justine LECONTE",
+          "sexe": "F",
+          "age": 27,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DUCROCQ",
+          "prenom": "David",
+          "nom_complet": "David DUCROCQ",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DEBUIRE",
+          "prenom": "Angelique",
+          "nom_complet": "Angelique DEBUIRE",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DECROIX",
+          "prenom": "Aurelien",
+          "nom_complet": "Aurelien DECROIX",
+          "sexe": "M",
+          "age": 32,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DUCROCQ",
+          "prenom": "Jennifer",
+          "nom_complet": "Jennifer DUCROCQ",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "9"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Avec vous pour Verchin",
+      "libelle_abrege_liste": "Avec vous pour Verchin",
+      "nuance_liste": null,
+      "voix": 60,
+      "pct_voix_exprimes": 35.09,
+      "sieges_cm": 2,
+      "sieges_cc": null,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "DELEPINE",
+        "prenom": "Damien",
+        "nom_complet": "Damien DELEPINE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DELEPINE",
+          "prenom": "Damien",
+          "nom_complet": "Damien DELEPINE",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DESCAMPS",
+          "prenom": "Cecile",
+          "nom_complet": "Cecile DESCAMPS",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "code_commune": "59542",
+  "commune": "Saint-Remy-Chaussée",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "WILLOT",
+    "prenom": "Didier",
+    "nom_complet": "Didier WILLOT",
+    "age": 69,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 358,
+    "votants": 210,
+    "pct_votants": 58.66,
+    "abstentions": 148,
+    "pct_abstentions": 41.34,
+    "exprimes": 200
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "AVANCER ENSEMBLE POUR SAINT REMY CHAUSSEE",
+      "libelle_abrege_liste": "AVANCER ENSEMBLE POUR SAINT REMY CHAUSSEE",
+      "nuance_liste": null,
+      "voix": 200,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "WILLOT",
+        "prenom": "Didier",
+        "nom_complet": "Didier WILLOT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "WILLOT",
+          "prenom": "Didier",
+          "nom_complet": "Didier WILLOT",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DEMILLY",
+          "prenom": "Mélanie",
+          "nom_complet": "Mélanie DEMILLY",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "HOURIEZ",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe HOURIEZ",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LENCLUD",
+          "prenom": "Valérie",
+          "nom_complet": "Valérie LENCLUD",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "VERDAVAINE",
+          "prenom": "André",
+          "nom_complet": "André VERDAVAINE",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "MAIRESSE",
+          "prenom": "Nadine",
+          "nom_complet": "Nadine MAIRESSE",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "LOUGUET",
+          "prenom": "Georges-Edouard",
+          "nom_complet": "Georges-Edouard LOUGUET",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "BOUDJEMA-HY",
+          "prenom": "Aurore",
+          "nom_complet": "Aurore BOUDJEMA-HY",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "CHARLIER",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe CHARLIER",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "GALFANO",
+          "prenom": "Sandra",
+          "nom_complet": "Sandra GALFANO",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "LORENT",
+          "prenom": "Patrice",
+          "nom_complet": "Patrice LORENT",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

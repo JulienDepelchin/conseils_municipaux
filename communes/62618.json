@@ -1,0 +1,183 @@
+{
+  "code_commune": "62618",
+  "commune": "Nordausques",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "DEBOVE",
+    "prenom": "Gilles",
+    "nom_complet": "Gilles DEBOVE",
+    "age": 57,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 871,
+    "votants": 708,
+    "pct_votants": 81.29,
+    "abstentions": 163,
+    "pct_abstentions": 18.71,
+    "exprimes": 688
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "NORDAUSQUES ENSEMBLE AVEC COEUR ET DETERMINATION",
+      "libelle_abrege_liste": "NORDAUSQUES ENSEMBLE AVEC COEUR ET DETERMINATION",
+      "nuance_liste": null,
+      "voix": 395,
+      "pct_voix_exprimes": 57.41,
+      "sieges_cm": 12,
+      "sieges_cc": 1,
+      "nb_elus": 12,
+      "tete_de_liste": {
+        "nom": "DEBOVE",
+        "prenom": "Gilles",
+        "nom_complet": "Gilles DEBOVE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DEBOVE",
+          "prenom": "Gilles",
+          "nom_complet": "Gilles DEBOVE",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BRIENNE",
+          "prenom": "Ingrid",
+          "nom_complet": "Ingrid BRIENNE",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "EVRARD",
+          "prenom": "André",
+          "nom_complet": "André EVRARD",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DUCROCQ",
+          "prenom": "Sabine",
+          "nom_complet": "Sabine DUCROCQ",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LEROY",
+          "prenom": "Bernard",
+          "nom_complet": "Bernard LEROY",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DELVARE",
+          "prenom": "Aurélie",
+          "nom_complet": "Aurélie DELVARE",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DELVAL",
+          "prenom": "Maxence",
+          "nom_complet": "Maxence DELVAL",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "RENAUX",
+          "prenom": "Cindy",
+          "nom_complet": "Cindy RENAUX",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "LAUDE",
+          "prenom": "Cyrille",
+          "nom_complet": "Cyrille LAUDE",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "GHISKIER",
+          "prenom": "Jessica",
+          "nom_complet": "Jessica GHISKIER",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "COPPIN",
+          "prenom": "Vincent",
+          "nom_complet": "Vincent COPPIN",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "PERON",
+          "prenom": "Nadia",
+          "nom_complet": "Nadia PERON",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "12"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Unis pour Nordausques",
+      "libelle_abrege_liste": "Unis pour Nordausques",
+      "nuance_liste": null,
+      "voix": 293,
+      "pct_voix_exprimes": 42.59,
+      "sieges_cm": 3,
+      "sieges_cc": 0,
+      "nb_elus": 3,
+      "tete_de_liste": {
+        "nom": "DUCROCQ",
+        "prenom": "Gérard",
+        "nom_complet": "Gérard DUCROCQ",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DUCROCQ",
+          "prenom": "Gérard",
+          "nom_complet": "Gérard DUCROCQ",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DELBENDE",
+          "prenom": "Anne",
+          "nom_complet": "Anne DELBENDE",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "GUILBERT",
+          "prenom": "Kévin",
+          "nom_complet": "Kévin GUILBERT",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "3"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

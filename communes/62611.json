@@ -1,0 +1,131 @@
+{
+  "code_commune": "62611",
+  "commune": "Neuville-Vitasse",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "VERDET",
+    "prenom": "Jean-Louis",
+    "nom_complet": "Jean-Louis VERDET",
+    "age": 68,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 436,
+    "votants": 284,
+    "pct_votants": 65.14,
+    "abstentions": 152,
+    "pct_abstentions": 34.86,
+    "exprimes": 228
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "BIEN VIVRE ENSEMBLE A NEUVILLE VITASSE, AUJOURD'HUI ET DEMAIN",
+      "libelle_abrege_liste": "BIEN VIVRE ENSEMBLE A NEUVILLE VITASSE, AUJOURD'HUI ET DEMAIN",
+      "nuance_liste": null,
+      "voix": 228,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "VERDET",
+        "prenom": "Jean-Louis",
+        "nom_complet": "Jean-Louis VERDET",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "VERDET",
+          "prenom": "Jean-Louis",
+          "nom_complet": "Jean-Louis VERDET",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "CUVILLY",
+          "prenom": "Marie-Françoise",
+          "nom_complet": "Marie-Françoise CUVILLY",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "ROGER",
+          "prenom": "Rollin",
+          "nom_complet": "Rollin ROGER",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "COULOMB",
+          "prenom": "Perrine",
+          "nom_complet": "Perrine COULOMB",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "BARELLE",
+          "prenom": "François",
+          "nom_complet": "François BARELLE",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LEBON",
+          "prenom": "Julie",
+          "nom_complet": "Julie LEBON",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "FRESKO",
+          "prenom": "Yannick",
+          "nom_complet": "Yannick FRESKO",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "GREBET",
+          "prenom": "Anais",
+          "nom_complet": "Anais GREBET",
+          "sexe": "F",
+          "age": 33,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "CHAUDEZ",
+          "prenom": "Mathieu",
+          "nom_complet": "Mathieu CHAUDEZ",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "MARTIN",
+          "prenom": "Valérie",
+          "nom_complet": "Valérie MARTIN",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "TELLIEZ",
+          "prenom": "Jonathan",
+          "nom_complet": "Jonathan TELLIEZ",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

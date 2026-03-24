@@ -1,0 +1,163 @@
+{
+  "code_commune": "59150",
+  "commune": "Cobrieux",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "THIEBAUT",
+    "prenom": "Christophe",
+    "nom_complet": "Christophe THIEBAUT",
+    "age": 48,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 471,
+    "votants": 269,
+    "pct_votants": 57.11,
+    "abstentions": 202,
+    "pct_abstentions": 42.89,
+    "exprimes": 242
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Bien vivre à Cobrieux",
+      "libelle_abrege_liste": "Bien vivre à Cobrieux",
+      "nuance_liste": null,
+      "voix": 242,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "THIEBAUT",
+        "prenom": "Christophe",
+        "nom_complet": "Christophe THIEBAUT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "THIEBAUT",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe THIEBAUT",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BOUCHEZ",
+          "prenom": "Françoise",
+          "nom_complet": "Françoise BOUCHEZ",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BALY",
+          "prenom": "Etienne",
+          "nom_complet": "Etienne BALY",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DESTRIEZ",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie DESTRIEZ",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DECHAUME",
+          "prenom": "Alain",
+          "nom_complet": "Alain DECHAUME",
+          "sexe": "M",
+          "age": 74,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DEBRIL",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie DEBRIL",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "VANHALST",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe VANHALST",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "HECHELSKI",
+          "prenom": "Sylviane",
+          "nom_complet": "Sylviane HECHELSKI",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "COCHETEUX",
+          "prenom": "Rufin",
+          "nom_complet": "Rufin COCHETEUX",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DESMET",
+          "prenom": "Julie",
+          "nom_complet": "Julie DESMET",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DE NÈVE",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick DE NÈVE",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "BOLLE",
+          "prenom": "Alexia",
+          "nom_complet": "Alexia BOLLE",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "LEROY",
+          "prenom": "Benoit",
+          "nom_complet": "Benoit LEROY",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "BRAHIMI",
+          "prenom": "Helene",
+          "nom_complet": "Helene BRAHIMI",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "LEMAIRE",
+          "prenom": "Jean Jacques",
+          "nom_complet": "Jean Jacques LEMAIRE",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

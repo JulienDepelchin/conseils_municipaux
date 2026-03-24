@@ -1,0 +1,275 @@
+{
+  "code_commune": "62173",
+  "commune": "Brebières",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "DAVID",
+    "prenom": "Lionel",
+    "nom_complet": "Lionel DAVID",
+    "age": 54,
+    "nuance": "LDVD"
+  },
+  "resultats": {
+    "inscrits": 4184,
+    "votants": 2154,
+    "pct_votants": 51.48,
+    "abstentions": 2030,
+    "pct_abstentions": 48.52,
+    "exprimes": 1867
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "BREBIÈRES !",
+      "libelle_abrege_liste": "BREBIÈRES !",
+      "nuance_liste": "LDVD",
+      "voix": 1867,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 29,
+      "sieges_cc": 9,
+      "nb_elus": 29,
+      "tete_de_liste": {
+        "nom": "DAVID",
+        "prenom": "Lionel",
+        "nom_complet": "Lionel DAVID",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DAVID",
+          "prenom": "Lionel",
+          "nom_complet": "Lionel DAVID",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DOUVRIN",
+          "prenom": "Karine",
+          "nom_complet": "Karine DOUVRIN",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "HERBAUT",
+          "prenom": "Pierre",
+          "nom_complet": "Pierre HERBAUT",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BODNIEFSKI",
+          "prenom": "Marina",
+          "nom_complet": "Marina BODNIEFSKI",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DEPREZ",
+          "prenom": "Gregory",
+          "nom_complet": "Gregory DEPREZ",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DEMABRE",
+          "prenom": "Caroline",
+          "nom_complet": "Caroline DEMABRE",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "TRIPLET",
+          "prenom": "Corentin",
+          "nom_complet": "Corentin TRIPLET",
+          "sexe": "M",
+          "age": 28,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "VASSE",
+          "prenom": "Océane",
+          "nom_complet": "Océane VASSE",
+          "sexe": "F",
+          "age": 28,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DEMOULIN",
+          "prenom": "Bertrand",
+          "nom_complet": "Bertrand DEMOULIN",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "MOLARD",
+          "prenom": "Caroline",
+          "nom_complet": "Caroline MOLARD",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "HANNEDOUCHE",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno HANNEDOUCHE",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "EVRARD",
+          "prenom": "Séverine",
+          "nom_complet": "Séverine EVRARD",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "DEGELDER",
+          "prenom": "Mickaël",
+          "nom_complet": "Mickaël DEGELDER",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "BIANCALANA",
+          "prenom": "Antonella",
+          "nom_complet": "Antonella BIANCALANA",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "GOUBET",
+          "prenom": "Rene",
+          "nom_complet": "Rene GOUBET",
+          "sexe": "M",
+          "age": 76,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "BEFVE",
+          "prenom": "Jacqueline",
+          "nom_complet": "Jacqueline BEFVE",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "DUCARNE",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe DUCARNE",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "BREMARD",
+          "prenom": "Celine",
+          "nom_complet": "Celine BREMARD",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "HAY",
+          "prenom": "Alexandre",
+          "nom_complet": "Alexandre HAY",
+          "sexe": "M",
+          "age": 27,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "ALIEMART",
+          "prenom": "Stellina",
+          "nom_complet": "Stellina ALIEMART",
+          "sexe": "F",
+          "age": 18,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "LOBRY",
+          "prenom": "Frederic",
+          "nom_complet": "Frederic LOBRY",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "DÉPREZ",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie DÉPREZ",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "LEFEVRE",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier LEFEVRE",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "23"
+        },
+        {
+          "nom": "DAMBRINE",
+          "prenom": "Bénédicte",
+          "nom_complet": "Bénédicte DAMBRINE",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "24"
+        },
+        {
+          "nom": "CARLIER",
+          "prenom": "Bernard",
+          "nom_complet": "Bernard CARLIER",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "25"
+        },
+        {
+          "nom": "GIORGETTI",
+          "prenom": "Catherine",
+          "nom_complet": "Catherine GIORGETTI",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "26"
+        },
+        {
+          "nom": "DANIELEWSKI",
+          "prenom": "David",
+          "nom_complet": "David DANIELEWSKI",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "27"
+        },
+        {
+          "nom": "FOULON-REGNIER",
+          "prenom": "Pascaline",
+          "nom_complet": "Pascaline FOULON-REGNIER",
+          "sexe": "F",
+          "age": 32,
+          "rang_liste": "28"
+        },
+        {
+          "nom": "LOGEON",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier LOGEON",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "29"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

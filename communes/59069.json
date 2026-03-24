@@ -1,0 +1,163 @@
+{
+  "code_commune": "59069",
+  "commune": "Bermerain",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "BRUNIAU",
+    "prenom": "Yvan Serge Philippe",
+    "nom_complet": "Yvan Serge Philippe BRUNIAU",
+    "age": 68,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 591,
+    "votants": 367,
+    "pct_votants": 62.1,
+    "abstentions": 224,
+    "pct_abstentions": 37.9,
+    "exprimes": 322
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Liste de rassemblement pour une gestion humaine",
+      "libelle_abrege_liste": "Liste de rassemblement pour une gestion humaine",
+      "nuance_liste": null,
+      "voix": 322,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "BRUNIAU",
+        "prenom": "Yvan Serge Philippe",
+        "nom_complet": "Yvan Serge Philippe BRUNIAU",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BRUNIAU",
+          "prenom": "Yvan Serge Philippe",
+          "nom_complet": "Yvan Serge Philippe BRUNIAU",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BONNARD CARRE",
+          "prenom": "Sabine",
+          "nom_complet": "Sabine BONNARD CARRE",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "GUSTIN",
+          "prenom": "Michel Charles",
+          "nom_complet": "Michel Charles GUSTIN",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "GOSSELIN",
+          "prenom": "Mireille Marie",
+          "nom_complet": "Mireille Marie GOSSELIN",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "THUILLIEZ",
+          "prenom": "Olivier Adam",
+          "nom_complet": "Olivier Adam THUILLIEZ",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "MAGGION",
+          "prenom": "Laetitia",
+          "nom_complet": "Laetitia MAGGION",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DUWEZ",
+          "prenom": "Daniel Aimé",
+          "nom_complet": "Daniel Aimé DUWEZ",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "BERNARD PORCHET",
+          "prenom": "Maggy Claude",
+          "nom_complet": "Maggy Claude BERNARD PORCHET",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "POTTIER",
+          "prenom": "Jean-Pierre",
+          "nom_complet": "Jean-Pierre POTTIER",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "PAYEN MARÉCHAL",
+          "prenom": "Marielle",
+          "nom_complet": "Marielle PAYEN MARÉCHAL",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DUVAL",
+          "prenom": "Damien Maxime",
+          "nom_complet": "Damien Maxime DUVAL",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "TELLE",
+          "prenom": "Marjorie Anne-Marie",
+          "nom_complet": "Marjorie Anne-Marie TELLE",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "DRUESNES",
+          "prenom": "Marc",
+          "nom_complet": "Marc DRUESNES",
+          "sexe": "M",
+          "age": 86,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "BLEQUIT BRUNIAU",
+          "prenom": "Manon Emmanuelle",
+          "nom_complet": "Manon Emmanuelle BLEQUIT BRUNIAU",
+          "sexe": "F",
+          "age": 27,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "STANIC",
+          "prenom": "Christian",
+          "nom_complet": "Christian STANIC",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

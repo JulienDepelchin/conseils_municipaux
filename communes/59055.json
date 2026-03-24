@@ -1,0 +1,163 @@
+{
+  "code_commune": "59055",
+  "commune": "Bazuel",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "MACAREZ",
+    "prenom": "Jean-Félix",
+    "nom_complet": "Jean-Félix MACAREZ",
+    "age": 76,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 413,
+    "votants": 214,
+    "pct_votants": 51.82,
+    "abstentions": 199,
+    "pct_abstentions": 48.18,
+    "exprimes": 154
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Ensemble solidaires pour Bazuel",
+      "libelle_abrege_liste": "Ensemble solidaires pour Bazuel",
+      "nuance_liste": null,
+      "voix": 154,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "MACAREZ",
+        "prenom": "Jean-Félix",
+        "nom_complet": "Jean-Félix MACAREZ",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "MACAREZ",
+          "prenom": "Jean-Félix",
+          "nom_complet": "Jean-Félix MACAREZ",
+          "sexe": "M",
+          "age": 76,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DAVOINE",
+          "prenom": "Odile",
+          "nom_complet": "Odile DAVOINE",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "COLLERY",
+          "prenom": "Jean-Claude",
+          "nom_complet": "Jean-Claude COLLERY",
+          "sexe": "M",
+          "age": 75,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DENHEZ",
+          "prenom": "Cindy",
+          "nom_complet": "Cindy DENHEZ",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "HUYGEN",
+          "prenom": "Maxime",
+          "nom_complet": "Maxime HUYGEN",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "GODRIE",
+          "prenom": "Elodie",
+          "nom_complet": "Elodie GODRIE",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "LEFEBVRE",
+          "prenom": "Jean-Marie",
+          "nom_complet": "Jean-Marie LEFEBVRE",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "HERLEMONT",
+          "prenom": "Jocelyne",
+          "nom_complet": "Jocelyne HERLEMONT",
+          "sexe": "F",
+          "age": 79,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "LEFEBVRE",
+          "prenom": "Marc Henri",
+          "nom_complet": "Marc Henri LEFEBVRE",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "MAILLY",
+          "prenom": "Marion",
+          "nom_complet": "Marion MAILLY",
+          "sexe": "F",
+          "age": 27,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "PINECKI",
+          "prenom": "Edouard",
+          "nom_complet": "Edouard PINECKI",
+          "sexe": "M",
+          "age": 79,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "MICHAUX",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie MICHAUX",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "PLINGUIER",
+          "prenom": "Jean-Pierre",
+          "nom_complet": "Jean-Pierre PLINGUIER",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "OBLED",
+          "prenom": "Charlotte",
+          "nom_complet": "Charlotte OBLED",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "THOMAS",
+          "prenom": "Clement",
+          "nom_complet": "Clement THOMAS",
+          "sexe": "M",
+          "age": 27,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

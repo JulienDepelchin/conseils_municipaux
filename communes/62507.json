@@ -1,0 +1,131 @@
+{
+  "code_commune": "62507",
+  "commune": "Liencourt",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "HAULTCOEUR",
+    "prenom": "Jean-François",
+    "nom_complet": "Jean-François HAULTCOEUR",
+    "age": 60,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 225,
+    "votants": 147,
+    "pct_votants": 65.33,
+    "abstentions": 78,
+    "pct_abstentions": 34.67,
+    "exprimes": 104
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Liste menée par Jean-François HAULTCOEUR",
+      "libelle_abrege_liste": "Liste menée par Jean-François HAULTCOEUR",
+      "nuance_liste": null,
+      "voix": 104,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "HAULTCOEUR",
+        "prenom": "Jean-François",
+        "nom_complet": "Jean-François HAULTCOEUR",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "HAULTCOEUR",
+          "prenom": "Jean-François",
+          "nom_complet": "Jean-François HAULTCOEUR",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "SAUVAGE",
+          "prenom": "Martine",
+          "nom_complet": "Martine SAUVAGE",
+          "sexe": "F",
+          "age": 73,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "MONIER",
+          "prenom": "Mickaël",
+          "nom_complet": "Mickaël MONIER",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "FLAMENT",
+          "prenom": "Mélissa",
+          "nom_complet": "Mélissa FLAMENT",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "BILLARD",
+          "prenom": "Vincent",
+          "nom_complet": "Vincent BILLARD",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "HAULTCOEUR-JUBIN",
+          "prenom": "Lucie",
+          "nom_complet": "Lucie HAULTCOEUR-JUBIN",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BROUWERS",
+          "prenom": "Damien",
+          "nom_complet": "Damien BROUWERS",
+          "sexe": "M",
+          "age": 24,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "BIGOTTE",
+          "prenom": "Lila",
+          "nom_complet": "Lila BIGOTTE",
+          "sexe": "F",
+          "age": 24,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "SALOMÉ",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal SALOMÉ",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "BRACQUART",
+          "prenom": "Mégane",
+          "nom_complet": "Mégane BRACQUART",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DARRAS",
+          "prenom": "Ludovic",
+          "nom_complet": "Ludovic DARRAS",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

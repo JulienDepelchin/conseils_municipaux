@@ -1,0 +1,195 @@
+{
+  "code_commune": "59025",
+  "commune": "Aubers",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "LECLERCQ",
+    "prenom": "Alain",
+    "nom_complet": "Alain LECLERCQ",
+    "age": 61,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1534,
+    "votants": 895,
+    "pct_votants": 58.34,
+    "abstentions": 639,
+    "pct_abstentions": 41.66,
+    "exprimes": 841
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "BIEN VIVRE A AUBERS",
+      "libelle_abrege_liste": "BIEN VIVRE A AUBERS",
+      "nuance_liste": null,
+      "voix": 841,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 19,
+      "sieges_cc": 1,
+      "nb_elus": 19,
+      "tete_de_liste": {
+        "nom": "LECLERCQ",
+        "prenom": "Alain",
+        "nom_complet": "Alain LECLERCQ",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LECLERCQ",
+          "prenom": "Alain",
+          "nom_complet": "Alain LECLERCQ",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "KROLL",
+          "prenom": "Véronique",
+          "nom_complet": "Véronique KROLL",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "ACHTE",
+          "prenom": "Stephane",
+          "nom_complet": "Stephane ACHTE",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DE VRIEZE",
+          "prenom": "Danielle",
+          "nom_complet": "Danielle DE VRIEZE",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "CENSE",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier CENSE",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DISSAUX",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle DISSAUX",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "COUSTENOBLE",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick COUSTENOBLE",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "FIGOUREUX",
+          "prenom": "Juliette",
+          "nom_complet": "Juliette FIGOUREUX",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DOULIN",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas DOULIN",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "GYLBERT",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle GYLBERT",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "HAULTCOEUR",
+          "prenom": "Jean-Paul",
+          "nom_complet": "Jean-Paul HAULTCOEUR",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "HAECK",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie HAECK",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "HOURIEZ",
+          "prenom": "Eric",
+          "nom_complet": "Eric HOURIEZ",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "LECLERCQ-WAYMEL",
+          "prenom": "Brigitte",
+          "nom_complet": "Brigitte LECLERCQ-WAYMEL",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "LECLERCQ",
+          "prenom": "Antoine",
+          "nom_complet": "Antoine LECLERCQ",
+          "sexe": "M",
+          "age": 30,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "LESCROART",
+          "prenom": "Stephanie",
+          "nom_complet": "Stephanie LESCROART",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "MARTEL",
+          "prenom": "Julien",
+          "nom_complet": "Julien MARTEL",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "SAHRAOUI",
+          "prenom": "Soraya",
+          "nom_complet": "Soraya SAHRAOUI",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "VERMON",
+          "prenom": "Eric",
+          "nom_complet": "Eric VERMON",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "19"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

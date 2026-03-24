@@ -1,0 +1,151 @@
+{
+  "code_commune": "59425",
+  "commune": "Neuville-en-Avesnois",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "DI MUZIO",
+    "prenom": "Peggy",
+    "nom_complet": "Peggy DI MUZIO",
+    "age": 52,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 242,
+    "votants": 211,
+    "pct_votants": 87.19,
+    "abstentions": 31,
+    "pct_abstentions": 12.81,
+    "exprimes": 203
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Gardons le meilleur du passé pour éclairer l'avenir",
+      "libelle_abrege_liste": "Gardons le meilleur du passé pour éclairer l'avenir",
+      "nuance_liste": null,
+      "voix": 110,
+      "pct_voix_exprimes": 54.19,
+      "sieges_cm": 9,
+      "sieges_cc": null,
+      "nb_elus": 9,
+      "tete_de_liste": {
+        "nom": "DI MUZIO",
+        "prenom": "Peggy",
+        "nom_complet": "Peggy DI MUZIO",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "DI MUZIO",
+          "prenom": "Peggy",
+          "nom_complet": "Peggy DI MUZIO",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "REGNAUT",
+          "prenom": "Jean-Marie",
+          "nom_complet": "Jean-Marie REGNAUT",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "HENNIAUX",
+          "prenom": "Juliette-Angélique",
+          "nom_complet": "Juliette-Angélique HENNIAUX",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BILLOT",
+          "prenom": "Jean-Michel",
+          "nom_complet": "Jean-Michel BILLOT",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "CORDELLE",
+          "prenom": "Allison-Manuella",
+          "nom_complet": "Allison-Manuella CORDELLE",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "CARBONNEL",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier CARBONNEL",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BOULANGER FROMENT",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie BOULANGER FROMENT",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "HUPKE",
+          "prenom": "Maxime",
+          "nom_complet": "Maxime HUPKE",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "AVISSE",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie AVISSE",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "9"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "CONTINUITE ET RENOUVEAU",
+      "libelle_abrege_liste": "CONTINUITE ET RENOUVEAU",
+      "nuance_liste": null,
+      "voix": 93,
+      "pct_voix_exprimes": 45.81,
+      "sieges_cm": 2,
+      "sieges_cc": null,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "RONCHIN",
+        "prenom": "François",
+        "nom_complet": "François RONCHIN",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "RONCHIN",
+          "prenom": "François",
+          "nom_complet": "François RONCHIN",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DASSONVILLE",
+          "prenom": "Delphine",
+          "nom_complet": "Delphine DASSONVILLE",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

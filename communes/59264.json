@@ -1,0 +1,163 @@
+{
+  "code_commune": "59264",
+  "commune": "Gognies-Chaussée",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "MASOLINI",
+    "prenom": "Bruno",
+    "nom_complet": "Bruno MASOLINI",
+    "age": 64,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 591,
+    "votants": 212,
+    "pct_votants": 35.87,
+    "abstentions": 379,
+    "pct_abstentions": 64.13,
+    "exprimes": 193
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Expérience et dynamisme",
+      "libelle_abrege_liste": "Expérience et dynamisme",
+      "nuance_liste": null,
+      "voix": 193,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "MASOLINI",
+        "prenom": "Bruno",
+        "nom_complet": "Bruno MASOLINI",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "MASOLINI",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno MASOLINI",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "SERRON",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique SERRON",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "MEURANT",
+          "prenom": "Jean",
+          "nom_complet": "Jean MEURANT",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DEGAUQUIER",
+          "prenom": "Annie",
+          "nom_complet": "Annie DEGAUQUIER",
+          "sexe": "F",
+          "age": 78,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DEHON",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal DEHON",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DELHAYE",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie DELHAYE",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DI LEO",
+          "prenom": "Felice",
+          "nom_complet": "Felice DI LEO",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DUBRAYE",
+          "prenom": "Anne",
+          "nom_complet": "Anne DUBRAYE",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "HALLAUX",
+          "prenom": "Vincent",
+          "nom_complet": "Vincent HALLAUX",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "WINANT",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique WINANT",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "MARMIGNON",
+          "prenom": "Bernard",
+          "nom_complet": "Bernard MARMIGNON",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "LEROY",
+          "prenom": "Aurélie",
+          "nom_complet": "Aurélie LEROY",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "TOUBEAU",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier TOUBEAU",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "HALLAUX",
+          "prenom": "Coralie",
+          "nom_complet": "Coralie HALLAUX",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "LOUETTE",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe LOUETTE",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

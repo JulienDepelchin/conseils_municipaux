@@ -1,0 +1,131 @@
+{
+  "code_commune": "62104",
+  "commune": "Bellebrune",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "GUCHE",
+    "prenom": "Christophe",
+    "nom_complet": "Christophe GUCHE",
+    "age": 53,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 314,
+    "votants": 217,
+    "pct_votants": 69.11,
+    "abstentions": 97,
+    "pct_abstentions": 30.89,
+    "exprimes": 203
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ENSEMBLE POUR BELLEBRUNE",
+      "libelle_abrege_liste": "ENSEMBLE POUR BELLEBRUNE",
+      "nuance_liste": null,
+      "voix": 203,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "GUCHE",
+        "prenom": "Christophe",
+        "nom_complet": "Christophe GUCHE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "GUCHE",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe GUCHE",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "CARPENTIER",
+          "prenom": "Yvette",
+          "nom_complet": "Yvette CARPENTIER",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "SELLIER",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe SELLIER",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LEMAIRE",
+          "prenom": "Fabienne",
+          "nom_complet": "Fabienne LEMAIRE",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "GOUBEL",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier GOUBEL",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "VAN CAPPEL DE PREMONT",
+          "prenom": "Myriam",
+          "nom_complet": "Myriam VAN CAPPEL DE PREMONT",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BOURGOIS",
+          "prenom": "Mickaël",
+          "nom_complet": "Mickaël BOURGOIS",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LAMBERT",
+          "prenom": "Anne-Sophie",
+          "nom_complet": "Anne-Sophie LAMBERT",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "TASSART",
+          "prenom": "Guillaume",
+          "nom_complet": "Guillaume TASSART",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "THUILLIER",
+          "prenom": "Mylene",
+          "nom_complet": "Mylene THUILLIER",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "THERY",
+          "prenom": "Daniel",
+          "nom_complet": "Daniel THERY",
+          "sexe": "M",
+          "age": 33,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "code_commune": "62354",
+  "commune": "Frencq",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "BOURGAIN",
+    "prenom": "Steve",
+    "nom_complet": "Steve BOURGAIN",
+    "age": 50,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 668,
+    "votants": 395,
+    "pct_votants": 59.13,
+    "abstentions": 273,
+    "pct_abstentions": 40.87,
+    "exprimes": 334
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "AVEC VOUS, FRENCQ DEMAIN",
+      "libelle_abrege_liste": "AVEC VOUS, FRENCQ DEMAIN",
+      "nuance_liste": null,
+      "voix": 334,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "BOURGAIN",
+        "prenom": "Steve",
+        "nom_complet": "Steve BOURGAIN",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BOURGAIN",
+          "prenom": "Steve",
+          "nom_complet": "Steve BOURGAIN",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "HOSPITAL",
+          "prenom": "Marie-Paule",
+          "nom_complet": "Marie-Paule HOSPITAL",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "GAMBART",
+          "prenom": "René",
+          "nom_complet": "René GAMBART",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "MERLOT",
+          "prenom": "Valérie",
+          "nom_complet": "Valérie MERLOT",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "MANIER",
+          "prenom": "Daniel",
+          "nom_complet": "Daniel MANIER",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "FOURDINIER",
+          "prenom": "Virginie",
+          "nom_complet": "Virginie FOURDINIER",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "NIZART",
+          "prenom": "Vincent",
+          "nom_complet": "Vincent NIZART",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "HAUDIQUET",
+          "prenom": "Jacqueline",
+          "nom_complet": "Jacqueline HAUDIQUET",
+          "sexe": "F",
+          "age": 78,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DECORTE",
+          "prenom": "Jimmy",
+          "nom_complet": "Jimmy DECORTE",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "FRANÇOIS",
+          "prenom": "Elodie",
+          "nom_complet": "Elodie FRANÇOIS",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "FEUTRY",
+          "prenom": "Cyril",
+          "nom_complet": "Cyril FEUTRY",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "GORLIN",
+          "prenom": "Gwenaëlle",
+          "nom_complet": "Gwenaëlle GORLIN",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "TELLIER",
+          "prenom": "Jean-François",
+          "nom_complet": "Jean-François TELLIER",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "PIERRU",
+          "prenom": "Laurence",
+          "nom_complet": "Laurence PIERRU",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "DECORTE",
+          "prenom": "Sylvain",
+          "nom_complet": "Sylvain DECORTE",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

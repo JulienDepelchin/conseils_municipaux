@@ -1,0 +1,131 @@
+{
+  "code_commune": "62425",
+  "commune": "Hendecourt-lès-Ransart",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "BARROIS",
+    "prenom": "Pierre",
+    "nom_complet": "Pierre BARROIS",
+    "age": 75,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 97,
+    "votants": 60,
+    "pct_votants": 61.86,
+    "abstentions": 37,
+    "pct_abstentions": 38.14,
+    "exprimes": 46
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ENSEMBLE POUR HENDECOURT",
+      "libelle_abrege_liste": "ENSEMBLE POUR HENDECOURT",
+      "nuance_liste": null,
+      "voix": 46,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "BARROIS",
+        "prenom": "Pierre",
+        "nom_complet": "Pierre BARROIS",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BARROIS",
+          "prenom": "Pierre",
+          "nom_complet": "Pierre BARROIS",
+          "sexe": "M",
+          "age": 75,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "CATO",
+          "prenom": "Amandine",
+          "nom_complet": "Amandine CATO",
+          "sexe": "F",
+          "age": 33,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BUZENET",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent BUZENET",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "HUBAU",
+          "prenom": "Fanny",
+          "nom_complet": "Fanny HUBAU",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DUCOURANT",
+          "prenom": "Charles",
+          "nom_complet": "Charles DUCOURANT",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "HEUNET",
+          "prenom": "Faustine",
+          "nom_complet": "Faustine HEUNET",
+          "sexe": "F",
+          "age": 28,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DE DIESBACH",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas DE DIESBACH",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "MOURET",
+          "prenom": "Sarah",
+          "nom_complet": "Sarah MOURET",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "LARDEMELLE",
+          "prenom": "Denis",
+          "nom_complet": "Denis LARDEMELLE",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "PANTIGNY",
+          "prenom": "Anne",
+          "nom_complet": "Anne PANTIGNY",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "LEPREUX",
+          "prenom": "Jérémy",
+          "nom_complet": "Jérémy LEPREUX",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

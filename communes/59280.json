@@ -1,0 +1,163 @@
+{
+  "code_commune": "59280",
+  "commune": "Hamel",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "HALLE",
+    "prenom": "Jean-Luc",
+    "nom_complet": "Jean-Luc HALLE",
+    "age": 80,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 609,
+    "votants": 357,
+    "pct_votants": 58.62,
+    "abstentions": 252,
+    "pct_abstentions": 41.38,
+    "exprimes": 334
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Pour Hamel, notre village",
+      "libelle_abrege_liste": "Pour Hamel, notre village",
+      "nuance_liste": null,
+      "voix": 334,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "HALLE",
+        "prenom": "Jean-Luc",
+        "nom_complet": "Jean-Luc HALLE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "HALLE",
+          "prenom": "Jean-Luc",
+          "nom_complet": "Jean-Luc HALLE",
+          "sexe": "M",
+          "age": 80,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "MENCACCI",
+          "prenom": "Patricia",
+          "nom_complet": "Patricia MENCACCI",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "REMY",
+          "prenom": "Charles-Louis",
+          "nom_complet": "Charles-Louis REMY",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "MOCQ",
+          "prenom": "Jessica",
+          "nom_complet": "Jessica MOCQ",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DEPART",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick DEPART",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "BOCHU",
+          "prenom": "Betty",
+          "nom_complet": "Betty BOCHU",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "FOUACHE",
+          "prenom": "Jean-Charles",
+          "nom_complet": "Jean-Charles FOUACHE",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DESCHEEMAKER",
+          "prenom": "Catherine",
+          "nom_complet": "Catherine DESCHEEMAKER",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "GALAN",
+          "prenom": "Emilio",
+          "nom_complet": "Emilio GALAN",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DUBORPER",
+          "prenom": "Aurélie",
+          "nom_complet": "Aurélie DUBORPER",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "HALLE",
+          "prenom": "Xavier",
+          "nom_complet": "Xavier HALLE",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "DUPRIEZ",
+          "prenom": "Marion",
+          "nom_complet": "Marion DUPRIEZ",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "ORT",
+          "prenom": "Daniel",
+          "nom_complet": "Daniel ORT",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "FORMENTEL",
+          "prenom": "Marie",
+          "nom_complet": "Marie FORMENTEL",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "STRAQUADANIO",
+          "prenom": "Mikael",
+          "nom_complet": "Mikael STRAQUADANIO",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

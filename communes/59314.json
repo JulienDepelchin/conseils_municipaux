@@ -1,0 +1,227 @@
+{
+  "code_commune": "59314",
+  "commune": "Hornaing",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "DELANNOY",
+    "prenom": "Frédéric",
+    "nom_complet": "Frédéric DELANNOY",
+    "age": 57,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 2842,
+    "votants": 1558,
+    "pct_votants": 54.82,
+    "abstentions": 1284,
+    "pct_abstentions": 45.18,
+    "exprimes": 1364
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Hornaing, Ensemble vers l'avenir",
+      "libelle_abrege_liste": "Hornaing, Ensemble vers l'avenir",
+      "nuance_liste": null,
+      "voix": 1364,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 23,
+      "sieges_cc": 3,
+      "nb_elus": 23,
+      "tete_de_liste": {
+        "nom": "DELANNOY",
+        "prenom": "Frédéric",
+        "nom_complet": "Frédéric DELANNOY",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DELANNOY",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric DELANNOY",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DESMYTER BRIXY",
+          "prenom": "Gaëlle",
+          "nom_complet": "Gaëlle DESMYTER BRIXY",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "VELU",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe VELU",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "MOREAU LAMENDIN",
+          "prenom": "Valérie",
+          "nom_complet": "Valérie MOREAU LAMENDIN",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "HOCQ",
+          "prenom": "Daniel",
+          "nom_complet": "Daniel HOCQ",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "NOULETTE",
+          "prenom": "Jessica",
+          "nom_complet": "Jessica NOULETTE",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "GAZET",
+          "prenom": "Christian",
+          "nom_complet": "Christian GAZET",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "CHATELIN",
+          "prenom": "Sandrine",
+          "nom_complet": "Sandrine CHATELIN",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DESMOUCELLE",
+          "prenom": "Didier",
+          "nom_complet": "Didier DESMOUCELLE",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "BOULENT",
+          "prenom": "Anne",
+          "nom_complet": "Anne BOULENT",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "ACCETTONE",
+          "prenom": "Gregory",
+          "nom_complet": "Gregory ACCETTONE",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "GUIROUAOU",
+          "prenom": "Meriem",
+          "nom_complet": "Meriem GUIROUAOU",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "RATAJCZAK",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe RATAJCZAK",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "MACAREZ",
+          "prenom": "Anne-Sophie",
+          "nom_complet": "Anne-Sophie MACAREZ",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "CLOCHARD",
+          "prenom": "Jean-François",
+          "nom_complet": "Jean-François CLOCHARD",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "LAVAURE-GRIGOLETTO",
+          "prenom": "Adeline",
+          "nom_complet": "Adeline LAVAURE-GRIGOLETTO",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "RÉMY",
+          "prenom": "Benoît Pierre",
+          "nom_complet": "Benoît Pierre RÉMY",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "VILCOT",
+          "prenom": "Lise-Marie",
+          "nom_complet": "Lise-Marie VILCOT",
+          "sexe": "F",
+          "age": 80,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "KUNZLI",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier KUNZLI",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "DELBECQ",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie DELBECQ",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "LELONG",
+          "prenom": "Julien",
+          "nom_complet": "Julien LELONG",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "VERHOEVEN",
+          "prenom": "Heïdi",
+          "nom_complet": "Heïdi VERHOEVEN",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "SARAÏS",
+          "prenom": "Jacky",
+          "nom_complet": "Jacky SARAÏS",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "23"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "code_commune": "59600",
+  "commune": "Tourmignies",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "DUCHESNE",
+    "prenom": "Alain",
+    "nom_complet": "Alain DUCHESNE",
+    "age": 57,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 713,
+    "votants": 430,
+    "pct_votants": 60.31,
+    "abstentions": 283,
+    "pct_abstentions": 39.69,
+    "exprimes": 386
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "BIEN-ETRE, DEVELOPPEMENT ET TRADITION",
+      "libelle_abrege_liste": "BIEN-ETRE, DEVELOPPEMENT ET TRADITION",
+      "nuance_liste": null,
+      "voix": 386,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "DUCHESNE",
+        "prenom": "Alain",
+        "nom_complet": "Alain DUCHESNE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DUCHESNE",
+          "prenom": "Alain",
+          "nom_complet": "Alain DUCHESNE",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BLONDEL",
+          "prenom": "Chantal",
+          "nom_complet": "Chantal BLONDEL",
+          "sexe": "F",
+          "age": 77,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "NOVION",
+          "prenom": "Hervé",
+          "nom_complet": "Hervé NOVION",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DARRAS",
+          "prenom": "Maria",
+          "nom_complet": "Maria DARRAS",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "GOSSUIN",
+          "prenom": "Patrice",
+          "nom_complet": "Patrice GOSSUIN",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DEVOS",
+          "prenom": "Véronique",
+          "nom_complet": "Véronique DEVOS",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DELEBASSÉ",
+          "prenom": "Louis-Pierre",
+          "nom_complet": "Louis-Pierre DELEBASSÉ",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "MARQUETTE",
+          "prenom": "Catherine",
+          "nom_complet": "Catherine MARQUETTE",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "LECLERCQ",
+          "prenom": "Benoit",
+          "nom_complet": "Benoit LECLERCQ",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DHÉNIN",
+          "prenom": "Karène",
+          "nom_complet": "Karène DHÉNIN",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "FLAMBRY",
+          "prenom": "Sebastien",
+          "nom_complet": "Sebastien FLAMBRY",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "CHAMILLARD",
+          "prenom": "Elodie",
+          "nom_complet": "Elodie CHAMILLARD",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "ROUVIERE",
+          "prenom": "Jean-Louis",
+          "nom_complet": "Jean-Louis ROUVIERE",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "BOUCHEL",
+          "prenom": "Julie",
+          "nom_complet": "Julie BOUCHEL",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "LE DIGABEL",
+          "prenom": "Christopher",
+          "nom_complet": "Christopher LE DIGABEL",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "code_commune": "62625",
+  "commune": "Noyelles-lès-Humières",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "MEQUIGNON",
+    "prenom": "Raphaël",
+    "nom_complet": "Raphaël MEQUIGNON",
+    "age": 45,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 53,
+    "votants": 45,
+    "pct_votants": 84.91,
+    "abstentions": 8,
+    "pct_abstentions": 15.09,
+    "exprimes": 32
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ENSEMBLE POUR NOYELLES-LES-HUMIÈRES",
+      "libelle_abrege_liste": "ENSEMBLE POUR NOYELLES-LES-HUMIÈRES",
+      "nuance_liste": null,
+      "voix": 32,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 7,
+      "sieges_cc": null,
+      "nb_elus": 7,
+      "tete_de_liste": {
+        "nom": "MEQUIGNON",
+        "prenom": "Raphaël",
+        "nom_complet": "Raphaël MEQUIGNON",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "MEQUIGNON",
+          "prenom": "Raphaël",
+          "nom_complet": "Raphaël MEQUIGNON",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "JUCHET",
+          "prenom": "Anne-Laure",
+          "nom_complet": "Anne-Laure JUCHET",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BARRAS",
+          "prenom": "Bernard",
+          "nom_complet": "Bernard BARRAS",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LEROY",
+          "prenom": "Amandine",
+          "nom_complet": "Amandine LEROY",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "BUGNY",
+          "prenom": "Geoffrey",
+          "nom_complet": "Geoffrey BUGNY",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "BRAY",
+          "prenom": "Catherine",
+          "nom_complet": "Catherine BRAY",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "CARON",
+          "prenom": "Jérémy",
+          "nom_complet": "Jérémy CARON",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "7"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

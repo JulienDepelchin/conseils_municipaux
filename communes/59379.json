@@ -1,0 +1,163 @@
+{
+  "code_commune": "59379",
+  "commune": "Marcq-en-Ostrevent",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "PREIN",
+    "prenom": "Thierry",
+    "nom_complet": "Thierry PREIN",
+    "age": 63,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 501,
+    "votants": 286,
+    "pct_votants": 57.09,
+    "abstentions": 215,
+    "pct_abstentions": 42.91,
+    "exprimes": 242
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "MARCQ, UN VILLAGE EN MOUVEMENT",
+      "libelle_abrege_liste": "MARCQ, UN VILLAGE EN MOUVEMENT",
+      "nuance_liste": null,
+      "voix": 242,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "PREIN",
+        "prenom": "Thierry",
+        "nom_complet": "Thierry PREIN",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "PREIN",
+          "prenom": "Thierry",
+          "nom_complet": "Thierry PREIN",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BROQUET",
+          "prenom": "Gäelle",
+          "nom_complet": "Gäelle BROQUET",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "RENARD",
+          "prenom": "Jean-Marc",
+          "nom_complet": "Jean-Marc RENARD",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "RENARD-LAMOURET",
+          "prenom": "Fabienne",
+          "nom_complet": "Fabienne RENARD-LAMOURET",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LEFEBVRE",
+          "prenom": "Jean-Marc",
+          "nom_complet": "Jean-Marc LEFEBVRE",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "ANDREOTTI",
+          "prenom": "Evelyne",
+          "nom_complet": "Evelyne ANDREOTTI",
+          "sexe": "F",
+          "age": 70,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DUFOUR",
+          "prenom": "Anthony",
+          "nom_complet": "Anthony DUFOUR",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LOQUET DESFOSSEZ",
+          "prenom": "Nelly Marie Angèle",
+          "nom_complet": "Nelly Marie Angèle LOQUET DESFOSSEZ",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "ROTOLO",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric ROTOLO",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "SPRIMONT CHERQUEFOSSE",
+          "prenom": "Andrée Rosalie",
+          "nom_complet": "Andrée Rosalie SPRIMONT CHERQUEFOSSE",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "TONDEUR",
+          "prenom": "Pierre-Marie",
+          "nom_complet": "Pierre-Marie TONDEUR",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "KUHN",
+          "prenom": "Laetitia",
+          "nom_complet": "Laetitia KUHN",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "STRICANNE",
+          "prenom": "Kévin",
+          "nom_complet": "Kévin STRICANNE",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "POTTIER",
+          "prenom": "Emilie",
+          "nom_complet": "Emilie POTTIER",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "TISON",
+          "prenom": "Jeremy",
+          "nom_complet": "Jeremy TISON",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

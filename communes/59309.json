@@ -1,0 +1,279 @@
+{
+  "code_commune": "59309",
+  "commune": "Hondschoote",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "DELATTRE",
+    "prenom": "François",
+    "nom_complet": "François DELATTRE",
+    "age": 54,
+    "nuance": "LDIV"
+  },
+  "resultats": {
+    "inscrits": 3171,
+    "votants": 2001,
+    "pct_votants": 63.1,
+    "abstentions": 1170,
+    "pct_abstentions": 36.9,
+    "exprimes": 1946
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "Nouvelle Ere pour Hondschoote",
+      "libelle_abrege_liste": "neph",
+      "nuance_liste": "LDIV",
+      "voix": 1003,
+      "pct_voix_exprimes": 51.54,
+      "sieges_cm": 21,
+      "sieges_cc": 3,
+      "nb_elus": 21,
+      "tete_de_liste": {
+        "nom": "DELATTRE",
+        "prenom": "François",
+        "nom_complet": "François DELATTRE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DELATTRE",
+          "prenom": "François",
+          "nom_complet": "François DELATTRE",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LEMAIRE",
+          "prenom": "Carole",
+          "nom_complet": "Carole LEMAIRE",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LOUCHAERT",
+          "prenom": "Hervé",
+          "nom_complet": "Hervé LOUCHAERT",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "PATFOORT",
+          "prenom": "Edith",
+          "nom_complet": "Edith PATFOORT",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "WILLEMART",
+          "prenom": "Hervé",
+          "nom_complet": "Hervé WILLEMART",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DEVIENNE",
+          "prenom": "Gwendoline",
+          "nom_complet": "Gwendoline DEVIENNE",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "VERHAEGHE",
+          "prenom": "Régis",
+          "nom_complet": "Régis VERHAEGHE",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DECOSTER",
+          "prenom": "Laurence",
+          "nom_complet": "Laurence DECOSTER",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "LA DELFA",
+          "prenom": "Patricio",
+          "nom_complet": "Patricio LA DELFA",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "SIX",
+          "prenom": "Sarah",
+          "nom_complet": "Sarah SIX",
+          "sexe": "F",
+          "age": 24,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "AERNOUTS",
+          "prenom": "Jean-Marc",
+          "nom_complet": "Jean-Marc AERNOUTS",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "DEPECKER",
+          "prenom": "Hélène",
+          "nom_complet": "Hélène DEPECKER",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "WARYN",
+          "prenom": "Denis",
+          "nom_complet": "Denis WARYN",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "VERHAEGHE",
+          "prenom": "Peggy",
+          "nom_complet": "Peggy VERHAEGHE",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "BECUWE",
+          "prenom": "Bertrand",
+          "nom_complet": "Bertrand BECUWE",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "VERBANCK",
+          "prenom": "Clémence",
+          "nom_complet": "Clémence VERBANCK",
+          "sexe": "F",
+          "age": 21,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "DESJONQUERES",
+          "prenom": "Benoît",
+          "nom_complet": "Benoît DESJONQUERES",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "TELLIER",
+          "prenom": "Justine",
+          "nom_complet": "Justine TELLIER",
+          "sexe": "F",
+          "age": 22,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "SCHUTT",
+          "prenom": "Patrice",
+          "nom_complet": "Patrice SCHUTT",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "ANDRIEUX",
+          "prenom": "Peggy",
+          "nom_complet": "Peggy ANDRIEUX",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "DEVIENNE",
+          "prenom": "Gérard",
+          "nom_complet": "Gérard DEVIENNE",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "21"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Des racines fortes, un avenir dynamique",
+      "libelle_abrege_liste": "DRFUAD",
+      "nuance_liste": "LDVD",
+      "voix": 943,
+      "pct_voix_exprimes": 48.46,
+      "sieges_cm": 6,
+      "sieges_cc": 1,
+      "nb_elus": 6,
+      "tete_de_liste": {
+        "nom": "VERMERSCH",
+        "prenom": "Jérôme",
+        "nom_complet": "Jérôme VERMERSCH",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "VERMERSCH",
+          "prenom": "Jérôme",
+          "nom_complet": "Jérôme VERMERSCH",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DETURCK",
+          "prenom": "Mélanie",
+          "nom_complet": "Mélanie DETURCK",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BARBARY",
+          "prenom": "David",
+          "nom_complet": "David BARBARY",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "WIECZOREK",
+          "prenom": "Martine",
+          "nom_complet": "Martine WIECZOREK",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "SAISON",
+          "prenom": "Antoine",
+          "nom_complet": "Antoine SAISON",
+          "sexe": "M",
+          "age": 32,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "POULEYN",
+          "prenom": "Katia",
+          "nom_complet": "Katia POULEYN",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "6"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

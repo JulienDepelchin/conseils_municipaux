@@ -1,0 +1,183 @@
+{
+  "code_commune": "59312",
+  "commune": "Honnecourt-sur-Escaut",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "MERESSE",
+    "prenom": "Thibault",
+    "nom_complet": "Thibault MERESSE",
+    "age": 41,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 477,
+    "votants": 361,
+    "pct_votants": 75.68,
+    "abstentions": 116,
+    "pct_abstentions": 24.32,
+    "exprimes": 339
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ENSEMBLE POUR HONNECOURT",
+      "libelle_abrege_liste": "ENSEMBLE POUR HONNECOURT",
+      "nuance_liste": null,
+      "voix": 178,
+      "pct_voix_exprimes": 52.51,
+      "sieges_cm": 12,
+      "sieges_cc": null,
+      "nb_elus": 12,
+      "tete_de_liste": {
+        "nom": "MERESSE",
+        "prenom": "Thibault",
+        "nom_complet": "Thibault MERESSE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "MERESSE",
+          "prenom": "Thibault",
+          "nom_complet": "Thibault MERESSE",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LAMOURET",
+          "prenom": "Sandrine",
+          "nom_complet": "Sandrine LAMOURET",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DUBOIS",
+          "prenom": "Camille",
+          "nom_complet": "Camille DUBOIS",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BRIEUX",
+          "prenom": "Lysiane",
+          "nom_complet": "Lysiane BRIEUX",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LAMOURET",
+          "prenom": "Thierry",
+          "nom_complet": "Thierry LAMOURET",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "ARNOUX",
+          "prenom": "Léa",
+          "nom_complet": "Léa ARNOUX",
+          "sexe": "F",
+          "age": 25,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "SAUVEZ",
+          "prenom": "Maxime",
+          "nom_complet": "Maxime SAUVEZ",
+          "sexe": "M",
+          "age": 31,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "PILON",
+          "prenom": "Chloé",
+          "nom_complet": "Chloé PILON",
+          "sexe": "F",
+          "age": 25,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "HAUTECOEUR",
+          "prenom": "Didier",
+          "nom_complet": "Didier HAUTECOEUR",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "BRAINVILLE",
+          "prenom": "Justine",
+          "nom_complet": "Justine BRAINVILLE",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "PONTHIEUX",
+          "prenom": "Thibaut",
+          "nom_complet": "Thibaut PONTHIEUX",
+          "sexe": "M",
+          "age": 29,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "BACHELET",
+          "prenom": "Caroline",
+          "nom_complet": "Caroline BACHELET",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "12"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "MIEUX VIVRE A HONNECOURT",
+      "libelle_abrege_liste": "MIEUX VIVRE A HONNECOURT",
+      "nuance_liste": null,
+      "voix": 161,
+      "pct_voix_exprimes": 47.49,
+      "sieges_cm": 3,
+      "sieges_cc": null,
+      "nb_elus": 3,
+      "tete_de_liste": {
+        "nom": "MAILLART",
+        "prenom": "Bernard",
+        "nom_complet": "Bernard MAILLART",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "MAILLART",
+          "prenom": "Bernard",
+          "nom_complet": "Bernard MAILLART",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "TISON",
+          "prenom": "Chantal",
+          "nom_complet": "Chantal TISON",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "RUOL",
+          "prenom": "Michaêl",
+          "nom_complet": "Michaêl RUOL",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "3"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

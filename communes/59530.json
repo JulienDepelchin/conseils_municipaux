@@ -1,0 +1,131 @@
+{
+  "code_commune": "59530",
+  "commune": "Saint-Aybert",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "ANIÉRÉ",
+    "prenom": "Michaël",
+    "nom_complet": "Michaël ANIÉRÉ",
+    "age": 46,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 224,
+    "votants": 149,
+    "pct_votants": 66.52,
+    "abstentions": 75,
+    "pct_abstentions": 33.48,
+    "exprimes": 144
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ENSEMBLE POUR L'AVENIR",
+      "libelle_abrege_liste": "ENSEMBLE POUR L'AVENIR",
+      "nuance_liste": null,
+      "voix": 144,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "ANIÉRÉ",
+        "prenom": "Michaël",
+        "nom_complet": "Michaël ANIÉRÉ",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "ANIÉRÉ",
+          "prenom": "Michaël",
+          "nom_complet": "Michaël ANIÉRÉ",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DUBOIS",
+          "prenom": "Michele",
+          "nom_complet": "Michele DUBOIS",
+          "sexe": "F",
+          "age": 72,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LUSZCZ",
+          "prenom": "Richard",
+          "nom_complet": "Richard LUSZCZ",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "HIGUINEN",
+          "prenom": "Alexandra",
+          "nom_complet": "Alexandra HIGUINEN",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "BATARD",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno BATARD",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LUSZCZ",
+          "prenom": "Lisa",
+          "nom_complet": "Lisa LUSZCZ",
+          "sexe": "F",
+          "age": 25,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "JACQUEMIN",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas JACQUEMIN",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DELAMAIDE",
+          "prenom": "Amandine",
+          "nom_complet": "Amandine DELAMAIDE",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "PAWLAK",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe PAWLAK",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "RUELLE",
+          "prenom": "Fleurinée",
+          "nom_complet": "Fleurinée RUELLE",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "ROSE",
+          "prenom": "Gregoire",
+          "nom_complet": "Gregoire ROSE",
+          "sexe": "M",
+          "age": 28,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

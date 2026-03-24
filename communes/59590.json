@@ -1,0 +1,163 @@
+{
+  "code_commune": "59590",
+  "commune": "Thiennes",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "BART",
+    "prenom": "Benoit",
+    "nom_complet": "Benoit BART",
+    "age": 63,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 618,
+    "votants": 420,
+    "pct_votants": 67.96,
+    "abstentions": 198,
+    "pct_abstentions": 32.04,
+    "exprimes": 325
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "UNION ET SERENITE",
+      "libelle_abrege_liste": "US",
+      "nuance_liste": null,
+      "voix": 325,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "BART",
+        "prenom": "Benoit",
+        "nom_complet": "Benoit BART",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BART",
+          "prenom": "Benoit",
+          "nom_complet": "Benoit BART",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "FUMERY",
+          "prenom": "Chantal",
+          "nom_complet": "Chantal FUMERY",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BRUNET",
+          "prenom": "Julien",
+          "nom_complet": "Julien BRUNET",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LEGRAND",
+          "prenom": "Cassandra",
+          "nom_complet": "Cassandra LEGRAND",
+          "sexe": "F",
+          "age": 32,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DUQUENNE",
+          "prenom": "Henri",
+          "nom_complet": "Henri DUQUENNE",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "BOUTOILLE",
+          "prenom": "Estelle",
+          "nom_complet": "Estelle BOUTOILLE",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DELANSAY",
+          "prenom": "Emmanuel",
+          "nom_complet": "Emmanuel DELANSAY",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "CHAVATTE",
+          "prenom": "Aurélie",
+          "nom_complet": "Aurélie CHAVATTE",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "LEGRAND",
+          "prenom": "Geoffrey",
+          "nom_complet": "Geoffrey LEGRAND",
+          "sexe": "M",
+          "age": 34,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "BAUDART",
+          "prenom": "Catherine",
+          "nom_complet": "Catherine BAUDART",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "GFELLER",
+          "prenom": "Maxence",
+          "nom_complet": "Maxence GFELLER",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "FOSSIER",
+          "prenom": "Aurelie",
+          "nom_complet": "Aurelie FOSSIER",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "BLONDEL",
+          "prenom": "Damien",
+          "nom_complet": "Damien BLONDEL",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "BOULANGER",
+          "prenom": "Edith",
+          "nom_complet": "Edith BOULANGER",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "LOONES",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe LOONES",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

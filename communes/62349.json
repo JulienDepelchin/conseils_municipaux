@@ -1,0 +1,195 @@
+{
+  "code_commune": "62349",
+  "commune": "Fouquereuil",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "PEREIRA",
+    "prenom": "Fabrice",
+    "nom_complet": "Fabrice PEREIRA",
+    "age": 63,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1205,
+    "votants": 733,
+    "pct_votants": 60.83,
+    "abstentions": 472,
+    "pct_abstentions": 39.17,
+    "exprimes": 643
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "FOUQUEREUIL HORIZON 2026",
+      "libelle_abrege_liste": "FOUQUEREUIL HORIZON 2026",
+      "nuance_liste": null,
+      "voix": 643,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 19,
+      "sieges_cc": 1,
+      "nb_elus": 19,
+      "tete_de_liste": {
+        "nom": "PEREIRA",
+        "prenom": "Fabrice",
+        "nom_complet": "Fabrice PEREIRA",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "PEREIRA",
+          "prenom": "Fabrice",
+          "nom_complet": "Fabrice PEREIRA",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "VERPRAET",
+          "prenom": "Severine",
+          "nom_complet": "Severine VERPRAET",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BILLET",
+          "prenom": "Guy",
+          "nom_complet": "Guy BILLET",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "FLAMENT",
+          "prenom": "Anne Sylvie",
+          "nom_complet": "Anne Sylvie FLAMENT",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LIAGRE",
+          "prenom": "Jean Paul",
+          "nom_complet": "Jean Paul LIAGRE",
+          "sexe": "M",
+          "age": 83,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "BILLET",
+          "prenom": "Dany",
+          "nom_complet": "Dany BILLET",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "GUILBERT",
+          "prenom": "Gérard",
+          "nom_complet": "Gérard GUILBERT",
+          "sexe": "M",
+          "age": 78,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LEFEBVRE HEROT",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle LEFEBVRE HEROT",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "CARON",
+          "prenom": "Erwyn",
+          "nom_complet": "Erwyn CARON",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "TIRACHE",
+          "prenom": "Gladys",
+          "nom_complet": "Gladys TIRACHE",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "CHEAM",
+          "prenom": "Chamrong",
+          "nom_complet": "Chamrong CHEAM",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "MALINGUE",
+          "prenom": "Caroline",
+          "nom_complet": "Caroline MALINGUE",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "DELEYE",
+          "prenom": "Michael",
+          "nom_complet": "Michael DELEYE",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "BRASME",
+          "prenom": "Laetitia",
+          "nom_complet": "Laetitia BRASME",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "CLARYSSE",
+          "prenom": "Francis",
+          "nom_complet": "Francis CLARYSSE",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "KREPULEC",
+          "prenom": "Patricia",
+          "nom_complet": "Patricia KREPULEC",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "BOULINGUIEZ",
+          "prenom": "Alexandre",
+          "nom_complet": "Alexandre BOULINGUIEZ",
+          "sexe": "M",
+          "age": 34,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "NAUDIN CARON",
+          "prenom": "Micheline",
+          "nom_complet": "Micheline NAUDIN CARON",
+          "sexe": "F",
+          "age": 80,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "GODET",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe GODET",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "19"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

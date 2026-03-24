@@ -1,0 +1,163 @@
+{
+  "code_commune": "62649",
+  "commune": "Pas-en-Artois",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "DOUCHET",
+    "prenom": "Arnaud",
+    "nom_complet": "Arnaud DOUCHET",
+    "age": 50,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 544,
+    "votants": 346,
+    "pct_votants": 63.6,
+    "abstentions": 198,
+    "pct_abstentions": 36.4,
+    "exprimes": 265
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Liste d'Union pour la défense des intérêts communaux de Pas-en-Artois",
+      "libelle_abrege_liste": "Liste d'Union pour la défense des intérêts communaux de Pas-en-Artois",
+      "nuance_liste": null,
+      "voix": 265,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "DOUCHET",
+        "prenom": "Arnaud",
+        "nom_complet": "Arnaud DOUCHET",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DOUCHET",
+          "prenom": "Arnaud",
+          "nom_complet": "Arnaud DOUCHET",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BUIGNET",
+          "prenom": "Agnès",
+          "nom_complet": "Agnès BUIGNET",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BOUBAAYA",
+          "prenom": "Vivien",
+          "nom_complet": "Vivien BOUBAAYA",
+          "sexe": "M",
+          "age": 34,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "COUSIN",
+          "prenom": "Marine",
+          "nom_complet": "Marine COUSIN",
+          "sexe": "F",
+          "age": 33,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "BOUTHORS",
+          "prenom": "Frederic",
+          "nom_complet": "Frederic BOUTHORS",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DEFFONTAINES",
+          "prenom": "Vinciane",
+          "nom_complet": "Vinciane DEFFONTAINES",
+          "sexe": "F",
+          "age": 30,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "COTTIN",
+          "prenom": "Gilbert",
+          "nom_complet": "Gilbert COTTIN",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DELECROIX-BOROWIAK",
+          "prenom": "Emilie",
+          "nom_complet": "Emilie DELECROIX-BOROWIAK",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "GOURDEL",
+          "prenom": "Quentin",
+          "nom_complet": "Quentin GOURDEL",
+          "sexe": "M",
+          "age": 29,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "FOURNIER",
+          "prenom": "Juliette",
+          "nom_complet": "Juliette FOURNIER",
+          "sexe": "F",
+          "age": 25,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "HOUBRON",
+          "prenom": "Dylan",
+          "nom_complet": "Dylan HOUBRON",
+          "sexe": "M",
+          "age": 31,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "LAVILLETTE",
+          "prenom": "Vanessa",
+          "nom_complet": "Vanessa LAVILLETTE",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "JONARD",
+          "prenom": "Fabien",
+          "nom_complet": "Fabien JONARD",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "MENARD",
+          "prenom": "Claudine",
+          "nom_complet": "Claudine MENARD",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "PARMENTIER",
+          "prenom": "Régis",
+          "nom_complet": "Régis PARMENTIER",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "code_commune": "62509",
+  "commune": "Liettres",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "BECUWE",
+    "prenom": "Pierre",
+    "nom_complet": "Pierre BECUWE",
+    "age": 39,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 260,
+    "votants": 160,
+    "pct_votants": 61.54,
+    "abstentions": 100,
+    "pct_abstentions": 38.46,
+    "exprimes": 135
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "LIETTRES, TOUS ENSEMBLE POUR NOTRE VILLAGE",
+      "libelle_abrege_liste": "LIETTRES, TOUS ENSEMBLE POUR NOTRE VILLAGE",
+      "nuance_liste": null,
+      "voix": 135,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "BECUWE",
+        "prenom": "Pierre",
+        "nom_complet": "Pierre BECUWE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BECUWE",
+          "prenom": "Pierre",
+          "nom_complet": "Pierre BECUWE",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DUBRULLE",
+          "prenom": "Aurélie",
+          "nom_complet": "Aurélie DUBRULLE",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "CADART",
+          "prenom": "Freddy",
+          "nom_complet": "Freddy CADART",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "WINTREBERT",
+          "prenom": "Patricia",
+          "nom_complet": "Patricia WINTREBERT",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "COEVOET",
+          "prenom": "Pierre",
+          "nom_complet": "Pierre COEVOET",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "SPECQUE",
+          "prenom": "Catherine",
+          "nom_complet": "Catherine SPECQUE",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "SCARABIN",
+          "prenom": "Damien",
+          "nom_complet": "Damien SCARABIN",
+          "sexe": "M",
+          "age": 33,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "GUYOT",
+          "prenom": "Audrey",
+          "nom_complet": "Audrey GUYOT",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "WALLART",
+          "prenom": "Julien",
+          "nom_complet": "Julien WALLART",
+          "sexe": "M",
+          "age": 27,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "LIBESSART",
+          "prenom": "Ludivine",
+          "nom_complet": "Ludivine LIBESSART",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "SPECQUE",
+          "prenom": "Julien",
+          "nom_complet": "Julien SPECQUE",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

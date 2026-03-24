@@ -1,0 +1,131 @@
+{
+  "code_commune": "62409",
+  "commune": "Hannescamps",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "CORMAN",
+    "prenom": "Jérôme",
+    "nom_complet": "Jérôme CORMAN",
+    "age": 51,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 161,
+    "votants": 109,
+    "pct_votants": 67.7,
+    "abstentions": 52,
+    "pct_abstentions": 32.3,
+    "exprimes": 82
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "AGIR AUJOURD'HUI, PREPARER DEMAIN !",
+      "libelle_abrege_liste": "AGIR AUJOURD'HUI, PREPARER DEMAIN !",
+      "nuance_liste": null,
+      "voix": 82,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "CORMAN",
+        "prenom": "Jérôme",
+        "nom_complet": "Jérôme CORMAN",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "CORMAN",
+          "prenom": "Jérôme",
+          "nom_complet": "Jérôme CORMAN",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "HUBIN",
+          "prenom": "Aline",
+          "nom_complet": "Aline HUBIN",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "JACQUET",
+          "prenom": "David",
+          "nom_complet": "David JACQUET",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DERAMOUDT",
+          "prenom": "Christelle",
+          "nom_complet": "Christelle DERAMOUDT",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "PJATER",
+          "prenom": "Erwin",
+          "nom_complet": "Erwin PJATER",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "NEAUPORT",
+          "prenom": "Bénédicte",
+          "nom_complet": "Bénédicte NEAUPORT",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "LETOCART",
+          "prenom": "Rudy",
+          "nom_complet": "Rudy LETOCART",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LESAGE",
+          "prenom": "Mélodie",
+          "nom_complet": "Mélodie LESAGE",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "BOILEUX",
+          "prenom": "Gaëtan",
+          "nom_complet": "Gaëtan BOILEUX",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "LEMAIRE",
+          "prenom": "Mathilde",
+          "nom_complet": "Mathilde LEMAIRE",
+          "sexe": "F",
+          "age": 25,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "BOUCHER",
+          "prenom": "Victor",
+          "nom_complet": "Victor BOUCHER",
+          "sexe": "M",
+          "age": 20,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

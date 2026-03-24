@@ -1,0 +1,163 @@
+{
+  "code_commune": "59539",
+  "commune": "Saint-Pierre-Brouck",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "GRONDEL",
+    "prenom": "Gérard",
+    "nom_complet": "Gérard GRONDEL",
+    "age": 75,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 776,
+    "votants": 466,
+    "pct_votants": 60.05,
+    "abstentions": 310,
+    "pct_abstentions": 39.95,
+    "exprimes": 421
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Bien vivre ensemble à Saint-Pierre-Brouck",
+      "libelle_abrege_liste": "Bien vivre ensemble à Saint-Pierre-Brouck",
+      "nuance_liste": null,
+      "voix": 421,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "GRONDEL",
+        "prenom": "Gérard",
+        "nom_complet": "Gérard GRONDEL",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "GRONDEL",
+          "prenom": "Gérard",
+          "nom_complet": "Gérard GRONDEL",
+          "sexe": "M",
+          "age": 75,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LEMAIRE-DESCHEPPER",
+          "prenom": "Marie-Pierre",
+          "nom_complet": "Marie-Pierre LEMAIRE-DESCHEPPER",
+          "sexe": "F",
+          "age": 71,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "FONTAINE",
+          "prenom": "Didier",
+          "nom_complet": "Didier FONTAINE",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DECALF-LOUF",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie DECALF-LOUF",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "BECQUART",
+          "prenom": "Xavier",
+          "nom_complet": "Xavier BECQUART",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DESMULIE-SPAGNOL",
+          "prenom": "Fanny",
+          "nom_complet": "Fanny DESMULIE-SPAGNOL",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DELANNOY",
+          "prenom": "Romain",
+          "nom_complet": "Romain DELANNOY",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "GRONDEL-CATTEAU",
+          "prenom": "Marie",
+          "nom_complet": "Marie GRONDEL-CATTEAU",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "LANOY",
+          "prenom": "Théo",
+          "nom_complet": "Théo LANOY",
+          "sexe": "M",
+          "age": 26,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "PATOUX-LEFEBVRE",
+          "prenom": "Patricia",
+          "nom_complet": "Patricia PATOUX-LEFEBVRE",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "MONCHET",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe MONCHET",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "VANLICHTERVELDE",
+          "prenom": "Marie",
+          "nom_complet": "Marie VANLICHTERVELDE",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "LACROIX",
+          "prenom": "Maxence",
+          "nom_complet": "Maxence LACROIX",
+          "sexe": "M",
+          "age": 22,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "LEGRAND-POUCHELLE",
+          "prenom": "Mélanie",
+          "nom_complet": "Mélanie LEGRAND-POUCHELLE",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "LEFRANC",
+          "prenom": "Alexandre",
+          "nom_complet": "Alexandre LEFRANC",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

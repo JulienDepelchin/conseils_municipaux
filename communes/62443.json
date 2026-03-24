@@ -1,0 +1,295 @@
+{
+  "code_commune": "62443",
+  "commune": "Hersin-Coupigny",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "CARAMIAUX",
+    "prenom": "Jean-Marie",
+    "nom_complet": "Jean-Marie CARAMIAUX",
+    "age": 70,
+    "nuance": "LDIV"
+  },
+  "resultats": {
+    "inscrits": 4502,
+    "votants": 3091,
+    "pct_votants": 68.66,
+    "abstentions": 1411,
+    "pct_abstentions": 31.34,
+    "exprimes": 3021
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "AGIR ENSEMBLE POUR HERSIN-COUPIGNY",
+      "libelle_abrege_liste": "AGIR ENSEMBLE POUR HERSIN-COUPIGNY",
+      "nuance_liste": "LDIV",
+      "voix": 1806,
+      "pct_voix_exprimes": 59.78,
+      "sieges_cm": 23,
+      "sieges_cc": 2,
+      "nb_elus": 23,
+      "tete_de_liste": {
+        "nom": "CARAMIAUX",
+        "prenom": "Jean-Marie",
+        "nom_complet": "Jean-Marie CARAMIAUX",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "CARAMIAUX",
+          "prenom": "Jean-Marie",
+          "nom_complet": "Jean-Marie CARAMIAUX",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LOISEL",
+          "prenom": "Peggy",
+          "nom_complet": "Peggy LOISEL",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BEVE",
+          "prenom": "Jean-Pierre",
+          "nom_complet": "Jean-Pierre BEVE",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LECOMPTE",
+          "prenom": "Monique",
+          "nom_complet": "Monique LECOMPTE",
+          "sexe": "F",
+          "age": 73,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "COLOMBANI",
+          "prenom": "Jérôme",
+          "nom_complet": "Jérôme COLOMBANI",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DEVIGNES",
+          "prenom": "Madeline",
+          "nom_complet": "Madeline DEVIGNES",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "FOURNIER",
+          "prenom": "Sébastien",
+          "nom_complet": "Sébastien FOURNIER",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "NUTER",
+          "prenom": "Claudine",
+          "nom_complet": "Claudine NUTER",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "VANDEPUTTE",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent VANDEPUTTE",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DUVIVIER",
+          "prenom": "Jessica",
+          "nom_complet": "Jessica DUVIVIER",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DESCAMPS",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas DESCAMPS",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "POIRET",
+          "prenom": "Thérèse",
+          "nom_complet": "Thérèse POIRET",
+          "sexe": "F",
+          "age": 78,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "FONTAINE",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent FONTAINE",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "FERREIRA",
+          "prenom": "Sonia",
+          "nom_complet": "Sonia FERREIRA",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "STULMULLER",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno STULMULLER",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "DALLONGEVILLE",
+          "prenom": "Julia",
+          "nom_complet": "Julia DALLONGEVILLE",
+          "sexe": "F",
+          "age": 33,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "LEFEBVRE",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique LEFEBVRE",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "CHUDOBA",
+          "prenom": "Marie-Aude",
+          "nom_complet": "Marie-Aude CHUDOBA",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "DUQUESNOY",
+          "prenom": "Maxime",
+          "nom_complet": "Maxime DUQUESNOY",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "CLERCIN",
+          "prenom": "Nadège",
+          "nom_complet": "Nadège CLERCIN",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "LEPRINCE",
+          "prenom": "Logan",
+          "nom_complet": "Logan LEPRINCE",
+          "sexe": "M",
+          "age": 30,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "CARPENTIER",
+          "prenom": "Martine",
+          "nom_complet": "Martine CARPENTIER",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "MERLEVELDE",
+          "prenom": "Kévin",
+          "nom_complet": "Kévin MERLEVELDE",
+          "sexe": "M",
+          "age": 32,
+          "rang_liste": "23"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "HERSIN DEMAIN",
+      "libelle_abrege_liste": "HERSIN DEMAIN",
+      "nuance_liste": "LDVG",
+      "voix": 1215,
+      "pct_voix_exprimes": 40.22,
+      "sieges_cm": 6,
+      "sieges_cc": 0,
+      "nb_elus": 6,
+      "tete_de_liste": {
+        "nom": "FAVIER",
+        "prenom": "Simon",
+        "nom_complet": "Simon FAVIER",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "FAVIER",
+          "prenom": "Simon",
+          "nom_complet": "Simon FAVIER",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "KOFFI",
+          "prenom": "Olivia",
+          "nom_complet": "Olivia KOFFI",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "SKRZYPCZAK",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick SKRZYPCZAK",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BARON",
+          "prenom": "Murielle",
+          "nom_complet": "Murielle BARON",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LALLAIN",
+          "prenom": "Clément",
+          "nom_complet": "Clément LALLAIN",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "CRESPEL",
+          "prenom": "Caroline",
+          "nom_complet": "Caroline CRESPEL",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "6"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

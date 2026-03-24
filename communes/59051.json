@@ -1,0 +1,295 @@
+{
+  "code_commune": "59051",
+  "commune": "La Bassée",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "CAUDERLIER",
+    "prenom": "Frédéric",
+    "nom_complet": "Frédéric CAUDERLIER",
+    "age": 51,
+    "nuance": "LDVC"
+  },
+  "resultats": {
+    "inscrits": 4482,
+    "votants": 2663,
+    "pct_votants": 59.42,
+    "abstentions": 1819,
+    "pct_abstentions": 40.58,
+    "exprimes": 2575
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "J'AIME MA VILLE",
+      "libelle_abrege_liste": "J'AIME MA VILLE",
+      "nuance_liste": "LDVC",
+      "voix": 1671,
+      "pct_voix_exprimes": 64.89,
+      "sieges_cm": 24,
+      "sieges_cc": 1,
+      "nb_elus": 24,
+      "tete_de_liste": {
+        "nom": "CAUDERLIER",
+        "prenom": "Frédéric",
+        "nom_complet": "Frédéric CAUDERLIER",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "CAUDERLIER",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric CAUDERLIER",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "THOMAS",
+          "prenom": "Angélique",
+          "nom_complet": "Angélique THOMAS",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DEGUFFROY",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe DEGUFFROY",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DELEPIERRE",
+          "prenom": "Magali",
+          "nom_complet": "Magali DELEPIERRE",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LENGLIN",
+          "prenom": "Benoît",
+          "nom_complet": "Benoît LENGLIN",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "JOVENEAUX",
+          "prenom": "Clémence",
+          "nom_complet": "Clémence JOVENEAUX",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DE OLIVEIRA",
+          "prenom": "Samuel",
+          "nom_complet": "Samuel DE OLIVEIRA",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "GONEZ",
+          "prenom": "Catherine",
+          "nom_complet": "Catherine GONEZ",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "BILLAUT",
+          "prenom": "Cédric",
+          "nom_complet": "Cédric BILLAUT",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DUCROCQ",
+          "prenom": "José",
+          "nom_complet": "José DUCROCQ",
+          "sexe": "F",
+          "age": 70,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "BRASSEUR",
+          "prenom": "Dany",
+          "nom_complet": "Dany BRASSEUR",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "PANNECOUCKE",
+          "prenom": "Laurie",
+          "nom_complet": "Laurie PANNECOUCKE",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "BOUJENNA",
+          "prenom": "Abderrafehe",
+          "nom_complet": "Abderrafehe BOUJENNA",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "DELABRE",
+          "prenom": "Louise",
+          "nom_complet": "Louise DELABRE",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "MASSELOT",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno MASSELOT",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "SOBRIE",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie SOBRIE",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "CONIA",
+          "prenom": "Alexis",
+          "nom_complet": "Alexis CONIA",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "LECONTE",
+          "prenom": "Frédérique",
+          "nom_complet": "Frédérique LECONTE",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "DEBREU",
+          "prenom": "Jean-Marie",
+          "nom_complet": "Jean-Marie DEBREU",
+          "sexe": "M",
+          "age": 80,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "DE KEYSER",
+          "prenom": "Valérie",
+          "nom_complet": "Valérie DE KEYSER",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "LECLERCQ",
+          "prenom": "Stéphane",
+          "nom_complet": "Stéphane LECLERCQ",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "HERNOULT",
+          "prenom": "Françoise",
+          "nom_complet": "Françoise HERNOULT",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "PAQUOT",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno PAQUOT",
+          "sexe": "M",
+          "age": 30,
+          "rang_liste": "23"
+        },
+        {
+          "nom": "GEVAERT",
+          "prenom": "Tyana",
+          "nom_complet": "Tyana GEVAERT",
+          "sexe": "F",
+          "age": 21,
+          "rang_liste": "24"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "MIEUX VIVRE A LA BASSEE",
+      "libelle_abrege_liste": "MIEUX VIVRE A LA BASSEE",
+      "nuance_liste": "LDVD",
+      "voix": 904,
+      "pct_voix_exprimes": 35.11,
+      "sieges_cm": 5,
+      "sieges_cc": 0,
+      "nb_elus": 5,
+      "tete_de_liste": {
+        "nom": "COURTOIS",
+        "prenom": "David",
+        "nom_complet": "David COURTOIS",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "COURTOIS",
+          "prenom": "David",
+          "nom_complet": "David COURTOIS",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DUJARDIN",
+          "prenom": "Lucie",
+          "nom_complet": "Lucie DUJARDIN",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "VANDOOLAEGHE",
+          "prenom": "Ludovic",
+          "nom_complet": "Ludovic VANDOOLAEGHE",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DUBOIS",
+          "prenom": "Juliette",
+          "nom_complet": "Juliette DUBOIS",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "SENAVE",
+          "prenom": "Matthieu",
+          "nom_complet": "Matthieu SENAVE",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "5"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

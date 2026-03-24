@@ -1,0 +1,315 @@
+{
+  "code_commune": "59033",
+  "commune": "Aulnoye-Aymeries",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "BAUDOUX",
+    "prenom": "Bernard",
+    "nom_complet": "Bernard BAUDOUX",
+    "age": 77,
+    "nuance": "LCOM"
+  },
+  "resultats": {
+    "inscrits": 6762,
+    "votants": 3663,
+    "pct_votants": 54.17,
+    "abstentions": 3099,
+    "pct_abstentions": 45.83,
+    "exprimes": 3591
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Notre ville est belle, continuons !",
+      "libelle_abrege_liste": "Notre ville est belle, continuons !",
+      "nuance_liste": "LCOM",
+      "voix": 2144,
+      "pct_voix_exprimes": 59.7,
+      "sieges_cm": 24,
+      "sieges_cc": 5,
+      "nb_elus": 24,
+      "tete_de_liste": {
+        "nom": "BAUDOUX",
+        "prenom": "Bernard",
+        "nom_complet": "Bernard BAUDOUX",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BAUDOUX",
+          "prenom": "Bernard",
+          "nom_complet": "Bernard BAUDOUX",
+          "sexe": "M",
+          "age": 77,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DENYS",
+          "prenom": "Agnès",
+          "nom_complet": "Agnès DENYS",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "GEORGES",
+          "prenom": "Hugo",
+          "nom_complet": "Hugo GEORGES",
+          "sexe": "M",
+          "age": 31,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "TOURNAY",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie TOURNAY",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DURIEUX",
+          "prenom": "Jean",
+          "nom_complet": "Jean DURIEUX",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DEPRET",
+          "prenom": "Kévine",
+          "nom_complet": "Kévine DEPRET",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "THURETTE",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal THURETTE",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "CAMBRELENG",
+          "prenom": "Sabine",
+          "nom_complet": "Sabine CAMBRELENG",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DEHIER",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe DEHIER",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "N'DIAYE",
+          "prenom": "Betty",
+          "nom_complet": "Betty N'DIAYE",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "POL",
+          "prenom": "Maxime",
+          "nom_complet": "Maxime POL",
+          "sexe": "M",
+          "age": 26,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "WAGER",
+          "prenom": "Corinne",
+          "nom_complet": "Corinne WAGER",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "ALEXANDRE-VIRGILE",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique ALEXANDRE-VIRGILE",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "LALLEMAND",
+          "prenom": "Charlotte",
+          "nom_complet": "Charlotte LALLEMAND",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "VALET",
+          "prenom": "Jean-Luc",
+          "nom_complet": "Jean-Luc VALET",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "HARDY",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie HARDY",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "ROGIER",
+          "prenom": "Quentin",
+          "nom_complet": "Quentin ROGIER",
+          "sexe": "M",
+          "age": 32,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "CHAMBRE",
+          "prenom": "Aline",
+          "nom_complet": "Aline CHAMBRE",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "DURSENT",
+          "prenom": "Sébastien",
+          "nom_complet": "Sébastien DURSENT",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "LEPOUTERE",
+          "prenom": "Aurore",
+          "nom_complet": "Aurore LEPOUTERE",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "LESAGE",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe LESAGE",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "DESSE",
+          "prenom": "Janique",
+          "nom_complet": "Janique DESSE",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "CARPENTIER",
+          "prenom": "François",
+          "nom_complet": "François CARPENTIER",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "23"
+        },
+        {
+          "nom": "FROMONT",
+          "prenom": "Sabine",
+          "nom_complet": "Sabine FROMONT",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "24"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "Unis pour Aulnoye-Aymeries",
+      "libelle_abrege_liste": "Unis pour Aulnoye-Aymeries",
+      "nuance_liste": "LEXD",
+      "voix": 879,
+      "pct_voix_exprimes": 24.48,
+      "sieges_cm": 3,
+      "sieges_cc": 0,
+      "nb_elus": 3,
+      "tete_de_liste": {
+        "nom": "HENRY",
+        "prenom": "Valerie",
+        "nom_complet": "Valerie HENRY",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "HENRY",
+          "prenom": "Valerie",
+          "nom_complet": "Valerie HENRY",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "TAVERNE",
+          "prenom": "Michaël",
+          "nom_complet": "Michaël TAVERNE",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "GAUCHET",
+          "prenom": "Claudine",
+          "nom_complet": "Claudine GAUCHET",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "3"
+        }
+      ],
+      "statut_conseil": "autre"
+    },
+    {
+      "num_panneau": "3",
+      "libelle_liste": "\"Aulnoye-Aymeries pour vous, avec vous\"",
+      "libelle_abrege_liste": "\"Aulnoye-Aymeries pour vous, avec vous\"",
+      "nuance_liste": "LDIV",
+      "voix": 568,
+      "pct_voix_exprimes": 15.82,
+      "sieges_cm": 2,
+      "sieges_cc": 0,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "MAIRIAUX",
+        "prenom": "Isabelle",
+        "nom_complet": "Isabelle MAIRIAUX",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "MAIRIAUX",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle MAIRIAUX",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "PALMISTE",
+          "prenom": "Logan",
+          "nom_complet": "Logan PALMISTE",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

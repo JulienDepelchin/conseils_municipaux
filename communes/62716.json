@@ -1,0 +1,183 @@
+{
+  "code_commune": "62716",
+  "commune": "Rodelinghem",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "BOULOGNE",
+    "prenom": "Patrick",
+    "nom_complet": "Patrick BOULOGNE",
+    "age": 57,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 438,
+    "votants": 329,
+    "pct_votants": 75.11,
+    "abstentions": 109,
+    "pct_abstentions": 24.89,
+    "exprimes": 314
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "Rodelinghem tout simplement",
+      "libelle_abrege_liste": "Rodelinghem tout simplement",
+      "nuance_liste": null,
+      "voix": 167,
+      "pct_voix_exprimes": 53.18,
+      "sieges_cm": 12,
+      "sieges_cc": null,
+      "nb_elus": 12,
+      "tete_de_liste": {
+        "nom": "BOULOGNE",
+        "prenom": "Patrick",
+        "nom_complet": "Patrick BOULOGNE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BOULOGNE",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick BOULOGNE",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LEFEBVRE",
+          "prenom": "Marie-Claire",
+          "nom_complet": "Marie-Claire LEFEBVRE",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "WISSOCQ",
+          "prenom": "Sebastien",
+          "nom_complet": "Sebastien WISSOCQ",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BOULOGNE",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique BOULOGNE",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DUCHATEAU",
+          "prenom": "Pierre",
+          "nom_complet": "Pierre DUCHATEAU",
+          "sexe": "M",
+          "age": 22,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "CATEZ",
+          "prenom": "Marion",
+          "nom_complet": "Marion CATEZ",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DUFOURMANTEL",
+          "prenom": "François",
+          "nom_complet": "François DUFOURMANTEL",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "GAUDRY",
+          "prenom": "Helene",
+          "nom_complet": "Helene GAUDRY",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "POILLY",
+          "prenom": "Jean-Jacques",
+          "nom_complet": "Jean-Jacques POILLY",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "IMBERT",
+          "prenom": "Anne-Sophie",
+          "nom_complet": "Anne-Sophie IMBERT",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "LANNOY",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent LANNOY",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "DUMONT",
+          "prenom": "Carine",
+          "nom_complet": "Carine DUMONT",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "12"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ENSEMBLE, CONTINUONS DE CONSTRUIRE L'AVENIR DE RODELINGHEM",
+      "libelle_abrege_liste": "ENSEMBLE, CONTINUONS DE CONSTRUIRE L'AVENIR DE RODELINGHEM",
+      "nuance_liste": null,
+      "voix": 147,
+      "pct_voix_exprimes": 46.82,
+      "sieges_cm": 3,
+      "sieges_cc": null,
+      "nb_elus": 3,
+      "tete_de_liste": {
+        "nom": "BLERARD",
+        "prenom": "Stéphane",
+        "nom_complet": "Stéphane BLERARD",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BLERARD",
+          "prenom": "Stéphane",
+          "nom_complet": "Stéphane BLERARD",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DECLEMY PERILLIAT",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie DECLEMY PERILLIAT",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "PAQUE",
+          "prenom": "Albert",
+          "nom_complet": "Albert PAQUE",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "3"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

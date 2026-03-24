@@ -1,0 +1,131 @@
+{
+  "code_commune": "59443",
+  "commune": "Ochtezeele",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "VERMEULEN",
+    "prenom": "Joël",
+    "nom_complet": "Joël VERMEULEN",
+    "age": 63,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 275,
+    "votants": 193,
+    "pct_votants": 70.18,
+    "abstentions": 82,
+    "pct_abstentions": 29.82,
+    "exprimes": 171
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "OCHTEZEELE DES VALEURS SIMPLES POUR UN VILLAGE VIVANT",
+      "libelle_abrege_liste": "OVSVV",
+      "nuance_liste": null,
+      "voix": 171,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "VERMEULEN",
+        "prenom": "Joël",
+        "nom_complet": "Joël VERMEULEN",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "VERMEULEN",
+          "prenom": "Joël",
+          "nom_complet": "Joël VERMEULEN",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "HUYGHE",
+          "prenom": "Marina",
+          "nom_complet": "Marina HUYGHE",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "VERLET",
+          "prenom": "Clément",
+          "nom_complet": "Clément VERLET",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DIERS",
+          "prenom": "Sabrina",
+          "nom_complet": "Sabrina DIERS",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "BELLYNCK",
+          "prenom": "William",
+          "nom_complet": "William BELLYNCK",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DERAY",
+          "prenom": "Catherine",
+          "nom_complet": "Catherine DERAY",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "IOOS",
+          "prenom": "Vincent",
+          "nom_complet": "Vincent IOOS",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "VANDENBAVIERE",
+          "prenom": "Julie",
+          "nom_complet": "Julie VANDENBAVIERE",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "SCHRYVE",
+          "prenom": "Jean",
+          "nom_complet": "Jean SCHRYVE",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "BEUN",
+          "prenom": "Marion",
+          "nom_complet": "Marion BEUN",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "LAUWERS",
+          "prenom": "Julien",
+          "nom_complet": "Julien LAUWERS",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

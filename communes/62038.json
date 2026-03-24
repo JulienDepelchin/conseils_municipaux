@@ -1,0 +1,299 @@
+{
+  "code_commune": "62038",
+  "commune": "Ardres",
+  "departement": "Pas-de-Calais",
+  "tour": "T2",
+  "maire": {
+    "nom": "LOQUET",
+    "prenom": "Ludovic",
+    "nom_complet": "Ludovic LOQUET",
+    "age": 61,
+    "nuance": "LDVC"
+  },
+  "resultats": {
+    "inscrits": 3630,
+    "votants": 2480,
+    "pct_votants": 68.32,
+    "abstentions": 1150,
+    "pct_abstentions": 31.68,
+    "exprimes": 2453
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "CAP VERS 2033",
+      "libelle_abrege_liste": "CAP VERS 2033",
+      "nuance_liste": "LDVC",
+      "voix": 1150,
+      "pct_voix_exprimes": 46.88,
+      "sieges_cm": 20,
+      "sieges_cc": 6,
+      "nb_elus": 20,
+      "tete_de_liste": {
+        "nom": "LOQUET",
+        "prenom": "Ludovic",
+        "nom_complet": "Ludovic LOQUET",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LOQUET",
+          "prenom": "Ludovic",
+          "nom_complet": "Ludovic LOQUET",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BONNIERE",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie BONNIERE",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "COTTREZ",
+          "prenom": "Gilles",
+          "nom_complet": "Gilles COTTREZ",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LABRE",
+          "prenom": "Marie-Hélène",
+          "nom_complet": "Marie-Hélène LABRE",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "FEYS",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric FEYS",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "VANHAECKE",
+          "prenom": "Sophie",
+          "nom_complet": "Sophie VANHAECKE",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BAROUX",
+          "prenom": "Ludovic",
+          "nom_complet": "Ludovic BAROUX",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "BRISSAUD",
+          "prenom": "Chantal",
+          "nom_complet": "Chantal BRISSAUD",
+          "sexe": "F",
+          "age": 71,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "VANDERPOTTE",
+          "prenom": "Joël",
+          "nom_complet": "Joël VANDERPOTTE",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "BARBIER",
+          "prenom": "Rebecca",
+          "nom_complet": "Rebecca BARBIER",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DEMASSIEUX",
+          "prenom": "René",
+          "nom_complet": "René DEMASSIEUX",
+          "sexe": "M",
+          "age": 77,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "PUGET",
+          "prenom": "Ludivine",
+          "nom_complet": "Ludivine PUGET",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "LEFIEF",
+          "prenom": "Maxime",
+          "nom_complet": "Maxime LEFIEF",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "LANNOY",
+          "prenom": "Véronique",
+          "nom_complet": "Véronique LANNOY",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "HUBERT",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric HUBERT",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "DEVOS",
+          "prenom": "Anne-Sophie",
+          "nom_complet": "Anne-Sophie DEVOS",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "FRELECHOUX--TRONSCORFF",
+          "prenom": "Ewen",
+          "nom_complet": "Ewen FRELECHOUX--TRONSCORFF",
+          "sexe": "M",
+          "age": 19,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "RENAUT",
+          "prenom": "Hélène",
+          "nom_complet": "Hélène RENAUT",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "DEHARTE",
+          "prenom": "Aurélien",
+          "nom_complet": "Aurélien DEHARTE",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "HENAULT",
+          "prenom": "Hélène",
+          "nom_complet": "Hélène HENAULT",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "20"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "3",
+      "libelle_liste": "Osons l'avenir ensemble",
+      "libelle_abrege_liste": "Osons l'avenir ensemble",
+      "nuance_liste": "LDIV",
+      "voix": 929,
+      "pct_voix_exprimes": 37.87,
+      "sieges_cm": 5,
+      "sieges_cc": 1,
+      "nb_elus": 5,
+      "tete_de_liste": {
+        "nom": "PATERNOSTER",
+        "prenom": "Quentin",
+        "nom_complet": "Quentin PATERNOSTER",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "PATERNOSTER",
+          "prenom": "Quentin",
+          "nom_complet": "Quentin PATERNOSTER",
+          "sexe": "M",
+          "age": 34,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "ROGER",
+          "prenom": "Anne-Sophie",
+          "nom_complet": "Anne-Sophie ROGER",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LAIDET",
+          "prenom": "David",
+          "nom_complet": "David LAIDET",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "THIRY",
+          "prenom": "Coralie",
+          "nom_complet": "Coralie THIRY",
+          "sexe": "F",
+          "age": 28,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DESFACHELLES",
+          "prenom": "Jean-Marc",
+          "nom_complet": "Jean-Marc DESFACHELLES",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "5"
+        }
+      ],
+      "statut_conseil": "autre"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "PARTAGEONS DEMAIN À ARDRES !",
+      "libelle_abrege_liste": "PARTAGEONS DEMAIN À ARDRES !",
+      "nuance_liste": "LRN",
+      "voix": 374,
+      "pct_voix_exprimes": 15.25,
+      "sieges_cm": 2,
+      "sieges_cc": 0,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "LOUIS",
+        "prenom": "Quentin",
+        "nom_complet": "Quentin LOUIS",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LOUIS",
+          "prenom": "Quentin",
+          "nom_complet": "Quentin LOUIS",
+          "sexe": "M",
+          "age": 25,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "MOREAU",
+          "prenom": "Marion",
+          "nom_complet": "Marion MOREAU",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

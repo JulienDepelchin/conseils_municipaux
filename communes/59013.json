@@ -1,0 +1,195 @@
+{
+  "code_commune": "59013",
+  "commune": "Anstaing",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "DUMOULIN",
+    "prenom": "Etienne",
+    "nom_complet": "Etienne DUMOULIN",
+    "age": 63,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1291,
+    "votants": 657,
+    "pct_votants": 50.89,
+    "abstentions": 634,
+    "pct_abstentions": 49.11,
+    "exprimes": 611
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "LISTE D'UNION SOLIDAIRE, REPUBLICAINE et LAIQUE",
+      "libelle_abrege_liste": "LISTE D'UNION SOLIDAIRE, REPUBLICAINE et LAIQUE",
+      "nuance_liste": null,
+      "voix": 611,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 19,
+      "sieges_cc": 1,
+      "nb_elus": 19,
+      "tete_de_liste": {
+        "nom": "DUMOULIN",
+        "prenom": "Etienne",
+        "nom_complet": "Etienne DUMOULIN",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DUMOULIN",
+          "prenom": "Etienne",
+          "nom_complet": "Etienne DUMOULIN",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BARBIEUX-SCHOENDORFF",
+          "prenom": "Stephanie",
+          "nom_complet": "Stephanie BARBIEUX-SCHOENDORFF",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "PIQUEMAL",
+          "prenom": "Fabien",
+          "nom_complet": "Fabien PIQUEMAL",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "ENGRAND",
+          "prenom": "Laurence",
+          "nom_complet": "Laurence ENGRAND",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "VERIN",
+          "prenom": "Jean-Philippe",
+          "nom_complet": "Jean-Philippe VERIN",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "VANBEUGHEN-OCAMPOS",
+          "prenom": "Leninna",
+          "nom_complet": "Leninna VANBEUGHEN-OCAMPOS",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "MARECHAL",
+          "prenom": "Boris",
+          "nom_complet": "Boris MARECHAL",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "CHOQUET",
+          "prenom": "Fanny",
+          "nom_complet": "Fanny CHOQUET",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "GAGNEUIL",
+          "prenom": "Jean-Robert",
+          "nom_complet": "Jean-Robert GAGNEUIL",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "TENIER EPOUSE DERAM",
+          "prenom": "Sandrine",
+          "nom_complet": "Sandrine TENIER EPOUSE DERAM",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "ESTEVES",
+          "prenom": "David",
+          "nom_complet": "David ESTEVES",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "EVRARD",
+          "prenom": "Fabienne",
+          "nom_complet": "Fabienne EVRARD",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "FAELENS",
+          "prenom": "James Philippe",
+          "nom_complet": "James Philippe FAELENS",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "HILDEBRANDT",
+          "prenom": "Marie-Françoise",
+          "nom_complet": "Marie-Françoise HILDEBRANDT",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "GOOLEN",
+          "prenom": "Louis",
+          "nom_complet": "Louis GOOLEN",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "LEFEBVRE",
+          "prenom": "Natacha",
+          "nom_complet": "Natacha LEFEBVRE",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "LANNOY",
+          "prenom": "Jean-Michel",
+          "nom_complet": "Jean-Michel LANNOY",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "TITECA",
+          "prenom": "Laura",
+          "nom_complet": "Laura TITECA",
+          "sexe": "F",
+          "age": 29,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "TARDIEUX",
+          "prenom": "Emmanuel",
+          "nom_complet": "Emmanuel TARDIEUX",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "19"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

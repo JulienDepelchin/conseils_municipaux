@@ -1,0 +1,163 @@
+{
+  "code_commune": "62355",
+  "commune": "Fresnes-lès-Montauban",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "LEMOINE",
+    "prenom": "Annie",
+    "nom_complet": "Annie LEMOINE",
+    "age": 72,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 434,
+    "votants": 270,
+    "pct_votants": 62.21,
+    "abstentions": 164,
+    "pct_abstentions": 37.79,
+    "exprimes": 235
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "CONTINUONS ENSEMBLE A BATIR DEMAIN",
+      "libelle_abrege_liste": "CONTINUONS ENSEMBLE A BATIR DEMAIN",
+      "nuance_liste": null,
+      "voix": 235,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "LEMOINE",
+        "prenom": "Annie",
+        "nom_complet": "Annie LEMOINE",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "LEMOINE",
+          "prenom": "Annie",
+          "nom_complet": "Annie LEMOINE",
+          "sexe": "F",
+          "age": 72,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "CAMUS",
+          "prenom": "Pierre",
+          "nom_complet": "Pierre CAMUS",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "CARESMEL",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle CARESMEL",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DEVAUX",
+          "prenom": "Matthieu",
+          "nom_complet": "Matthieu DEVAUX",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "GREVET",
+          "prenom": "Elodie",
+          "nom_complet": "Elodie GREVET",
+          "sexe": "F",
+          "age": 33,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "BEAUGRAND",
+          "prenom": "Franck",
+          "nom_complet": "Franck BEAUGRAND",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "CAVALIER",
+          "prenom": "Marie",
+          "nom_complet": "Marie CAVALIER",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "COILLOT",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent COILLOT",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "BOULOGNE",
+          "prenom": "Nicole",
+          "nom_complet": "Nicole BOULOGNE",
+          "sexe": "F",
+          "age": 74,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "MUSIAL",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique MUSIAL",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "BOGALA",
+          "prenom": "Jennifer",
+          "nom_complet": "Jennifer BOGALA",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "DEVAUX",
+          "prenom": "Matthieu",
+          "nom_complet": "Matthieu DEVAUX",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "HERMANT",
+          "prenom": "Vanessa",
+          "nom_complet": "Vanessa HERMANT",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "HILDE",
+          "prenom": "Julien",
+          "nom_complet": "Julien HILDE",
+          "sexe": "M",
+          "age": 32,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "CARON",
+          "prenom": "Pauline",
+          "nom_complet": "Pauline CARON",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

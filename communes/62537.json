@@ -1,0 +1,131 @@
+{
+  "code_commune": "62537",
+  "commune": "Magnicourt-sur-Canche",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "DEGRENDELE",
+    "prenom": "Marc",
+    "nom_complet": "Marc DEGRENDELE",
+    "age": 66,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 87,
+    "votants": 73,
+    "pct_votants": 83.91,
+    "abstentions": 14,
+    "pct_abstentions": 16.09,
+    "exprimes": 55
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Ensemble pour Magnicourt-sur-Canche",
+      "libelle_abrege_liste": "Ensemble pour Magnicourt-sur-Canche",
+      "nuance_liste": null,
+      "voix": 55,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "DEGRENDELE",
+        "prenom": "Marc",
+        "nom_complet": "Marc DEGRENDELE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DEGRENDELE",
+          "prenom": "Marc",
+          "nom_complet": "Marc DEGRENDELE",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BAERT",
+          "prenom": "Perrine",
+          "nom_complet": "Perrine BAERT",
+          "sexe": "F",
+          "age": 32,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LOCQUET",
+          "prenom": "Jean-Marie",
+          "nom_complet": "Jean-Marie LOCQUET",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BLICHARSKI",
+          "prenom": "Anaïs",
+          "nom_complet": "Anaïs BLICHARSKI",
+          "sexe": "F",
+          "age": 32,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "CARBONNET",
+          "prenom": "Denis",
+          "nom_complet": "Denis CARBONNET",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "BLOQUET",
+          "prenom": "Constance",
+          "nom_complet": "Constance BLOQUET",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "CARBONNET",
+          "prenom": "Mathieu",
+          "nom_complet": "Mathieu CARBONNET",
+          "sexe": "M",
+          "age": 29,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "CAPILLON",
+          "prenom": "Pierrette",
+          "nom_complet": "Pierrette CAPILLON",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DEGRENDELE",
+          "prenom": "Julien",
+          "nom_complet": "Julien DEGRENDELE",
+          "sexe": "M",
+          "age": 33,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "THERAGE",
+          "prenom": "Françoise",
+          "nom_complet": "Françoise THERAGE",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "BRISSET",
+          "prenom": "Didier",
+          "nom_complet": "Didier BRISSET",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "code_commune": "62377",
+  "commune": "Gosnay",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "SOUILLIART",
+    "prenom": "Virginie",
+    "nom_complet": "Virginie SOUILLIART",
+    "age": 48,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 726,
+    "votants": 458,
+    "pct_votants": 63.09,
+    "abstentions": 268,
+    "pct_abstentions": 36.91,
+    "exprimes": 410
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "GOSNAY, Notre village",
+      "libelle_abrege_liste": "GOSNAY, Notre village",
+      "nuance_liste": null,
+      "voix": 410,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "SOUILLIART",
+        "prenom": "Virginie",
+        "nom_complet": "Virginie SOUILLIART",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "SOUILLIART",
+          "prenom": "Virginie",
+          "nom_complet": "Virginie SOUILLIART",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "VAAST",
+          "prenom": "Stéphan",
+          "nom_complet": "Stéphan VAAST",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LEGRAS",
+          "prenom": "Louisette",
+          "nom_complet": "Louisette LEGRAS",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "VARLET",
+          "prenom": "Valentin",
+          "nom_complet": "Valentin VARLET",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "BRASME",
+          "prenom": "Delphine",
+          "nom_complet": "Delphine BRASME",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "BOURBON",
+          "prenom": "Guy",
+          "nom_complet": "Guy BOURBON",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "PERMODA",
+          "prenom": "Marie-France",
+          "nom_complet": "Marie-France PERMODA",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LEMAITRE",
+          "prenom": "Francis",
+          "nom_complet": "Francis LEMAITRE",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "COINON",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie COINON",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "BUVRY",
+          "prenom": "Michel",
+          "nom_complet": "Michel BUVRY",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "HANOCQ",
+          "prenom": "Coralie",
+          "nom_complet": "Coralie HANOCQ",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "LENOIR",
+          "prenom": "Jérémy",
+          "nom_complet": "Jérémy LENOIR",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "ROBIQUET",
+          "prenom": "Laurence",
+          "nom_complet": "Laurence ROBIQUET",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "HENNION",
+          "prenom": "Michel",
+          "nom_complet": "Michel HENNION",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "MOULIN-BEUGIN",
+          "prenom": "Capucine",
+          "nom_complet": "Capucine MOULIN-BEUGIN",
+          "sexe": "F",
+          "age": 27,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

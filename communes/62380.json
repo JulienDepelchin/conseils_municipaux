@@ -1,0 +1,131 @@
+{
+  "code_commune": "62380",
+  "commune": "Gouy-Servins",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "DELIERS",
+    "prenom": "Laurent",
+    "nom_complet": "Laurent DELIERS",
+    "age": 56,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 309,
+    "votants": 199,
+    "pct_votants": 64.4,
+    "abstentions": 110,
+    "pct_abstentions": 35.6,
+    "exprimes": 170
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ENSEMBLE",
+      "libelle_abrege_liste": "ENSEMBLE",
+      "nuance_liste": null,
+      "voix": 170,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "DELIERS",
+        "prenom": "Laurent",
+        "nom_complet": "Laurent DELIERS",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DELIERS",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent DELIERS",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "GRONIER",
+          "prenom": "Emmanuelle",
+          "nom_complet": "Emmanuelle GRONIER",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BAJEUX",
+          "prenom": "Roger",
+          "nom_complet": "Roger BAJEUX",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LAFORCE",
+          "prenom": "Bérangère",
+          "nom_complet": "Bérangère LAFORCE",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DEBEUSSCHER",
+          "prenom": "Louis-Jacques",
+          "nom_complet": "Louis-Jacques DEBEUSSCHER",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DESCAMPS",
+          "prenom": "Camille",
+          "nom_complet": "Camille DESCAMPS",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "COQUET",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric COQUET",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "GALLANT",
+          "prenom": "Amandine",
+          "nom_complet": "Amandine GALLANT",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "CLEMENT",
+          "prenom": "Quentin",
+          "nom_complet": "Quentin CLEMENT",
+          "sexe": "M",
+          "age": 34,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "LEBOUCQ",
+          "prenom": "Céline",
+          "nom_complet": "Céline LEBOUCQ",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "THULLIER",
+          "prenom": "Benjamin",
+          "nom_complet": "Benjamin THULLIER",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

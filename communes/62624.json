@@ -1,0 +1,295 @@
+{
+  "code_commune": "62624",
+  "commune": "Noyelles-Godault",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "BIEGALSKI",
+    "prenom": "Valérie",
+    "nom_complet": "Valérie BIEGALSKI",
+    "age": 50,
+    "nuance": "LDVC"
+  },
+  "resultats": {
+    "inscrits": 3993,
+    "votants": 2272,
+    "pct_votants": 56.9,
+    "abstentions": 1721,
+    "pct_abstentions": 43.1,
+    "exprimes": 2222
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "FAISONS NOYELLES ENSEMBLE",
+      "libelle_abrege_liste": "FAISONS NOYELLES ENSEMBLE",
+      "nuance_liste": "LDVC",
+      "voix": 1358,
+      "pct_voix_exprimes": 61.12,
+      "sieges_cm": 24,
+      "sieges_cc": 2,
+      "nb_elus": 24,
+      "tete_de_liste": {
+        "nom": "BIEGALSKI",
+        "prenom": "Valérie",
+        "nom_complet": "Valérie BIEGALSKI",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "BIEGALSKI",
+          "prenom": "Valérie",
+          "nom_complet": "Valérie BIEGALSKI",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "STAWSKI",
+          "prenom": "Patrice",
+          "nom_complet": "Patrice STAWSKI",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "OUDJIAL",
+          "prenom": "Samra",
+          "nom_complet": "Samra OUDJIAL",
+          "sexe": "F",
+          "age": 72,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "RAISON",
+          "prenom": "Arnaud",
+          "nom_complet": "Arnaud RAISON",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "D'HERMY",
+          "prenom": "Mauricette",
+          "nom_complet": "Mauricette D'HERMY",
+          "sexe": "F",
+          "age": 71,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "COLLIOT",
+          "prenom": "Gil",
+          "nom_complet": "Gil COLLIOT",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BOUCHART",
+          "prenom": "Dorianne",
+          "nom_complet": "Dorianne BOUCHART",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DAEDEN",
+          "prenom": "Emmanuel",
+          "nom_complet": "Emmanuel DAEDEN",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DIFILIPPO-FLORIS",
+          "prenom": "Maryse",
+          "nom_complet": "Maryse DIFILIPPO-FLORIS",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "BARDOT",
+          "prenom": "Tanguy",
+          "nom_complet": "Tanguy BARDOT",
+          "sexe": "M",
+          "age": 24,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "PLOUVIEZ",
+          "prenom": "Sandrine",
+          "nom_complet": "Sandrine PLOUVIEZ",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "DIS",
+          "prenom": "Mohamed",
+          "nom_complet": "Mohamed DIS",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "DUFRENNE",
+          "prenom": "Arlette",
+          "nom_complet": "Arlette DUFRENNE",
+          "sexe": "F",
+          "age": 71,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "LECLAIRE",
+          "prenom": "Fabien",
+          "nom_complet": "Fabien LECLAIRE",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "LETHELLIEZ",
+          "prenom": "Antoinette",
+          "nom_complet": "Antoinette LETHELLIEZ",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "KALISKI",
+          "prenom": "Kévin",
+          "nom_complet": "Kévin KALISKI",
+          "sexe": "M",
+          "age": 29,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "DELLYS",
+          "prenom": "Aurélie",
+          "nom_complet": "Aurélie DELLYS",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "BOUMEDJERIA",
+          "prenom": "Nordine",
+          "nom_complet": "Nordine BOUMEDJERIA",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "POQUET",
+          "prenom": "Ingrid",
+          "nom_complet": "Ingrid POQUET",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "NOWAK",
+          "prenom": "Jean-Paul",
+          "nom_complet": "Jean-Paul NOWAK",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "BOIDIN",
+          "prenom": "Emilie",
+          "nom_complet": "Emilie BOIDIN",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "FOSSE",
+          "prenom": "Cédric",
+          "nom_complet": "Cédric FOSSE",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "SUTRE",
+          "prenom": "Karine",
+          "nom_complet": "Karine SUTRE",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "23"
+        },
+        {
+          "nom": "FACHAUX",
+          "prenom": "Aurélien",
+          "nom_complet": "Aurélien FACHAUX",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "24"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "RASSEMBLEMENT NOYELLOIS",
+      "libelle_abrege_liste": "RASSEMBLEMENT NOYELLOIS",
+      "nuance_liste": "LRN",
+      "voix": 864,
+      "pct_voix_exprimes": 38.88,
+      "sieges_cm": 5,
+      "sieges_cc": 1,
+      "nb_elus": 5,
+      "tete_de_liste": {
+        "nom": "DELANNOY",
+        "prenom": "Emilie",
+        "nom_complet": "Emilie DELANNOY",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "DELANNOY",
+          "prenom": "Emilie",
+          "nom_complet": "Emilie DELANNOY",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "PISAREK",
+          "prenom": "Benoît",
+          "nom_complet": "Benoît PISAREK",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LAMPIN",
+          "prenom": "Severine",
+          "nom_complet": "Severine LAMPIN",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "ROBERT",
+          "prenom": "Yannick",
+          "nom_complet": "Yannick ROBERT",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "FOURMENTEZ",
+          "prenom": "Claudine",
+          "nom_complet": "Claudine FOURMENTEZ",
+          "sexe": "F",
+          "age": 70,
+          "rang_liste": "5"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

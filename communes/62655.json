@@ -1,0 +1,151 @@
+{
+  "code_commune": "62655",
+  "commune": "Pierremont",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "VIVIER",
+    "prenom": "Nathalie",
+    "nom_complet": "Nathalie VIVIER",
+    "age": 55,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 238,
+    "votants": 209,
+    "pct_votants": 87.82,
+    "abstentions": 29,
+    "pct_abstentions": 12.18,
+    "exprimes": 201
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "PIERREMONT - LIBESSART Unis pour l'avenir",
+      "libelle_abrege_liste": "PIERREMONT - LIBESSART Unis pour l'avenir",
+      "nuance_liste": null,
+      "voix": 136,
+      "pct_voix_exprimes": 67.66,
+      "sieges_cm": 10,
+      "sieges_cc": null,
+      "nb_elus": 10,
+      "tete_de_liste": {
+        "nom": "VIVIER",
+        "prenom": "Nathalie",
+        "nom_complet": "Nathalie VIVIER",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "VIVIER",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie VIVIER",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DROUVIN",
+          "prenom": "Vincent",
+          "nom_complet": "Vincent DROUVIN",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "FARDOUX",
+          "prenom": "Manon",
+          "nom_complet": "Manon FARDOUX",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BILLION",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier BILLION",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DEMONT",
+          "prenom": "Claire",
+          "nom_complet": "Claire DEMONT",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LOMBART",
+          "prenom": "Régis",
+          "nom_complet": "Régis LOMBART",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "MANIER",
+          "prenom": "Marie",
+          "nom_complet": "Marie MANIER",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DECOBERT",
+          "prenom": "Michaël",
+          "nom_complet": "Michaël DECOBERT",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "LEGRAND",
+          "prenom": "Véronique",
+          "nom_complet": "Véronique LEGRAND",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DUPUICH",
+          "prenom": "Alexandre",
+          "nom_complet": "Alexandre DUPUICH",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "10"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ENSEMBLE POUR PIERREMONT LIBESSART",
+      "libelle_abrege_liste": "ENSEMBLE POUR PIERREMONT LIBESSART",
+      "nuance_liste": null,
+      "voix": 65,
+      "pct_voix_exprimes": 32.34,
+      "sieges_cm": 1,
+      "sieges_cc": null,
+      "nb_elus": 1,
+      "tete_de_liste": {
+        "nom": "LEFEBURE",
+        "prenom": "Jean-Christophe",
+        "nom_complet": "Jean-Christophe LEFEBURE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LEFEBURE",
+          "prenom": "Jean-Christophe",
+          "nom_complet": "Jean-Christophe LEFEBURE",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "1"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

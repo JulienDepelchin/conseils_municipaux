@@ -1,0 +1,131 @@
+{
+  "code_commune": "62016",
+  "commune": "Airon-Saint-Vaast",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "DELATTRE",
+    "prenom": "Remi",
+    "nom_complet": "Remi DELATTRE",
+    "age": 45,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 143,
+    "votants": 103,
+    "pct_votants": 72.03,
+    "abstentions": 40,
+    "pct_abstentions": 27.97,
+    "exprimes": 84
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ENSEMBLE POUR AIRON",
+      "libelle_abrege_liste": "ENSEMBLE POUR AIRON",
+      "nuance_liste": null,
+      "voix": 84,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "DELATTRE",
+        "prenom": "Remi",
+        "nom_complet": "Remi DELATTRE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DELATTRE",
+          "prenom": "Remi",
+          "nom_complet": "Remi DELATTRE",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "CODRON",
+          "prenom": "Stephanie",
+          "nom_complet": "Stephanie CODRON",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "GUYOT",
+          "prenom": "Alain",
+          "nom_complet": "Alain GUYOT",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "EVERRARD",
+          "prenom": "Emilie",
+          "nom_complet": "Emilie EVERRARD",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "BETHOUART",
+          "prenom": "Sebastien",
+          "nom_complet": "Sebastien BETHOUART",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "HUART",
+          "prenom": "Justine",
+          "nom_complet": "Justine HUART",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "LEJEUNE",
+          "prenom": "Clement",
+          "nom_complet": "Clement LEJEUNE",
+          "sexe": "M",
+          "age": 32,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "BETHOUART-PRUVOT",
+          "prenom": "Marie-Jeanne",
+          "nom_complet": "Marie-Jeanne BETHOUART-PRUVOT",
+          "sexe": "F",
+          "age": 74,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "LECLERCQ",
+          "prenom": "Romain",
+          "nom_complet": "Romain LECLERCQ",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "NIGON",
+          "prenom": "Chantal",
+          "nom_complet": "Chantal NIGON",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "WATTEL",
+          "prenom": "Jean",
+          "nom_complet": "Jean WATTEL",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

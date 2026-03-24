@@ -1,0 +1,163 @@
+{
+  "code_commune": "62313",
+  "commune": "Estrée-Blanche",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "MARLES",
+    "prenom": "Michel",
+    "nom_complet": "Michel MARLES",
+    "age": 65,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 633,
+    "votants": 376,
+    "pct_votants": 59.4,
+    "abstentions": 257,
+    "pct_abstentions": 40.6,
+    "exprimes": 312
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "UN SOUFFLE NOUVEAU",
+      "libelle_abrege_liste": "UN SOUFFLE NOUVEAU",
+      "nuance_liste": null,
+      "voix": 312,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "MARLES",
+        "prenom": "Michel",
+        "nom_complet": "Michel MARLES",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "MARLES",
+          "prenom": "Michel",
+          "nom_complet": "Michel MARLES",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "FARCY",
+          "prenom": "Marie-José",
+          "nom_complet": "Marie-José FARCY",
+          "sexe": "F",
+          "age": 71,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DEBOMY",
+          "prenom": "Maxime",
+          "nom_complet": "Maxime DEBOMY",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "FOURNIER",
+          "prenom": "Marion",
+          "nom_complet": "Marion FOURNIER",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "RAMOS",
+          "prenom": "Jonathan",
+          "nom_complet": "Jonathan RAMOS",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "KOWALK",
+          "prenom": "Marie-Laure",
+          "nom_complet": "Marie-Laure KOWALK",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "CARPENTIER",
+          "prenom": "Fredy",
+          "nom_complet": "Fredy CARPENTIER",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "GOTRAND",
+          "prenom": "Mélanie",
+          "nom_complet": "Mélanie GOTRAND",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "THOREL",
+          "prenom": "Guillaume",
+          "nom_complet": "Guillaume THOREL",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "GUIDEZ",
+          "prenom": "Laura",
+          "nom_complet": "Laura GUIDEZ",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "MUSART",
+          "prenom": "Benoit",
+          "nom_complet": "Benoit MUSART",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "HENIN",
+          "prenom": "Marine",
+          "nom_complet": "Marine HENIN",
+          "sexe": "F",
+          "age": 30,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "HURTEVENT",
+          "prenom": "Jerry",
+          "nom_complet": "Jerry HURTEVENT",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "NORMAND",
+          "prenom": "Chloé",
+          "nom_complet": "Chloé NORMAND",
+          "sexe": "F",
+          "age": 30,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "GOTRAND",
+          "prenom": "Sébastien",
+          "nom_complet": "Sébastien GOTRAND",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

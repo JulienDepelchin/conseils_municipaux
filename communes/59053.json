@@ -1,0 +1,247 @@
+{
+  "code_commune": "59053",
+  "commune": "Bavay",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "BOUSSEMART",
+    "prenom": "Vincent",
+    "nom_complet": "Vincent BOUSSEMART",
+    "age": 34,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 2354,
+    "votants": 1378,
+    "pct_votants": 58.54,
+    "abstentions": 976,
+    "pct_abstentions": 41.46,
+    "exprimes": 1291
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "BAVAY DYNAMIQUE ET UNIE",
+      "libelle_abrege_liste": "BAVAY DYNAMIQUE ET UNIE",
+      "nuance_liste": null,
+      "voix": 734,
+      "pct_voix_exprimes": 56.86,
+      "sieges_cm": 18,
+      "sieges_cc": 4,
+      "nb_elus": 18,
+      "tete_de_liste": {
+        "nom": "BOUSSEMART",
+        "prenom": "Vincent",
+        "nom_complet": "Vincent BOUSSEMART",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BOUSSEMART",
+          "prenom": "Vincent",
+          "nom_complet": "Vincent BOUSSEMART",
+          "sexe": "M",
+          "age": 34,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "VION",
+          "prenom": "Celine",
+          "nom_complet": "Celine VION",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DEBRAUWER",
+          "prenom": "Damien",
+          "nom_complet": "Damien DEBRAUWER",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DEHON",
+          "prenom": "Christine",
+          "nom_complet": "Christine DEHON",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "HOURIEZ",
+          "prenom": "Alain",
+          "nom_complet": "Alain HOURIEZ",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "BEYAERT",
+          "prenom": "Manon",
+          "nom_complet": "Manon BEYAERT",
+          "sexe": "F",
+          "age": 24,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "COLPIN",
+          "prenom": "Michael",
+          "nom_complet": "Michael COLPIN",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "CAUCHETEUX",
+          "prenom": "Francine",
+          "nom_complet": "Francine CAUCHETEUX",
+          "sexe": "F",
+          "age": 72,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "BALDINU",
+          "prenom": "Sebastia",
+          "nom_complet": "Sebastia BALDINU",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "VERSTRAETE",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle VERSTRAETE",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "HARBONNIER",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe HARBONNIER",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "DUBOIS",
+          "prenom": "Manon",
+          "nom_complet": "Manon DUBOIS",
+          "sexe": "F",
+          "age": 18,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "CUCHILLO",
+          "prenom": "Richard",
+          "nom_complet": "Richard CUCHILLO",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "ROUSSEAU",
+          "prenom": "Martine",
+          "nom_complet": "Martine ROUSSEAU",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "RICHARD",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe RICHARD",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "ROUX",
+          "prenom": "Anne-Sophie",
+          "nom_complet": "Anne-Sophie ROUX",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "JOACHIM",
+          "prenom": "Judicael",
+          "nom_complet": "Judicael JOACHIM",
+          "sexe": "M",
+          "age": 25,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "DAUTREPPE",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie DAUTREPPE",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "18"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "BAVAY EN MOUVEMENT",
+      "libelle_abrege_liste": "BAVAY EN MOUVEMENT",
+      "nuance_liste": null,
+      "voix": 557,
+      "pct_voix_exprimes": 43.14,
+      "sieges_cm": 5,
+      "sieges_cc": 1,
+      "nb_elus": 5,
+      "tete_de_liste": {
+        "nom": "LESNE",
+        "prenom": "Pierre",
+        "nom_complet": "Pierre LESNE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LESNE",
+          "prenom": "Pierre",
+          "nom_complet": "Pierre LESNE",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "FRÉHAUT",
+          "prenom": "Claire",
+          "nom_complet": "Claire FRÉHAUT",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "CASTELLA",
+          "prenom": "Jean Louis",
+          "nom_complet": "Jean Louis CASTELLA",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LENNE",
+          "prenom": "Magali",
+          "nom_complet": "Magali LENNE",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "SORLIN",
+          "prenom": "Fabien",
+          "nom_complet": "Fabien SORLIN",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "5"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

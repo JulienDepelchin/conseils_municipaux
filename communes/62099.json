@@ -1,0 +1,315 @@
+{
+  "code_commune": "62099",
+  "commune": "Beaurains",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "DUPOND",
+    "prenom": "Cédric",
+    "nom_complet": "Cédric DUPOND",
+    "age": 58,
+    "nuance": "LDVG"
+  },
+  "resultats": {
+    "inscrits": 4465,
+    "votants": 2803,
+    "pct_votants": 62.78,
+    "abstentions": 1662,
+    "pct_abstentions": 37.22,
+    "exprimes": 2710
+  },
+  "listes": [
+    {
+      "num_panneau": "3",
+      "libelle_liste": "BEAURAINS POUR VOUS, AVEC VOUS !",
+      "libelle_abrege_liste": "BEAURAINS POUR VOUS, AVEC VOUS !",
+      "nuance_liste": "LDVG",
+      "voix": 1504,
+      "pct_voix_exprimes": 55.5,
+      "sieges_cm": 23,
+      "sieges_cc": 2,
+      "nb_elus": 23,
+      "tete_de_liste": {
+        "nom": "DUPOND",
+        "prenom": "Cédric",
+        "nom_complet": "Cédric DUPOND",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DUPOND",
+          "prenom": "Cédric",
+          "nom_complet": "Cédric DUPOND",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LETUPPE",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie LETUPPE",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "PETIT",
+          "prenom": "Jean-Louis",
+          "nom_complet": "Jean-Louis PETIT",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "FRUCHART",
+          "prenom": "Christelle",
+          "nom_complet": "Christelle FRUCHART",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "VENEL",
+          "prenom": "Eric",
+          "nom_complet": "Eric VENEL",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "BETREMIEUX",
+          "prenom": "Christina",
+          "nom_complet": "Christina BETREMIEUX",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BERTHE",
+          "prenom": "Christian",
+          "nom_complet": "Christian BERTHE",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "GALLET",
+          "prenom": "Sabine",
+          "nom_complet": "Sabine GALLET",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "HORNAERT",
+          "prenom": "Maxence",
+          "nom_complet": "Maxence HORNAERT",
+          "sexe": "M",
+          "age": 30,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "TENAGLIA",
+          "prenom": "Gwenola",
+          "nom_complet": "Gwenola TENAGLIA",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "SIMON",
+          "prenom": "Reynald",
+          "nom_complet": "Reynald SIMON",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "DENIS",
+          "prenom": "Thérèse",
+          "nom_complet": "Thérèse DENIS",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "IBISEVIC",
+          "prenom": "Kémal",
+          "nom_complet": "Kémal IBISEVIC",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "LETEVE",
+          "prenom": "Karine",
+          "nom_complet": "Karine LETEVE",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "VEZILIER",
+          "prenom": "Vincent",
+          "nom_complet": "Vincent VEZILIER",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "LE GARDIEN",
+          "prenom": "Christine",
+          "nom_complet": "Christine LE GARDIEN",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "HARMEGNIES",
+          "prenom": "Jean-Thierry",
+          "nom_complet": "Jean-Thierry HARMEGNIES",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "LEFRERE",
+          "prenom": "Christelle",
+          "nom_complet": "Christelle LEFRERE",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "MOUTON",
+          "prenom": "Patrice",
+          "nom_complet": "Patrice MOUTON",
+          "sexe": "M",
+          "age": 75,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "FALLET",
+          "prenom": "Audrey",
+          "nom_complet": "Audrey FALLET",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "SCOAZEC",
+          "prenom": "Jean-Jacques",
+          "nom_complet": "Jean-Jacques SCOAZEC",
+          "sexe": "M",
+          "age": 76,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "BENOIT",
+          "prenom": "Maryline",
+          "nom_complet": "Maryline BENOIT",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "HURET",
+          "prenom": "Hervé",
+          "nom_complet": "Hervé HURET",
+          "sexe": "M",
+          "age": 77,
+          "rang_liste": "23"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "BEAURAINS DEMAIN",
+      "libelle_abrege_liste": "BEAURAINS DEMAIN",
+      "nuance_liste": "LDIV",
+      "voix": 928,
+      "pct_voix_exprimes": 34.24,
+      "sieges_cm": 5,
+      "sieges_cc": 1,
+      "nb_elus": 5,
+      "tete_de_liste": {
+        "nom": "EVRARD",
+        "prenom": "Michel",
+        "nom_complet": "Michel EVRARD",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "EVRARD",
+          "prenom": "Michel",
+          "nom_complet": "Michel EVRARD",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "CHIREZ",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle CHIREZ",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "RENARD",
+          "prenom": "Sébastien",
+          "nom_complet": "Sébastien RENARD",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "CAPET",
+          "prenom": "Carine",
+          "nom_complet": "Carine CAPET",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "CLEMENT",
+          "prenom": "Daniel",
+          "nom_complet": "Daniel CLEMENT",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "5"
+        }
+      ],
+      "statut_conseil": "autre"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "BEAURAINS BIEN VIVRE ENSEMBLE",
+      "libelle_abrege_liste": "BEAURAINS BIEN VIVRE ENSEMBLE",
+      "nuance_liste": "LDVG",
+      "voix": 278,
+      "pct_voix_exprimes": 10.26,
+      "sieges_cm": 1,
+      "sieges_cc": 0,
+      "nb_elus": 1,
+      "tete_de_liste": {
+        "nom": "BERGOGNON",
+        "prenom": "Bruno",
+        "nom_complet": "Bruno BERGOGNON",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BERGOGNON",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno BERGOGNON",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "1"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

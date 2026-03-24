@@ -1,0 +1,131 @@
+{
+  "code_commune": "62797",
+  "commune": "Siracourt",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "GENELLE",
+    "prenom": "André",
+    "nom_complet": "André GENELLE",
+    "age": 46,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 238,
+    "votants": 182,
+    "pct_votants": 76.47,
+    "abstentions": 56,
+    "pct_abstentions": 23.53,
+    "exprimes": 142
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "SIRACOURT ENSEMBLE",
+      "libelle_abrege_liste": "SIRACOURT ENSEMBLE",
+      "nuance_liste": null,
+      "voix": 142,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "GENELLE",
+        "prenom": "André",
+        "nom_complet": "André GENELLE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "GENELLE",
+          "prenom": "André",
+          "nom_complet": "André GENELLE",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "TEURKI",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie TEURKI",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "NOE",
+          "prenom": "Jean-Louis",
+          "nom_complet": "Jean-Louis NOE",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "CORNE",
+          "prenom": "Angie",
+          "nom_complet": "Angie CORNE",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "TOURNADRE",
+          "prenom": "Georges",
+          "nom_complet": "Georges TOURNADRE",
+          "sexe": "M",
+          "age": 77,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "PAYEN",
+          "prenom": "Lucie",
+          "nom_complet": "Lucie PAYEN",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "GAILLARD",
+          "prenom": "David",
+          "nom_complet": "David GAILLARD",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "CATOIRE",
+          "prenom": "Camille",
+          "nom_complet": "Camille CATOIRE",
+          "sexe": "F",
+          "age": 33,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "WILLMANN",
+          "prenom": "Frederick",
+          "nom_complet": "Frederick WILLMANN",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DANDRE",
+          "prenom": "Aurélie",
+          "nom_complet": "Aurélie DANDRE",
+          "sexe": "F",
+          "age": 26,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DESMONS",
+          "prenom": "Alexandre",
+          "nom_complet": "Alexandre DESMONS",
+          "sexe": "M",
+          "age": 33,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "code_commune": "62467",
+  "commune": "Humeroeuille",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "GOURDIN",
+    "prenom": "Denis",
+    "nom_complet": "Denis GOURDIN",
+    "age": 55,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 134,
+    "votants": 105,
+    "pct_votants": 78.36,
+    "abstentions": 29,
+    "pct_abstentions": 21.64,
+    "exprimes": 85
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "BIEN VIVRE À HUMEROEUILLE",
+      "libelle_abrege_liste": "BIEN VIVRE À HUMEROEUILLE",
+      "nuance_liste": null,
+      "voix": 85,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "GOURDIN",
+        "prenom": "Denis",
+        "nom_complet": "Denis GOURDIN",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "GOURDIN",
+          "prenom": "Denis",
+          "nom_complet": "Denis GOURDIN",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LAMOOT",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie LAMOOT",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "MOREL",
+          "prenom": "Julien",
+          "nom_complet": "Julien MOREL",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "OUDART",
+          "prenom": "Barbara",
+          "nom_complet": "Barbara OUDART",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "CAILLEUX",
+          "prenom": "Martin",
+          "nom_complet": "Martin CAILLEUX",
+          "sexe": "M",
+          "age": 32,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "WAREMBOURG",
+          "prenom": "Mylène",
+          "nom_complet": "Mylène WAREMBOURG",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "SOWINSKI",
+          "prenom": "Stéphan",
+          "nom_complet": "Stéphan SOWINSKI",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DEBRAY",
+          "prenom": "Hélène",
+          "nom_complet": "Hélène DEBRAY",
+          "sexe": "F",
+          "age": 29,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "MOREL DE BONCOURT",
+          "prenom": "Alexandre",
+          "nom_complet": "Alexandre MOREL DE BONCOURT",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "TAMMERMANN",
+          "prenom": "Evelyne",
+          "nom_complet": "Evelyne TAMMERMANN",
+          "sexe": "F",
+          "age": 78,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "LELOIR",
+          "prenom": "Dylan",
+          "nom_complet": "Dylan LELOIR",
+          "sexe": "M",
+          "age": 27,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

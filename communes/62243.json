@@ -1,0 +1,151 @@
+{
+  "code_commune": "62243",
+  "commune": "Coullemont",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "DEKEYSER",
+    "prenom": "Patrick",
+    "nom_complet": "Patrick DEKEYSER",
+    "age": 56,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 102,
+    "votants": 96,
+    "pct_votants": 94.12,
+    "abstentions": 6,
+    "pct_abstentions": 5.88,
+    "exprimes": 94
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Liste menée PAR MR DEKEYSER PATRICK",
+      "libelle_abrege_liste": "Liste menée PAR MR DEKEYSER PATRICK",
+      "nuance_liste": null,
+      "voix": 48,
+      "pct_voix_exprimes": 51.06,
+      "sieges_cm": 9,
+      "sieges_cc": null,
+      "nb_elus": 9,
+      "tete_de_liste": {
+        "nom": "DEKEYSER",
+        "prenom": "Patrick",
+        "nom_complet": "Patrick DEKEYSER",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DEKEYSER",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick DEKEYSER",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "ASSELIN",
+          "prenom": "Séverine",
+          "nom_complet": "Séverine ASSELIN",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "CARDON",
+          "prenom": "Matthieu",
+          "nom_complet": "Matthieu CARDON",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DURANEL",
+          "prenom": "Marine",
+          "nom_complet": "Marine DURANEL",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "ROUANET",
+          "prenom": "Maxime",
+          "nom_complet": "Maxime ROUANET",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "PETIT",
+          "prenom": "Céline",
+          "nom_complet": "Céline PETIT",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "MERCIER",
+          "prenom": "Jean-Jacques",
+          "nom_complet": "Jean-Jacques MERCIER",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DURANEL",
+          "prenom": "Charlotte",
+          "nom_complet": "Charlotte DURANEL",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "PETIT",
+          "prenom": "Benjamin",
+          "nom_complet": "Benjamin PETIT",
+          "sexe": "M",
+          "age": 31,
+          "rang_liste": "9"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "Retour aux sources",
+      "libelle_abrege_liste": "Retour aux sources",
+      "nuance_liste": null,
+      "voix": 46,
+      "pct_voix_exprimes": 48.94,
+      "sieges_cm": 2,
+      "sieges_cc": null,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "TILLOY",
+        "prenom": "Guy",
+        "nom_complet": "Guy TILLOY",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "TILLOY",
+          "prenom": "Guy",
+          "nom_complet": "Guy TILLOY",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "MACRON",
+          "prenom": "Honorine",
+          "nom_complet": "Honorine MACRON",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

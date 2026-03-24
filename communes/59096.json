@@ -1,0 +1,215 @@
+{
+  "code_commune": "59096",
+  "commune": "Bourghelles",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "SARRE",
+    "prenom": "Franck",
+    "nom_complet": "Franck SARRE",
+    "age": 60,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1388,
+    "votants": 912,
+    "pct_votants": 65.71,
+    "abstentions": 476,
+    "pct_abstentions": 34.29,
+    "exprimes": 898
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "UN VILLAGE QUI RASSEMBLE, UN AVENIR QUI SE CONSTRUIT",
+      "libelle_abrege_liste": "UN VILLAGE QUI RASSEMBLE, UN AVENIR QUI SE CONSTRUIT",
+      "nuance_liste": null,
+      "voix": 608,
+      "pct_voix_exprimes": 67.71,
+      "sieges_cm": 16,
+      "sieges_cc": 1,
+      "nb_elus": 16,
+      "tete_de_liste": {
+        "nom": "SARRE",
+        "prenom": "Franck",
+        "nom_complet": "Franck SARRE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "SARRE",
+          "prenom": "Franck",
+          "nom_complet": "Franck SARRE",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DESCAMPS",
+          "prenom": "Christelle",
+          "nom_complet": "Christelle DESCAMPS",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BONAMIS",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe BONAMIS",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "WYTS",
+          "prenom": "Doriane",
+          "nom_complet": "Doriane WYTS",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LEFEBVRE",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique LEFEBVRE",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DUBOIS",
+          "prenom": "Valérie",
+          "nom_complet": "Valérie DUBOIS",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "VERHAEGHE",
+          "prenom": "Michel",
+          "nom_complet": "Michel VERHAEGHE",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DUBOIS",
+          "prenom": "Chloé",
+          "nom_complet": "Chloé DUBOIS",
+          "sexe": "F",
+          "age": 21,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "FLEURY",
+          "prenom": "Paul",
+          "nom_complet": "Paul FLEURY",
+          "sexe": "M",
+          "age": 29,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "LECLERCQ",
+          "prenom": "Cécile",
+          "nom_complet": "Cécile LECLERCQ",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "WATTEEUW",
+          "prenom": "Pierre",
+          "nom_complet": "Pierre WATTEEUW",
+          "sexe": "M",
+          "age": 28,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "CAUCHY",
+          "prenom": "Émilie",
+          "nom_complet": "Émilie CAUCHY",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "HERMAN",
+          "prenom": "Thierry",
+          "nom_complet": "Thierry HERMAN",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "LEMAI",
+          "prenom": "Lydia",
+          "nom_complet": "Lydia LEMAI",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "ZEIGHEM",
+          "prenom": "Hervé",
+          "nom_complet": "Hervé ZEIGHEM",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "DUHAMEL",
+          "prenom": "Emilie",
+          "nom_complet": "Emilie DUHAMEL",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "16"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "BOURGHELLES ENSEMBLE : CULTIVONS NOTRE BIEN-VIVRE",
+      "libelle_abrege_liste": "BOURGHELLES ENSEMBLE : CULTIVONS NOTRE BIEN-VIVRE",
+      "nuance_liste": null,
+      "voix": 290,
+      "pct_voix_exprimes": 32.29,
+      "sieges_cm": 3,
+      "sieges_cc": 0,
+      "nb_elus": 3,
+      "tete_de_liste": {
+        "nom": "FENOT",
+        "prenom": "Sophie",
+        "nom_complet": "Sophie FENOT",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "FENOT",
+          "prenom": "Sophie",
+          "nom_complet": "Sophie FENOT",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "WHITEFIELD",
+          "prenom": "Jonathan",
+          "nom_complet": "Jonathan WHITEFIELD",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "CHOPIN",
+          "prenom": "Fabienne",
+          "nom_complet": "Fabienne CHOPIN",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "3"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

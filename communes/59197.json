@@ -1,0 +1,195 @@
+{
+  "code_commune": "59197",
+  "commune": "Ennevelin",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "GIRARD",
+    "prenom": "Xavier",
+    "nom_complet": "Xavier GIRARD",
+    "age": 50,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1863,
+    "votants": 1034,
+    "pct_votants": 55.5,
+    "abstentions": 829,
+    "pct_abstentions": 44.5,
+    "exprimes": 933
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Ennevelin -  Cultivons ensemble un avenir durable",
+      "libelle_abrege_liste": "Ennevelin -  Cultivons ensemble un avenir durable",
+      "nuance_liste": null,
+      "voix": 933,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 19,
+      "sieges_cc": 1,
+      "nb_elus": 19,
+      "tete_de_liste": {
+        "nom": "GIRARD",
+        "prenom": "Xavier",
+        "nom_complet": "Xavier GIRARD",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "GIRARD",
+          "prenom": "Xavier",
+          "nom_complet": "Xavier GIRARD",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "AUVERT",
+          "prenom": "Aurore",
+          "nom_complet": "Aurore AUVERT",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DUBREUCQ",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier DUBREUCQ",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DEVENDEVILLE",
+          "prenom": "Valérie",
+          "nom_complet": "Valérie DEVENDEVILLE",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DALLA COSTA",
+          "prenom": "Fabrice",
+          "nom_complet": "Fabrice DALLA COSTA",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "VANDERBAUWEDE",
+          "prenom": "Emilie",
+          "nom_complet": "Emilie VANDERBAUWEDE",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "TYTGAT",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier TYTGAT",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "FOUACHE",
+          "prenom": "Hélène",
+          "nom_complet": "Hélène FOUACHE",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "LAUWAGIE",
+          "prenom": "Eric",
+          "nom_complet": "Eric LAUWAGIE",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DAMIE",
+          "prenom": "Anne",
+          "nom_complet": "Anne DAMIE",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "HAVEZ",
+          "prenom": "Jean-Michel",
+          "nom_complet": "Jean-Michel HAVEZ",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "BRADIER GUILBEAU",
+          "prenom": "Chloé",
+          "nom_complet": "Chloé BRADIER GUILBEAU",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "POUSSET",
+          "prenom": "Maxime",
+          "nom_complet": "Maxime POUSSET",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "VANUXEM",
+          "prenom": "Pernelle",
+          "nom_complet": "Pernelle VANUXEM",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "DRAME",
+          "prenom": "Amadou",
+          "nom_complet": "Amadou DRAME",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "MAMPAEY",
+          "prenom": "Florence",
+          "nom_complet": "Florence MAMPAEY",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "DELMOTTE",
+          "prenom": "Manuel",
+          "nom_complet": "Manuel DELMOTTE",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "RAUWEL",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle RAUWEL",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "CASTANO",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas CASTANO",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "19"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

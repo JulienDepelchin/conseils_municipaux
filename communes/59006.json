@@ -1,0 +1,195 @@
+{
+  "code_commune": "59006",
+  "commune": "L'Orée de Mormal",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "EUSTACHE",
+    "prenom": "Philippe",
+    "nom_complet": "Philippe EUSTACHE",
+    "age": 70,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 464,
+    "votants": 286,
+    "pct_votants": 61.64,
+    "abstentions": 178,
+    "pct_abstentions": 38.36,
+    "exprimes": 268
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Ensemble pour l'Orée de Mormal",
+      "libelle_abrege_liste": "Ensemble pour l'Orée de Mormal",
+      "nuance_liste": null,
+      "voix": 268,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 19,
+      "sieges_cc": null,
+      "nb_elus": 19,
+      "tete_de_liste": {
+        "nom": "EUSTACHE",
+        "prenom": "Philippe",
+        "nom_complet": "Philippe EUSTACHE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "EUSTACHE",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe EUSTACHE",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "PERTUZON",
+          "prenom": "Delphine",
+          "nom_complet": "Delphine PERTUZON",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LERNOULD",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier LERNOULD",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DEMILLY-MANTEAU",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle DEMILLY-MANTEAU",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DUCOULOMBIER",
+          "prenom": "Julien",
+          "nom_complet": "Julien DUCOULOMBIER",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "PRINCELLE",
+          "prenom": "Véronique",
+          "nom_complet": "Véronique PRINCELLE",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BORRENS",
+          "prenom": "Daniel",
+          "nom_complet": "Daniel BORRENS",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DEGHAYE",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie DEGHAYE",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "WILLIOT",
+          "prenom": "Michel",
+          "nom_complet": "Michel WILLIOT",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "SILVERT",
+          "prenom": "Pascale",
+          "nom_complet": "Pascale SILVERT",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "GUERBI",
+          "prenom": "William",
+          "nom_complet": "William GUERBI",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "GABELLE",
+          "prenom": "Marina",
+          "nom_complet": "Marina GABELLE",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "DE VOS",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick DE VOS",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "WEKSTEEN",
+          "prenom": "Gwendeline",
+          "nom_complet": "Gwendeline WEKSTEEN",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "ANTONACCI",
+          "prenom": "Marcello",
+          "nom_complet": "Marcello ANTONACCI",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "TOURNAY",
+          "prenom": "Laetitia",
+          "nom_complet": "Laetitia TOURNAY",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "JACQUART",
+          "prenom": "Matthieu",
+          "nom_complet": "Matthieu JACQUART",
+          "sexe": "M",
+          "age": 28,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "LAURENT",
+          "prenom": "Marie-Pierre",
+          "nom_complet": "Marie-Pierre LAURENT",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "DEMENAY",
+          "prenom": "William",
+          "nom_complet": "William DEMENAY",
+          "sexe": "M",
+          "age": 28,
+          "rang_liste": "19"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

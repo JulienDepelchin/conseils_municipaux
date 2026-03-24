@@ -1,0 +1,131 @@
+{
+  "code_commune": "62332",
+  "commune": "Ficheux",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "TISON",
+    "prenom": "David",
+    "nom_complet": "David TISON",
+    "age": 55,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 416,
+    "votants": 290,
+    "pct_votants": 69.71,
+    "abstentions": 126,
+    "pct_abstentions": 30.29,
+    "exprimes": 248
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Bien à vivre à Ficheux",
+      "libelle_abrege_liste": "Bien vivre à Ficheux",
+      "nuance_liste": null,
+      "voix": 248,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "TISON",
+        "prenom": "David",
+        "nom_complet": "David TISON",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "TISON",
+          "prenom": "David",
+          "nom_complet": "David TISON",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LEROY THIERCELIN",
+          "prenom": "Alexandra",
+          "nom_complet": "Alexandra LEROY THIERCELIN",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DELPORTE",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick DELPORTE",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "TRENEL",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie TRENEL",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "CAFFIN",
+          "prenom": "Bertrand",
+          "nom_complet": "Bertrand CAFFIN",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "BILLAUT",
+          "prenom": "Maureen",
+          "nom_complet": "Maureen BILLAUT",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "SANTERNE",
+          "prenom": "Maxime",
+          "nom_complet": "Maxime SANTERNE",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LESCAUT",
+          "prenom": "Cathy",
+          "nom_complet": "Cathy LESCAUT",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "HENNEQUIN",
+          "prenom": "Valentin",
+          "nom_complet": "Valentin HENNEQUIN",
+          "sexe": "M",
+          "age": 27,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "SUDOL",
+          "prenom": "Florine",
+          "nom_complet": "Florine SUDOL",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "MASCART",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique MASCART",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

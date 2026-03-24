@@ -1,0 +1,131 @@
+{
+  "code_commune": "62058",
+  "commune": "Aumerval",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "COUVREUR",
+    "prenom": "François",
+    "nom_complet": "François COUVREUR",
+    "age": 46,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 174,
+    "votants": 130,
+    "pct_votants": 74.71,
+    "abstentions": 44,
+    "pct_abstentions": 25.29,
+    "exprimes": 104
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Continuons à progresser ensemble",
+      "libelle_abrege_liste": "Continuons à progresser ensemble",
+      "nuance_liste": null,
+      "voix": 104,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "COUVREUR",
+        "prenom": "François",
+        "nom_complet": "François COUVREUR",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "COUVREUR",
+          "prenom": "François",
+          "nom_complet": "François COUVREUR",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "MICHON",
+          "prenom": "Eugenie",
+          "nom_complet": "Eugenie MICHON",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "PATIGNIEZ",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique PATIGNIEZ",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "ROUGEMONT",
+          "prenom": "Lucie",
+          "nom_complet": "Lucie ROUGEMONT",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "CABAJ",
+          "prenom": "Cédric",
+          "nom_complet": "Cédric CABAJ",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DUBUIS",
+          "prenom": "Delphine",
+          "nom_complet": "Delphine DUBUIS",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BLANQUART",
+          "prenom": "Charles",
+          "nom_complet": "Charles BLANQUART",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DUPUIS",
+          "prenom": "Elodie",
+          "nom_complet": "Elodie DUPUIS",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DROQUES",
+          "prenom": "David",
+          "nom_complet": "David DROQUES",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "STRAFILE",
+          "prenom": "Gwendoline",
+          "nom_complet": "Gwendoline STRAFILE",
+          "sexe": "F",
+          "age": 18,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "SERNICLAY",
+          "prenom": "Alain",
+          "nom_complet": "Alain SERNICLAY",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

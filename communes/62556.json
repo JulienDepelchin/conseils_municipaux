@@ -1,0 +1,151 @@
+{
+  "code_commune": "62556",
+  "commune": "Marles-sur-Canche",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "DAVESNE",
+    "prenom": "Joël",
+    "nom_complet": "Joël DAVESNE",
+    "age": 66,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 235,
+    "votants": 208,
+    "pct_votants": 88.51,
+    "abstentions": 27,
+    "pct_abstentions": 11.49,
+    "exprimes": 198
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ENSEMBLE POUR NOTRE VILLAGE",
+      "libelle_abrege_liste": "ENSEMBLE POUR NOTRE VILLAGE",
+      "nuance_liste": null,
+      "voix": 124,
+      "pct_voix_exprimes": 62.63,
+      "sieges_cm": 9,
+      "sieges_cc": null,
+      "nb_elus": 9,
+      "tete_de_liste": {
+        "nom": "DAVESNE",
+        "prenom": "Joël",
+        "nom_complet": "Joël DAVESNE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DAVESNE",
+          "prenom": "Joël",
+          "nom_complet": "Joël DAVESNE",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "MERLOT",
+          "prenom": "Françoise",
+          "nom_complet": "Françoise MERLOT",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "QUIENOT",
+          "prenom": "Jean-Pierre",
+          "nom_complet": "Jean-Pierre QUIENOT",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "GAILLARD",
+          "prenom": "Marianne",
+          "nom_complet": "Marianne GAILLARD",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "OUTERS",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas OUTERS",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LOCQUEVILLE",
+          "prenom": "Nadine",
+          "nom_complet": "Nadine LOCQUEVILLE",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BIGET",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno BIGET",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "QUIENOT",
+          "prenom": "Marie-Claude",
+          "nom_complet": "Marie-Claude QUIENOT",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "HUBO",
+          "prenom": "Aymeric",
+          "nom_complet": "Aymeric HUBO",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "9"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "L'AVENIR DE MARLES C'est vous qui décidez !",
+      "libelle_abrege_liste": "L'AVENIR DE MARLES C'est vous qui décidez !",
+      "nuance_liste": null,
+      "voix": 74,
+      "pct_voix_exprimes": 37.37,
+      "sieges_cm": 2,
+      "sieges_cc": null,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "QUÉNU NÉE SAILLY",
+        "prenom": "Agnès",
+        "nom_complet": "Agnès QUÉNU NÉE SAILLY",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "QUÉNU NÉE SAILLY",
+          "prenom": "Agnès",
+          "nom_complet": "Agnès QUÉNU NÉE SAILLY",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DELATTRE",
+          "prenom": "Didier",
+          "nom_complet": "Didier DELATTRE",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

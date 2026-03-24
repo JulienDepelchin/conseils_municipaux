@@ -1,0 +1,131 @@
+{
+  "code_commune": "62860",
+  "commune": "Villers-Sir-Simon",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "LEGRAND",
+    "prenom": "Eric",
+    "nom_complet": "Eric LEGRAND",
+    "age": 62,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 91,
+    "votants": 75,
+    "pct_votants": 82.42,
+    "abstentions": 16,
+    "pct_abstentions": 17.58,
+    "exprimes": 56
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "BIEN VIVRE ENSEMBLE",
+      "libelle_abrege_liste": "BIEN VIVRE ENSEMBLE",
+      "nuance_liste": null,
+      "voix": 56,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "LEGRAND",
+        "prenom": "Eric",
+        "nom_complet": "Eric LEGRAND",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LEGRAND",
+          "prenom": "Eric",
+          "nom_complet": "Eric LEGRAND",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LISIECKI",
+          "prenom": "Marie",
+          "nom_complet": "Marie LISIECKI",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "MARTIN",
+          "prenom": "Stéphane",
+          "nom_complet": "Stéphane MARTIN",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "COUQ",
+          "prenom": "Celia",
+          "nom_complet": "Celia COUQ",
+          "sexe": "F",
+          "age": 22,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LEFEBVRE",
+          "prenom": "Maxime",
+          "nom_complet": "Maxime LEFEBVRE",
+          "sexe": "M",
+          "age": 30,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "COUPÉ",
+          "prenom": "Lauren",
+          "nom_complet": "Lauren COUPÉ",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DUEZ",
+          "prenom": "Arnaud",
+          "nom_complet": "Arnaud DUEZ",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "CLABECQ JANSSOONE",
+          "prenom": "Kathalyne",
+          "nom_complet": "Kathalyne CLABECQ JANSSOONE",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "HAJDUK",
+          "prenom": "Alain",
+          "nom_complet": "Alain HAJDUK",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "RICART",
+          "prenom": "Justine",
+          "nom_complet": "Justine RICART",
+          "sexe": "F",
+          "age": 27,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DELATTRE",
+          "prenom": "Thierry",
+          "nom_complet": "Thierry DELATTRE",
+          "sexe": "M",
+          "age": 75,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

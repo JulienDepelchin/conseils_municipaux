@@ -1,0 +1,163 @@
+{
+  "code_commune": "59149",
+  "commune": "Clary",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "DÉPREZ",
+    "prenom": "Marie-Josée",
+    "nom_complet": "Marie-Josée DÉPREZ",
+    "age": 72,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 812,
+    "votants": 438,
+    "pct_votants": 53.94,
+    "abstentions": 374,
+    "pct_abstentions": 46.06,
+    "exprimes": 363
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Bien vivre ensemble à Clary",
+      "libelle_abrege_liste": "Bien vivre ensemble à Clary",
+      "nuance_liste": null,
+      "voix": 363,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": 1,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "DÉPREZ",
+        "prenom": "Marie-Josée",
+        "nom_complet": "Marie-Josée DÉPREZ",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "DÉPREZ",
+          "prenom": "Marie-Josée",
+          "nom_complet": "Marie-Josée DÉPREZ",
+          "sexe": "F",
+          "age": 72,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "RAMETTE",
+          "prenom": "Jean-Marc",
+          "nom_complet": "Jean-Marc RAMETTE",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "SAUTIÈRE",
+          "prenom": "Odile",
+          "nom_complet": "Odile SAUTIÈRE",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "TAISNE",
+          "prenom": "Stéphane",
+          "nom_complet": "Stéphane TAISNE",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "WATTIN",
+          "prenom": "Hélène",
+          "nom_complet": "Hélène WATTIN",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "CHAMPAGNE",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas CHAMPAGNE",
+          "sexe": "M",
+          "age": 33,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "CAILLE",
+          "prenom": "Aurore",
+          "nom_complet": "Aurore CAILLE",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "MICHALINKO",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent MICHALINKO",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "GARDES",
+          "prenom": "Anne",
+          "nom_complet": "Anne GARDES",
+          "sexe": "F",
+          "age": 70,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "CORNET",
+          "prenom": "Jérémy",
+          "nom_complet": "Jérémy CORNET",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "LARGILLIÈRE",
+          "prenom": "Astrid",
+          "nom_complet": "Astrid LARGILLIÈRE",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "MAILLOT",
+          "prenom": "Arnaud",
+          "nom_complet": "Arnaud MAILLOT",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "LENOIR",
+          "prenom": "Martine",
+          "nom_complet": "Martine LENOIR",
+          "sexe": "F",
+          "age": 73,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "GABRIELS",
+          "prenom": "Guillaume",
+          "nom_complet": "Guillaume GABRIELS",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "MUCHEMBLED",
+          "prenom": "Françoise",
+          "nom_complet": "Françoise MUCHEMBLED",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

@@ -1,0 +1,183 @@
+{
+  "code_commune": "62003",
+  "commune": "Acheville",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "GALET",
+    "prenom": "David",
+    "nom_complet": "David GALET",
+    "age": 44,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 525,
+    "votants": 394,
+    "pct_votants": 75.05,
+    "abstentions": 131,
+    "pct_abstentions": 24.95,
+    "exprimes": 389
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Passionnément Acheville",
+      "libelle_abrege_liste": "Passionnément Acheville",
+      "nuance_liste": null,
+      "voix": 239,
+      "pct_voix_exprimes": 61.44,
+      "sieges_cm": 12,
+      "sieges_cc": null,
+      "nb_elus": 12,
+      "tete_de_liste": {
+        "nom": "GALET",
+        "prenom": "David",
+        "nom_complet": "David GALET",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "GALET",
+          "prenom": "David",
+          "nom_complet": "David GALET",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "CORROYEZ",
+          "prenom": "Christine",
+          "nom_complet": "Christine CORROYEZ",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "ROUTIER",
+          "prenom": "Jean-Michel",
+          "nom_complet": "Jean-Michel ROUTIER",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "HALLO",
+          "prenom": "Célia",
+          "nom_complet": "Célia HALLO",
+          "sexe": "F",
+          "age": 24,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "GRUT",
+          "prenom": "David",
+          "nom_complet": "David GRUT",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "TRIGALLEZ",
+          "prenom": "Aurélie",
+          "nom_complet": "Aurélie TRIGALLEZ",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "LEBRUN-BABLED",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas LEBRUN-BABLED",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "MARTEL",
+          "prenom": "Jenny",
+          "nom_complet": "Jenny MARTEL",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "KOWANDY",
+          "prenom": "Emmanuel",
+          "nom_complet": "Emmanuel KOWANDY",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "KOSTRZEWSKI",
+          "prenom": "Veronique",
+          "nom_complet": "Veronique KOSTRZEWSKI",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "BURKAT",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent BURKAT",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "DOREZ",
+          "prenom": "Claire",
+          "nom_complet": "Claire DOREZ",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "12"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "ENSEMBLE POUR ACHEVILLE",
+      "libelle_abrege_liste": "ENSEMBLE POUR ACHEVILLE",
+      "nuance_liste": null,
+      "voix": 150,
+      "pct_voix_exprimes": 38.56,
+      "sieges_cm": 3,
+      "sieges_cc": null,
+      "nb_elus": 3,
+      "tete_de_liste": {
+        "nom": "BOULANGER",
+        "prenom": "Gael",
+        "nom_complet": "Gael BOULANGER",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BOULANGER",
+          "prenom": "Gael",
+          "nom_complet": "Gael BOULANGER",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "PETIT",
+          "prenom": "Emilie",
+          "nom_complet": "Emilie PETIT",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "RAVAUX",
+          "prenom": "Kévin",
+          "nom_complet": "Kévin RAVAUX",
+          "sexe": "M",
+          "age": 32,
+          "rang_liste": "3"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

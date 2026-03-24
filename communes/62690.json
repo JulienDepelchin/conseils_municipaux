@@ -1,0 +1,151 @@
+{
+  "code_commune": "62690",
+  "commune": "Raye-sur-Authie",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "HOUILLIEZ",
+    "prenom": "Franck",
+    "nom_complet": "Franck HOUILLIEZ",
+    "age": 54,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 183,
+    "votants": 154,
+    "pct_votants": 84.15,
+    "abstentions": 29,
+    "pct_abstentions": 15.85,
+    "exprimes": 149
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "Agissons ensemble pour Raye",
+      "libelle_abrege_liste": "Agissons ensemble pour Raye",
+      "nuance_liste": null,
+      "voix": 84,
+      "pct_voix_exprimes": 56.38,
+      "sieges_cm": 9,
+      "sieges_cc": null,
+      "nb_elus": 9,
+      "tete_de_liste": {
+        "nom": "HOUILLIEZ",
+        "prenom": "Franck",
+        "nom_complet": "Franck HOUILLIEZ",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "HOUILLIEZ",
+          "prenom": "Franck",
+          "nom_complet": "Franck HOUILLIEZ",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "PONCHEL",
+          "prenom": "Ludivine",
+          "nom_complet": "Ludivine PONCHEL",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DENIVELLE",
+          "prenom": "Sylvain",
+          "nom_complet": "Sylvain DENIVELLE",
+          "sexe": "M",
+          "age": 34,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "CHARLATE",
+          "prenom": "Cécile",
+          "nom_complet": "Cécile CHARLATE",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "PATINOTTE",
+          "prenom": "Christian",
+          "nom_complet": "Christian PATINOTTE",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "GROUSEZ",
+          "prenom": "Anne-Charlotte",
+          "nom_complet": "Anne-Charlotte GROUSEZ",
+          "sexe": "F",
+          "age": 32,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BOYEZ",
+          "prenom": "François",
+          "nom_complet": "François BOYEZ",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "OGEZ",
+          "prenom": "Justine",
+          "nom_complet": "Justine OGEZ",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "PRUVOST",
+          "prenom": "Thomas",
+          "nom_complet": "Thomas PRUVOST",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "9"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Continuons ensemble pour Raye et son Hameau",
+      "libelle_abrege_liste": "Continuons ensemble pour Raye et son Hameau",
+      "nuance_liste": null,
+      "voix": 65,
+      "pct_voix_exprimes": 43.62,
+      "sieges_cm": 2,
+      "sieges_cc": null,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "DUFOUR",
+        "prenom": "Monique",
+        "nom_complet": "Monique DUFOUR",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "DUFOUR",
+          "prenom": "Monique",
+          "nom_complet": "Monique DUFOUR",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "MOULIN",
+          "prenom": "Samuel",
+          "nom_complet": "Samuel MOULIN",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

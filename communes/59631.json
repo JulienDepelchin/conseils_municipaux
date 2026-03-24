@@ -1,0 +1,215 @@
+{
+  "code_commune": "59631",
+  "commune": "Walincourt-Selvigny",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "MÉLI",
+    "prenom": "Jérôme",
+    "nom_complet": "Jérôme MÉLI",
+    "age": 47,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1532,
+    "votants": 904,
+    "pct_votants": 59.01,
+    "abstentions": 628,
+    "pct_abstentions": 40.99,
+    "exprimes": 881
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "S'engager, agir, réussir",
+      "libelle_abrege_liste": "S'engager, agir, réussir",
+      "nuance_liste": null,
+      "voix": 644,
+      "pct_voix_exprimes": 73.1,
+      "sieges_cm": 17,
+      "sieges_cc": 2,
+      "nb_elus": 17,
+      "tete_de_liste": {
+        "nom": "MÉLI",
+        "prenom": "Jérôme",
+        "nom_complet": "Jérôme MÉLI",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "MÉLI",
+          "prenom": "Jérôme",
+          "nom_complet": "Jérôme MÉLI",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "MAILLY",
+          "prenom": "Chantal",
+          "nom_complet": "Chantal MAILLY",
+          "sexe": "F",
+          "age": 72,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "WAYEMBERGE",
+          "prenom": "Yves",
+          "nom_complet": "Yves WAYEMBERGE",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LEFEBVRE",
+          "prenom": "Maïté",
+          "nom_complet": "Maïté LEFEBVRE",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "CASEZ",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno CASEZ",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "GALLOIS",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle GALLOIS",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "COYOT",
+          "prenom": "Alain",
+          "nom_complet": "Alain COYOT",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "BENGIN",
+          "prenom": "Pascale",
+          "nom_complet": "Pascale BENGIN",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "WARENGHEM",
+          "prenom": "Mathieu",
+          "nom_complet": "Mathieu WARENGHEM",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "PETYT",
+          "prenom": "Agnès",
+          "nom_complet": "Agnès PETYT",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "HUTIN",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent HUTIN",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "THIELAIN",
+          "prenom": "Floriane",
+          "nom_complet": "Floriane THIELAIN",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "BEAUVILLAIN",
+          "prenom": "Didier",
+          "nom_complet": "Didier BEAUVILLAIN",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "BOQUILLON",
+          "prenom": "Peggy",
+          "nom_complet": "Peggy BOQUILLON",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "PETYT",
+          "prenom": "Michel",
+          "nom_complet": "Michel PETYT",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "GONCALVES",
+          "prenom": "Virginie",
+          "nom_complet": "Virginie GONCALVES",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "BRISSON",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent BRISSON",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "17"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Deux clochers pour un projet",
+      "libelle_abrege_liste": "Deux clochers pour un projet",
+      "nuance_liste": null,
+      "voix": 237,
+      "pct_voix_exprimes": 26.9,
+      "sieges_cm": 2,
+      "sieges_cc": 0,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "DESSAINT",
+        "prenom": "Maxime",
+        "nom_complet": "Maxime DESSAINT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DESSAINT",
+          "prenom": "Maxime",
+          "nom_complet": "Maxime DESSAINT",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "PRUVOT",
+          "prenom": "Nadine",
+          "nom_complet": "Nadine PRUVOT",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

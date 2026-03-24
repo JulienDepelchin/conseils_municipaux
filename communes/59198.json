@@ -1,0 +1,151 @@
+{
+  "code_commune": "59198",
+  "commune": "Eppe-Sauvage",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "GROUZELLE",
+    "prenom": "Denis",
+    "nom_complet": "Denis GROUZELLE",
+    "age": 65,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 186,
+    "votants": 171,
+    "pct_votants": 91.94,
+    "abstentions": 15,
+    "pct_abstentions": 8.06,
+    "exprimes": 171
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "BON VIVRE A EPPE-SAUVAGE",
+      "libelle_abrege_liste": "BON VIVRE A EPPE-SAUVAGE",
+      "nuance_liste": null,
+      "voix": 98,
+      "pct_voix_exprimes": 57.31,
+      "sieges_cm": 9,
+      "sieges_cc": null,
+      "nb_elus": 9,
+      "tete_de_liste": {
+        "nom": "GROUZELLE",
+        "prenom": "Denis",
+        "nom_complet": "Denis GROUZELLE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "GROUZELLE",
+          "prenom": "Denis",
+          "nom_complet": "Denis GROUZELLE",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BOUZERE",
+          "prenom": "Audrey",
+          "nom_complet": "Audrey BOUZERE",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DEMARET",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe DEMARET",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DEMARET",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie DEMARET",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LELEU",
+          "prenom": "Herbert",
+          "nom_complet": "Herbert LELEU",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DELRUE",
+          "prenom": "Francoise",
+          "nom_complet": "Francoise DELRUE",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DEMARET",
+          "prenom": "Antoine",
+          "nom_complet": "Antoine DEMARET",
+          "sexe": "M",
+          "age": 26,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "BARBENCON",
+          "prenom": "Carine",
+          "nom_complet": "Carine BARBENCON",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "HAINAUT",
+          "prenom": "Vincent",
+          "nom_complet": "Vincent HAINAUT",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "9"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "EPPE SAUVAGE, UN VILLAGE A VIVRE, UN AVENIR A BATIR",
+      "libelle_abrege_liste": "EPPE SAUVAGE, UN VILLAGE A VIVRE, UN AVENIR A BATIR",
+      "nuance_liste": null,
+      "voix": 73,
+      "pct_voix_exprimes": 42.69,
+      "sieges_cm": 2,
+      "sieges_cc": null,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "DELHOYE",
+        "prenom": "Jocelyne",
+        "nom_complet": "Jocelyne DELHOYE",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "DELHOYE",
+          "prenom": "Jocelyne",
+          "nom_complet": "Jocelyne DELHOYE",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "GOSTEAU",
+          "prenom": "Julian",
+          "nom_complet": "Julian GOSTEAU",
+          "sexe": "M",
+          "age": 30,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

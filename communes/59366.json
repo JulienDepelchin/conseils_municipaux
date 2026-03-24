@@ -1,0 +1,183 @@
+{
+  "code_commune": "59366",
+  "commune": "Lynde",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "DAUTRICOURT",
+    "prenom": "Jean-François",
+    "nom_complet": "Jean-François DAUTRICOURT",
+    "age": 54,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 634,
+    "votants": 466,
+    "pct_votants": 73.5,
+    "abstentions": 168,
+    "pct_abstentions": 26.5,
+    "exprimes": 442
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "LYNDE NOS RACINES",
+      "libelle_abrege_liste": "LNR",
+      "nuance_liste": null,
+      "voix": 249,
+      "pct_voix_exprimes": 56.33,
+      "sieges_cm": 12,
+      "sieges_cc": null,
+      "nb_elus": 12,
+      "tete_de_liste": {
+        "nom": "DAUTRICOURT",
+        "prenom": "Jean-François",
+        "nom_complet": "Jean-François DAUTRICOURT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DAUTRICOURT",
+          "prenom": "Jean-François",
+          "nom_complet": "Jean-François DAUTRICOURT",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DEGELCKE",
+          "prenom": "Cathy",
+          "nom_complet": "Cathy DEGELCKE",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "CARTON",
+          "prenom": "Gregory",
+          "nom_complet": "Gregory CARTON",
+          "sexe": "M",
+          "age": 34,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "SEBILLE",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie SEBILLE",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "SCHARRE",
+          "prenom": "Bernard",
+          "nom_complet": "Bernard SCHARRE",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "TRINEZ",
+          "prenom": "Marie",
+          "nom_complet": "Marie TRINEZ",
+          "sexe": "F",
+          "age": 28,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "CLEENEWERCK",
+          "prenom": "Francois",
+          "nom_complet": "Francois CLEENEWERCK",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "MAGREZ",
+          "prenom": "Priscillia",
+          "nom_complet": "Priscillia MAGREZ",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "LEGRAND",
+          "prenom": "Cyril",
+          "nom_complet": "Cyril LEGRAND",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "TILLOY",
+          "prenom": "Julie",
+          "nom_complet": "Julie TILLOY",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "HARDY",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric HARDY",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "BARBARY",
+          "prenom": "Delphine",
+          "nom_complet": "Delphine BARBARY",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "12"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "Ensemble, poursuivons l'élan",
+      "libelle_abrege_liste": "EPE",
+      "nuance_liste": null,
+      "voix": 193,
+      "pct_voix_exprimes": 43.67,
+      "sieges_cm": 3,
+      "sieges_cc": null,
+      "nb_elus": 3,
+      "tete_de_liste": {
+        "nom": "STOPIN",
+        "prenom": "Marie-Hélène",
+        "nom_complet": "Marie-Hélène STOPIN",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "STOPIN",
+          "prenom": "Marie-Hélène",
+          "nom_complet": "Marie-Hélène STOPIN",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BLOCQUEL",
+          "prenom": "Jean-Paul",
+          "nom_complet": "Jean-Paul BLOCQUEL",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BALIN",
+          "prenom": "Monique",
+          "nom_complet": "Monique BALIN",
+          "sexe": "F",
+          "age": 70,
+          "rang_liste": "3"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

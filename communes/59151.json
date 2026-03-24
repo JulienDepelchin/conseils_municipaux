@@ -1,0 +1,215 @@
+{
+  "code_commune": "59151",
+  "commune": "Colleret",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "MENISSEZ",
+    "prenom": "Aurelie",
+    "nom_complet": "Aurelie MENISSEZ",
+    "age": 42,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1233,
+    "votants": 775,
+    "pct_votants": 62.85,
+    "abstentions": 458,
+    "pct_abstentions": 37.15,
+    "exprimes": 745
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "UNE EQUIPE UNIE AVEC VOUS ET POUR VOUS",
+      "libelle_abrege_liste": "UNE EQUIPE UNIE AVEC VOUS ET POUR VOUS",
+      "nuance_liste": null,
+      "voix": 403,
+      "pct_voix_exprimes": 54.09,
+      "sieges_cm": 15,
+      "sieges_cc": 1,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "MENISSEZ",
+        "prenom": "Aurelie",
+        "nom_complet": "Aurelie MENISSEZ",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "MENISSEZ",
+          "prenom": "Aurelie",
+          "nom_complet": "Aurelie MENISSEZ",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "HERMANS",
+          "prenom": "Clement",
+          "nom_complet": "Clement HERMANS",
+          "sexe": "M",
+          "age": 31,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BARTOSIK",
+          "prenom": "Christine",
+          "nom_complet": "Christine BARTOSIK",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "MARIE",
+          "prenom": "Gilbert",
+          "nom_complet": "Gilbert MARIE",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "BRAHIMI",
+          "prenom": "Adeline",
+          "nom_complet": "Adeline BRAHIMI",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LEJUSTE",
+          "prenom": "Jean-Louis",
+          "nom_complet": "Jean-Louis LEJUSTE",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "LAURENT",
+          "prenom": "Celine",
+          "nom_complet": "Celine LAURENT",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "GLADIEUX",
+          "prenom": "Jeremy",
+          "nom_complet": "Jeremy GLADIEUX",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "LEJUSTE",
+          "prenom": "Chloe",
+          "nom_complet": "Chloe LEJUSTE",
+          "sexe": "F",
+          "age": 29,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "QUINZIN",
+          "prenom": "Julien",
+          "nom_complet": "Julien QUINZIN",
+          "sexe": "M",
+          "age": 33,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "LEFEBVRE",
+          "prenom": "Sonia",
+          "nom_complet": "Sonia LEFEBVRE",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "DECAIX",
+          "prenom": "David",
+          "nom_complet": "David DECAIX",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "DUPONT",
+          "prenom": "Melanie",
+          "nom_complet": "Melanie DUPONT",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "SAINTHUILE",
+          "prenom": "Denis",
+          "nom_complet": "Denis SAINTHUILE",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "STAELENS",
+          "prenom": "Laurie",
+          "nom_complet": "Laurie STAELENS",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "UNIS POUR DEMAIN",
+      "libelle_abrege_liste": "UNIS POUR DEMAIN",
+      "nuance_liste": null,
+      "voix": 342,
+      "pct_voix_exprimes": 45.91,
+      "sieges_cm": 4,
+      "sieges_cc": 0,
+      "nb_elus": 4,
+      "tete_de_liste": {
+        "nom": "PIERSON",
+        "prenom": "Jean Luc",
+        "nom_complet": "Jean Luc PIERSON",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "PIERSON",
+          "prenom": "Jean Luc",
+          "nom_complet": "Jean Luc PIERSON",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "VANNOORENBERGHE",
+          "prenom": "Denise",
+          "nom_complet": "Denise VANNOORENBERGHE",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BETTIOL",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique BETTIOL",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LEGRAND",
+          "prenom": "Catherine",
+          "nom_complet": "Catherine LEGRAND",
+          "sexe": "F",
+          "age": 73,
+          "rang_liste": "4"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "code_commune": "59059",
+  "commune": "Beaumont-en-Cambrésis",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "BACCOUT",
+    "prenom": "Fabrice",
+    "nom_complet": "Fabrice BACCOUT",
+    "age": 62,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 343,
+    "votants": 209,
+    "pct_votants": 60.93,
+    "abstentions": 134,
+    "pct_abstentions": 39.07,
+    "exprimes": 182
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Beaumont au Cœur",
+      "libelle_abrege_liste": "Beaumont au Cœur",
+      "nuance_liste": null,
+      "voix": 182,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "BACCOUT",
+        "prenom": "Fabrice",
+        "nom_complet": "Fabrice BACCOUT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BACCOUT",
+          "prenom": "Fabrice",
+          "nom_complet": "Fabrice BACCOUT",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DELHAYE VIREMOUNEIX",
+          "prenom": "Evelyne",
+          "nom_complet": "Evelyne DELHAYE VIREMOUNEIX",
+          "sexe": "F",
+          "age": 74,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "VERHAEGHE",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal VERHAEGHE",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "SERPILLON",
+          "prenom": "Emilie",
+          "nom_complet": "Emilie SERPILLON",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "QUENNESON",
+          "prenom": "Thomas",
+          "nom_complet": "Thomas QUENNESON",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DRUBAY WATTIER",
+          "prenom": "Marine",
+          "nom_complet": "Marine DRUBAY WATTIER",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BACCOUT",
+          "prenom": "Thibault",
+          "nom_complet": "Thibault BACCOUT",
+          "sexe": "M",
+          "age": 29,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "CAURETTE",
+          "prenom": "Melanie",
+          "nom_complet": "Melanie CAURETTE",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DUPRÉ",
+          "prenom": "Romain",
+          "nom_complet": "Romain DUPRÉ",
+          "sexe": "M",
+          "age": 27,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "COTTEAU",
+          "prenom": "Manon",
+          "nom_complet": "Manon COTTEAU",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "HERBIN",
+          "prenom": "Valentin",
+          "nom_complet": "Valentin HERBIN",
+          "sexe": "M",
+          "age": 19,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

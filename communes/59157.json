@@ -1,0 +1,195 @@
+{
+  "code_commune": "59157",
+  "commune": "Cousolre",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "JALLAY",
+    "prenom": "Albert",
+    "nom_complet": "Albert JALLAY",
+    "age": 71,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1538,
+    "votants": 620,
+    "pct_votants": 40.31,
+    "abstentions": 918,
+    "pct_abstentions": 59.69,
+    "exprimes": 478
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "S'UNIR POUR L'AVENIR DE COUSOLRE",
+      "libelle_abrege_liste": "S'UNIR POUR L'AVENIR DE COUSOLRE",
+      "nuance_liste": null,
+      "voix": 478,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 19,
+      "sieges_cc": 1,
+      "nb_elus": 19,
+      "tete_de_liste": {
+        "nom": "JALLAY",
+        "prenom": "Albert",
+        "nom_complet": "Albert JALLAY",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "JALLAY",
+          "prenom": "Albert",
+          "nom_complet": "Albert JALLAY",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LACOSTE-ACHTERMANN",
+          "prenom": "Dorothee",
+          "nom_complet": "Dorothee LACOSTE-ACHTERMANN",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LAVOITTE",
+          "prenom": "Didier",
+          "nom_complet": "Didier LAVOITTE",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "SAROT-MARECAILLE-HENAUT",
+          "prenom": "Axelle",
+          "nom_complet": "Axelle SAROT-MARECAILLE-HENAUT",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LEFEVRE",
+          "prenom": "Claude-Bernard",
+          "nom_complet": "Claude-Bernard LEFEVRE",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "MARIE-GELUS",
+          "prenom": "Laurence",
+          "nom_complet": "Laurence MARIE-GELUS",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BERRIER",
+          "prenom": "Ludovic",
+          "nom_complet": "Ludovic BERRIER",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "HENAUT",
+          "prenom": "Laurianne",
+          "nom_complet": "Laurianne HENAUT",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "LALLEMENT",
+          "prenom": "Daniel",
+          "nom_complet": "Daniel LALLEMENT",
+          "sexe": "M",
+          "age": 79,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DELATRE",
+          "prenom": "Veronique",
+          "nom_complet": "Veronique DELATRE",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "MIROUX",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe MIROUX",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "DEWAGNIER",
+          "prenom": "Fabienne",
+          "nom_complet": "Fabienne DEWAGNIER",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "BURY",
+          "prenom": "Tony",
+          "nom_complet": "Tony BURY",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "BRASSEUR-DOUILLEZ",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie BRASSEUR-DOUILLEZ",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "HENNEBERT",
+          "prenom": "Jordan",
+          "nom_complet": "Jordan HENNEBERT",
+          "sexe": "M",
+          "age": 22,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "LE PENNEC",
+          "prenom": "Angelique",
+          "nom_complet": "Angelique LE PENNEC",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "SFORZA",
+          "prenom": "Luca",
+          "nom_complet": "Luca SFORZA",
+          "sexe": "M",
+          "age": 27,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "DROUSIE",
+          "prenom": "Flora",
+          "nom_complet": "Flora DROUSIE",
+          "sexe": "F",
+          "age": 29,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "CATTERNAN",
+          "prenom": "Eric",
+          "nom_complet": "Eric CATTERNAN",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "19"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "code_commune": "62530",
+  "commune": "Lottinghen",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "DELATTRE",
+    "prenom": "Mathieu",
+    "nom_complet": "Mathieu DELATTRE",
+    "age": 49,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 414,
+    "votants": 303,
+    "pct_votants": 73.19,
+    "abstentions": 111,
+    "pct_abstentions": 26.81,
+    "exprimes": 238
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "LOTTINGHEN : ENGAGES POUR TOUS VERS L'AVENIR",
+      "libelle_abrege_liste": "LOTTINGHEN : ENGAGES POUR TOUS VERS L'AVENIR",
+      "nuance_liste": null,
+      "voix": 238,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "DELATTRE",
+        "prenom": "Mathieu",
+        "nom_complet": "Mathieu DELATTRE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DELATTRE",
+          "prenom": "Mathieu",
+          "nom_complet": "Mathieu DELATTRE",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "HEDOUX",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle HEDOUX",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LEMAIRE",
+          "prenom": "Sylvain",
+          "nom_complet": "Sylvain LEMAIRE",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "SAINT-GEORGES",
+          "prenom": "Agnès",
+          "nom_complet": "Agnès SAINT-GEORGES",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "CREPIN",
+          "prenom": "Joël",
+          "nom_complet": "Joël CREPIN",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "REGNIER",
+          "prenom": "Corinne",
+          "nom_complet": "Corinne REGNIER",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "MAILLY",
+          "prenom": "Jacky",
+          "nom_complet": "Jacky MAILLY",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "ROLANDO",
+          "prenom": "Marie-José",
+          "nom_complet": "Marie-José ROLANDO",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "GAMBART",
+          "prenom": "Stéphane",
+          "nom_complet": "Stéphane GAMBART",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "CALON",
+          "prenom": "Adeline",
+          "nom_complet": "Adeline CALON",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DARQUE",
+          "prenom": "Vincent",
+          "nom_complet": "Vincent DARQUE",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "REGNAULT",
+          "prenom": "Astrid",
+          "nom_complet": "Astrid REGNAULT",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "LEVERT",
+          "prenom": "Sylvain",
+          "nom_complet": "Sylvain LEVERT",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "SUEUR",
+          "prenom": "Anne",
+          "nom_complet": "Anne SUEUR",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "MERLIN",
+          "prenom": "Aurélien",
+          "nom_complet": "Aurélien MERLIN",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

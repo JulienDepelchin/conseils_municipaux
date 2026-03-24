@@ -1,0 +1,315 @@
+{
+  "code_commune": "59482",
+  "commune": "Quesnoy-sur-Deûle",
+  "departement": "Nord",
+  "tour": "T2",
+  "maire": {
+    "nom": "PROUVOST",
+    "prenom": "Béatrice",
+    "nom_complet": "Béatrice PROUVOST",
+    "age": 53,
+    "nuance": "LDVG"
+  },
+  "resultats": {
+    "inscrits": 5389,
+    "votants": 3229,
+    "pct_votants": 59.92,
+    "abstentions": 2160,
+    "pct_abstentions": 40.08,
+    "exprimes": 3175
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "QUESNOY POUR TOUS NATURELLEMENT",
+      "libelle_abrege_liste": "QUESNOY POUR TOUS NATURELLEMENT",
+      "nuance_liste": "LDVG",
+      "voix": 1158,
+      "pct_voix_exprimes": 36.47,
+      "sieges_cm": 20,
+      "sieges_cc": 1,
+      "nb_elus": 20,
+      "tete_de_liste": {
+        "nom": "PROUVOST",
+        "prenom": "Béatrice",
+        "nom_complet": "Béatrice PROUVOST",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "PROUVOST",
+          "prenom": "Béatrice",
+          "nom_complet": "Béatrice PROUVOST",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DUFOUR",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal DUFOUR",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LE CORVIC",
+          "prenom": "Marie-Agnès",
+          "nom_complet": "Marie-Agnès LE CORVIC",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DEBAECKE",
+          "prenom": "Emilien",
+          "nom_complet": "Emilien DEBAECKE",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "HINDRYCK",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie HINDRYCK",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "BARON",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric BARON",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "LECLAIRE",
+          "prenom": "Valérie",
+          "nom_complet": "Valérie LECLAIRE",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "OLIVIER",
+          "prenom": "Samuel",
+          "nom_complet": "Samuel OLIVIER",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "GRISLAIN",
+          "prenom": "Elodie",
+          "nom_complet": "Elodie GRISLAIN",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DEGROOTE",
+          "prenom": "Michel",
+          "nom_complet": "Michel DEGROOTE",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "LAMARRE",
+          "prenom": "Marianne",
+          "nom_complet": "Marianne LAMARRE",
+          "sexe": "F",
+          "age": 28,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "JOURDAIN",
+          "prenom": "Vincent",
+          "nom_complet": "Vincent JOURDAIN",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "FAURE",
+          "prenom": "Rosine",
+          "nom_complet": "Rosine FAURE",
+          "sexe": "F",
+          "age": 70,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "SINGEOT",
+          "prenom": "Matthieu",
+          "nom_complet": "Matthieu SINGEOT",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "PINTIAUX",
+          "prenom": "Juliette",
+          "nom_complet": "Juliette PINTIAUX",
+          "sexe": "F",
+          "age": 28,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "PAUTRAT",
+          "prenom": "Romain",
+          "nom_complet": "Romain PAUTRAT",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "LAMBIN",
+          "prenom": "Annie",
+          "nom_complet": "Annie LAMBIN",
+          "sexe": "F",
+          "age": 75,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "DEMORTIER",
+          "prenom": "Bertrand",
+          "nom_complet": "Bertrand DEMORTIER",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "ALEXANDRE",
+          "prenom": "Karine",
+          "nom_complet": "Karine ALEXANDRE",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "MASSEZ",
+          "prenom": "Thierry",
+          "nom_complet": "Thierry MASSEZ",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "20"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "AGIR POUR QUESNOY",
+      "libelle_abrege_liste": "APQ",
+      "nuance_liste": "LDVC",
+      "voix": 1105,
+      "pct_voix_exprimes": 34.8,
+      "sieges_cm": 5,
+      "sieges_cc": 0,
+      "nb_elus": 5,
+      "tete_de_liste": {
+        "nom": "DECOSTER",
+        "prenom": "Patrick",
+        "nom_complet": "Patrick DECOSTER",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DECOSTER",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick DECOSTER",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "MENET",
+          "prenom": "Delphine",
+          "nom_complet": "Delphine MENET",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "SUEUR",
+          "prenom": "Alexis",
+          "nom_complet": "Alexis SUEUR",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BRISY",
+          "prenom": "Chloé",
+          "nom_complet": "Chloé BRISY",
+          "sexe": "F",
+          "age": 28,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "MERCIER",
+          "prenom": "Luc",
+          "nom_complet": "Luc MERCIER",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "5"
+        }
+      ],
+      "statut_conseil": "autre"
+    },
+    {
+      "num_panneau": "4",
+      "libelle_liste": "VIVONS QUESNOY",
+      "libelle_abrege_liste": "VIVONS QUESNOY",
+      "nuance_liste": "LDVC",
+      "voix": 912,
+      "pct_voix_exprimes": 28.72,
+      "sieges_cm": 4,
+      "sieges_cc": 0,
+      "nb_elus": 4,
+      "tete_de_liste": {
+        "nom": "DELPLACE",
+        "prenom": "Alexandre",
+        "nom_complet": "Alexandre DELPLACE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DELPLACE",
+          "prenom": "Alexandre",
+          "nom_complet": "Alexandre DELPLACE",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "CATTEAU",
+          "prenom": "Camille",
+          "nom_complet": "Camille CATTEAU",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LEFEBVRE",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe LEFEBVRE",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "MORTIER",
+          "prenom": "Angélique",
+          "nom_complet": "Angélique MORTIER",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "4"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

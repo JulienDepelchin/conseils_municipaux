@@ -1,0 +1,131 @@
+{
+  "code_commune": "62897",
+  "commune": "Wismes",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "MERLO",
+    "prenom": "Sandrine",
+    "nom_complet": "Sandrine MERLO",
+    "age": 58,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 394,
+    "votants": 265,
+    "pct_votants": 67.26,
+    "abstentions": 129,
+    "pct_abstentions": 32.74,
+    "exprimes": 181
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "WISMES dans la continuité",
+      "libelle_abrege_liste": "WISMES dans la continuité",
+      "nuance_liste": null,
+      "voix": 181,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "MERLO",
+        "prenom": "Sandrine",
+        "nom_complet": "Sandrine MERLO",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "MERLO",
+          "prenom": "Sandrine",
+          "nom_complet": "Sandrine MERLO",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LEDUC",
+          "prenom": "Stéphane",
+          "nom_complet": "Stéphane LEDUC",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "PIQUET",
+          "prenom": "Pauline",
+          "nom_complet": "Pauline PIQUET",
+          "sexe": "F",
+          "age": 28,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "SECQUÉPÉE",
+          "prenom": "Julien",
+          "nom_complet": "Julien SECQUÉPÉE",
+          "sexe": "M",
+          "age": 34,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "TELLIER",
+          "prenom": "Laetitia",
+          "nom_complet": "Laetitia TELLIER",
+          "sexe": "F",
+          "age": 29,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DUVAL",
+          "prenom": "Daniel",
+          "nom_complet": "Daniel DUVAL",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "TINTILLIER",
+          "prenom": "Juliette",
+          "nom_complet": "Juliette TINTILLIER",
+          "sexe": "F",
+          "age": 25,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DELFORGE",
+          "prenom": "Valentin",
+          "nom_complet": "Valentin DELFORGE",
+          "sexe": "M",
+          "age": 33,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "FERAND",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle FERAND",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "VASSEUR",
+          "prenom": "Daniel",
+          "nom_complet": "Daniel VASSEUR",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "FARDOUX",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle FARDOUX",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

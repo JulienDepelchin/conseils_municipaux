@@ -1,0 +1,227 @@
+{
+  "code_commune": "59128",
+  "commune": "Capinghem",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "DUCOURAU",
+    "prenom": "Vincent",
+    "nom_complet": "Vincent DUCOURAU",
+    "age": 30,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1876,
+    "votants": 911,
+    "pct_votants": 48.56,
+    "abstentions": 965,
+    "pct_abstentions": 51.44,
+    "exprimes": 812
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "GRANDIR L'AVENIR",
+      "libelle_abrege_liste": "GRANDIR L'AVENIR",
+      "nuance_liste": null,
+      "voix": 812,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 23,
+      "sieges_cc": 1,
+      "nb_elus": 23,
+      "tete_de_liste": {
+        "nom": "DUCOURAU",
+        "prenom": "Vincent",
+        "nom_complet": "Vincent DUCOURAU",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DUCOURAU",
+          "prenom": "Vincent",
+          "nom_complet": "Vincent DUCOURAU",
+          "sexe": "M",
+          "age": 30,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "FICHELLE",
+          "prenom": "Marie-Claude",
+          "nom_complet": "Marie-Claude FICHELLE",
+          "sexe": "F",
+          "age": 78,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "WIDHEN",
+          "prenom": "Thierry",
+          "nom_complet": "Thierry WIDHEN",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "HAUTCOEUR",
+          "prenom": "Sophie",
+          "nom_complet": "Sophie HAUTCOEUR",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "TRICOIT",
+          "prenom": "Antoine",
+          "nom_complet": "Antoine TRICOIT",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "CATTOEN",
+          "prenom": "Eugénie",
+          "nom_complet": "Eugénie CATTOEN",
+          "sexe": "F",
+          "age": 24,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "LIETARD",
+          "prenom": "Guillaume",
+          "nom_complet": "Guillaume LIETARD",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "WARNIER ÉPOUSE OUDAERT",
+          "prenom": "Ghyslaine",
+          "nom_complet": "Ghyslaine WARNIER ÉPOUSE OUDAERT",
+          "sexe": "F",
+          "age": 76,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "FEDERICO",
+          "prenom": "Louis",
+          "nom_complet": "Louis FEDERICO",
+          "sexe": "M",
+          "age": 27,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "LAURENCE",
+          "prenom": "Sandrine",
+          "nom_complet": "Sandrine LAURENCE",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "VAN LAETHEM",
+          "prenom": "Francis",
+          "nom_complet": "Francis VAN LAETHEM",
+          "sexe": "M",
+          "age": 79,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "TRAPASSO",
+          "prenom": "Graziella",
+          "nom_complet": "Graziella TRAPASSO",
+          "sexe": "F",
+          "age": 74,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "VASSEUR",
+          "prenom": "Etienne",
+          "nom_complet": "Etienne VASSEUR",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "DIDDEN",
+          "prenom": "Allison",
+          "nom_complet": "Allison DIDDEN",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "PUJOL",
+          "prenom": "Lionel",
+          "nom_complet": "Lionel PUJOL",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "DENUÉ",
+          "prenom": "Natacha",
+          "nom_complet": "Natacha DENUÉ",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "BOITELLE",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe BOITELLE",
+          "sexe": "M",
+          "age": 76,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "DE BOIS",
+          "prenom": "Amandine",
+          "nom_complet": "Amandine DE BOIS",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "CAPILLIEZ",
+          "prenom": "Mickael",
+          "nom_complet": "Mickael CAPILLIEZ",
+          "sexe": "M",
+          "age": 33,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "PRUVOST",
+          "prenom": "Ingrid Solene",
+          "nom_complet": "Ingrid Solene PRUVOST",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "INGOUF",
+          "prenom": "François",
+          "nom_complet": "François INGOUF",
+          "sexe": "M",
+          "age": 28,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "CAUDRELIER",
+          "prenom": "Julie",
+          "nom_complet": "Julie CAUDRELIER",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "LACRAMPE",
+          "prenom": "Thibaut",
+          "nom_complet": "Thibaut LACRAMPE",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "23"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

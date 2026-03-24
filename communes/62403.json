@@ -1,0 +1,163 @@
+{
+  "code_commune": "62403",
+  "commune": "Hallines",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "SEILLIER",
+    "prenom": "Christine",
+    "nom_complet": "Christine SEILLIER",
+    "age": 66,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 961,
+    "votants": 512,
+    "pct_votants": 53.28,
+    "abstentions": 449,
+    "pct_abstentions": 46.72,
+    "exprimes": 432
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "HALLINES ENSEMBLE",
+      "libelle_abrege_liste": "HALLINES ENSEMBLE",
+      "nuance_liste": null,
+      "voix": 432,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": 1,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "SEILLIER",
+        "prenom": "Christine",
+        "nom_complet": "Christine SEILLIER",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "SEILLIER",
+          "prenom": "Christine",
+          "nom_complet": "Christine SEILLIER",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LEMANISSIER",
+          "prenom": "David",
+          "nom_complet": "David LEMANISSIER",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DUQUESNE",
+          "prenom": "Nadine",
+          "nom_complet": "Nadine DUQUESNE",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "COEUGNEIT",
+          "prenom": "Christian",
+          "nom_complet": "Christian COEUGNEIT",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "CHOCHOI",
+          "prenom": "Alexandra",
+          "nom_complet": "Alexandra CHOCHOI",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "MAGNIER",
+          "prenom": "Frederic",
+          "nom_complet": "Frederic MAGNIER",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "VANDENBUSSCHE",
+          "prenom": "Véronique",
+          "nom_complet": "Véronique VANDENBUSSCHE",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "COURBET",
+          "prenom": "Mathieu",
+          "nom_complet": "Mathieu COURBET",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "CROQUET",
+          "prenom": "Véronique",
+          "nom_complet": "Véronique CROQUET",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "PREVOST",
+          "prenom": "Julien",
+          "nom_complet": "Julien PREVOST",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "GROS",
+          "prenom": "Marie Michele",
+          "nom_complet": "Marie Michele GROS",
+          "sexe": "F",
+          "age": 71,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "DELBECQUES",
+          "prenom": "Jérémie",
+          "nom_complet": "Jérémie DELBECQUES",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "HUCHETTE",
+          "prenom": "Laetitia",
+          "nom_complet": "Laetitia HUCHETTE",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "BRAY",
+          "prenom": "Emile",
+          "nom_complet": "Emile BRAY",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "MAGNIER",
+          "prenom": "Manon",
+          "nom_complet": "Manon MAGNIER",
+          "sexe": "F",
+          "age": 19,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

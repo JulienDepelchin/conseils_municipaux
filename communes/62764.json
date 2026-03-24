@@ -1,0 +1,299 @@
+{
+  "code_commune": "62764",
+  "commune": "Saint-Nicolas",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "FOURNIER",
+    "prenom": "Stéphane",
+    "nom_complet": "Stéphane FOURNIER",
+    "age": 51,
+    "nuance": "LDIV"
+  },
+  "resultats": {
+    "inscrits": 3403,
+    "votants": 1935,
+    "pct_votants": 56.86,
+    "abstentions": 1468,
+    "pct_abstentions": 43.14,
+    "exprimes": 1871
+  },
+  "listes": [
+    {
+      "num_panneau": "3",
+      "libelle_liste": "SAINT NICOLAS LEZ ARRAS AVEC VOUS, POUR VOUS",
+      "libelle_abrege_liste": "SAINT NICOLAS LEZ ARRAS AVEC VOUS, POUR VOUS",
+      "nuance_liste": "LDIV",
+      "voix": 1111,
+      "pct_voix_exprimes": 59.38,
+      "sieges_cm": 22,
+      "sieges_cc": 3,
+      "nb_elus": 22,
+      "tete_de_liste": {
+        "nom": "FOURNIER",
+        "prenom": "Stéphane",
+        "nom_complet": "Stéphane FOURNIER",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "FOURNIER",
+          "prenom": "Stéphane",
+          "nom_complet": "Stéphane FOURNIER",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "SAVARY",
+          "prenom": "Astrid",
+          "nom_complet": "Astrid SAVARY",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "CAYET",
+          "prenom": "Alain",
+          "nom_complet": "Alain CAYET",
+          "sexe": "M",
+          "age": 78,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "RATAJCZAK",
+          "prenom": "Anne-Caroline",
+          "nom_complet": "Anne-Caroline RATAJCZAK",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "FIERET",
+          "prenom": "Anthony",
+          "nom_complet": "Anthony FIERET",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LOPEZ",
+          "prenom": "Sophie",
+          "nom_complet": "Sophie LOPEZ",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "IMBERT",
+          "prenom": "Thierry",
+          "nom_complet": "Thierry IMBERT",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "CAYET",
+          "prenom": "Sophie",
+          "nom_complet": "Sophie CAYET",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "FICHEL",
+          "prenom": "Arnaud",
+          "nom_complet": "Arnaud FICHEL",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "OBERT",
+          "prenom": "Kelly",
+          "nom_complet": "Kelly OBERT",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "AJARRAY",
+          "prenom": "Fouad",
+          "nom_complet": "Fouad AJARRAY",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "N'JEE",
+          "prenom": "Haddy",
+          "nom_complet": "Haddy N'JEE",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "NOURTIER",
+          "prenom": "Jacques",
+          "nom_complet": "Jacques NOURTIER",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "LEBAS",
+          "prenom": "Christelle",
+          "nom_complet": "Christelle LEBAS",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "HERBET",
+          "prenom": "Vincent",
+          "nom_complet": "Vincent HERBET",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "DESHORTIES",
+          "prenom": "Marie-Antoinette",
+          "nom_complet": "Marie-Antoinette DESHORTIES",
+          "sexe": "F",
+          "age": 71,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "KURCZ",
+          "prenom": "Benoît",
+          "nom_complet": "Benoît KURCZ",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "DUQUESNOY",
+          "prenom": "Martine",
+          "nom_complet": "Martine DUQUESNOY",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "LEBOEUF",
+          "prenom": "Arnaud",
+          "nom_complet": "Arnaud LEBOEUF",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "DEMAY-LEGUAY",
+          "prenom": "Aurore",
+          "nom_complet": "Aurore DEMAY-LEGUAY",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "BRUGUET",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick BRUGUET",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "NORMAND",
+          "prenom": "Laëtitia",
+          "nom_complet": "Laëtitia NORMAND",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "22"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "ACTION ET PROXIMITE AVEC LES MEDIOLANAIS",
+      "libelle_abrege_liste": "ACTION ET PROXIMITE AVEC LES MEDIOLANAIS",
+      "nuance_liste": "LDIV",
+      "voix": 503,
+      "pct_voix_exprimes": 26.88,
+      "sieges_cm": 3,
+      "sieges_cc": 0,
+      "nb_elus": 3,
+      "tete_de_liste": {
+        "nom": "HALIPRET",
+        "prenom": "Nicolas",
+        "nom_complet": "Nicolas HALIPRET",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "HALIPRET",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas HALIPRET",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "NEBATI",
+          "prenom": "Hanene",
+          "nom_complet": "Hanene NEBATI",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "RICHARD",
+          "prenom": "Claude",
+          "nom_complet": "Claude RICHARD",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "3"
+        }
+      ],
+      "statut_conseil": "autre"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "LISTE CITOYENNE DE SAINT-NICOLAS-LEZ-ARRAS",
+      "libelle_abrege_liste": "LISTE CITOYENNE DE SAINT-NICOLAS-LEZ-ARRAS",
+      "nuance_liste": "LDIV",
+      "voix": 257,
+      "pct_voix_exprimes": 13.74,
+      "sieges_cm": 2,
+      "sieges_cc": 0,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "FOURNIER",
+        "prenom": "Arthur",
+        "nom_complet": "Arthur FOURNIER",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "FOURNIER",
+          "prenom": "Arthur",
+          "nom_complet": "Arthur FOURNIER",
+          "sexe": "M",
+          "age": 23,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "TROCME",
+          "prenom": "Mélanie",
+          "nom_complet": "Mélanie TROCME",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

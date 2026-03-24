@@ -1,0 +1,183 @@
+{
+  "code_commune": "59458",
+  "commune": "Péronne-en-Mélantois",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "BLAS",
+    "prenom": "Jean-Marie",
+    "nom_complet": "Jean-Marie BLAS",
+    "age": 60,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 763,
+    "votants": 606,
+    "pct_votants": 79.42,
+    "abstentions": 157,
+    "pct_abstentions": 20.58,
+    "exprimes": 585
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "PÉRONNE EN MELANTOIS UNE COMMUNE VIVANTE, UNE ÉQUIPE ENGAGÉE",
+      "libelle_abrege_liste": "PÉRONNE EN MELANTOIS UNE COMMUNE VIVANTE, UNE ÉQUIPE ENGAGÉE",
+      "nuance_liste": null,
+      "voix": 323,
+      "pct_voix_exprimes": 55.21,
+      "sieges_cm": 12,
+      "sieges_cc": 1,
+      "nb_elus": 12,
+      "tete_de_liste": {
+        "nom": "BLAS",
+        "prenom": "Jean-Marie",
+        "nom_complet": "Jean-Marie BLAS",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BLAS",
+          "prenom": "Jean-Marie",
+          "nom_complet": "Jean-Marie BLAS",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "PARENT-BELLEMBOIS",
+          "prenom": "Sabrina",
+          "nom_complet": "Sabrina PARENT-BELLEMBOIS",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DELEVOYE",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick DELEVOYE",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DEBUCHY",
+          "prenom": "Françoise",
+          "nom_complet": "Françoise DEBUCHY",
+          "sexe": "F",
+          "age": 73,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "BELLEMBOIS",
+          "prenom": "Gérard",
+          "nom_complet": "Gérard BELLEMBOIS",
+          "sexe": "M",
+          "age": 76,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "POPRAWSKI",
+          "prenom": "Pauline",
+          "nom_complet": "Pauline POPRAWSKI",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "VANBATTEN",
+          "prenom": "Benoit",
+          "nom_complet": "Benoit VANBATTEN",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "JULMANN",
+          "prenom": "Céline",
+          "nom_complet": "Céline JULMANN",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "CARLIER",
+          "prenom": "Sylvain",
+          "nom_complet": "Sylvain CARLIER",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DOUTRELIGNE",
+          "prenom": "Jessica",
+          "nom_complet": "Jessica DOUTRELIGNE",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "WATTEBLED",
+          "prenom": "David",
+          "nom_complet": "David WATTEBLED",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "CRESSON",
+          "prenom": "Mathilde",
+          "nom_complet": "Mathilde CRESSON",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "12"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "PERONNE EN MELANTOIS-PARTAGEONS NOTRE VISION COMMUNE",
+      "libelle_abrege_liste": "PERONNE EN MELANTOIS-PARTAGEONS NOTRE VISION COMMUNE",
+      "nuance_liste": null,
+      "voix": 262,
+      "pct_voix_exprimes": 44.79,
+      "sieges_cm": 3,
+      "sieges_cc": 0,
+      "nb_elus": 3,
+      "tete_de_liste": {
+        "nom": "DEBUSSCHERE",
+        "prenom": "Barbara",
+        "nom_complet": "Barbara DEBUSSCHERE",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "DEBUSSCHERE",
+          "prenom": "Barbara",
+          "nom_complet": "Barbara DEBUSSCHERE",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "CHANDOUINEAU",
+          "prenom": "Thierry",
+          "nom_complet": "Thierry CHANDOUINEAU",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LAGILLE",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie LAGILLE",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "3"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

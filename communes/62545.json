@@ -1,0 +1,131 @@
+{
+  "code_commune": "62545",
+  "commune": "Maninghem",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "LEDUC",
+    "prenom": "Philippe",
+    "nom_complet": "Philippe LEDUC",
+    "age": 69,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 111,
+    "votants": 94,
+    "pct_votants": 84.68,
+    "abstentions": 17,
+    "pct_abstentions": 15.32,
+    "exprimes": 61
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "TOUS ENSEMBLE POUR MANINGHEM",
+      "libelle_abrege_liste": "TOUS ENSEMBLE POUR MANINGHEM",
+      "nuance_liste": null,
+      "voix": 61,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "LEDUC",
+        "prenom": "Philippe",
+        "nom_complet": "Philippe LEDUC",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LEDUC",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe LEDUC",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "HANDTSCHOEWERCKER",
+          "prenom": "Sophie",
+          "nom_complet": "Sophie HANDTSCHOEWERCKER",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "PRUVOST",
+          "prenom": "Steve",
+          "nom_complet": "Steve PRUVOST",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "MOUILLIERE",
+          "prenom": "Marie-Gaelle",
+          "nom_complet": "Marie-Gaelle MOUILLIERE",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LEDUC",
+          "prenom": "Remi",
+          "nom_complet": "Remi LEDUC",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "BAHEU",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle BAHEU",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "GLAÇON",
+          "prenom": "Julien",
+          "nom_complet": "Julien GLAÇON",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "COURDAIN",
+          "prenom": "Celine",
+          "nom_complet": "Celine COURDAIN",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DELPLANQUE",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent DELPLANQUE",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DALLERY-BLET",
+          "prenom": "Sonia",
+          "nom_complet": "Sonia DALLERY-BLET",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "GODIN",
+          "prenom": "Alexandre",
+          "nom_complet": "Alexandre GODIN",
+          "sexe": "M",
+          "age": 30,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

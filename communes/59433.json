@@ -1,0 +1,163 @@
+{
+  "code_commune": "59433",
+  "commune": "Nieurlet",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "CAPPELAERE",
+    "prenom": "Antoine",
+    "nom_complet": "Antoine CAPPELAERE",
+    "age": 31,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 682,
+    "votants": 424,
+    "pct_votants": 62.17,
+    "abstentions": 258,
+    "pct_abstentions": 37.83,
+    "exprimes": 345
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Unis pour Nieurlet",
+      "libelle_abrege_liste": "Unis pour Nieurlet",
+      "nuance_liste": null,
+      "voix": 345,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "CAPPELAERE",
+        "prenom": "Antoine",
+        "nom_complet": "Antoine CAPPELAERE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "CAPPELAERE",
+          "prenom": "Antoine",
+          "nom_complet": "Antoine CAPPELAERE",
+          "sexe": "M",
+          "age": 31,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "MOREL",
+          "prenom": "Ingrid",
+          "nom_complet": "Ingrid MOREL",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "SPÉTER",
+          "prenom": "Michel",
+          "nom_complet": "Michel SPÉTER",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DIERS",
+          "prenom": "Hélène",
+          "nom_complet": "Hélène DIERS",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "VANCAYEZEELE",
+          "prenom": "Bertrand",
+          "nom_complet": "Bertrand VANCAYEZEELE",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "MOREL",
+          "prenom": "Danièle",
+          "nom_complet": "Danièle MOREL",
+          "sexe": "F",
+          "age": 73,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BARRIOT",
+          "prenom": "David",
+          "nom_complet": "David BARRIOT",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LAUWERIÈRE",
+          "prenom": "Frédérique",
+          "nom_complet": "Frédérique LAUWERIÈRE",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "TUTRICE",
+          "prenom": "Cyrille",
+          "nom_complet": "Cyrille TUTRICE",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "MISSIAEN",
+          "prenom": "Justine",
+          "nom_complet": "Justine MISSIAEN",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "BERNARDO",
+          "prenom": "Thomas",
+          "nom_complet": "Thomas BERNARDO",
+          "sexe": "M",
+          "age": 31,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "COUSIN",
+          "prenom": "Marie-Adeline",
+          "nom_complet": "Marie-Adeline COUSIN",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "PENIN",
+          "prenom": "Antoine",
+          "nom_complet": "Antoine PENIN",
+          "sexe": "M",
+          "age": 19,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "DUMONT",
+          "prenom": "Hélène",
+          "nom_complet": "Hélène DUMONT",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "RYCKEBUSCH",
+          "prenom": "Jean-Luc",
+          "nom_complet": "Jean-Luc RYCKEBUSCH",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

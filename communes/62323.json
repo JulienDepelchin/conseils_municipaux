@@ -1,0 +1,163 @@
+{
+  "code_commune": "62323",
+  "commune": "Fampoux",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "LEDHE",
+    "prenom": "Didier",
+    "nom_complet": "Didier LEDHE",
+    "age": 59,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 983,
+    "votants": 603,
+    "pct_votants": 61.34,
+    "abstentions": 380,
+    "pct_abstentions": 38.66,
+    "exprimes": 503
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "FAMPOUX, Tradition et Ambition",
+      "libelle_abrege_liste": "FAMPOUX, Tradition et Ambition",
+      "nuance_liste": null,
+      "voix": 503,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": 1,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "LEDHE",
+        "prenom": "Didier",
+        "nom_complet": "Didier LEDHE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LEDHE",
+          "prenom": "Didier",
+          "nom_complet": "Didier LEDHE",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "WACHEUX",
+          "prenom": "Florence",
+          "nom_complet": "Florence WACHEUX",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LEFRANCQ",
+          "prenom": "Rudy",
+          "nom_complet": "Rudy LEFRANCQ",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BEAURAIN",
+          "prenom": "Marie-Ange",
+          "nom_complet": "Marie-Ange BEAURAIN",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LEFEBVRE",
+          "prenom": "Claude",
+          "nom_complet": "Claude LEFEBVRE",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DELPORTE",
+          "prenom": "Marie-Christine",
+          "nom_complet": "Marie-Christine DELPORTE",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "LEGUAY",
+          "prenom": "Jérôme",
+          "nom_complet": "Jérôme LEGUAY",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LESTIENNES",
+          "prenom": "Marie",
+          "nom_complet": "Marie LESTIENNES",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "HONORÉ",
+          "prenom": "Samuel",
+          "nom_complet": "Samuel HONORÉ",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "LEROY",
+          "prenom": "Julie",
+          "nom_complet": "Julie LEROY",
+          "sexe": "F",
+          "age": 27,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "VILETTE",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent VILETTE",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "LAVEUGLE",
+          "prenom": "Linda",
+          "nom_complet": "Linda LAVEUGLE",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "CUVELLIER",
+          "prenom": "Claudy",
+          "nom_complet": "Claudy CUVELLIER",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "PREVAL",
+          "prenom": "Cindy",
+          "nom_complet": "Cindy PREVAL",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "LEGRAND",
+          "prenom": "Gérald",
+          "nom_complet": "Gérald LEGRAND",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

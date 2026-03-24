@@ -1,0 +1,123 @@
+{
+  "code_commune": "62430",
+  "commune": "Hénu",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "HEMERY",
+    "prenom": "Jean-Paul",
+    "nom_complet": "Jean-Paul HEMERY",
+    "age": 71,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 127,
+    "votants": 77,
+    "pct_votants": 60.63,
+    "abstentions": 50,
+    "pct_abstentions": 39.37,
+    "exprimes": 52
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Agir pour les intérêts communaux",
+      "libelle_abrege_liste": "Agir pour les intérêts communaux",
+      "nuance_liste": null,
+      "voix": 52,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 10,
+      "sieges_cc": null,
+      "nb_elus": 10,
+      "tete_de_liste": {
+        "nom": "HEMERY",
+        "prenom": "Jean-Paul",
+        "nom_complet": "Jean-Paul HEMERY",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "HEMERY",
+          "prenom": "Jean-Paul",
+          "nom_complet": "Jean-Paul HEMERY",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "HEMERY",
+          "prenom": "Micheline",
+          "nom_complet": "Micheline HEMERY",
+          "sexe": "F",
+          "age": 74,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "D'HAUTEFEUILLE",
+          "prenom": "Renaud",
+          "nom_complet": "Renaud D'HAUTEFEUILLE",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LAKROUM",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie LAKROUM",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LAKROUM",
+          "prenom": "Christian",
+          "nom_complet": "Christian LAKROUM",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "SWIECKI",
+          "prenom": "Cécile",
+          "nom_complet": "Cécile SWIECKI",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BENOIT",
+          "prenom": "Alexandre",
+          "nom_complet": "Alexandre BENOIT",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "NOYELLE",
+          "prenom": "Mélodie",
+          "nom_complet": "Mélodie NOYELLE",
+          "sexe": "F",
+          "age": 31,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "LEFEBVRE",
+          "prenom": "Florian",
+          "nom_complet": "Florian LEFEBVRE",
+          "sexe": "M",
+          "age": 31,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "NOYELLE",
+          "prenom": "Mariana",
+          "nom_complet": "Mariana NOYELLE",
+          "sexe": "F",
+          "age": 31,
+          "rang_liste": "10"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

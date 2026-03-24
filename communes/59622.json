@@ -1,0 +1,183 @@
+{
+  "code_commune": "59622",
+  "commune": "Villers-en-Cauchies",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "DUEZ",
+    "prenom": "Pascal",
+    "nom_complet": "Pascal DUEZ",
+    "age": 63,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 864,
+    "votants": 634,
+    "pct_votants": 73.38,
+    "abstentions": 230,
+    "pct_abstentions": 26.62,
+    "exprimes": 614
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "Agir ensemble pour Villers-en-Cauchies",
+      "libelle_abrege_liste": "Agir ensemble pour Villers-en-Cauchies",
+      "nuance_liste": null,
+      "voix": 392,
+      "pct_voix_exprimes": 63.84,
+      "sieges_cm": 13,
+      "sieges_cc": 1,
+      "nb_elus": 13,
+      "tete_de_liste": {
+        "nom": "DUEZ",
+        "prenom": "Pascal",
+        "nom_complet": "Pascal DUEZ",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DUEZ",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal DUEZ",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DELAVAL",
+          "prenom": "Mf",
+          "nom_complet": "Mf DELAVAL",
+          "sexe": "F",
+          "age": 73,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "FOVEZ",
+          "prenom": "Alain",
+          "nom_complet": "Alain FOVEZ",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "MORELLE",
+          "prenom": "Véronique",
+          "nom_complet": "Véronique MORELLE",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "BILLOIR",
+          "prenom": "Richard",
+          "nom_complet": "Richard BILLOIR",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "BRENDLER",
+          "prenom": "Lindsay",
+          "nom_complet": "Lindsay BRENDLER",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DENOYELLE",
+          "prenom": "Michel",
+          "nom_complet": "Michel DENOYELLE",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LAIGLE",
+          "prenom": "Marie-Sylvie",
+          "nom_complet": "Marie-Sylvie LAIGLE",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "NIEUWJAER",
+          "prenom": "Marc",
+          "nom_complet": "Marc NIEUWJAER",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "FEEMS",
+          "prenom": "Véronique",
+          "nom_complet": "Véronique FEEMS",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DECEUNINCK",
+          "prenom": "Richard",
+          "nom_complet": "Richard DECEUNINCK",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "LADRIERE",
+          "prenom": "Michele",
+          "nom_complet": "Michele LADRIERE",
+          "sexe": "F",
+          "age": 71,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "GARIPPA",
+          "prenom": "Jean-Jacques",
+          "nom_complet": "Jean-Jacques GARIPPA",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "13"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "TOUS UNIS POUR LA RENAISSANCE DE VILLERS EN CAUCHIES",
+      "libelle_abrege_liste": "TOUS UNIS POUR LA RENAISSANCE DE VILLERS EN CAUCHIES",
+      "nuance_liste": null,
+      "voix": 222,
+      "pct_voix_exprimes": 36.16,
+      "sieges_cm": 2,
+      "sieges_cc": 0,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "LEROY",
+        "prenom": "Rejane",
+        "nom_complet": "Rejane LEROY",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "LEROY",
+          "prenom": "Rejane",
+          "nom_complet": "Rejane LEROY",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "RICHEZ",
+          "prenom": "Jean-Michel",
+          "nom_complet": "Jean-Michel RICHEZ",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

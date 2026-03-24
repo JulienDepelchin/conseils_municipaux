@@ -1,0 +1,183 @@
+{
+  "code_commune": "62046",
+  "commune": "Aubin-Saint-Vaast",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "PRINGARBE",
+    "prenom": "Steve",
+    "nom_complet": "Steve PRINGARBE",
+    "age": 44,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 629,
+    "votants": 437,
+    "pct_votants": 69.48,
+    "abstentions": 192,
+    "pct_abstentions": 30.52,
+    "exprimes": 418
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "ENSEMBLE, POUR DEMAIN",
+      "libelle_abrege_liste": "ENSEMBLE, POUR DEMAIN",
+      "nuance_liste": null,
+      "voix": 292,
+      "pct_voix_exprimes": 69.86,
+      "sieges_cm": 13,
+      "sieges_cc": null,
+      "nb_elus": 13,
+      "tete_de_liste": {
+        "nom": "PRINGARBE",
+        "prenom": "Steve",
+        "nom_complet": "Steve PRINGARBE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "PRINGARBE",
+          "prenom": "Steve",
+          "nom_complet": "Steve PRINGARBE",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DEPUYDT",
+          "prenom": "Amelie",
+          "nom_complet": "Amelie DEPUYDT",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BECLIN",
+          "prenom": "Thomas",
+          "nom_complet": "Thomas BECLIN",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LOEUILLET",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique LOEUILLET",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DEHAINAULT",
+          "prenom": "Frederic",
+          "nom_complet": "Frederic DEHAINAULT",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "MACREZ",
+          "prenom": "Murielle",
+          "nom_complet": "Murielle MACREZ",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "LABARRE",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno LABARRE",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "VAMBRE",
+          "prenom": "Cassandre",
+          "nom_complet": "Cassandre VAMBRE",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "FAUQUET",
+          "prenom": "Jean-Etienne",
+          "nom_complet": "Jean-Etienne FAUQUET",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "VAMBRE",
+          "prenom": "Beatrice",
+          "nom_complet": "Beatrice VAMBRE",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "BOUTTE",
+          "prenom": "Jean-Pierre",
+          "nom_complet": "Jean-Pierre BOUTTE",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "BACK",
+          "prenom": "Heloïse",
+          "nom_complet": "Heloïse BACK",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "PONCHE",
+          "prenom": "Michel",
+          "nom_complet": "Michel PONCHE",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "13"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "AUBIN AVENIR ACTION",
+      "libelle_abrege_liste": "AUBIN AVENIR ACTION",
+      "nuance_liste": null,
+      "voix": 126,
+      "pct_voix_exprimes": 30.14,
+      "sieges_cm": 2,
+      "sieges_cc": null,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "JOLY",
+        "prenom": "Philippe",
+        "nom_complet": "Philippe JOLY",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "JOLY",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe JOLY",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DEMAREST",
+          "prenom": "Betty",
+          "nom_complet": "Betty DEMAREST",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

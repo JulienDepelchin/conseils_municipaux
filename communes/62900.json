@@ -1,0 +1,163 @@
+{
+  "code_commune": "62900",
+  "commune": "Witternesse",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "DELEPINE",
+    "prenom": "Francine",
+    "nom_complet": "Francine DELEPINE",
+    "age": 64,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 510,
+    "votants": 326,
+    "pct_votants": 63.92,
+    "abstentions": 184,
+    "pct_abstentions": 36.08,
+    "exprimes": 286
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Un Maire, une équipe, un village",
+      "libelle_abrege_liste": "Un Maire, une équipe, un village",
+      "nuance_liste": null,
+      "voix": 286,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "DELEPINE",
+        "prenom": "Francine",
+        "nom_complet": "Francine DELEPINE",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "DELEPINE",
+          "prenom": "Francine",
+          "nom_complet": "Francine DELEPINE",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DUCROCQ",
+          "prenom": "Alain",
+          "nom_complet": "Alain DUCROCQ",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LAGIER",
+          "prenom": "Sophie",
+          "nom_complet": "Sophie LAGIER",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "GODART",
+          "prenom": "Jean-Marie",
+          "nom_complet": "Jean-Marie GODART",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "SAINT-POL",
+          "prenom": "Brigitte",
+          "nom_complet": "Brigitte SAINT-POL",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "GOBERT",
+          "prenom": "Marcel",
+          "nom_complet": "Marcel GOBERT",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BODELLE",
+          "prenom": "Gwendoline",
+          "nom_complet": "Gwendoline BODELLE",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "MONTOIS",
+          "prenom": "Corentin",
+          "nom_complet": "Corentin MONTOIS",
+          "sexe": "M",
+          "age": 21,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DEFRANCE",
+          "prenom": "Marion",
+          "nom_complet": "Marion DEFRANCE",
+          "sexe": "F",
+          "age": 25,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "NOEL",
+          "prenom": "Thibaut",
+          "nom_complet": "Thibaut NOEL",
+          "sexe": "M",
+          "age": 27,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "NOËL",
+          "prenom": "Yvette",
+          "nom_complet": "Yvette NOËL",
+          "sexe": "F",
+          "age": 75,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "MARZEC",
+          "prenom": "Jean-Marc",
+          "nom_complet": "Jean-Marc MARZEC",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "CHERMEUX",
+          "prenom": "Marie",
+          "nom_complet": "Marie CHERMEUX",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "CORNU",
+          "prenom": "Jean-Jacques",
+          "nom_complet": "Jean-Jacques CORNU",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "GOTRAND",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie GOTRAND",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

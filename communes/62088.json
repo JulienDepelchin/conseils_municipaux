@@ -1,0 +1,131 @@
+{
+  "code_commune": "62088",
+  "commune": "Bayenghem-lès-Seninghem",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "DENECQUE",
+    "prenom": "Jean-François",
+    "nom_complet": "Jean-François DENECQUE",
+    "age": 58,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 290,
+    "votants": 224,
+    "pct_votants": 77.24,
+    "abstentions": 66,
+    "pct_abstentions": 22.76,
+    "exprimes": 187
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "CONTINUONS D'AGIR POUR NOTRE VILLAGE",
+      "libelle_abrege_liste": "CONTINUONS D'AGIR POUR NOTRE VILLAGE",
+      "nuance_liste": null,
+      "voix": 187,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "DENECQUE",
+        "prenom": "Jean-François",
+        "nom_complet": "Jean-François DENECQUE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DENECQUE",
+          "prenom": "Jean-François",
+          "nom_complet": "Jean-François DENECQUE",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "HEUX",
+          "prenom": "Christine",
+          "nom_complet": "Christine HEUX",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BRESSEL",
+          "prenom": "Didier",
+          "nom_complet": "Didier BRESSEL",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LEJEUNE",
+          "prenom": "Madeline",
+          "nom_complet": "Madeline LEJEUNE",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DECOTTE",
+          "prenom": "Michaël",
+          "nom_complet": "Michaël DECOTTE",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LOISON",
+          "prenom": "Lynda",
+          "nom_complet": "Lynda LOISON",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DEVIGNE",
+          "prenom": "Edouard",
+          "nom_complet": "Edouard DEVIGNE",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "MACAIRE",
+          "prenom": "Carole",
+          "nom_complet": "Carole MACAIRE",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DUWAT",
+          "prenom": "Romain",
+          "nom_complet": "Romain DUWAT",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "REBERGUE",
+          "prenom": "Hélène",
+          "nom_complet": "Hélène REBERGUE",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "GUILLEMANT",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique GUILLEMANT",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

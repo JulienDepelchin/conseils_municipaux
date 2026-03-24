@@ -1,0 +1,229 @@
+{
+  "code_commune": "62705",
+  "commune": "Rety",
+  "departement": "Pas-de-Calais",
+  "tour": "T2",
+  "maire": {
+    "nom": "BERNARD",
+    "prenom": "Patrick",
+    "nom_complet": "Patrick BERNARD",
+    "age": 69,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1551,
+    "votants": 1076,
+    "pct_votants": 69.37,
+    "abstentions": 475,
+    "pct_abstentions": 30.63,
+    "exprimes": 1058
+  },
+  "listes": [
+    {
+      "num_panneau": "3",
+      "libelle_liste": "UNIS POUR RETY",
+      "libelle_abrege_liste": "UNIS POUR RETY",
+      "nuance_liste": null,
+      "voix": 519,
+      "pct_voix_exprimes": 49.05,
+      "sieges_cm": 15,
+      "sieges_cc": 2,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "BERNARD",
+        "prenom": "Patrick",
+        "nom_complet": "Patrick BERNARD",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BERNARD",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick BERNARD",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DELEU",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie DELEU",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DESCHAMPS",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe DESCHAMPS",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "VANSCHOORISSE",
+          "prenom": "Véronique",
+          "nom_complet": "Véronique VANSCHOORISSE",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LENGAGNE",
+          "prenom": "Eric",
+          "nom_complet": "Eric LENGAGNE",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LEROY",
+          "prenom": "Thérèse",
+          "nom_complet": "Thérèse LEROY",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "ROHART",
+          "prenom": "Sylvain",
+          "nom_complet": "Sylvain ROHART",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LECAILLE",
+          "prenom": "Annie",
+          "nom_complet": "Annie LECAILLE",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DECLEMY",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier DECLEMY",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "NION",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle NION",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "RISTORI",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique RISTORI",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "PERARD",
+          "prenom": "Salomé",
+          "nom_complet": "Salomé PERARD",
+          "sexe": "F",
+          "age": 29,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "LOEUILLETTE",
+          "prenom": "François",
+          "nom_complet": "François LOEUILLETTE",
+          "sexe": "M",
+          "age": 27,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "BRODEL",
+          "prenom": "Aurélie",
+          "nom_complet": "Aurélie BRODEL",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "DESEILLE",
+          "prenom": "Jean-Pierre",
+          "nom_complet": "Jean-Pierre DESEILLE",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "AMBITIONS POUR RETY",
+      "libelle_abrege_liste": "AMBITIONS POUR RETY",
+      "nuance_liste": null,
+      "voix": 467,
+      "pct_voix_exprimes": 44.14,
+      "sieges_cm": 4,
+      "sieges_cc": 1,
+      "nb_elus": 4,
+      "tete_de_liste": {
+        "nom": "GALLET",
+        "prenom": "Dominique",
+        "nom_complet": "Dominique GALLET",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "GALLET",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique GALLET",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "THOUVENIN",
+          "prenom": "Maryse",
+          "nom_complet": "Maryse THOUVENIN",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "HOARAU",
+          "prenom": "Rinaldo",
+          "nom_complet": "Rinaldo HOARAU",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "COUVELARD",
+          "prenom": "Véronique",
+          "nom_complet": "Véronique COUVELARD",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "4"
+        }
+      ],
+      "statut_conseil": "autre"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "RETY CITOYENS",
+      "libelle_abrege_liste": "RETY CITOYENS",
+      "nuance_liste": null,
+      "voix": 72,
+      "pct_voix_exprimes": 6.81,
+      "sieges_cm": 0,
+      "sieges_cc": 0,
+      "nb_elus": 0,
+      "tete_de_liste": null,
+      "elus": [],
+      "statut_conseil": "sans_elu"
+    }
+  ]
+}

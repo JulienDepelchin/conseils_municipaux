@@ -1,0 +1,131 @@
+{
+  "code_commune": "59047",
+  "commune": "Banteux",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "LECOQ",
+    "prenom": "Jean-Luc",
+    "nom_complet": "Jean-Luc LECOQ",
+    "age": 63,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 252,
+    "votants": 153,
+    "pct_votants": 60.71,
+    "abstentions": 99,
+    "pct_abstentions": 39.29,
+    "exprimes": 139
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "AGIR ET SERVIR ENSEMBLE POUR BANTEUX ET SES HABITANTS",
+      "libelle_abrege_liste": "AGIR ET SERVIR ENSEMBLE POUR BANTEUX ET SES HABITANTS",
+      "nuance_liste": null,
+      "voix": 139,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "LECOQ",
+        "prenom": "Jean-Luc",
+        "nom_complet": "Jean-Luc LECOQ",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LECOQ",
+          "prenom": "Jean-Luc",
+          "nom_complet": "Jean-Luc LECOQ",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "RUYFFELAERE",
+          "prenom": "Christine",
+          "nom_complet": "Christine RUYFFELAERE",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DOREMUS",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier DOREMUS",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BONPAIN",
+          "prenom": "Olivia",
+          "nom_complet": "Olivia BONPAIN",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DELOBEL",
+          "prenom": "François",
+          "nom_complet": "François DELOBEL",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "CARRE",
+          "prenom": "Léonne",
+          "nom_complet": "Léonne CARRE",
+          "sexe": "F",
+          "age": 71,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "POUILLARD",
+          "prenom": "Yann",
+          "nom_complet": "Yann POUILLARD",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "RICHE",
+          "prenom": "Claude",
+          "nom_complet": "Claude RICHE",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "CALLENS",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno CALLENS",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "LECOQ",
+          "prenom": "Marie-Claude",
+          "nom_complet": "Marie-Claude LECOQ",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "CARPENTIER",
+          "prenom": "Regis",
+          "nom_complet": "Regis CARPENTIER",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

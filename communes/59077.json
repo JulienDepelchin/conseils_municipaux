@@ -1,0 +1,131 @@
+{
+  "code_commune": "59077",
+  "commune": "Bettrechies",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "DEJEAN",
+    "prenom": "Gilles",
+    "nom_complet": "Gilles DEJEAN",
+    "age": 44,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 186,
+    "votants": 100,
+    "pct_votants": 53.76,
+    "abstentions": 86,
+    "pct_abstentions": 46.24,
+    "exprimes": 79
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "DYNAMIQUE",
+      "libelle_abrege_liste": "DYNAMIQUE",
+      "nuance_liste": null,
+      "voix": 79,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "DEJEAN",
+        "prenom": "Gilles",
+        "nom_complet": "Gilles DEJEAN",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DEJEAN",
+          "prenom": "Gilles",
+          "nom_complet": "Gilles DEJEAN",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "GUMEZ",
+          "prenom": "Claire",
+          "nom_complet": "Claire GUMEZ",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "SARRAUTE",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe SARRAUTE",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "AUDONNET",
+          "prenom": "Tiphaine",
+          "nom_complet": "Tiphaine AUDONNET",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "GUMEZ",
+          "prenom": "Antoine",
+          "nom_complet": "Antoine GUMEZ",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DELCOUR",
+          "prenom": "Françoise",
+          "nom_complet": "Françoise DELCOUR",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "CAPECCHI",
+          "prenom": "Thibaut",
+          "nom_complet": "Thibaut CAPECCHI",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "PENIN",
+          "prenom": "Cecile",
+          "nom_complet": "Cecile PENIN",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "GUMEZ",
+          "prenom": "Etienne",
+          "nom_complet": "Etienne GUMEZ",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DEFRANC",
+          "prenom": "Vanessa",
+          "nom_complet": "Vanessa DEFRANC",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "BOURRIEZ",
+          "prenom": "Arnaud",
+          "nom_complet": "Arnaud BOURRIEZ",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "code_commune": "62794",
+  "commune": "Setques",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "LAURENT",
+    "prenom": "Sébastien",
+    "nom_complet": "Sébastien LAURENT",
+    "age": 44,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 444,
+    "votants": 312,
+    "pct_votants": 70.27,
+    "abstentions": 132,
+    "pct_abstentions": 29.73,
+    "exprimes": 278
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Setques, un avenir à construire ensemble!",
+      "libelle_abrege_liste": "Setques, un avenir à construire ensemble!",
+      "nuance_liste": null,
+      "voix": 278,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "LAURENT",
+        "prenom": "Sébastien",
+        "nom_complet": "Sébastien LAURENT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LAURENT",
+          "prenom": "Sébastien",
+          "nom_complet": "Sébastien LAURENT",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LEMOINE",
+          "prenom": "Jacqueline",
+          "nom_complet": "Jacqueline LEMOINE",
+          "sexe": "F",
+          "age": 75,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BAY",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent BAY",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "QUEVAL",
+          "prenom": "Vanessa",
+          "nom_complet": "Vanessa QUEVAL",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "CODRON",
+          "prenom": "Fabrice",
+          "nom_complet": "Fabrice CODRON",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "RUCKEBUSCH",
+          "prenom": "Céline",
+          "nom_complet": "Céline RUCKEBUSCH",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "QUEVAL",
+          "prenom": "Didier",
+          "nom_complet": "Didier QUEVAL",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "ZANETTA",
+          "prenom": "Hélène",
+          "nom_complet": "Hélène ZANETTA",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "BEAUBOIS",
+          "prenom": "Alexy",
+          "nom_complet": "Alexy BEAUBOIS",
+          "sexe": "M",
+          "age": 31,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "CODRON",
+          "prenom": "Angélique",
+          "nom_complet": "Angélique CODRON",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "BLOT",
+          "prenom": "Loïc",
+          "nom_complet": "Loïc BLOT",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "COQUELLE",
+          "prenom": "Marie-Astrid",
+          "nom_complet": "Marie-Astrid COQUELLE",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "CHEVALIER",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe CHEVALIER",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "NYANSSA",
+          "prenom": "Sandrine",
+          "nom_complet": "Sandrine NYANSSA",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "LECAT",
+          "prenom": "Sébastien",
+          "nom_complet": "Sébastien LECAT",
+          "sexe": "M",
+          "age": 32,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

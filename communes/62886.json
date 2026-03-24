@@ -1,0 +1,151 @@
+{
+  "code_commune": "62886",
+  "commune": "Wicquinghem",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "JOLLANT",
+    "prenom": "Eric",
+    "nom_complet": "Eric JOLLANT",
+    "age": 59,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 177,
+    "votants": 165,
+    "pct_votants": 93.22,
+    "abstentions": 12,
+    "pct_abstentions": 6.78,
+    "exprimes": 156
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "\"ENSEMBLE POUR WICQUINGHEM\"",
+      "libelle_abrege_liste": "\"ENSEMBLE POUR WICQUINGHEM\"",
+      "nuance_liste": null,
+      "voix": 103,
+      "pct_voix_exprimes": 66.03,
+      "sieges_cm": 9,
+      "sieges_cc": null,
+      "nb_elus": 9,
+      "tete_de_liste": {
+        "nom": "JOLLANT",
+        "prenom": "Eric",
+        "nom_complet": "Eric JOLLANT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "JOLLANT",
+          "prenom": "Eric",
+          "nom_complet": "Eric JOLLANT",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "VENIEL",
+          "prenom": "Marie-Noëlle",
+          "nom_complet": "Marie-Noëlle VENIEL",
+          "sexe": "F",
+          "age": 70,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LAISNE",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe LAISNE",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "HORNOY",
+          "prenom": "Corinne",
+          "nom_complet": "Corinne HORNOY",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "WALLET",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno WALLET",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DELPORTE",
+          "prenom": "Fanny",
+          "nom_complet": "Fanny DELPORTE",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "MERLOT",
+          "prenom": "David",
+          "nom_complet": "David MERLOT",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "VASSEUR",
+          "prenom": "Karine",
+          "nom_complet": "Karine VASSEUR",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "CARPENTIER",
+          "prenom": "Jean-Philippe",
+          "nom_complet": "Jean-Philippe CARPENTIER",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "9"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Ensemble pour notre village",
+      "libelle_abrege_liste": "Ensemble pour notre village",
+      "nuance_liste": null,
+      "voix": 53,
+      "pct_voix_exprimes": 33.97,
+      "sieges_cm": 2,
+      "sieges_cc": null,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "DELPLANQUE",
+        "prenom": "Guy",
+        "nom_complet": "Guy DELPLANQUE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DELPLANQUE",
+          "prenom": "Guy",
+          "nom_complet": "Guy DELPLANQUE",
+          "sexe": "M",
+          "age": 74,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DEBOVE",
+          "prenom": "Naëlle",
+          "nom_complet": "Naëlle DEBOVE",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "code_commune": "62109",
+  "commune": "Bergueneuse",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "BEHARELLE",
+    "prenom": "Christopher",
+    "nom_complet": "Christopher BEHARELLE",
+    "age": 42,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 139,
+    "votants": 98,
+    "pct_votants": 70.5,
+    "abstentions": 41,
+    "pct_abstentions": 29.5,
+    "exprimes": 82
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "UNIS POUR BERGUENEUSE",
+      "libelle_abrege_liste": "UNIS POUR BERGUENEUSE",
+      "nuance_liste": null,
+      "voix": 82,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "BEHARELLE",
+        "prenom": "Christopher",
+        "nom_complet": "Christopher BEHARELLE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BEHARELLE",
+          "prenom": "Christopher",
+          "nom_complet": "Christopher BEHARELLE",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LAGACHE",
+          "prenom": "Aurélia",
+          "nom_complet": "Aurélia LAGACHE",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "CHEVALIER",
+          "prenom": "Thibaut",
+          "nom_complet": "Thibaut CHEVALIER",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "PICHONNIER",
+          "prenom": "Patricia",
+          "nom_complet": "Patricia PICHONNIER",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "CRESSON",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick CRESSON",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "BELLENGIER",
+          "prenom": "Catherine",
+          "nom_complet": "Catherine BELLENGIER",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "MORTIER",
+          "prenom": "Claude",
+          "nom_complet": "Claude MORTIER",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DILLIES",
+          "prenom": "Marie",
+          "nom_complet": "Marie DILLIES",
+          "sexe": "F",
+          "age": 31,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "VESTE",
+          "prenom": "Miguel",
+          "nom_complet": "Miguel VESTE",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "MICHEL",
+          "prenom": "Marina",
+          "nom_complet": "Marina MICHEL",
+          "sexe": "F",
+          "age": 21,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "LESAGE",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent LESAGE",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

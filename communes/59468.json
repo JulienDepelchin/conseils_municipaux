@@ -1,0 +1,131 @@
+{
+  "code_commune": "59468",
+  "commune": "Potelle",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "DUSSART",
+    "prenom": "Vincent",
+    "nom_complet": "Vincent DUSSART",
+    "age": 46,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 340,
+    "votants": 199,
+    "pct_votants": 58.53,
+    "abstentions": 141,
+    "pct_abstentions": 41.47,
+    "exprimes": 185
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Bien vivre à Potelle : Notre idée fixe !",
+      "libelle_abrege_liste": "Bien vivre à Potelle : Notre idée fixe !",
+      "nuance_liste": null,
+      "voix": 185,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "DUSSART",
+        "prenom": "Vincent",
+        "nom_complet": "Vincent DUSSART",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DUSSART",
+          "prenom": "Vincent",
+          "nom_complet": "Vincent DUSSART",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "VERMERSCH",
+          "prenom": "Christine",
+          "nom_complet": "Christine VERMERSCH",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LERNOULD",
+          "prenom": "François-Xavier",
+          "nom_complet": "François-Xavier LERNOULD",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "COLLINET",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie COLLINET",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "BUSIN",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas BUSIN",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "GUYONNET",
+          "prenom": "Audrey",
+          "nom_complet": "Audrey GUYONNET",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "CAMBIER",
+          "prenom": "Guislain",
+          "nom_complet": "Guislain CAMBIER",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "JOLY",
+          "prenom": "Vinciane",
+          "nom_complet": "Vinciane JOLY",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "GROSBETY",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe GROSBETY",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "STATIUS",
+          "prenom": "Monique",
+          "nom_complet": "Monique STATIUS",
+          "sexe": "F",
+          "age": 75,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "SOUFFLET",
+          "prenom": "Michel",
+          "nom_complet": "Michel SOUFFLET",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

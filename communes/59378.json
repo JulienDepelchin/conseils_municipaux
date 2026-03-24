@@ -1,0 +1,427 @@
+{
+  "code_commune": "59378",
+  "commune": "Marcq-en-Baroeul",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "CATHELAIN",
+    "prenom": "Loïc",
+    "nom_complet": "Loïc CATHELAIN",
+    "age": 44,
+    "nuance": "LDVD"
+  },
+  "resultats": {
+    "inscrits": 29969,
+    "votants": 15825,
+    "pct_votants": 52.8,
+    "abstentions": 14144,
+    "pct_abstentions": 47.2,
+    "exprimes": 15572
+  },
+  "listes": [
+    {
+      "num_panneau": "3",
+      "libelle_liste": "SERVIR L'AVENIR AVEC LOÏC CATHELAIN",
+      "libelle_abrege_liste": "SERVIR L'AVENIR AVEC LOÏC CATHELAIN",
+      "nuance_liste": "LDVD",
+      "voix": 10967,
+      "pct_voix_exprimes": 70.43,
+      "sieges_cm": 37,
+      "sieges_cc": 5,
+      "nb_elus": 37,
+      "tete_de_liste": {
+        "nom": "CATHELAIN",
+        "prenom": "Loïc",
+        "nom_complet": "Loïc CATHELAIN",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "CATHELAIN",
+          "prenom": "Loïc",
+          "nom_complet": "Loïc CATHELAIN",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "JANSSENS",
+          "prenom": "Marie-Pierre",
+          "nom_complet": "Marie-Pierre JANSSENS",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "PAPIACHVILI",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas PAPIACHVILI",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DUPARQUE",
+          "prenom": "Valérie",
+          "nom_complet": "Valérie DUPARQUE",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "GÉRARD",
+          "prenom": "Bernard",
+          "nom_complet": "Bernard GÉRARD",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "BOULET",
+          "prenom": "Émilie",
+          "nom_complet": "Émilie BOULET",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "VERLEY",
+          "prenom": "Pierre",
+          "nom_complet": "Pierre VERLEY",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "JONCQUEZ",
+          "prenom": "Catherine",
+          "nom_complet": "Catherine JONCQUEZ",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "CHARPENTIER",
+          "prenom": "Raphaël",
+          "nom_complet": "Raphaël CHARPENTIER",
+          "sexe": "M",
+          "age": 33,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "ACROUTE",
+          "prenom": "Valentine",
+          "nom_complet": "Valentine ACROUTE",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "RANDOUX",
+          "prenom": "Louis",
+          "nom_complet": "Louis RANDOUX",
+          "sexe": "M",
+          "age": 25,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "SCHAFIER",
+          "prenom": "Janine",
+          "nom_complet": "Janine SCHAFIER",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "LHERBIER",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal LHERBIER",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "SAVIGNAC",
+          "prenom": "Véronique",
+          "nom_complet": "Véronique SAVIGNAC",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "CHASTAN",
+          "prenom": "Alain",
+          "nom_complet": "Alain CHASTAN",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "DENAISON",
+          "prenom": "Valérie",
+          "nom_complet": "Valérie DENAISON",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "DEFAMIE",
+          "prenom": "Stéphane",
+          "nom_complet": "Stéphane DEFAMIE",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "JANSEN",
+          "prenom": "Beata",
+          "nom_complet": "Beata JANSEN",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "ROCHET",
+          "prenom": "François",
+          "nom_complet": "François ROCHET",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "BAERT",
+          "prenom": "Valérie",
+          "nom_complet": "Valérie BAERT",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "LEMAITRE",
+          "prenom": "Didier",
+          "nom_complet": "Didier LEMAITRE",
+          "sexe": "M",
+          "age": 79,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "CONTOIS",
+          "prenom": "Marie",
+          "nom_complet": "Marie CONTOIS",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "GILLET",
+          "prenom": "Éric",
+          "nom_complet": "Éric GILLET",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "23"
+        },
+        {
+          "nom": "HARDOUIN",
+          "prenom": "Véronique",
+          "nom_complet": "Véronique HARDOUIN",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "24"
+        },
+        {
+          "nom": "DELEURY",
+          "prenom": "Marc",
+          "nom_complet": "Marc DELEURY",
+          "sexe": "M",
+          "age": 78,
+          "rang_liste": "25"
+        },
+        {
+          "nom": "DEFRANCE",
+          "prenom": "Patricia",
+          "nom_complet": "Patricia DEFRANCE",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "26"
+        },
+        {
+          "nom": "DALLONGEVILLE",
+          "prenom": "Jérôme",
+          "nom_complet": "Jérôme DALLONGEVILLE",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "27"
+        },
+        {
+          "nom": "TALVARD",
+          "prenom": "Bénédicte",
+          "nom_complet": "Bénédicte TALVARD",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "28"
+        },
+        {
+          "nom": "ELLART",
+          "prenom": "Didier",
+          "nom_complet": "Didier ELLART",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "29"
+        },
+        {
+          "nom": "AÏT GHERBI PALMER",
+          "prenom": "Malika",
+          "nom_complet": "Malika AÏT GHERBI PALMER",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "30"
+        },
+        {
+          "nom": "NOUGEIN",
+          "prenom": "Thibaut",
+          "nom_complet": "Thibaut NOUGEIN",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "31"
+        },
+        {
+          "nom": "DECHERF",
+          "prenom": "Cyrielle",
+          "nom_complet": "Cyrielle DECHERF",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "32"
+        },
+        {
+          "nom": "LELEUX",
+          "prenom": "Cédric",
+          "nom_complet": "Cédric LELEUX",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "33"
+        },
+        {
+          "nom": "ROQUETTE",
+          "prenom": "Christelle",
+          "nom_complet": "Christelle ROQUETTE",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "34"
+        },
+        {
+          "nom": "LEBLANC",
+          "prenom": "Tom",
+          "nom_complet": "Tom LEBLANC",
+          "sexe": "M",
+          "age": 24,
+          "rang_liste": "35"
+        },
+        {
+          "nom": "BONNETERRE",
+          "prenom": "Marie-Édith",
+          "nom_complet": "Marie-Édith BONNETERRE",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "36"
+        },
+        {
+          "nom": "DEKEYSER",
+          "prenom": "Franck",
+          "nom_complet": "Franck DEKEYSER",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "37"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "MARCQ ENSEMBLE ÉCOLOGISTE ET SOLIDAIRE",
+      "libelle_abrege_liste": "MARCQ ENSEMBLE ÉCOLOGISTE ET SOLIDAIRE",
+      "nuance_liste": "LUG",
+      "voix": 2852,
+      "pct_voix_exprimes": 18.31,
+      "sieges_cm": 4,
+      "sieges_cc": 0,
+      "nb_elus": 4,
+      "tete_de_liste": {
+        "nom": "CRÉPEL",
+        "prenom": "Philippe",
+        "nom_complet": "Philippe CRÉPEL",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "CRÉPEL",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe CRÉPEL",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BERNARD",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie BERNARD",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "VERBEECK",
+          "prenom": "Clément",
+          "nom_complet": "Clément VERBEECK",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "VIDAL-SAGNIER",
+          "prenom": "Odile",
+          "nom_complet": "Odile VIDAL-SAGNIER",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "4"
+        }
+      ],
+      "statut_conseil": "autre"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "UNE NOUVELLE ENERGIE POUR MARCQ AVEC DENIS TONNEL",
+      "libelle_abrege_liste": "UNE NOUVELLE ENERGIE POUR MARCQ AVEC DENIS TONNEL",
+      "nuance_liste": "LDVD",
+      "voix": 1753,
+      "pct_voix_exprimes": 11.26,
+      "sieges_cm": 2,
+      "sieges_cc": 0,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "TONNEL",
+        "prenom": "Denis",
+        "nom_complet": "Denis TONNEL",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "TONNEL",
+          "prenom": "Denis",
+          "nom_complet": "Denis TONNEL",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "THEROUDE",
+          "prenom": "Caroline",
+          "nom_complet": "Caroline THEROUDE",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

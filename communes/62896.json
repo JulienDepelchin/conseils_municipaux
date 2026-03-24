@@ -1,0 +1,183 @@
+{
+  "code_commune": "62896",
+  "commune": "Wirwignes",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "GOUDALLE",
+    "prenom": "André",
+    "nom_complet": "André GOUDALLE",
+    "age": 70,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 677,
+    "votants": 547,
+    "pct_votants": 80.8,
+    "abstentions": 130,
+    "pct_abstentions": 19.2,
+    "exprimes": 539
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "UNE EQUIPE POUR WIRWIGNES",
+      "libelle_abrege_liste": "UNE EQUIPE POUR WIRWIGNES",
+      "nuance_liste": null,
+      "voix": 415,
+      "pct_voix_exprimes": 76.99,
+      "sieges_cm": 14,
+      "sieges_cc": null,
+      "nb_elus": 14,
+      "tete_de_liste": {
+        "nom": "GOUDALLE",
+        "prenom": "André",
+        "nom_complet": "André GOUDALLE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "GOUDALLE",
+          "prenom": "André",
+          "nom_complet": "André GOUDALLE",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "HUMIERE",
+          "prenom": "Marine",
+          "nom_complet": "Marine HUMIERE",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "HARLE",
+          "prenom": "Eric",
+          "nom_complet": "Eric HARLE",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "CRÉPIN",
+          "prenom": "Laura",
+          "nom_complet": "Laura CRÉPIN",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "COMPIEGNE",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe COMPIEGNE",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "BEAUSSIRE",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie BEAUSSIRE",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DUCROCQ",
+          "prenom": "Emmanuel",
+          "nom_complet": "Emmanuel DUCROCQ",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "BRYCKAERT",
+          "prenom": "Aurélia",
+          "nom_complet": "Aurélia BRYCKAERT",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "SENEPART",
+          "prenom": "Julien",
+          "nom_complet": "Julien SENEPART",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "SENECAT",
+          "prenom": "Martine",
+          "nom_complet": "Martine SENECAT",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "LENCEL",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe LENCEL",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "GENESTE",
+          "prenom": "Sabine",
+          "nom_complet": "Sabine GENESTE",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "LELEU",
+          "prenom": "Alban",
+          "nom_complet": "Alban LELEU",
+          "sexe": "M",
+          "age": 27,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "LECOMTE",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie LECOMTE",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "14"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "WIRWIGNES A L'ECOUTE DES HABITANTS",
+      "libelle_abrege_liste": "WIRWIGNES A L'ECOUTE DES HABITANTS",
+      "nuance_liste": null,
+      "voix": 124,
+      "pct_voix_exprimes": 23.01,
+      "sieges_cm": 1,
+      "sieges_cc": null,
+      "nb_elus": 1,
+      "tete_de_liste": {
+        "nom": "DELHORS",
+        "prenom": "Christophe",
+        "nom_complet": "Christophe DELHORS",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DELHORS",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe DELHORS",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "1"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

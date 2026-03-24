@@ -1,0 +1,131 @@
+{
+  "code_commune": "62709",
+  "commune": "Riencourt-lès-Cagnicourt",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "CRUTEL",
+    "prenom": "Gérard",
+    "nom_complet": "Gérard CRUTEL",
+    "age": 74,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 206,
+    "votants": 143,
+    "pct_votants": 69.42,
+    "abstentions": 63,
+    "pct_abstentions": 30.58,
+    "exprimes": 119
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "LISTE DE DEFENSE DES INTERETS COMMUNAUX",
+      "libelle_abrege_liste": "LISTE DE DEFENSE DES INTERETS COMMUNAUX",
+      "nuance_liste": null,
+      "voix": 119,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "CRUTEL",
+        "prenom": "Gérard",
+        "nom_complet": "Gérard CRUTEL",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "CRUTEL",
+          "prenom": "Gérard",
+          "nom_complet": "Gérard CRUTEL",
+          "sexe": "M",
+          "age": 74,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "EVRARD",
+          "prenom": "Thérèse",
+          "nom_complet": "Thérèse EVRARD",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "CANLERS",
+          "prenom": "Gilles",
+          "nom_complet": "Gilles CANLERS",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LALAIN",
+          "prenom": "Murielle",
+          "nom_complet": "Murielle LALAIN",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "SAVARY",
+          "prenom": "Marc",
+          "nom_complet": "Marc SAVARY",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "OLIVIER",
+          "prenom": "Lydie",
+          "nom_complet": "Lydie OLIVIER",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "ALISSE",
+          "prenom": "Arnaud",
+          "nom_complet": "Arnaud ALISSE",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DARQUE",
+          "prenom": "Adeline",
+          "nom_complet": "Adeline DARQUE",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "POTTIER",
+          "prenom": "Fréderic",
+          "nom_complet": "Fréderic POTTIER",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "GRENIER",
+          "prenom": "Samantha",
+          "nom_complet": "Samantha GRENIER",
+          "sexe": "F",
+          "age": 33,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "BOUTRY",
+          "prenom": "Alcide",
+          "nom_complet": "Alcide BOUTRY",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

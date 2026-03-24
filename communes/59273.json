@@ -1,0 +1,327 @@
+{
+  "code_commune": "59273",
+  "commune": "Gravelines",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "RINGOT",
+    "prenom": "Bertrand",
+    "nom_complet": "Bertrand RINGOT",
+    "age": 59,
+    "nuance": "LSOC"
+  },
+  "resultats": {
+    "inscrits": 9279,
+    "votants": 6151,
+    "pct_votants": 66.29,
+    "abstentions": 3128,
+    "pct_abstentions": 33.71,
+    "exprimes": 5965
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Gravelines Passionnément 2026",
+      "libelle_abrege_liste": "GP 2026",
+      "nuance_liste": "LSOC",
+      "voix": 4199,
+      "pct_voix_exprimes": 70.39,
+      "sieges_cm": 28,
+      "sieges_cc": 3,
+      "nb_elus": 28,
+      "tete_de_liste": {
+        "nom": "RINGOT",
+        "prenom": "Bertrand",
+        "nom_complet": "Bertrand RINGOT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "RINGOT",
+          "prenom": "Bertrand",
+          "nom_complet": "Bertrand RINGOT",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "KERCKHOF-LEFRANC",
+          "prenom": "Michèle",
+          "nom_complet": "Michèle KERCKHOF-LEFRANC",
+          "sexe": "F",
+          "age": 74,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "MERLEN",
+          "prenom": "Alain",
+          "nom_complet": "Alain MERLEN",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "VERSTRAET-LANDY",
+          "prenom": "Laurie",
+          "nom_complet": "Laurie VERSTRAET-LANDY",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "CIROT",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick CIROT",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "SOYEZ-AGEZ",
+          "prenom": "Marie-Christine",
+          "nom_complet": "Marie-Christine SOYEZ-AGEZ",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BOONEFAES",
+          "prenom": "Alain",
+          "nom_complet": "Alain BOONEFAES",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "VANDERSTRAETEN-VENZA",
+          "prenom": "Karine",
+          "nom_complet": "Karine VANDERSTRAETEN-VENZA",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "ASSICE",
+          "prenom": "Antoine",
+          "nom_complet": "Antoine ASSICE",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "SALA-BÉTOURNÉ",
+          "prenom": "Anabelle",
+          "nom_complet": "Anabelle SALA-BÉTOURNÉ",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DEVOS",
+          "prenom": "Christian",
+          "nom_complet": "Christian DEVOS",
+          "sexe": "M",
+          "age": 76,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "GUILBERT",
+          "prenom": "Peggy",
+          "nom_complet": "Peggy GUILBERT",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "WILMOT",
+          "prenom": "Daniel",
+          "nom_complet": "Daniel WILMOT",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "DEVOS",
+          "prenom": "Aurore",
+          "nom_complet": "Aurore DEVOS",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "NOTEBAERT",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent NOTEBAERT",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "BLEUEZ-COMBET",
+          "prenom": "Josée",
+          "nom_complet": "Josée BLEUEZ-COMBET",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "VEYER",
+          "prenom": "Julien",
+          "nom_complet": "Julien VEYER",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "GENEVET",
+          "prenom": "Valérie",
+          "nom_complet": "Valérie GENEVET",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "GERAERT",
+          "prenom": "Julien",
+          "nom_complet": "Julien GERAERT",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "BLANCKAERT-JONNEKIN",
+          "prenom": "Lise",
+          "nom_complet": "Lise BLANCKAERT-JONNEKIN",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "LIAGRE",
+          "prenom": "Cédric",
+          "nom_complet": "Cédric LIAGRE",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "DENEUVILLE-DAUBELCOUR",
+          "prenom": "Christelle",
+          "nom_complet": "Christelle DENEUVILLE-DAUBELCOUR",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "MARSYLLE",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno MARSYLLE",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "23"
+        },
+        {
+          "nom": "COUDEVYLLE",
+          "prenom": "Sophie",
+          "nom_complet": "Sophie COUDEVYLLE",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "24"
+        },
+        {
+          "nom": "BOLLE",
+          "prenom": "Daniel",
+          "nom_complet": "Daniel BOLLE",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "25"
+        },
+        {
+          "nom": "JEZIOROWSKI-DUBOIS",
+          "prenom": "Patricia",
+          "nom_complet": "Patricia JEZIOROWSKI-DUBOIS",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "26"
+        },
+        {
+          "nom": "LEDOUX",
+          "prenom": "Gaëtan",
+          "nom_complet": "Gaëtan LEDOUX",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "27"
+        },
+        {
+          "nom": "AMAR",
+          "prenom": "Nadia",
+          "nom_complet": "Nadia AMAR",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "28"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "RASSEMBLEMENT POUR GRAVELINES",
+      "libelle_abrege_liste": "RPG",
+      "nuance_liste": "LUDR",
+      "voix": 1766,
+      "pct_voix_exprimes": 29.61,
+      "sieges_cm": 5,
+      "sieges_cc": 0,
+      "nb_elus": 5,
+      "tete_de_liste": {
+        "nom": "GARDES",
+        "prenom": "Jean-Baptiste",
+        "nom_complet": "Jean-Baptiste GARDES",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "GARDES",
+          "prenom": "Jean-Baptiste",
+          "nom_complet": "Jean-Baptiste GARDES",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "VERPLAETSE",
+          "prenom": "Audrey",
+          "nom_complet": "Audrey VERPLAETSE",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "MOUCHERON",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas MOUCHERON",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "COUSYN",
+          "prenom": "Jennifer",
+          "nom_complet": "Jennifer COUSYN",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "THERY",
+          "prenom": "Billy",
+          "nom_complet": "Billy THERY",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "5"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

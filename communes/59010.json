@@ -1,0 +1,131 @@
+{
+  "code_commune": "59010",
+  "commune": "Anneux",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "DECAU",
+    "prenom": "Guillaume",
+    "nom_complet": "Guillaume DECAU",
+    "age": 57,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 191,
+    "votants": 121,
+    "pct_votants": 63.35,
+    "abstentions": 70,
+    "pct_abstentions": 36.65,
+    "exprimes": 111
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ANNEUX ENSEMBLE",
+      "libelle_abrege_liste": "ANNEUX ENSEMBLE",
+      "nuance_liste": null,
+      "voix": 111,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "DECAU",
+        "prenom": "Guillaume",
+        "nom_complet": "Guillaume DECAU",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DECAU",
+          "prenom": "Guillaume",
+          "nom_complet": "Guillaume DECAU",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "NORMAND",
+          "prenom": "Laurence",
+          "nom_complet": "Laurence NORMAND",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "COLAR",
+          "prenom": "Adrien",
+          "nom_complet": "Adrien COLAR",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "TABARY",
+          "prenom": "Marie-Jeanne",
+          "nom_complet": "Marie-Jeanne TABARY",
+          "sexe": "F",
+          "age": 74,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LÉVEQUE",
+          "prenom": "Simon",
+          "nom_complet": "Simon LÉVEQUE",
+          "sexe": "M",
+          "age": 34,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "HENNEQUIN",
+          "prenom": "Martine",
+          "nom_complet": "Martine HENNEQUIN",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DUMONCHY",
+          "prenom": "Jacques",
+          "nom_complet": "Jacques DUMONCHY",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DELOFFRE",
+          "prenom": "Myriam",
+          "nom_complet": "Myriam DELOFFRE",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "LAMY",
+          "prenom": "Fabrice",
+          "nom_complet": "Fabrice LAMY",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "CANUT",
+          "prenom": "Cécile",
+          "nom_complet": "Cécile CANUT",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "LECLERCQ",
+          "prenom": "Guy",
+          "nom_complet": "Guy LECLERCQ",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

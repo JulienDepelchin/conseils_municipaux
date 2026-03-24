@@ -1,0 +1,143 @@
+{
+  "code_commune": "62455",
+  "commune": "Hocquinghen",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "DEFACHELLES",
+    "prenom": "Laurent",
+    "nom_complet": "Laurent DEFACHELLES",
+    "age": 57,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 84,
+    "votants": 77,
+    "pct_votants": 91.67,
+    "abstentions": 7,
+    "pct_abstentions": 8.33,
+    "exprimes": 76
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "Conservons notre petit village d'Hocquinghen",
+      "libelle_abrege_liste": "Conservons notre petit village d'Hocquinghen",
+      "nuance_liste": null,
+      "voix": 53,
+      "pct_voix_exprimes": 69.74,
+      "sieges_cm": 9,
+      "sieges_cc": null,
+      "nb_elus": 9,
+      "tete_de_liste": {
+        "nom": "DEFACHELLES",
+        "prenom": "Laurent",
+        "nom_complet": "Laurent DEFACHELLES",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DEFACHELLES",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent DEFACHELLES",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LECERF",
+          "prenom": "Marie-Andrée",
+          "nom_complet": "Marie-Andrée LECERF",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "TERLUTTE",
+          "prenom": "Joël",
+          "nom_complet": "Joël TERLUTTE",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LEROY",
+          "prenom": "Françoise",
+          "nom_complet": "Françoise LEROY",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "MUYS",
+          "prenom": "François",
+          "nom_complet": "François MUYS",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LELEU",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie LELEU",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "FOULON",
+          "prenom": "Ludovic",
+          "nom_complet": "Ludovic FOULON",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "PANNEQUIN",
+          "prenom": "Laurie",
+          "nom_complet": "Laurie PANNEQUIN",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DEFACHELLES",
+          "prenom": "Rémi",
+          "nom_complet": "Rémi DEFACHELLES",
+          "sexe": "M",
+          "age": 25,
+          "rang_liste": "9"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Unis par les générations pour Hocquinghen",
+      "libelle_abrege_liste": "Unis par les générations pour Hocquinghen",
+      "nuance_liste": null,
+      "voix": 23,
+      "pct_voix_exprimes": 30.26,
+      "sieges_cm": 1,
+      "sieges_cc": null,
+      "nb_elus": 1,
+      "tete_de_liste": {
+        "nom": "SPECQ",
+        "prenom": "Séverine",
+        "nom_complet": "Séverine SPECQ",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "SPECQ",
+          "prenom": "Séverine",
+          "nom_complet": "Séverine SPECQ",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "1"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

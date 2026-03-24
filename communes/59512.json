@@ -1,0 +1,527 @@
+{
+  "code_commune": "59512",
+  "commune": "Roubaix",
+  "departement": "Nord",
+  "tour": "T2",
+  "maire": {
+    "nom": "GUIRAUD",
+    "prenom": "David",
+    "nom_complet": "David GUIRAUD",
+    "age": 33,
+    "nuance": "LFI"
+  },
+  "resultats": {
+    "inscrits": 49802,
+    "votants": 18667,
+    "pct_votants": 37.48,
+    "abstentions": 31135,
+    "pct_abstentions": 62.52,
+    "exprimes": 18281
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "FIERS DE ROUBAIX",
+      "libelle_abrege_liste": "FIERS DE ROUBAIX",
+      "nuance_liste": "LFI",
+      "voix": 9723,
+      "pct_voix_exprimes": 53.19,
+      "sieges_cm": 41,
+      "sieges_cc": 11,
+      "nb_elus": 41,
+      "tete_de_liste": {
+        "nom": "GUIRAUD",
+        "prenom": "David",
+        "nom_complet": "David GUIRAUD",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "GUIRAUD",
+          "prenom": "David",
+          "nom_complet": "David GUIRAUD",
+          "sexe": "M",
+          "age": 33,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "CAU",
+          "prenom": "Myriam",
+          "nom_complet": "Myriam CAU",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "KHITER",
+          "prenom": "Hakim",
+          "nom_complet": "Hakim KHITER",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BENSLIMAN",
+          "prenom": "Fatima",
+          "nom_complet": "Fatima BENSLIMAN",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "OUANES",
+          "prenom": "Samir",
+          "nom_complet": "Samir OUANES",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "KERIFA",
+          "prenom": "Camir",
+          "nom_complet": "Camir KERIFA",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "VERTRIEST",
+          "prenom": "Florian",
+          "nom_complet": "Florian VERTRIEST",
+          "sexe": "M",
+          "age": 32,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "MANTONI",
+          "prenom": "Marie-Thérèse",
+          "nom_complet": "Marie-Thérèse MANTONI",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "COUPE",
+          "prenom": "Djibril",
+          "nom_complet": "Djibril COUPE",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "PARAIN",
+          "prenom": "Véronique",
+          "nom_complet": "Véronique PARAIN",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "PIGNÉ",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent PIGNÉ",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "VANSPEYBROECK",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle VANSPEYBROECK",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "MASSROUR",
+          "prenom": "Mehdi",
+          "nom_complet": "Mehdi MASSROUR",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "BOTTON",
+          "prenom": "Tahina",
+          "nom_complet": "Tahina BOTTON",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "TRIBALAT",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric TRIBALAT",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "TIGUERCHA",
+          "prenom": "Sabiha",
+          "nom_complet": "Sabiha TIGUERCHA",
+          "sexe": "F",
+          "age": 30,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "SIDHOUM",
+          "prenom": "Nassim",
+          "nom_complet": "Nassim SIDHOUM",
+          "sexe": "M",
+          "age": 30,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "FLAMENT",
+          "prenom": "Eve",
+          "nom_complet": "Eve FLAMENT",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "IGOUSSIMENE",
+          "prenom": "Arsene",
+          "nom_complet": "Arsene IGOUSSIMENE",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "KABA",
+          "prenom": "Mah",
+          "nom_complet": "Mah KABA",
+          "sexe": "F",
+          "age": 23,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "PECQUEUR",
+          "prenom": "Pierre",
+          "nom_complet": "Pierre PECQUEUR",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "MEZINE",
+          "prenom": "Aiacha",
+          "nom_complet": "Aiacha MEZINE",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "BOUSSAD",
+          "prenom": "Rachid",
+          "nom_complet": "Rachid BOUSSAD",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "23"
+        },
+        {
+          "nom": "BECHIR",
+          "prenom": "Zaiha",
+          "nom_complet": "Zaiha BECHIR",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "24"
+        },
+        {
+          "nom": "REMY",
+          "prenom": "Timothée",
+          "nom_complet": "Timothée REMY",
+          "sexe": "M",
+          "age": 22,
+          "rang_liste": "25"
+        },
+        {
+          "nom": "DEBUE",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie DEBUE",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "26"
+        },
+        {
+          "nom": "GHERBI",
+          "prenom": "Arezki",
+          "nom_complet": "Arezki GHERBI",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "27"
+        },
+        {
+          "nom": "HOUBA",
+          "prenom": "Sofia",
+          "nom_complet": "Sofia HOUBA",
+          "sexe": "F",
+          "age": 22,
+          "rang_liste": "28"
+        },
+        {
+          "nom": "BOUAZIZ",
+          "prenom": "Abdelhamid",
+          "nom_complet": "Abdelhamid BOUAZIZ",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "29"
+        },
+        {
+          "nom": "BENTORKI",
+          "prenom": "Shéhérazade",
+          "nom_complet": "Shéhérazade BENTORKI",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "30"
+        },
+        {
+          "nom": "MEKZINE",
+          "prenom": "Hafid",
+          "nom_complet": "Hafid MEKZINE",
+          "sexe": "M",
+          "age": 20,
+          "rang_liste": "31"
+        },
+        {
+          "nom": "MEDJDOUB",
+          "prenom": "Nohra",
+          "nom_complet": "Nohra MEDJDOUB",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "32"
+        },
+        {
+          "nom": "CANTE",
+          "prenom": "Dembo",
+          "nom_complet": "Dembo CANTE",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "33"
+        },
+        {
+          "nom": "RICHARD",
+          "prenom": "Christiane",
+          "nom_complet": "Christiane RICHARD",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "34"
+        },
+        {
+          "nom": "COS",
+          "prenom": "Jean-Claude",
+          "nom_complet": "Jean-Claude COS",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "35"
+        },
+        {
+          "nom": "FERDOUZ",
+          "prenom": "Ouarda",
+          "nom_complet": "Ouarda FERDOUZ",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "36"
+        },
+        {
+          "nom": "LABBÉ",
+          "prenom": "Sébastien",
+          "nom_complet": "Sébastien LABBÉ",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "37"
+        },
+        {
+          "nom": "IGOUSSIMENE",
+          "prenom": "Janna",
+          "nom_complet": "Janna IGOUSSIMENE",
+          "sexe": "F",
+          "age": 20,
+          "rang_liste": "38"
+        },
+        {
+          "nom": "VELDEMAN",
+          "prenom": "Christian",
+          "nom_complet": "Christian VELDEMAN",
+          "sexe": "M",
+          "age": 74,
+          "rang_liste": "39"
+        },
+        {
+          "nom": "GOUBET",
+          "prenom": "Mathilde",
+          "nom_complet": "Mathilde GOUBET",
+          "sexe": "F",
+          "age": 30,
+          "rang_liste": "40"
+        },
+        {
+          "nom": "LEBGAA",
+          "prenom": "Liamine",
+          "nom_complet": "Liamine LEBGAA",
+          "sexe": "M",
+          "age": 29,
+          "rang_liste": "41"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "5",
+      "libelle_liste": "ROUBAIX ENSEMBLE AVEC ALEXANDRE GARCIN",
+      "libelle_abrege_liste": "ROUBAIX ENSEMBLE AVEC ALEXANDRE GARCIN",
+      "nuance_liste": "LDVD",
+      "voix": 4670,
+      "pct_voix_exprimes": 25.55,
+      "sieges_cm": 7,
+      "sieges_cc": 2,
+      "nb_elus": 7,
+      "tete_de_liste": {
+        "nom": "GARCIN",
+        "prenom": "Alexandre",
+        "nom_complet": "Alexandre GARCIN",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "GARCIN",
+          "prenom": "Alexandre",
+          "nom_complet": "Alexandre GARCIN",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "HADDI",
+          "prenom": "Sarah",
+          "nom_complet": "Sarah HADDI",
+          "sexe": "F",
+          "age": 32,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LAZZARO",
+          "prenom": "Pierre-François",
+          "nom_complet": "Pierre-François LAZZARO",
+          "sexe": "M",
+          "age": 33,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "CHERIGUI",
+          "prenom": "Dalila",
+          "nom_complet": "Dalila CHERIGUI",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "KHOBZAOUI",
+          "prenom": "Hassan",
+          "nom_complet": "Hassan KHOBZAOUI",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DOUTRELON",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle DOUTRELON",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "LEFEBVRE",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric LEFEBVRE",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "7"
+        }
+      ],
+      "statut_conseil": "autre"
+    },
+    {
+      "num_panneau": "6",
+      "libelle_liste": "AGIR AU COEUR DE ROUBAIX",
+      "libelle_abrege_liste": "AGIR AU COEUR DE ROUBAIX",
+      "nuance_liste": "LUG",
+      "voix": 2066,
+      "pct_voix_exprimes": 11.3,
+      "sieges_cm": 3,
+      "sieges_cc": 1,
+      "nb_elus": 3,
+      "tete_de_liste": {
+        "nom": "AMROUNI",
+        "prenom": "Karim",
+        "nom_complet": "Karim AMROUNI",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "AMROUNI",
+          "prenom": "Karim",
+          "nom_complet": "Karim AMROUNI",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DEHEUNYNCK",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle DEHEUNYNCK",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "RAHNI",
+          "prenom": "Ali",
+          "nom_complet": "Ali RAHNI",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "3"
+        }
+      ],
+      "statut_conseil": "autre"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "REDRESSER ROUBAIX ENSEMBLE",
+      "libelle_abrege_liste": "REDRESSER ROUBAIX ENSEMBLE",
+      "nuance_liste": "LRN",
+      "voix": 1822,
+      "pct_voix_exprimes": 9.97,
+      "sieges_cm": 2,
+      "sieges_cc": 0,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "SAYAH",
+        "prenom": "Céline",
+        "nom_complet": "Céline SAYAH",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "SAYAH",
+          "prenom": "Céline",
+          "nom_complet": "Céline SAYAH",
+          "sexe": "F",
+          "age": 30,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "CAMERLYNCK",
+          "prenom": "Maël",
+          "nom_complet": "Maël CAMERLYNCK",
+          "sexe": "M",
+          "age": 34,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

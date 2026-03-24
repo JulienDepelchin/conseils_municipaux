@@ -1,0 +1,131 @@
+{
+  "code_commune": "62802",
+  "commune": "Le Souich",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "PRUVOST",
+    "prenom": "René",
+    "nom_complet": "René PRUVOST",
+    "age": 57,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 123,
+    "votants": 65,
+    "pct_votants": 52.85,
+    "abstentions": 58,
+    "pct_abstentions": 47.15,
+    "exprimes": 57
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ENSEMBLE POUR LE SOUICH",
+      "libelle_abrege_liste": "ENSEMBLE POUR LE SOUICH",
+      "nuance_liste": null,
+      "voix": 57,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "PRUVOST",
+        "prenom": "René",
+        "nom_complet": "René PRUVOST",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "PRUVOST",
+          "prenom": "René",
+          "nom_complet": "René PRUVOST",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "JACQUEMELLE",
+          "prenom": "Chantal",
+          "nom_complet": "Chantal JACQUEMELLE",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "HUE",
+          "prenom": "Jérémy",
+          "nom_complet": "Jérémy HUE",
+          "sexe": "M",
+          "age": 33,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "POTTIEZ",
+          "prenom": "Françoise",
+          "nom_complet": "Françoise POTTIEZ",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DEFER",
+          "prenom": "Gaëtan",
+          "nom_complet": "Gaëtan DEFER",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "JUSRAND",
+          "prenom": "Florence",
+          "nom_complet": "Florence JUSRAND",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "FORTIEZ",
+          "prenom": "Jonathan",
+          "nom_complet": "Jonathan FORTIEZ",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DHEILLY",
+          "prenom": "Justine",
+          "nom_complet": "Justine DHEILLY",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "KABACINSKI",
+          "prenom": "Benoit",
+          "nom_complet": "Benoit KABACINSKI",
+          "sexe": "M",
+          "age": 29,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "BREELE",
+          "prenom": "Virginie",
+          "nom_complet": "Virginie BREELE",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "BAISEZ",
+          "prenom": "Didier",
+          "nom_complet": "Didier BAISEZ",
+          "sexe": "M",
+          "age": 88,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

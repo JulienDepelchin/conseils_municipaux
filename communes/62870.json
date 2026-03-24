@@ -1,0 +1,183 @@
+{
+  "code_commune": "62870",
+  "commune": "Wailly-Beaucamp",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "FRAMERY",
+    "prenom": "Alain",
+    "nom_complet": "Alain FRAMERY",
+    "age": 69,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 877,
+    "votants": 702,
+    "pct_votants": 80.05,
+    "abstentions": 175,
+    "pct_abstentions": 19.95,
+    "exprimes": 679
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Unis dans l'action pour Wailly-Beaucamp",
+      "libelle_abrege_liste": "Unis dans l'action pour Wailly-Beaucamp",
+      "nuance_liste": null,
+      "voix": 408,
+      "pct_voix_exprimes": 60.09,
+      "sieges_cm": 12,
+      "sieges_cc": 1,
+      "nb_elus": 12,
+      "tete_de_liste": {
+        "nom": "FRAMERY",
+        "prenom": "Alain",
+        "nom_complet": "Alain FRAMERY",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "FRAMERY",
+          "prenom": "Alain",
+          "nom_complet": "Alain FRAMERY",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "RECOURT",
+          "prenom": "Florine",
+          "nom_complet": "Florine RECOURT",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LIMOSINO",
+          "prenom": "Guillaume",
+          "nom_complet": "Guillaume LIMOSINO",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "RAUSSIN",
+          "prenom": "Solange",
+          "nom_complet": "Solange RAUSSIN",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LEVELEUX",
+          "prenom": "Thierry",
+          "nom_complet": "Thierry LEVELEUX",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "HOYEZ",
+          "prenom": "Martine",
+          "nom_complet": "Martine HOYEZ",
+          "sexe": "F",
+          "age": 72,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "POIRET",
+          "prenom": "Thierry",
+          "nom_complet": "Thierry POIRET",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DEBART-DEWINTRE",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie DEBART-DEWINTRE",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "FONTAINE",
+          "prenom": "Régis",
+          "nom_complet": "Régis FONTAINE",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "MOTTE",
+          "prenom": "Christelle",
+          "nom_complet": "Christelle MOTTE",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "VASSEUR",
+          "prenom": "Marc",
+          "nom_complet": "Marc VASSEUR",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "CARPENTIER",
+          "prenom": "Catherine",
+          "nom_complet": "Catherine CARPENTIER",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "12"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "ACTIVEMENT ! WAILLY-BEAUCAMP",
+      "libelle_abrege_liste": "ACTIVEMENT ! WAILLY-BEAUCAMP",
+      "nuance_liste": null,
+      "voix": 271,
+      "pct_voix_exprimes": 39.91,
+      "sieges_cm": 3,
+      "sieges_cc": 0,
+      "nb_elus": 3,
+      "tete_de_liste": {
+        "nom": "GRAILLOT",
+        "prenom": "Véronique",
+        "nom_complet": "Véronique GRAILLOT",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "GRAILLOT",
+          "prenom": "Véronique",
+          "nom_complet": "Véronique GRAILLOT",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "POCHET",
+          "prenom": "Césaire",
+          "nom_complet": "Césaire POCHET",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "CARLU",
+          "prenom": "Christine",
+          "nom_complet": "Christine CARLU",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "3"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

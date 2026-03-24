@@ -1,0 +1,131 @@
+{
+  "code_commune": "62669",
+  "commune": "Pressy",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "MALLE",
+    "prenom": "Bernard",
+    "nom_complet": "Bernard MALLE",
+    "age": 77,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 237,
+    "votants": 138,
+    "pct_votants": 58.23,
+    "abstentions": 99,
+    "pct_abstentions": 41.77,
+    "exprimes": 109
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Tous unis pour notre village",
+      "libelle_abrege_liste": "Tous unis pour notre village",
+      "nuance_liste": null,
+      "voix": 109,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "MALLE",
+        "prenom": "Bernard",
+        "nom_complet": "Bernard MALLE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "MALLE",
+          "prenom": "Bernard",
+          "nom_complet": "Bernard MALLE",
+          "sexe": "M",
+          "age": 77,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BARTOUX",
+          "prenom": "Amélie",
+          "nom_complet": "Amélie BARTOUX",
+          "sexe": "F",
+          "age": 33,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BONTANT",
+          "prenom": "Joseph",
+          "nom_complet": "Joseph BONTANT",
+          "sexe": "M",
+          "age": 79,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "CALIN",
+          "prenom": "Mélanie",
+          "nom_complet": "Mélanie CALIN",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "BOUTILLIER",
+          "prenom": "Clément",
+          "nom_complet": "Clément BOUTILLIER",
+          "sexe": "M",
+          "age": 27,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "CARNEL",
+          "prenom": "Christine",
+          "nom_complet": "Christine CARNEL",
+          "sexe": "F",
+          "age": 75,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "COULMONT",
+          "prenom": "Marc",
+          "nom_complet": "Marc COULMONT",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LAGACHE",
+          "prenom": "Pauline",
+          "nom_complet": "Pauline LAGACHE",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "LAGACHE",
+          "prenom": "Hervé",
+          "nom_complet": "Hervé LAGACHE",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "TROTIN",
+          "prenom": "Véronique",
+          "nom_complet": "Véronique TROTIN",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "THELLIER",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas THELLIER",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

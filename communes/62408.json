@@ -1,0 +1,183 @@
+{
+  "code_commune": "62408",
+  "commune": "Hames-Boucres",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "BOUCHEL",
+    "prenom": "Philippe",
+    "nom_complet": "Philippe BOUCHEL",
+    "age": 66,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1160,
+    "votants": 866,
+    "pct_votants": 74.66,
+    "abstentions": 294,
+    "pct_abstentions": 25.34,
+    "exprimes": 851
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Bien vivre mieux vivre à Hames-Boucres",
+      "libelle_abrege_liste": "Bien vivre mieux vivre à Hames-Boucres",
+      "nuance_liste": null,
+      "voix": 585,
+      "pct_voix_exprimes": 68.74,
+      "sieges_cm": 13,
+      "sieges_cc": 1,
+      "nb_elus": 13,
+      "tete_de_liste": {
+        "nom": "BOUCHEL",
+        "prenom": "Philippe",
+        "nom_complet": "Philippe BOUCHEL",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BOUCHEL",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe BOUCHEL",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DECLERCQ",
+          "prenom": "Adeline",
+          "nom_complet": "Adeline DECLERCQ",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DIWUY",
+          "prenom": "Daniel",
+          "nom_complet": "Daniel DIWUY",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DECOTTIGNIES",
+          "prenom": "Ingrid",
+          "nom_complet": "Ingrid DECOTTIGNIES",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "PIGEON",
+          "prenom": "Jean-Jacques",
+          "nom_complet": "Jean-Jacques PIGEON",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "MOLINATTI",
+          "prenom": "Delphine",
+          "nom_complet": "Delphine MOLINATTI",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "GUIBERT",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal GUIBERT",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "CHEVANDIER",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie CHEVANDIER",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "FINOT",
+          "prenom": "Jean-Claude",
+          "nom_complet": "Jean-Claude FINOT",
+          "sexe": "M",
+          "age": 76,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "FOUQUEROLLE",
+          "prenom": "Julie",
+          "nom_complet": "Julie FOUQUEROLLE",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "MATRAT",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier MATRAT",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "SAUVAGE",
+          "prenom": "Justine",
+          "nom_complet": "Justine SAUVAGE",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "FERAMUS",
+          "prenom": "Jean-Paul",
+          "nom_complet": "Jean-Paul FERAMUS",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "13"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "ENSEMBLE ON GAGNE",
+      "libelle_abrege_liste": "ENSEMBLE ON GAGNE",
+      "nuance_liste": null,
+      "voix": 266,
+      "pct_voix_exprimes": 31.26,
+      "sieges_cm": 2,
+      "sieges_cc": 0,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "ROUSSEL",
+        "prenom": "Patrick",
+        "nom_complet": "Patrick ROUSSEL",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "ROUSSEL",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick ROUSSEL",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "REGENT",
+          "prenom": "Axelle",
+          "nom_complet": "Axelle REGENT",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

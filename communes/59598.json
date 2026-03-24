@@ -1,0 +1,279 @@
+{
+  "code_commune": "59598",
+  "commune": "Toufflers",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "GONCE",
+    "prenom": "Alain",
+    "nom_complet": "Alain GONCE",
+    "age": 64,
+    "nuance": "LDVG"
+  },
+  "resultats": {
+    "inscrits": 3475,
+    "votants": 2153,
+    "pct_votants": 61.96,
+    "abstentions": 1322,
+    "pct_abstentions": 38.04,
+    "exprimes": 2119
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "ENSEMBLE POUR AGIR",
+      "libelle_abrege_liste": "ENSEMBLE POUR AGIR",
+      "nuance_liste": "LDVG",
+      "voix": 1218,
+      "pct_voix_exprimes": 57.48,
+      "sieges_cm": 22,
+      "sieges_cc": 1,
+      "nb_elus": 22,
+      "tete_de_liste": {
+        "nom": "GONCE",
+        "prenom": "Alain",
+        "nom_complet": "Alain GONCE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "GONCE",
+          "prenom": "Alain",
+          "nom_complet": "Alain GONCE",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LECLERCQ",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle LECLERCQ",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LARZUL",
+          "prenom": "Jérôme",
+          "nom_complet": "Jérôme LARZUL",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LAURIDANT",
+          "prenom": "Christelle",
+          "nom_complet": "Christelle LAURIDANT",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "MURTEIRA",
+          "prenom": "José",
+          "nom_complet": "José MURTEIRA",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "BOUCHEZ",
+          "prenom": "Delphine",
+          "nom_complet": "Delphine BOUCHEZ",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DOVERGNE",
+          "prenom": "Jean-François",
+          "nom_complet": "Jean-François DOVERGNE",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LOOF",
+          "prenom": "Sandrine",
+          "nom_complet": "Sandrine LOOF",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "HALLAERT",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe HALLAERT",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "WARTEL",
+          "prenom": "Marie",
+          "nom_complet": "Marie WARTEL",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "BOUKERCHA",
+          "prenom": "Kamel",
+          "nom_complet": "Kamel BOUKERCHA",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "LESCIEUX",
+          "prenom": "Stephanie",
+          "nom_complet": "Stephanie LESCIEUX",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "CLARISSE",
+          "prenom": "Jean",
+          "nom_complet": "Jean CLARISSE",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "DERONE",
+          "prenom": "Stephanie",
+          "nom_complet": "Stephanie DERONE",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "CASTELEYN",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe CASTELEYN",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "LAMINE",
+          "prenom": "Josselyne",
+          "nom_complet": "Josselyne LAMINE",
+          "sexe": "F",
+          "age": 73,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "LAURENT",
+          "prenom": "Ludovic",
+          "nom_complet": "Ludovic LAURENT",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "DENDIEVEL",
+          "prenom": "Audrey",
+          "nom_complet": "Audrey DENDIEVEL",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "SEINGIER",
+          "prenom": "Yannick",
+          "nom_complet": "Yannick SEINGIER",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "FRONVAL",
+          "prenom": "Laurence",
+          "nom_complet": "Laurence FRONVAL",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "LEPLAT",
+          "prenom": "Frederic",
+          "nom_complet": "Frederic LEPLAT",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "PLUQUET",
+          "prenom": "Patricia",
+          "nom_complet": "Patricia PLUQUET",
+          "sexe": "F",
+          "age": 71,
+          "rang_liste": "22"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "TOUFFLERS AVENIR",
+      "libelle_abrege_liste": "TOUFFLERS AVENIR",
+      "nuance_liste": "LDVC",
+      "voix": 901,
+      "pct_voix_exprimes": 42.52,
+      "sieges_cm": 5,
+      "sieges_cc": 0,
+      "nb_elus": 5,
+      "tete_de_liste": {
+        "nom": "VANHOUTE",
+        "prenom": "Alexandre",
+        "nom_complet": "Alexandre VANHOUTE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "VANHOUTE",
+          "prenom": "Alexandre",
+          "nom_complet": "Alexandre VANHOUTE",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DUTOIT",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle DUTOIT",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BOUZIN",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe BOUZIN",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "MACHADO",
+          "prenom": "Virginie",
+          "nom_complet": "Virginie MACHADO",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DA SILVA",
+          "prenom": "David",
+          "nom_complet": "David DA SILVA",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "5"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

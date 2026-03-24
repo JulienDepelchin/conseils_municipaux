@@ -1,0 +1,163 @@
+{
+  "code_commune": "62512",
+  "commune": "Ligny-lès-Aire",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "SGARD",
+    "prenom": "Alain",
+    "nom_complet": "Alain SGARD",
+    "age": 73,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 472,
+    "votants": 291,
+    "pct_votants": 61.65,
+    "abstentions": 181,
+    "pct_abstentions": 38.35,
+    "exprimes": 225
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "DEFENSE DES INTERETS COMMUNAUX ET RURAUX",
+      "libelle_abrege_liste": "DEFENSE DES INTERETS COMMUNAUX ET RURAUX",
+      "nuance_liste": null,
+      "voix": 225,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "SGARD",
+        "prenom": "Alain",
+        "nom_complet": "Alain SGARD",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "SGARD",
+          "prenom": "Alain",
+          "nom_complet": "Alain SGARD",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DECROIX",
+          "prenom": "Mélanie",
+          "nom_complet": "Mélanie DECROIX",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BOUTIN",
+          "prenom": "Jean-Pierre",
+          "nom_complet": "Jean-Pierre BOUTIN",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DANVIN",
+          "prenom": "Agnes",
+          "nom_complet": "Agnes DANVIN",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "ROCHE",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal ROCHE",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "ACCART",
+          "prenom": "Daphnée",
+          "nom_complet": "Daphnée ACCART",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DECOOPMAN",
+          "prenom": "Jacques",
+          "nom_complet": "Jacques DECOOPMAN",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "BRAQUART",
+          "prenom": "Christine",
+          "nom_complet": "Christine BRAQUART",
+          "sexe": "F",
+          "age": 71,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "LOMBART",
+          "prenom": "Jean-Michel",
+          "nom_complet": "Jean-Michel LOMBART",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "LECOINTE",
+          "prenom": "Anne-Charlotte",
+          "nom_complet": "Anne-Charlotte LECOINTE",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "MARTINS",
+          "prenom": "José-Emmanuel",
+          "nom_complet": "José-Emmanuel MARTINS",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "LORILLIÈRE",
+          "prenom": "Eloïse",
+          "nom_complet": "Eloïse LORILLIÈRE",
+          "sexe": "F",
+          "age": 31,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "NOGA",
+          "prenom": "Florent",
+          "nom_complet": "Florent NOGA",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "PRUVOST",
+          "prenom": "Elodie",
+          "nom_complet": "Elodie PRUVOST",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "VASSEUR",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal VASSEUR",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

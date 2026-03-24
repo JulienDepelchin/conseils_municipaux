@@ -1,0 +1,183 @@
+{
+  "code_commune": "59223",
+  "commune": "Le Favril",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "MONIER",
+    "prenom": "Nathalie",
+    "nom_complet": "Nathalie MONIER",
+    "age": 58,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 398,
+    "votants": 324,
+    "pct_votants": 81.41,
+    "abstentions": 74,
+    "pct_abstentions": 18.59,
+    "exprimes": 322
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "LE FAVRIL DANS LE COEUR, UN VILLAGE POUR TOUS",
+      "libelle_abrege_liste": "LE FAVRIL DANS LE COEUR, UN VILLAGE POUR TOUS",
+      "nuance_liste": null,
+      "voix": 180,
+      "pct_voix_exprimes": 55.9,
+      "sieges_cm": 12,
+      "sieges_cc": null,
+      "nb_elus": 12,
+      "tete_de_liste": {
+        "nom": "MONIER",
+        "prenom": "Nathalie",
+        "nom_complet": "Nathalie MONIER",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "MONIER",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie MONIER",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "MAYEUR",
+          "prenom": "Fabrice",
+          "nom_complet": "Fabrice MAYEUR",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "MISTURA",
+          "prenom": "Marion",
+          "nom_complet": "Marion MISTURA",
+          "sexe": "F",
+          "age": 32,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "GHIENNE",
+          "prenom": "Sébastien",
+          "nom_complet": "Sébastien GHIENNE",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "MAYEUR",
+          "prenom": "Maryse",
+          "nom_complet": "Maryse MAYEUR",
+          "sexe": "F",
+          "age": 72,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "BUQUET",
+          "prenom": "Clément",
+          "nom_complet": "Clément BUQUET",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "LAVALLÉE",
+          "prenom": "Alice",
+          "nom_complet": "Alice LAVALLÉE",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LANGRAND",
+          "prenom": "Geoffrey",
+          "nom_complet": "Geoffrey LANGRAND",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DEBEIRE",
+          "prenom": "Carole",
+          "nom_complet": "Carole DEBEIRE",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "HAŸ",
+          "prenom": "Cyril",
+          "nom_complet": "Cyril HAŸ",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DARAS",
+          "prenom": "Élodie",
+          "nom_complet": "Élodie DARAS",
+          "sexe": "F",
+          "age": 33,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "THIRY",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent THIRY",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "12"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "LE FAVRIL AUTREMENT",
+      "libelle_abrege_liste": "LE FAVRIL AUTREMENT",
+      "nuance_liste": null,
+      "voix": 142,
+      "pct_voix_exprimes": 44.1,
+      "sieges_cm": 3,
+      "sieges_cc": null,
+      "nb_elus": 3,
+      "tete_de_liste": {
+        "nom": "SCHMIDTMAYER",
+        "prenom": "Sophie",
+        "nom_complet": "Sophie SCHMIDTMAYER",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "SCHMIDTMAYER",
+          "prenom": "Sophie",
+          "nom_complet": "Sophie SCHMIDTMAYER",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "VOSSE",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique VOSSE",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LENGLET",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie LENGLET",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "3"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

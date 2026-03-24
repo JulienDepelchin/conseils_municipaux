@@ -1,0 +1,163 @@
+{
+  "code_commune": "59162",
+  "commune": "Crochte",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "COLAERT",
+    "prenom": "Stéphane",
+    "nom_complet": "Stéphane COLAERT",
+    "age": 65,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 528,
+    "votants": 271,
+    "pct_votants": 51.33,
+    "abstentions": 257,
+    "pct_abstentions": 48.67,
+    "exprimes": 205
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Une équipe, une ambition, un objectif",
+      "libelle_abrege_liste": "UEUAUO",
+      "nuance_liste": null,
+      "voix": 205,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "COLAERT",
+        "prenom": "Stéphane",
+        "nom_complet": "Stéphane COLAERT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "COLAERT",
+          "prenom": "Stéphane",
+          "nom_complet": "Stéphane COLAERT",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "WEXSTEEN",
+          "prenom": "Sabine",
+          "nom_complet": "Sabine WEXSTEEN",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DELAPLACE",
+          "prenom": "Bastien",
+          "nom_complet": "Bastien DELAPLACE",
+          "sexe": "M",
+          "age": 30,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LECOEUCHE",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle LECOEUCHE",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "BLONDEEL",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe BLONDEEL",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "MULLIER",
+          "prenom": "Amandine",
+          "nom_complet": "Amandine MULLIER",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "CHANCELIER",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick CHANCELIER",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "GHYS",
+          "prenom": "Alicia",
+          "nom_complet": "Alicia GHYS",
+          "sexe": "F",
+          "age": 32,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DECAD",
+          "prenom": "Stéphane Roger",
+          "nom_complet": "Stéphane Roger DECAD",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "FOUCKE",
+          "prenom": "Angélique",
+          "nom_complet": "Angélique FOUCKE",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DUVIVIER",
+          "prenom": "Jimmy",
+          "nom_complet": "Jimmy DUVIVIER",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "DECLERCK",
+          "prenom": "Laure",
+          "nom_complet": "Laure DECLERCK",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "LEDEIN",
+          "prenom": "Fabien",
+          "nom_complet": "Fabien LEDEIN",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "BASSIMON",
+          "prenom": "Françoise",
+          "nom_complet": "Françoise BASSIMON",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "DEVOS",
+          "prenom": "Jérome",
+          "nom_complet": "Jérome DEVOS",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

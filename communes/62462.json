@@ -1,0 +1,131 @@
+{
+  "code_commune": "62462",
+  "commune": "Huclier",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "GALIOT",
+    "prenom": "Patrick",
+    "nom_complet": "Patrick GALIOT",
+    "age": 60,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 114,
+    "votants": 94,
+    "pct_votants": 82.46,
+    "abstentions": 20,
+    "pct_abstentions": 17.54,
+    "exprimes": 82
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Liste pour les intérêts communaux",
+      "libelle_abrege_liste": "Liste pour les intérêts communaux",
+      "nuance_liste": null,
+      "voix": 82,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "GALIOT",
+        "prenom": "Patrick",
+        "nom_complet": "Patrick GALIOT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "GALIOT",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick GALIOT",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "ROUSSEL",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie ROUSSEL",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BOUFFLERS",
+          "prenom": "Pierre",
+          "nom_complet": "Pierre BOUFFLERS",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "KAP",
+          "prenom": "Claudine",
+          "nom_complet": "Claudine KAP",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LAMMENS",
+          "prenom": "Maxime",
+          "nom_complet": "Maxime LAMMENS",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LECLERCQ",
+          "prenom": "Aurélie",
+          "nom_complet": "Aurélie LECLERCQ",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "VILCOT",
+          "prenom": "Matthieu",
+          "nom_complet": "Matthieu VILCOT",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LAGACHE",
+          "prenom": "Céline",
+          "nom_complet": "Céline LAGACHE",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "CREPIN",
+          "prenom": "Alexis",
+          "nom_complet": "Alexis CREPIN",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "ABOULAASRI",
+          "prenom": "Justine",
+          "nom_complet": "Justine ABOULAASRI",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "FAUCHARD",
+          "prenom": "Sébastien",
+          "nom_complet": "Sébastien FAUCHARD",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

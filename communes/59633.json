@@ -1,0 +1,131 @@
+{
+  "code_commune": "59633",
+  "commune": "Wallers-en-Fagne",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "FOUQUART",
+    "prenom": "Gerard",
+    "nom_complet": "Gerard FOUQUART",
+    "age": 73,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 246,
+    "votants": 143,
+    "pct_votants": 58.13,
+    "abstentions": 103,
+    "pct_abstentions": 41.87,
+    "exprimes": 122
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "DE PIERREET D AVENIR",
+      "libelle_abrege_liste": "DE PIERRE ET D AVENIR",
+      "nuance_liste": null,
+      "voix": 122,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "FOUQUART",
+        "prenom": "Gerard",
+        "nom_complet": "Gerard FOUQUART",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "FOUQUART",
+          "prenom": "Gerard",
+          "nom_complet": "Gerard FOUQUART",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BLANC",
+          "prenom": "Veronique",
+          "nom_complet": "Veronique BLANC",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "CAUDRELIER",
+          "prenom": "Jean Luc",
+          "nom_complet": "Jean Luc CAUDRELIER",
+          "sexe": "M",
+          "age": 74,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DEGUEILLE",
+          "prenom": "Amandine",
+          "nom_complet": "Amandine DEGUEILLE",
+          "sexe": "F",
+          "age": 29,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "COLLE",
+          "prenom": "Stephane",
+          "nom_complet": "Stephane COLLE",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DUMANT",
+          "prenom": "Daniele",
+          "nom_complet": "Daniele DUMANT",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "HANNECART",
+          "prenom": "Mickaël",
+          "nom_complet": "Mickaël HANNECART",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "FOLB",
+          "prenom": "Celine",
+          "nom_complet": "Celine FOLB",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "HOTTIAUX--LE QUERE",
+          "prenom": "Tymoteï",
+          "nom_complet": "Tymoteï HOTTIAUX--LE QUERE",
+          "sexe": "M",
+          "age": 30,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "LINGUET",
+          "prenom": "Justine",
+          "nom_complet": "Justine LINGUET",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "MAES",
+          "prenom": "Xavier",
+          "nom_complet": "Xavier MAES",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

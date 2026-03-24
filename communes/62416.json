@@ -1,0 +1,131 @@
+{
+  "code_commune": "62416",
+  "commune": "Hautecloque",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "BRIDOUX",
+    "prenom": "Marc",
+    "nom_complet": "Marc BRIDOUX",
+    "age": 78,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 170,
+    "votants": 122,
+    "pct_votants": 71.76,
+    "abstentions": 48,
+    "pct_abstentions": 28.24,
+    "exprimes": 111
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "TOUS ENSEMBLE POUR HAUTECLOQUE",
+      "libelle_abrege_liste": "TOUS ENSEMBLE POUR HAUTECLOQUE",
+      "nuance_liste": null,
+      "voix": 111,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "BRIDOUX",
+        "prenom": "Marc",
+        "nom_complet": "Marc BRIDOUX",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BRIDOUX",
+          "prenom": "Marc",
+          "nom_complet": "Marc BRIDOUX",
+          "sexe": "M",
+          "age": 78,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BRULIN",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle BRULIN",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BOUTRY",
+          "prenom": "Ludovic",
+          "nom_complet": "Ludovic BOUTRY",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "GAVOIS",
+          "prenom": "Marcelle",
+          "nom_complet": "Marcelle GAVOIS",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DEQUIDT",
+          "prenom": "Matthieu",
+          "nom_complet": "Matthieu DEQUIDT",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "GRUEL",
+          "prenom": "Constance",
+          "nom_complet": "Constance GRUEL",
+          "sexe": "F",
+          "age": 31,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "GRARDEL",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier GRARDEL",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "PATOU",
+          "prenom": "Valérie",
+          "nom_complet": "Valérie PATOU",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "OCHOA",
+          "prenom": "Jonathan",
+          "nom_complet": "Jonathan OCHOA",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DESCAMPS",
+          "prenom": "Apolline",
+          "nom_complet": "Apolline DESCAMPS",
+          "sexe": "F",
+          "age": 33,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "SALOPPE",
+          "prenom": "Alexis",
+          "nom_complet": "Alexis SALOPPE",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

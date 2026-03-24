@@ -1,0 +1,163 @@
+{
+  "code_commune": "62350",
+  "commune": "Fouquières-lès-Béthune",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "DUBY",
+    "prenom": "Sophie",
+    "nom_complet": "Sophie DUBY",
+    "age": 58,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 827,
+    "votants": 475,
+    "pct_votants": 57.44,
+    "abstentions": 352,
+    "pct_abstentions": 42.56,
+    "exprimes": 411
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Poursuivons ensemble pour Fouquières-lez-Béthune",
+      "libelle_abrege_liste": "Poursuivons ensemble pour Fouquières-lez-Béthune",
+      "nuance_liste": null,
+      "voix": 411,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": 1,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "DUBY",
+        "prenom": "Sophie",
+        "nom_complet": "Sophie DUBY",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "DUBY",
+          "prenom": "Sophie",
+          "nom_complet": "Sophie DUBY",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "WYNNE",
+          "prenom": "Pierre",
+          "nom_complet": "Pierre WYNNE",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "WERSINGER",
+          "prenom": "Agathe",
+          "nom_complet": "Agathe WERSINGER",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "WILLAY",
+          "prenom": "Arnaud",
+          "nom_complet": "Arnaud WILLAY",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DECEUNINCK ROGEZ",
+          "prenom": "Charlotte",
+          "nom_complet": "Charlotte DECEUNINCK ROGEZ",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "FOULON",
+          "prenom": "Jacques",
+          "nom_complet": "Jacques FOULON",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "LEROY",
+          "prenom": "Clémentine",
+          "nom_complet": "Clémentine LEROY",
+          "sexe": "F",
+          "age": 22,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "GRAVELEINE",
+          "prenom": "Geoffrey",
+          "nom_complet": "Geoffrey GRAVELEINE",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "PETIT",
+          "prenom": "Delphine",
+          "nom_complet": "Delphine PETIT",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "MARQUIS",
+          "prenom": "Rémi",
+          "nom_complet": "Rémi MARQUIS",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "VANDENBUSSCHE",
+          "prenom": "Catherine",
+          "nom_complet": "Catherine VANDENBUSSCHE",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "JEANNOT",
+          "prenom": "Clément",
+          "nom_complet": "Clément JEANNOT",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "LEROY",
+          "prenom": "Virginie",
+          "nom_complet": "Virginie LEROY",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "DUTOUQUET",
+          "prenom": "Christian",
+          "nom_complet": "Christian DUTOUQUET",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "OTOGBE",
+          "prenom": "Emeline",
+          "nom_complet": "Emeline OTOGBE",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

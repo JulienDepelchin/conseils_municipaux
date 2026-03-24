@@ -1,0 +1,131 @@
+{
+  "code_commune": "62102",
+  "commune": "Bécourt",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "COMPIEGNE",
+    "prenom": "Sarah",
+    "nom_complet": "Sarah COMPIEGNE",
+    "age": 54,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 199,
+    "votants": 143,
+    "pct_votants": 71.86,
+    "abstentions": 56,
+    "pct_abstentions": 28.14,
+    "exprimes": 111
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ENSEMBLE MAIN DANS LA MAIN POUR BECOURT",
+      "libelle_abrege_liste": "ENSEMBLE MAIN DANS LA MAIN POUR BECOURT",
+      "nuance_liste": null,
+      "voix": 111,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "COMPIEGNE",
+        "prenom": "Sarah",
+        "nom_complet": "Sarah COMPIEGNE",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "COMPIEGNE",
+          "prenom": "Sarah",
+          "nom_complet": "Sarah COMPIEGNE",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "SOUDAIN",
+          "prenom": "Martial",
+          "nom_complet": "Martial SOUDAIN",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LOURME",
+          "prenom": "Celine",
+          "nom_complet": "Celine LOURME",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "SOUDAIN",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal SOUDAIN",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "QUIERTANT",
+          "prenom": "Catherine",
+          "nom_complet": "Catherine QUIERTANT",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "D'HAILLECOURT",
+          "prenom": "Franck",
+          "nom_complet": "Franck D'HAILLECOURT",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "THIBAUT",
+          "prenom": "Marine",
+          "nom_complet": "Marine THIBAUT",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "MOREL",
+          "prenom": "Pierrick",
+          "nom_complet": "Pierrick MOREL",
+          "sexe": "M",
+          "age": 31,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "LECOMTE",
+          "prenom": "Adelaide",
+          "nom_complet": "Adelaide LECOMTE",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "COMPIEGNE",
+          "prenom": "Antoine",
+          "nom_complet": "Antoine COMPIEGNE",
+          "sexe": "M",
+          "age": 28,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DEVISE",
+          "prenom": "Jennifer",
+          "nom_complet": "Jennifer DEVISE",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

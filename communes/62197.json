@@ -1,0 +1,195 @@
+{
+  "code_commune": "62197",
+  "commune": "Camblain-Châtelain",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "PEDRINI",
+    "prenom": "Lélio",
+    "nom_complet": "Lélio PEDRINI",
+    "age": 58,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1323,
+    "votants": 722,
+    "pct_votants": 54.57,
+    "abstentions": 601,
+    "pct_abstentions": 45.43,
+    "exprimes": 600
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "EN AVANT CAMBLAIN-LA-FERTÉ",
+      "libelle_abrege_liste": "EN AVANT CAMBLAIN-LA-FERTÉ",
+      "nuance_liste": null,
+      "voix": 600,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 19,
+      "sieges_cc": 1,
+      "nb_elus": 19,
+      "tete_de_liste": {
+        "nom": "PEDRINI",
+        "prenom": "Lélio",
+        "nom_complet": "Lélio PEDRINI",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "PEDRINI",
+          "prenom": "Lélio",
+          "nom_complet": "Lélio PEDRINI",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DIEU",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie DIEU",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "NIEMIER",
+          "prenom": "Maxime",
+          "nom_complet": "Maxime NIEMIER",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "MORISS",
+          "prenom": "Armelle",
+          "nom_complet": "Armelle MORISS",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "BILLET",
+          "prenom": "Denis",
+          "nom_complet": "Denis BILLET",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LAMBIN",
+          "prenom": "Carolle",
+          "nom_complet": "Carolle LAMBIN",
+          "sexe": "F",
+          "age": 73,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DESTINÉE",
+          "prenom": "Hervé",
+          "nom_complet": "Hervé DESTINÉE",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "QUENTIN",
+          "prenom": "Marie-Paule",
+          "nom_complet": "Marie-Paule QUENTIN",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "BILLET",
+          "prenom": "Anthony",
+          "nom_complet": "Anthony BILLET",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "FRANEK",
+          "prenom": "Coralie",
+          "nom_complet": "Coralie FRANEK",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "PRINCE",
+          "prenom": "Aurélien",
+          "nom_complet": "Aurélien PRINCE",
+          "sexe": "M",
+          "age": 33,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "ZORMS",
+          "prenom": "Véronique",
+          "nom_complet": "Véronique ZORMS",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "CHRETIEN",
+          "prenom": "Jean-Pierre",
+          "nom_complet": "Jean-Pierre CHRETIEN",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "LEFETZ",
+          "prenom": "Claire",
+          "nom_complet": "Claire LEFETZ",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "DELOBEL",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent DELOBEL",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "CARPENTIER",
+          "prenom": "Clémence",
+          "nom_complet": "Clémence CARPENTIER",
+          "sexe": "F",
+          "age": 30,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "BOURGEOIS",
+          "prenom": "Robert",
+          "nom_complet": "Robert BOURGEOIS",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "DUCROCQ",
+          "prenom": "Patricia",
+          "nom_complet": "Patricia DUCROCQ",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "DELBREUF",
+          "prenom": "Michel",
+          "nom_complet": "Michel DELBREUF",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "19"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

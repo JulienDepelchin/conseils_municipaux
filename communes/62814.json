@@ -1,0 +1,99 @@
+{
+  "code_commune": "62814",
+  "commune": "Thièvres",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "FOURMANOIR",
+    "prenom": "Maxime",
+    "nom_complet": "Maxime FOURMANOIR",
+    "age": 33,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 83,
+    "votants": 48,
+    "pct_votants": 57.83,
+    "abstentions": 35,
+    "pct_abstentions": 42.17,
+    "exprimes": 40
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "FOURMANOIR MAXIME",
+      "libelle_abrege_liste": "FOURMANOIR MAXIME",
+      "nuance_liste": null,
+      "voix": 40,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 7,
+      "sieges_cc": null,
+      "nb_elus": 7,
+      "tete_de_liste": {
+        "nom": "FOURMANOIR",
+        "prenom": "Maxime",
+        "nom_complet": "Maxime FOURMANOIR",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "FOURMANOIR",
+          "prenom": "Maxime",
+          "nom_complet": "Maxime FOURMANOIR",
+          "sexe": "M",
+          "age": 33,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LEBAS",
+          "prenom": "Muriel",
+          "nom_complet": "Muriel LEBAS",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "FOURMANOIR",
+          "prenom": "Geoffrey",
+          "nom_complet": "Geoffrey FOURMANOIR",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BUSCHINSKI",
+          "prenom": "Virginie",
+          "nom_complet": "Virginie BUSCHINSKI",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DEFFONTAINES",
+          "prenom": "Benoit",
+          "nom_complet": "Benoit DEFFONTAINES",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LEMAIRE",
+          "prenom": "Mathilde",
+          "nom_complet": "Mathilde LEMAIRE",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BUSCHINSKI",
+          "prenom": "Jérémy",
+          "nom_complet": "Jérémy BUSCHINSKI",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "7"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

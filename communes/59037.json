@@ -1,0 +1,259 @@
+{
+  "code_commune": "59037",
+  "commune": "Avesnes-les-Aubert",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "MAILLARD",
+    "prenom": "Laurent",
+    "nom_complet": "Laurent MAILLARD",
+    "age": 55,
+    "nuance": "LDVG"
+  },
+  "resultats": {
+    "inscrits": 2724,
+    "votants": 1326,
+    "pct_votants": 48.68,
+    "abstentions": 1398,
+    "pct_abstentions": 51.32,
+    "exprimes": 1155
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "AVESNES AU COEUR menée par Laurent Maillard",
+      "libelle_abrege_liste": "AVESNES AU COEUR menée par Laurent Maillard",
+      "nuance_liste": "LDVG",
+      "voix": 1155,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 27,
+      "sieges_cc": 3,
+      "nb_elus": 27,
+      "tete_de_liste": {
+        "nom": "MAILLARD",
+        "prenom": "Laurent",
+        "nom_complet": "Laurent MAILLARD",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "MAILLARD",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent MAILLARD",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "PORTIER",
+          "prenom": "Carole",
+          "nom_complet": "Carole PORTIER",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "GLACET",
+          "prenom": "Yann",
+          "nom_complet": "Yann GLACET",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "WATIOTIENNE",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie WATIOTIENNE",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "BISIAUX",
+          "prenom": "Andre",
+          "nom_complet": "Andre BISIAUX",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LESAGE",
+          "prenom": "Denise",
+          "nom_complet": "Denise LESAGE",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BASQUIN",
+          "prenom": "Alexandre",
+          "nom_complet": "Alexandre BASQUIN",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "MAILLARD",
+          "prenom": "Adelaide",
+          "nom_complet": "Adelaide MAILLARD",
+          "sexe": "F",
+          "age": 28,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "PAVAUX",
+          "prenom": "Jean-Claude",
+          "nom_complet": "Jean-Claude PAVAUX",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "GUERDIN",
+          "prenom": "Christelle",
+          "nom_complet": "Christelle GUERDIN",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "CHATELAIN",
+          "prenom": "Rodolphe",
+          "nom_complet": "Rodolphe CHATELAIN",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "MOREAU BASQUIN",
+          "prenom": "Claudine",
+          "nom_complet": "Claudine MOREAU BASQUIN",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "LECLERCQ",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier LECLERCQ",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "MONIEZ",
+          "prenom": "Florence",
+          "nom_complet": "Florence MONIEZ",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "CLAISSE",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe CLAISSE",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "BERNIER",
+          "prenom": "Virginie",
+          "nom_complet": "Virginie BERNIER",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "GARNIER",
+          "prenom": "Cyril",
+          "nom_complet": "Cyril GARNIER",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "WYDRZYNSKI",
+          "prenom": "Audrey",
+          "nom_complet": "Audrey WYDRZYNSKI",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "GOFFART",
+          "prenom": "François",
+          "nom_complet": "François GOFFART",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "SOMMAIN DROULEZ",
+          "prenom": "Lise",
+          "nom_complet": "Lise SOMMAIN DROULEZ",
+          "sexe": "F",
+          "age": 31,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "HERBIN",
+          "prenom": "Jean-Baptiste",
+          "nom_complet": "Jean-Baptiste HERBIN",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "BOZION",
+          "prenom": "Françoise",
+          "nom_complet": "Françoise BOZION",
+          "sexe": "F",
+          "age": 72,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "FERREIRA",
+          "prenom": "Eric",
+          "nom_complet": "Eric FERREIRA",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "23"
+        },
+        {
+          "nom": "BOUVART",
+          "prenom": "Kelly",
+          "nom_complet": "Kelly BOUVART",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "24"
+        },
+        {
+          "nom": "MORTIER",
+          "prenom": "Lionel",
+          "nom_complet": "Lionel MORTIER",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "25"
+        },
+        {
+          "nom": "DEBRABANT",
+          "prenom": "Marie",
+          "nom_complet": "Marie DEBRABANT",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "26"
+        },
+        {
+          "nom": "POTEL",
+          "prenom": "Jeremy",
+          "nom_complet": "Jeremy POTEL",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "27"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

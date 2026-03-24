@@ -1,0 +1,163 @@
+{
+  "code_commune": "62661",
+  "commune": "Bouin-Plumoison",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "LIEFHOOGHE",
+    "prenom": "Pierre",
+    "nom_complet": "Pierre LIEFHOOGHE",
+    "age": 66,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 403,
+    "votants": 236,
+    "pct_votants": 58.56,
+    "abstentions": 167,
+    "pct_abstentions": 41.44,
+    "exprimes": 206
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ENSEMBLE POUR BOUIN-PLUMOISON",
+      "libelle_abrege_liste": "ENSEMBLE POUR BOUIN-PLUMOISON",
+      "nuance_liste": null,
+      "voix": 206,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "LIEFHOOGHE",
+        "prenom": "Pierre",
+        "nom_complet": "Pierre LIEFHOOGHE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LIEFHOOGHE",
+          "prenom": "Pierre",
+          "nom_complet": "Pierre LIEFHOOGHE",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BEDHOM",
+          "prenom": "Céline",
+          "nom_complet": "Céline BEDHOM",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "COINT",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique COINT",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "FLAHAUT",
+          "prenom": "Elodie",
+          "nom_complet": "Elodie FLAHAUT",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "BAILLEUL",
+          "prenom": "Benoît",
+          "nom_complet": "Benoît BAILLEUL",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DENQUIN",
+          "prenom": "Séverine",
+          "nom_complet": "Séverine DENQUIN",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "ALISSE",
+          "prenom": "Xavier",
+          "nom_complet": "Xavier ALISSE",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "GODON",
+          "prenom": "Lilie",
+          "nom_complet": "Lilie GODON",
+          "sexe": "F",
+          "age": 19,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "MONCLAIRE",
+          "prenom": "Hugo",
+          "nom_complet": "Hugo MONCLAIRE",
+          "sexe": "M",
+          "age": 31,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "JAWOROWSKI",
+          "prenom": "Pauline",
+          "nom_complet": "Pauline JAWOROWSKI",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "BOULARD",
+          "prenom": "Mickaël",
+          "nom_complet": "Mickaël BOULARD",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "FAUSTIN",
+          "prenom": "Lysiane",
+          "nom_complet": "Lysiane FAUSTIN",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "GARNIER",
+          "prenom": "Aurélien",
+          "nom_complet": "Aurélien GARNIER",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "DELRU",
+          "prenom": "Mélanie",
+          "nom_complet": "Mélanie DELRU",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "BARDET",
+          "prenom": "Bertrand",
+          "nom_complet": "Bertrand BARDET",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

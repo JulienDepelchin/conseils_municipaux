@@ -1,0 +1,99 @@
+{
+  "code_commune": "62411",
+  "commune": "Haravesnes",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "VARLET",
+    "prenom": "Didier",
+    "nom_complet": "Didier VARLET",
+    "age": 67,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 42,
+    "votants": 32,
+    "pct_votants": 76.19,
+    "abstentions": 10,
+    "pct_abstentions": 23.81,
+    "exprimes": 27
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Pour l'avenir d'Haravesnes",
+      "libelle_abrege_liste": "Pour l'avenir d'Haravesnes",
+      "nuance_liste": null,
+      "voix": 27,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 7,
+      "sieges_cc": null,
+      "nb_elus": 7,
+      "tete_de_liste": {
+        "nom": "VARLET",
+        "prenom": "Didier",
+        "nom_complet": "Didier VARLET",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "VARLET",
+          "prenom": "Didier",
+          "nom_complet": "Didier VARLET",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "AGACHE",
+          "prenom": "Amélie",
+          "nom_complet": "Amélie AGACHE",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "ARMAND",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe ARMAND",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "ARMAND",
+          "prenom": "Sophie",
+          "nom_complet": "Sophie ARMAND",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "BIGOT",
+          "prenom": "Martial",
+          "nom_complet": "Martial BIGOT",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "BAYEUL",
+          "prenom": "Cathy",
+          "nom_complet": "Cathy BAYEUL",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "VARLET",
+          "prenom": "Adrien",
+          "nom_complet": "Adrien VARLET",
+          "sexe": "M",
+          "age": 31,
+          "rang_liste": "7"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

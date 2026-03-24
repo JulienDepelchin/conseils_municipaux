@@ -1,0 +1,151 @@
+{
+  "code_commune": "62124",
+  "commune": "Beutin",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "DUBRULLE",
+    "prenom": "Patrick",
+    "nom_complet": "Patrick DUBRULLE",
+    "age": 61,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 328,
+    "votants": 285,
+    "pct_votants": 86.89,
+    "abstentions": 43,
+    "pct_abstentions": 13.11,
+    "exprimes": 282
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "UNE GESTION PARTAGEE POUR BEUTIN",
+      "libelle_abrege_liste": "UNE GESTION PARTAGEE POUR BEUTIN",
+      "nuance_liste": null,
+      "voix": 161,
+      "pct_voix_exprimes": 57.09,
+      "sieges_cm": 9,
+      "sieges_cc": null,
+      "nb_elus": 9,
+      "tete_de_liste": {
+        "nom": "DUBRULLE",
+        "prenom": "Patrick",
+        "nom_complet": "Patrick DUBRULLE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DUBRULLE",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick DUBRULLE",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "PROTIN",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie PROTIN",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "HANQUEZ",
+          "prenom": "Guillaume",
+          "nom_complet": "Guillaume HANQUEZ",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "VARLET",
+          "prenom": "Cassandra",
+          "nom_complet": "Cassandra VARLET",
+          "sexe": "F",
+          "age": 32,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LEGRAND",
+          "prenom": "David",
+          "nom_complet": "David LEGRAND",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DAMBRON",
+          "prenom": "Réjanne",
+          "nom_complet": "Réjanne DAMBRON",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "GOLIOT",
+          "prenom": "Gérard",
+          "nom_complet": "Gérard GOLIOT",
+          "sexe": "M",
+          "age": 75,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "HANQUEZ",
+          "prenom": "Marion",
+          "nom_complet": "Marion HANQUEZ",
+          "sexe": "F",
+          "age": 29,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DENYS",
+          "prenom": "Eric",
+          "nom_complet": "Eric DENYS",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "9"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Beutin, notre village, notre avenir",
+      "libelle_abrege_liste": "Beutin, notre village, notre avenir",
+      "nuance_liste": null,
+      "voix": 121,
+      "pct_voix_exprimes": 42.91,
+      "sieges_cm": 2,
+      "sieges_cc": null,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "BACHIMONT",
+        "prenom": "Patrick",
+        "nom_complet": "Patrick BACHIMONT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BACHIMONT",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick BACHIMONT",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "NEMPONT",
+          "prenom": "Pascale",
+          "nom_complet": "Pascale NEMPONT",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

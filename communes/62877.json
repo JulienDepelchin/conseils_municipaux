@@ -1,0 +1,131 @@
+{
+  "code_commune": "62877",
+  "commune": "Warlincourt-lès-Pas",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "VANDERBEKEN",
+    "prenom": "Mathieu",
+    "nom_complet": "Mathieu VANDERBEKEN",
+    "age": 48,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 148,
+    "votants": 94,
+    "pct_votants": 63.51,
+    "abstentions": 54,
+    "pct_abstentions": 36.49,
+    "exprimes": 86
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Défense des intérêts communaux",
+      "libelle_abrege_liste": "Défense des intérêts communaux",
+      "nuance_liste": null,
+      "voix": 86,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "VANDERBEKEN",
+        "prenom": "Mathieu",
+        "nom_complet": "Mathieu VANDERBEKEN",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "VANDERBEKEN",
+          "prenom": "Mathieu",
+          "nom_complet": "Mathieu VANDERBEKEN",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "MERCIER",
+          "prenom": "Michèle",
+          "nom_complet": "Michèle MERCIER",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "CARON",
+          "prenom": "Pierre-Yves",
+          "nom_complet": "Pierre-Yves CARON",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LENFLE",
+          "prenom": "Sylviane",
+          "nom_complet": "Sylviane LENFLE",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "JACQUEMONT",
+          "prenom": "Xavier",
+          "nom_complet": "Xavier JACQUEMONT",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "FARDEL",
+          "prenom": "Annie-Claude",
+          "nom_complet": "Annie-Claude FARDEL",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "SAUDMONT",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe SAUDMONT",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "JOLY",
+          "prenom": "Maité",
+          "nom_complet": "Maité JOLY",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "RIVILLON",
+          "prenom": "Yves",
+          "nom_complet": "Yves RIVILLON",
+          "sexe": "M",
+          "age": 22,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "TOUZET",
+          "prenom": "Sandrine",
+          "nom_complet": "Sandrine TOUZET",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "RIVILLON",
+          "prenom": "Johann",
+          "nom_complet": "Johann RIVILLON",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

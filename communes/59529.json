@@ -1,0 +1,151 @@
+{
+  "code_commune": "59529",
+  "commune": "Saint-Aubin",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "BUJ",
+    "prenom": "Bruno",
+    "nom_complet": "Bruno BUJ",
+    "age": 65,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 252,
+    "votants": 190,
+    "pct_votants": 75.4,
+    "abstentions": 62,
+    "pct_abstentions": 24.6,
+    "exprimes": 180
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Bien vivre ensemble",
+      "libelle_abrege_liste": "Bien vivre ensemble",
+      "nuance_liste": null,
+      "voix": 103,
+      "pct_voix_exprimes": 57.22,
+      "sieges_cm": 9,
+      "sieges_cc": null,
+      "nb_elus": 9,
+      "tete_de_liste": {
+        "nom": "BUJ",
+        "prenom": "Bruno",
+        "nom_complet": "Bruno BUJ",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BUJ",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno BUJ",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "CAMUS",
+          "prenom": "Aurore",
+          "nom_complet": "Aurore CAMUS",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BOURGEOIS",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal BOURGEOIS",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LAURENT",
+          "prenom": "Sandie",
+          "nom_complet": "Sandie LAURENT",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "RENARD",
+          "prenom": "Charles",
+          "nom_complet": "Charles RENARD",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LUSTREMANT",
+          "prenom": "Vanessa",
+          "nom_complet": "Vanessa LUSTREMANT",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "GRAVEZ",
+          "prenom": "Leopold",
+          "nom_complet": "Leopold GRAVEZ",
+          "sexe": "M",
+          "age": 26,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "GODAERT",
+          "prenom": "Linda",
+          "nom_complet": "Linda GODAERT",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DUBAIL",
+          "prenom": "Grégory",
+          "nom_complet": "Grégory DUBAIL",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "9"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "NOTRE VILLAGE SAINT AUBIN",
+      "libelle_abrege_liste": "NOTRE VILLAGE SAINT AUBIN",
+      "nuance_liste": null,
+      "voix": 77,
+      "pct_voix_exprimes": 42.78,
+      "sieges_cm": 2,
+      "sieges_cc": null,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "COUPEAUX",
+        "prenom": "Sebastien",
+        "nom_complet": "Sebastien COUPEAUX",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "COUPEAUX",
+          "prenom": "Sebastien",
+          "nom_complet": "Sebastien COUPEAUX",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "CHOPIN",
+          "prenom": "Laetitia",
+          "nom_complet": "Laetitia CHOPIN",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

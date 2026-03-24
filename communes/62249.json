@@ -1,0 +1,315 @@
+{
+  "code_commune": "62249",
+  "commune": "Courcelles-lès-Lens",
+  "departement": "Pas-de-Calais",
+  "tour": "T2",
+  "maire": {
+    "nom": "SZCZYPINSKI",
+    "prenom": "Pierre",
+    "nom_complet": "Pierre SZCZYPINSKI",
+    "age": 42,
+    "nuance": "LRN"
+  },
+  "resultats": {
+    "inscrits": 5160,
+    "votants": 3117,
+    "pct_votants": 60.41,
+    "abstentions": 2043,
+    "pct_abstentions": 39.59,
+    "exprimes": 3066
+  },
+  "listes": [
+    {
+      "num_panneau": "4",
+      "libelle_liste": "EN AVANT POUR COURCELLES-LES-LENS",
+      "libelle_abrege_liste": "EN AVANT POUR COURCELLES-LES-LENS",
+      "nuance_liste": "LRN",
+      "voix": 1747,
+      "pct_voix_exprimes": 56.98,
+      "sieges_cm": 23,
+      "sieges_cc": 3,
+      "nb_elus": 23,
+      "tete_de_liste": {
+        "nom": "SZCZYPINSKI",
+        "prenom": "Pierre",
+        "nom_complet": "Pierre SZCZYPINSKI",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "SZCZYPINSKI",
+          "prenom": "Pierre",
+          "nom_complet": "Pierre SZCZYPINSKI",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LAVARDE",
+          "prenom": "Lydie",
+          "nom_complet": "Lydie LAVARDE",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "KRAWCZYK",
+          "prenom": "Romain",
+          "nom_complet": "Romain KRAWCZYK",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "ADAMCZEWSKI",
+          "prenom": "Sandra",
+          "nom_complet": "Sandra ADAMCZEWSKI",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "VERCRUYSSE",
+          "prenom": "Thomas",
+          "nom_complet": "Thomas VERCRUYSSE",
+          "sexe": "M",
+          "age": 25,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "VENDEVILLE",
+          "prenom": "Pascale",
+          "nom_complet": "Pascale VENDEVILLE",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "HERBAUT",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier HERBAUT",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "NIVESSE",
+          "prenom": "Colette",
+          "nom_complet": "Colette NIVESSE",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "FIDER",
+          "prenom": "Samuel",
+          "nom_complet": "Samuel FIDER",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "HEWUSZ",
+          "prenom": "Brigitte",
+          "nom_complet": "Brigitte HEWUSZ",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "BROUTIN",
+          "prenom": "Michel",
+          "nom_complet": "Michel BROUTIN",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "RENAULT",
+          "prenom": "Monique",
+          "nom_complet": "Monique RENAULT",
+          "sexe": "F",
+          "age": 78,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "GRYSON",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno GRYSON",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "CAMUS",
+          "prenom": "Angélique",
+          "nom_complet": "Angélique CAMUS",
+          "sexe": "F",
+          "age": 33,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "LEROY",
+          "prenom": "Florian",
+          "nom_complet": "Florian LEROY",
+          "sexe": "M",
+          "age": 30,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "CUEVAS",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle CUEVAS",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "CRETON",
+          "prenom": "Alain",
+          "nom_complet": "Alain CRETON",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "MACIEJEWSKI",
+          "prenom": "Nadine",
+          "nom_complet": "Nadine MACIEJEWSKI",
+          "sexe": "F",
+          "age": 72,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "LELEUX",
+          "prenom": "Teddy",
+          "nom_complet": "Teddy LELEUX",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "RAMU",
+          "prenom": "Christine",
+          "nom_complet": "Christine RAMU",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "DESSAILLY",
+          "prenom": "Valentin",
+          "nom_complet": "Valentin DESSAILLY",
+          "sexe": "M",
+          "age": 28,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "LION",
+          "prenom": "Gaëtane",
+          "nom_complet": "Gaëtane LION",
+          "sexe": "F",
+          "age": 77,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "PINATON",
+          "prenom": "Kévin",
+          "nom_complet": "Kévin PINATON",
+          "sexe": "M",
+          "age": 33,
+          "rang_liste": "23"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "3",
+      "libelle_liste": "POURSUIVRE ET REUSSIR AVEC VOUS !",
+      "libelle_abrege_liste": "POURSUIVRE ET REUSSIR AVEC VOUS !",
+      "nuance_liste": "LDVG",
+      "voix": 909,
+      "pct_voix_exprimes": 29.65,
+      "sieges_cm": 4,
+      "sieges_cc": 1,
+      "nb_elus": 4,
+      "tete_de_liste": {
+        "nom": "BLEUZET-CARLIER",
+        "prenom": "Édith",
+        "nom_complet": "Édith BLEUZET-CARLIER",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "BLEUZET-CARLIER",
+          "prenom": "Édith",
+          "nom_complet": "Édith BLEUZET-CARLIER",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "GESELLE",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric GESELLE",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "JEANNIN",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle JEANNIN",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "MOUTAOUKIL",
+          "prenom": "Brahim",
+          "nom_complet": "Brahim MOUTAOUKIL",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "4"
+        }
+      ],
+      "statut_conseil": "autre"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "COURCELLES-LES-LENS, UNE HISTOIRE - L'AVENIR",
+      "libelle_abrege_liste": "COURCELLES-LES-LENS, UNE HISTOIRE - L'AVENIR",
+      "nuance_liste": "LDVG",
+      "voix": 410,
+      "pct_voix_exprimes": 13.37,
+      "sieges_cm": 2,
+      "sieges_cc": 0,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "WASILEWSKI",
+        "prenom": "Marie",
+        "nom_complet": "Marie WASILEWSKI",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "WASILEWSKI",
+          "prenom": "Marie",
+          "nom_complet": "Marie WASILEWSKI",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "ELMOSTEFA",
+          "prenom": "Mohammed",
+          "nom_complet": "Mohammed ELMOSTEFA",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

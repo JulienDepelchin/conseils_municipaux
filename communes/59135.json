@@ -1,0 +1,207 @@
+{
+  "code_commune": "59135",
+  "commune": "Cassel",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "JOLY",
+    "prenom": "Dominique",
+    "nom_complet": "Dominique JOLY",
+    "age": 69,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1786,
+    "votants": 1149,
+    "pct_votants": 64.33,
+    "abstentions": 637,
+    "pct_abstentions": 35.67,
+    "exprimes": 1097
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "Vous et nous portons Cassel toujours plus haut toujours plus fort",
+      "libelle_abrege_liste": "vsptphtpf",
+      "nuance_liste": null,
+      "voix": 676,
+      "pct_voix_exprimes": 61.62,
+      "sieges_cm": 15,
+      "sieges_cc": 1,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "JOLY",
+        "prenom": "Dominique",
+        "nom_complet": "Dominique JOLY",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "JOLY",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique JOLY",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DEKEYSER",
+          "prenom": "Anne",
+          "nom_complet": "Anne DEKEYSER",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "POTISEK",
+          "prenom": "Fédérik",
+          "nom_complet": "Fédérik POTISEK",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BEUN",
+          "prenom": "Matthias",
+          "nom_complet": "Matthias BEUN",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "COUSIN",
+          "prenom": "Charlotte",
+          "nom_complet": "Charlotte COUSIN",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BELLYNCK",
+          "prenom": "Ludwig",
+          "nom_complet": "Ludwig BELLYNCK",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "QUAEGEBEUR",
+          "prenom": "Wanita",
+          "nom_complet": "Wanita QUAEGEBEUR",
+          "sexe": "F",
+          "age": 70,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "WINDELS",
+          "prenom": "Hervé",
+          "nom_complet": "Hervé WINDELS",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "CANDELIER",
+          "prenom": "Anne",
+          "nom_complet": "Anne CANDELIER",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "QUAEYBEUR",
+          "prenom": "Gérard",
+          "nom_complet": "Gérard QUAEYBEUR",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "DEBAECKER-HUYGHE",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie DEBAECKER-HUYGHE",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "MACKE",
+          "prenom": "Emile-Henri",
+          "nom_complet": "Emile-Henri MACKE",
+          "sexe": "M",
+          "age": 27,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "BOLLAERT",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle BOLLAERT",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "BARROIS",
+          "prenom": "Yves",
+          "nom_complet": "Yves BARROIS",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "PITT",
+          "prenom": "Celine",
+          "nom_complet": "Celine PITT",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "16"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "CASSEL EN COMMUN",
+      "libelle_abrege_liste": "CEN",
+      "nuance_liste": null,
+      "voix": 421,
+      "pct_voix_exprimes": 38.38,
+      "sieges_cm": 3,
+      "sieges_cc": 0,
+      "nb_elus": 3,
+      "tete_de_liste": {
+        "nom": "RAUWEL",
+        "prenom": "Celine",
+        "nom_complet": "Celine RAUWEL",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "RAUWEL",
+          "prenom": "Celine",
+          "nom_complet": "Celine RAUWEL",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "THEO",
+          "prenom": "Sylvain",
+          "nom_complet": "Sylvain THEO",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "MARRANNES",
+          "prenom": "Helene",
+          "nom_complet": "Helene MARRANNES",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "3"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

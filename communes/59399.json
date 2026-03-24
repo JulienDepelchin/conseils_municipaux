@@ -1,0 +1,183 @@
+{
+  "code_commune": "59399",
+  "commune": "Merris",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "DEROULLERS",
+    "prenom": "Patrick",
+    "nom_complet": "Patrick DEROULLERS",
+    "age": 63,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 922,
+    "votants": 660,
+    "pct_votants": 71.58,
+    "abstentions": 262,
+    "pct_abstentions": 28.42,
+    "exprimes": 641
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Vivons Merris !",
+      "libelle_abrege_liste": "VM",
+      "nuance_liste": null,
+      "voix": 363,
+      "pct_voix_exprimes": 56.63,
+      "sieges_cm": 12,
+      "sieges_cc": 1,
+      "nb_elus": 12,
+      "tete_de_liste": {
+        "nom": "DEROULLERS",
+        "prenom": "Patrick",
+        "nom_complet": "Patrick DEROULLERS",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DEROULLERS",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick DEROULLERS",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DECOSTER",
+          "prenom": "Christine",
+          "nom_complet": "Christine DECOSTER",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BOUREL",
+          "prenom": "Michel",
+          "nom_complet": "Michel BOUREL",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "ESQUIVA-BOUCHERY",
+          "prenom": "Maïté",
+          "nom_complet": "Maïté ESQUIVA-BOUCHERY",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "MAES",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe MAES",
+          "sexe": "M",
+          "age": 75,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "TURCQ-GRASSET",
+          "prenom": "Séverine",
+          "nom_complet": "Séverine TURCQ-GRASSET",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "STOFFAES",
+          "prenom": "Antoine",
+          "nom_complet": "Antoine STOFFAES",
+          "sexe": "M",
+          "age": 29,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "MALESYS",
+          "prenom": "Béatrice",
+          "nom_complet": "Béatrice MALESYS",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "WATERLOT",
+          "prenom": "Thierry",
+          "nom_complet": "Thierry WATERLOT",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "CAJET",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie CAJET",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DERHILLE",
+          "prenom": "Jimmy",
+          "nom_complet": "Jimmy DERHILLE",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "DEQUEEKER",
+          "prenom": "Christelle",
+          "nom_complet": "Christelle DEQUEEKER",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "12"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "ENSEMBLE, DYNAMISONS MERRIS",
+      "libelle_abrege_liste": "ENSEMBLE, DYNAMISONS MERRIS",
+      "nuance_liste": null,
+      "voix": 278,
+      "pct_voix_exprimes": 43.37,
+      "sieges_cm": 3,
+      "sieges_cc": 0,
+      "nb_elus": 3,
+      "tete_de_liste": {
+        "nom": "LEROY",
+        "prenom": "Jean-Alain",
+        "nom_complet": "Jean-Alain LEROY",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LEROY",
+          "prenom": "Jean-Alain",
+          "nom_complet": "Jean-Alain LEROY",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BOULINGUIEZ",
+          "prenom": "Pamela",
+          "nom_complet": "Pamela BOULINGUIEZ",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BINET",
+          "prenom": "David",
+          "nom_complet": "David BINET",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "3"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

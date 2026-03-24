@@ -1,0 +1,163 @@
+{
+  "code_commune": "59313",
+  "commune": "Hordain",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "BAVAY",
+    "prenom": "Arnaud",
+    "nom_complet": "Arnaud BAVAY",
+    "age": 53,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1160,
+    "votants": 672,
+    "pct_votants": 57.93,
+    "abstentions": 488,
+    "pct_abstentions": 42.07,
+    "exprimes": 570
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "POUR HORDAIN",
+      "libelle_abrege_liste": "POUR HORDAIN",
+      "nuance_liste": null,
+      "voix": 570,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": 1,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "BAVAY",
+        "prenom": "Arnaud",
+        "nom_complet": "Arnaud BAVAY",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BAVAY",
+          "prenom": "Arnaud",
+          "nom_complet": "Arnaud BAVAY",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "CHAMBON",
+          "prenom": "Élodie",
+          "nom_complet": "Élodie CHAMBON",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BRABANT",
+          "prenom": "Vincent",
+          "nom_complet": "Vincent BRABANT",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "HUBERT",
+          "prenom": "Marie-Line",
+          "nom_complet": "Marie-Line HUBERT",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DEMAGNY",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier DEMAGNY",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "MERESSE",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie MERESSE",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DUHOUX",
+          "prenom": "Eddie",
+          "nom_complet": "Eddie DUHOUX",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "POTTIEZ",
+          "prenom": "Doriane",
+          "nom_complet": "Doriane POTTIEZ",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "JACQUEMART",
+          "prenom": "Alain",
+          "nom_complet": "Alain JACQUEMART",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "SAUVAGE",
+          "prenom": "Corine",
+          "nom_complet": "Corine SAUVAGE",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "MAIRESSE",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal MAIRESSE",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "SENECAUT-DUBREUCQ",
+          "prenom": "Marie-Claire",
+          "nom_complet": "Marie-Claire SENECAUT-DUBREUCQ",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "MERESSE",
+          "prenom": "Guillaume",
+          "nom_complet": "Guillaume MERESSE",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "VANLOO",
+          "prenom": "Sandrine",
+          "nom_complet": "Sandrine VANLOO",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "ROBIQUET",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal ROBIQUET",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

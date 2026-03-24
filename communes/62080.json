@@ -1,0 +1,279 @@
+{
+  "code_commune": "62080",
+  "commune": "Bapaume",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "COTTEL",
+    "prenom": "Jean-Jacques",
+    "nom_complet": "Jean-Jacques COTTEL",
+    "age": 72,
+    "nuance": "LDVG"
+  },
+  "resultats": {
+    "inscrits": 2018,
+    "votants": 1320,
+    "pct_votants": 65.41,
+    "abstentions": 698,
+    "pct_abstentions": 34.59,
+    "exprimes": 1282
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "UNIS POUR BAPAUME, MAIN DANS LA MAIN",
+      "libelle_abrege_liste": "UNIS POUR BAPAUME, MAIN DANS LA MAIN",
+      "nuance_liste": "LDVG",
+      "voix": 784,
+      "pct_voix_exprimes": 61.15,
+      "sieges_cm": 22,
+      "sieges_cc": 8,
+      "nb_elus": 22,
+      "tete_de_liste": {
+        "nom": "COTTEL",
+        "prenom": "Jean-Jacques",
+        "nom_complet": "Jean-Jacques COTTEL",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "COTTEL",
+          "prenom": "Jean-Jacques",
+          "nom_complet": "Jean-Jacques COTTEL",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "RAUCHE",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie RAUCHE",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "VAILLANT",
+          "prenom": "Bernard",
+          "nom_complet": "Bernard VAILLANT",
+          "sexe": "M",
+          "age": 78,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "MEGRET",
+          "prenom": "Catherine",
+          "nom_complet": "Catherine MEGRET",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LEJOSNE",
+          "prenom": "André",
+          "nom_complet": "André LEJOSNE",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "COURTOIS",
+          "prenom": "Fanny",
+          "nom_complet": "Fanny COURTOIS",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "PRUVOST",
+          "prenom": "Pierre",
+          "nom_complet": "Pierre PRUVOST",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DUHAMEL",
+          "prenom": "Marie-Odile",
+          "nom_complet": "Marie-Odile DUHAMEL",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DUDICOURT",
+          "prenom": "Emmanuel",
+          "nom_complet": "Emmanuel DUDICOURT",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DUMORTIER",
+          "prenom": "Colette",
+          "nom_complet": "Colette DUMORTIER",
+          "sexe": "F",
+          "age": 84,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "VACHET",
+          "prenom": "Alain",
+          "nom_complet": "Alain VACHET",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "DELODDERE-RAISON",
+          "prenom": "Pascale",
+          "nom_complet": "Pascale DELODDERE-RAISON",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "DAMHEC",
+          "prenom": "Alain",
+          "nom_complet": "Alain DAMHEC",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "GARIN SAVARY",
+          "prenom": "Maryse",
+          "nom_complet": "Maryse GARIN SAVARY",
+          "sexe": "F",
+          "age": 73,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "HENRION",
+          "prenom": "Gilles",
+          "nom_complet": "Gilles HENRION",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "GILLION",
+          "prenom": "Carine",
+          "nom_complet": "Carine GILLION",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "THIECHART",
+          "prenom": "Xavier",
+          "nom_complet": "Xavier THIECHART",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "REVERSEZ",
+          "prenom": "Michèle",
+          "nom_complet": "Michèle REVERSEZ",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "MAURER",
+          "prenom": "Jacques",
+          "nom_complet": "Jacques MAURER",
+          "sexe": "M",
+          "age": 74,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "BRIERE",
+          "prenom": "Laëtitia",
+          "nom_complet": "Laëtitia BRIERE",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "PETIT",
+          "prenom": "Freddy",
+          "nom_complet": "Freddy PETIT",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "LESIEUX",
+          "prenom": "Océane",
+          "nom_complet": "Océane LESIEUX",
+          "sexe": "F",
+          "age": 24,
+          "rang_liste": "22"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "FIERS DE BAPAUME, FORTS POUR DEMAIN !",
+      "libelle_abrege_liste": "FIERS DE BAPAUME, FORTS POUR DEMAIN !",
+      "nuance_liste": "LRN",
+      "voix": 498,
+      "pct_voix_exprimes": 38.85,
+      "sieges_cm": 5,
+      "sieges_cc": 2,
+      "nb_elus": 5,
+      "tete_de_liste": {
+        "nom": "DUEZ",
+        "prenom": "Jérôme",
+        "nom_complet": "Jérôme DUEZ",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DUEZ",
+          "prenom": "Jérôme",
+          "nom_complet": "Jérôme DUEZ",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DURAND",
+          "prenom": "Émilie",
+          "nom_complet": "Émilie DURAND",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BLAIRY",
+          "prenom": "Emmanuel",
+          "nom_complet": "Emmanuel BLAIRY",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "PERU",
+          "prenom": "Christine",
+          "nom_complet": "Christine PERU",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "CURTI",
+          "prenom": "Mickaël",
+          "nom_complet": "Mickaël CURTI",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "5"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "code_commune": "62196",
+  "commune": "La Calotterie",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "LEURETTE",
+    "prenom": "Franck",
+    "nom_complet": "Franck LEURETTE",
+    "age": 50,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 501,
+    "votants": 302,
+    "pct_votants": 60.28,
+    "abstentions": 199,
+    "pct_abstentions": 39.72,
+    "exprimes": 260
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Bien vivre à la Calotterie",
+      "libelle_abrege_liste": "Bien vivre à la Calotterie",
+      "nuance_liste": null,
+      "voix": 260,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "LEURETTE",
+        "prenom": "Franck",
+        "nom_complet": "Franck LEURETTE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LEURETTE",
+          "prenom": "Franck",
+          "nom_complet": "Franck LEURETTE",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "SEILLIER",
+          "prenom": "Edith",
+          "nom_complet": "Edith SEILLIER",
+          "sexe": "F",
+          "age": 71,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LEBORGNE",
+          "prenom": "Jérôme",
+          "nom_complet": "Jérôme LEBORGNE",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "CODRON",
+          "prenom": "Clothilde",
+          "nom_complet": "Clothilde CODRON",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DUBOIS",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique DUBOIS",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "ISRAËL",
+          "prenom": "Sonia",
+          "nom_complet": "Sonia ISRAËL",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "LAMOUR",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe LAMOUR",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "BOINOT",
+          "prenom": "Delphine",
+          "nom_complet": "Delphine BOINOT",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "ROUTIER",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier ROUTIER",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "ANTOCHEWICZ",
+          "prenom": "Karine",
+          "nom_complet": "Karine ANTOCHEWICZ",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "LEMOINE",
+          "prenom": "Jean-Luc",
+          "nom_complet": "Jean-Luc LEMOINE",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "BATAILLE",
+          "prenom": "Vanessa",
+          "nom_complet": "Vanessa BATAILLE",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "MARTEL",
+          "prenom": "Jean-Marie",
+          "nom_complet": "Jean-Marie MARTEL",
+          "sexe": "M",
+          "age": 76,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "DUCROCQ",
+          "prenom": "Elodie",
+          "nom_complet": "Elodie DUCROCQ",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "POIRET",
+          "prenom": "Christian",
+          "nom_complet": "Christian POIRET",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "code_commune": "62713",
+  "commune": "Robecq",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "DEROUBAIX",
+    "prenom": "Hervé",
+    "nom_complet": "Hervé DEROUBAIX",
+    "age": 55,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1144,
+    "votants": 726,
+    "pct_votants": 63.46,
+    "abstentions": 418,
+    "pct_abstentions": 36.54,
+    "exprimes": 679
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ROBECQ ENSEMBLE POUR DEMAIN",
+      "libelle_abrege_liste": "ROBECQ ENSEMBLE POUR DEMAIN",
+      "nuance_liste": null,
+      "voix": 679,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": 1,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "DEROUBAIX",
+        "prenom": "Hervé",
+        "nom_complet": "Hervé DEROUBAIX",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DEROUBAIX",
+          "prenom": "Hervé",
+          "nom_complet": "Hervé DEROUBAIX",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LAMOUR",
+          "prenom": "Véronique",
+          "nom_complet": "Véronique LAMOUR",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "CUVILLIERS",
+          "prenom": "Hugo",
+          "nom_complet": "Hugo CUVILLIERS",
+          "sexe": "M",
+          "age": 26,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "SENECHAL",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle SENECHAL",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "FRANCOIS",
+          "prenom": "Serge",
+          "nom_complet": "Serge FRANCOIS",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "HENNION",
+          "prenom": "Josee",
+          "nom_complet": "Josee HENNION",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "PERET",
+          "prenom": "Julien",
+          "nom_complet": "Julien PERET",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "CONSEIL",
+          "prenom": "Emmanuelle",
+          "nom_complet": "Emmanuelle CONSEIL",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DESQUIRET",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent DESQUIRET",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "LASSELIN",
+          "prenom": "Severine",
+          "nom_complet": "Severine LASSELIN",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "VALEMBOIS",
+          "prenom": "Michel",
+          "nom_complet": "Michel VALEMBOIS",
+          "sexe": "M",
+          "age": 76,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "MEUNIER",
+          "prenom": "Sabrina",
+          "nom_complet": "Sabrina MEUNIER",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "LEZIER",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe LEZIER",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "VANNIER",
+          "prenom": "Cindy",
+          "nom_complet": "Cindy VANNIER",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "BROGNIART",
+          "prenom": "François",
+          "nom_complet": "François BROGNIART",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

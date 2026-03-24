@@ -1,0 +1,295 @@
+{
+  "code_commune": "59459",
+  "commune": "Petite-Forêt",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "GOMBERT",
+    "prenom": "Sandrine",
+    "nom_complet": "Sandrine GOMBERT",
+    "age": 55,
+    "nuance": "LDVG"
+  },
+  "resultats": {
+    "inscrits": 3859,
+    "votants": 2178,
+    "pct_votants": 56.44,
+    "abstentions": 1681,
+    "pct_abstentions": 43.56,
+    "exprimes": 2109
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "PETITE-FORET POUR L'AVENIR",
+      "libelle_abrege_liste": "PETITE-FORET POUR L'AVENIR",
+      "nuance_liste": "LDVG",
+      "voix": 1430,
+      "pct_voix_exprimes": 67.8,
+      "sieges_cm": 25,
+      "sieges_cc": 2,
+      "nb_elus": 25,
+      "tete_de_liste": {
+        "nom": "GOMBERT",
+        "prenom": "Sandrine",
+        "nom_complet": "Sandrine GOMBERT",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "GOMBERT",
+          "prenom": "Sandrine",
+          "nom_complet": "Sandrine GOMBERT",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LAMRI",
+          "prenom": "Rachid",
+          "nom_complet": "Rachid LAMRI",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LÉONET",
+          "prenom": "Christine",
+          "nom_complet": "Christine LÉONET",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "OTLET",
+          "prenom": "Cédric",
+          "nom_complet": "Cédric OTLET",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "JOLY",
+          "prenom": "Véronique",
+          "nom_complet": "Véronique JOLY",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "CROMBÉ",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal CROMBÉ",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "VANDEPOEL",
+          "prenom": "Arlette",
+          "nom_complet": "Arlette VANDEPOEL",
+          "sexe": "F",
+          "age": 71,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "VANOVERSCHELDE",
+          "prenom": "Robert",
+          "nom_complet": "Robert VANOVERSCHELDE",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "SÉREUSE",
+          "prenom": "Elisabeth",
+          "nom_complet": "Elisabeth SÉREUSE",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "GAILLARD",
+          "prenom": "Gérard",
+          "nom_complet": "Gérard GAILLARD",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DILIBERTO",
+          "prenom": "Martine",
+          "nom_complet": "Martine DILIBERTO",
+          "sexe": "F",
+          "age": 74,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "STASINSKI",
+          "prenom": "François",
+          "nom_complet": "François STASINSKI",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "LOUVION",
+          "prenom": "Marie Renée",
+          "nom_complet": "Marie Renée LOUVION",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "AIT LAMAALEM AHMED",
+          "prenom": "El Boukhari",
+          "nom_complet": "El Boukhari AIT LAMAALEM AHMED",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "DESCAMPS",
+          "prenom": "Aurélie",
+          "nom_complet": "Aurélie DESCAMPS",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "DÉMAREST",
+          "prenom": "Didier",
+          "nom_complet": "Didier DÉMAREST",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "GÉNARD",
+          "prenom": "Claudine",
+          "nom_complet": "Claudine GÉNARD",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "AJENGUI",
+          "prenom": "Fadhel",
+          "nom_complet": "Fadhel AJENGUI",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "LECROART-QUIEN",
+          "prenom": "Alberte",
+          "nom_complet": "Alberte LECROART-QUIEN",
+          "sexe": "F",
+          "age": 79,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "DURIEUX",
+          "prenom": "Christian",
+          "nom_complet": "Christian DURIEUX",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "ZOUGGAR",
+          "prenom": "Amélie",
+          "nom_complet": "Amélie ZOUGGAR",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "HUBERT",
+          "prenom": "Rémy",
+          "nom_complet": "Rémy HUBERT",
+          "sexe": "M",
+          "age": 21,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "HUET",
+          "prenom": "Christine",
+          "nom_complet": "Christine HUET",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "23"
+        },
+        {
+          "nom": "GOSSELIN",
+          "prenom": "Bernard",
+          "nom_complet": "Bernard GOSSELIN",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "24"
+        },
+        {
+          "nom": "BRUNEAU",
+          "prenom": "Sarah",
+          "nom_complet": "Sarah BRUNEAU",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "25"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Agir au quotidien pour vous",
+      "libelle_abrege_liste": "Agir au quotidien pour vous",
+      "nuance_liste": "LDVG",
+      "voix": 679,
+      "pct_voix_exprimes": 32.2,
+      "sieges_cm": 4,
+      "sieges_cc": 0,
+      "nb_elus": 4,
+      "tete_de_liste": {
+        "nom": "SPYCHALA",
+        "prenom": "Grégory",
+        "nom_complet": "Grégory SPYCHALA",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "SPYCHALA",
+          "prenom": "Grégory",
+          "nom_complet": "Grégory SPYCHALA",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "OTLET",
+          "prenom": "Tiphanie",
+          "nom_complet": "Tiphanie OTLET",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "RINGUET",
+          "prenom": "Cédric",
+          "nom_complet": "Cédric RINGUET",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "MARTIN",
+          "prenom": "Dorothée",
+          "nom_complet": "Dorothée MARTIN",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "4"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

@@ -1,0 +1,227 @@
+{
+  "code_commune": "62188",
+  "commune": "Burbure",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "HOCQ",
+    "prenom": "René",
+    "nom_complet": "René HOCQ",
+    "age": 74,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 2190,
+    "votants": 1241,
+    "pct_votants": 56.67,
+    "abstentions": 949,
+    "pct_abstentions": 43.33,
+    "exprimes": 1031
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "BURBURE EN MOUVEMENT",
+      "libelle_abrege_liste": "BURBURE EN MOUVEMENT",
+      "nuance_liste": null,
+      "voix": 1031,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 23,
+      "sieges_cc": 1,
+      "nb_elus": 23,
+      "tete_de_liste": {
+        "nom": "HOCQ",
+        "prenom": "René",
+        "nom_complet": "René HOCQ",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "HOCQ",
+          "prenom": "René",
+          "nom_complet": "René HOCQ",
+          "sexe": "M",
+          "age": 74,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BARREZ",
+          "prenom": "Aline",
+          "nom_complet": "Aline BARREZ",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "HORNOIS",
+          "prenom": "Robert",
+          "nom_complet": "Robert HORNOIS",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "HOCQ",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie HOCQ",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DEMANDRILLE",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick DEMANDRILLE",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "CARLIER",
+          "prenom": "Marie-Ange",
+          "nom_complet": "Marie-Ange CARLIER",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "POCHOLLE",
+          "prenom": "Quentin",
+          "nom_complet": "Quentin POCHOLLE",
+          "sexe": "M",
+          "age": 30,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "PICQUÉ",
+          "prenom": "Sylvia",
+          "nom_complet": "Sylvia PICQUÉ",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "LIÉTARD",
+          "prenom": "Bernard",
+          "nom_complet": "Bernard LIÉTARD",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "RAMELOT",
+          "prenom": "Evelyne",
+          "nom_complet": "Evelyne RAMELOT",
+          "sexe": "F",
+          "age": 75,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "LELONG",
+          "prenom": "Alain",
+          "nom_complet": "Alain LELONG",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "LEMÂTRE",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie LEMÂTRE",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "NYBELEN",
+          "prenom": "Mathieu",
+          "nom_complet": "Mathieu NYBELEN",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "MAROTTE",
+          "prenom": "Hélène",
+          "nom_complet": "Hélène MAROTTE",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "OBOEUF",
+          "prenom": "Guillaume",
+          "nom_complet": "Guillaume OBOEUF",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "LORION",
+          "prenom": "Catherine",
+          "nom_complet": "Catherine LORION",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "MAHIEU",
+          "prenom": "Arnaud",
+          "nom_complet": "Arnaud MAHIEU",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "MORIEUX",
+          "prenom": "Jessica",
+          "nom_complet": "Jessica MORIEUX",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "VERMELLE",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe VERMELLE",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "PARENT",
+          "prenom": "Brigitte",
+          "nom_complet": "Brigitte PARENT",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "GRAC",
+          "prenom": "Jean-Paul",
+          "nom_complet": "Jean-Paul GRAC",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "BÉRON",
+          "prenom": "Adeline",
+          "nom_complet": "Adeline BÉRON",
+          "sexe": "F",
+          "age": 33,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "LELEU",
+          "prenom": "Romuald",
+          "nom_complet": "Romuald LELEU",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "23"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "code_commune": "62663",
+  "commune": "Pommera",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "PLAQUET",
+    "prenom": "Frédéric",
+    "nom_complet": "Frédéric PLAQUET",
+    "age": 60,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 226,
+    "votants": 114,
+    "pct_votants": 50.44,
+    "abstentions": 112,
+    "pct_abstentions": 49.56,
+    "exprimes": 100
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "AGIR POUR L'INTERET COMMUNAL",
+      "libelle_abrege_liste": "AGIR POUR L'INTERET COMMUNAL",
+      "nuance_liste": null,
+      "voix": 100,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "PLAQUET",
+        "prenom": "Frédéric",
+        "nom_complet": "Frédéric PLAQUET",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "PLAQUET",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric PLAQUET",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DUFOUR",
+          "prenom": "Elisabeth",
+          "nom_complet": "Elisabeth DUFOUR",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "CARON",
+          "prenom": "Jean-Pierre",
+          "nom_complet": "Jean-Pierre CARON",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "MERCIER",
+          "prenom": "Virginie",
+          "nom_complet": "Virginie MERCIER",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "CARON",
+          "prenom": "Romain",
+          "nom_complet": "Romain CARON",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "BARNEOUD",
+          "prenom": "Laëtitia",
+          "nom_complet": "Laëtitia BARNEOUD",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BONNEL",
+          "prenom": "Benjamin",
+          "nom_complet": "Benjamin BONNEL",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "CAUUET",
+          "prenom": "Anne-Sophie",
+          "nom_complet": "Anne-Sophie CAUUET",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "CALLENS",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric CALLENS",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "SENECAUT",
+          "prenom": "Laura",
+          "nom_complet": "Laura SENECAUT",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "MANDEL",
+          "prenom": "Benoît",
+          "nom_complet": "Benoît MANDEL",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "code_commune": "59515",
+  "commune": "Rouvignies",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "RAOUT",
+    "prenom": "Michel",
+    "nom_complet": "Michel RAOUT",
+    "age": 68,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 517,
+    "votants": 251,
+    "pct_votants": 48.55,
+    "abstentions": 266,
+    "pct_abstentions": 51.45,
+    "exprimes": 230
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ENGAGÉS POUR ROUVIGNIES",
+      "libelle_abrege_liste": "ENGAGÉS POUR ROUVIGNIES",
+      "nuance_liste": null,
+      "voix": 230,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "RAOUT",
+        "prenom": "Michel",
+        "nom_complet": "Michel RAOUT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "RAOUT",
+          "prenom": "Michel",
+          "nom_complet": "Michel RAOUT",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BRICOUT",
+          "prenom": "Séverine",
+          "nom_complet": "Séverine BRICOUT",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DESFORGES",
+          "prenom": "Maurice",
+          "nom_complet": "Maurice DESFORGES",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "GUIDEZ",
+          "prenom": "Valerie",
+          "nom_complet": "Valerie GUIDEZ",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DEGLAVE",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe DEGLAVE",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "MILHOMME",
+          "prenom": "Céline",
+          "nom_complet": "Céline MILHOMME",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DOYEN",
+          "prenom": "Jean-Claude",
+          "nom_complet": "Jean-Claude DOYEN",
+          "sexe": "M",
+          "age": 80,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "BESSIRARD",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle BESSIRARD",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DERCHEZ",
+          "prenom": "Jack",
+          "nom_complet": "Jack DERCHEZ",
+          "sexe": "M",
+          "age": 78,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DEHONT",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie DEHONT",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "BAR",
+          "prenom": "Julien",
+          "nom_complet": "Julien BAR",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "DOYEN",
+          "prenom": "Lysiane",
+          "nom_complet": "Lysiane DOYEN",
+          "sexe": "F",
+          "age": 74,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "KARNOT",
+          "prenom": "Christopher",
+          "nom_complet": "Christopher KARNOT",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "BEUREY",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie BEUREY",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "SALVO",
+          "prenom": "Vito",
+          "nom_complet": "Vito SALVO",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

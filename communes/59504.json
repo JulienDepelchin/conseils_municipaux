@@ -1,0 +1,279 @@
+{
+  "code_commune": "59504",
+  "commune": "Roeulx",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "LEMOINE",
+    "prenom": "Charles",
+    "nom_complet": "Charles LEMOINE",
+    "age": 74,
+    "nuance": "LCOM"
+  },
+  "resultats": {
+    "inscrits": 2697,
+    "votants": 1798,
+    "pct_votants": 66.67,
+    "abstentions": 899,
+    "pct_abstentions": 33.33,
+    "exprimes": 1771
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "ROEULX, NOTRE PASSION COMMUNE",
+      "libelle_abrege_liste": "ROEULX, NOTRE PASSION COMMUNE",
+      "nuance_liste": "LCOM",
+      "voix": 1260,
+      "pct_voix_exprimes": 71.15,
+      "sieges_cm": 23,
+      "sieges_cc": 2,
+      "nb_elus": 23,
+      "tete_de_liste": {
+        "nom": "LEMOINE",
+        "prenom": "Charles",
+        "nom_complet": "Charles LEMOINE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LEMOINE",
+          "prenom": "Charles",
+          "nom_complet": "Charles LEMOINE",
+          "sexe": "M",
+          "age": 74,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DENIZON ZAWIEJA",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle DENIZON ZAWIEJA",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "STIEN",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick STIEN",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "GUISGAND",
+          "prenom": "Patricia",
+          "nom_complet": "Patricia GUISGAND",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "ANTIDORMI",
+          "prenom": "Antonio",
+          "nom_complet": "Antonio ANTIDORMI",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "FAZIO ROCCA",
+          "prenom": "Gaetane",
+          "nom_complet": "Gaetane FAZIO ROCCA",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "VERRIEZ",
+          "prenom": "Francis",
+          "nom_complet": "Francis VERRIEZ",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "ALLAMANDO",
+          "prenom": "Claudine",
+          "nom_complet": "Claudine ALLAMANDO",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "VANGHELLE",
+          "prenom": "Gerard",
+          "nom_complet": "Gerard VANGHELLE",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "VILAIN",
+          "prenom": "Myriam",
+          "nom_complet": "Myriam VILAIN",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DESSEINT",
+          "prenom": "Henri Paul",
+          "nom_complet": "Henri Paul DESSEINT",
+          "sexe": "M",
+          "age": 74,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "PLOUCHART",
+          "prenom": "Laetitia",
+          "nom_complet": "Laetitia PLOUCHART",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "LEFEBVRE",
+          "prenom": "Thierry",
+          "nom_complet": "Thierry LEFEBVRE",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "BLEUSEZ",
+          "prenom": "Veronique",
+          "nom_complet": "Veronique BLEUSEZ",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "LEGRAND",
+          "prenom": "Claude Herve",
+          "nom_complet": "Claude Herve LEGRAND",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "PETIT",
+          "prenom": "Martine",
+          "nom_complet": "Martine PETIT",
+          "sexe": "F",
+          "age": 70,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "LANCIAUX",
+          "prenom": "Alphonse",
+          "nom_complet": "Alphonse LANCIAUX",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "VANGHELLE",
+          "prenom": "Sandrine",
+          "nom_complet": "Sandrine VANGHELLE",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "LAKOMY",
+          "prenom": "Jerome",
+          "nom_complet": "Jerome LAKOMY",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "LACOUR",
+          "prenom": "Frederique",
+          "nom_complet": "Frederique LACOUR",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "LANCELLE",
+          "prenom": "Jerome",
+          "nom_complet": "Jerome LANCELLE",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "BAVAIS",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie BAVAIS",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "MASOCCO",
+          "prenom": "Loic",
+          "nom_complet": "Loic MASOCCO",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "23"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ROEULX NOUVEAU",
+      "libelle_abrege_liste": "ROEULX NOUVEAU",
+      "nuance_liste": "LRN",
+      "voix": 511,
+      "pct_voix_exprimes": 28.85,
+      "sieges_cm": 4,
+      "sieges_cc": 0,
+      "nb_elus": 4,
+      "tete_de_liste": {
+        "nom": "DEWALLE",
+        "prenom": "Rudy",
+        "nom_complet": "Rudy DEWALLE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DEWALLE",
+          "prenom": "Rudy",
+          "nom_complet": "Rudy DEWALLE",
+          "sexe": "M",
+          "age": 34,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BORICS",
+          "prenom": "Alexandra",
+          "nom_complet": "Alexandra BORICS",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "TURPIN",
+          "prenom": "Clément",
+          "nom_complet": "Clément TURPIN",
+          "sexe": "M",
+          "age": 24,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "PICHOT",
+          "prenom": "Élise",
+          "nom_complet": "Élise PICHOT",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "4"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

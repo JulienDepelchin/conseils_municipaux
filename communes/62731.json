@@ -1,0 +1,131 @@
+{
+  "code_commune": "62731",
+  "commune": "Ruyaulcourt",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "BEDU",
+    "prenom": "Daniel",
+    "nom_complet": "Daniel BEDU",
+    "age": 78,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 234,
+    "votants": 125,
+    "pct_votants": 53.42,
+    "abstentions": 109,
+    "pct_abstentions": 46.58,
+    "exprimes": 98
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Liste de défense des intérêts communaux",
+      "libelle_abrege_liste": "Liste de défense des intérêts communaux",
+      "nuance_liste": null,
+      "voix": 98,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "BEDU",
+        "prenom": "Daniel",
+        "nom_complet": "Daniel BEDU",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BEDU",
+          "prenom": "Daniel",
+          "nom_complet": "Daniel BEDU",
+          "sexe": "M",
+          "age": 78,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DALOIN",
+          "prenom": "Marcelle",
+          "nom_complet": "Marcelle DALOIN",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "PRUVOST",
+          "prenom": "Jean-Marie",
+          "nom_complet": "Jean-Marie PRUVOST",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "VILLION",
+          "prenom": "Alexandra",
+          "nom_complet": "Alexandra VILLION",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LEMAIRE",
+          "prenom": "Robert",
+          "nom_complet": "Robert LEMAIRE",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "CARRÉ",
+          "prenom": "Delphine",
+          "nom_complet": "Delphine CARRÉ",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BEDU",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe BEDU",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "CARON",
+          "prenom": "Céline",
+          "nom_complet": "Céline CARON",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "MIGEON",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric MIGEON",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "VERMEULEN",
+          "prenom": "Angélique",
+          "nom_complet": "Angélique VERMEULEN",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "CAHIER",
+          "prenom": "Cédric",
+          "nom_complet": "Cédric CAHIER",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

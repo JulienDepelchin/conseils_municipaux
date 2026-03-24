@@ -1,0 +1,163 @@
+{
+  "code_commune": "59427",
+  "commune": "La Neuville",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "DEPOORTERE",
+    "prenom": "Thierry",
+    "nom_complet": "Thierry DEPOORTERE",
+    "age": 66,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 537,
+    "votants": 284,
+    "pct_votants": 52.89,
+    "abstentions": 253,
+    "pct_abstentions": 47.11,
+    "exprimes": 264
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "LA NEUVILLE, PASSION COMMUNE",
+      "libelle_abrege_liste": "LA NEUVILLE, PASSION COMMUNE",
+      "nuance_liste": null,
+      "voix": 264,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "DEPOORTERE",
+        "prenom": "Thierry",
+        "nom_complet": "Thierry DEPOORTERE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DEPOORTERE",
+          "prenom": "Thierry",
+          "nom_complet": "Thierry DEPOORTERE",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "CAMBIER",
+          "prenom": "Danièle",
+          "nom_complet": "Danièle CAMBIER",
+          "sexe": "F",
+          "age": 72,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DHALLUIN",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique DHALLUIN",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "VANLAER",
+          "prenom": "Valerie",
+          "nom_complet": "Valerie VANLAER",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LESOIN",
+          "prenom": "Ludwig",
+          "nom_complet": "Ludwig LESOIN",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LACANTE",
+          "prenom": "Nicole",
+          "nom_complet": "Nicole LACANTE",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BOIRON",
+          "prenom": "Didier",
+          "nom_complet": "Didier BOIRON",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "AGUZZI",
+          "prenom": "Céline",
+          "nom_complet": "Céline AGUZZI",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "LESOIN",
+          "prenom": "Didier",
+          "nom_complet": "Didier LESOIN",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DELAUTRE",
+          "prenom": "Anne",
+          "nom_complet": "Anne DELAUTRE",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "CRAPART",
+          "prenom": "Guewen",
+          "nom_complet": "Guewen CRAPART",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "BERNARD",
+          "prenom": "Aurélie",
+          "nom_complet": "Aurélie BERNARD",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "PANIEN",
+          "prenom": "Thomas",
+          "nom_complet": "Thomas PANIEN",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "SELLIER",
+          "prenom": "Olivia",
+          "nom_complet": "Olivia SELLIER",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "AMEYE",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas AMEYE",
+          "sexe": "M",
+          "age": 28,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

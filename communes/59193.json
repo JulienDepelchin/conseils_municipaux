@@ -1,0 +1,247 @@
+{
+  "code_commune": "59193",
+  "commune": "Emmerin",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "MARTELLIER",
+    "prenom": "Joachim",
+    "nom_complet": "Joachim MARTELLIER",
+    "age": 51,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 2538,
+    "votants": 1618,
+    "pct_votants": 63.75,
+    "abstentions": 920,
+    "pct_abstentions": 36.25,
+    "exprimes": 1564
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "EMMERIN CONSTRUISONS L'AVENIR",
+      "libelle_abrege_liste": "EMMERIN CONSTRUISONS L'AVENIR",
+      "nuance_liste": null,
+      "voix": 1055,
+      "pct_voix_exprimes": 67.46,
+      "sieges_cm": 20,
+      "sieges_cc": 1,
+      "nb_elus": 20,
+      "tete_de_liste": {
+        "nom": "MARTELLIER",
+        "prenom": "Joachim",
+        "nom_complet": "Joachim MARTELLIER",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "MARTELLIER",
+          "prenom": "Joachim",
+          "nom_complet": "Joachim MARTELLIER",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "VERHOYE",
+          "prenom": "Géraldine",
+          "nom_complet": "Géraldine VERHOYE",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LEROUX",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe LEROUX",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DESWARTE",
+          "prenom": "Aurélie",
+          "nom_complet": "Aurélie DESWARTE",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "HERITIER",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe HERITIER",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DUPELICZ",
+          "prenom": "Chloé",
+          "nom_complet": "Chloé DUPELICZ",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "PREVOST",
+          "prenom": "Sébastien",
+          "nom_complet": "Sébastien PREVOST",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "ORHAND",
+          "prenom": "Laura",
+          "nom_complet": "Laura ORHAND",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "BERTELOOT",
+          "prenom": "Gauthier",
+          "nom_complet": "Gauthier BERTELOOT",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "VANDEKERKHOVE",
+          "prenom": "Valérie",
+          "nom_complet": "Valérie VANDEKERKHOVE",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "VERHOYE",
+          "prenom": "Mathieu",
+          "nom_complet": "Mathieu VERHOYE",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "DELBARRE",
+          "prenom": "Carole",
+          "nom_complet": "Carole DELBARRE",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "CAMBIER",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique CAMBIER",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "MARTELLIER",
+          "prenom": "Fabienne",
+          "nom_complet": "Fabienne MARTELLIER",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "KUPCZYK",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique KUPCZYK",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "LEPLA",
+          "prenom": "Pauline",
+          "nom_complet": "Pauline LEPLA",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "JOLY",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe JOLY",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "CHEVAL",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie CHEVAL",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "BANCKAERT",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe BANCKAERT",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "CHAPON",
+          "prenom": "Sabrina",
+          "nom_complet": "Sabrina CHAPON",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "20"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "EMMERIN TOUS ENSEMBLE",
+      "libelle_abrege_liste": "EMMERIN TOUS ENSEMBLE",
+      "nuance_liste": null,
+      "voix": 509,
+      "pct_voix_exprimes": 32.54,
+      "sieges_cm": 3,
+      "sieges_cc": 0,
+      "nb_elus": 3,
+      "tete_de_liste": {
+        "nom": "FATIBENE",
+        "prenom": "Adrien",
+        "nom_complet": "Adrien FATIBENE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "FATIBENE",
+          "prenom": "Adrien",
+          "nom_complet": "Adrien FATIBENE",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "INNEBEER",
+          "prenom": "Laïla",
+          "nom_complet": "Laïla INNEBEER",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DESPREZ",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe DESPREZ",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "3"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

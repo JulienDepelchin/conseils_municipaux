@@ -1,0 +1,315 @@
+{
+  "code_commune": "59400",
+  "commune": "Merville",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "LORPHELIN",
+    "prenom": "Martine",
+    "nom_complet": "Martine LORPHELIN",
+    "age": 64,
+    "nuance": "LDVC"
+  },
+  "resultats": {
+    "inscrits": 7513,
+    "votants": 4426,
+    "pct_votants": 58.91,
+    "abstentions": 3087,
+    "pct_abstentions": 41.09,
+    "exprimes": 4272
+  },
+  "listes": [
+    {
+      "num_panneau": "3",
+      "libelle_liste": "Merville en grand",
+      "libelle_abrege_liste": "meg",
+      "nuance_liste": "LDVC",
+      "voix": 2607,
+      "pct_voix_exprimes": 61.03,
+      "sieges_cm": 24,
+      "sieges_cc": 9,
+      "nb_elus": 24,
+      "tete_de_liste": {
+        "nom": "LORPHELIN",
+        "prenom": "Martine",
+        "nom_complet": "Martine LORPHELIN",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "LORPHELIN",
+          "prenom": "Martine",
+          "nom_complet": "Martine LORPHELIN",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "TIMLELT",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric TIMLELT",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "FRANÇOIS",
+          "prenom": "Claire",
+          "nom_complet": "Claire FRANÇOIS",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "CAPPON",
+          "prenom": "Marcel",
+          "nom_complet": "Marcel CAPPON",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DAVID",
+          "prenom": "Antoneta",
+          "nom_complet": "Antoneta DAVID",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "KUJAWA",
+          "prenom": "Phlippe",
+          "nom_complet": "Phlippe KUJAWA",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "PETITPRET-FLAJOLLET",
+          "prenom": "Sabine",
+          "nom_complet": "Sabine PETITPRET-FLAJOLLET",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "MABRIEZ",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe MABRIEZ",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "VANDENKERKHOVE",
+          "prenom": "Hélène",
+          "nom_complet": "Hélène VANDENKERKHOVE",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "VERMEESCH",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier VERMEESCH",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "PUCHOIS-SCHREVEL",
+          "prenom": "Claudine",
+          "nom_complet": "Claudine PUCHOIS-SCHREVEL",
+          "sexe": "F",
+          "age": 70,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "LORIDAN",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno LORIDAN",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "MURA-PETITPREZ",
+          "prenom": "Annick",
+          "nom_complet": "Annick MURA-PETITPREZ",
+          "sexe": "F",
+          "age": 70,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "POTIER",
+          "prenom": "Alexandre",
+          "nom_complet": "Alexandre POTIER",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "ALVES",
+          "prenom": "Annie",
+          "nom_complet": "Annie ALVES",
+          "sexe": "F",
+          "age": 71,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "DEGELCKE",
+          "prenom": "Ludovic",
+          "nom_complet": "Ludovic DEGELCKE",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "BRONGNIART",
+          "prenom": "Karine",
+          "nom_complet": "Karine BRONGNIART",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "BRUNEL",
+          "prenom": "Jérôme",
+          "nom_complet": "Jérôme BRUNEL",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "NIEUWJAER-RYCKEBOSCH",
+          "prenom": "Dorothée",
+          "nom_complet": "Dorothée NIEUWJAER-RYCKEBOSCH",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "DUPOND",
+          "prenom": "François",
+          "nom_complet": "François DUPOND",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "PRUVOST",
+          "prenom": "Cécile",
+          "nom_complet": "Cécile PRUVOST",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "QUENEUTTE",
+          "prenom": "Théo",
+          "nom_complet": "Théo QUENEUTTE",
+          "sexe": "M",
+          "age": 27,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "HEBEQUET",
+          "prenom": "Lucie",
+          "nom_complet": "Lucie HEBEQUET",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "23"
+        },
+        {
+          "nom": "HENRY",
+          "prenom": "Mickaël",
+          "nom_complet": "Mickaël HENRY",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "24"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "Liste d'Action démocratique et Sociale",
+      "libelle_abrege_liste": "LADS",
+      "nuance_liste": "LDVD",
+      "voix": 1072,
+      "pct_voix_exprimes": 25.09,
+      "sieges_cm": 3,
+      "sieges_cc": 1,
+      "nb_elus": 3,
+      "tete_de_liste": {
+        "nom": "DUYCK",
+        "prenom": "Joel",
+        "nom_complet": "Joel DUYCK",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DUYCK",
+          "prenom": "Joel",
+          "nom_complet": "Joel DUYCK",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "PLE",
+          "prenom": "Sandra",
+          "nom_complet": "Sandra PLE",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "MORVAN",
+          "prenom": "Herve",
+          "nom_complet": "Herve MORVAN",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "3"
+        }
+      ],
+      "statut_conseil": "autre"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Nouvel Elan",
+      "libelle_abrege_liste": "NE",
+      "nuance_liste": "LDVG",
+      "voix": 593,
+      "pct_voix_exprimes": 13.88,
+      "sieges_cm": 2,
+      "sieges_cc": 0,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "NUGOU",
+        "prenom": "Boris",
+        "nom_complet": "Boris NUGOU",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "NUGOU",
+          "prenom": "Boris",
+          "nom_complet": "Boris NUGOU",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "FLAMENT",
+          "prenom": "Laëtitia",
+          "nom_complet": "Laëtitia FLAMENT",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

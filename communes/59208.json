@@ -1,0 +1,131 @@
+{
+  "code_commune": "59208",
+  "commune": "Escobecques",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "CAMBIEN",
+    "prenom": "Alain",
+    "nom_complet": "Alain CAMBIEN",
+    "age": 77,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 243,
+    "votants": 152,
+    "pct_votants": 62.55,
+    "abstentions": 91,
+    "pct_abstentions": 37.45,
+    "exprimes": 146
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ESCOBECQUES, NOTRE PASSION COMMUNE",
+      "libelle_abrege_liste": "ESCOBECQUES, NOTRE PASSION COMMUNE",
+      "nuance_liste": null,
+      "voix": 146,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "CAMBIEN",
+        "prenom": "Alain",
+        "nom_complet": "Alain CAMBIEN",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "CAMBIEN",
+          "prenom": "Alain",
+          "nom_complet": "Alain CAMBIEN",
+          "sexe": "M",
+          "age": 77,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "CLOETENS-BOYACI",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie CLOETENS-BOYACI",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "CANDEILLE",
+          "prenom": "Thierry",
+          "nom_complet": "Thierry CANDEILLE",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "CRINQUETTE",
+          "prenom": "Véronique",
+          "nom_complet": "Véronique CRINQUETTE",
+          "sexe": "F",
+          "age": 73,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DESWARTE",
+          "prenom": "Jérémy",
+          "nom_complet": "Jérémy DESWARTE",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DELEBARRE",
+          "prenom": "Christine",
+          "nom_complet": "Christine DELEBARRE",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DE SAINTIGNON",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas DE SAINTIGNON",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "FLAHAUT",
+          "prenom": "Celine",
+          "nom_complet": "Celine FLAHAUT",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DUBOIS",
+          "prenom": "Romain",
+          "nom_complet": "Romain DUBOIS",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "MOREL",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle MOREL",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "LELUBRE",
+          "prenom": "Christian",
+          "nom_complet": "Christian LELUBRE",
+          "sexe": "M",
+          "age": 75,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

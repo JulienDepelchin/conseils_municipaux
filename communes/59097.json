@@ -1,0 +1,131 @@
+{
+  "code_commune": "59097",
+  "commune": "Boursies",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "RAHEM",
+    "prenom": "Slimane",
+    "nom_complet": "Slimane RAHEM",
+    "age": 69,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 277,
+    "votants": 180,
+    "pct_votants": 64.98,
+    "abstentions": 97,
+    "pct_abstentions": 35.02,
+    "exprimes": 158
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Continuons Ensemble pour l'Avenir",
+      "libelle_abrege_liste": "CONTINUONS ENSEMBLE POUR L'AVENIR",
+      "nuance_liste": null,
+      "voix": 158,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "RAHEM",
+        "prenom": "Slimane",
+        "nom_complet": "Slimane RAHEM",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "RAHEM",
+          "prenom": "Slimane",
+          "nom_complet": "Slimane RAHEM",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "GORGUET",
+          "prenom": "Lucie",
+          "nom_complet": "Lucie GORGUET",
+          "sexe": "F",
+          "age": 18,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "RONDEAU",
+          "prenom": "Louis",
+          "nom_complet": "Louis RONDEAU",
+          "sexe": "M",
+          "age": 81,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DELSART",
+          "prenom": "Virginie",
+          "nom_complet": "Virginie DELSART",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DAUCHEZ",
+          "prenom": "Louis",
+          "nom_complet": "Louis DAUCHEZ",
+          "sexe": "M",
+          "age": 31,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "MONTEL SAINT-PAUL",
+          "prenom": "Anne",
+          "nom_complet": "Anne MONTEL SAINT-PAUL",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "TEMPLE",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno TEMPLE",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "VAQUIÉ",
+          "prenom": "Adeline",
+          "nom_complet": "Adeline VAQUIÉ",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DEVAUX",
+          "prenom": "Guillaume",
+          "nom_complet": "Guillaume DEVAUX",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DELEPIERRE",
+          "prenom": "Christelle",
+          "nom_complet": "Christelle DELEPIERRE",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "HOMMER",
+          "prenom": "Érick",
+          "nom_complet": "Érick HOMMER",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

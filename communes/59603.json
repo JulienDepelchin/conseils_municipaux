@@ -1,0 +1,315 @@
+{
+  "code_commune": "59603",
+  "commune": "Trith-Saint-Léger",
+  "departement": "Nord",
+  "tour": "T2",
+  "maire": {
+    "nom": "SAVARY",
+    "prenom": "Dominique",
+    "nom_complet": "Dominique SAVARY",
+    "age": 60,
+    "nuance": "LCOM"
+  },
+  "resultats": {
+    "inscrits": 5044,
+    "votants": 2778,
+    "pct_votants": 55.08,
+    "abstentions": 2266,
+    "pct_abstentions": 44.92,
+    "exprimes": 2758
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "TRITH SAINT LEGER AU COEUR",
+      "libelle_abrege_liste": "TRITH SAINT LEGER AU COEUR",
+      "nuance_liste": "LCOM",
+      "voix": 1316,
+      "pct_voix_exprimes": 47.72,
+      "sieges_cm": 22,
+      "sieges_cc": 2,
+      "nb_elus": 22,
+      "tete_de_liste": {
+        "nom": "SAVARY",
+        "prenom": "Dominique",
+        "nom_complet": "Dominique SAVARY",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "SAVARY",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique SAVARY",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "CUNIN-DUPONT",
+          "prenom": "Françoise",
+          "nom_complet": "Françoise CUNIN-DUPONT",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DRUBAY",
+          "prenom": "Thibault",
+          "nom_complet": "Thibault DRUBAY",
+          "sexe": "M",
+          "age": 29,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "FONTAINE",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie FONTAINE",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "POTEAU",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe POTEAU",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "GUMEZ",
+          "prenom": "Sandrine",
+          "nom_complet": "Sandrine GUMEZ",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "CACHOIR",
+          "prenom": "Christopher",
+          "nom_complet": "Christopher CACHOIR",
+          "sexe": "M",
+          "age": 30,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "YAHIAOUI",
+          "prenom": "Malika",
+          "nom_complet": "Malika YAHIAOUI",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "PILI",
+          "prenom": "Anthony",
+          "nom_complet": "Anthony PILI",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "ALAUZE-GRAS",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie ALAUZE-GRAS",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "TONNEAU",
+          "prenom": "Yves",
+          "nom_complet": "Yves TONNEAU",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "WAGRET",
+          "prenom": "Coraline",
+          "nom_complet": "Coraline WAGRET",
+          "sexe": "F",
+          "age": 33,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "CRISPATZU",
+          "prenom": "Diego",
+          "nom_complet": "Diego CRISPATZU",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "SMAGUE",
+          "prenom": "Mélanie",
+          "nom_complet": "Mélanie SMAGUE",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "GABET",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal GABET",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "ELIE",
+          "prenom": "Delphine",
+          "nom_complet": "Delphine ELIE",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "GUERDIN",
+          "prenom": "Eric",
+          "nom_complet": "Eric GUERDIN",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "SMET",
+          "prenom": "Sophie",
+          "nom_complet": "Sophie SMET",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "DELFOLIE",
+          "prenom": "Fabrice",
+          "nom_complet": "Fabrice DELFOLIE",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "MELNIQUE",
+          "prenom": "Aurore",
+          "nom_complet": "Aurore MELNIQUE",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "LUPO",
+          "prenom": "Thomas",
+          "nom_complet": "Thomas LUPO",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "LECAT",
+          "prenom": "Sandrine",
+          "nom_complet": "Sandrine LECAT",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "22"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ENSEMBLE TSL",
+      "libelle_abrege_liste": "ENSEMBLE TSL",
+      "nuance_liste": "LDVG",
+      "voix": 1062,
+      "pct_voix_exprimes": 38.51,
+      "sieges_cm": 5,
+      "sieges_cc": 1,
+      "nb_elus": 5,
+      "tete_de_liste": {
+        "nom": "VANHERSECKER",
+        "prenom": "Christophe",
+        "nom_complet": "Christophe VANHERSECKER",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "VANHERSECKER",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe VANHERSECKER",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "SZABADI",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie SZABADI",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "HAMANA",
+          "prenom": "Thomas",
+          "nom_complet": "Thomas HAMANA",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "PAVONE",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie PAVONE",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "GUIDEZ",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas GUIDEZ",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "5"
+        }
+      ],
+      "statut_conseil": "autre"
+    },
+    {
+      "num_panneau": "3",
+      "libelle_liste": "TRITH : ENFIN LE CHANGEMENT !",
+      "libelle_abrege_liste": "TRITH : ENFIN LE CHANGEMENT !",
+      "nuance_liste": "LRN",
+      "voix": 380,
+      "pct_voix_exprimes": 13.78,
+      "sieges_cm": 2,
+      "sieges_cc": 0,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "DUFORT",
+        "prenom": "Mickaël",
+        "nom_complet": "Mickaël DUFORT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DUFORT",
+          "prenom": "Mickaël",
+          "nom_complet": "Mickaël DUFORT",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DUFOUR",
+          "prenom": "Patricia",
+          "nom_complet": "Patricia DUFOUR",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

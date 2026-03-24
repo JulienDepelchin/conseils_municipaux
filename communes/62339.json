@@ -1,0 +1,131 @@
+{
+  "code_commune": "62339",
+  "commune": "Fleury",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "VOISEUX",
+    "prenom": "Jean-Noël",
+    "nom_complet": "Jean-Noël VOISEUX",
+    "age": 58,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 87,
+    "votants": 58,
+    "pct_votants": 66.67,
+    "abstentions": 29,
+    "pct_abstentions": 33.33,
+    "exprimes": 54
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Liste menée par VOISEUX Jean-Noël",
+      "libelle_abrege_liste": "Liste menée par VOISEUX Jean-Noël",
+      "nuance_liste": null,
+      "voix": 54,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "VOISEUX",
+        "prenom": "Jean-Noël",
+        "nom_complet": "Jean-Noël VOISEUX",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "VOISEUX",
+          "prenom": "Jean-Noël",
+          "nom_complet": "Jean-Noël VOISEUX",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "GLORIAN",
+          "prenom": "Barbara",
+          "nom_complet": "Barbara GLORIAN",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "PROYART",
+          "prenom": "Miguel",
+          "nom_complet": "Miguel PROYART",
+          "sexe": "M",
+          "age": 33,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "PRUVOST",
+          "prenom": "Béatrice",
+          "nom_complet": "Béatrice PRUVOST",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "BRUNEL",
+          "prenom": "Renaud",
+          "nom_complet": "Renaud BRUNEL",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DALONGEVILLE",
+          "prenom": "Thérèse",
+          "nom_complet": "Thérèse DALONGEVILLE",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "GUILLE",
+          "prenom": "Fabien",
+          "nom_complet": "Fabien GUILLE",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DEMOLIN",
+          "prenom": "Aurélia",
+          "nom_complet": "Aurélia DEMOLIN",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "PRUVOST",
+          "prenom": "Christian",
+          "nom_complet": "Christian PRUVOST",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "HUYGHE",
+          "prenom": "Anaïs",
+          "nom_complet": "Anaïs HUYGHE",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DELANNOY",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe DELANNOY",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

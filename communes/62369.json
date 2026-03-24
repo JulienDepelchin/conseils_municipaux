@@ -1,0 +1,163 @@
+{
+  "code_commune": "62369",
+  "commune": "Gavrelle",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "FREMY",
+    "prenom": "Elodie",
+    "nom_complet": "Elodie FREMY",
+    "age": 45,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 572,
+    "votants": 296,
+    "pct_votants": 51.75,
+    "abstentions": 276,
+    "pct_abstentions": 48.25,
+    "exprimes": 262
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "\"PRESERVER NOS RACINES, CULTIVONS NOTRE AVENIR ! \"",
+      "libelle_abrege_liste": "\"PRESERVER NOS RACINES, CULTIVONS NOTRE AVENIR ! \"",
+      "nuance_liste": null,
+      "voix": 262,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "FREMY",
+        "prenom": "Elodie",
+        "nom_complet": "Elodie FREMY",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "FREMY",
+          "prenom": "Elodie",
+          "nom_complet": "Elodie FREMY",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "CAYET",
+          "prenom": "Samuel",
+          "nom_complet": "Samuel CAYET",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DELMOTTE",
+          "prenom": "Aurélie",
+          "nom_complet": "Aurélie DELMOTTE",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "CHARLET",
+          "prenom": "Jean-Pierre",
+          "nom_complet": "Jean-Pierre CHARLET",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "FICHELLE",
+          "prenom": "Amandine",
+          "nom_complet": "Amandine FICHELLE",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DAMOISY",
+          "prenom": "Denis",
+          "nom_complet": "Denis DAMOISY",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "HANNEBIQUE",
+          "prenom": "Caroline",
+          "nom_complet": "Caroline HANNEBIQUE",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "HEQUET",
+          "prenom": "Hervé",
+          "nom_complet": "Hervé HEQUET",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "HAVET",
+          "prenom": "Catherine",
+          "nom_complet": "Catherine HAVET",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "HERMANT",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal HERMANT",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "HERMANT",
+          "prenom": "Cécile",
+          "nom_complet": "Cécile HERMANT",
+          "sexe": "F",
+          "age": 33,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "PLAITIN",
+          "prenom": "Alain",
+          "nom_complet": "Alain PLAITIN",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "LEPERS",
+          "prenom": "Clarisse",
+          "nom_complet": "Clarisse LEPERS",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "ROUSSEAU",
+          "prenom": "Gilles",
+          "nom_complet": "Gilles ROUSSEAU",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "SENECHAL",
+          "prenom": "Sandra",
+          "nom_complet": "Sandra SENECHAL",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

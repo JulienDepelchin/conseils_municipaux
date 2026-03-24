@@ -1,0 +1,131 @@
+{
+  "code_commune": "62135",
+  "commune": "Blairville",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "COPPIN",
+    "prenom": "Dominique",
+    "nom_complet": "Dominique COPPIN",
+    "age": 70,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 245,
+    "votants": 142,
+    "pct_votants": 57.96,
+    "abstentions": 103,
+    "pct_abstentions": 42.04,
+    "exprimes": 125
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ENSEMBLE POUR BLAIRVILLE",
+      "libelle_abrege_liste": "ENSEMBLE POUR BLAIRVILLE",
+      "nuance_liste": null,
+      "voix": 125,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "COPPIN",
+        "prenom": "Dominique",
+        "nom_complet": "Dominique COPPIN",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "COPPIN",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique COPPIN",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "ITSWEIRE",
+          "prenom": "Caroline",
+          "nom_complet": "Caroline ITSWEIRE",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "SAUVAGE",
+          "prenom": "Jean-Michel",
+          "nom_complet": "Jean-Michel SAUVAGE",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BORG",
+          "prenom": "Céline",
+          "nom_complet": "Céline BORG",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DUMONT",
+          "prenom": "Gilles",
+          "nom_complet": "Gilles DUMONT",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "VANPOPERINGHE",
+          "prenom": "Betty",
+          "nom_complet": "Betty VANPOPERINGHE",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "CONDÉ",
+          "prenom": "Jean-Pierre",
+          "nom_complet": "Jean-Pierre CONDÉ",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LEBLOND",
+          "prenom": "Delphine",
+          "nom_complet": "Delphine LEBLOND",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "KELLER",
+          "prenom": "Paul-Andre",
+          "nom_complet": "Paul-Andre KELLER",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "GUERARDEL",
+          "prenom": "Corinne",
+          "nom_complet": "Corinne GUERARDEL",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "CAUWET",
+          "prenom": "Bernard",
+          "nom_complet": "Bernard CAUWET",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

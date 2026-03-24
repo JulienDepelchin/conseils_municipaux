@@ -1,0 +1,163 @@
+{
+  "code_commune": "62105",
+  "commune": "Belle-et-Houllefort",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "GOUDAL",
+    "prenom": "Monique",
+    "nom_complet": "Monique GOUDAL",
+    "age": 66,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 431,
+    "votants": 263,
+    "pct_votants": 61.02,
+    "abstentions": 168,
+    "pct_abstentions": 38.98,
+    "exprimes": 240
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "BELLE-ET-HOULLEFORT, NOTRE PRIORITE COMMUNE",
+      "libelle_abrege_liste": "BELLE-ET-HOULLEFORT, NOTRE PRIORITE COMMUNE",
+      "nuance_liste": null,
+      "voix": 240,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "GOUDAL",
+        "prenom": "Monique",
+        "nom_complet": "Monique GOUDAL",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "GOUDAL",
+          "prenom": "Monique",
+          "nom_complet": "Monique GOUDAL",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "PATTYN",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric PATTYN",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "VASSEUR",
+          "prenom": "Florence",
+          "nom_complet": "Florence VASSEUR",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BOCQUET",
+          "prenom": "Steeve",
+          "nom_complet": "Steeve BOCQUET",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "FRAMBERY",
+          "prenom": "Catherine",
+          "nom_complet": "Catherine FRAMBERY",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "MERY DE MONTIGNY",
+          "prenom": "Marc",
+          "nom_complet": "Marc MERY DE MONTIGNY",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "AMICO",
+          "prenom": "Laura",
+          "nom_complet": "Laura AMICO",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LABRADOR",
+          "prenom": "César",
+          "nom_complet": "César LABRADOR",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "BATAILLE",
+          "prenom": "Maud",
+          "nom_complet": "Maud BATAILLE",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "JANSZEN",
+          "prenom": "Tony",
+          "nom_complet": "Tony JANSZEN",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "MANIDREN",
+          "prenom": "Marianne",
+          "nom_complet": "Marianne MANIDREN",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "LAVIGOGNE",
+          "prenom": "Tony",
+          "nom_complet": "Tony LAVIGOGNE",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "VANDENBERGUE",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie VANDENBERGUE",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "PREVOT",
+          "prenom": "Valentin",
+          "nom_complet": "Valentin PREVOT",
+          "sexe": "M",
+          "age": 29,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "VASSEUR",
+          "prenom": "Christine",
+          "nom_complet": "Christine VASSEUR",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

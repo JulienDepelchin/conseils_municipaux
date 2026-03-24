@@ -1,0 +1,163 @@
+{
+  "code_commune": "62011",
+  "commune": "Agnez-lès-Duisans",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "ROBLOT",
+    "prenom": "Patrick",
+    "nom_complet": "Patrick ROBLOT",
+    "age": 68,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 552,
+    "votants": 361,
+    "pct_votants": 65.4,
+    "abstentions": 191,
+    "pct_abstentions": 34.6,
+    "exprimes": 306
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "\"ENSEMBLE POUR L'AVENIR D'AGNEZ\"",
+      "libelle_abrege_liste": "\"ENSEMBLE POUR L'AVENIR D'AGNEZ\"",
+      "nuance_liste": null,
+      "voix": 306,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "ROBLOT",
+        "prenom": "Patrick",
+        "nom_complet": "Patrick ROBLOT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "ROBLOT",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick ROBLOT",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DAMBRINE",
+          "prenom": "Marine",
+          "nom_complet": "Marine DAMBRINE",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BOURDREL",
+          "prenom": "Marc",
+          "nom_complet": "Marc BOURDREL",
+          "sexe": "M",
+          "age": 79,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "ROLIN",
+          "prenom": "Marianne",
+          "nom_complet": "Marianne ROLIN",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LESENNE",
+          "prenom": "Marc",
+          "nom_complet": "Marc LESENNE",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "PUGGIONI",
+          "prenom": "Aurélie",
+          "nom_complet": "Aurélie PUGGIONI",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DAMBRINE",
+          "prenom": "Jean-Michel",
+          "nom_complet": "Jean-Michel DAMBRINE",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "BOCHU",
+          "prenom": "Marie-Line",
+          "nom_complet": "Marie-Line BOCHU",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "MERLIER",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier MERLIER",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "COIN",
+          "prenom": "Anne-Marie",
+          "nom_complet": "Anne-Marie COIN",
+          "sexe": "F",
+          "age": 71,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DECHERF",
+          "prenom": "Bertrand",
+          "nom_complet": "Bertrand DECHERF",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "MARCOTTE",
+          "prenom": "Céline",
+          "nom_complet": "Céline MARCOTTE",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "DUFOUR",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe DUFOUR",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "WILS",
+          "prenom": "Valérie",
+          "nom_complet": "Valérie WILS",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "TERNINCK",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent TERNINCK",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "code_commune": "62544",
+  "commune": "Manin",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "LABENNE",
+    "prenom": "Philippe",
+    "nom_complet": "Philippe LABENNE",
+    "age": 64,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 144,
+    "votants": 84,
+    "pct_votants": 58.33,
+    "abstentions": 60,
+    "pct_abstentions": 41.67,
+    "exprimes": 50
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ENSEMBLE POUR MANIN",
+      "libelle_abrege_liste": "ENSEMBLE POUR MANIN",
+      "nuance_liste": null,
+      "voix": 50,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 9,
+      "sieges_cc": null,
+      "nb_elus": 9,
+      "tete_de_liste": {
+        "nom": "LABENNE",
+        "prenom": "Philippe",
+        "nom_complet": "Philippe LABENNE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LABENNE",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe LABENNE",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "HAVET",
+          "prenom": "Olivia",
+          "nom_complet": "Olivia HAVET",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BRANLY",
+          "prenom": "Alexandre",
+          "nom_complet": "Alexandre BRANLY",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "ROTGER",
+          "prenom": "Pascaline",
+          "nom_complet": "Pascaline ROTGER",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "HACHIN",
+          "prenom": "François",
+          "nom_complet": "François HACHIN",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "AUBRY",
+          "prenom": "Amelie",
+          "nom_complet": "Amelie AUBRY",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "TRINEL",
+          "prenom": "Guillaume",
+          "nom_complet": "Guillaume TRINEL",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "CAUVIN",
+          "prenom": "Antoinette",
+          "nom_complet": "Antoinette CAUVIN",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "VEREECKE",
+          "prenom": "David",
+          "nom_complet": "David VEREECKE",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "9"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

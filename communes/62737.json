@@ -1,0 +1,295 @@
+{
+  "code_commune": "62737",
+  "commune": "Sains-en-Gohelle",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "DUBREUCQ",
+    "prenom": "Alain",
+    "nom_complet": "Alain DUBREUCQ",
+    "age": 74,
+    "nuance": "LDVG"
+  },
+  "resultats": {
+    "inscrits": 4711,
+    "votants": 2534,
+    "pct_votants": 53.79,
+    "abstentions": 2177,
+    "pct_abstentions": 46.21,
+    "exprimes": 2423
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "Agir ensemble au quotidien pour demain",
+      "libelle_abrege_liste": "Agir ensemble au quotidien pour demain",
+      "nuance_liste": "LDVG",
+      "voix": 1623,
+      "pct_voix_exprimes": 66.98,
+      "sieges_cm": 25,
+      "sieges_cc": 2,
+      "nb_elus": 25,
+      "tete_de_liste": {
+        "nom": "DUBREUCQ",
+        "prenom": "Alain",
+        "nom_complet": "Alain DUBREUCQ",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DUBREUCQ",
+          "prenom": "Alain",
+          "nom_complet": "Alain DUBREUCQ",
+          "sexe": "M",
+          "age": 74,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "AVIEZ",
+          "prenom": "Cathy",
+          "nom_complet": "Cathy AVIEZ",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "HAPPIETTE",
+          "prenom": "Jean",
+          "nom_complet": "Jean HAPPIETTE",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "HAUSPIEZ-CHEVRY",
+          "prenom": "Martine",
+          "nom_complet": "Martine HAUSPIEZ-CHEVRY",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "RABEHI",
+          "prenom": "Dimitri",
+          "nom_complet": "Dimitri RABEHI",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "CARLUS",
+          "prenom": "Annie",
+          "nom_complet": "Annie CARLUS",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "ALEXANDRE",
+          "prenom": "Thomas",
+          "nom_complet": "Thomas ALEXANDRE",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "CHARBIT",
+          "prenom": "Ludivine",
+          "nom_complet": "Ludivine CHARBIT",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "FOMBELLE",
+          "prenom": "Rémi",
+          "nom_complet": "Rémi FOMBELLE",
+          "sexe": "M",
+          "age": 34,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "TRANAIN-CAVIGNAUX",
+          "prenom": "Dorise",
+          "nom_complet": "Dorise TRANAIN-CAVIGNAUX",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "MARQUETTE",
+          "prenom": "Marcel",
+          "nom_complet": "Marcel MARQUETTE",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "LAURIER",
+          "prenom": "Georgia",
+          "nom_complet": "Georgia LAURIER",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "LOQUETTE",
+          "prenom": "Bernard",
+          "nom_complet": "Bernard LOQUETTE",
+          "sexe": "M",
+          "age": 74,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "VOLCKAERT",
+          "prenom": "Véronique",
+          "nom_complet": "Véronique VOLCKAERT",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "DUQUESNOY",
+          "prenom": "Aurélien",
+          "nom_complet": "Aurélien DUQUESNOY",
+          "sexe": "M",
+          "age": 33,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "BAUER",
+          "prenom": "Liliane",
+          "nom_complet": "Liliane BAUER",
+          "sexe": "F",
+          "age": 83,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "FIEVET",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno FIEVET",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "CZECH-DELEU",
+          "prenom": "Christelle",
+          "nom_complet": "Christelle CZECH-DELEU",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "LESCH",
+          "prenom": "Rafaël",
+          "nom_complet": "Rafaël LESCH",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "DEBAY",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie DEBAY",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "OPIGEZ",
+          "prenom": "Jean-Pascal",
+          "nom_complet": "Jean-Pascal OPIGEZ",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "COUSIN",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle COUSIN",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "DEDON",
+          "prenom": "Maximilien",
+          "nom_complet": "Maximilien DEDON",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "23"
+        },
+        {
+          "nom": "DELORY",
+          "prenom": "Jeannine",
+          "nom_complet": "Jeannine DELORY",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "24"
+        },
+        {
+          "nom": "DELPLANQUE",
+          "prenom": "Guillaume",
+          "nom_complet": "Guillaume DELPLANQUE",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "25"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "UNIS POUR LE RENOUVEAU DE SAINS-EN-GOHELLE",
+      "libelle_abrege_liste": "UNIS POUR LE RENOUVEAU DE SAINS-EN-GOHELLE",
+      "nuance_liste": "LDVD",
+      "voix": 800,
+      "pct_voix_exprimes": 33.02,
+      "sieges_cm": 4,
+      "sieges_cc": 0,
+      "nb_elus": 4,
+      "tete_de_liste": {
+        "nom": "WIECZOR",
+        "prenom": "Michel",
+        "nom_complet": "Michel WIECZOR",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "WIECZOR",
+          "prenom": "Michel",
+          "nom_complet": "Michel WIECZOR",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "PATOUT",
+          "prenom": "Marilyse",
+          "nom_complet": "Marilyse PATOUT",
+          "sexe": "F",
+          "age": 32,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DUCARIN",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe DUCARIN",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "MORIVAL",
+          "prenom": "Catherine",
+          "nom_complet": "Catherine MORIVAL",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "4"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

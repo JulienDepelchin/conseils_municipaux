@@ -1,0 +1,247 @@
+{
+  "code_commune": "59124",
+  "commune": "Camphin-en-Pévèle",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "VERCRUYSSE",
+    "prenom": "Olivier",
+    "nom_complet": "Olivier VERCRUYSSE",
+    "age": 50,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 2046,
+    "votants": 1433,
+    "pct_votants": 70.04,
+    "abstentions": 613,
+    "pct_abstentions": 29.96,
+    "exprimes": 1404
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "L'ESPRIT DE CAMPHIN EN PEVELE",
+      "libelle_abrege_liste": "L'ESPRIT DE CAMPHIN EN PEVELE",
+      "nuance_liste": null,
+      "voix": 751,
+      "pct_voix_exprimes": 53.49,
+      "sieges_cm": 18,
+      "sieges_cc": 1,
+      "nb_elus": 18,
+      "tete_de_liste": {
+        "nom": "VERCRUYSSE",
+        "prenom": "Olivier",
+        "nom_complet": "Olivier VERCRUYSSE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "VERCRUYSSE",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier VERCRUYSSE",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LE GALL",
+          "prenom": "Aude",
+          "nom_complet": "Aude LE GALL",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "RENOU",
+          "prenom": "Samuel",
+          "nom_complet": "Samuel RENOU",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "WYPYCH",
+          "prenom": "Florie",
+          "nom_complet": "Florie WYPYCH",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DERIDDER",
+          "prenom": "Antoine",
+          "nom_complet": "Antoine DERIDDER",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "PECQUEUR",
+          "prenom": "Caroline",
+          "nom_complet": "Caroline PECQUEUR",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "LEROY",
+          "prenom": "Bertrand",
+          "nom_complet": "Bertrand LEROY",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DECLERCQ",
+          "prenom": "Marie",
+          "nom_complet": "Marie DECLERCQ",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "LABRIFFE",
+          "prenom": "Victor",
+          "nom_complet": "Victor LABRIFFE",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "VANHONACKER",
+          "prenom": "Mélanie",
+          "nom_complet": "Mélanie VANHONACKER",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "CATRY",
+          "prenom": "Baptiste",
+          "nom_complet": "Baptiste CATRY",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "LEROY",
+          "prenom": "Odile",
+          "nom_complet": "Odile LEROY",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "LONGUEMARE",
+          "prenom": "Alexandre",
+          "nom_complet": "Alexandre LONGUEMARE",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "COULON",
+          "prenom": "Chantal",
+          "nom_complet": "Chantal COULON",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "DUQUESNE",
+          "prenom": "Edouard",
+          "nom_complet": "Edouard DUQUESNE",
+          "sexe": "M",
+          "age": 33,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "MALESIEUX",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie MALESIEUX",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "VEREECKE",
+          "prenom": "Valentin",
+          "nom_complet": "Valentin VEREECKE",
+          "sexe": "M",
+          "age": 34,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "HOUZET",
+          "prenom": "Mathilde",
+          "nom_complet": "Mathilde HOUZET",
+          "sexe": "F",
+          "age": 20,
+          "rang_liste": "18"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ENSEMBLE, VIVONS CAMPHIN EN PÉVÈLE",
+      "libelle_abrege_liste": "ENSEMBLE, VIVONS CAMPHIN EN PÉVÈLE",
+      "nuance_liste": null,
+      "voix": 653,
+      "pct_voix_exprimes": 46.51,
+      "sieges_cm": 5,
+      "sieges_cc": 0,
+      "nb_elus": 5,
+      "tete_de_liste": {
+        "nom": "BERTIN",
+        "prenom": "Thierry",
+        "nom_complet": "Thierry BERTIN",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BERTIN",
+          "prenom": "Thierry",
+          "nom_complet": "Thierry BERTIN",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DEFRANCE",
+          "prenom": "Fabienne",
+          "nom_complet": "Fabienne DEFRANCE",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "GUSTIN",
+          "prenom": "Jacques",
+          "nom_complet": "Jacques GUSTIN",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DELEMARLE",
+          "prenom": "Marlène",
+          "nom_complet": "Marlène DELEMARLE",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "CAILLIAU",
+          "prenom": "Charles",
+          "nom_complet": "Charles CAILLIAU",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "5"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

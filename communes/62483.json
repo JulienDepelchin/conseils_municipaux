@@ -1,0 +1,131 @@
+{
+  "code_commune": "62483",
+  "commune": "Lacres",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "SAGOT",
+    "prenom": "Jean-François",
+    "nom_complet": "Jean-François SAGOT",
+    "age": 49,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 187,
+    "votants": 136,
+    "pct_votants": 72.73,
+    "abstentions": 51,
+    "pct_abstentions": 27.27,
+    "exprimes": 113
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "LACROISES, LACROIS POURSUIVONS L'ENGAGEMENT ET LA TRANSPARENCE",
+      "libelle_abrege_liste": "LACROISES, LACROIS POURSUIVONS L'ENGAGEMENT ET LA TRANSPARENCE",
+      "nuance_liste": null,
+      "voix": 113,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "SAGOT",
+        "prenom": "Jean-François",
+        "nom_complet": "Jean-François SAGOT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "SAGOT",
+          "prenom": "Jean-François",
+          "nom_complet": "Jean-François SAGOT",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "SAUVAGE",
+          "prenom": "Lucie",
+          "nom_complet": "Lucie SAUVAGE",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DUCROCQ",
+          "prenom": "Jérôme",
+          "nom_complet": "Jérôme DUCROCQ",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LHERBIER",
+          "prenom": "Christelle",
+          "nom_complet": "Christelle LHERBIER",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LEMOR",
+          "prenom": "Eric",
+          "nom_complet": "Eric LEMOR",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "TOURNEUR",
+          "prenom": "Séverine",
+          "nom_complet": "Séverine TOURNEUR",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "SABRE",
+          "prenom": "Maxime",
+          "nom_complet": "Maxime SABRE",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "MERLIN",
+          "prenom": "Elodie",
+          "nom_complet": "Elodie MERLIN",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "MARTEL",
+          "prenom": "Vinny",
+          "nom_complet": "Vinny MARTEL",
+          "sexe": "M",
+          "age": 31,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "SENECAT",
+          "prenom": "Marie-Françoise",
+          "nom_complet": "Marie-Françoise SENECAT",
+          "sexe": "F",
+          "age": 70,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "HENNUYER",
+          "prenom": "Emmanuel",
+          "nom_complet": "Emmanuel HENNUYER",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

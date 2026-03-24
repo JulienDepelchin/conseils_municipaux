@@ -1,0 +1,163 @@
+{
+  "code_commune": "62245",
+  "commune": "Coulomby",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "POURCHEL",
+    "prenom": "Laurent",
+    "nom_complet": "Laurent POURCHEL",
+    "age": 61,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 576,
+    "votants": 386,
+    "pct_votants": 67.01,
+    "abstentions": 190,
+    "pct_abstentions": 32.99,
+    "exprimes": 324
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "liste pourCoulomby, Bullescamps, Harlettes, ensemble pour l'avenir",
+      "libelle_abrege_liste": "liste pourCoulomby, Bullescamps, Harlettes, ensemble pour l'avenir",
+      "nuance_liste": null,
+      "voix": 324,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "POURCHEL",
+        "prenom": "Laurent",
+        "nom_complet": "Laurent POURCHEL",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "POURCHEL",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent POURCHEL",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "COQUILLARD",
+          "prenom": "Charlotte",
+          "nom_complet": "Charlotte COQUILLARD",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LAMARE",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe LAMARE",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "HENO VANDENBOSSCHE",
+          "prenom": "Alice",
+          "nom_complet": "Alice HENO VANDENBOSSCHE",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LEFRANÇOIS",
+          "prenom": "Sébastien",
+          "nom_complet": "Sébastien LEFRANÇOIS",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "VASSEUR",
+          "prenom": "Delphine",
+          "nom_complet": "Delphine VASSEUR",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "LEFEBVRE",
+          "prenom": "Stéphane",
+          "nom_complet": "Stéphane LEFEBVRE",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "BAUDE",
+          "prenom": "Corinne",
+          "nom_complet": "Corinne BAUDE",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "BROCHE",
+          "prenom": "Sylvain",
+          "nom_complet": "Sylvain BROCHE",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "MAILLY",
+          "prenom": "Severine",
+          "nom_complet": "Severine MAILLY",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "LECOMTE",
+          "prenom": "Wilfried",
+          "nom_complet": "Wilfried LECOMTE",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "MANIEZ",
+          "prenom": "Odile",
+          "nom_complet": "Odile MANIEZ",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "DEBOFFLE",
+          "prenom": "Maxime",
+          "nom_complet": "Maxime DEBOFFLE",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "LANNOY",
+          "prenom": "Claudine",
+          "nom_complet": "Claudine LANNOY",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "GENSANE",
+          "prenom": "Flavien",
+          "nom_complet": "Flavien GENSANE",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

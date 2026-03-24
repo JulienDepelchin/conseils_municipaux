@@ -1,0 +1,163 @@
+{
+  "code_commune": "62769",
+  "commune": "Saint-Tricat",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "CASTELLE",
+    "prenom": "Sébastien",
+    "nom_complet": "Sébastien CASTELLE",
+    "age": 42,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 616,
+    "votants": 413,
+    "pct_votants": 67.05,
+    "abstentions": 203,
+    "pct_abstentions": 32.95,
+    "exprimes": 380
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Saint-Tricat, cap sur l'avenir",
+      "libelle_abrege_liste": "Saint-Tricat, cap sur l'avenir",
+      "nuance_liste": null,
+      "voix": 380,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "CASTELLE",
+        "prenom": "Sébastien",
+        "nom_complet": "Sébastien CASTELLE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "CASTELLE",
+          "prenom": "Sébastien",
+          "nom_complet": "Sébastien CASTELLE",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BRAULLE",
+          "prenom": "Caroline",
+          "nom_complet": "Caroline BRAULLE",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "MERIAUX",
+          "prenom": "Remi",
+          "nom_complet": "Remi MERIAUX",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BOMY",
+          "prenom": "Valérie",
+          "nom_complet": "Valérie BOMY",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "TOURMAN",
+          "prenom": "Ludovic",
+          "nom_complet": "Ludovic TOURMAN",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DELPLACE",
+          "prenom": "Cindy",
+          "nom_complet": "Cindy DELPLACE",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "WATEL",
+          "prenom": "Sebastien",
+          "nom_complet": "Sebastien WATEL",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "REISENTHEL",
+          "prenom": "Françoise",
+          "nom_complet": "Françoise REISENTHEL",
+          "sexe": "F",
+          "age": 76,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "LECLERCQ",
+          "prenom": "Pierre",
+          "nom_complet": "Pierre LECLERCQ",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "HEYE",
+          "prenom": "Anna",
+          "nom_complet": "Anna HEYE",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "CALAIS",
+          "prenom": "Quentin",
+          "nom_complet": "Quentin CALAIS",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "PETIT",
+          "prenom": "Audrey",
+          "nom_complet": "Audrey PETIT",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "HENON",
+          "prenom": "Jean-Pierre",
+          "nom_complet": "Jean-Pierre HENON",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "HEDDEBAUX",
+          "prenom": "Brigitte",
+          "nom_complet": "Brigitte HEDDEBAUX",
+          "sexe": "F",
+          "age": 70,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "ROCHES",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas ROCHES",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

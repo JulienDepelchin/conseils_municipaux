@@ -1,0 +1,183 @@
+{
+  "code_commune": "59243",
+  "commune": "Fontaine-au-Pire",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "FRANÇOIS",
+    "prenom": "Michel",
+    "nom_complet": "Michel FRANÇOIS",
+    "age": 70,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 760,
+    "votants": 602,
+    "pct_votants": 79.21,
+    "abstentions": 158,
+    "pct_abstentions": 20.79,
+    "exprimes": 596
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "CONSTRUISONS DEMAIN",
+      "libelle_abrege_liste": "CONSTRUISONS DEMAIN",
+      "nuance_liste": null,
+      "voix": 381,
+      "pct_voix_exprimes": 63.93,
+      "sieges_cm": 13,
+      "sieges_cc": 1,
+      "nb_elus": 13,
+      "tete_de_liste": {
+        "nom": "FRANÇOIS",
+        "prenom": "Michel",
+        "nom_complet": "Michel FRANÇOIS",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "FRANÇOIS",
+          "prenom": "Michel",
+          "nom_complet": "Michel FRANÇOIS",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "QUERSIN",
+          "prenom": "Virginie",
+          "nom_complet": "Virginie QUERSIN",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "PAYAN",
+          "prenom": "Stephane",
+          "nom_complet": "Stephane PAYAN",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DRANCOURT",
+          "prenom": "Carole",
+          "nom_complet": "Carole DRANCOURT",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "VARLET",
+          "prenom": "Jonathan",
+          "nom_complet": "Jonathan VARLET",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LEROY",
+          "prenom": "Cassandra",
+          "nom_complet": "Cassandra LEROY",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "LEFEBVRE",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe LEFEBVRE",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "HISBERGUE",
+          "prenom": "Cindy",
+          "nom_complet": "Cindy HISBERGUE",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "GILLIOT",
+          "prenom": "Gautier",
+          "nom_complet": "Gautier GILLIOT",
+          "sexe": "M",
+          "age": 31,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "BRIANCON",
+          "prenom": "Camille",
+          "nom_complet": "Camille BRIANCON",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DUSSEAUX",
+          "prenom": "Virgile",
+          "nom_complet": "Virgile DUSSEAUX",
+          "sexe": "M",
+          "age": 29,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "DENHEZ",
+          "prenom": "Aurelie",
+          "nom_complet": "Aurelie DENHEZ",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "PARENT",
+          "prenom": "Francis",
+          "nom_complet": "Francis PARENT",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "13"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "NOTRE EXPERIENCE AU SERVICE DE VOTRE AVENIR",
+      "libelle_abrege_liste": "NOTRE EXPERIENCE AU SERVICE DE VOTRE AVENIR",
+      "nuance_liste": null,
+      "voix": 215,
+      "pct_voix_exprimes": 36.07,
+      "sieges_cm": 2,
+      "sieges_cc": 0,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "CHRETIEN",
+        "prenom": "Annette",
+        "nom_complet": "Annette CHRETIEN",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "CHRETIEN",
+          "prenom": "Annette",
+          "nom_complet": "Annette CHRETIEN",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "FAREZ",
+          "prenom": "Pierre",
+          "nom_complet": "Pierre FAREZ",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

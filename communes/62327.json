@@ -1,0 +1,163 @@
+{
+  "code_commune": "62327",
+  "commune": "Febvin-Palfart",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "EVRARD",
+    "prenom": "Jean-Luc",
+    "nom_complet": "Jean-Luc EVRARD",
+    "age": 67,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 414,
+    "votants": 260,
+    "pct_votants": 62.8,
+    "abstentions": 154,
+    "pct_abstentions": 37.2,
+    "exprimes": 234
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Réussir ensemble pour Febvin-Palfart",
+      "libelle_abrege_liste": "Réussir ensemble pour Febvin-Palfart",
+      "nuance_liste": null,
+      "voix": 234,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "EVRARD",
+        "prenom": "Jean-Luc",
+        "nom_complet": "Jean-Luc EVRARD",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "EVRARD",
+          "prenom": "Jean-Luc",
+          "nom_complet": "Jean-Luc EVRARD",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BOURGEOIS",
+          "prenom": "Aurore",
+          "nom_complet": "Aurore BOURGEOIS",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "NAYET",
+          "prenom": "Michael",
+          "nom_complet": "Michael NAYET",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "MOREL",
+          "prenom": "Delphine",
+          "nom_complet": "Delphine MOREL",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "BULOT",
+          "prenom": "Francis",
+          "nom_complet": "Francis BULOT",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DENECKER",
+          "prenom": "Alice",
+          "nom_complet": "Alice DENECKER",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "CROHEM",
+          "prenom": "Hervé",
+          "nom_complet": "Hervé CROHEM",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DUPONT",
+          "prenom": "Corinne",
+          "nom_complet": "Corinne DUPONT",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "LAVALLEE",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe LAVALLEE",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "GERVOIS",
+          "prenom": "Élodie",
+          "nom_complet": "Élodie GERVOIS",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "NAYET",
+          "prenom": "Gaël",
+          "nom_complet": "Gaël NAYET",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "LAGACHE",
+          "prenom": "Delphine",
+          "nom_complet": "Delphine LAGACHE",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "NAYET",
+          "prenom": "Julien",
+          "nom_complet": "Julien NAYET",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "PAYEN",
+          "prenom": "Alexandra",
+          "nom_complet": "Alexandra PAYEN",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "WASSELIN",
+          "prenom": "François",
+          "nom_complet": "François WASSELIN",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

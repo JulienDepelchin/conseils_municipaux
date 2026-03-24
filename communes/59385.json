@@ -1,0 +1,227 @@
+{
+  "code_commune": "59385",
+  "commune": "Marpent",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "DAMIENS",
+    "prenom": "Ludovic",
+    "nom_complet": "Ludovic DAMIENS",
+    "age": 49,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1701,
+    "votants": 712,
+    "pct_votants": 41.86,
+    "abstentions": 989,
+    "pct_abstentions": 58.14,
+    "exprimes": 607
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Agir pour Marpent",
+      "libelle_abrege_liste": "Agir pour Marpent",
+      "nuance_liste": null,
+      "voix": 607,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 23,
+      "sieges_cc": 1,
+      "nb_elus": 23,
+      "tete_de_liste": {
+        "nom": "DAMIENS",
+        "prenom": "Ludovic",
+        "nom_complet": "Ludovic DAMIENS",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DAMIENS",
+          "prenom": "Ludovic",
+          "nom_complet": "Ludovic DAMIENS",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "GOUDIN",
+          "prenom": "Laure",
+          "nom_complet": "Laure GOUDIN",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "ARCICASA",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe ARCICASA",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DELCAMBRE",
+          "prenom": "Julie",
+          "nom_complet": "Julie DELCAMBRE",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "BLOMME",
+          "prenom": "Vincent",
+          "nom_complet": "Vincent BLOMME",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DERUELLE",
+          "prenom": "Cindy",
+          "nom_complet": "Cindy DERUELLE",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "CHIKHI",
+          "prenom": "Romain",
+          "nom_complet": "Romain CHIKHI",
+          "sexe": "M",
+          "age": 28,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DOCHY-CANTINEAU",
+          "prenom": "Elodie",
+          "nom_complet": "Elodie DOCHY-CANTINEAU",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "CHOINET",
+          "prenom": "Dereck",
+          "nom_complet": "Dereck CHOINET",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "FEVRIER",
+          "prenom": "Yvette",
+          "nom_complet": "Yvette FEVRIER",
+          "sexe": "F",
+          "age": 70,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "COUSIN",
+          "prenom": "Guillaume",
+          "nom_complet": "Guillaume COUSIN",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "HULIN",
+          "prenom": "Mélanie",
+          "nom_complet": "Mélanie HULIN",
+          "sexe": "F",
+          "age": 21,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "DELAIQUE",
+          "prenom": "Jean-Pierre",
+          "nom_complet": "Jean-Pierre DELAIQUE",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "KENLER",
+          "prenom": "Mélanie",
+          "nom_complet": "Mélanie KENLER",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "LHOIR",
+          "prenom": "Sylvain",
+          "nom_complet": "Sylvain LHOIR",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "MALINGUE",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique MALINGUE",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "MAESEN",
+          "prenom": "Dimitri",
+          "nom_complet": "Dimitri MAESEN",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "MARTEAU",
+          "prenom": "Elodie",
+          "nom_complet": "Elodie MARTEAU",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "MARECHAL",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric MARECHAL",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "MOUSSI",
+          "prenom": "Nora",
+          "nom_complet": "Nora MOUSSI",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "PIN",
+          "prenom": "Jean-Sébastien",
+          "nom_complet": "Jean-Sébastien PIN",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "TAOURIRT",
+          "prenom": "Nassira",
+          "nom_complet": "Nassira TAOURIRT",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "WILLIEZ",
+          "prenom": "Thierry",
+          "nom_complet": "Thierry WILLIEZ",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "23"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

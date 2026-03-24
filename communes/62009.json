@@ -1,0 +1,131 @@
+{
+  "code_commune": "62009",
+  "commune": "Adinfer",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "DUFAY",
+    "prenom": "Jean-Marie",
+    "nom_complet": "Jean-Marie DUFAY",
+    "age": 61,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 228,
+    "votants": 140,
+    "pct_votants": 61.4,
+    "abstentions": 88,
+    "pct_abstentions": 38.6,
+    "exprimes": 128
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "AGIR ENSEMBLE POUR ADINFER",
+      "libelle_abrege_liste": "AGIR ENSEMBLE POUR ADINFER",
+      "nuance_liste": null,
+      "voix": 128,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "DUFAY",
+        "prenom": "Jean-Marie",
+        "nom_complet": "Jean-Marie DUFAY",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DUFAY",
+          "prenom": "Jean-Marie",
+          "nom_complet": "Jean-Marie DUFAY",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "CATRY",
+          "prenom": "Marie",
+          "nom_complet": "Marie CATRY",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DANTIGNY",
+          "prenom": "Denis",
+          "nom_complet": "Denis DANTIGNY",
+          "sexe": "M",
+          "age": 76,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DARRAS",
+          "prenom": "Elsa",
+          "nom_complet": "Elsa DARRAS",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DUMETZ",
+          "prenom": "Jérôme",
+          "nom_complet": "Jérôme DUMETZ",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DELABY",
+          "prenom": "Caroline",
+          "nom_complet": "Caroline DELABY",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "LEFRERE",
+          "prenom": "Benoit",
+          "nom_complet": "Benoit LEFRERE",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LOMBARD",
+          "prenom": "Valentine",
+          "nom_complet": "Valentine LOMBARD",
+          "sexe": "F",
+          "age": 27,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "MARQUES",
+          "prenom": "Marc-Alain",
+          "nom_complet": "Marc-Alain MARQUES",
+          "sexe": "M",
+          "age": 31,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "PIESSET",
+          "prenom": "Mélanie",
+          "nom_complet": "Mélanie PIESSET",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "MINARD",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe MINARD",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "code_commune": "62385",
+  "commune": "Grand-Rullecourt",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "LOCQUET",
+    "prenom": "Stéphane",
+    "nom_complet": "Stéphane LOCQUET",
+    "age": 48,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 304,
+    "votants": 213,
+    "pct_votants": 70.07,
+    "abstentions": 91,
+    "pct_abstentions": 29.93,
+    "exprimes": 186
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Unis pour notre village",
+      "libelle_abrege_liste": "Unis pour notre village",
+      "nuance_liste": null,
+      "voix": 186,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "LOCQUET",
+        "prenom": "Stéphane",
+        "nom_complet": "Stéphane LOCQUET",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LOCQUET",
+          "prenom": "Stéphane",
+          "nom_complet": "Stéphane LOCQUET",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DIART",
+          "prenom": "Hélène",
+          "nom_complet": "Hélène DIART",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DESAULTY",
+          "prenom": "Maxime",
+          "nom_complet": "Maxime DESAULTY",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "GAVORY",
+          "prenom": "Catherine",
+          "nom_complet": "Catherine GAVORY",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "BAILLIEUX",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno BAILLIEUX",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "CADRAN",
+          "prenom": "Fabienne",
+          "nom_complet": "Fabienne CADRAN",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BARBIER",
+          "prenom": "Hubert",
+          "nom_complet": "Hubert BARBIER",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "CADET",
+          "prenom": "Alison",
+          "nom_complet": "Alison CADET",
+          "sexe": "F",
+          "age": 32,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DUCATEL",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique DUCATEL",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DEBOFFLES",
+          "prenom": "Perrine",
+          "nom_complet": "Perrine DEBOFFLES",
+          "sexe": "F",
+          "age": 27,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "FIEDOR",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno FIEDOR",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

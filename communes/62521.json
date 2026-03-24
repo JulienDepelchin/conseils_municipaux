@@ -1,0 +1,131 @@
+{
+  "code_commune": "62521",
+  "commune": "La Loge",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "ALLEXANDRE",
+    "prenom": "Joel",
+    "nom_complet": "Joel ALLEXANDRE",
+    "age": 62,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 176,
+    "votants": 134,
+    "pct_votants": 76.14,
+    "abstentions": 42,
+    "pct_abstentions": 23.86,
+    "exprimes": 105
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "BIEN VIVRE ENSEMBLE A LA LOGE",
+      "libelle_abrege_liste": "BIEN VIVRE ENSEMBLE A LA LOGE",
+      "nuance_liste": null,
+      "voix": 105,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "ALLEXANDRE",
+        "prenom": "Joel",
+        "nom_complet": "Joel ALLEXANDRE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "ALLEXANDRE",
+          "prenom": "Joel",
+          "nom_complet": "Joel ALLEXANDRE",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "COIN",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle COIN",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DEMAGNY",
+          "prenom": "Bertrand",
+          "nom_complet": "Bertrand DEMAGNY",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "TERLUTTE",
+          "prenom": "Catherine",
+          "nom_complet": "Catherine TERLUTTE",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "VALOIS",
+          "prenom": "Denis",
+          "nom_complet": "Denis VALOIS",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "ALLEXANDRE",
+          "prenom": "Estelle",
+          "nom_complet": "Estelle ALLEXANDRE",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DABOUST",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas DABOUST",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LOUASSE",
+          "prenom": "Nadine",
+          "nom_complet": "Nadine LOUASSE",
+          "sexe": "F",
+          "age": 74,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "MINET",
+          "prenom": "Cyprien",
+          "nom_complet": "Cyprien MINET",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "GUENARD",
+          "prenom": "Severine",
+          "nom_complet": "Severine GUENARD",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "SALINGUE",
+          "prenom": "Frederic",
+          "nom_complet": "Frederic SALINGUE",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

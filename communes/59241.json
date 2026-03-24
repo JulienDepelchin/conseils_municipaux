@@ -1,0 +1,163 @@
+{
+  "code_commune": "59241",
+  "commune": "Floyon",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "GEBHARDT",
+    "prenom": "Evelyne",
+    "nom_complet": "Evelyne GEBHARDT",
+    "age": 65,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 382,
+    "votants": 212,
+    "pct_votants": 55.5,
+    "abstentions": 170,
+    "pct_abstentions": 44.5,
+    "exprimes": 169
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Continuons tous ensemble pour Floyon",
+      "libelle_abrege_liste": "Continuons tous ensemble pour Floyon",
+      "nuance_liste": null,
+      "voix": 169,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "GEBHARDT",
+        "prenom": "Evelyne",
+        "nom_complet": "Evelyne GEBHARDT",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "GEBHARDT",
+          "prenom": "Evelyne",
+          "nom_complet": "Evelyne GEBHARDT",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "TROCHAIN",
+          "prenom": "Sylvain",
+          "nom_complet": "Sylvain TROCHAIN",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "GUILLE",
+          "prenom": "Catherine",
+          "nom_complet": "Catherine GUILLE",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "HERBAUT",
+          "prenom": "Michel",
+          "nom_complet": "Michel HERBAUT",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DEVOUGE",
+          "prenom": "Yolande",
+          "nom_complet": "Yolande DEVOUGE",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "HEDON",
+          "prenom": "Hubert",
+          "nom_complet": "Hubert HEDON",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "GUILLE",
+          "prenom": "Marine",
+          "nom_complet": "Marine GUILLE",
+          "sexe": "F",
+          "age": 32,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "ROUSSEAUX",
+          "prenom": "Roger",
+          "nom_complet": "Roger ROUSSEAUX",
+          "sexe": "M",
+          "age": 77,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "RINK",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie RINK",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "CROISY",
+          "prenom": "Jean-Claude",
+          "nom_complet": "Jean-Claude CROISY",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DUFOUR",
+          "prenom": "Claudine",
+          "nom_complet": "Claudine DUFOUR",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "LEFETZ",
+          "prenom": "Guillaume",
+          "nom_complet": "Guillaume LEFETZ",
+          "sexe": "M",
+          "age": 34,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "ROYER",
+          "prenom": "Marie-Christine",
+          "nom_complet": "Marie-Christine ROYER",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "LAHAYE",
+          "prenom": "Andre",
+          "nom_complet": "Andre LAHAYE",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "DAUMERIES",
+          "prenom": "Angelique",
+          "nom_complet": "Angelique DAUMERIES",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

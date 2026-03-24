@@ -1,0 +1,147 @@
+{
+  "code_commune": "62049",
+  "commune": "Auchy-au-Bois",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "DELPLACE",
+    "prenom": "Jean-François",
+    "nom_complet": "Jean-François DELPLACE",
+    "age": 59,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 404,
+    "votants": 269,
+    "pct_votants": 66.58,
+    "abstentions": 135,
+    "pct_abstentions": 33.42,
+    "exprimes": 233
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Auchy au Bois, le bien vivre au coeur de nos projets",
+      "libelle_abrege_liste": "Auchy au Bois, le bien vivre au coeur de nos projets",
+      "nuance_liste": null,
+      "voix": 233,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 13,
+      "sieges_cc": null,
+      "nb_elus": 13,
+      "tete_de_liste": {
+        "nom": "DELPLACE",
+        "prenom": "Jean-François",
+        "nom_complet": "Jean-François DELPLACE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DELPLACE",
+          "prenom": "Jean-François",
+          "nom_complet": "Jean-François DELPLACE",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "COSSART",
+          "prenom": "Marie",
+          "nom_complet": "Marie COSSART",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DEBOSQUE",
+          "prenom": "Gilles",
+          "nom_complet": "Gilles DEBOSQUE",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "TANCHON",
+          "prenom": "Corinne",
+          "nom_complet": "Corinne TANCHON",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "PICQUÉ",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal PICQUÉ",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DEBOSQUE",
+          "prenom": "Anne",
+          "nom_complet": "Anne DEBOSQUE",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "HIBOS",
+          "prenom": "Romain",
+          "nom_complet": "Romain HIBOS",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "TISON",
+          "prenom": "Ophélie",
+          "nom_complet": "Ophélie TISON",
+          "sexe": "F",
+          "age": 31,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "RICHARD",
+          "prenom": "Jean-Noël",
+          "nom_complet": "Jean-Noël RICHARD",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "LAFITTE",
+          "prenom": "Virginie",
+          "nom_complet": "Virginie LAFITTE",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DESCHAMPS",
+          "prenom": "Jean-Marie",
+          "nom_complet": "Jean-Marie DESCHAMPS",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "SZUMNY",
+          "prenom": "Elise",
+          "nom_complet": "Elise SZUMNY",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "HANNEBICQ",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe HANNEBICQ",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "13"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

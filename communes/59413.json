@@ -1,0 +1,183 @@
+{
+  "code_commune": "59413",
+  "commune": "Montigny-en-Cambrésis",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "MACHUT",
+    "prenom": "Frédéric",
+    "nom_complet": "Frédéric MACHUT",
+    "age": 55,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 452,
+    "votants": 321,
+    "pct_votants": 71.02,
+    "abstentions": 131,
+    "pct_abstentions": 28.98,
+    "exprimes": 313
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "UNE EQUIPE, UN OBJECTIF, ETRE UTILE",
+      "libelle_abrege_liste": "UNE EQUIPE, UN OBJECTIF, ETRE UTILE",
+      "nuance_liste": null,
+      "voix": 206,
+      "pct_voix_exprimes": 65.81,
+      "sieges_cm": 13,
+      "sieges_cc": null,
+      "nb_elus": 13,
+      "tete_de_liste": {
+        "nom": "MACHUT",
+        "prenom": "Frédéric",
+        "nom_complet": "Frédéric MACHUT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "MACHUT",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric MACHUT",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "FLAMENT",
+          "prenom": "Lydie",
+          "nom_complet": "Lydie FLAMENT",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DELCOURTE",
+          "prenom": "Michel",
+          "nom_complet": "Michel DELCOURTE",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "MAQUART",
+          "prenom": "Fabienne",
+          "nom_complet": "Fabienne MAQUART",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "PILLARD",
+          "prenom": "Anthony",
+          "nom_complet": "Anthony PILLARD",
+          "sexe": "M",
+          "age": 34,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "TELLIER",
+          "prenom": "Karine",
+          "nom_complet": "Karine TELLIER",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "HANNECART",
+          "prenom": "Daniel",
+          "nom_complet": "Daniel HANNECART",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "MUZIOT",
+          "prenom": "Marjorie",
+          "nom_complet": "Marjorie MUZIOT",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "ZOUBA",
+          "prenom": "Franck",
+          "nom_complet": "Franck ZOUBA",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "ARPIN-LAUDE",
+          "prenom": "Claudine",
+          "nom_complet": "Claudine ARPIN-LAUDE",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "MOREAU",
+          "prenom": "Sebastien",
+          "nom_complet": "Sebastien MOREAU",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "FACON",
+          "prenom": "Delphine",
+          "nom_complet": "Delphine FACON",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "TORDOIR",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique TORDOIR",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "13"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "MONTIGNY EN CAMBRESIS DEMAIN",
+      "libelle_abrege_liste": "MONTIGNY EN CAMBRESIS DEMAIN",
+      "nuance_liste": null,
+      "voix": 107,
+      "pct_voix_exprimes": 34.19,
+      "sieges_cm": 2,
+      "sieges_cc": null,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "GOURAUD",
+        "prenom": "Francis",
+        "nom_complet": "Francis GOURAUD",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "GOURAUD",
+          "prenom": "Francis",
+          "nom_complet": "Francis GOURAUD",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "VASSEUR",
+          "prenom": "Frédérique",
+          "nom_complet": "Frédérique VASSEUR",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

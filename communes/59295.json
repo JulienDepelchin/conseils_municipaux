@@ -1,0 +1,343 @@
+{
+  "code_commune": "59295",
+  "commune": "Hazebrouck",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "BELLEVAL",
+    "prenom": "Valentin",
+    "nom_complet": "Valentin BELLEVAL",
+    "age": 33,
+    "nuance": "LDVD"
+  },
+  "resultats": {
+    "inscrits": 17010,
+    "votants": 9375,
+    "pct_votants": 55.11,
+    "abstentions": 7635,
+    "pct_abstentions": 44.89,
+    "exprimes": 8986
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "Une ville qui avance un projet qui rassemble",
+      "libelle_abrege_liste": "uvqaupqr",
+      "nuance_liste": "LDVD",
+      "voix": 6851,
+      "pct_voix_exprimes": 76.24,
+      "sieges_cm": 31,
+      "sieges_cc": 16,
+      "nb_elus": 31,
+      "tete_de_liste": {
+        "nom": "BELLEVAL",
+        "prenom": "Valentin",
+        "nom_complet": "Valentin BELLEVAL",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BELLEVAL",
+          "prenom": "Valentin",
+          "nom_complet": "Valentin BELLEVAL",
+          "sexe": "M",
+          "age": 33,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "SPRIET",
+          "prenom": "Eva",
+          "nom_complet": "Eva SPRIET",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DUHAMEL",
+          "prenom": "Gaël",
+          "nom_complet": "Gaël DUHAMEL",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "SAUZEAU",
+          "prenom": "Céline",
+          "nom_complet": "Céline SAUZEAU",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "GRIMBER",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe GRIMBER",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "BRISBART",
+          "prenom": "Florence",
+          "nom_complet": "Florence BRISBART",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "TIBERGHIEN",
+          "prenom": "Didier",
+          "nom_complet": "Didier TIBERGHIEN",
+          "sexe": "M",
+          "age": 76,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DORMION",
+          "prenom": "Elise",
+          "nom_complet": "Elise DORMION",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DENTENER",
+          "prenom": "Bernard",
+          "nom_complet": "Bernard DENTENER",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "FERLIN",
+          "prenom": "Béatrice",
+          "nom_complet": "Béatrice FERLIN",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "WYCKAERT",
+          "prenom": "Jacques",
+          "nom_complet": "Jacques WYCKAERT",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "SCHOONHEERE",
+          "prenom": "Brigitte",
+          "nom_complet": "Brigitte SCHOONHEERE",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "GAMELIN",
+          "prenom": "Guillaume",
+          "nom_complet": "Guillaume GAMELIN",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "ANDRE",
+          "prenom": "Sophie",
+          "nom_complet": "Sophie ANDRE",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "CHAFCHAF",
+          "prenom": "Hakim",
+          "nom_complet": "Hakim CHAFCHAF",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "BOUQUET",
+          "prenom": "Marie",
+          "nom_complet": "Marie BOUQUET",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "DUHAMEL",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe DUHAMEL",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "FLORQUIN BLONDEL",
+          "prenom": "Sabrina",
+          "nom_complet": "Sabrina FLORQUIN BLONDEL",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "DEVOS",
+          "prenom": "Constant",
+          "nom_complet": "Constant DEVOS",
+          "sexe": "M",
+          "age": 29,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "SCHERRIER",
+          "prenom": "Audrey",
+          "nom_complet": "Audrey SCHERRIER",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "DELVA",
+          "prenom": "Hervé",
+          "nom_complet": "Hervé DELVA",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "PATOUX",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie PATOUX",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "LECLERCQ",
+          "prenom": "Michaël",
+          "nom_complet": "Michaël LECLERCQ",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "23"
+        },
+        {
+          "nom": "BRANDT",
+          "prenom": "Marie-Cécile",
+          "nom_complet": "Marie-Cécile BRANDT",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "24"
+        },
+        {
+          "nom": "VERSCHEURE",
+          "prenom": "Noël",
+          "nom_complet": "Noël VERSCHEURE",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "25"
+        },
+        {
+          "nom": "DELHAIZE",
+          "prenom": "Céline",
+          "nom_complet": "Céline DELHAIZE",
+          "sexe": "F",
+          "age": 31,
+          "rang_liste": "26"
+        },
+        {
+          "nom": "BRIFFAUT",
+          "prenom": "Amaël",
+          "nom_complet": "Amaël BRIFFAUT",
+          "sexe": "M",
+          "age": 21,
+          "rang_liste": "27"
+        },
+        {
+          "nom": "CZAPNICK-PORET",
+          "prenom": "Noëmie",
+          "nom_complet": "Noëmie CZAPNICK-PORET",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "28"
+        },
+        {
+          "nom": "CASTRE",
+          "prenom": "Alain",
+          "nom_complet": "Alain CASTRE",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "29"
+        },
+        {
+          "nom": "SIX",
+          "prenom": "Lalie",
+          "nom_complet": "Lalie SIX",
+          "sexe": "F",
+          "age": 23,
+          "rang_liste": "30"
+        },
+        {
+          "nom": "SOOTS",
+          "prenom": "Jean-Rémy",
+          "nom_complet": "Jean-Rémy SOOTS",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "31"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Hazebrouck Humaine, verte et sûre",
+      "libelle_abrege_liste": "hhvs",
+      "nuance_liste": "LDIV",
+      "voix": 2135,
+      "pct_voix_exprimes": 23.76,
+      "sieges_cm": 4,
+      "sieges_cc": 2,
+      "nb_elus": 4,
+      "tete_de_liste": {
+        "nom": "COTTE",
+        "prenom": "Jean-Paul",
+        "nom_complet": "Jean-Paul COTTE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "COTTE",
+          "prenom": "Jean-Paul",
+          "nom_complet": "Jean-Paul COTTE",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "CAUDRON",
+          "prenom": "Sophie",
+          "nom_complet": "Sophie CAUDRON",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LEFEBVRE",
+          "prenom": "Vincent",
+          "nom_complet": "Vincent LEFEBVRE",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LIONET",
+          "prenom": "Fanny",
+          "nom_complet": "Fanny LIONET",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "4"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

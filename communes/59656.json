@@ -1,0 +1,295 @@
+{
+  "code_commune": "59656",
+  "commune": "Wervicq-Sud",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "HEIREMANS",
+    "prenom": "David",
+    "nom_complet": "David HEIREMANS",
+    "age": 50,
+    "nuance": "LDVD"
+  },
+  "resultats": {
+    "inscrits": 3762,
+    "votants": 2220,
+    "pct_votants": 59.01,
+    "abstentions": 1542,
+    "pct_abstentions": 40.99,
+    "exprimes": 2174
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Ensemble Soyons Wervicq-Sud",
+      "libelle_abrege_liste": "Ensemble Soyons Wervicq-Sud",
+      "nuance_liste": "LDVD",
+      "voix": 1364,
+      "pct_voix_exprimes": 62.74,
+      "sieges_cm": 24,
+      "sieges_cc": 1,
+      "nb_elus": 24,
+      "tete_de_liste": {
+        "nom": "HEIREMANS",
+        "prenom": "David",
+        "nom_complet": "David HEIREMANS",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "HEIREMANS",
+          "prenom": "David",
+          "nom_complet": "David HEIREMANS",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "POIX-BESSA",
+          "prenom": "Lindsay",
+          "nom_complet": "Lindsay POIX-BESSA",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "MEERPOEL",
+          "prenom": "Sébastien",
+          "nom_complet": "Sébastien MEERPOEL",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "HAUTEFEUILLE",
+          "prenom": "Valérie",
+          "nom_complet": "Valérie HAUTEFEUILLE",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "ATATRI",
+          "prenom": "Abdelazziz",
+          "nom_complet": "Abdelazziz ATATRI",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "CLOMBE-FRANZEN",
+          "prenom": "Barbara",
+          "nom_complet": "Barbara CLOMBE-FRANZEN",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "FERLA",
+          "prenom": "Benoit",
+          "nom_complet": "Benoit FERLA",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "GUINET",
+          "prenom": "Flavie",
+          "nom_complet": "Flavie GUINET",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "RENARD",
+          "prenom": "Reynald",
+          "nom_complet": "Reynald RENARD",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "ROUTIER",
+          "prenom": "Laetitia",
+          "nom_complet": "Laetitia ROUTIER",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DE OLIVEIRA SOUSA",
+          "prenom": "José",
+          "nom_complet": "José DE OLIVEIRA SOUSA",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "SCHMITT",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie SCHMITT",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "LAMARQUE",
+          "prenom": "Rémi",
+          "nom_complet": "Rémi LAMARQUE",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "POLLET",
+          "prenom": "Fernanda",
+          "nom_complet": "Fernanda POLLET",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "TONETTI",
+          "prenom": "Regis",
+          "nom_complet": "Regis TONETTI",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "BULTEL",
+          "prenom": "Sandrine",
+          "nom_complet": "Sandrine BULTEL",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "DUPUIS",
+          "prenom": "Guillaume",
+          "nom_complet": "Guillaume DUPUIS",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "DESCAMPS-GILMANT",
+          "prenom": "Caroline",
+          "nom_complet": "Caroline DESCAMPS-GILMANT",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "COTTENYE",
+          "prenom": "Alexis",
+          "nom_complet": "Alexis COTTENYE",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "DUTILLY",
+          "prenom": "Aude",
+          "nom_complet": "Aude DUTILLY",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "MARTIN",
+          "prenom": "Emmanuel",
+          "nom_complet": "Emmanuel MARTIN",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "GICQUEL-CATRIX",
+          "prenom": "Flore",
+          "nom_complet": "Flore GICQUEL-CATRIX",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "DEYONGHE",
+          "prenom": "André",
+          "nom_complet": "André DEYONGHE",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "23"
+        },
+        {
+          "nom": "WALLEZ",
+          "prenom": "Thérèse",
+          "nom_complet": "Thérèse WALLEZ",
+          "sexe": "F",
+          "age": 76,
+          "rang_liste": "24"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "Demain avec les wervicquois",
+      "libelle_abrege_liste": "Demain avec les wervicquois",
+      "nuance_liste": "LDVC",
+      "voix": 810,
+      "pct_voix_exprimes": 37.26,
+      "sieges_cm": 5,
+      "sieges_cc": 0,
+      "nb_elus": 5,
+      "tete_de_liste": {
+        "nom": "DESMULLIEZ",
+        "prenom": "Mathieu",
+        "nom_complet": "Mathieu DESMULLIEZ",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DESMULLIEZ",
+          "prenom": "Mathieu",
+          "nom_complet": "Mathieu DESMULLIEZ",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "GHESQUIERE",
+          "prenom": "Laetitia",
+          "nom_complet": "Laetitia GHESQUIERE",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BONNIER",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal BONNIER",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BRUNEEL",
+          "prenom": "Lucie",
+          "nom_complet": "Lucie BRUNEEL",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "HUBERT",
+          "prenom": "Jean-Baptiste",
+          "nom_complet": "Jean-Baptiste HUBERT",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "5"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

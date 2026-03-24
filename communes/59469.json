@@ -1,0 +1,131 @@
+{
+  "code_commune": "59469",
+  "commune": "Pradelles",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "DEBREU",
+    "prenom": "Christophe",
+    "nom_complet": "Christophe DEBREU",
+    "age": 51,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 321,
+    "votants": 198,
+    "pct_votants": 61.68,
+    "abstentions": 123,
+    "pct_abstentions": 38.32,
+    "exprimes": 184
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ENSEMBLE, FAISONS VIVRE PRADELLES",
+      "libelle_abrege_liste": "ENSEMBLE, FAISONS VIVRE PRADELLES",
+      "nuance_liste": null,
+      "voix": 184,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "DEBREU",
+        "prenom": "Christophe",
+        "nom_complet": "Christophe DEBREU",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DEBREU",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe DEBREU",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DESWARTE",
+          "prenom": "Pascale",
+          "nom_complet": "Pascale DESWARTE",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "ABADIE",
+          "prenom": "Luc",
+          "nom_complet": "Luc ABADIE",
+          "sexe": "M",
+          "age": 27,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "CARON",
+          "prenom": "Christelle",
+          "nom_complet": "Christelle CARON",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DECLERCK",
+          "prenom": "Bastien",
+          "nom_complet": "Bastien DECLERCK",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "GUTKNECHT",
+          "prenom": "Clemence",
+          "nom_complet": "Clemence GUTKNECHT",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BODART",
+          "prenom": "Jean-Claude",
+          "nom_complet": "Jean-Claude BODART",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "BERT",
+          "prenom": "Melissa",
+          "nom_complet": "Melissa BERT",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DUCATEAU",
+          "prenom": "Romain",
+          "nom_complet": "Romain DUCATEAU",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "GELOEN",
+          "prenom": "Violaine",
+          "nom_complet": "Violaine GELOEN",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "TEITE",
+          "prenom": "Gregory",
+          "nom_complet": "Gregory TEITE",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

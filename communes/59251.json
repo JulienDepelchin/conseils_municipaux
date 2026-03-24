@@ -1,0 +1,131 @@
+{
+  "code_commune": "59251",
+  "commune": "Frasnoy",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "MAGNIER",
+    "prenom": "Céline",
+    "nom_complet": "Céline MAGNIER",
+    "age": 43,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 264,
+    "votants": 185,
+    "pct_votants": 70.08,
+    "abstentions": 79,
+    "pct_abstentions": 29.92,
+    "exprimes": 170
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Tout pour Frasnoy, Frasnoy pour tous !",
+      "libelle_abrege_liste": "Tout pour Frasnoy, Frasnoy pour tous !",
+      "nuance_liste": null,
+      "voix": 170,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "MAGNIER",
+        "prenom": "Céline",
+        "nom_complet": "Céline MAGNIER",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "MAGNIER",
+          "prenom": "Céline",
+          "nom_complet": "Céline MAGNIER",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "CAUCHY",
+          "prenom": "Benoit",
+          "nom_complet": "Benoit CAUCHY",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DELEVOYE",
+          "prenom": "Aude",
+          "nom_complet": "Aude DELEVOYE",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "MEAUSOONE",
+          "prenom": "Gautier",
+          "nom_complet": "Gautier MEAUSOONE",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "BULTEZ",
+          "prenom": "Patricia",
+          "nom_complet": "Patricia BULTEZ",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "FIERAIN",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric FIERAIN",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "LOOTEN CAVALLO",
+          "prenom": "Kelly",
+          "nom_complet": "Kelly LOOTEN CAVALLO",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DELBAUVE",
+          "prenom": "Francis",
+          "nom_complet": "Francis DELBAUVE",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "LEULLIETTE",
+          "prenom": "Astrid",
+          "nom_complet": "Astrid LEULLIETTE",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "LEPERS",
+          "prenom": "Didier",
+          "nom_complet": "Didier LEPERS",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "CAUDET DESTUR",
+          "prenom": "Thérèse",
+          "nom_complet": "Thérèse CAUDET DESTUR",
+          "sexe": "F",
+          "age": 79,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

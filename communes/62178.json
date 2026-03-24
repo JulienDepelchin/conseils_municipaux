@@ -1,0 +1,343 @@
+{
+  "code_commune": "62178",
+  "commune": "Bruay-la-Buissière",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "PAJOT",
+    "prenom": "Ludovic",
+    "nom_complet": "Ludovic PAJOT",
+    "age": 32,
+    "nuance": "LRN"
+  },
+  "resultats": {
+    "inscrits": 15653,
+    "votants": 8701,
+    "pct_votants": 55.59,
+    "abstentions": 6952,
+    "pct_abstentions": 44.41,
+    "exprimes": 8347
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "Continuons ensemble avec notre maire !",
+      "libelle_abrege_liste": "Continuons ensemble avec notre maire !",
+      "nuance_liste": "LRN",
+      "voix": 6798,
+      "pct_voix_exprimes": 81.44,
+      "sieges_cm": 32,
+      "sieges_cc": 9,
+      "nb_elus": 32,
+      "tete_de_liste": {
+        "nom": "PAJOT",
+        "prenom": "Ludovic",
+        "nom_complet": "Ludovic PAJOT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "PAJOT",
+          "prenom": "Ludovic",
+          "nom_complet": "Ludovic PAJOT",
+          "sexe": "M",
+          "age": 32,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "PRUD'HOMME",
+          "prenom": "Sandrine",
+          "nom_complet": "Sandrine PRUD'HOMME",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "FRAPPÉ",
+          "prenom": "Thierry",
+          "nom_complet": "Thierry FRAPPÉ",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BOMMART",
+          "prenom": "Émilie",
+          "nom_complet": "Émilie BOMMART",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "HUCHETTE",
+          "prenom": "Clément",
+          "nom_complet": "Clément HUCHETTE",
+          "sexe": "M",
+          "age": 30,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "TOURBIER",
+          "prenom": "Laurie",
+          "nom_complet": "Laurie TOURBIER",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BOQUILLON",
+          "prenom": "Marcel",
+          "nom_complet": "Marcel BOQUILLON",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "MALADRY",
+          "prenom": "Blandine",
+          "nom_complet": "Blandine MALADRY",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "ROUSSEL",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno ROUSSEL",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "SURELLE",
+          "prenom": "Lydie",
+          "nom_complet": "Lydie SURELLE",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "GAMOT",
+          "prenom": "Arnaud",
+          "nom_complet": "Arnaud GAMOT",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "LANGLIN",
+          "prenom": "Valérie",
+          "nom_complet": "Valérie LANGLIN",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "BOUVRY",
+          "prenom": "Jean-François",
+          "nom_complet": "Jean-François BOUVRY",
+          "sexe": "M",
+          "age": 75,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "CAROUGE",
+          "prenom": "Chantal",
+          "nom_complet": "Chantal CAROUGE",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "MAJCHROWICZ",
+          "prenom": "Éric",
+          "nom_complet": "Éric MAJCHROWICZ",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "LEJOSNE",
+          "prenom": "Renée",
+          "nom_complet": "Renée LEJOSNE",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "VERNE",
+          "prenom": "Stéphane",
+          "nom_complet": "Stéphane VERNE",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "CHABRIER",
+          "prenom": "Cassandra",
+          "nom_complet": "Cassandra CHABRIER",
+          "sexe": "F",
+          "age": 32,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "LOUCHART",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric LOUCHART",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "GUILLUY",
+          "prenom": "Laurence",
+          "nom_complet": "Laurence GUILLUY",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "OPRYCH",
+          "prenom": "Christian",
+          "nom_complet": "Christian OPRYCH",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "COQUELLE",
+          "prenom": "Maryse",
+          "nom_complet": "Maryse COQUELLE",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "GAQUERE",
+          "prenom": "Henri",
+          "nom_complet": "Henri GAQUERE",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "23"
+        },
+        {
+          "nom": "VANDENBUSSCHE",
+          "prenom": "Marie-Thérèse",
+          "nom_complet": "Marie-Thérèse VANDENBUSSCHE",
+          "sexe": "F",
+          "age": 76,
+          "rang_liste": "24"
+        },
+        {
+          "nom": "PLAYOULT",
+          "prenom": "Claude",
+          "nom_complet": "Claude PLAYOULT",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "25"
+        },
+        {
+          "nom": "ROBAIL",
+          "prenom": "Sabrina",
+          "nom_complet": "Sabrina ROBAIL",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "26"
+        },
+        {
+          "nom": "NORKIEWICZ",
+          "prenom": "Baptiste",
+          "nom_complet": "Baptiste NORKIEWICZ",
+          "sexe": "M",
+          "age": 22,
+          "rang_liste": "27"
+        },
+        {
+          "nom": "GUILLUY",
+          "prenom": "Danièle",
+          "nom_complet": "Danièle GUILLUY",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "28"
+        },
+        {
+          "nom": "PARENTY",
+          "prenom": "Francis",
+          "nom_complet": "Francis PARENTY",
+          "sexe": "M",
+          "age": 75,
+          "rang_liste": "29"
+        },
+        {
+          "nom": "DEWEVRE",
+          "prenom": "Dalila",
+          "nom_complet": "Dalila DEWEVRE",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "30"
+        },
+        {
+          "nom": "PICOT",
+          "prenom": "Manuel",
+          "nom_complet": "Manuel PICOT",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "31"
+        },
+        {
+          "nom": "KUBIK",
+          "prenom": "Caroline",
+          "nom_complet": "Caroline KUBIK",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "32"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "EN CHOEUR POUR BRUAY-LA-BUISSIÈRE",
+      "libelle_abrege_liste": "EN CHOEUR POUR BRUAY-LA-BUISSIÈRE",
+      "nuance_liste": "LDVG",
+      "voix": 1549,
+      "pct_voix_exprimes": 18.56,
+      "sieges_cm": 3,
+      "sieges_cc": 1,
+      "nb_elus": 3,
+      "tete_de_liste": {
+        "nom": "COURTIN",
+        "prenom": "Samuel",
+        "nom_complet": "Samuel COURTIN",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "COURTIN",
+          "prenom": "Samuel",
+          "nom_complet": "Samuel COURTIN",
+          "sexe": "M",
+          "age": 21,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "PARISSEAUX",
+          "prenom": "Cathy",
+          "nom_complet": "Cathy PARISSEAUX",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "ROBERT",
+          "prenom": "Simon",
+          "nom_complet": "Simon ROBERT",
+          "sexe": "M",
+          "age": 26,
+          "rang_liste": "3"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "code_commune": "62388",
+  "commune": "Grigny",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "DUPOND",
+    "prenom": "Jean-Luc",
+    "nom_complet": "Jean-Luc DUPOND",
+    "age": 63,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 214,
+    "votants": 174,
+    "pct_votants": 81.31,
+    "abstentions": 40,
+    "pct_abstentions": 18.69,
+    "exprimes": 166
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "NOUVELLE LISTE DU CONSEIL SORTANT",
+      "libelle_abrege_liste": "NOUVELLE LISTE DU CONSEIL SORTANT",
+      "nuance_liste": null,
+      "voix": 100,
+      "pct_voix_exprimes": 60.24,
+      "sieges_cm": 9,
+      "sieges_cc": null,
+      "nb_elus": 9,
+      "tete_de_liste": {
+        "nom": "DUPOND",
+        "prenom": "Jean-Luc",
+        "nom_complet": "Jean-Luc DUPOND",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DUPOND",
+          "prenom": "Jean-Luc",
+          "nom_complet": "Jean-Luc DUPOND",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "PICQUART",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie PICQUART",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LANVIN",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier LANVIN",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "FIQUET",
+          "prenom": "Geraldine",
+          "nom_complet": "Geraldine FIQUET",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "FIQUET",
+          "prenom": "Jean-Paul",
+          "nom_complet": "Jean-Paul FIQUET",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DEPRES",
+          "prenom": "Chloe",
+          "nom_complet": "Chloe DEPRES",
+          "sexe": "F",
+          "age": 26,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "WHITE",
+          "prenom": "Bernard",
+          "nom_complet": "Bernard WHITE",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "CALON",
+          "prenom": "Ophelie",
+          "nom_complet": "Ophelie CALON",
+          "sexe": "F",
+          "age": 28,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "SERGENT",
+          "prenom": "Frederic",
+          "nom_complet": "Frederic SERGENT",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "9"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "Redynamiser notre village",
+      "libelle_abrege_liste": "Redynamiser notre village",
+      "nuance_liste": null,
+      "voix": 66,
+      "pct_voix_exprimes": 39.76,
+      "sieges_cm": 2,
+      "sieges_cc": null,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "HAUDIQUET",
+        "prenom": "Jean-Philippe",
+        "nom_complet": "Jean-Philippe HAUDIQUET",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "HAUDIQUET",
+          "prenom": "Jean-Philippe",
+          "nom_complet": "Jean-Philippe HAUDIQUET",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "CARTON",
+          "prenom": "Alexandra",
+          "nom_complet": "Alexandra CARTON",
+          "sexe": "F",
+          "age": 32,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

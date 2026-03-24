@@ -1,0 +1,163 @@
+{
+  "code_commune": "59555",
+  "commune": "Sars-Poteries",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "MOLITOR",
+    "prenom": "Bernard",
+    "nom_complet": "Bernard MOLITOR",
+    "age": 72,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 946,
+    "votants": 502,
+    "pct_votants": 53.07,
+    "abstentions": 444,
+    "pct_abstentions": 46.93,
+    "exprimes": 464
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "SARS'ENGAGE",
+      "libelle_abrege_liste": "SARS'ENGAGE",
+      "nuance_liste": null,
+      "voix": 464,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": 3,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "MOLITOR",
+        "prenom": "Bernard",
+        "nom_complet": "Bernard MOLITOR",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "MOLITOR",
+          "prenom": "Bernard",
+          "nom_complet": "Bernard MOLITOR",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LAMANT",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie LAMANT",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "HUGOT",
+          "prenom": "Franck",
+          "nom_complet": "Franck HUGOT",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "WALEMME",
+          "prenom": "Aurore",
+          "nom_complet": "Aurore WALEMME",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "WITTRANT",
+          "prenom": "Jean-Baptiste",
+          "nom_complet": "Jean-Baptiste WITTRANT",
+          "sexe": "M",
+          "age": 32,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DUCHESNE",
+          "prenom": "Angélique",
+          "nom_complet": "Angélique DUCHESNE",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "ANSELOT",
+          "prenom": "Valéry",
+          "nom_complet": "Valéry ANSELOT",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "SAUVAGE",
+          "prenom": "Hélène",
+          "nom_complet": "Hélène SAUVAGE",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "COMEAU",
+          "prenom": "Ludovic",
+          "nom_complet": "Ludovic COMEAU",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DECRUCQ",
+          "prenom": "Wendy",
+          "nom_complet": "Wendy DECRUCQ",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "LOCMANE",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe LOCMANE",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "HUBINET",
+          "prenom": "Cindy",
+          "nom_complet": "Cindy HUBINET",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "CROQUET",
+          "prenom": "Romain",
+          "nom_complet": "Romain CROQUET",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "MAILLAT",
+          "prenom": "Floriane",
+          "nom_complet": "Floriane MAILLAT",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "NINITE",
+          "prenom": "Pierre",
+          "nom_complet": "Pierre NINITE",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

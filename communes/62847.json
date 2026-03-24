@@ -1,0 +1,215 @@
+{
+  "code_commune": "62847",
+  "commune": "Verquigneul",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "BASSOM-TAILLIEZ",
+    "prenom": "Françoise",
+    "nom_complet": "Françoise BASSOM-TAILLIEZ",
+    "age": 52,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1357,
+    "votants": 905,
+    "pct_votants": 66.69,
+    "abstentions": 452,
+    "pct_abstentions": 33.31,
+    "exprimes": 866
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "VERQUIGNEUL AUTREMENT",
+      "libelle_abrege_liste": "VERQUIGNEUL AUTREMENT",
+      "nuance_liste": null,
+      "voix": 458,
+      "pct_voix_exprimes": 52.89,
+      "sieges_cm": 15,
+      "sieges_cc": 1,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "BASSOM-TAILLIEZ",
+        "prenom": "Françoise",
+        "nom_complet": "Françoise BASSOM-TAILLIEZ",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "BASSOM-TAILLIEZ",
+          "prenom": "Françoise",
+          "nom_complet": "Françoise BASSOM-TAILLIEZ",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "CAPPEL",
+          "prenom": "Roger",
+          "nom_complet": "Roger CAPPEL",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LEGRAND",
+          "prenom": "Gisèle",
+          "nom_complet": "Gisèle LEGRAND",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "PETIT",
+          "prenom": "René",
+          "nom_complet": "René PETIT",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "MAHIEU",
+          "prenom": "Emmanuelle",
+          "nom_complet": "Emmanuelle MAHIEU",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "RAOULT",
+          "prenom": "David",
+          "nom_complet": "David RAOULT",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BOURSET",
+          "prenom": "Brigitte",
+          "nom_complet": "Brigitte BOURSET",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "ROLLAND",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe ROLLAND",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "LAVIAUX",
+          "prenom": "Lucette",
+          "nom_complet": "Lucette LAVIAUX",
+          "sexe": "F",
+          "age": 73,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DUBOIS",
+          "prenom": "Jean-Claude",
+          "nom_complet": "Jean-Claude DUBOIS",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DORANGEVILLE",
+          "prenom": "Emma",
+          "nom_complet": "Emma DORANGEVILLE",
+          "sexe": "F",
+          "age": 22,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "CALVET",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe CALVET",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "DAUCHELLE",
+          "prenom": "Alicia",
+          "nom_complet": "Alicia DAUCHELLE",
+          "sexe": "F",
+          "age": 19,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "FREZIER",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe FREZIER",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "GILBERT",
+          "prenom": "Vanessa",
+          "nom_complet": "Vanessa GILBERT",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "CONSTRUISONS ENSEMBLE L'AVENIR DE VERQUIGNEUL",
+      "libelle_abrege_liste": "CONSTRUISONS ENSEMBLE L'AVENIR DE VERQUIGNEUL",
+      "nuance_liste": null,
+      "voix": 408,
+      "pct_voix_exprimes": 47.11,
+      "sieges_cm": 4,
+      "sieges_cc": 0,
+      "nb_elus": 4,
+      "tete_de_liste": {
+        "nom": "CHRETIEN",
+        "prenom": "Bruno",
+        "nom_complet": "Bruno CHRETIEN",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "CHRETIEN",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno CHRETIEN",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "COUSSEMENT",
+          "prenom": "Valériane",
+          "nom_complet": "Valériane COUSSEMENT",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "TRINEL",
+          "prenom": "Michel",
+          "nom_complet": "Michel TRINEL",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DEBARGE",
+          "prenom": "Carine",
+          "nom_complet": "Carine DEBARGE",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "4"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

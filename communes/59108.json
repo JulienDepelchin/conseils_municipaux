@@ -1,0 +1,163 @@
+{
+  "code_commune": "59108",
+  "commune": "Briastre",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "LECLERCQ",
+    "prenom": "Bruno",
+    "nom_complet": "Bruno LECLERCQ",
+    "age": 63,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 509,
+    "votants": 352,
+    "pct_votants": 69.16,
+    "abstentions": 157,
+    "pct_abstentions": 30.84,
+    "exprimes": 283
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Ensemble pour Briastre",
+      "libelle_abrege_liste": "Ensemble pour Briastre",
+      "nuance_liste": null,
+      "voix": 283,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "LECLERCQ",
+        "prenom": "Bruno",
+        "nom_complet": "Bruno LECLERCQ",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LECLERCQ",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno LECLERCQ",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LANGLET",
+          "prenom": "Martine",
+          "nom_complet": "Martine LANGLET",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "PLUVINAGE",
+          "prenom": "Romain",
+          "nom_complet": "Romain PLUVINAGE",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DHAUSSY",
+          "prenom": "Mariana",
+          "nom_complet": "Mariana DHAUSSY",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DEMURIEZ",
+          "prenom": "Francis",
+          "nom_complet": "Francis DEMURIEZ",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "GABELLE",
+          "prenom": "Marie-Line",
+          "nom_complet": "Marie-Line GABELLE",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "CORNET",
+          "prenom": "David",
+          "nom_complet": "David CORNET",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "FONTAINE",
+          "prenom": "Juliette",
+          "nom_complet": "Juliette FONTAINE",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "THELLIER",
+          "prenom": "Bernard",
+          "nom_complet": "Bernard THELLIER",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "FERBUS",
+          "prenom": "Audrey",
+          "nom_complet": "Audrey FERBUS",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "BARRA",
+          "prenom": "Romain",
+          "nom_complet": "Romain BARRA",
+          "sexe": "M",
+          "age": 25,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "BERGER",
+          "prenom": "Noémie",
+          "nom_complet": "Noémie BERGER",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "LECLERCQ",
+          "prenom": "Maxime",
+          "nom_complet": "Maxime LECLERCQ",
+          "sexe": "M",
+          "age": 32,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "DHAUSSY",
+          "prenom": "Maryse",
+          "nom_complet": "Maryse DHAUSSY",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "SEGOND",
+          "prenom": "François",
+          "nom_complet": "François SEGOND",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

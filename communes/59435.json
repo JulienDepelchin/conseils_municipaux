@@ -1,0 +1,247 @@
+{
+  "code_commune": "59435",
+  "commune": "Nomain",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "DERNAUCOURT",
+    "prenom": "Stéphanie",
+    "nom_complet": "Stéphanie DERNAUCOURT",
+    "age": 51,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 2186,
+    "votants": 1380,
+    "pct_votants": 63.13,
+    "abstentions": 806,
+    "pct_abstentions": 36.87,
+    "exprimes": 1322
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "ENSEMBLE CONSTRUISONS LE NOMAIN DE DEMAIN",
+      "libelle_abrege_liste": "ENSEMBLE CONSTRUISONS LE NOMAIN DE DEMAIN",
+      "nuance_liste": null,
+      "voix": 695,
+      "pct_voix_exprimes": 52.57,
+      "sieges_cm": 18,
+      "sieges_cc": 1,
+      "nb_elus": 18,
+      "tete_de_liste": {
+        "nom": "DERNAUCOURT",
+        "prenom": "Stéphanie",
+        "nom_complet": "Stéphanie DERNAUCOURT",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "DERNAUCOURT",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie DERNAUCOURT",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LAURETTE",
+          "prenom": "Jean-Louis",
+          "nom_complet": "Jean-Louis LAURETTE",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "MEURISSE",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique MEURISSE",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LAMAND",
+          "prenom": "Cyril",
+          "nom_complet": "Cyril LAMAND",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DUFOUR",
+          "prenom": "Patricia",
+          "nom_complet": "Patricia DUFOUR",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "CASIEZ",
+          "prenom": "Benoit",
+          "nom_complet": "Benoit CASIEZ",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DUVINAGE",
+          "prenom": "Amandine",
+          "nom_complet": "Amandine DUVINAGE",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "GRAS",
+          "prenom": "Jean-Luc",
+          "nom_complet": "Jean-Luc GRAS",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DELGRANGE",
+          "prenom": "Suzie",
+          "nom_complet": "Suzie DELGRANGE",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "VERSELLE",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick VERSELLE",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "LAHOUSTE",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie LAHOUSTE",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "SOÏKA",
+          "prenom": "Gérard",
+          "nom_complet": "Gérard SOÏKA",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "FONTENIT",
+          "prenom": "Marie",
+          "nom_complet": "Marie FONTENIT",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "MORTREUX",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe MORTREUX",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "BOUCHART",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle BOUCHART",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "DELEBASSEE",
+          "prenom": "Gaëtan",
+          "nom_complet": "Gaëtan DELEBASSEE",
+          "sexe": "M",
+          "age": 33,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "DECOURCELLE",
+          "prenom": "Laura",
+          "nom_complet": "Laura DECOURCELLE",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "LAKHOITRI",
+          "prenom": "Adam",
+          "nom_complet": "Adam LAKHOITRI",
+          "sexe": "M",
+          "age": 19,
+          "rang_liste": "18"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "UNE NOUVELLE ENERGIE POUR NOMAIN",
+      "libelle_abrege_liste": "UNE NOUVELLE ENERGIE POUR NOMAIN",
+      "nuance_liste": null,
+      "voix": 627,
+      "pct_voix_exprimes": 47.43,
+      "sieges_cm": 5,
+      "sieges_cc": 0,
+      "nb_elus": 5,
+      "tete_de_liste": {
+        "nom": "VANGHELLE",
+        "prenom": "Christophe",
+        "nom_complet": "Christophe VANGHELLE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "VANGHELLE",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe VANGHELLE",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DELOUX",
+          "prenom": "Mélodie",
+          "nom_complet": "Mélodie DELOUX",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "RICHEZ",
+          "prenom": "Benjamin",
+          "nom_complet": "Benjamin RICHEZ",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "GALLAIS",
+          "prenom": "Angélique",
+          "nom_complet": "Angélique GALLAIS",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "SOIR",
+          "prenom": "Julien",
+          "nom_complet": "Julien SOIR",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "5"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

@@ -1,0 +1,307 @@
+{
+  "code_commune": "59386",
+  "commune": "Marquette-lez-Lille",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "LEGRAND",
+    "prenom": "Dominique",
+    "nom_complet": "Dominique LEGRAND",
+    "age": 60,
+    "nuance": "LDVD"
+  },
+  "resultats": {
+    "inscrits": 8584,
+    "votants": 3324,
+    "pct_votants": 38.72,
+    "abstentions": 5260,
+    "pct_abstentions": 61.28,
+    "exprimes": 2999
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Marquette, Coeur de vie",
+      "libelle_abrege_liste": "Maquette, Coeur de vie",
+      "nuance_liste": "LDVD",
+      "voix": 2999,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 33,
+      "sieges_cc": 1,
+      "nb_elus": 33,
+      "tete_de_liste": {
+        "nom": "LEGRAND",
+        "prenom": "Dominique",
+        "nom_complet": "Dominique LEGRAND",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LEGRAND",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique LEGRAND",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DEPRICK",
+          "prenom": "Carole",
+          "nom_complet": "Carole DEPRICK",
+          "sexe": "F",
+          "age": 70,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BÉADÈS",
+          "prenom": "Miguel",
+          "nom_complet": "Miguel BÉADÈS",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "ABOUCAYA",
+          "prenom": "Chantal",
+          "nom_complet": "Chantal ABOUCAYA",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DUTHOIT",
+          "prenom": "Hugues",
+          "nom_complet": "Hugues DUTHOIT",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DENYS",
+          "prenom": "Sandrine",
+          "nom_complet": "Sandrine DENYS",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "MIMOUN",
+          "prenom": "Boumédiene",
+          "nom_complet": "Boumédiene MIMOUN",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DELERIVE",
+          "prenom": "Romane",
+          "nom_complet": "Romane DELERIVE",
+          "sexe": "F",
+          "age": 24,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "PHILIPS",
+          "prenom": "Damien",
+          "nom_complet": "Damien PHILIPS",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "CHALIMON",
+          "prenom": "Charlotte",
+          "nom_complet": "Charlotte CHALIMON",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "LEGRAND",
+          "prenom": "Jérôme",
+          "nom_complet": "Jérôme LEGRAND",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "LEFEVRE",
+          "prenom": "Séverine",
+          "nom_complet": "Séverine LEFEVRE",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "CAILLAUX",
+          "prenom": "Francis",
+          "nom_complet": "Francis CAILLAUX",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "LAURENT",
+          "prenom": "Christine",
+          "nom_complet": "Christine LAURENT",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "GRUSON",
+          "prenom": "Johann",
+          "nom_complet": "Johann GRUSON",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "DELAHAYE",
+          "prenom": "Jade",
+          "nom_complet": "Jade DELAHAYE",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "HUBO",
+          "prenom": "François",
+          "nom_complet": "François HUBO",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "MEURILLON",
+          "prenom": "Gaétane",
+          "nom_complet": "Gaétane MEURILLON",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "DASSONNEVILLE",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas DASSONNEVILLE",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "EROUART",
+          "prenom": "Bernadette",
+          "nom_complet": "Bernadette EROUART",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "BULTEL",
+          "prenom": "Julien",
+          "nom_complet": "Julien BULTEL",
+          "sexe": "M",
+          "age": 28,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "VICO",
+          "prenom": "Coralie",
+          "nom_complet": "Coralie VICO",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "DUMORTIER",
+          "prenom": "Aurélien",
+          "nom_complet": "Aurélien DUMORTIER",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "23"
+        },
+        {
+          "nom": "CHANDELIER",
+          "prenom": "Angélique",
+          "nom_complet": "Angélique CHANDELIER",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "24"
+        },
+        {
+          "nom": "MOINE",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent MOINE",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "25"
+        },
+        {
+          "nom": "LECROART",
+          "prenom": "Florence",
+          "nom_complet": "Florence LECROART",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "26"
+        },
+        {
+          "nom": "BECHKER",
+          "prenom": "Rachid",
+          "nom_complet": "Rachid BECHKER",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "27"
+        },
+        {
+          "nom": "BOUTEN",
+          "prenom": "Joëlle",
+          "nom_complet": "Joëlle BOUTEN",
+          "sexe": "F",
+          "age": 74,
+          "rang_liste": "28"
+        },
+        {
+          "nom": "BOGAERT",
+          "prenom": "Eric",
+          "nom_complet": "Eric BOGAERT",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "29"
+        },
+        {
+          "nom": "BROQUET",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie BROQUET",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "30"
+        },
+        {
+          "nom": "BEAUSIRE",
+          "prenom": "Simon",
+          "nom_complet": "Simon BEAUSIRE",
+          "sexe": "M",
+          "age": 18,
+          "rang_liste": "31"
+        },
+        {
+          "nom": "OVIGNEUR-DUTRIEUX",
+          "prenom": "Claire",
+          "nom_complet": "Claire OVIGNEUR-DUTRIEUX",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "32"
+        },
+        {
+          "nom": "BRIGE",
+          "prenom": "Jean Claude",
+          "nom_complet": "Jean Claude BRIGE",
+          "sexe": "M",
+          "age": 78,
+          "rang_liste": "33"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

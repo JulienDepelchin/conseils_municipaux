@@ -1,0 +1,83 @@
+{
+  "code_commune": "62708",
+  "commune": "Riencourt-lès-Bapaume",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "SANSEN",
+    "prenom": "Pauline",
+    "nom_complet": "Pauline SANSEN",
+    "age": 34,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 27,
+    "votants": 18,
+    "pct_votants": 66.67,
+    "abstentions": 9,
+    "pct_abstentions": 33.33,
+    "exprimes": 17
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Liste menée par Mme Pauline Sansen",
+      "libelle_abrege_liste": "Liste menée par Mme Pauline Sansen",
+      "nuance_liste": null,
+      "voix": 17,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 5,
+      "sieges_cc": null,
+      "nb_elus": 5,
+      "tete_de_liste": {
+        "nom": "SANSEN",
+        "prenom": "Pauline",
+        "nom_complet": "Pauline SANSEN",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "SANSEN",
+          "prenom": "Pauline",
+          "nom_complet": "Pauline SANSEN",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DESCAMPS",
+          "prenom": "Jean-Luc",
+          "nom_complet": "Jean-Luc DESCAMPS",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DESCAMPS",
+          "prenom": "Véronique",
+          "nom_complet": "Véronique DESCAMPS",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "CHIRAT",
+          "prenom": "Xavier",
+          "nom_complet": "Xavier CHIRAT",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "HODICQ",
+          "prenom": "Angélique",
+          "nom_complet": "Angélique HODICQ",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "5"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

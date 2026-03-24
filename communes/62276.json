@@ -1,0 +1,315 @@
+{
+  "code_commune": "62276",
+  "commune": "Douvrin",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "DUPONT",
+    "prenom": "Jean-Michel",
+    "nom_complet": "Jean-Michel DUPONT",
+    "age": 58,
+    "nuance": "LDIV"
+  },
+  "resultats": {
+    "inscrits": 4589,
+    "votants": 2918,
+    "pct_votants": 63.59,
+    "abstentions": 1671,
+    "pct_abstentions": 36.41,
+    "exprimes": 2833
+  },
+  "listes": [
+    {
+      "num_panneau": "3",
+      "libelle_liste": "DOUVRIN - NOTRE VILLE, VOTRE AVENIR",
+      "libelle_abrege_liste": "DOUVRIN - NOTRE VILLE, VOTRE AVENIR",
+      "nuance_liste": "LDIV",
+      "voix": 2157,
+      "pct_voix_exprimes": 76.14,
+      "sieges_cm": 27,
+      "sieges_cc": 2,
+      "nb_elus": 27,
+      "tete_de_liste": {
+        "nom": "DUPONT",
+        "prenom": "Jean-Michel",
+        "nom_complet": "Jean-Michel DUPONT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DUPONT",
+          "prenom": "Jean-Michel",
+          "nom_complet": "Jean-Michel DUPONT",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "VIVIER",
+          "prenom": "Ewa",
+          "nom_complet": "Ewa VIVIER",
+          "sexe": "F",
+          "age": 72,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "HOUZE DE L'AULNOIT",
+          "prenom": "Hugues",
+          "nom_complet": "Hugues HOUZE DE L'AULNOIT",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LELONG",
+          "prenom": "Christiane",
+          "nom_complet": "Christiane LELONG",
+          "sexe": "F",
+          "age": 83,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "TOURNIQUET",
+          "prenom": "Romain",
+          "nom_complet": "Romain TOURNIQUET",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "ALLARD",
+          "prenom": "Catty",
+          "nom_complet": "Catty ALLARD",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "MAENHOUT",
+          "prenom": "Roger",
+          "nom_complet": "Roger MAENHOUT",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DEREPPE",
+          "prenom": "Odile",
+          "nom_complet": "Odile DEREPPE",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "FENGLER",
+          "prenom": "Fabrice",
+          "nom_complet": "Fabrice FENGLER",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "KUKIOLCZYNSKI",
+          "prenom": "Annie",
+          "nom_complet": "Annie KUKIOLCZYNSKI",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "GLAISE",
+          "prenom": "Franck",
+          "nom_complet": "Franck GLAISE",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "MAUGREZ",
+          "prenom": "Sandrine",
+          "nom_complet": "Sandrine MAUGREZ",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "BOULERT",
+          "prenom": "Jean-Marc",
+          "nom_complet": "Jean-Marc BOULERT",
+          "sexe": "M",
+          "age": 78,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "BRAEM",
+          "prenom": "Stephanie",
+          "nom_complet": "Stephanie BRAEM",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "FLAMBARD",
+          "prenom": "Daniel",
+          "nom_complet": "Daniel FLAMBARD",
+          "sexe": "M",
+          "age": 74,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "GORILLOT",
+          "prenom": "Audrey",
+          "nom_complet": "Audrey GORILLOT",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "BOUILLET",
+          "prenom": "Remy",
+          "nom_complet": "Remy BOUILLET",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "STIEVENARD",
+          "prenom": "Alexandra",
+          "nom_complet": "Alexandra STIEVENARD",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "VANPEPERSTRAETE",
+          "prenom": "David",
+          "nom_complet": "David VANPEPERSTRAETE",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "MARIE",
+          "prenom": "Cindy",
+          "nom_complet": "Cindy MARIE",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "CARPENTIER",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe CARPENTIER",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "COGET",
+          "prenom": "Dalila",
+          "nom_complet": "Dalila COGET",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "SIJNESAEL",
+          "prenom": "Jacques",
+          "nom_complet": "Jacques SIJNESAEL",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "23"
+        },
+        {
+          "nom": "MARTON",
+          "prenom": "Stephanie",
+          "nom_complet": "Stephanie MARTON",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "24"
+        },
+        {
+          "nom": "ESCALBERT",
+          "prenom": "Jeremy",
+          "nom_complet": "Jeremy ESCALBERT",
+          "sexe": "M",
+          "age": 34,
+          "rang_liste": "25"
+        },
+        {
+          "nom": "DUCHEMIN",
+          "prenom": "Annie",
+          "nom_complet": "Annie DUCHEMIN",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "26"
+        },
+        {
+          "nom": "DEPRAETERE",
+          "prenom": "Jeremy",
+          "nom_complet": "Jeremy DEPRAETERE",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "27"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "J'AIME DOUVRIN AVEC VINCENT PASQUIER",
+      "libelle_abrege_liste": "J'AIME DOUVRIN AVEC VINCENT PASQUIER",
+      "nuance_liste": "LDVG",
+      "voix": 354,
+      "pct_voix_exprimes": 12.5,
+      "sieges_cm": 1,
+      "sieges_cc": 0,
+      "nb_elus": 1,
+      "tete_de_liste": {
+        "nom": "PASQUIER",
+        "prenom": "Vincent",
+        "nom_complet": "Vincent PASQUIER",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "PASQUIER",
+          "prenom": "Vincent",
+          "nom_complet": "Vincent PASQUIER",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "1"
+        }
+      ],
+      "statut_conseil": "autre"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "LE MEILLEUR POUR DOUVRIN",
+      "libelle_abrege_liste": "LE MEILLEUR POUR DOUVRIN",
+      "nuance_liste": "LDIV",
+      "voix": 322,
+      "pct_voix_exprimes": 11.37,
+      "sieges_cm": 1,
+      "sieges_cc": 0,
+      "nb_elus": 1,
+      "tete_de_liste": {
+        "nom": "HAREL",
+        "prenom": "Corinne",
+        "nom_complet": "Corinne HAREL",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "HAREL",
+          "prenom": "Corinne",
+          "nom_complet": "Corinne HAREL",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "1"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

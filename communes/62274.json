@@ -1,0 +1,315 @@
+{
+  "code_commune": "62274",
+  "commune": "Dourges",
+  "departement": "Pas-de-Calais",
+  "tour": "T2",
+  "maire": {
+    "nom": "FRANCONVILLE",
+    "prenom": "Tony",
+    "nom_complet": "Tony FRANCONVILLE",
+    "age": 47,
+    "nuance": "LDVC"
+  },
+  "resultats": {
+    "inscrits": 4423,
+    "votants": 2747,
+    "pct_votants": 62.11,
+    "abstentions": 1676,
+    "pct_abstentions": 37.89,
+    "exprimes": 2699
+  },
+  "listes": [
+    {
+      "num_panneau": "3",
+      "libelle_liste": "ALLIANCE CITOYENNE VOUS AVANT TOUT",
+      "libelle_abrege_liste": "ALLIANCE CITOYENNE VOUS AVANT TOUT",
+      "nuance_liste": "LDVC",
+      "voix": 1242,
+      "pct_voix_exprimes": 46.02,
+      "sieges_cm": 22,
+      "sieges_cc": 2,
+      "nb_elus": 22,
+      "tete_de_liste": {
+        "nom": "FRANCONVILLE",
+        "prenom": "Tony",
+        "nom_complet": "Tony FRANCONVILLE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "FRANCONVILLE",
+          "prenom": "Tony",
+          "nom_complet": "Tony FRANCONVILLE",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "WERQUIN",
+          "prenom": "Mildred",
+          "nom_complet": "Mildred WERQUIN",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BOUGHEZAL",
+          "prenom": "Julien",
+          "nom_complet": "Julien BOUGHEZAL",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BARLET",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie BARLET",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "THUILLIEZ",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent THUILLIEZ",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DUBAR",
+          "prenom": "Pauline",
+          "nom_complet": "Pauline DUBAR",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BAILLET",
+          "prenom": "Alain",
+          "nom_complet": "Alain BAILLET",
+          "sexe": "M",
+          "age": 75,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "MIJUIN",
+          "prenom": "Peggy",
+          "nom_complet": "Peggy MIJUIN",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "LENBA",
+          "prenom": "Ouassini",
+          "nom_complet": "Ouassini LENBA",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "BLONDEAU",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie BLONDEAU",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "SCHOLLART",
+          "prenom": "Denis",
+          "nom_complet": "Denis SCHOLLART",
+          "sexe": "M",
+          "age": 87,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "POCLET",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique POCLET",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "RAVEZ",
+          "prenom": "Jean-Marie",
+          "nom_complet": "Jean-Marie RAVEZ",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "LEMAIRE",
+          "prenom": "Sabrina",
+          "nom_complet": "Sabrina LEMAIRE",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "SIX",
+          "prenom": "Roland",
+          "nom_complet": "Roland SIX",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "DUJARDIN",
+          "prenom": "Severine",
+          "nom_complet": "Severine DUJARDIN",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "SERIO",
+          "prenom": "Bernard",
+          "nom_complet": "Bernard SERIO",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "MADAU",
+          "prenom": "Graziella",
+          "nom_complet": "Graziella MADAU",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "CROISIER",
+          "prenom": "Benjamin",
+          "nom_complet": "Benjamin CROISIER",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "LECOCQ",
+          "prenom": "Monique",
+          "nom_complet": "Monique LECOCQ",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "BLONDEAU",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier BLONDEAU",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "GOUAL",
+          "prenom": "Rahma",
+          "nom_complet": "Rahma GOUAL",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "22"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "LES DOURGEOIS EN ACTION",
+      "libelle_abrege_liste": "LES DOURGEOIS EN ACTION",
+      "nuance_liste": "LRN",
+      "voix": 871,
+      "pct_voix_exprimes": 32.27,
+      "sieges_cm": 4,
+      "sieges_cc": 1,
+      "nb_elus": 4,
+      "tete_de_liste": {
+        "nom": "RICHARD",
+        "prenom": "Frédéric",
+        "nom_complet": "Frédéric RICHARD",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "RICHARD",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric RICHARD",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "JOLY",
+          "prenom": "Audrey",
+          "nom_complet": "Audrey JOLY",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "FERNAND",
+          "prenom": "Matthieu",
+          "nom_complet": "Matthieu FERNAND",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "CABOCHE",
+          "prenom": "Cécile",
+          "nom_complet": "Cécile CABOCHE",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "4"
+        }
+      ],
+      "statut_conseil": "autre"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "AGIR ENSEMBLE POUR DOURGES",
+      "libelle_abrege_liste": "AGIR ENSEMBLE POUR DOURGES",
+      "nuance_liste": "LDIV",
+      "voix": 586,
+      "pct_voix_exprimes": 21.71,
+      "sieges_cm": 3,
+      "sieges_cc": 0,
+      "nb_elus": 3,
+      "tete_de_liste": {
+        "nom": "GIBOIRE",
+        "prenom": "Antoine",
+        "nom_complet": "Antoine GIBOIRE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "GIBOIRE",
+          "prenom": "Antoine",
+          "nom_complet": "Antoine GIBOIRE",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DIOUANI",
+          "prenom": "Sarah",
+          "nom_complet": "Sarah DIOUANI",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "SEGARD",
+          "prenom": "Martial",
+          "nom_complet": "Martial SEGARD",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "3"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

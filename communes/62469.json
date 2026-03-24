@@ -1,0 +1,163 @@
+{
+  "code_commune": "62469",
+  "commune": "Inchy-en-Artois",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "ROUSSEAU",
+    "prenom": "Michel",
+    "nom_complet": "Michel ROUSSEAU",
+    "age": 69,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 403,
+    "votants": 252,
+    "pct_votants": 62.53,
+    "abstentions": 151,
+    "pct_abstentions": 37.47,
+    "exprimes": 206
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Inchy en Artois un village une histoire un avenir",
+      "libelle_abrege_liste": "Inchy en Artois un village une histoire un avenir",
+      "nuance_liste": null,
+      "voix": 206,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "ROUSSEAU",
+        "prenom": "Michel",
+        "nom_complet": "Michel ROUSSEAU",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "ROUSSEAU",
+          "prenom": "Michel",
+          "nom_complet": "Michel ROUSSEAU",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LEROY",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle LEROY",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "GARCIA",
+          "prenom": "Gaylord",
+          "nom_complet": "Gaylord GARCIA",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "STRIQUE",
+          "prenom": "Coralie",
+          "nom_complet": "Coralie STRIQUE",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LABALETTE",
+          "prenom": "Ludovic",
+          "nom_complet": "Ludovic LABALETTE",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "BAYEUIL",
+          "prenom": "Alexia",
+          "nom_complet": "Alexia BAYEUIL",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DAGNEAUX",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas DAGNEAUX",
+          "sexe": "M",
+          "age": 20,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "BRANCQ",
+          "prenom": "Marie Agnès",
+          "nom_complet": "Marie Agnès BRANCQ",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DAUCHET",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal DAUCHET",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DEPLANQUE",
+          "prenom": "Agathe",
+          "nom_complet": "Agathe DEPLANQUE",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DESENNE",
+          "prenom": "Sébastien",
+          "nom_complet": "Sébastien DESENNE",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "MACHU",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie MACHU",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "LEFEBVRE",
+          "prenom": "Gérard",
+          "nom_complet": "Gérard LEFEBVRE",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "MAYER",
+          "prenom": "Sandrine",
+          "nom_complet": "Sandrine MAYER",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "TETIN",
+          "prenom": "Julien",
+          "nom_complet": "Julien TETIN",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

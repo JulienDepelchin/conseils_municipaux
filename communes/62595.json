@@ -1,0 +1,183 @@
+{
+  "code_commune": "62595",
+  "commune": "Moulle",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "BRIOIS",
+    "prenom": "Veronique",
+    "nom_complet": "Veronique BRIOIS",
+    "age": 64,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 973,
+    "votants": 745,
+    "pct_votants": 76.57,
+    "abstentions": 228,
+    "pct_abstentions": 23.43,
+    "exprimes": 709
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "CONTINUONS DE BIEN VIVRE A MOULLE",
+      "libelle_abrege_liste": "CONTINUONS DE BIEN VIVRE A MOULLE",
+      "nuance_liste": null,
+      "voix": 443,
+      "pct_voix_exprimes": 62.48,
+      "sieges_cm": 12,
+      "sieges_cc": 1,
+      "nb_elus": 12,
+      "tete_de_liste": {
+        "nom": "BRIOIS",
+        "prenom": "Veronique",
+        "nom_complet": "Veronique BRIOIS",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "BRIOIS",
+          "prenom": "Veronique",
+          "nom_complet": "Veronique BRIOIS",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BEAUMONT",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal BEAUMONT",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "CLAIRET",
+          "prenom": "Josèphe",
+          "nom_complet": "Josèphe CLAIRET",
+          "sexe": "F",
+          "age": 75,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LORTHIOY",
+          "prenom": "Geoffrey",
+          "nom_complet": "Geoffrey LORTHIOY",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "HIELLE",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie HIELLE",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DUCHATEL",
+          "prenom": "Emmanuel",
+          "nom_complet": "Emmanuel DUCHATEL",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "COURBOT",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle COURBOT",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "WATRE",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe WATRE",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "BRUNELOT",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie BRUNELOT",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "SABAU",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent SABAU",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DUBOIS",
+          "prenom": "Céline",
+          "nom_complet": "Céline DUBOIS",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "JOMIN",
+          "prenom": "Bernard",
+          "nom_complet": "Bernard JOMIN",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "12"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "\"RETROUVONS ENFIN DE BONHEUR DE VIVRE A MOULLE\"",
+      "libelle_abrege_liste": "\"RETROUVONS ENFIN DE BONHEUR DE VIVRE A MOULLE\"",
+      "nuance_liste": null,
+      "voix": 266,
+      "pct_voix_exprimes": 37.52,
+      "sieges_cm": 3,
+      "sieges_cc": 0,
+      "nb_elus": 3,
+      "tete_de_liste": {
+        "nom": "THOMAS",
+        "prenom": "Marc",
+        "nom_complet": "Marc THOMAS",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "THOMAS",
+          "prenom": "Marc",
+          "nom_complet": "Marc THOMAS",
+          "sexe": "M",
+          "age": 74,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "COUZYN",
+          "prenom": "Valerie",
+          "nom_complet": "Valerie COUZYN",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "HELLEBOID",
+          "prenom": "Franck",
+          "nom_complet": "Franck HELLEBOID",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "3"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

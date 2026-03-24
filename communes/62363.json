@@ -1,0 +1,131 @@
+{
+  "code_commune": "62363",
+  "commune": "Frévin-Capelle",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "CARTON",
+    "prenom": "Philippe",
+    "nom_complet": "Philippe CARTON",
+    "age": 69,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 317,
+    "votants": 200,
+    "pct_votants": 63.09,
+    "abstentions": 117,
+    "pct_abstentions": 36.91,
+    "exprimes": 181
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Frévin, notre village",
+      "libelle_abrege_liste": "Frévin, notre village",
+      "nuance_liste": null,
+      "voix": 181,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "CARTON",
+        "prenom": "Philippe",
+        "nom_complet": "Philippe CARTON",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "CARTON",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe CARTON",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "VALLERANT",
+          "prenom": "Emeline",
+          "nom_complet": "Emeline VALLERANT",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DURANEL",
+          "prenom": "Fabien",
+          "nom_complet": "Fabien DURANEL",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "CAPRON",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie CAPRON",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LESOING",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique LESOING",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "BOUTIN",
+          "prenom": "Christine",
+          "nom_complet": "Christine BOUTIN",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "LEROY",
+          "prenom": "Julien",
+          "nom_complet": "Julien LEROY",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "FARDEL",
+          "prenom": "Camille",
+          "nom_complet": "Camille FARDEL",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "JATTEAU MARIAU",
+          "prenom": "Julien",
+          "nom_complet": "Julien JATTEAU MARIAU",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "FREGNAC",
+          "prenom": "Delphine",
+          "nom_complet": "Delphine FREGNAC",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "THOMÉ",
+          "prenom": "Arnaud",
+          "nom_complet": "Arnaud THOMÉ",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

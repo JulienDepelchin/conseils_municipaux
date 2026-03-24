@@ -1,0 +1,131 @@
+{
+  "code_commune": "62732",
+  "commune": "Sachin",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "GAROT",
+    "prenom": "Dominique",
+    "nom_complet": "Dominique GAROT",
+    "age": 60,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 268,
+    "votants": 162,
+    "pct_votants": 60.45,
+    "abstentions": 106,
+    "pct_abstentions": 39.55,
+    "exprimes": 133
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "AGIR POUR SACHIN",
+      "libelle_abrege_liste": "AGIR POUR SACHIN",
+      "nuance_liste": null,
+      "voix": 133,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "GAROT",
+        "prenom": "Dominique",
+        "nom_complet": "Dominique GAROT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "GAROT",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique GAROT",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "CHARBONNIER",
+          "prenom": "Géraldine",
+          "nom_complet": "Géraldine CHARBONNIER",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LELEU",
+          "prenom": "Raphaël",
+          "nom_complet": "Raphaël LELEU",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "CHARLE",
+          "prenom": "Elodie",
+          "nom_complet": "Elodie CHARLE",
+          "sexe": "F",
+          "age": 31,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "COSTEMEND",
+          "prenom": "Lionel",
+          "nom_complet": "Lionel COSTEMEND",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LESUR",
+          "prenom": "Caroline",
+          "nom_complet": "Caroline LESUR",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "NOWAKOWSKI",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal NOWAKOWSKI",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "GOURIOU",
+          "prenom": "Aude",
+          "nom_complet": "Aude GOURIOU",
+          "sexe": "F",
+          "age": 32,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "VERDIN",
+          "prenom": "Cédric",
+          "nom_complet": "Cédric VERDIN",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "VERDIN",
+          "prenom": "Clotilde",
+          "nom_complet": "Clotilde VERDIN",
+          "sexe": "F",
+          "age": 25,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "LELEU",
+          "prenom": "Guénaël",
+          "nom_complet": "Guénaël LELEU",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

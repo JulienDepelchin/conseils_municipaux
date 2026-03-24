@@ -1,0 +1,215 @@
+{
+  "code_commune": "59035",
+  "commune": "Avesnelles",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "BADIDI",
+    "prenom": "Antoine",
+    "nom_complet": "Antoine BADIDI",
+    "age": 44,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1933,
+    "votants": 1188,
+    "pct_votants": 61.46,
+    "abstentions": 745,
+    "pct_abstentions": 38.54,
+    "exprimes": 1159
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "Avesnelles au coeur",
+      "libelle_abrege_liste": "Avesnelles au coeur",
+      "nuance_liste": null,
+      "voix": 881,
+      "pct_voix_exprimes": 76.01,
+      "sieges_cm": 17,
+      "sieges_cc": 4,
+      "nb_elus": 17,
+      "tete_de_liste": {
+        "nom": "BADIDI",
+        "prenom": "Antoine",
+        "nom_complet": "Antoine BADIDI",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BADIDI",
+          "prenom": "Antoine",
+          "nom_complet": "Antoine BADIDI",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "MERCIER",
+          "prenom": "Marie-Christine",
+          "nom_complet": "Marie-Christine MERCIER",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "PETIT",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal PETIT",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "PREVOST",
+          "prenom": "Christelle",
+          "nom_complet": "Christelle PREVOST",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "MANGHOLZ",
+          "prenom": "Romain",
+          "nom_complet": "Romain MANGHOLZ",
+          "sexe": "M",
+          "age": 29,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "CHATELAIN",
+          "prenom": "Katy",
+          "nom_complet": "Katy CHATELAIN",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "CHRETIEN",
+          "prenom": "Jérémy",
+          "nom_complet": "Jérémy CHRETIEN",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DUQUESNE",
+          "prenom": "Maite",
+          "nom_complet": "Maite DUQUESNE",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "WERY",
+          "prenom": "Hugo",
+          "nom_complet": "Hugo WERY",
+          "sexe": "M",
+          "age": 26,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "WAUCHER",
+          "prenom": "Edith",
+          "nom_complet": "Edith WAUCHER",
+          "sexe": "F",
+          "age": 76,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "SEGUIN",
+          "prenom": "Jean",
+          "nom_complet": "Jean SEGUIN",
+          "sexe": "M",
+          "age": 78,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "CAFFIAU",
+          "prenom": "Virginie",
+          "nom_complet": "Virginie CAFFIAU",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "QUETIER",
+          "prenom": "Thomas",
+          "nom_complet": "Thomas QUETIER",
+          "sexe": "M",
+          "age": 27,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "RAMELOT",
+          "prenom": "Caroline",
+          "nom_complet": "Caroline RAMELOT",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "JOSSET",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent JOSSET",
+          "sexe": "M",
+          "age": 76,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "DELBRUYERE",
+          "prenom": "Aurore",
+          "nom_complet": "Aurore DELBRUYERE",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "TENDERO",
+          "prenom": "Didier",
+          "nom_complet": "Didier TENDERO",
+          "sexe": "M",
+          "age": 76,
+          "rang_liste": "17"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "L'ELAN AVESNELLOIS",
+      "libelle_abrege_liste": "L'ELAN AVESNELLOIS",
+      "nuance_liste": null,
+      "voix": 278,
+      "pct_voix_exprimes": 23.99,
+      "sieges_cm": 2,
+      "sieges_cc": 0,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "BRIATTE",
+        "prenom": "Valérie",
+        "nom_complet": "Valérie BRIATTE",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "BRIATTE",
+          "prenom": "Valérie",
+          "nom_complet": "Valérie BRIATTE",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BERTEAUX",
+          "prenom": "Maxime",
+          "nom_complet": "Maxime BERTEAUX",
+          "sexe": "M",
+          "age": 30,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

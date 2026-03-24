@@ -1,0 +1,215 @@
+{
+  "code_commune": "62235",
+  "commune": "Condette",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "LECLERCQ",
+    "prenom": "Hervé",
+    "nom_complet": "Hervé LECLERCQ",
+    "age": 67,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 2250,
+    "votants": 1480,
+    "pct_votants": 65.78,
+    "abstentions": 770,
+    "pct_abstentions": 34.22,
+    "exprimes": 1421
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "POUR CONDETTE RESPONSABLES PAR NATURE",
+      "libelle_abrege_liste": "POUR CONDETTE RESPONSABLES PAR NATURE",
+      "nuance_liste": null,
+      "voix": 893,
+      "pct_voix_exprimes": 62.84,
+      "sieges_cm": 16,
+      "sieges_cc": 1,
+      "nb_elus": 16,
+      "tete_de_liste": {
+        "nom": "LECLERCQ",
+        "prenom": "Hervé",
+        "nom_complet": "Hervé LECLERCQ",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LECLERCQ",
+          "prenom": "Hervé",
+          "nom_complet": "Hervé LECLERCQ",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BLOQUET",
+          "prenom": "Betty",
+          "nom_complet": "Betty BLOQUET",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "QUENNESSON",
+          "prenom": "Géry",
+          "nom_complet": "Géry QUENNESSON",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "TAPON",
+          "prenom": "Isis",
+          "nom_complet": "Isis TAPON",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LABBE",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique LABBE",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "GOLLIOT",
+          "prenom": "Christelle",
+          "nom_complet": "Christelle GOLLIOT",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DRANSART",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe DRANSART",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "BARBARIN",
+          "prenom": "Clemence",
+          "nom_complet": "Clemence BARBARIN",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DELPIERRE",
+          "prenom": "Mathieu",
+          "nom_complet": "Mathieu DELPIERRE",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "JONCQUEZ",
+          "prenom": "Brigitte",
+          "nom_complet": "Brigitte JONCQUEZ",
+          "sexe": "F",
+          "age": 71,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DAUSQUE",
+          "prenom": "Dimitri",
+          "nom_complet": "Dimitri DAUSQUE",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "MINARD",
+          "prenom": "Alexandrine",
+          "nom_complet": "Alexandrine MINARD",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "FAIT",
+          "prenom": "Morgan",
+          "nom_complet": "Morgan FAIT",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "DE BRYE",
+          "prenom": "Sophie",
+          "nom_complet": "Sophie DE BRYE",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "THERET",
+          "prenom": "Jean-Baptiste",
+          "nom_complet": "Jean-Baptiste THERET",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "CARON",
+          "prenom": "Selene",
+          "nom_complet": "Selene CARON",
+          "sexe": "F",
+          "age": 33,
+          "rang_liste": "16"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "POUR CONDETTE ET LES CONDETTOIS TOUT SIMPLEMENT",
+      "libelle_abrege_liste": "POUR CONDETTE ET LES CONDETTOIS TOUT SIMPLEMENT",
+      "nuance_liste": null,
+      "voix": 528,
+      "pct_voix_exprimes": 37.16,
+      "sieges_cm": 3,
+      "sieges_cc": 0,
+      "nb_elus": 3,
+      "tete_de_liste": {
+        "nom": "DERRAR",
+        "prenom": "Kaddour Jean",
+        "nom_complet": "Kaddour Jean DERRAR",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DERRAR",
+          "prenom": "Kaddour Jean",
+          "nom_complet": "Kaddour Jean DERRAR",
+          "sexe": "M",
+          "age": 77,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LONGUET",
+          "prenom": "Monique",
+          "nom_complet": "Monique LONGUET",
+          "sexe": "F",
+          "age": 76,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "CLERBOUT",
+          "prenom": "Gilbert",
+          "nom_complet": "Gilbert CLERBOUT",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "3"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

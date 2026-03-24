@@ -1,0 +1,267 @@
+{
+  "code_commune": "59525",
+  "commune": "Sains-du-Nord",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "BASQUIN",
+    "prenom": "Christine",
+    "nom_complet": "Christine BASQUIN",
+    "age": 69,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1847,
+    "votants": 1255,
+    "pct_votants": 67.95,
+    "abstentions": 592,
+    "pct_abstentions": 32.05,
+    "exprimes": 1220
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "Unis pour Sains",
+      "libelle_abrege_liste": "Unis pour Sains",
+      "nuance_liste": null,
+      "voix": 643,
+      "pct_voix_exprimes": 52.7,
+      "sieges_cm": 18,
+      "sieges_cc": 5,
+      "nb_elus": 18,
+      "tete_de_liste": {
+        "nom": "BASQUIN",
+        "prenom": "Christine",
+        "nom_complet": "Christine BASQUIN",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "BASQUIN",
+          "prenom": "Christine",
+          "nom_complet": "Christine BASQUIN",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DESSAINT",
+          "prenom": "Jean-Pierre",
+          "nom_complet": "Jean-Pierre DESSAINT",
+          "sexe": "M",
+          "age": 74,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DÉJARDIN-NOYON",
+          "prenom": "Maryse",
+          "nom_complet": "Maryse DÉJARDIN-NOYON",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "CANIOT",
+          "prenom": "Emmanuel",
+          "nom_complet": "Emmanuel CANIOT",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "BUFI",
+          "prenom": "Sabine",
+          "nom_complet": "Sabine BUFI",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LERICHE",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe LERICHE",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "LECLERCQ",
+          "prenom": "Coralie",
+          "nom_complet": "Coralie LECLERCQ",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "CONTESSE",
+          "prenom": "Gilles",
+          "nom_complet": "Gilles CONTESSE",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "POULAT",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie POULAT",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "LOPPE",
+          "prenom": "Thierry",
+          "nom_complet": "Thierry LOPPE",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "PRUDENCE",
+          "prenom": "Geraldine",
+          "nom_complet": "Geraldine PRUDENCE",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "CŒUR",
+          "prenom": "Jordan",
+          "nom_complet": "Jordan CŒUR",
+          "sexe": "M",
+          "age": 28,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "DRUART",
+          "prenom": "Cindy",
+          "nom_complet": "Cindy DRUART",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "PICAVET",
+          "prenom": "Michel",
+          "nom_complet": "Michel PICAVET",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "PLACE",
+          "prenom": "Marie-Louise",
+          "nom_complet": "Marie-Louise PLACE",
+          "sexe": "F",
+          "age": 72,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "BRUIT",
+          "prenom": "Jean-Jacques",
+          "nom_complet": "Jean-Jacques BRUIT",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "DAUMERIES",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie DAUMERIES",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "DOUAY",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal DOUAY",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "18"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "AGIR ENSEMBLE POUR SAINS",
+      "libelle_abrege_liste": "AGIR ENSEMBLE POUR SAINS",
+      "nuance_liste": null,
+      "voix": 384,
+      "pct_voix_exprimes": 31.48,
+      "sieges_cm": 3,
+      "sieges_cc": 1,
+      "nb_elus": 3,
+      "tete_de_liste": {
+        "nom": "SOYAH",
+        "prenom": "Mehdi",
+        "nom_complet": "Mehdi SOYAH",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "SOYAH",
+          "prenom": "Mehdi",
+          "nom_complet": "Mehdi SOYAH",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LENTIER",
+          "prenom": "Anne-Marie",
+          "nom_complet": "Anne-Marie LENTIER",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "KRUG",
+          "prenom": "Pierre",
+          "nom_complet": "Pierre KRUG",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "3"
+        }
+      ],
+      "statut_conseil": "autre"
+    },
+    {
+      "num_panneau": "3",
+      "libelle_liste": "Sainsois(es), demain vous appartient",
+      "libelle_abrege_liste": "Sainsois(es), demain vous appartient",
+      "nuance_liste": null,
+      "voix": 193,
+      "pct_voix_exprimes": 15.82,
+      "sieges_cm": 2,
+      "sieges_cc": 0,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "VAN ELSLANDE",
+        "prenom": "Natacha",
+        "nom_complet": "Natacha VAN ELSLANDE",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "VAN ELSLANDE",
+          "prenom": "Natacha",
+          "nom_complet": "Natacha VAN ELSLANDE",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "CROCFER",
+          "prenom": "Robert",
+          "nom_complet": "Robert CROCFER",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

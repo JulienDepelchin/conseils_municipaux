@@ -1,0 +1,131 @@
+{
+  "code_commune": "62586",
+  "commune": "Montenescourt",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "BALAVOINE",
+    "prenom": "Freddy",
+    "nom_complet": "Freddy BALAVOINE",
+    "age": 53,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 363,
+    "votants": 229,
+    "pct_votants": 63.09,
+    "abstentions": 134,
+    "pct_abstentions": 36.91,
+    "exprimes": 211
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "CONTINUONS ENSEMBLE POUR MONTENESCOURT",
+      "libelle_abrege_liste": "CONTINUONS ENSEMBLE POUR MONTENESCOURT",
+      "nuance_liste": null,
+      "voix": 211,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "BALAVOINE",
+        "prenom": "Freddy",
+        "nom_complet": "Freddy BALAVOINE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BALAVOINE",
+          "prenom": "Freddy",
+          "nom_complet": "Freddy BALAVOINE",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "VICTOR",
+          "prenom": "Claudine",
+          "nom_complet": "Claudine VICTOR",
+          "sexe": "F",
+          "age": 74,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DAVID",
+          "prenom": "Eddie",
+          "nom_complet": "Eddie DAVID",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "MONCOMBLE",
+          "prenom": "Barbara",
+          "nom_complet": "Barbara MONCOMBLE",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LHERBIER",
+          "prenom": "Raymond",
+          "nom_complet": "Raymond LHERBIER",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DUBOIS",
+          "prenom": "Laurence",
+          "nom_complet": "Laurence DUBOIS",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "FACON",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent FACON",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "JOLIBOIS",
+          "prenom": "Camille",
+          "nom_complet": "Camille JOLIBOIS",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "MERVILLE",
+          "prenom": "Freddy",
+          "nom_complet": "Freddy MERVILLE",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "VINCENT",
+          "prenom": "Aurélie",
+          "nom_complet": "Aurélie VINCENT",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "CAUDRON",
+          "prenom": "Rémi",
+          "nom_complet": "Rémi CAUDRON",
+          "sexe": "M",
+          "age": 34,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

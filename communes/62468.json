@@ -1,0 +1,151 @@
+{
+  "code_commune": "62468",
+  "commune": "Humières",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "MERLIN",
+    "prenom": "Georges",
+    "nom_complet": "Georges MERLIN",
+    "age": 71,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 189,
+    "votants": 168,
+    "pct_votants": 88.89,
+    "abstentions": 21,
+    "pct_abstentions": 11.11,
+    "exprimes": 161
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "\"Ensemble, continuons...\"",
+      "libelle_abrege_liste": "\"Ensemble, continuons...\"",
+      "nuance_liste": null,
+      "voix": 89,
+      "pct_voix_exprimes": 55.28,
+      "sieges_cm": 9,
+      "sieges_cc": null,
+      "nb_elus": 9,
+      "tete_de_liste": {
+        "nom": "MERLIN",
+        "prenom": "Georges",
+        "nom_complet": "Georges MERLIN",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "MERLIN",
+          "prenom": "Georges",
+          "nom_complet": "Georges MERLIN",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DUCATEL",
+          "prenom": "Virginie",
+          "nom_complet": "Virginie DUCATEL",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "MARQUANT",
+          "prenom": "Clément",
+          "nom_complet": "Clément MARQUANT",
+          "sexe": "M",
+          "age": 34,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DE PREMONT",
+          "prenom": "Constance",
+          "nom_complet": "Constance DE PREMONT",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "POMART",
+          "prenom": "Michel",
+          "nom_complet": "Michel POMART",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "SARRE",
+          "prenom": "Julie",
+          "nom_complet": "Julie SARRE",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "SKORUPKA",
+          "prenom": "Maxime",
+          "nom_complet": "Maxime SKORUPKA",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "THEROUANNE",
+          "prenom": "Hélène",
+          "nom_complet": "Hélène THEROUANNE",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "BOCQUILLON",
+          "prenom": "Jérémie",
+          "nom_complet": "Jérémie BOCQUILLON",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "9"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "VIVRE ET AGIR A HUMIERES",
+      "libelle_abrege_liste": "VIVRE ET AGIR A HUMIERES",
+      "nuance_liste": null,
+      "voix": 72,
+      "pct_voix_exprimes": 44.72,
+      "sieges_cm": 2,
+      "sieges_cc": null,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "COPIN",
+        "prenom": "Antoine",
+        "nom_complet": "Antoine COPIN",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "COPIN",
+          "prenom": "Antoine",
+          "nom_complet": "Antoine COPIN",
+          "sexe": "M",
+          "age": 29,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "AUBRIOT",
+          "prenom": "Vanessa",
+          "nom_complet": "Vanessa AUBRIOT",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

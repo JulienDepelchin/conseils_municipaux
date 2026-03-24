@@ -1,0 +1,151 @@
+{
+  "code_commune": "59287",
+  "commune": "Haucourt-en-Cambrésis",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "BONIFACE",
+    "prenom": "Patrice",
+    "nom_complet": "Patrice BONIFACE",
+    "age": 67,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 146,
+    "votants": 140,
+    "pct_votants": 95.89,
+    "abstentions": 6,
+    "pct_abstentions": 4.11,
+    "exprimes": 132
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "NOTRE VILLAGE, NOTRE AVENIR",
+      "libelle_abrege_liste": "NOTRE VILLAGE, NOTRE AVENIR",
+      "nuance_liste": null,
+      "voix": 78,
+      "pct_voix_exprimes": 59.09,
+      "sieges_cm": 9,
+      "sieges_cc": null,
+      "nb_elus": 9,
+      "tete_de_liste": {
+        "nom": "BONIFACE",
+        "prenom": "Patrice",
+        "nom_complet": "Patrice BONIFACE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BONIFACE",
+          "prenom": "Patrice",
+          "nom_complet": "Patrice BONIFACE",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "POTIER",
+          "prenom": "Emilie",
+          "nom_complet": "Emilie POTIER",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "MARTIN",
+          "prenom": "Rémy",
+          "nom_complet": "Rémy MARTIN",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LEPILLIEZ",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie LEPILLIEZ",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DELACOCHY",
+          "prenom": "Tristan",
+          "nom_complet": "Tristan DELACOCHY",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LEULLIETTE",
+          "prenom": "Sophie",
+          "nom_complet": "Sophie LEULLIETTE",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DAIX",
+          "prenom": "Adrien",
+          "nom_complet": "Adrien DAIX",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "BONIFACE",
+          "prenom": "Nadège",
+          "nom_complet": "Nadège BONIFACE",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DEWITTE",
+          "prenom": "Charles",
+          "nom_complet": "Charles DEWITTE",
+          "sexe": "M",
+          "age": 28,
+          "rang_liste": "9"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "HAUCOURT, c'est nous tous.",
+      "libelle_abrege_liste": "HAUCOURT, c'est nous tous.",
+      "nuance_liste": null,
+      "voix": 54,
+      "pct_voix_exprimes": 40.91,
+      "sieges_cm": 2,
+      "sieges_cc": null,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "BRACQ",
+        "prenom": "Fabrice",
+        "nom_complet": "Fabrice BRACQ",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BRACQ",
+          "prenom": "Fabrice",
+          "nom_complet": "Fabrice BRACQ",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "PAMART BRENNE",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie PAMART BRENNE",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

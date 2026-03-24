@@ -1,0 +1,131 @@
+{
+  "code_commune": "62090",
+  "commune": "Béalencourt",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "THÉRET",
+    "prenom": "Benoît",
+    "nom_complet": "Benoît THÉRET",
+    "age": 42,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 100,
+    "votants": 76,
+    "pct_votants": 76,
+    "abstentions": 24,
+    "pct_abstentions": 24,
+    "exprimes": 65
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Liste d'union communale",
+      "libelle_abrege_liste": "Liste d'union communale",
+      "nuance_liste": null,
+      "voix": 65,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "THÉRET",
+        "prenom": "Benoît",
+        "nom_complet": "Benoît THÉRET",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "THÉRET",
+          "prenom": "Benoît",
+          "nom_complet": "Benoît THÉRET",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BAHEU",
+          "prenom": "Cathie",
+          "nom_complet": "Cathie BAHEU",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BOLLART",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric BOLLART",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "GALLET",
+          "prenom": "Christelle",
+          "nom_complet": "Christelle GALLET",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "BOQUET",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier BOQUET",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LAGACHE",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie LAGACHE",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "FAUQUEMBERGUE",
+          "prenom": "Quentin",
+          "nom_complet": "Quentin FAUQUEMBERGUE",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "CARON",
+          "prenom": "Malory",
+          "nom_complet": "Malory CARON",
+          "sexe": "F",
+          "age": 26,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DESTAMPES",
+          "prenom": "Fabien",
+          "nom_complet": "Fabien DESTAMPES",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DELWAULLE",
+          "prenom": "Cécile",
+          "nom_complet": "Cécile DELWAULLE",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DUCROCQ",
+          "prenom": "Jeremy",
+          "nom_complet": "Jeremy DUCROCQ",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

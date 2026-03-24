@@ -1,0 +1,131 @@
+{
+  "code_commune": "62602",
+  "commune": "Nempont-Saint-Firmin",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "THEBERT",
+    "prenom": "Julie",
+    "nom_complet": "Julie THEBERT",
+    "age": 39,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 166,
+    "votants": 100,
+    "pct_votants": 60.24,
+    "abstentions": 66,
+    "pct_abstentions": 39.76,
+    "exprimes": 96
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "NEMPONT VERS UN BEL HORIZON",
+      "libelle_abrege_liste": "NEMPONT VERS UN BEL HORIZON",
+      "nuance_liste": null,
+      "voix": 96,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "THEBERT",
+        "prenom": "Julie",
+        "nom_complet": "Julie THEBERT",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "THEBERT",
+          "prenom": "Julie",
+          "nom_complet": "Julie THEBERT",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "POILLET",
+          "prenom": "Thierry",
+          "nom_complet": "Thierry POILLET",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "SAVARY",
+          "prenom": "Bernadette",
+          "nom_complet": "Bernadette SAVARY",
+          "sexe": "F",
+          "age": 72,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "TOMKA",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno TOMKA",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "MORENO-PEREZ",
+          "prenom": "Ketty",
+          "nom_complet": "Ketty MORENO-PEREZ",
+          "sexe": "F",
+          "age": 70,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "HOCHIN",
+          "prenom": "Francis",
+          "nom_complet": "Francis HOCHIN",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "WALLE",
+          "prenom": "Laure",
+          "nom_complet": "Laure WALLE",
+          "sexe": "F",
+          "age": 32,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LECERF",
+          "prenom": "Albert",
+          "nom_complet": "Albert LECERF",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "ISAMBOURG",
+          "prenom": "Sonia",
+          "nom_complet": "Sonia ISAMBOURG",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "NOURTIER",
+          "prenom": "Ludovic",
+          "nom_complet": "Ludovic NOURTIER",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "RIVÉ",
+          "prenom": "Marie Orange",
+          "nom_complet": "Marie Orange RIVÉ",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

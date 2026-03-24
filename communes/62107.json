@@ -1,0 +1,151 @@
+{
+  "code_commune": "62107",
+  "commune": "Bénifontaine",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "GODART",
+    "prenom": "Nicolas",
+    "nom_complet": "Nicolas GODART",
+    "age": 52,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 316,
+    "votants": 271,
+    "pct_votants": 85.76,
+    "abstentions": 45,
+    "pct_abstentions": 14.24,
+    "exprimes": 269
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "BENIFONTAINE NOS RACINES NOTRE AVENIR",
+      "libelle_abrege_liste": "BENIFONTAINE NOS RACINES NOTRE AVENIR",
+      "nuance_liste": null,
+      "voix": 176,
+      "pct_voix_exprimes": 65.43,
+      "sieges_cm": 9,
+      "sieges_cc": null,
+      "nb_elus": 9,
+      "tete_de_liste": {
+        "nom": "GODART",
+        "prenom": "Nicolas",
+        "nom_complet": "Nicolas GODART",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "GODART",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas GODART",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DJEDIR",
+          "prenom": "Malika",
+          "nom_complet": "Malika DJEDIR",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "SOMON",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier SOMON",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "HOUILLIEZ",
+          "prenom": "Delphine",
+          "nom_complet": "Delphine HOUILLIEZ",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "ROSIAUX",
+          "prenom": "Marc",
+          "nom_complet": "Marc ROSIAUX",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "BRETON",
+          "prenom": "Gwenaëlle",
+          "nom_complet": "Gwenaëlle BRETON",
+          "sexe": "F",
+          "age": 20,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "CASTELAIN",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas CASTELAIN",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "PERMUY",
+          "prenom": "Béatrice",
+          "nom_complet": "Béatrice PERMUY",
+          "sexe": "F",
+          "age": 71,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "SPLINGART",
+          "prenom": "Sébastien",
+          "nom_complet": "Sébastien SPLINGART",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "9"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "AGIR ENSEMBLE POUR RETROUVER BENIFONTAINE",
+      "libelle_abrege_liste": "AGIR ENSEMBLE POUR RETROUVER BENIFONTAINE",
+      "nuance_liste": null,
+      "voix": 93,
+      "pct_voix_exprimes": 34.57,
+      "sieges_cm": 2,
+      "sieges_cc": null,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "BOISTEL",
+        "prenom": "Aurelien",
+        "nom_complet": "Aurelien BOISTEL",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BOISTEL",
+          "prenom": "Aurelien",
+          "nom_complet": "Aurelien BOISTEL",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DALLE",
+          "prenom": "Nicole",
+          "nom_complet": "Nicole DALLE",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

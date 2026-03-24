@@ -1,0 +1,131 @@
+{
+  "code_commune": "62171",
+  "commune": "Boyaval",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "BÉTOURNÉ",
+    "prenom": "Georgy",
+    "nom_complet": "Georgy BÉTOURNÉ",
+    "age": 62,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 100,
+    "votants": 67,
+    "pct_votants": 67,
+    "abstentions": 33,
+    "pct_abstentions": 33,
+    "exprimes": 61
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "BOYAVAL 2026",
+      "libelle_abrege_liste": "BOYAVAL 2026",
+      "nuance_liste": null,
+      "voix": 61,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "BÉTOURNÉ",
+        "prenom": "Georgy",
+        "nom_complet": "Georgy BÉTOURNÉ",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BÉTOURNÉ",
+          "prenom": "Georgy",
+          "nom_complet": "Georgy BÉTOURNÉ",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "CHAVATTE",
+          "prenom": "Edith",
+          "nom_complet": "Edith CHAVATTE",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "CODEVELLE",
+          "prenom": "Denis",
+          "nom_complet": "Denis CODEVELLE",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "CONFRÉRE",
+          "prenom": "Noémie",
+          "nom_complet": "Noémie CONFRÉRE",
+          "sexe": "F",
+          "age": 30,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LOMBART",
+          "prenom": "Freddy",
+          "nom_complet": "Freddy LOMBART",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DE LAAGE DE MEUX",
+          "prenom": "Alessia",
+          "nom_complet": "Alessia DE LAAGE DE MEUX",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "MOREL",
+          "prenom": "Jérôme",
+          "nom_complet": "Jérôme MOREL",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DELPORTE",
+          "prenom": "Brigitte",
+          "nom_complet": "Brigitte DELPORTE",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "PRIN",
+          "prenom": "Cédric",
+          "nom_complet": "Cédric PRIN",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "LA GRANGE",
+          "prenom": "Camille",
+          "nom_complet": "Camille LA GRANGE",
+          "sexe": "F",
+          "age": 32,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "ROLLAND",
+          "prenom": "Sébastien",
+          "nom_complet": "Sébastien ROLLAND",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

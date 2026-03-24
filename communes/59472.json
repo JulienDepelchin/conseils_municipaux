@@ -1,0 +1,163 @@
+{
+  "code_commune": "59472",
+  "commune": "Preux-au-Bois",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "BEAUMONT",
+    "prenom": "David",
+    "nom_complet": "David BEAUMONT",
+    "age": 50,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 673,
+    "votants": 381,
+    "pct_votants": 56.61,
+    "abstentions": 292,
+    "pct_abstentions": 43.39,
+    "exprimes": 354
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Unis pour batir l'avenir",
+      "libelle_abrege_liste": "Unis pour batir l'avenir",
+      "nuance_liste": null,
+      "voix": 354,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "BEAUMONT",
+        "prenom": "David",
+        "nom_complet": "David BEAUMONT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BEAUMONT",
+          "prenom": "David",
+          "nom_complet": "David BEAUMONT",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "GASNOT",
+          "prenom": "Clémentine",
+          "nom_complet": "Clémentine GASNOT",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BARBU",
+          "prenom": "Fabien",
+          "nom_complet": "Fabien BARBU",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DOUAY BIZIAUX",
+          "prenom": "Françoise",
+          "nom_complet": "Françoise DOUAY BIZIAUX",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "VAN WYNENDAELE",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick VAN WYNENDAELE",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "BEAUMONT",
+          "prenom": "Melanie",
+          "nom_complet": "Melanie BEAUMONT",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BETHEGNIES",
+          "prenom": "Claude",
+          "nom_complet": "Claude BETHEGNIES",
+          "sexe": "M",
+          "age": 75,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "MALLARME",
+          "prenom": "Jessica",
+          "nom_complet": "Jessica MALLARME",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "BOUTTEAUX",
+          "prenom": "Gilles",
+          "nom_complet": "Gilles BOUTTEAUX",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "TAISNE",
+          "prenom": "Anne-Lise",
+          "nom_complet": "Anne-Lise TAISNE",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "OGON",
+          "prenom": "Henri",
+          "nom_complet": "Henri OGON",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "LECLERCQ-DRUESNE",
+          "prenom": "Virginie",
+          "nom_complet": "Virginie LECLERCQ-DRUESNE",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "BAILLON",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas BAILLON",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "ROGER",
+          "prenom": "Marine",
+          "nom_complet": "Marine ROGER",
+          "sexe": "F",
+          "age": 29,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "DZIEWANOWSKI",
+          "prenom": "Florent",
+          "nom_complet": "Florent DZIEWANOWSKI",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

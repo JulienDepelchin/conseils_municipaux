@@ -1,0 +1,163 @@
+{
+  "code_commune": "59619",
+  "commune": "Villereau",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "FREHAUT",
+    "prenom": "André",
+    "nom_complet": "André FREHAUT",
+    "age": 61,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 833,
+    "votants": 447,
+    "pct_votants": 53.66,
+    "abstentions": 386,
+    "pct_abstentions": 46.34,
+    "exprimes": 383
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Rassemblés pour Villereau",
+      "libelle_abrege_liste": "Rassemblés pour Villereau",
+      "nuance_liste": null,
+      "voix": 383,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": 1,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "FREHAUT",
+        "prenom": "André",
+        "nom_complet": "André FREHAUT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "FREHAUT",
+          "prenom": "André",
+          "nom_complet": "André FREHAUT",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BAUGNEE",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle BAUGNEE",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "FLAMAND",
+          "prenom": "Pierre-Marie",
+          "nom_complet": "Pierre-Marie FLAMAND",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "JESQUY",
+          "prenom": "Delphine",
+          "nom_complet": "Delphine JESQUY",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "BRIATTE",
+          "prenom": "Emilien",
+          "nom_complet": "Emilien BRIATTE",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "MERIAUX",
+          "prenom": "Stephanie",
+          "nom_complet": "Stephanie MERIAUX",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DUMA",
+          "prenom": "Pierre",
+          "nom_complet": "Pierre DUMA",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "ROBERT",
+          "prenom": "Dorothey",
+          "nom_complet": "Dorothey ROBERT",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "HUMEZ",
+          "prenom": "Gaetan",
+          "nom_complet": "Gaetan HUMEZ",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "BOIS",
+          "prenom": "Anne-Sophie",
+          "nom_complet": "Anne-Sophie BOIS",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DÉFOSSEZ",
+          "prenom": "Jean-Pierre",
+          "nom_complet": "Jean-Pierre DÉFOSSEZ",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "BELVAL",
+          "prenom": "Angelique",
+          "nom_complet": "Angelique BELVAL",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "DENOYELLE",
+          "prenom": "Jeremy",
+          "nom_complet": "Jeremy DENOYELLE",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "PERSICHETTI",
+          "prenom": "Emilie",
+          "nom_complet": "Emilie PERSICHETTI",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "LEFEBVRE",
+          "prenom": "Joris",
+          "nom_complet": "Joris LEFEBVRE",
+          "sexe": "M",
+          "age": 27,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

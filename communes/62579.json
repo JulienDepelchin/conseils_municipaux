@@ -1,0 +1,163 @@
+{
+  "code_commune": "62579",
+  "commune": "Monchy-au-Bois",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "ROUSSEL",
+    "prenom": "Murielle",
+    "nom_complet": "Murielle ROUSSEL",
+    "age": 78,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 405,
+    "votants": 252,
+    "pct_votants": 62.22,
+    "abstentions": 153,
+    "pct_abstentions": 37.78,
+    "exprimes": 215
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "TOUS UNIS POUR MONCHY",
+      "libelle_abrege_liste": "TOUS UNIS POUR MONCHY",
+      "nuance_liste": null,
+      "voix": 215,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "ROUSSEL",
+        "prenom": "Murielle",
+        "nom_complet": "Murielle ROUSSEL",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "ROUSSEL",
+          "prenom": "Murielle",
+          "nom_complet": "Murielle ROUSSEL",
+          "sexe": "F",
+          "age": 78,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "TAFFIN",
+          "prenom": "Régis",
+          "nom_complet": "Régis TAFFIN",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "CREPIN",
+          "prenom": "Perrine",
+          "nom_complet": "Perrine CREPIN",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "THERY",
+          "prenom": "André",
+          "nom_complet": "André THERY",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "BURGE",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle BURGE",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "GERNEZ",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric GERNEZ",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "PASCUAL-KACZOR",
+          "prenom": "Maëlys",
+          "nom_complet": "Maëlys PASCUAL-KACZOR",
+          "sexe": "F",
+          "age": 18,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "ARAGO",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique ARAGO",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "LIEPPE",
+          "prenom": "Vanessa",
+          "nom_complet": "Vanessa LIEPPE",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "TRONINA",
+          "prenom": "Jean-Luc",
+          "nom_complet": "Jean-Luc TRONINA",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "PEROT",
+          "prenom": "Laure",
+          "nom_complet": "Laure PEROT",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "DELESTRE",
+          "prenom": "Romain",
+          "nom_complet": "Romain DELESTRE",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "PRONIEZ",
+          "prenom": "Christelle",
+          "nom_complet": "Christelle PRONIEZ",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "TOSSE",
+          "prenom": "Mario",
+          "nom_complet": "Mario TOSSE",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "LELEU",
+          "prenom": "Sandra",
+          "nom_complet": "Sandra LELEU",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

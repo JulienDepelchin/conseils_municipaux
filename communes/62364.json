@@ -1,0 +1,235 @@
+{
+  "code_commune": "62364",
+  "commune": "Fruges",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "MUYS",
+    "prenom": "Laurent",
+    "nom_complet": "Laurent MUYS",
+    "age": 52,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1543,
+    "votants": 1110,
+    "pct_votants": 71.94,
+    "abstentions": 433,
+    "pct_abstentions": 28.06,
+    "exprimes": 1075
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Fruges, j'y tiens",
+      "libelle_abrege_liste": "Fruges, j'y tiens",
+      "nuance_liste": null,
+      "voix": 742,
+      "pct_voix_exprimes": 69.02,
+      "sieges_cm": 17,
+      "sieges_cc": 7,
+      "nb_elus": 17,
+      "tete_de_liste": {
+        "nom": "MUYS",
+        "prenom": "Laurent",
+        "nom_complet": "Laurent MUYS",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "MUYS",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent MUYS",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BUICHE",
+          "prenom": "Hélène",
+          "nom_complet": "Hélène BUICHE",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DECHAMPS",
+          "prenom": "Jean-Sébastien",
+          "nom_complet": "Jean-Sébastien DECHAMPS",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "HARLÉ",
+          "prenom": "Pascale",
+          "nom_complet": "Pascale HARLÉ",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LAFFITTE",
+          "prenom": "Fabrice",
+          "nom_complet": "Fabrice LAFFITTE",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "GUILBERT",
+          "prenom": "Nicole",
+          "nom_complet": "Nicole GUILBERT",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "ROSSEEL",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal ROSSEEL",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "CIOS",
+          "prenom": "Corinne",
+          "nom_complet": "Corinne CIOS",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DUQUENNE",
+          "prenom": "Fabien",
+          "nom_complet": "Fabien DUQUENNE",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "BIZEUR",
+          "prenom": "Sabine",
+          "nom_complet": "Sabine BIZEUR",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "VANTIEGHEM",
+          "prenom": "Michaël",
+          "nom_complet": "Michaël VANTIEGHEM",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "PANNIER",
+          "prenom": "Blanche-Marie",
+          "nom_complet": "Blanche-Marie PANNIER",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "MAUFFAIT",
+          "prenom": "Jean-Philippe",
+          "nom_complet": "Jean-Philippe MAUFFAIT",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "VARLET",
+          "prenom": "Lucie",
+          "nom_complet": "Lucie VARLET",
+          "sexe": "F",
+          "age": 22,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "ROUTIER",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas ROUTIER",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "BRASSEUR",
+          "prenom": "Francine",
+          "nom_complet": "Francine BRASSEUR",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "GALLET",
+          "prenom": "Bastian",
+          "nom_complet": "Bastian GALLET",
+          "sexe": "M",
+          "age": 23,
+          "rang_liste": "17"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "FRUGES, NOTRE VILLE",
+      "libelle_abrege_liste": "FRUGES, NOTRE VILLE",
+      "nuance_liste": null,
+      "voix": 191,
+      "pct_voix_exprimes": 17.77,
+      "sieges_cm": 1,
+      "sieges_cc": 1,
+      "nb_elus": 1,
+      "tete_de_liste": {
+        "nom": "QUIQUEMPOIX",
+        "prenom": "Stéphanie",
+        "nom_complet": "Stéphanie QUIQUEMPOIX",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "QUIQUEMPOIX",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie QUIQUEMPOIX",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "1"
+        }
+      ],
+      "statut_conseil": "autre"
+    },
+    {
+      "num_panneau": "3",
+      "libelle_liste": "Le Bon Sens Frugeois",
+      "libelle_abrege_liste": "Le Bon Sens Frugeois",
+      "nuance_liste": null,
+      "voix": 142,
+      "pct_voix_exprimes": 13.21,
+      "sieges_cm": 1,
+      "sieges_cc": 0,
+      "nb_elus": 1,
+      "tete_de_liste": {
+        "nom": "FILLIERE",
+        "prenom": "Sandra",
+        "nom_complet": "Sandra FILLIERE",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "FILLIERE",
+          "prenom": "Sandra",
+          "nom_complet": "Sandra FILLIERE",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "1"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

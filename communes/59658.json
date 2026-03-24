@@ -1,0 +1,163 @@
+{
+  "code_commune": "59658",
+  "commune": "Wicres",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "LACAZE",
+    "prenom": "Philippe",
+    "nom_complet": "Philippe LACAZE",
+    "age": 65,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 382,
+    "votants": 228,
+    "pct_votants": 59.69,
+    "abstentions": 154,
+    "pct_abstentions": 40.31,
+    "exprimes": 194
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Wicres notre passion Commune",
+      "libelle_abrege_liste": "Wicres notre passion Commune",
+      "nuance_liste": null,
+      "voix": 194,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "LACAZE",
+        "prenom": "Philippe",
+        "nom_complet": "Philippe LACAZE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LACAZE",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe LACAZE",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BONNEL",
+          "prenom": "Marie Joseph",
+          "nom_complet": "Marie Joseph BONNEL",
+          "sexe": "F",
+          "age": 79,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BRÉHON",
+          "prenom": "Raphaël",
+          "nom_complet": "Raphaël BRÉHON",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "OUDART",
+          "prenom": "Alice",
+          "nom_complet": "Alice OUDART",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DUTOIT",
+          "prenom": "Jean-Luc",
+          "nom_complet": "Jean-Luc DUTOIT",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "CLAISSE",
+          "prenom": "Edith",
+          "nom_complet": "Edith CLAISSE",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BOUTOILLE",
+          "prenom": "Eric",
+          "nom_complet": "Eric BOUTOILLE",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DUTOIT",
+          "prenom": "Marie-Pierre",
+          "nom_complet": "Marie-Pierre DUTOIT",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "COUPET",
+          "prenom": "Eric",
+          "nom_complet": "Eric COUPET",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "LIAGRE",
+          "prenom": "Anne-Catherine",
+          "nom_complet": "Anne-Catherine LIAGRE",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DEHONDT",
+          "prenom": "Jean",
+          "nom_complet": "Jean DEHONDT",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "MERVEILLE",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle MERVEILLE",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "DOBOSZ",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier DOBOSZ",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "VARANE",
+          "prenom": "Dorothée",
+          "nom_complet": "Dorothée VARANE",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "VAN STAEN",
+          "prenom": "Gilbert",
+          "nom_complet": "Gilbert VAN STAEN",
+          "sexe": "M",
+          "age": 84,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

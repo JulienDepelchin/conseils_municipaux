@@ -1,0 +1,327 @@
+{
+  "code_commune": "62617",
+  "commune": "Noeux-les-Mines",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "MARCELLAK",
+    "prenom": "Serge",
+    "nom_complet": "Serge MARCELLAK",
+    "age": 54,
+    "nuance": "LDVG"
+  },
+  "resultats": {
+    "inscrits": 8738,
+    "votants": 4892,
+    "pct_votants": 55.99,
+    "abstentions": 3846,
+    "pct_abstentions": 44.01,
+    "exprimes": 4756
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "TOUS ENSEMBLE POUR MIEUX VIVRE A NOEUX",
+      "libelle_abrege_liste": "TOUS ENSEMBLE POUR MIEUX VIVRE A NOEUX",
+      "nuance_liste": "LDVG",
+      "voix": 3247,
+      "pct_voix_exprimes": 68.27,
+      "sieges_cm": 28,
+      "sieges_cc": 5,
+      "nb_elus": 28,
+      "tete_de_liste": {
+        "nom": "MARCELLAK",
+        "prenom": "Serge",
+        "nom_complet": "Serge MARCELLAK",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "MARCELLAK",
+          "prenom": "Serge",
+          "nom_complet": "Serge MARCELLAK",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "GAUTHIER",
+          "prenom": "Karine",
+          "nom_complet": "Karine GAUTHIER",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "SWITALSKI",
+          "prenom": "Jacques",
+          "nom_complet": "Jacques SWITALSKI",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "URBANSKI",
+          "prenom": "Chantal",
+          "nom_complet": "Chantal URBANSKI",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "CZEPIK",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe CZEPIK",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "GODART",
+          "prenom": "Céline",
+          "nom_complet": "Céline GODART",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "HOBERG",
+          "prenom": "André",
+          "nom_complet": "André HOBERG",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DOMART",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie DOMART",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "LEROUX",
+          "prenom": "David",
+          "nom_complet": "David LEROUX",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "BACLET",
+          "prenom": "Charline",
+          "nom_complet": "Charline BACLET",
+          "sexe": "F",
+          "age": 86,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "AUBRUN",
+          "prenom": "Matthieu",
+          "nom_complet": "Matthieu AUBRUN",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "ANTKOWIAK",
+          "prenom": "Corinne",
+          "nom_complet": "Corinne ANTKOWIAK",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "BLONDEL",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique BLONDEL",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "LEPINE",
+          "prenom": "Murielle",
+          "nom_complet": "Murielle LEPINE",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "OUART",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier OUART",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "LEDEE",
+          "prenom": "Ludivine",
+          "nom_complet": "Ludivine LEDEE",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "POUILLY",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique POUILLY",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "BOURGOIS",
+          "prenom": "Marion",
+          "nom_complet": "Marion BOURGOIS",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "PORQUET",
+          "prenom": "Manuel",
+          "nom_complet": "Manuel PORQUET",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "FEUTREL",
+          "prenom": "Sophie",
+          "nom_complet": "Sophie FEUTREL",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "DEUNETTE",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe DEUNETTE",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "DECALUWE",
+          "prenom": "Céline",
+          "nom_complet": "Céline DECALUWE",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "FRADET",
+          "prenom": "Eddy",
+          "nom_complet": "Eddy FRADET",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "23"
+        },
+        {
+          "nom": "VERONS",
+          "prenom": "Betty",
+          "nom_complet": "Betty VERONS",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "24"
+        },
+        {
+          "nom": "CROCQUEFER",
+          "prenom": "John",
+          "nom_complet": "John CROCQUEFER",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "25"
+        },
+        {
+          "nom": "LIEPPE",
+          "prenom": "Sophie",
+          "nom_complet": "Sophie LIEPPE",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "26"
+        },
+        {
+          "nom": "HU",
+          "prenom": "Vincent",
+          "nom_complet": "Vincent HU",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "27"
+        },
+        {
+          "nom": "VANBAELINGHEM",
+          "prenom": "Sabine",
+          "nom_complet": "Sabine VANBAELINGHEM",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "28"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "UN NOUVEAU SOUFFLE POUR NOEUX-LES-MINES",
+      "libelle_abrege_liste": "UN NOUVEAU SOUFFLE POUR NOEUX-LES-MINES",
+      "nuance_liste": "LRN",
+      "voix": 1509,
+      "pct_voix_exprimes": 31.73,
+      "sieges_cm": 5,
+      "sieges_cc": 0,
+      "nb_elus": 5,
+      "tete_de_liste": {
+        "nom": "ANTOCHEWICZ",
+        "prenom": "Jérôme",
+        "nom_complet": "Jérôme ANTOCHEWICZ",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "ANTOCHEWICZ",
+          "prenom": "Jérôme",
+          "nom_complet": "Jérôme ANTOCHEWICZ",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BAJEUX",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie BAJEUX",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "GOUILLARD",
+          "prenom": "Grégory",
+          "nom_complet": "Grégory GOUILLARD",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LECLERCQ",
+          "prenom": "Jennifer",
+          "nom_complet": "Jennifer LECLERCQ",
+          "sexe": "F",
+          "age": 23,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "VANHERSECKE",
+          "prenom": "Rodolphe",
+          "nom_complet": "Rodolphe VANHERSECKE",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "5"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

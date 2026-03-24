@@ -1,0 +1,295 @@
+{
+  "code_commune": "62645",
+  "commune": "Oye-Plage",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "MAJEWICZ",
+    "prenom": "Olivier",
+    "nom_complet": "Olivier MAJEWICZ",
+    "age": 56,
+    "nuance": "LDVG"
+  },
+  "resultats": {
+    "inscrits": 4634,
+    "votants": 2983,
+    "pct_votants": 64.37,
+    "abstentions": 1651,
+    "pct_abstentions": 35.63,
+    "exprimes": 2901
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "Oye-Plage, On Y Est bien !",
+      "libelle_abrege_liste": "Oye-Plage, On Y Est bien !",
+      "nuance_liste": "LDVG",
+      "voix": 2232,
+      "pct_voix_exprimes": 76.94,
+      "sieges_cm": 26,
+      "sieges_cc": 6,
+      "nb_elus": 26,
+      "tete_de_liste": {
+        "nom": "MAJEWICZ",
+        "prenom": "Olivier",
+        "nom_complet": "Olivier MAJEWICZ",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "MAJEWICZ",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier MAJEWICZ",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "RIQUEMBOURG-PRUVOST",
+          "prenom": "Mireille",
+          "nom_complet": "Mireille RIQUEMBOURG-PRUVOST",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "GROSS",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent GROSS",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DA SILVA SOARES-DEHARTE",
+          "prenom": "Angélique",
+          "nom_complet": "Angélique DA SILVA SOARES-DEHARTE",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DELRUE",
+          "prenom": "Romain",
+          "nom_complet": "Romain DELRUE",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "FIERS-KOLODZIEJCZAK",
+          "prenom": "Laura",
+          "nom_complet": "Laura FIERS-KOLODZIEJCZAK",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "PIZZI",
+          "prenom": "Julien",
+          "nom_complet": "Julien PIZZI",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "CARPENTIER-PATIN",
+          "prenom": "Jeanne",
+          "nom_complet": "Jeanne CARPENTIER-PATIN",
+          "sexe": "F",
+          "age": 80,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "BAILLOEUIL",
+          "prenom": "Romaric",
+          "nom_complet": "Romaric BAILLOEUIL",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "BEAURIN",
+          "prenom": "Françoise",
+          "nom_complet": "Françoise BEAURIN",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "VERMERSCH",
+          "prenom": "Guy",
+          "nom_complet": "Guy VERMERSCH",
+          "sexe": "M",
+          "age": 75,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "FOURNIER-CASIER",
+          "prenom": "Jacqueline",
+          "nom_complet": "Jacqueline FOURNIER-CASIER",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "BECQUET",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric BECQUET",
+          "sexe": "M",
+          "age": 33,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "CHANDELIER - BENISTANT",
+          "prenom": "Corinne",
+          "nom_complet": "Corinne CHANDELIER - BENISTANT",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "VERSTRAETE",
+          "prenom": "Louis",
+          "nom_complet": "Louis VERSTRAETE",
+          "sexe": "M",
+          "age": 24,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "TIRI",
+          "prenom": "Caroline",
+          "nom_complet": "Caroline TIRI",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "CHANDELIER",
+          "prenom": "Guy",
+          "nom_complet": "Guy CHANDELIER",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "LEBRUN",
+          "prenom": "Amandine",
+          "nom_complet": "Amandine LEBRUN",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "POLAK",
+          "prenom": "Raphaël",
+          "nom_complet": "Raphaël POLAK",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "FOUREZ-BRISVILLE",
+          "prenom": "Jennifer",
+          "nom_complet": "Jennifer FOUREZ-BRISVILLE",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "DULONGCOURTY",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent DULONGCOURTY",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "GEST - FERE",
+          "prenom": "Justine",
+          "nom_complet": "Justine GEST - FERE",
+          "sexe": "F",
+          "age": 28,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "JULIEN",
+          "prenom": "Willy",
+          "nom_complet": "Willy JULIEN",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "23"
+        },
+        {
+          "nom": "HELLEPUTTE - DACQUIN",
+          "prenom": "Fabienne",
+          "nom_complet": "Fabienne HELLEPUTTE - DACQUIN",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "24"
+        },
+        {
+          "nom": "MARCHAND",
+          "prenom": "Grégory",
+          "nom_complet": "Grégory MARCHAND",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "25"
+        },
+        {
+          "nom": "BENOÎT",
+          "prenom": "Jeanne",
+          "nom_complet": "Jeanne BENOÎT",
+          "sexe": "F",
+          "age": 20,
+          "rang_liste": "26"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Rassemblement pour Oye-Plage",
+      "libelle_abrege_liste": "Rassemblement pour Oye-Plage",
+      "nuance_liste": "LRN",
+      "voix": 669,
+      "pct_voix_exprimes": 23.06,
+      "sieges_cm": 3,
+      "sieges_cc": 0,
+      "nb_elus": 3,
+      "tete_de_liste": {
+        "nom": "MARQUE-DEMEESTER",
+        "prenom": "Micheline",
+        "nom_complet": "Micheline MARQUE-DEMEESTER",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "MARQUE-DEMEESTER",
+          "prenom": "Micheline",
+          "nom_complet": "Micheline MARQUE-DEMEESTER",
+          "sexe": "F",
+          "age": 71,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "MIKOLAJCZAK",
+          "prenom": "Richard",
+          "nom_complet": "Richard MIKOLAJCZAK",
+          "sexe": "M",
+          "age": 79,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "POHIER",
+          "prenom": "Rachel",
+          "nom_complet": "Rachel POHIER",
+          "sexe": "F",
+          "age": 23,
+          "rang_liste": "3"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

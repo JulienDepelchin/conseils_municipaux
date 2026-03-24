@@ -1,0 +1,131 @@
+{
+  "code_commune": "62741",
+  "commune": "Saint-Amand",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "BEVE",
+    "prenom": "Noemie",
+    "nom_complet": "Noemie BEVE",
+    "age": 39,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 106,
+    "votants": 83,
+    "pct_votants": 78.3,
+    "abstentions": 23,
+    "pct_abstentions": 21.7,
+    "exprimes": 61
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "EN AVANT SAINT-AMAND",
+      "libelle_abrege_liste": "EN AVANT SAINT-AMAND",
+      "nuance_liste": null,
+      "voix": 61,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "BEVE",
+        "prenom": "Noemie",
+        "nom_complet": "Noemie BEVE",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "BEVE",
+          "prenom": "Noemie",
+          "nom_complet": "Noemie BEVE",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BRAY",
+          "prenom": "Joël",
+          "nom_complet": "Joël BRAY",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "ANSART",
+          "prenom": "Fabienne",
+          "nom_complet": "Fabienne ANSART",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LEBAS",
+          "prenom": "Jean-Louis",
+          "nom_complet": "Jean-Louis LEBAS",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "SOYEZ",
+          "prenom": "Josiane",
+          "nom_complet": "Josiane SOYEZ",
+          "sexe": "F",
+          "age": 78,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "FLAMENT",
+          "prenom": "Morgan",
+          "nom_complet": "Morgan FLAMENT",
+          "sexe": "M",
+          "age": 34,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DELSERT",
+          "prenom": "Anne-Christine",
+          "nom_complet": "Anne-Christine DELSERT",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "BRAY",
+          "prenom": "Michel",
+          "nom_complet": "Michel BRAY",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "BOIDIN",
+          "prenom": "Mathilde",
+          "nom_complet": "Mathilde BOIDIN",
+          "sexe": "F",
+          "age": 28,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "HAUTECOEUR",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe HAUTECOEUR",
+          "sexe": "M",
+          "age": 34,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DERUY",
+          "prenom": "Christine",
+          "nom_complet": "Christine DERUY",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

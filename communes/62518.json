@@ -1,0 +1,151 @@
+{
+  "code_commune": "62518",
+  "commune": "Linzeux",
+  "departement": "Pas-de-Calais",
+  "tour": "T2",
+  "maire": {
+    "nom": "FOURDINIER",
+    "prenom": "Jean-Noël",
+    "nom_complet": "Jean-Noël FOURDINIER",
+    "age": 65,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 140,
+    "votants": 132,
+    "pct_votants": 94.29,
+    "abstentions": 8,
+    "pct_abstentions": 5.71,
+    "exprimes": 132
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "LINZEUX L'ESPRIT VILLAGE AVANT TOUT",
+      "libelle_abrege_liste": "LINZEUX L'ESPRIT VILLAGE AVANT TOUT",
+      "nuance_liste": null,
+      "voix": 72,
+      "pct_voix_exprimes": 54.55,
+      "sieges_cm": 9,
+      "sieges_cc": null,
+      "nb_elus": 9,
+      "tete_de_liste": {
+        "nom": "FOURDINIER",
+        "prenom": "Jean-Noël",
+        "nom_complet": "Jean-Noël FOURDINIER",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "FOURDINIER",
+          "prenom": "Jean-Noël",
+          "nom_complet": "Jean-Noël FOURDINIER",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "MEILLIER",
+          "prenom": "Justine",
+          "nom_complet": "Justine MEILLIER",
+          "sexe": "F",
+          "age": 32,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BENEDIT",
+          "prenom": "Mathieu",
+          "nom_complet": "Mathieu BENEDIT",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DOUAY",
+          "prenom": "Aurélie",
+          "nom_complet": "Aurélie DOUAY",
+          "sexe": "F",
+          "age": 32,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "NICOLAS",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent NICOLAS",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "GRESSIER",
+          "prenom": "Aude",
+          "nom_complet": "Aude GRESSIER",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "FOURDINIER",
+          "prenom": "Remi",
+          "nom_complet": "Remi FOURDINIER",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "VINCENT-ROIG",
+          "prenom": "Dolores",
+          "nom_complet": "Dolores VINCENT-ROIG",
+          "sexe": "F",
+          "age": 73,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "FOICHE",
+          "prenom": "Kevin",
+          "nom_complet": "Kevin FOICHE",
+          "sexe": "M",
+          "age": 30,
+          "rang_liste": "9"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "POUR LINZEUX ET SON CADRE DE VIE",
+      "libelle_abrege_liste": "POUR LINZEUX ET SON CADRE DE VIE",
+      "nuance_liste": null,
+      "voix": 60,
+      "pct_voix_exprimes": 45.45,
+      "sieges_cm": 2,
+      "sieges_cc": null,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "HOCHART",
+        "prenom": "Raymond",
+        "nom_complet": "Raymond HOCHART",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "HOCHART",
+          "prenom": "Raymond",
+          "nom_complet": "Raymond HOCHART",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "COUDEVILLE",
+          "prenom": "Valérie",
+          "nom_complet": "Valérie COUDEVILLE",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

@@ -1,0 +1,215 @@
+{
+  "code_commune": "59668",
+  "commune": "Zuydcoote",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "CHRISTOPHE",
+    "prenom": "Paul",
+    "nom_complet": "Paul CHRISTOPHE",
+    "age": 55,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1251,
+    "votants": 897,
+    "pct_votants": 71.7,
+    "abstentions": 354,
+    "pct_abstentions": 28.3,
+    "exprimes": 864
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "ENSEMBLE POUR ZUYDCOOTE",
+      "libelle_abrege_liste": "EPZ",
+      "nuance_liste": null,
+      "voix": 518,
+      "pct_voix_exprimes": 59.95,
+      "sieges_cm": 15,
+      "sieges_cc": 1,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "CHRISTOPHE",
+        "prenom": "Paul",
+        "nom_complet": "Paul CHRISTOPHE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "CHRISTOPHE",
+          "prenom": "Paul",
+          "nom_complet": "Paul CHRISTOPHE",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DESFRENNES",
+          "prenom": "Pascale",
+          "nom_complet": "Pascale DESFRENNES",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DIMPRE",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno DIMPRE",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LEMPEREUR",
+          "prenom": "Béatrice",
+          "nom_complet": "Béatrice LEMPEREUR",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "POCHOLLE",
+          "prenom": "Fabrice",
+          "nom_complet": "Fabrice POCHOLLE",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DELANSAY",
+          "prenom": "Fabienne",
+          "nom_complet": "Fabienne DELANSAY",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "SCHOONHEERE",
+          "prenom": "Régis",
+          "nom_complet": "Régis SCHOONHEERE",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DELORRIER",
+          "prenom": "Delphine",
+          "nom_complet": "Delphine DELORRIER",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DUVIN",
+          "prenom": "Benjamin",
+          "nom_complet": "Benjamin DUVIN",
+          "sexe": "M",
+          "age": 30,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "LECOINTRE",
+          "prenom": "Mary",
+          "nom_complet": "Mary LECOINTRE",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "BOUZIANI",
+          "prenom": "Khalid",
+          "nom_complet": "Khalid BOUZIANI",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "BARDEL",
+          "prenom": "Valérie",
+          "nom_complet": "Valérie BARDEL",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "WALLYN",
+          "prenom": "Thierry",
+          "nom_complet": "Thierry WALLYN",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "LEBRUN",
+          "prenom": "Margot",
+          "nom_complet": "Margot LEBRUN",
+          "sexe": "F",
+          "age": 26,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "VERHEGGE",
+          "prenom": "Charles-Henri",
+          "nom_complet": "Charles-Henri VERHEGGE",
+          "sexe": "M",
+          "age": 32,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Zuydcoote en commun",
+      "libelle_abrege_liste": "Zuydcoote en commun",
+      "nuance_liste": null,
+      "voix": 346,
+      "pct_voix_exprimes": 40.05,
+      "sieges_cm": 4,
+      "sieges_cc": 0,
+      "nb_elus": 4,
+      "tete_de_liste": {
+        "nom": "DEFURNES",
+        "prenom": "Philippe",
+        "nom_complet": "Philippe DEFURNES",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DEFURNES",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe DEFURNES",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "FINANCE",
+          "prenom": "Vanessa",
+          "nom_complet": "Vanessa FINANCE",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "RABAEY",
+          "prenom": "Gauthier",
+          "nom_complet": "Gauthier RABAEY",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "FERYN-CARLIER",
+          "prenom": "Emilie",
+          "nom_complet": "Emilie FERYN-CARLIER",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "4"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

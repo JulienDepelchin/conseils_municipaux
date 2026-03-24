@@ -1,0 +1,183 @@
+{
+  "code_commune": "59283",
+  "commune": "Hargnies",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "DELRUE",
+    "prenom": "Valérie",
+    "nom_complet": "Valérie DELRUE",
+    "age": 48,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 450,
+    "votants": 372,
+    "pct_votants": 82.67,
+    "abstentions": 78,
+    "pct_abstentions": 17.33,
+    "exprimes": 367
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "Ensemble pour le renouveau",
+      "libelle_abrege_liste": "Ensemble pour le renouveau",
+      "nuance_liste": null,
+      "voix": 217,
+      "pct_voix_exprimes": 59.13,
+      "sieges_cm": 12,
+      "sieges_cc": null,
+      "nb_elus": 12,
+      "tete_de_liste": {
+        "nom": "DELRUE",
+        "prenom": "Valérie",
+        "nom_complet": "Valérie DELRUE",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "DELRUE",
+          "prenom": "Valérie",
+          "nom_complet": "Valérie DELRUE",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DUPONT",
+          "prenom": "Bernard",
+          "nom_complet": "Bernard DUPONT",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DEGANT",
+          "prenom": "Sophie",
+          "nom_complet": "Sophie DEGANT",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DENIS",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal DENIS",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LASNE LONGUEPPEE",
+          "prenom": "Sophie",
+          "nom_complet": "Sophie LASNE LONGUEPPEE",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "MAYEUR",
+          "prenom": "Johan",
+          "nom_complet": "Johan MAYEUR",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "LECOCQ DUFOUR",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie LECOCQ DUFOUR",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LEBRUN-MASSON",
+          "prenom": "Vincent",
+          "nom_complet": "Vincent LEBRUN-MASSON",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "BRABANT-IPPOLITI",
+          "prenom": "Sarah",
+          "nom_complet": "Sarah BRABANT-IPPOLITI",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "HURIAU",
+          "prenom": "Victor",
+          "nom_complet": "Victor HURIAU",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "BARTHOLOME",
+          "prenom": "Lilou",
+          "nom_complet": "Lilou BARTHOLOME",
+          "sexe": "F",
+          "age": 18,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "MARLIERE",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe MARLIERE",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "12"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "HARGNIES Pour et Avec Vous",
+      "libelle_abrege_liste": "HARGNIES Pour et Avec Vous",
+      "nuance_liste": null,
+      "voix": 150,
+      "pct_voix_exprimes": 40.87,
+      "sieges_cm": 3,
+      "sieges_cc": null,
+      "nb_elus": 3,
+      "tete_de_liste": {
+        "nom": "GERARD",
+        "prenom": "Alain",
+        "nom_complet": "Alain GERARD",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "GERARD",
+          "prenom": "Alain",
+          "nom_complet": "Alain GERARD",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "CLOEZ",
+          "prenom": "Angélique",
+          "nom_complet": "Angélique CLOEZ",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LADRIERE",
+          "prenom": "Lionnel",
+          "nom_complet": "Lionnel LADRIERE",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "3"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

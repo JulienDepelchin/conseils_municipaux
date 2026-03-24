@@ -1,0 +1,131 @@
+{
+  "code_commune": "62478",
+  "commune": "Journy",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "COCQUEREL",
+    "prenom": "Micheline",
+    "nom_complet": "Micheline COCQUEREL",
+    "age": 69,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 236,
+    "votants": 159,
+    "pct_votants": 67.37,
+    "abstentions": 77,
+    "pct_abstentions": 32.63,
+    "exprimes": 124
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "VIVRE et GRANDIR à JOURNY",
+      "libelle_abrege_liste": "VIVRE et GRANDIR à JOURNY",
+      "nuance_liste": null,
+      "voix": 124,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "COCQUEREL",
+        "prenom": "Micheline",
+        "nom_complet": "Micheline COCQUEREL",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "COCQUEREL",
+          "prenom": "Micheline",
+          "nom_complet": "Micheline COCQUEREL",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BENCE",
+          "prenom": "Stéphane",
+          "nom_complet": "Stéphane BENCE",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "SERGENT",
+          "prenom": "Magali",
+          "nom_complet": "Magali SERGENT",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "EVRARD",
+          "prenom": "Gérard",
+          "nom_complet": "Gérard EVRARD",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "BIGOT",
+          "prenom": "Louise",
+          "nom_complet": "Louise BIGOT",
+          "sexe": "F",
+          "age": 31,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "PRUVOST",
+          "prenom": "Paul Henry",
+          "nom_complet": "Paul Henry PRUVOST",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "ANKEL",
+          "prenom": "Célestine",
+          "nom_complet": "Célestine ANKEL",
+          "sexe": "F",
+          "age": 30,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "MOREL",
+          "prenom": "Sébastien",
+          "nom_complet": "Sébastien MOREL",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "BALLY",
+          "prenom": "Emilie",
+          "nom_complet": "Emilie BALLY",
+          "sexe": "F",
+          "age": 28,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "BENCE",
+          "prenom": "Thierry",
+          "nom_complet": "Thierry BENCE",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "FUSILLIER",
+          "prenom": "Aurélie",
+          "nom_complet": "Aurélie FUSILLIER",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

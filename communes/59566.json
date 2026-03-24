@@ -1,0 +1,279 @@
+{
+  "code_commune": "59566",
+  "commune": "Sequedin",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "LEMAIRE",
+    "prenom": "Reynald",
+    "nom_complet": "Reynald LEMAIRE",
+    "age": 50,
+    "nuance": "LDVC"
+  },
+  "resultats": {
+    "inscrits": 3154,
+    "votants": 1804,
+    "pct_votants": 57.2,
+    "abstentions": 1350,
+    "pct_abstentions": 42.8,
+    "exprimes": 1764
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "AGIR POUR SEQUEDIN",
+      "libelle_abrege_liste": "AGIR POUR SEQUEDIN",
+      "nuance_liste": "LDVC",
+      "voix": 971,
+      "pct_voix_exprimes": 55.05,
+      "sieges_cm": 21,
+      "sieges_cc": 1,
+      "nb_elus": 21,
+      "tete_de_liste": {
+        "nom": "LEMAIRE",
+        "prenom": "Reynald",
+        "nom_complet": "Reynald LEMAIRE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LEMAIRE",
+          "prenom": "Reynald",
+          "nom_complet": "Reynald LEMAIRE",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "HUGEUX",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie HUGEUX",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "VASSEUR",
+          "prenom": "David",
+          "nom_complet": "David VASSEUR",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "CHRÉTIEN",
+          "prenom": "Catherine",
+          "nom_complet": "Catherine CHRÉTIEN",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "TARRAGON",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric TARRAGON",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "HENNINOT",
+          "prenom": "Nadine",
+          "nom_complet": "Nadine HENNINOT",
+          "sexe": "F",
+          "age": 70,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "QUIQUE",
+          "prenom": "Pierre-François",
+          "nom_complet": "Pierre-François QUIQUE",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "HANARD",
+          "prenom": "Christine",
+          "nom_complet": "Christine HANARD",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "ANDERLESSE",
+          "prenom": "Vincent",
+          "nom_complet": "Vincent ANDERLESSE",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "TOPHIN",
+          "prenom": "Véronique",
+          "nom_complet": "Véronique TOPHIN",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "THIEU",
+          "prenom": "Pierre-Yves",
+          "nom_complet": "Pierre-Yves THIEU",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "DELESTREZ",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie DELESTREZ",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "PRÉVOST",
+          "prenom": "Migaël",
+          "nom_complet": "Migaël PRÉVOST",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "DUMOULIN",
+          "prenom": "Marie-Pierre",
+          "nom_complet": "Marie-Pierre DUMOULIN",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "SONTA",
+          "prenom": "Freddy",
+          "nom_complet": "Freddy SONTA",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "COUTREEL",
+          "prenom": "Olivia",
+          "nom_complet": "Olivia COUTREEL",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "POUCHIN",
+          "prenom": "Ludovic",
+          "nom_complet": "Ludovic POUCHIN",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "DELWAL",
+          "prenom": "Marie",
+          "nom_complet": "Marie DELWAL",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "BONNOT",
+          "prenom": "Sébastien",
+          "nom_complet": "Sébastien BONNOT",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "CHANARD",
+          "prenom": "Delphine",
+          "nom_complet": "Delphine CHANARD",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "BUYSSE",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe BUYSSE",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "21"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "LISTE D'ACTION POUR LES INTÉRÊTS COMMUNAUX",
+      "libelle_abrege_liste": "LISTE D'ACTION POUR LES INTÉRÊTS COMMUNAUX",
+      "nuance_liste": "LDVC",
+      "voix": 793,
+      "pct_voix_exprimes": 44.95,
+      "sieges_cm": 6,
+      "sieges_cc": 0,
+      "nb_elus": 6,
+      "tete_de_liste": {
+        "nom": "LEWILLE",
+        "prenom": "Christian",
+        "nom_complet": "Christian LEWILLE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LEWILLE",
+          "prenom": "Christian",
+          "nom_complet": "Christian LEWILLE",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DESLANDES",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie DESLANDES",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DECONINCK",
+          "prenom": "Fabrice",
+          "nom_complet": "Fabrice DECONINCK",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "FORTEVILLE",
+          "prenom": "Gaelle",
+          "nom_complet": "Gaelle FORTEVILLE",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "VERHILLE",
+          "prenom": "Christian",
+          "nom_complet": "Christian VERHILLE",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "WYCKENS",
+          "prenom": "Indiana",
+          "nom_complet": "Indiana WYCKENS",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "6"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

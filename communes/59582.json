@@ -1,0 +1,163 @@
+{
+  "code_commune": "59582",
+  "commune": "Strazeele",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "REANT",
+    "prenom": "Céline",
+    "nom_complet": "Céline REANT",
+    "age": 54,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 681,
+    "votants": 359,
+    "pct_votants": 52.72,
+    "abstentions": 322,
+    "pct_abstentions": 47.28,
+    "exprimes": 306
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ENSEMBLE STRAZEELE AVANCE",
+      "libelle_abrege_liste": "ESA",
+      "nuance_liste": null,
+      "voix": 306,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "REANT",
+        "prenom": "Céline",
+        "nom_complet": "Céline REANT",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "REANT",
+          "prenom": "Céline",
+          "nom_complet": "Céline REANT",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DECORTE",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas DECORTE",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DEZITTER",
+          "prenom": "Gaétane",
+          "nom_complet": "Gaétane DEZITTER",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "HUYGHE",
+          "prenom": "Maxence",
+          "nom_complet": "Maxence HUYGHE",
+          "sexe": "M",
+          "age": 33,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DELASSUS",
+          "prenom": "Florence",
+          "nom_complet": "Florence DELASSUS",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DURIEZ",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe DURIEZ",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "COQUETTE",
+          "prenom": "Rebecca",
+          "nom_complet": "Rebecca COQUETTE",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DEBLONDE",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe DEBLONDE",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "ARNOUTS",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie ARNOUTS",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "CATTELLE",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier CATTELLE",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "CIESLIK",
+          "prenom": "Emilie",
+          "nom_complet": "Emilie CIESLIK",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "RÉANT",
+          "prenom": "Steve",
+          "nom_complet": "Steve RÉANT",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "DAMIENS",
+          "prenom": "Monique",
+          "nom_complet": "Monique DAMIENS",
+          "sexe": "F",
+          "age": 74,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "COLLIER",
+          "prenom": "Louis",
+          "nom_complet": "Louis COLLIER",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "BOUQUET",
+          "prenom": "Céline",
+          "nom_complet": "Céline BOUQUET",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

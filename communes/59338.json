@@ -1,0 +1,163 @@
+{
+  "code_commune": "59338",
+  "commune": "Ledringhem",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "DELASSUS",
+    "prenom": "Christian",
+    "nom_complet": "Christian DELASSUS",
+    "age": 64,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 514,
+    "votants": 346,
+    "pct_votants": 67.32,
+    "abstentions": 168,
+    "pct_abstentions": 32.68,
+    "exprimes": 322
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Préservons notre identité, construisons l'avenir",
+      "libelle_abrege_liste": "PNICA",
+      "nuance_liste": null,
+      "voix": 322,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "DELASSUS",
+        "prenom": "Christian",
+        "nom_complet": "Christian DELASSUS",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DELASSUS",
+          "prenom": "Christian",
+          "nom_complet": "Christian DELASSUS",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BOUQUILLION",
+          "prenom": "Myriam",
+          "nom_complet": "Myriam BOUQUILLION",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DELABAERE",
+          "prenom": "François",
+          "nom_complet": "François DELABAERE",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "CASTEX",
+          "prenom": "Hélène",
+          "nom_complet": "Hélène CASTEX",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DEBLOCK",
+          "prenom": "Alexandre",
+          "nom_complet": "Alexandre DEBLOCK",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "CATHELAIN",
+          "prenom": "Valérie",
+          "nom_complet": "Valérie CATHELAIN",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "KERCKHOVE",
+          "prenom": "Alain",
+          "nom_complet": "Alain KERCKHOVE",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DUBREUCQ",
+          "prenom": "Hélène",
+          "nom_complet": "Hélène DUBREUCQ",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "MONTE",
+          "prenom": "Lucas",
+          "nom_complet": "Lucas MONTE",
+          "sexe": "M",
+          "age": 20,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "LETELLIER",
+          "prenom": "Ludivine",
+          "nom_complet": "Ludivine LETELLIER",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "QUENSON",
+          "prenom": "Jean-Michel",
+          "nom_complet": "Jean-Michel QUENSON",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "PIETERSOONE",
+          "prenom": "Caroline",
+          "nom_complet": "Caroline PIETERSOONE",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "ROUSSELLE",
+          "prenom": "Denis",
+          "nom_complet": "Denis ROUSSELLE",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "VEROVE",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle VEROVE",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "VAUTRAVERS",
+          "prenom": "Matthieu",
+          "nom_complet": "Matthieu VAUTRAVERS",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

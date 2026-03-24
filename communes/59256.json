@@ -1,0 +1,247 @@
+{
+  "code_commune": "59256",
+  "commune": "Fretin",
+  "departement": "Nord",
+  "tour": "T2",
+  "maire": {
+    "nom": "MARSEGUERRA",
+    "prenom": "Marie-Jeanne",
+    "nom_complet": "Marie-Jeanne MARSEGUERRA",
+    "age": 67,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 2630,
+    "votants": 1770,
+    "pct_votants": 67.3,
+    "abstentions": 860,
+    "pct_abstentions": 32.7,
+    "exprimes": 1720
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "AGIR ENSEMBLE POUR FRETIN 2026",
+      "libelle_abrege_liste": "AGIR ENSEMBLE POUR FRETIN 2026",
+      "nuance_liste": null,
+      "voix": 949,
+      "pct_voix_exprimes": 55.17,
+      "sieges_cm": 18,
+      "sieges_cc": 1,
+      "nb_elus": 18,
+      "tete_de_liste": {
+        "nom": "MARSEGUERRA",
+        "prenom": "Marie-Jeanne",
+        "nom_complet": "Marie-Jeanne MARSEGUERRA",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "MARSEGUERRA",
+          "prenom": "Marie-Jeanne",
+          "nom_complet": "Marie-Jeanne MARSEGUERRA",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "MIANOWSKI",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick MIANOWSKI",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DHAENENS",
+          "prenom": "Florence",
+          "nom_complet": "Florence DHAENENS",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "KINT",
+          "prenom": "Jean-Denis",
+          "nom_complet": "Jean-Denis KINT",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "CARLIER",
+          "prenom": "Valérie",
+          "nom_complet": "Valérie CARLIER",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "MANCHE",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick MANCHE",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DELEMARRE",
+          "prenom": "Karine",
+          "nom_complet": "Karine DELEMARRE",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LEOPOLT",
+          "prenom": "Jean-Jacques",
+          "nom_complet": "Jean-Jacques LEOPOLT",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "EMERAUD",
+          "prenom": "Gwenaële",
+          "nom_complet": "Gwenaële EMERAUD",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "ROETYNCK",
+          "prenom": "Jérémy",
+          "nom_complet": "Jérémy ROETYNCK",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DE WILDE",
+          "prenom": "Delphine",
+          "nom_complet": "Delphine DE WILDE",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "POULET",
+          "prenom": "Eric Augustin Gilles",
+          "nom_complet": "Eric Augustin Gilles POULET",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "VERHAEGHE",
+          "prenom": "Béatrice",
+          "nom_complet": "Béatrice VERHAEGHE",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "GALLOIS",
+          "prenom": "Fabien",
+          "nom_complet": "Fabien GALLOIS",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "MANCHE",
+          "prenom": "Nina Nathalie Patricia",
+          "nom_complet": "Nina Nathalie Patricia MANCHE",
+          "sexe": "F",
+          "age": 27,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "DELIGNY",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick DELIGNY",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "TOULEMONDE",
+          "prenom": "Donatienne",
+          "nom_complet": "Donatienne TOULEMONDE",
+          "sexe": "F",
+          "age": 72,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "PAGANIN",
+          "prenom": "Armando",
+          "nom_complet": "Armando PAGANIN",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "18"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "3",
+      "libelle_liste": "Un Nouvel Élan Citoyen - Fretin Demain",
+      "libelle_abrege_liste": "Un Nouvel Élan Citoyen - Fretin Demain",
+      "nuance_liste": null,
+      "voix": 771,
+      "pct_voix_exprimes": 44.83,
+      "sieges_cm": 5,
+      "sieges_cc": 0,
+      "nb_elus": 5,
+      "tete_de_liste": {
+        "nom": "CARPELS",
+        "prenom": "Laurent",
+        "nom_complet": "Laurent CARPELS",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "CARPELS",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent CARPELS",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "D'HONT",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique D'HONT",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DEMOL",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent DEMOL",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LEMAITRE",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie LEMAITRE",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "MADDELEIN",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe MADDELEIN",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "5"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

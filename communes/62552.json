@@ -1,0 +1,183 @@
+{
+  "code_commune": "62552",
+  "commune": "Maresquel-Ecquemicourt",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "LEBORGNE",
+    "prenom": "Lionel",
+    "nom_complet": "Lionel LEBORGNE",
+    "age": 50,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 856,
+    "votants": 636,
+    "pct_votants": 74.3,
+    "abstentions": 220,
+    "pct_abstentions": 25.7,
+    "exprimes": 606
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Continuons à construire le Maresquel-Ecquemicourt de demain",
+      "libelle_abrege_liste": "Continuons à construire le Maresquel-Ecquemicourt de demain",
+      "nuance_liste": null,
+      "voix": 357,
+      "pct_voix_exprimes": 58.91,
+      "sieges_cm": 12,
+      "sieges_cc": 2,
+      "nb_elus": 12,
+      "tete_de_liste": {
+        "nom": "LEBORGNE",
+        "prenom": "Lionel",
+        "nom_complet": "Lionel LEBORGNE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LEBORGNE",
+          "prenom": "Lionel",
+          "nom_complet": "Lionel LEBORGNE",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DEPRE",
+          "prenom": "Marion",
+          "nom_complet": "Marion DEPRE",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "CARPENTIER",
+          "prenom": "Frederic",
+          "nom_complet": "Frederic CARPENTIER",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DEBAILLEUX",
+          "prenom": "Anne",
+          "nom_complet": "Anne DEBAILLEUX",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "CHEVALIER",
+          "prenom": "Eric",
+          "nom_complet": "Eric CHEVALIER",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "RATTEL",
+          "prenom": "Julie",
+          "nom_complet": "Julie RATTEL",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "MASCARENHAS",
+          "prenom": "Antonio",
+          "nom_complet": "Antonio MASCARENHAS",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "GARCIA-JIMENEZ",
+          "prenom": "Agnés",
+          "nom_complet": "Agnés GARCIA-JIMENEZ",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "HENIN",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier HENIN",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "LECLERCQ",
+          "prenom": "Agnes",
+          "nom_complet": "Agnes LECLERCQ",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DEHERLY",
+          "prenom": "Eric",
+          "nom_complet": "Eric DEHERLY",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "FLAHAUT",
+          "prenom": "Cindy",
+          "nom_complet": "Cindy FLAHAUT",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "12"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "L'équipe citoyenne de Maresquel-Ecquemicourt pour un nouveau souffle",
+      "libelle_abrege_liste": "L'équipe citoyenne de Maresquel-Ecquemicourt pour un nouveau souffle",
+      "nuance_liste": null,
+      "voix": 249,
+      "pct_voix_exprimes": 41.09,
+      "sieges_cm": 3,
+      "sieges_cc": 0,
+      "nb_elus": 3,
+      "tete_de_liste": {
+        "nom": "YDÉE",
+        "prenom": "Hugues",
+        "nom_complet": "Hugues YDÉE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "YDÉE",
+          "prenom": "Hugues",
+          "nom_complet": "Hugues YDÉE",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "FRANÇOIS",
+          "prenom": "Sonia",
+          "nom_complet": "Sonia FRANÇOIS",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LHEUREUX",
+          "prenom": "Jacques",
+          "nom_complet": "Jacques LHEUREUX",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "3"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "code_commune": "62333",
+  "commune": "Fiefs",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "CHOQUET",
+    "prenom": "René",
+    "nom_complet": "René CHOQUET",
+    "age": 71,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 269,
+    "votants": 220,
+    "pct_votants": 81.78,
+    "abstentions": 49,
+    "pct_abstentions": 18.22,
+    "exprimes": 216
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "UNION POUR FIEFS",
+      "libelle_abrege_liste": "UNION POUR FIEFS",
+      "nuance_liste": null,
+      "voix": 123,
+      "pct_voix_exprimes": 56.94,
+      "sieges_cm": 9,
+      "sieges_cc": null,
+      "nb_elus": 9,
+      "tete_de_liste": {
+        "nom": "CHOQUET",
+        "prenom": "René",
+        "nom_complet": "René CHOQUET",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "CHOQUET",
+          "prenom": "René",
+          "nom_complet": "René CHOQUET",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LESAFFRE",
+          "prenom": "Aurélie",
+          "nom_complet": "Aurélie LESAFFRE",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "FOULON",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick FOULON",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LAQUAY",
+          "prenom": "Hélène",
+          "nom_complet": "Hélène LAQUAY",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "GROUX",
+          "prenom": "François",
+          "nom_complet": "François GROUX",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DEDOURGE--SAINT-POL",
+          "prenom": "Anne-Lise",
+          "nom_complet": "Anne-Lise DEDOURGE--SAINT-POL",
+          "sexe": "F",
+          "age": 29,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "PRUVOST",
+          "prenom": "Joffrey",
+          "nom_complet": "Joffrey PRUVOST",
+          "sexe": "M",
+          "age": 33,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DELPLACE",
+          "prenom": "Mélanie",
+          "nom_complet": "Mélanie DELPLACE",
+          "sexe": "F",
+          "age": 30,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "GILLOT",
+          "prenom": "Ludovic",
+          "nom_complet": "Ludovic GILLOT",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "9"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "\"AGIR ENSEMBLE POUR FIEFS\"",
+      "libelle_abrege_liste": "\"AGIR ENSEMBLE POUR FIEFS\"",
+      "nuance_liste": null,
+      "voix": 93,
+      "pct_voix_exprimes": 43.06,
+      "sieges_cm": 2,
+      "sieges_cc": null,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "FAUQUEMBERGUE",
+        "prenom": "Guy",
+        "nom_complet": "Guy FAUQUEMBERGUE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "FAUQUEMBERGUE",
+          "prenom": "Guy",
+          "nom_complet": "Guy FAUQUEMBERGUE",
+          "sexe": "M",
+          "age": 79,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "THERY",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle THERY",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

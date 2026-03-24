@@ -1,0 +1,151 @@
+{
+  "code_commune": "62484",
+  "commune": "Lagnicourt-Marcel",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "BEAUCHERON",
+    "prenom": "Stéphane",
+    "nom_complet": "Stéphane BEAUCHERON",
+    "age": 51,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 269,
+    "votants": 194,
+    "pct_votants": 72.12,
+    "abstentions": 75,
+    "pct_abstentions": 27.88,
+    "exprimes": 190
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "UNE EQUIPE ENGAGEE POUR NOTRE VILLAGE",
+      "libelle_abrege_liste": "UNE EQUIPE ENGAGEE POUR NOTRE VILLAGE",
+      "nuance_liste": null,
+      "voix": 134,
+      "pct_voix_exprimes": 70.53,
+      "sieges_cm": 10,
+      "sieges_cc": null,
+      "nb_elus": 10,
+      "tete_de_liste": {
+        "nom": "BEAUCHERON",
+        "prenom": "Stéphane",
+        "nom_complet": "Stéphane BEAUCHERON",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BEAUCHERON",
+          "prenom": "Stéphane",
+          "nom_complet": "Stéphane BEAUCHERON",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "CAPELLE",
+          "prenom": "Karine",
+          "nom_complet": "Karine CAPELLE",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DEBAENE",
+          "prenom": "Sébastien",
+          "nom_complet": "Sébastien DEBAENE",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "GRAUX",
+          "prenom": "Marie-Madeleine",
+          "nom_complet": "Marie-Madeleine GRAUX",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "MASCLEF",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric MASCLEF",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LAVALLARD",
+          "prenom": "Séverine",
+          "nom_complet": "Séverine LAVALLARD",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DEJONCKHEERE",
+          "prenom": "Hugo",
+          "nom_complet": "Hugo DEJONCKHEERE",
+          "sexe": "M",
+          "age": 24,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "HEDIN",
+          "prenom": "Océane",
+          "nom_complet": "Océane HEDIN",
+          "sexe": "F",
+          "age": 32,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "CARLIER",
+          "prenom": "Matthieu",
+          "nom_complet": "Matthieu CARLIER",
+          "sexe": "M",
+          "age": 32,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "JANSSENS",
+          "prenom": "Rachel",
+          "nom_complet": "Rachel JANSSENS",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "10"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "AVEC VOUS POUR LAGNICOURT MARCEL",
+      "libelle_abrege_liste": "AVEC VOUS POUR LAGNICOURT MARCEL",
+      "nuance_liste": null,
+      "voix": 56,
+      "pct_voix_exprimes": 29.47,
+      "sieges_cm": 1,
+      "sieges_cc": null,
+      "nb_elus": 1,
+      "tete_de_liste": {
+        "nom": "QUATRELIVRE",
+        "prenom": "Claude",
+        "nom_complet": "Claude QUATRELIVRE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "QUATRELIVRE",
+          "prenom": "Claude",
+          "nom_complet": "Claude QUATRELIVRE",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "1"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

@@ -1,0 +1,215 @@
+{
+  "code_commune": "59651",
+  "commune": "Wavrechain-sous-Denain",
+  "departement": "Nord",
+  "tour": "T2",
+  "maire": {
+    "nom": "DELCROIX",
+    "prenom": "Jacques",
+    "nom_complet": "Jacques DELCROIX",
+    "age": 77,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1093,
+    "votants": 767,
+    "pct_votants": 70.17,
+    "abstentions": 326,
+    "pct_abstentions": 29.83,
+    "exprimes": 751
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "ENSEMBLE AGISSONS POUR L'AVENIR DE NOTRE VILLAGE",
+      "libelle_abrege_liste": "ENSEMBLE AGISSONS POUR L'AVENIR DE NOTRE VILLAGE",
+      "nuance_liste": null,
+      "voix": 382,
+      "pct_voix_exprimes": 50.87,
+      "sieges_cm": 15,
+      "sieges_cc": 1,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "DELCROIX",
+        "prenom": "Jacques",
+        "nom_complet": "Jacques DELCROIX",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DELCROIX",
+          "prenom": "Jacques",
+          "nom_complet": "Jacques DELCROIX",
+          "sexe": "M",
+          "age": 77,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "STAQUET",
+          "prenom": "Laurence",
+          "nom_complet": "Laurence STAQUET",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "PROUVEUR",
+          "prenom": "Alain",
+          "nom_complet": "Alain PROUVEUR",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "NAUMOWICZ",
+          "prenom": "Ghislaine",
+          "nom_complet": "Ghislaine NAUMOWICZ",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "JOURNET",
+          "prenom": "Fabien",
+          "nom_complet": "Fabien JOURNET",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LEMAIRE",
+          "prenom": "Martine",
+          "nom_complet": "Martine LEMAIRE",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "PERNAK",
+          "prenom": "Marc",
+          "nom_complet": "Marc PERNAK",
+          "sexe": "M",
+          "age": 74,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LAMAND",
+          "prenom": "Caroline",
+          "nom_complet": "Caroline LAMAND",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "HOCHART",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric HOCHART",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "GOS",
+          "prenom": "Capucine",
+          "nom_complet": "Capucine GOS",
+          "sexe": "F",
+          "age": 23,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "EDOUARD",
+          "prenom": "Didier",
+          "nom_complet": "Didier EDOUARD",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "LAMANT-LIBERT",
+          "prenom": "Valérie",
+          "nom_complet": "Valérie LAMANT-LIBERT",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "BOUTALEB",
+          "prenom": "Hocine",
+          "nom_complet": "Hocine BOUTALEB",
+          "sexe": "M",
+          "age": 31,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "JOURNET-VALENTIN",
+          "prenom": "Fabienne",
+          "nom_complet": "Fabienne JOURNET-VALENTIN",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "LENGLEMEZ",
+          "prenom": "Thierry",
+          "nom_complet": "Thierry LENGLEMEZ",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "4",
+      "libelle_liste": "WAVRECHAIN-SOUS-DENAIN VOS IDEES, NOS ACTIONS !",
+      "libelle_abrege_liste": "WAVRECHAIN-SOUS-DENAIN VOS IDEES, NOS ACTIONS !",
+      "nuance_liste": null,
+      "voix": 369,
+      "pct_voix_exprimes": 49.13,
+      "sieges_cm": 4,
+      "sieges_cc": 0,
+      "nb_elus": 4,
+      "tete_de_liste": {
+        "nom": "BURETTE",
+        "prenom": "Jean-François",
+        "nom_complet": "Jean-François BURETTE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BURETTE",
+          "prenom": "Jean-François",
+          "nom_complet": "Jean-François BURETTE",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "HUBERT",
+          "prenom": "Allison",
+          "nom_complet": "Allison HUBERT",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DIVERCHY",
+          "prenom": "Ludovic",
+          "nom_complet": "Ludovic DIVERCHY",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BLARY",
+          "prenom": "Marie-Jeanne",
+          "nom_complet": "Marie-Jeanne BLARY",
+          "sexe": "F",
+          "age": 70,
+          "rang_liste": "4"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

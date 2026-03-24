@@ -1,0 +1,163 @@
+{
+  "code_commune": "59039",
+  "commune": "Awoingt",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "DHERBECOURT",
+    "prenom": "Eddy",
+    "nom_complet": "Eddy DHERBECOURT",
+    "age": 53,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 667,
+    "votants": 415,
+    "pct_votants": 62.22,
+    "abstentions": 252,
+    "pct_abstentions": 37.78,
+    "exprimes": 396
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Pour un village solidaire durable et en mouvement",
+      "libelle_abrege_liste": "Pour un village solidaire durable et en mouvement",
+      "nuance_liste": null,
+      "voix": 396,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "DHERBECOURT",
+        "prenom": "Eddy",
+        "nom_complet": "Eddy DHERBECOURT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DHERBECOURT",
+          "prenom": "Eddy",
+          "nom_complet": "Eddy DHERBECOURT",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DERCOURT",
+          "prenom": "Katia",
+          "nom_complet": "Katia DERCOURT",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BUSSY",
+          "prenom": "Sébastien",
+          "nom_complet": "Sébastien BUSSY",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DESORT",
+          "prenom": "Delphine",
+          "nom_complet": "Delphine DESORT",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DHOUAILLY",
+          "prenom": "Sébastien",
+          "nom_complet": "Sébastien DHOUAILLY",
+          "sexe": "M",
+          "age": 25,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "MACHON",
+          "prenom": "Marie-Cécile",
+          "nom_complet": "Marie-Cécile MACHON",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "LEGRAND",
+          "prenom": "Florian",
+          "nom_complet": "Florian LEGRAND",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "RODRIGUEZ-LEITE",
+          "prenom": "Sabrina",
+          "nom_complet": "Sabrina RODRIGUEZ-LEITE",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "GOFFART",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier GOFFART",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "MALVOISIN",
+          "prenom": "Emilie",
+          "nom_complet": "Emilie MALVOISIN",
+          "sexe": "F",
+          "age": 31,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "JOMBART",
+          "prenom": "Sylvain",
+          "nom_complet": "Sylvain JOMBART",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "MAROSTICA",
+          "prenom": "Marie-Hélène",
+          "nom_complet": "Marie-Hélène MAROSTICA",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "LEGRAND",
+          "prenom": "Eric",
+          "nom_complet": "Eric LEGRAND",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "SAVARY",
+          "prenom": "Julie",
+          "nom_complet": "Julie SAVARY",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "ROLLAND",
+          "prenom": "Jean-Philippe",
+          "nom_complet": "Jean-Philippe ROLLAND",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "code_commune": "59531",
+  "commune": "Saint-Benin",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "TIERCE",
+    "prenom": "Roger",
+    "nom_complet": "Roger TIERCE",
+    "age": 74,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 227,
+    "votants": 164,
+    "pct_votants": 72.25,
+    "abstentions": 63,
+    "pct_abstentions": 27.75,
+    "exprimes": 142
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "POUR NOTRE VILLAGE",
+      "libelle_abrege_liste": "POUR NOTRE VILLAGE",
+      "nuance_liste": null,
+      "voix": 142,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "TIERCE",
+        "prenom": "Roger",
+        "nom_complet": "Roger TIERCE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "TIERCE",
+          "prenom": "Roger",
+          "nom_complet": "Roger TIERCE",
+          "sexe": "M",
+          "age": 74,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "GODELIEZ NICAISE",
+          "prenom": "Véronique",
+          "nom_complet": "Véronique GODELIEZ NICAISE",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BLANCHARD",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal BLANCHARD",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BEUSCART",
+          "prenom": "Chantal",
+          "nom_complet": "Chantal BEUSCART",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DELCROIX",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique DELCROIX",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "CRUZ",
+          "prenom": "Natacha",
+          "nom_complet": "Natacha CRUZ",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DOISY",
+          "prenom": "Jean",
+          "nom_complet": "Jean DOISY",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LEFEVRE",
+          "prenom": "Aurélie",
+          "nom_complet": "Aurélie LEFEVRE",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "LEBRUN",
+          "prenom": "Sébastien",
+          "nom_complet": "Sébastien LEBRUN",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "LEMORT",
+          "prenom": "Guilaine",
+          "nom_complet": "Guilaine LEMORT",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "RICHEZ",
+          "prenom": "Michel",
+          "nom_complet": "Michel RICHEZ",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "code_commune": "62229",
+  "commune": "Cléty",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "LAVOGEZ",
+    "prenom": "Serge",
+    "nom_complet": "Serge LAVOGEZ",
+    "age": 70,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 650,
+    "votants": 390,
+    "pct_votants": 60,
+    "abstentions": 260,
+    "pct_abstentions": 40,
+    "exprimes": 269
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ENSEMBLE POUR CLÉTY",
+      "libelle_abrege_liste": "ENSEMBLE POUR CLÉTY",
+      "nuance_liste": null,
+      "voix": 269,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "LAVOGEZ",
+        "prenom": "Serge",
+        "nom_complet": "Serge LAVOGEZ",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LAVOGEZ",
+          "prenom": "Serge",
+          "nom_complet": "Serge LAVOGEZ",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LELEU",
+          "prenom": "Annie",
+          "nom_complet": "Annie LELEU",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "CHEIDLER",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier CHEIDLER",
+          "sexe": "M",
+          "age": 75,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BERTELOOT",
+          "prenom": "Réjane",
+          "nom_complet": "Réjane BERTELOOT",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DURIEZ",
+          "prenom": "Miguel",
+          "nom_complet": "Miguel DURIEZ",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "REGNIER",
+          "prenom": "Christine",
+          "nom_complet": "Christine REGNIER",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "LAMORILLE",
+          "prenom": "Jeremie",
+          "nom_complet": "Jeremie LAMORILLE",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "OPART",
+          "prenom": "Céline",
+          "nom_complet": "Céline OPART",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "LEFEBVRE",
+          "prenom": "Mickaël",
+          "nom_complet": "Mickaël LEFEBVRE",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "BEAUCAMP",
+          "prenom": "Marie Claude",
+          "nom_complet": "Marie Claude BEAUCAMP",
+          "sexe": "F",
+          "age": 75,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "ANSEL",
+          "prenom": "Adrien",
+          "nom_complet": "Adrien ANSEL",
+          "sexe": "M",
+          "age": 19,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "LAMBLOT",
+          "prenom": "Marion",
+          "nom_complet": "Marion LAMBLOT",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "LACQUEMENT",
+          "prenom": "Rémy",
+          "nom_complet": "Rémy LACQUEMENT",
+          "sexe": "M",
+          "age": 34,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "CAUËT",
+          "prenom": "Sandra",
+          "nom_complet": "Sandra CAUËT",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "VASSEUR",
+          "prenom": "Ludovic",
+          "nom_complet": "Ludovic VASSEUR",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

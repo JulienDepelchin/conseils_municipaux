@@ -1,0 +1,99 @@
+{
+  "code_commune": "62778",
+  "commune": "Sars-le-Bois",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "GODART",
+    "prenom": "Céline",
+    "nom_complet": "Céline GODART",
+    "age": 41,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 67,
+    "votants": 55,
+    "pct_votants": 82.09,
+    "abstentions": 12,
+    "pct_abstentions": 17.91,
+    "exprimes": 32
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Défense des intérêts communaux",
+      "libelle_abrege_liste": "Défense des intérêts communaux",
+      "nuance_liste": null,
+      "voix": 32,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 7,
+      "sieges_cc": null,
+      "nb_elus": 7,
+      "tete_de_liste": {
+        "nom": "GODART",
+        "prenom": "Céline",
+        "nom_complet": "Céline GODART",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "GODART",
+          "prenom": "Céline",
+          "nom_complet": "Céline GODART",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DAMBRINE",
+          "prenom": "Florent",
+          "nom_complet": "Florent DAMBRINE",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LEGRU",
+          "prenom": "Marie",
+          "nom_complet": "Marie LEGRU",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DUHAUPAS",
+          "prenom": "Jean",
+          "nom_complet": "Jean DUHAUPAS",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "PARADIS",
+          "prenom": "Céline",
+          "nom_complet": "Céline PARADIS",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "HAUTECOEUR",
+          "prenom": "Edouard",
+          "nom_complet": "Edouard HAUTECOEUR",
+          "sexe": "M",
+          "age": 74,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "PETAIN",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle PETAIN",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "7"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

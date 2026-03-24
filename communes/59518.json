@@ -1,0 +1,131 @@
+{
+  "code_commune": "59518",
+  "commune": "Ruesnes",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "BLOMME",
+    "prenom": "Claude",
+    "nom_complet": "Claude BLOMME",
+    "age": 69,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 321,
+    "votants": 205,
+    "pct_votants": 63.86,
+    "abstentions": 116,
+    "pct_abstentions": 36.14,
+    "exprimes": 181
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Ensemble continuons à agir pour Ruesnes",
+      "libelle_abrege_liste": "Ensemble continuons à agir pour Ruesnes",
+      "nuance_liste": null,
+      "voix": 181,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "BLOMME",
+        "prenom": "Claude",
+        "nom_complet": "Claude BLOMME",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BLOMME",
+          "prenom": "Claude",
+          "nom_complet": "Claude BLOMME",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DUPIRE",
+          "prenom": "Annick",
+          "nom_complet": "Annick DUPIRE",
+          "sexe": "F",
+          "age": 78,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LAIGLE",
+          "prenom": "Jean-Louis",
+          "nom_complet": "Jean-Louis LAIGLE",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BROQUET",
+          "prenom": "Magali",
+          "nom_complet": "Magali BROQUET",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "SERPILLON",
+          "prenom": "Irénée",
+          "nom_complet": "Irénée SERPILLON",
+          "sexe": "M",
+          "age": 74,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "TERLYNCK",
+          "prenom": "Florine",
+          "nom_complet": "Florine TERLYNCK",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "FEDERBE",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick FEDERBE",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "SCHMIDT",
+          "prenom": "Magalie",
+          "nom_complet": "Magalie SCHMIDT",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "FORTUNATO",
+          "prenom": "Guillaume",
+          "nom_complet": "Guillaume FORTUNATO",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "MARCHAND",
+          "prenom": "Véronique",
+          "nom_complet": "Véronique MARCHAND",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "CARPENTIER",
+          "prenom": "Ghislain",
+          "nom_complet": "Ghislain CARPENTIER",
+          "sexe": "M",
+          "age": 27,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

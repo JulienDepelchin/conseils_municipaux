@@ -1,0 +1,163 @@
+{
+  "code_commune": "59474",
+  "commune": "Prisches",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "FOVEZ",
+    "prenom": "Jean-Claude",
+    "nom_complet": "Jean-Claude FOVEZ",
+    "age": 69,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 783,
+    "votants": 479,
+    "pct_votants": 61.17,
+    "abstentions": 304,
+    "pct_abstentions": 38.83,
+    "exprimes": 433
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "CONTINUONS DANS NOTRE ELAN",
+      "libelle_abrege_liste": "CONTINUONS DANS NOTRE ELAN",
+      "nuance_liste": null,
+      "voix": 433,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": 2,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "FOVEZ",
+        "prenom": "Jean-Claude",
+        "nom_complet": "Jean-Claude FOVEZ",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "FOVEZ",
+          "prenom": "Jean-Claude",
+          "nom_complet": "Jean-Claude FOVEZ",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BLEHAUT BELERY",
+          "prenom": "Chantal",
+          "nom_complet": "Chantal BLEHAUT BELERY",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "VINS",
+          "prenom": "Jean-Paul",
+          "nom_complet": "Jean-Paul VINS",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "PETIT",
+          "prenom": "Colette",
+          "nom_complet": "Colette PETIT",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DEREME",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick DEREME",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "BROUTIN",
+          "prenom": "Brigitte",
+          "nom_complet": "Brigitte BROUTIN",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DENIMAL",
+          "prenom": "Cédric",
+          "nom_complet": "Cédric DENIMAL",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "BULCKE",
+          "prenom": "Claude",
+          "nom_complet": "Claude BULCKE",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "MOREAU",
+          "prenom": "Grégory",
+          "nom_complet": "Grégory MOREAU",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DELFOSSE",
+          "prenom": "Marion",
+          "nom_complet": "Marion DELFOSSE",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "PEREIRA DA SILVA",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric PEREIRA DA SILVA",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "DESSERY",
+          "prenom": "Géraldine",
+          "nom_complet": "Géraldine DESSERY",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "JOUNIAUX",
+          "prenom": "Sébastien",
+          "nom_complet": "Sébastien JOUNIAUX",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "DAVOINE",
+          "prenom": "Céline",
+          "nom_complet": "Céline DAVOINE",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "DUFOUR",
+          "prenom": "Ludovic",
+          "nom_complet": "Ludovic DUFOUR",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

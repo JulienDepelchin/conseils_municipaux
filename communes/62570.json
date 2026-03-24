@@ -1,0 +1,327 @@
+{
+  "code_commune": "62570",
+  "commune": "Méricourt",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "PLANQUE",
+    "prenom": "Fabrice",
+    "nom_complet": "Fabrice PLANQUE",
+    "age": 53,
+    "nuance": "LCOM"
+  },
+  "resultats": {
+    "inscrits": 8844,
+    "votants": 5051,
+    "pct_votants": 57.11,
+    "abstentions": 3793,
+    "pct_abstentions": 42.89,
+    "exprimes": 4940
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "ENSEMBLE POUR MERICOURT 2026",
+      "libelle_abrege_liste": "ENSEMBLE POUR MERICOURT 2026",
+      "nuance_liste": "LCOM",
+      "voix": 2823,
+      "pct_voix_exprimes": 57.15,
+      "sieges_cm": 26,
+      "sieges_cc": 3,
+      "nb_elus": 26,
+      "tete_de_liste": {
+        "nom": "PLANQUE",
+        "prenom": "Fabrice",
+        "nom_complet": "Fabrice PLANQUE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "PLANQUE",
+          "prenom": "Fabrice",
+          "nom_complet": "Fabrice PLANQUE",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "PLOUVIER",
+          "prenom": "Ludivine",
+          "nom_complet": "Ludivine PLOUVIER",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LELIEUX",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier LELIEUX",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "AÏT ABDERRAFII",
+          "prenom": "Latifa",
+          "nom_complet": "Latifa AÏT ABDERRAFII",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DUCAMP",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent DUCAMP",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "PINGUET",
+          "prenom": "Patricia",
+          "nom_complet": "Patricia PINGUET",
+          "sexe": "F",
+          "age": 72,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "FLEURANT",
+          "prenom": "Jérôme",
+          "nom_complet": "Jérôme FLEURANT",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "CHOQUET",
+          "prenom": "Aurore",
+          "nom_complet": "Aurore CHOQUET",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "BOUFFLERS",
+          "prenom": "Pierre",
+          "nom_complet": "Pierre BOUFFLERS",
+          "sexe": "M",
+          "age": 31,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "MALIGNO",
+          "prenom": "Marie",
+          "nom_complet": "Marie MALIGNO",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "BAUDE",
+          "prenom": "Bernard",
+          "nom_complet": "Bernard BAUDE",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "BALCEREK",
+          "prenom": "Jeanine",
+          "nom_complet": "Jeanine BALCEREK",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "LAOUR",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe LAOUR",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "SERVILLE",
+          "prenom": "Adeline",
+          "nom_complet": "Adeline SERVILLE",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "LEPOIVRE",
+          "prenom": "Maxime",
+          "nom_complet": "Maxime LEPOIVRE",
+          "sexe": "M",
+          "age": 34,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "BODESCOT",
+          "prenom": "Nancy",
+          "nom_complet": "Nancy BODESCOT",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "L'AABD",
+          "prenom": "Salem",
+          "nom_complet": "Salem L'AABD",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "DUPIRE",
+          "prenom": "Virginie",
+          "nom_complet": "Virginie DUPIRE",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "PRINGARBE",
+          "prenom": "José",
+          "nom_complet": "José PRINGARBE",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "MICHAUX",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique MICHAUX",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "TOME",
+          "prenom": "Julien",
+          "nom_complet": "Julien TOME",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "HUNET",
+          "prenom": "Pascale",
+          "nom_complet": "Pascale HUNET",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "SPATAFORA",
+          "prenom": "Flavio",
+          "nom_complet": "Flavio SPATAFORA",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "23"
+        },
+        {
+          "nom": "BOUREL",
+          "prenom": "Sandrine",
+          "nom_complet": "Sandrine BOUREL",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "24"
+        },
+        {
+          "nom": "PAILLARD",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier PAILLARD",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "25"
+        },
+        {
+          "nom": "CARON",
+          "prenom": "Julie",
+          "nom_complet": "Julie CARON",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "26"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "MERICOURT LE RENOUVEAU !",
+      "libelle_abrege_liste": "MERICOURT LE RENOUVEAU !",
+      "nuance_liste": "LRN",
+      "voix": 2117,
+      "pct_voix_exprimes": 42.85,
+      "sieges_cm": 7,
+      "sieges_cc": 1,
+      "nb_elus": 7,
+      "tete_de_liste": {
+        "nom": "DASSONVILLE",
+        "prenom": "Laurent",
+        "nom_complet": "Laurent DASSONVILLE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DASSONVILLE",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent DASSONVILLE",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "PIJANOWSKI",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie PIJANOWSKI",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "MICHALAK",
+          "prenom": "Herve",
+          "nom_complet": "Herve MICHALAK",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "NOLAY",
+          "prenom": "Daniele",
+          "nom_complet": "Daniele NOLAY",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DUPONT",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent DUPONT",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "BOQUET",
+          "prenom": "Cindy",
+          "nom_complet": "Cindy BOQUET",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "LECROART",
+          "prenom": "Denis",
+          "nom_complet": "Denis LECROART",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "7"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "code_commune": "59246",
+  "commune": "Forest-en-Cambrésis",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "HENNEBERT",
+    "prenom": "Laurence",
+    "nom_complet": "Laurence HENNEBERT",
+    "age": 52,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 402,
+    "votants": 272,
+    "pct_votants": 67.66,
+    "abstentions": 130,
+    "pct_abstentions": 32.34,
+    "exprimes": 226
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ENSEMBLE, ON VA PLUS LOIN !",
+      "libelle_abrege_liste": "ENSEMBLE, ON VA PLUS LOIN !",
+      "nuance_liste": null,
+      "voix": 226,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "HENNEBERT",
+        "prenom": "Laurence",
+        "nom_complet": "Laurence HENNEBERT",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "HENNEBERT",
+          "prenom": "Laurence",
+          "nom_complet": "Laurence HENNEBERT",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DRUESNE",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe DRUESNE",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "SORIAUX",
+          "prenom": "Marie-Pierre",
+          "nom_complet": "Marie-Pierre SORIAUX",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DEFINANCE",
+          "prenom": "Daniel",
+          "nom_complet": "Daniel DEFINANCE",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "CARTEGNIE",
+          "prenom": "Jeanne-Marie",
+          "nom_complet": "Jeanne-Marie CARTEGNIE",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DELGEHIER",
+          "prenom": "Vincent",
+          "nom_complet": "Vincent DELGEHIER",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "HENNIAUX",
+          "prenom": "Delphine",
+          "nom_complet": "Delphine HENNIAUX",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "CAUDMONT",
+          "prenom": "Régis",
+          "nom_complet": "Régis CAUDMONT",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "MONIER",
+          "prenom": "Maggy",
+          "nom_complet": "Maggy MONIER",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "LEDIEU",
+          "prenom": "Loïc",
+          "nom_complet": "Loïc LEDIEU",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "ELIAS",
+          "prenom": "Sophie",
+          "nom_complet": "Sophie ELIAS",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "QUENNESSON",
+          "prenom": "Wilfried",
+          "nom_complet": "Wilfried QUENNESSON",
+          "sexe": "M",
+          "age": 30,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "ROCHUT",
+          "prenom": "Elodie",
+          "nom_complet": "Elodie ROCHUT",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "LACOMBLEZ",
+          "prenom": "Loïc",
+          "nom_complet": "Loïc LACOMBLEZ",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "FRITSCH",
+          "prenom": "Chloé",
+          "nom_complet": "Chloé FRITSCH",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "code_commune": "62147",
+  "commune": "Boiry-Sainte-Rictrude",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "DOUAY",
+    "prenom": "Claude",
+    "nom_complet": "Claude DOUAY",
+    "age": 70,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 303,
+    "votants": 199,
+    "pct_votants": 65.68,
+    "abstentions": 104,
+    "pct_abstentions": 34.32,
+    "exprimes": 151
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Agir Aujourd'hui pour le Boiry de demain",
+      "libelle_abrege_liste": "Agir Aujourd'hui pour le Boiry de demain",
+      "nuance_liste": null,
+      "voix": 151,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "DOUAY",
+        "prenom": "Claude",
+        "nom_complet": "Claude DOUAY",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DOUAY",
+          "prenom": "Claude",
+          "nom_complet": "Claude DOUAY",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LEFRANC",
+          "prenom": "Marie-Noëlle",
+          "nom_complet": "Marie-Noëlle LEFRANC",
+          "sexe": "F",
+          "age": 74,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "PAIX",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier PAIX",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "CARON",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie CARON",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "PLU",
+          "prenom": "Jean-Claude",
+          "nom_complet": "Jean-Claude PLU",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "PONCHART",
+          "prenom": "Magalie",
+          "nom_complet": "Magalie PONCHART",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BEGHIN",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier BEGHIN",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DELEBECQUE",
+          "prenom": "Sabrina",
+          "nom_complet": "Sabrina DELEBECQUE",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "HOUPLAIN",
+          "prenom": "Alexandre",
+          "nom_complet": "Alexandre HOUPLAIN",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DAVION",
+          "prenom": "Céline",
+          "nom_complet": "Céline DAVION",
+          "sexe": "F",
+          "age": 30,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "BOUSSEMARD",
+          "prenom": "Quentin",
+          "nom_complet": "Quentin BOUSSEMARD",
+          "sexe": "M",
+          "age": 30,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

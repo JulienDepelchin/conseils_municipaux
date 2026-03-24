@@ -1,0 +1,131 @@
+{
+  "code_commune": "62689",
+  "commune": "Ransart",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "CONTART",
+    "prenom": "Betty",
+    "nom_complet": "Betty CONTART",
+    "age": 63,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 326,
+    "votants": 221,
+    "pct_votants": 67.79,
+    "abstentions": 105,
+    "pct_abstentions": 32.21,
+    "exprimes": 155
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "BIEN VIVRE ENSEMBLE A RANSART",
+      "libelle_abrege_liste": "BIEN VIVRE ENSEMBLE A RANSART",
+      "nuance_liste": null,
+      "voix": 155,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "CONTART",
+        "prenom": "Betty",
+        "nom_complet": "Betty CONTART",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "CONTART",
+          "prenom": "Betty",
+          "nom_complet": "Betty CONTART",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BOCHET",
+          "prenom": "Jean-Michel",
+          "nom_complet": "Jean-Michel BOCHET",
+          "sexe": "M",
+          "age": 76,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "ROUSSEL",
+          "prenom": "Ingrid",
+          "nom_complet": "Ingrid ROUSSEL",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BERLAIRE",
+          "prenom": "Jean-Luc",
+          "nom_complet": "Jean-Luc BERLAIRE",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LANDRU",
+          "prenom": "Evelyne",
+          "nom_complet": "Evelyne LANDRU",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "VASSEUR",
+          "prenom": "Martin",
+          "nom_complet": "Martin VASSEUR",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "LHERMITE",
+          "prenom": "Tiphainie",
+          "nom_complet": "Tiphainie LHERMITE",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "GUILBERT",
+          "prenom": "Tanguy",
+          "nom_complet": "Tanguy GUILBERT",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DUHAMEL",
+          "prenom": "Marie",
+          "nom_complet": "Marie DUHAMEL",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "TERNISIEN",
+          "prenom": "David",
+          "nom_complet": "David TERNISIEN",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "GUERRERO",
+          "prenom": "Maryline",
+          "nom_complet": "Maryline GUERRERO",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

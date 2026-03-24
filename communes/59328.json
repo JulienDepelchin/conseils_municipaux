@@ -1,0 +1,383 @@
+{
+  "code_commune": "59328",
+  "commune": "Lambersart",
+  "departement": "Nord",
+  "tour": "T2",
+  "maire": {
+    "nom": "BOUCHE",
+    "prenom": "Nicolas",
+    "nom_complet": "Nicolas BOUCHE",
+    "age": 55,
+    "nuance": "LDVC"
+  },
+  "resultats": {
+    "inscrits": 20259,
+    "votants": 11178,
+    "pct_votants": 55.18,
+    "abstentions": 9081,
+    "pct_abstentions": 44.82,
+    "exprimes": 10963
+  },
+  "listes": [
+    {
+      "num_panneau": "4",
+      "libelle_liste": "NicolasBouche2026",
+      "libelle_abrege_liste": "NicolasBouche2026",
+      "nuance_liste": "LDVC",
+      "voix": 4801,
+      "pct_voix_exprimes": 43.79,
+      "sieges_cm": 26,
+      "sieges_cc": 2,
+      "nb_elus": 26,
+      "tete_de_liste": {
+        "nom": "BOUCHE",
+        "prenom": "Nicolas",
+        "nom_complet": "Nicolas BOUCHE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BOUCHE",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas BOUCHE",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "GERBER",
+          "prenom": "Héloïse",
+          "nom_complet": "Héloïse GERBER",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LEMTIRI",
+          "prenom": "Kacem",
+          "nom_complet": "Kacem LEMTIRI",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DEWAS",
+          "prenom": "Sabine",
+          "nom_complet": "Sabine DEWAS",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "MAGDELAINE",
+          "prenom": "Emmanuel",
+          "nom_complet": "Emmanuel MAGDELAINE",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "COUSIN",
+          "prenom": "Chantal",
+          "nom_complet": "Chantal COUSIN",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BERTIN",
+          "prenom": "Pierre",
+          "nom_complet": "Pierre BERTIN",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "CACHEUX",
+          "prenom": "Martine",
+          "nom_complet": "Martine CACHEUX",
+          "sexe": "F",
+          "age": 81,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "MOUKRIM",
+          "prenom": "Yassir",
+          "nom_complet": "Yassir MOUKRIM",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DESMETTRE",
+          "prenom": "Eva",
+          "nom_complet": "Eva DESMETTRE",
+          "sexe": "F",
+          "age": 29,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "PIERROT",
+          "prenom": "Antoine",
+          "nom_complet": "Antoine PIERROT",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "DOUTRIAUX",
+          "prenom": "Céline",
+          "nom_complet": "Céline DOUTRIAUX",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "BURLION",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas BURLION",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "LUCOT",
+          "prenom": "Pascale",
+          "nom_complet": "Pascale LUCOT",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "LAOUTID",
+          "prenom": "Fouad",
+          "nom_complet": "Fouad LAOUTID",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "RAMON",
+          "prenom": "Anne",
+          "nom_complet": "Anne RAMON",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "HUBERT",
+          "prenom": "Thomas",
+          "nom_complet": "Thomas HUBERT",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "NISOLLE",
+          "prenom": "Christine",
+          "nom_complet": "Christine NISOLLE",
+          "sexe": "F",
+          "age": 78,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "VASSEUR",
+          "prenom": "Quentin",
+          "nom_complet": "Quentin VASSEUR",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "PILLA",
+          "prenom": "Claire",
+          "nom_complet": "Claire PILLA",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "LEKIEFFRE",
+          "prenom": "Guillaume",
+          "nom_complet": "Guillaume LEKIEFFRE",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "LEROY LAIDEBEUR",
+          "prenom": "Barbara",
+          "nom_complet": "Barbara LEROY LAIDEBEUR",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "LEMBREZ",
+          "prenom": "Bertin",
+          "nom_complet": "Bertin LEMBREZ",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "23"
+        },
+        {
+          "nom": "XAVIER",
+          "prenom": "Julie",
+          "nom_complet": "Julie XAVIER",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "24"
+        },
+        {
+          "nom": "DE RYCKE",
+          "prenom": "Xavier",
+          "nom_complet": "Xavier DE RYCKE",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "25"
+        },
+        {
+          "nom": "VANLEMMENS",
+          "prenom": "Laurence",
+          "nom_complet": "Laurence VANLEMMENS",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "26"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "LAURENT FRAPPART POUR LAMBERSART",
+      "libelle_abrege_liste": "LAURENT FRAPPART POUR LAMBERSART",
+      "nuance_liste": "LDVC",
+      "voix": 3607,
+      "pct_voix_exprimes": 32.9,
+      "sieges_cm": 6,
+      "sieges_cc": 1,
+      "nb_elus": 6,
+      "tete_de_liste": {
+        "nom": "FRAPPART",
+        "prenom": "Laurent",
+        "nom_complet": "Laurent FRAPPART",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "FRAPPART",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent FRAPPART",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "FARBOS",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie FARBOS",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "KINGET",
+          "prenom": "François",
+          "nom_complet": "François KINGET",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "TOURNEMINE",
+          "prenom": "Cathy",
+          "nom_complet": "Cathy TOURNEMINE",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LEOSZEWSKI",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick LEOSZEWSKI",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DOLIGNON",
+          "prenom": "Valérie",
+          "nom_complet": "Valérie DOLIGNON",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "6"
+        }
+      ],
+      "statut_conseil": "autre"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Lambersart En Commun",
+      "libelle_abrege_liste": "Lambersart En Commun",
+      "nuance_liste": "LUG",
+      "voix": 1503,
+      "pct_voix_exprimes": 13.71,
+      "sieges_cm": 2,
+      "sieges_cc": 0,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "SCHMITT",
+        "prenom": "François",
+        "nom_complet": "François SCHMITT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "SCHMITT",
+          "prenom": "François",
+          "nom_complet": "François SCHMITT",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "PRUVOST",
+          "prenom": "Céline",
+          "nom_complet": "Céline PRUVOST",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    },
+    {
+      "num_panneau": "3",
+      "libelle_liste": "Préservons Lambersart",
+      "libelle_abrege_liste": "Préservons Lambersart",
+      "nuance_liste": "LDIV",
+      "voix": 1052,
+      "pct_voix_exprimes": 9.6,
+      "sieges_cm": 1,
+      "sieges_cc": 0,
+      "nb_elus": 1,
+      "tete_de_liste": {
+        "nom": "GUNS",
+        "prenom": "Gontran",
+        "nom_complet": "Gontran GUNS",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "GUNS",
+          "prenom": "Gontran",
+          "nom_complet": "Gontran GUNS",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "1"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

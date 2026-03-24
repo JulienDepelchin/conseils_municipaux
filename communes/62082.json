@@ -1,0 +1,131 @@
+{
+  "code_commune": "62082",
+  "commune": "Barastre",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "BOURY",
+    "prenom": "Gislain",
+    "nom_complet": "Gislain BOURY",
+    "age": 72,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 192,
+    "votants": 140,
+    "pct_votants": 72.92,
+    "abstentions": 52,
+    "pct_abstentions": 27.08,
+    "exprimes": 121
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "liste menée par BOURY gislain",
+      "libelle_abrege_liste": "liste menée par BOURY gislain",
+      "nuance_liste": null,
+      "voix": 121,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "BOURY",
+        "prenom": "Gislain",
+        "nom_complet": "Gislain BOURY",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BOURY",
+          "prenom": "Gislain",
+          "nom_complet": "Gislain BOURY",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "KROL",
+          "prenom": "Mélanie",
+          "nom_complet": "Mélanie KROL",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DUBOIS",
+          "prenom": "Jackie",
+          "nom_complet": "Jackie DUBOIS",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "CRAMPON",
+          "prenom": "Wendy",
+          "nom_complet": "Wendy CRAMPON",
+          "sexe": "F",
+          "age": 31,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "BROGNARD",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe BROGNARD",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DIEUSAERT",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle DIEUSAERT",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "LEIGNEL",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas LEIGNEL",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LAROZE",
+          "prenom": "Julie",
+          "nom_complet": "Julie LAROZE",
+          "sexe": "F",
+          "age": 33,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "LIBERT",
+          "prenom": "Franck-Olivier",
+          "nom_complet": "Franck-Olivier LIBERT",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "GIANNUNA",
+          "prenom": "Séverine",
+          "nom_complet": "Séverine GIANNUNA",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "PLOUVIER",
+          "prenom": "Stéphane",
+          "nom_complet": "Stéphane PLOUVIER",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

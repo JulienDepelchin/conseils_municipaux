@@ -1,0 +1,163 @@
+{
+  "code_commune": "62642",
+  "commune": "Ourton",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "DÉON",
+    "prenom": "Fabrice",
+    "nom_complet": "Fabrice DÉON",
+    "age": 49,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 506,
+    "votants": 363,
+    "pct_votants": 71.74,
+    "abstentions": 143,
+    "pct_abstentions": 28.26,
+    "exprimes": 321
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ENSEMBLE, CONTINUONS D'AGIR POUR OURTON",
+      "libelle_abrege_liste": "ENSEMBLE, CONTINUONS D'AGIR POUR OURTON",
+      "nuance_liste": null,
+      "voix": 321,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "DÉON",
+        "prenom": "Fabrice",
+        "nom_complet": "Fabrice DÉON",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DÉON",
+          "prenom": "Fabrice",
+          "nom_complet": "Fabrice DÉON",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "HAŸ",
+          "prenom": "Marie-Claire",
+          "nom_complet": "Marie-Claire HAŸ",
+          "sexe": "F",
+          "age": 77,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "CORDONNIER",
+          "prenom": "Frédy",
+          "nom_complet": "Frédy CORDONNIER",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "CORDONNIER",
+          "prenom": "Monique",
+          "nom_complet": "Monique CORDONNIER",
+          "sexe": "F",
+          "age": 71,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "THELLIER",
+          "prenom": "Bernard",
+          "nom_complet": "Bernard THELLIER",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DUFAY",
+          "prenom": "Nadine",
+          "nom_complet": "Nadine DUFAY",
+          "sexe": "F",
+          "age": 77,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "THOREL",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick THOREL",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "WINTREBERT",
+          "prenom": "Céline",
+          "nom_complet": "Céline WINTREBERT",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "CARDON",
+          "prenom": "Michaël",
+          "nom_complet": "Michaël CARDON",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "BELVAL",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle BELVAL",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "GWIZDZ",
+          "prenom": "Stéphane",
+          "nom_complet": "Stéphane GWIZDZ",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "GWIZDZ",
+          "prenom": "Elisabeth",
+          "nom_complet": "Elisabeth GWIZDZ",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "HOUSSELIN",
+          "prenom": "Benjamin",
+          "nom_complet": "Benjamin HOUSSELIN",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "THÉRACHE",
+          "prenom": "Brigitte",
+          "nom_complet": "Brigitte THÉRACHE",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "VERRIÈLE",
+          "prenom": "Thomas",
+          "nom_complet": "Thomas VERRIÈLE",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

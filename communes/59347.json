@@ -1,0 +1,183 @@
+{
+  "code_commune": "59347",
+  "commune": "Liessies",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "RICHEZ",
+    "prenom": "François",
+    "nom_complet": "François RICHEZ",
+    "age": 57,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 392,
+    "votants": 335,
+    "pct_votants": 85.46,
+    "abstentions": 57,
+    "pct_abstentions": 14.54,
+    "exprimes": 325
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Liessies 2026, notre passion, notre avenir",
+      "libelle_abrege_liste": "Liessies 2026, notre passion, notre avenir",
+      "nuance_liste": null,
+      "voix": 254,
+      "pct_voix_exprimes": 78.15,
+      "sieges_cm": 14,
+      "sieges_cc": null,
+      "nb_elus": 14,
+      "tete_de_liste": {
+        "nom": "RICHEZ",
+        "prenom": "François",
+        "nom_complet": "François RICHEZ",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "RICHEZ",
+          "prenom": "François",
+          "nom_complet": "François RICHEZ",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BLONDEL",
+          "prenom": "Sonia",
+          "nom_complet": "Sonia BLONDEL",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "FRANCOIS",
+          "prenom": "Jacques",
+          "nom_complet": "Jacques FRANCOIS",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "PETIT",
+          "prenom": "Hélène",
+          "nom_complet": "Hélène PETIT",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LEROY",
+          "prenom": "Rémi",
+          "nom_complet": "Rémi LEROY",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DESOIGNIES",
+          "prenom": "Anne-Marie",
+          "nom_complet": "Anne-Marie DESOIGNIES",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "MINEZ",
+          "prenom": "Alexandre",
+          "nom_complet": "Alexandre MINEZ",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DUBOIS",
+          "prenom": "Suzelle",
+          "nom_complet": "Suzelle DUBOIS",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DELVA",
+          "prenom": "Gerard",
+          "nom_complet": "Gerard DELVA",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "WYART",
+          "prenom": "Suzanne",
+          "nom_complet": "Suzanne WYART",
+          "sexe": "F",
+          "age": 75,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "GHULAM",
+          "prenom": "Lone",
+          "nom_complet": "Lone GHULAM",
+          "sexe": "M",
+          "age": 33,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "LECLERCQ",
+          "prenom": "Louise",
+          "nom_complet": "Louise LECLERCQ",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "DURANT",
+          "prenom": "Jean-Jacques",
+          "nom_complet": "Jean-Jacques DURANT",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "LAHAYE",
+          "prenom": "Françoise",
+          "nom_complet": "Françoise LAHAYE",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "14"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "ENSEMBLE FAISONS VIVRE NOTRE VILLAGE",
+      "libelle_abrege_liste": "ENSEMBLE FAISONS VIVRE NOTRE VILLAGE",
+      "nuance_liste": null,
+      "voix": 71,
+      "pct_voix_exprimes": 21.85,
+      "sieges_cm": 1,
+      "sieges_cc": null,
+      "nb_elus": 1,
+      "tete_de_liste": {
+        "nom": "BONNEAU",
+        "prenom": "Patrick",
+        "nom_complet": "Patrick BONNEAU",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BONNEAU",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick BONNEAU",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "1"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

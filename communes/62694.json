@@ -1,0 +1,131 @@
+{
+  "code_commune": "62694",
+  "commune": "Rebreuve-sur-Canche",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "BONNELLE",
+    "prenom": "Thomas",
+    "nom_complet": "Thomas BONNELLE",
+    "age": 46,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 162,
+    "votants": 101,
+    "pct_votants": 62.35,
+    "abstentions": 61,
+    "pct_abstentions": 37.65,
+    "exprimes": 87
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "REBREUVE 2026",
+      "libelle_abrege_liste": "REBREUVE 2026",
+      "nuance_liste": null,
+      "voix": 87,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "BONNELLE",
+        "prenom": "Thomas",
+        "nom_complet": "Thomas BONNELLE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BONNELLE",
+          "prenom": "Thomas",
+          "nom_complet": "Thomas BONNELLE",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DELATTRE",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie DELATTRE",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "CREPIN",
+          "prenom": "Denis",
+          "nom_complet": "Denis CREPIN",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "GUILLON",
+          "prenom": "Marie-Christine",
+          "nom_complet": "Marie-Christine GUILLON",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DUQUENNE",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal DUQUENNE",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LEMAIRE",
+          "prenom": "Amélie",
+          "nom_complet": "Amélie LEMAIRE",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "LIMBOURG",
+          "prenom": "Vincent",
+          "nom_complet": "Vincent LIMBOURG",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "POKRYWKA",
+          "prenom": "Virginie",
+          "nom_complet": "Virginie POKRYWKA",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "MARTINAGE",
+          "prenom": "Michel",
+          "nom_complet": "Michel MARTINAGE",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "URBANAC",
+          "prenom": "Magali",
+          "nom_complet": "Magali URBANAC",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "ROUGEGREZ",
+          "prenom": "Romain",
+          "nom_complet": "Romain ROUGEGREZ",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

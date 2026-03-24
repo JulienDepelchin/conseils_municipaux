@@ -1,0 +1,235 @@
+{
+  "code_commune": "62034",
+  "commune": "Annequin",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "BRAEM",
+    "prenom": "Christel",
+    "nom_complet": "Christel BRAEM",
+    "age": 60,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1810,
+    "votants": 1253,
+    "pct_votants": 69.23,
+    "abstentions": 557,
+    "pct_abstentions": 30.77,
+    "exprimes": 1218
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "AGIR POUR ANNEQUIN",
+      "libelle_abrege_liste": "AGIR POUR ANNEQUIN",
+      "nuance_liste": null,
+      "voix": 825,
+      "pct_voix_exprimes": 67.73,
+      "sieges_cm": 16,
+      "sieges_cc": 1,
+      "nb_elus": 16,
+      "tete_de_liste": {
+        "nom": "BRAEM",
+        "prenom": "Christel",
+        "nom_complet": "Christel BRAEM",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "BRAEM",
+          "prenom": "Christel",
+          "nom_complet": "Christel BRAEM",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "VYNCKE",
+          "prenom": "Didier",
+          "nom_complet": "Didier VYNCKE",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "JAROSIK",
+          "prenom": "Magali",
+          "nom_complet": "Magali JAROSIK",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "HETMANSKI",
+          "prenom": "Thomas",
+          "nom_complet": "Thomas HETMANSKI",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LAURENT",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle LAURENT",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LETOMBE",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe LETOMBE",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "QUEVA",
+          "prenom": "Cécile",
+          "nom_complet": "Cécile QUEVA",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DECAMP",
+          "prenom": "David",
+          "nom_complet": "David DECAMP",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "GOUDIN",
+          "prenom": "Cathy",
+          "nom_complet": "Cathy GOUDIN",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "HOURIEZ",
+          "prenom": "Frederic",
+          "nom_complet": "Frederic HOURIEZ",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DELECROIX",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie DELECROIX",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "FAUCOEUR",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal FAUCOEUR",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "BLONDEL",
+          "prenom": "Marie",
+          "nom_complet": "Marie BLONDEL",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "DELMOTE",
+          "prenom": "Adrien",
+          "nom_complet": "Adrien DELMOTE",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "BESSARD",
+          "prenom": "Marie-Brigitte",
+          "nom_complet": "Marie-Brigitte BESSARD",
+          "sexe": "F",
+          "age": 70,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "INGLART",
+          "prenom": "Patrice",
+          "nom_complet": "Patrice INGLART",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "16"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "3",
+      "libelle_liste": "ANNEQUIN, ENSEMBLE VERS L'AVENIR 2026",
+      "libelle_abrege_liste": "ANNEQUIN, ENSEMBLE VERS L'AVENIR 2026",
+      "nuance_liste": null,
+      "voix": 271,
+      "pct_voix_exprimes": 22.25,
+      "sieges_cm": 2,
+      "sieges_cc": 0,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "LECOCQ",
+        "prenom": "Jean-Pierre",
+        "nom_complet": "Jean-Pierre LECOCQ",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LECOCQ",
+          "prenom": "Jean-Pierre",
+          "nom_complet": "Jean-Pierre LECOCQ",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BOIDIN",
+          "prenom": "Anne-Sophie",
+          "nom_complet": "Anne-Sophie BOIDIN",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ANNEQUIN, LE RENOUVEAU ENSEMBLE !",
+      "libelle_abrege_liste": "ANNEQUIN, LE RENOUVEAU ENSEMBLE !",
+      "nuance_liste": null,
+      "voix": 122,
+      "pct_voix_exprimes": 10.02,
+      "sieges_cm": 1,
+      "sieges_cc": 0,
+      "nb_elus": 1,
+      "tete_de_liste": {
+        "nom": "COCQ",
+        "prenom": "Sylvain",
+        "nom_complet": "Sylvain COCQ",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "COCQ",
+          "prenom": "Sylvain",
+          "nom_complet": "Sylvain COCQ",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "1"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

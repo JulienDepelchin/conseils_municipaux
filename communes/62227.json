@@ -1,0 +1,131 @@
+{
+  "code_commune": "62227",
+  "commune": "Clenleu",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "DAVELU",
+    "prenom": "Hervé",
+    "nom_complet": "Hervé DAVELU",
+    "age": 63,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 157,
+    "votants": 95,
+    "pct_votants": 60.51,
+    "abstentions": 62,
+    "pct_abstentions": 39.49,
+    "exprimes": 72
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "UNIS POUR CLENLEU",
+      "libelle_abrege_liste": "UNIS POUR CLENLEU",
+      "nuance_liste": null,
+      "voix": 72,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "DAVELU",
+        "prenom": "Hervé",
+        "nom_complet": "Hervé DAVELU",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DAVELU",
+          "prenom": "Hervé",
+          "nom_complet": "Hervé DAVELU",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DELATTRE",
+          "prenom": "Marie-Paule",
+          "nom_complet": "Marie-Paule DELATTRE",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LECERF",
+          "prenom": "Paul",
+          "nom_complet": "Paul LECERF",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BEUTIN",
+          "prenom": "Laëtitia",
+          "nom_complet": "Laëtitia BEUTIN",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LEVELEUX",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno LEVELEUX",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LECERF",
+          "prenom": "Coralie",
+          "nom_complet": "Coralie LECERF",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "MERLIER",
+          "prenom": "Daniel",
+          "nom_complet": "Daniel MERLIER",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "VERDIN",
+          "prenom": "Elodie",
+          "nom_complet": "Elodie VERDIN",
+          "sexe": "F",
+          "age": 32,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "PAQUE",
+          "prenom": "Jean-Luc",
+          "nom_complet": "Jean-Luc PAQUE",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "HEMERYCK",
+          "prenom": "Florine",
+          "nom_complet": "Florine HEMERYCK",
+          "sexe": "F",
+          "age": 32,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "BOUVILLE",
+          "prenom": "Franck",
+          "nom_complet": "Franck BOUVILLE",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

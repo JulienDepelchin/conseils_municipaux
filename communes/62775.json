@@ -1,0 +1,151 @@
+{
+  "code_commune": "62775",
+  "commune": "Sanghen",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "DOYE",
+    "prenom": "Jean-Pierre",
+    "nom_complet": "Jean-Pierre DOYE",
+    "age": 64,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 260,
+    "votants": 238,
+    "pct_votants": 91.54,
+    "abstentions": 22,
+    "pct_abstentions": 8.46,
+    "exprimes": 230
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "Continuons l'avenir ensemble",
+      "libelle_abrege_liste": "Continuons l'avenir ensemble",
+      "nuance_liste": null,
+      "voix": 143,
+      "pct_voix_exprimes": 62.17,
+      "sieges_cm": 9,
+      "sieges_cc": null,
+      "nb_elus": 9,
+      "tete_de_liste": {
+        "nom": "DOYE",
+        "prenom": "Jean-Pierre",
+        "nom_complet": "Jean-Pierre DOYE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DOYE",
+          "prenom": "Jean-Pierre",
+          "nom_complet": "Jean-Pierre DOYE",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "MALLE",
+          "prenom": "Sophie",
+          "nom_complet": "Sophie MALLE",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "GORET",
+          "prenom": "Francky",
+          "nom_complet": "Francky GORET",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LELEU",
+          "prenom": "Rébecca",
+          "nom_complet": "Rébecca LELEU",
+          "sexe": "F",
+          "age": 21,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "RISTORI",
+          "prenom": "Mathieu",
+          "nom_complet": "Mathieu RISTORI",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LEROUGE",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie LEROUGE",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "LEMAIRE",
+          "prenom": "Jérôme",
+          "nom_complet": "Jérôme LEMAIRE",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "MIELLOT",
+          "prenom": "Lucie",
+          "nom_complet": "Lucie MIELLOT",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "LEMPIRE",
+          "prenom": "Jérôme",
+          "nom_complet": "Jérôme LEMPIRE",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "9"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Un nouvel élan pour SANGHEN",
+      "libelle_abrege_liste": "Un nouvel élan pour SANGHEN",
+      "nuance_liste": null,
+      "voix": 87,
+      "pct_voix_exprimes": 37.83,
+      "sieges_cm": 2,
+      "sieges_cc": null,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "LELIEVRE",
+        "prenom": "Kevin",
+        "nom_complet": "Kevin LELIEVRE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LELIEVRE",
+          "prenom": "Kevin",
+          "nom_complet": "Kevin LELIEVRE",
+          "sexe": "M",
+          "age": 30,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "GOIDIN",
+          "prenom": "Sandrine",
+          "nom_complet": "Sandrine GOIDIN",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

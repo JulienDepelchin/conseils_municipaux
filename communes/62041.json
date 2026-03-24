@@ -1,0 +1,461 @@
+{
+  "code_commune": "62041",
+  "commune": "Arras",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "LETURQUE",
+    "prenom": "Frédéric",
+    "nom_complet": "Frédéric LETURQUE",
+    "age": 57,
+    "nuance": "LDVC"
+  },
+  "resultats": {
+    "inscrits": 28275,
+    "votants": 14707,
+    "pct_votants": 52.01,
+    "abstentions": 13568,
+    "pct_abstentions": 47.99,
+    "exprimes": 14402
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "ARRAS AVEC VOUS",
+      "libelle_abrege_liste": "ARRAS AVEC VOUS",
+      "nuance_liste": "LDVC",
+      "voix": 8695,
+      "pct_voix_exprimes": 60.37,
+      "sieges_cm": 35,
+      "sieges_cc": 25,
+      "nb_elus": 35,
+      "tete_de_liste": {
+        "nom": "LETURQUE",
+        "prenom": "Frédéric",
+        "nom_complet": "Frédéric LETURQUE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LETURQUE",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric LETURQUE",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "GHEERBRANT",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie GHEERBRANT",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "FERRI",
+          "prenom": "Jean-Pierre",
+          "nom_complet": "Jean-Pierre FERRI",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BEAUMONT",
+          "prenom": "Evelyne",
+          "nom_complet": "Evelyne BEAUMONT",
+          "sexe": "F",
+          "age": 73,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DESFERET",
+          "prenom": "Benoît",
+          "nom_complet": "Benoît DESFERET",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LAPOUILLE-FLAJOLET",
+          "prenom": "Emmanuelle",
+          "nom_complet": "Emmanuelle LAPOUILLE-FLAJOLET",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "MALFAIT",
+          "prenom": "Alexandre",
+          "nom_complet": "Alexandre MALFAIT",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "BOISSOU",
+          "prenom": "Karine",
+          "nom_complet": "Karine BOISSOU",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "PEROL",
+          "prenom": "Alexandre",
+          "nom_complet": "Alexandre PEROL",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "OUAGUEF",
+          "prenom": "Zohra",
+          "nom_complet": "Zohra OUAGUEF",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "KHODR",
+          "prenom": "Ziad",
+          "nom_complet": "Ziad KHODR",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "DELETOILLE",
+          "prenom": "Emmanuelle",
+          "nom_complet": "Emmanuelle DELETOILLE",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "OSSELAND",
+          "prenom": "Gauthier",
+          "nom_complet": "Gauthier OSSELAND",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "VILETTE-TORILLEC",
+          "prenom": "Aude",
+          "nom_complet": "Aude VILETTE-TORILLEC",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "PRINCE",
+          "prenom": "Stéphane",
+          "nom_complet": "Stéphane PRINCE",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "NOCLERCQ",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie NOCLERCQ",
+          "sexe": "F",
+          "age": 71,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "BOURGEOIS",
+          "prenom": "David",
+          "nom_complet": "David BOURGEOIS",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "BIGORNE",
+          "prenom": "Emilie",
+          "nom_complet": "Emilie BIGORNE",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "VAAST",
+          "prenom": "Tanguy",
+          "nom_complet": "Tanguy VAAST",
+          "sexe": "M",
+          "age": 27,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "DELAVENNE",
+          "prenom": "Bénédicte",
+          "nom_complet": "Bénédicte DELAVENNE",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "SOUAF",
+          "prenom": "Ahmed",
+          "nom_complet": "Ahmed SOUAF",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "LALOUX",
+          "prenom": "Eleonore",
+          "nom_complet": "Eleonore LALOUX",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "AMAJOUD",
+          "prenom": "Nassim",
+          "nom_complet": "Nassim AMAJOUD",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "23"
+        },
+        {
+          "nom": "FRERE-BOCQUILLET",
+          "prenom": "Sophie",
+          "nom_complet": "Sophie FRERE-BOCQUILLET",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "24"
+        },
+        {
+          "nom": "MICHEL",
+          "prenom": "Arnaud",
+          "nom_complet": "Arnaud MICHEL",
+          "sexe": "M",
+          "age": 34,
+          "rang_liste": "25"
+        },
+        {
+          "nom": "HODENT",
+          "prenom": "Claire",
+          "nom_complet": "Claire HODENT",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "26"
+        },
+        {
+          "nom": "BARRE",
+          "prenom": "Antonin",
+          "nom_complet": "Antonin BARRE",
+          "sexe": "M",
+          "age": 31,
+          "rang_liste": "27"
+        },
+        {
+          "nom": "NICOLLE",
+          "prenom": "Laure",
+          "nom_complet": "Laure NICOLLE",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "28"
+        },
+        {
+          "nom": "ZUPAN",
+          "prenom": "Jean Michel",
+          "nom_complet": "Jean Michel ZUPAN",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "29"
+        },
+        {
+          "nom": "DUFRENNE",
+          "prenom": "Patricia",
+          "nom_complet": "Patricia DUFRENNE",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "30"
+        },
+        {
+          "nom": "BROUTIN",
+          "prenom": "François-Xavier",
+          "nom_complet": "François-Xavier BROUTIN",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "31"
+        },
+        {
+          "nom": "KABDANI",
+          "prenom": "Rekia",
+          "nom_complet": "Rekia KABDANI",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "32"
+        },
+        {
+          "nom": "BASTIEN",
+          "prenom": "Jonathan",
+          "nom_complet": "Jonathan BASTIEN",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "33"
+        },
+        {
+          "nom": "DELPLANQUE",
+          "prenom": "Catherine",
+          "nom_complet": "Catherine DELPLANQUE",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "34"
+        },
+        {
+          "nom": "FERAND",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe FERAND",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "35"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "3",
+      "libelle_liste": "RASSEMBLEMENT POUR ARRAS",
+      "libelle_abrege_liste": "RASSEMBLEMENT POUR ARRAS",
+      "nuance_liste": "LRN",
+      "voix": 2759,
+      "pct_voix_exprimes": 19.16,
+      "sieges_cm": 4,
+      "sieges_cc": 3,
+      "nb_elus": 4,
+      "tete_de_liste": {
+        "nom": "HEUSÈLE",
+        "prenom": "Alban",
+        "nom_complet": "Alban HEUSÈLE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "HEUSÈLE",
+          "prenom": "Alban",
+          "nom_complet": "Alban HEUSÈLE",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BOIDOUX",
+          "prenom": "Virginia",
+          "nom_complet": "Virginia BOIDOUX",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DUCROUX",
+          "prenom": "Thierry",
+          "nom_complet": "Thierry DUCROUX",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "CHMIÉLINA",
+          "prenom": "Michèle",
+          "nom_complet": "Michèle CHMIÉLINA",
+          "sexe": "F",
+          "age": 80,
+          "rang_liste": "4"
+        }
+      ],
+      "statut_conseil": "autre"
+    },
+    {
+      "num_panneau": "4",
+      "libelle_liste": "CHANGEONS D'AIR AVEC LE PRINTEMPS ARRAGEOIS",
+      "libelle_abrege_liste": "CHANGEONS D'AIR AVEC LE PRINTEMPS ARRAGEOIS",
+      "nuance_liste": "LUG",
+      "voix": 1926,
+      "pct_voix_exprimes": 13.37,
+      "sieges_cm": 3,
+      "sieges_cc": 2,
+      "nb_elus": 3,
+      "tete_de_liste": {
+        "nom": "DÉTOURNÉ",
+        "prenom": "Antoine",
+        "nom_complet": "Antoine DÉTOURNÉ",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DÉTOURNÉ",
+          "prenom": "Antoine",
+          "nom_complet": "Antoine DÉTOURNÉ",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "PAGEAUD",
+          "prenom": "Aurore",
+          "nom_complet": "Aurore PAGEAUD",
+          "sexe": "F",
+          "age": 26,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "EL OUARDI",
+          "prenom": "Adil",
+          "nom_complet": "Adil EL OUARDI",
+          "sexe": "M",
+          "age": 24,
+          "rang_liste": "3"
+        }
+      ],
+      "statut_conseil": "autre"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Arras à Gauche",
+      "libelle_abrege_liste": "Arras à Gauche",
+      "nuance_liste": "LFI",
+      "voix": 829,
+      "pct_voix_exprimes": 5.76,
+      "sieges_cm": 1,
+      "sieges_cc": 0,
+      "nb_elus": 1,
+      "tete_de_liste": {
+        "nom": "KREMER",
+        "prenom": "Yannick",
+        "nom_complet": "Yannick KREMER",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "KREMER",
+          "prenom": "Yannick",
+          "nom_complet": "Yannick KREMER",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "1"
+        }
+      ],
+      "statut_conseil": "autre"
+    },
+    {
+      "num_panneau": "5",
+      "libelle_liste": "Lutte ouvrière - Le camp des travailleurs",
+      "libelle_abrege_liste": "Lutte ouvrière - Le camp des travailleurs",
+      "nuance_liste": "LEXG",
+      "voix": 193,
+      "pct_voix_exprimes": 1.34,
+      "sieges_cm": 0,
+      "sieges_cc": 0,
+      "nb_elus": 0,
+      "tete_de_liste": null,
+      "elus": [],
+      "statut_conseil": "sans_elu"
+    }
+  ]
+}

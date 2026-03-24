@@ -1,0 +1,427 @@
+{
+  "code_commune": "59606",
+  "commune": "Valenciennes",
+  "departement": "Nord",
+  "tour": "T2",
+  "maire": {
+    "nom": "DEGALLAIX",
+    "prenom": "Laurent",
+    "nom_complet": "Laurent DEGALLAIX",
+    "age": 60,
+    "nuance": "LDVD"
+  },
+  "resultats": {
+    "inscrits": 25821,
+    "votants": 14478,
+    "pct_votants": 56.07,
+    "abstentions": 11343,
+    "pct_abstentions": 43.93,
+    "exprimes": 14006
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "VALENCIENNES POUR VOUS & AVEC VOUS",
+      "libelle_abrege_liste": "VALENCIENNES POUR VOUS & AVEC VOUS",
+      "nuance_liste": "LDVD",
+      "voix": 5115,
+      "pct_voix_exprimes": 36.52,
+      "sieges_cm": 30,
+      "sieges_cc": 12,
+      "nb_elus": 30,
+      "tete_de_liste": {
+        "nom": "DEGALLAIX",
+        "prenom": "Laurent",
+        "nom_complet": "Laurent DEGALLAIX",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DEGALLAIX",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent DEGALLAIX",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "ZALTENI",
+          "prenom": "Sophia",
+          "nom_complet": "Sophia ZALTENI",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "L'HERMINÉ",
+          "prenom": "Arnaud",
+          "nom_complet": "Arnaud L'HERMINÉ",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "COLSON",
+          "prenom": "Aurore",
+          "nom_complet": "Aurore COLSON",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "AUDEGOND",
+          "prenom": "Armand",
+          "nom_complet": "Armand AUDEGOND",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "BEYROUTI",
+          "prenom": "Valérie",
+          "nom_complet": "Valérie BEYROUTI",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "PAUSÉ",
+          "prenom": "Daniel",
+          "nom_complet": "Daniel PAUSÉ",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "ALEXANDRE",
+          "prenom": "Delphine",
+          "nom_complet": "Delphine ALEXANDRE",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "RIZZO",
+          "prenom": "Didier",
+          "nom_complet": "Didier RIZZO",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "ROCCA",
+          "prenom": "Rosaria",
+          "nom_complet": "Rosaria ROCCA",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DUFOUR-LEFORT",
+          "prenom": "Régis",
+          "nom_complet": "Régis DUFOUR-LEFORT",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "LECLERCQ",
+          "prenom": "Emilie",
+          "nom_complet": "Emilie LECLERCQ",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "GANA",
+          "prenom": "Karim",
+          "nom_complet": "Karim GANA",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "GREVIN",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie GREVIN",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "GRANDAME",
+          "prenom": "Jean-Marcel",
+          "nom_complet": "Jean-Marcel GRANDAME",
+          "sexe": "M",
+          "age": 78,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "MENNESON",
+          "prenom": "Sabine",
+          "nom_complet": "Sabine MENNESON",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "CHARTIN",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick CHARTIN",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "CAUDRELIER",
+          "prenom": "Elisa",
+          "nom_complet": "Elisa CAUDRELIER",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "DI VITA",
+          "prenom": "Salvatore",
+          "nom_complet": "Salvatore DI VITA",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "LAMBERT",
+          "prenom": "Fabienne",
+          "nom_complet": "Fabienne LAMBERT",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "MARTINEZ",
+          "prenom": "Michaël",
+          "nom_complet": "Michaël MARTINEZ",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "CARON",
+          "prenom": "Elodie",
+          "nom_complet": "Elodie CARON",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "GUALANO",
+          "prenom": "Mattéo",
+          "nom_complet": "Mattéo GUALANO",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "23"
+        },
+        {
+          "nom": "MISSANA",
+          "prenom": "Franca",
+          "nom_complet": "Franca MISSANA",
+          "sexe": "F",
+          "age": 75,
+          "rang_liste": "24"
+        },
+        {
+          "nom": "DEL CIOTTO",
+          "prenom": "Lorenzo",
+          "nom_complet": "Lorenzo DEL CIOTTO",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "25"
+        },
+        {
+          "nom": "BILLOIR",
+          "prenom": "Ludivine",
+          "nom_complet": "Ludivine BILLOIR",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "26"
+        },
+        {
+          "nom": "MOREAU",
+          "prenom": "Bernard",
+          "nom_complet": "Bernard MOREAU",
+          "sexe": "M",
+          "age": 77,
+          "rang_liste": "27"
+        },
+        {
+          "nom": "GOURGEOT",
+          "prenom": "Annick",
+          "nom_complet": "Annick GOURGEOT",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "28"
+        },
+        {
+          "nom": "KOLLER",
+          "prenom": "Franck",
+          "nom_complet": "Franck KOLLER",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "29"
+        },
+        {
+          "nom": "DUMORTIER",
+          "prenom": "Maryse",
+          "nom_complet": "Maryse DUMORTIER",
+          "sexe": "F",
+          "age": 76,
+          "rang_liste": "30"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "3",
+      "libelle_liste": "Valenciennes Autrement",
+      "libelle_abrege_liste": "Valenciennes Autrement",
+      "nuance_liste": "LUG",
+      "voix": 4560,
+      "pct_voix_exprimes": 32.56,
+      "sieges_cm": 7,
+      "sieges_cc": 3,
+      "nb_elus": 7,
+      "tete_de_liste": {
+        "nom": "TROADEC",
+        "prenom": "Luce",
+        "nom_complet": "Luce TROADEC",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "TROADEC",
+          "prenom": "Luce",
+          "nom_complet": "Luce TROADEC",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "OMONT",
+          "prenom": "Quentin",
+          "nom_complet": "Quentin OMONT",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LORETTE",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie LORETTE",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "VERON",
+          "prenom": "Eric",
+          "nom_complet": "Eric VERON",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DUPONT",
+          "prenom": "Bénédicte",
+          "nom_complet": "Bénédicte DUPONT",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "COLPIN",
+          "prenom": "Pierrick",
+          "nom_complet": "Pierrick COLPIN",
+          "sexe": "M",
+          "age": 27,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "GOBERT",
+          "prenom": "Kassie",
+          "nom_complet": "Kassie GOBERT",
+          "sexe": "F",
+          "age": 23,
+          "rang_liste": "7"
+        }
+      ],
+      "statut_conseil": "autre"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "RASSEMBLER VALENCIENNES",
+      "libelle_abrege_liste": "RASSEMBLER VALENCIENNES",
+      "nuance_liste": "LRN",
+      "voix": 4331,
+      "pct_voix_exprimes": 30.92,
+      "sieges_cm": 6,
+      "sieges_cc": 3,
+      "nb_elus": 6,
+      "tete_de_liste": {
+        "nom": "ADRIENCENSE",
+        "prenom": "Tanneguy",
+        "nom_complet": "Tanneguy ADRIENCENSE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "ADRIENCENSE",
+          "prenom": "Tanneguy",
+          "nom_complet": "Tanneguy ADRIENCENSE",
+          "sexe": "M",
+          "age": 23,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "ZIELINSKI",
+          "prenom": "Brigitte",
+          "nom_complet": "Brigitte ZIELINSKI",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "CULOT",
+          "prenom": "Bertrand",
+          "nom_complet": "Bertrand CULOT",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LEBRUN",
+          "prenom": "Thérèse",
+          "nom_complet": "Thérèse LEBRUN",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "CHARPENTIER",
+          "prenom": "Xavier",
+          "nom_complet": "Xavier CHARPENTIER",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DAUVILLAIRE",
+          "prenom": "Véronique",
+          "nom_complet": "Véronique DAUVILLAIRE",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "6"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

@@ -1,0 +1,259 @@
+{
+  "code_commune": "62736",
+  "commune": "Sailly-sur-la-Lys",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "RAVET",
+    "prenom": "Pierre-Luc",
+    "nom_complet": "Pierre-Luc RAVET",
+    "age": 52,
+    "nuance": "LDVC"
+  },
+  "resultats": {
+    "inscrits": 3314,
+    "votants": 1573,
+    "pct_votants": 47.47,
+    "abstentions": 1741,
+    "pct_abstentions": 52.53,
+    "exprimes": 1236
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "SAILLY BAC LA VIE ENSEMBLE",
+      "libelle_abrege_liste": "SAILLY BAC LA VIE ENSEMBLE",
+      "nuance_liste": "LDVC",
+      "voix": 1236,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 27,
+      "sieges_cc": 4,
+      "nb_elus": 27,
+      "tete_de_liste": {
+        "nom": "RAVET",
+        "prenom": "Pierre-Luc",
+        "nom_complet": "Pierre-Luc RAVET",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "RAVET",
+          "prenom": "Pierre-Luc",
+          "nom_complet": "Pierre-Luc RAVET",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "HERDIN",
+          "prenom": "Andrée",
+          "nom_complet": "Andrée HERDIN",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BARBAUX",
+          "prenom": "Maxime",
+          "nom_complet": "Maxime BARBAUX",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "MASSELUS",
+          "prenom": "Kelly",
+          "nom_complet": "Kelly MASSELUS",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "CÔTÉ",
+          "prenom": "Alexandre",
+          "nom_complet": "Alexandre CÔTÉ",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "PIRLET CHEVALIER",
+          "prenom": "Bernadette",
+          "nom_complet": "Bernadette PIRLET CHEVALIER",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "KNOCKAERT",
+          "prenom": "Vincent",
+          "nom_complet": "Vincent KNOCKAERT",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "RUCKEBUSCH",
+          "prenom": "Geneviève",
+          "nom_complet": "Geneviève RUCKEBUSCH",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "LEFEBVRE",
+          "prenom": "François",
+          "nom_complet": "François LEFEBVRE",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "BLONDEL",
+          "prenom": "Marie-Christine",
+          "nom_complet": "Marie-Christine BLONDEL",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "COLLET",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier COLLET",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "BOUNOUA",
+          "prenom": "Rachida",
+          "nom_complet": "Rachida BOUNOUA",
+          "sexe": "F",
+          "age": 71,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "COUSIN",
+          "prenom": "Franck",
+          "nom_complet": "Franck COUSIN",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "CALDI",
+          "prenom": "Christine",
+          "nom_complet": "Christine CALDI",
+          "sexe": "F",
+          "age": 71,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "DEWILDE",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick DEWILDE",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "DESROUSSEAUX",
+          "prenom": "Anaïs",
+          "nom_complet": "Anaïs DESROUSSEAUX",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "DUPONT",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno DUPONT",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "GAUDEFROY",
+          "prenom": "Laetitia",
+          "nom_complet": "Laetitia GAUDEFROY",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "LEIGNEL",
+          "prenom": "David",
+          "nom_complet": "David LEIGNEL",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "MARTEAU",
+          "prenom": "Martine",
+          "nom_complet": "Martine MARTEAU",
+          "sexe": "F",
+          "age": 71,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "RIZKI",
+          "prenom": "Abdelhamid",
+          "nom_complet": "Abdelhamid RIZKI",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "RICBOURG",
+          "prenom": "Adeline",
+          "nom_complet": "Adeline RICBOURG",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "TEMPERMAN",
+          "prenom": "Jean-Luc",
+          "nom_complet": "Jean-Luc TEMPERMAN",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "23"
+        },
+        {
+          "nom": "RYCKEBUSCH",
+          "prenom": "Cécile",
+          "nom_complet": "Cécile RYCKEBUSCH",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "24"
+        },
+        {
+          "nom": "TRIOUX CHEMIN",
+          "prenom": "Sébastien",
+          "nom_complet": "Sébastien TRIOUX CHEMIN",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "25"
+        },
+        {
+          "nom": "TANGHE",
+          "prenom": "Sophie",
+          "nom_complet": "Sophie TANGHE",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "26"
+        },
+        {
+          "nom": "VERMERSCH",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier VERMERSCH",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "27"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

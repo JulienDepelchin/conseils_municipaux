@@ -1,0 +1,195 @@
+{
+  "code_commune": "59244",
+  "commune": "Fontaine-Notre-Dame",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "IVANEC",
+    "prenom": "Bruno",
+    "nom_complet": "Bruno IVANEC",
+    "age": 59,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1349,
+    "votants": 731,
+    "pct_votants": 54.19,
+    "abstentions": 618,
+    "pct_abstentions": 45.81,
+    "exprimes": 647
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ENSEMBLE, POUR NOTRE VILLAGE",
+      "libelle_abrege_liste": "ENSEMBLE, POUR NOTRE VILLAGE",
+      "nuance_liste": null,
+      "voix": 647,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 19,
+      "sieges_cc": 1,
+      "nb_elus": 19,
+      "tete_de_liste": {
+        "nom": "IVANEC",
+        "prenom": "Bruno",
+        "nom_complet": "Bruno IVANEC",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "IVANEC",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno IVANEC",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "CHEMSI",
+          "prenom": "Ludivine",
+          "nom_complet": "Ludivine CHEMSI",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BEAUVOIS",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe BEAUVOIS",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LEMAIRE",
+          "prenom": "Françoise",
+          "nom_complet": "Françoise LEMAIRE",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DUWEZ",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe DUWEZ",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "BAHEUX",
+          "prenom": "Claudine",
+          "nom_complet": "Claudine BAHEUX",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "LELEU",
+          "prenom": "Marc",
+          "nom_complet": "Marc LELEU",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "GOSSELET",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie GOSSELET",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "PANIEN",
+          "prenom": "Baptiste",
+          "nom_complet": "Baptiste PANIEN",
+          "sexe": "M",
+          "age": 34,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "LOCQUET",
+          "prenom": "Julie",
+          "nom_complet": "Julie LOCQUET",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DRAUX",
+          "prenom": "Stéphane",
+          "nom_complet": "Stéphane DRAUX",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "HOSSELET",
+          "prenom": "Christine",
+          "nom_complet": "Christine HOSSELET",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "HERLEM",
+          "prenom": "Maxime",
+          "nom_complet": "Maxime HERLEM",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "DUMETZ",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie DUMETZ",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "DEMARCQ",
+          "prenom": "Patrice",
+          "nom_complet": "Patrice DEMARCQ",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "DUCLERMORTIER",
+          "prenom": "Victoire",
+          "nom_complet": "Victoire DUCLERMORTIER",
+          "sexe": "F",
+          "age": 24,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "PLISSON",
+          "prenom": "Roland",
+          "nom_complet": "Roland PLISSON",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "DUPONT",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle DUPONT",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "SAUVEZ",
+          "prenom": "Baptiste",
+          "nom_complet": "Baptiste SAUVEZ",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "19"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

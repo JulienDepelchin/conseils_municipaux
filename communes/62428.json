@@ -1,0 +1,163 @@
+{
+  "code_commune": "62428",
+  "commune": "Hénin-sur-Cojeul",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "MAURY",
+    "prenom": "Olivier",
+    "nom_complet": "Olivier MAURY",
+    "age": 63,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 427,
+    "votants": 288,
+    "pct_votants": 67.45,
+    "abstentions": 139,
+    "pct_abstentions": 32.55,
+    "exprimes": 245
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Une équipe engagée pour Hénin sur Cojeul",
+      "libelle_abrege_liste": "Une équipe engagée pour Hénin sur Cojeul",
+      "nuance_liste": null,
+      "voix": 245,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "MAURY",
+        "prenom": "Olivier",
+        "nom_complet": "Olivier MAURY",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "MAURY",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier MAURY",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "FRAMERY",
+          "prenom": "Martine",
+          "nom_complet": "Martine FRAMERY",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LEFRERE",
+          "prenom": "Bernard",
+          "nom_complet": "Bernard LEFRERE",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "CARPENTIER",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie CARPENTIER",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "WINTREBERT",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent WINTREBERT",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "CONDETTE",
+          "prenom": "Angélique",
+          "nom_complet": "Angélique CONDETTE",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "VARLET",
+          "prenom": "Aurélien",
+          "nom_complet": "Aurélien VARLET",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "GROUSELLE",
+          "prenom": "Myriam",
+          "nom_complet": "Myriam GROUSELLE",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DELANNOY",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe DELANNOY",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "SLOWIK",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie SLOWIK",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "MARQUIS",
+          "prenom": "Julien",
+          "nom_complet": "Julien MARQUIS",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "GUISELIN",
+          "prenom": "Héloïse",
+          "nom_complet": "Héloïse GUISELIN",
+          "sexe": "F",
+          "age": 33,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "VERWAERDE",
+          "prenom": "Emmanuel",
+          "nom_complet": "Emmanuel VERWAERDE",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "NGUYEN",
+          "prenom": "Marie-Mai",
+          "nom_complet": "Marie-Mai NGUYEN",
+          "sexe": "F",
+          "age": 33,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "JANSSEN",
+          "prenom": "Cyril",
+          "nom_complet": "Cyril JANSSEN",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "code_commune": "62615",
+  "commune": "Nielles-lès-Calais",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "ROUSSEZ",
+    "prenom": "Albert",
+    "nom_complet": "Albert ROUSSEZ",
+    "age": 67,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 207,
+    "votants": 139,
+    "pct_votants": 67.15,
+    "abstentions": 68,
+    "pct_abstentions": 32.85,
+    "exprimes": 128
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Pour la préservation de nos valeurs rurales",
+      "libelle_abrege_liste": "Pour la préservation de nos valeurs rurales",
+      "nuance_liste": null,
+      "voix": 128,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "ROUSSEZ",
+        "prenom": "Albert",
+        "nom_complet": "Albert ROUSSEZ",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "ROUSSEZ",
+          "prenom": "Albert",
+          "nom_complet": "Albert ROUSSEZ",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "PLAYE",
+          "prenom": "Laure",
+          "nom_complet": "Laure PLAYE",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "HAMAIN",
+          "prenom": "Luc",
+          "nom_complet": "Luc HAMAIN",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DARRE",
+          "prenom": "Christine",
+          "nom_complet": "Christine DARRE",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "ODENT",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe ODENT",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LEFOUR",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie LEFOUR",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "CALAIS",
+          "prenom": "Florent",
+          "nom_complet": "Florent CALAIS",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "WATEL",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie WATEL",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "LECLERCQ",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier LECLERCQ",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "TYLSKI",
+          "prenom": "Elisabeth",
+          "nom_complet": "Elisabeth TYLSKI",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "BAUDUIN",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric BAUDUIN",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

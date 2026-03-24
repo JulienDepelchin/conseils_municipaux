@@ -1,0 +1,197 @@
+{
+  "code_commune": "59038",
+  "commune": "Avesnes-le-Sec",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "REGNIEZ",
+    "prenom": "Claude",
+    "nom_complet": "Claude REGNIEZ",
+    "age": 65,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1164,
+    "votants": 834,
+    "pct_votants": 71.65,
+    "abstentions": 330,
+    "pct_abstentions": 28.35,
+    "exprimes": 828
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Avesnes le Sec Toujours Unis pour Demain",
+      "libelle_abrege_liste": "Avesnes le Sec Toujours Unis pour Demain",
+      "nuance_liste": null,
+      "voix": 572,
+      "pct_voix_exprimes": 69.08,
+      "sieges_cm": 13,
+      "sieges_cc": 1,
+      "nb_elus": 13,
+      "tete_de_liste": {
+        "nom": "REGNIEZ",
+        "prenom": "Claude",
+        "nom_complet": "Claude REGNIEZ",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "REGNIEZ",
+          "prenom": "Claude",
+          "nom_complet": "Claude REGNIEZ",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "MENEGHETTI",
+          "prenom": "Audrey",
+          "nom_complet": "Audrey MENEGHETTI",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "CARPENTIER",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique CARPENTIER",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "PLACIDE",
+          "prenom": "Carole",
+          "nom_complet": "Carole PLACIDE",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "FIEVEZ",
+          "prenom": "Daniel",
+          "nom_complet": "Daniel FIEVEZ",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "FLEUET",
+          "prenom": "Laurence",
+          "nom_complet": "Laurence FLEUET",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "RAMETTE",
+          "prenom": "Jean-Marie",
+          "nom_complet": "Jean-Marie RAMETTE",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DELOFFRE",
+          "prenom": "Virginie",
+          "nom_complet": "Virginie DELOFFRE",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "LEPAN",
+          "prenom": "Bernard",
+          "nom_complet": "Bernard LEPAN",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DUPONT",
+          "prenom": "Charlotte",
+          "nom_complet": "Charlotte DUPONT",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DELSAUX",
+          "prenom": "Corentin",
+          "nom_complet": "Corentin DELSAUX",
+          "sexe": "M",
+          "age": 29,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "LALOYAUX",
+          "prenom": "Sophie",
+          "nom_complet": "Sophie LALOYAUX",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "COLEAU",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier COLEAU",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "13"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "3",
+      "libelle_liste": "POUR UN NOUVEAU SOUFFLE AVESNOIS",
+      "libelle_abrege_liste": "POUR UN NOUVEAU SOUFFLE AVESNOIS",
+      "nuance_liste": null,
+      "voix": 201,
+      "pct_voix_exprimes": 24.28,
+      "sieges_cm": 2,
+      "sieges_cc": 0,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "DELVAUX",
+        "prenom": "Eric",
+        "nom_complet": "Eric DELVAUX",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DELVAUX",
+          "prenom": "Eric",
+          "nom_complet": "Eric DELVAUX",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "COLOMBEL",
+          "prenom": "Laetitia",
+          "nom_complet": "Laetitia COLOMBEL",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "Avesnois pour un avenir commun",
+      "libelle_abrege_liste": "Avesnois pour un avenir commun",
+      "nuance_liste": null,
+      "voix": 55,
+      "pct_voix_exprimes": 6.64,
+      "sieges_cm": 0,
+      "sieges_cc": 0,
+      "nb_elus": 0,
+      "tete_de_liste": null,
+      "elus": [],
+      "statut_conseil": "sans_elu"
+    }
+  ]
+}

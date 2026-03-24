@@ -1,0 +1,163 @@
+{
+  "code_commune": "59081",
+  "commune": "Bévillers",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "DUDANT",
+    "prenom": "Pierre-Henri",
+    "nom_complet": "Pierre-Henri DUDANT",
+    "age": 55,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 445,
+    "votants": 279,
+    "pct_votants": 62.7,
+    "abstentions": 166,
+    "pct_abstentions": 37.3,
+    "exprimes": 246
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Ensemble, vivons notre village",
+      "libelle_abrege_liste": "Ensemble, vivons notre village",
+      "nuance_liste": null,
+      "voix": 246,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "DUDANT",
+        "prenom": "Pierre-Henri",
+        "nom_complet": "Pierre-Henri DUDANT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DUDANT",
+          "prenom": "Pierre-Henri",
+          "nom_complet": "Pierre-Henri DUDANT",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LESAGE",
+          "prenom": "Cécile",
+          "nom_complet": "Cécile LESAGE",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LEPRETRE",
+          "prenom": "Stéphane",
+          "nom_complet": "Stéphane LEPRETRE",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DECONINCK",
+          "prenom": "Anne",
+          "nom_complet": "Anne DECONINCK",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "FOURDRIGNIEZ",
+          "prenom": "Eric",
+          "nom_complet": "Eric FOURDRIGNIEZ",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LEVEQUE",
+          "prenom": "Jessica",
+          "nom_complet": "Jessica LEVEQUE",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BARBET",
+          "prenom": "Bernard",
+          "nom_complet": "Bernard BARBET",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LE GUILCHER",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle LE GUILCHER",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DRANCOURT",
+          "prenom": "Thomas",
+          "nom_complet": "Thomas DRANCOURT",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "BRODU",
+          "prenom": "Alexandra",
+          "nom_complet": "Alexandra BRODU",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "LENGRAND",
+          "prenom": "Damien",
+          "nom_complet": "Damien LENGRAND",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "ETEVE",
+          "prenom": "Delphine",
+          "nom_complet": "Delphine ETEVE",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "DHERBÉCOURT",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal DHERBÉCOURT",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "CLARKE",
+          "prenom": "Muriel",
+          "nom_complet": "Muriel CLARKE",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "VEREERTBRUGGHEN",
+          "prenom": "Benjamin",
+          "nom_complet": "Benjamin VEREERTBRUGGHEN",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

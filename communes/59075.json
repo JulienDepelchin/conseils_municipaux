@@ -1,0 +1,163 @@
+{
+  "code_commune": "59075",
+  "commune": "Béthencourt",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "SOUPLY",
+    "prenom": "Paul",
+    "nom_complet": "Paul SOUPLY",
+    "age": 81,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 567,
+    "votants": 363,
+    "pct_votants": 64.02,
+    "abstentions": 204,
+    "pct_abstentions": 35.98,
+    "exprimes": 299
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Une commune défendue et bien gérée",
+      "libelle_abrege_liste": "Une commune défendue et bien gérée",
+      "nuance_liste": null,
+      "voix": 299,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "SOUPLY",
+        "prenom": "Paul",
+        "nom_complet": "Paul SOUPLY",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "SOUPLY",
+          "prenom": "Paul",
+          "nom_complet": "Paul SOUPLY",
+          "sexe": "M",
+          "age": 81,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "REP-GÉLY",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie REP-GÉLY",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "EDME",
+          "prenom": "Jean-Pierre",
+          "nom_complet": "Jean-Pierre EDME",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DELCROIX",
+          "prenom": "Florence",
+          "nom_complet": "Florence DELCROIX",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "BOURLET",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal BOURLET",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "GERNEZ TRUMEAU",
+          "prenom": "Angélique",
+          "nom_complet": "Angélique GERNEZ TRUMEAU",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "LÉVÊQUE",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent LÉVÊQUE",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DOCO DECISY",
+          "prenom": "Jeannine",
+          "nom_complet": "Jeannine DOCO DECISY",
+          "sexe": "F",
+          "age": 74,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DELACOURT",
+          "prenom": "Stéphane",
+          "nom_complet": "Stéphane DELACOURT",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DE BLANDÈRE",
+          "prenom": "Caroline",
+          "nom_complet": "Caroline DE BLANDÈRE",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "GLACET",
+          "prenom": "Adrien",
+          "nom_complet": "Adrien GLACET",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "CHAMPAGNE-JACQUEMIN",
+          "prenom": "Christelle Murielle Sabine",
+          "nom_complet": "Christelle Murielle Sabine CHAMPAGNE-JACQUEMIN",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "TOURNAY",
+          "prenom": "Bertrand",
+          "nom_complet": "Bertrand TOURNAY",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "JOCAILLE MOULIN",
+          "prenom": "Cécile Aimée",
+          "nom_complet": "Cécile Aimée JOCAILLE MOULIN",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "COLPIN",
+          "prenom": "Stéphane",
+          "nom_complet": "Stéphane COLPIN",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

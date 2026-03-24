@@ -1,0 +1,131 @@
+{
+  "code_commune": "62018",
+  "commune": "Aix-en-Issart",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "DEBAISIEUX",
+    "prenom": "Olivier",
+    "nom_complet": "Olivier DEBAISIEUX",
+    "age": 50,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 230,
+    "votants": 170,
+    "pct_votants": 73.91,
+    "abstentions": 60,
+    "pct_abstentions": 26.09,
+    "exprimes": 128
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "BIEN VIVRE A AIX",
+      "libelle_abrege_liste": "BIEN VIVRE A AIX",
+      "nuance_liste": null,
+      "voix": 128,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "DEBAISIEUX",
+        "prenom": "Olivier",
+        "nom_complet": "Olivier DEBAISIEUX",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DEBAISIEUX",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier DEBAISIEUX",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "PRUDHOMME",
+          "prenom": "Valérie",
+          "nom_complet": "Valérie PRUDHOMME",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LECLERCQ",
+          "prenom": "Sébastien",
+          "nom_complet": "Sébastien LECLERCQ",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "NAUZERET",
+          "prenom": "Béatrice",
+          "nom_complet": "Béatrice NAUZERET",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "QUÉNÉHEN",
+          "prenom": "Luc",
+          "nom_complet": "Luc QUÉNÉHEN",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "WIDEHEM",
+          "prenom": "Catherine",
+          "nom_complet": "Catherine WIDEHEM",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "LEROY",
+          "prenom": "Guillaume",
+          "nom_complet": "Guillaume LEROY",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "WARTELLE",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie WARTELLE",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "HEYMAN",
+          "prenom": "Henri",
+          "nom_complet": "Henri HEYMAN",
+          "sexe": "M",
+          "age": 32,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DELOHEN",
+          "prenom": "Laëtitia",
+          "nom_complet": "Laëtitia DELOHEN",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "HUSSON",
+          "prenom": "Guillaume",
+          "nom_complet": "Guillaume HUSSON",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

@@ -1,0 +1,227 @@
+{
+  "code_commune": "62060",
+  "commune": "Auxi-le-Château",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "GUILLUY",
+    "prenom": "Aline",
+    "nom_complet": "Aline GUILLUY",
+    "age": 58,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 2064,
+    "votants": 1125,
+    "pct_votants": 54.51,
+    "abstentions": 939,
+    "pct_abstentions": 45.49,
+    "exprimes": 809
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Avec Vous Pour Auxi",
+      "libelle_abrege_liste": "Avec Vous Pour Auxi",
+      "nuance_liste": null,
+      "voix": 809,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 23,
+      "sieges_cc": 6,
+      "nb_elus": 23,
+      "tete_de_liste": {
+        "nom": "GUILLUY",
+        "prenom": "Aline",
+        "nom_complet": "Aline GUILLUY",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "GUILLUY",
+          "prenom": "Aline",
+          "nom_complet": "Aline GUILLUY",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "HOYEZ",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent HOYEZ",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DUFOSSÉ-FRASER",
+          "prenom": "Marie-José",
+          "nom_complet": "Marie-José DUFOSSÉ-FRASER",
+          "sexe": "F",
+          "age": 71,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "CLAUSSE",
+          "prenom": "Arnold",
+          "nom_complet": "Arnold CLAUSSE",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "FRASER-PINTAPARIS",
+          "prenom": "Alexandra",
+          "nom_complet": "Alexandra FRASER-PINTAPARIS",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "GALVAIRE",
+          "prenom": "Cameron",
+          "nom_complet": "Cameron GALVAIRE",
+          "sexe": "M",
+          "age": 28,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "KAMWA",
+          "prenom": "Nadège",
+          "nom_complet": "Nadège KAMWA",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "KRASNOBRODA",
+          "prenom": "Alexandre",
+          "nom_complet": "Alexandre KRASNOBRODA",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "FERREIRA",
+          "prenom": "Bernadette",
+          "nom_complet": "Bernadette FERREIRA",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "BRUNIAUX",
+          "prenom": "Thomas",
+          "nom_complet": "Thomas BRUNIAUX",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "GERON",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie GERON",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "FERREIRA",
+          "prenom": "Kévin",
+          "nom_complet": "Kévin FERREIRA",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "BOUDAL LEROY",
+          "prenom": "Julie",
+          "nom_complet": "Julie BOUDAL LEROY",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "MOURAO",
+          "prenom": "Georges",
+          "nom_complet": "Georges MOURAO",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "TARDIEU",
+          "prenom": "Sandra",
+          "nom_complet": "Sandra TARDIEU",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "COURTOIS",
+          "prenom": "Cédric",
+          "nom_complet": "Cédric COURTOIS",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "DECRAMER",
+          "prenom": "Clémence",
+          "nom_complet": "Clémence DECRAMER",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "MEURDESOIF",
+          "prenom": "Teddy",
+          "nom_complet": "Teddy MEURDESOIF",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "DEBRAY",
+          "prenom": "Marie",
+          "nom_complet": "Marie DEBRAY",
+          "sexe": "F",
+          "age": 30,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "PASCON",
+          "prenom": "Jean-Michel",
+          "nom_complet": "Jean-Michel PASCON",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "CAPPE",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie CAPPE",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "SEPTIFORT",
+          "prenom": "Alexis",
+          "nom_complet": "Alexis SEPTIFORT",
+          "sexe": "M",
+          "age": 25,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "CABARET",
+          "prenom": "Anaïs",
+          "nom_complet": "Anaïs CABARET",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "23"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

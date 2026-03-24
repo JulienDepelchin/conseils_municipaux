@@ -1,0 +1,275 @@
+{
+  "code_commune": "62497",
+  "commune": "Leforest",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "MUSIAL",
+    "prenom": "Christian",
+    "nom_complet": "Christian MUSIAL",
+    "age": 55,
+    "nuance": "LDVG"
+  },
+  "resultats": {
+    "inscrits": 5563,
+    "votants": 2336,
+    "pct_votants": 41.99,
+    "abstentions": 3227,
+    "pct_abstentions": 58.01,
+    "exprimes": 2135
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "CONTINUONS ENSEMBLE POUR LEFOREST",
+      "libelle_abrege_liste": "CONTINUONS ENSEMBLE POUR LEFOREST",
+      "nuance_liste": "LDVG",
+      "voix": 2135,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 29,
+      "sieges_cc": 4,
+      "nb_elus": 29,
+      "tete_de_liste": {
+        "nom": "MUSIAL",
+        "prenom": "Christian",
+        "nom_complet": "Christian MUSIAL",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "MUSIAL",
+          "prenom": "Christian",
+          "nom_complet": "Christian MUSIAL",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "CHEVALIER",
+          "prenom": "Sandrine",
+          "nom_complet": "Sandrine CHEVALIER",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "VALLIN",
+          "prenom": "Jérôme",
+          "nom_complet": "Jérôme VALLIN",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LAURENT",
+          "prenom": "Martine",
+          "nom_complet": "Martine LAURENT",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "EL AABBAOUI",
+          "prenom": "Samir",
+          "nom_complet": "Samir EL AABBAOUI",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "PRZYBYSZEWSKI",
+          "prenom": "Maryline",
+          "nom_complet": "Maryline PRZYBYSZEWSKI",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "PERRIOT",
+          "prenom": "Sébastien",
+          "nom_complet": "Sébastien PERRIOT",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "FLAMENT",
+          "prenom": "Elodie",
+          "nom_complet": "Elodie FLAMENT",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "GOUBEL",
+          "prenom": "Daniel",
+          "nom_complet": "Daniel GOUBEL",
+          "sexe": "M",
+          "age": 80,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "MORELLE",
+          "prenom": "Françoise",
+          "nom_complet": "Françoise MORELLE",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "ROSIER",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno ROSIER",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "BAUWENS",
+          "prenom": "Edith",
+          "nom_complet": "Edith BAUWENS",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "RAWINSKI",
+          "prenom": "Freddy",
+          "nom_complet": "Freddy RAWINSKI",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "PARISIS",
+          "prenom": "Maria",
+          "nom_complet": "Maria PARISIS",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "SECONDA",
+          "prenom": "Alain",
+          "nom_complet": "Alain SECONDA",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "BOUSSEMART",
+          "prenom": "Marie-Louise",
+          "nom_complet": "Marie-Louise BOUSSEMART",
+          "sexe": "F",
+          "age": 78,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "COLIN",
+          "prenom": "Sylvain",
+          "nom_complet": "Sylvain COLIN",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "ZOUAOUI",
+          "prenom": "Zora",
+          "nom_complet": "Zora ZOUAOUI",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "HUON",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe HUON",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "KHIARI",
+          "prenom": "Célia",
+          "nom_complet": "Célia KHIARI",
+          "sexe": "F",
+          "age": 31,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "MIQUET",
+          "prenom": "Vincent",
+          "nom_complet": "Vincent MIQUET",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "BOLOGNINI",
+          "prenom": "Eva",
+          "nom_complet": "Eva BOLOGNINI",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "VALCARCE",
+          "prenom": "Daniel",
+          "nom_complet": "Daniel VALCARCE",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "23"
+        },
+        {
+          "nom": "PÉTRO",
+          "prenom": "Lydie",
+          "nom_complet": "Lydie PÉTRO",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "24"
+        },
+        {
+          "nom": "LAIGNEZ",
+          "prenom": "Clément",
+          "nom_complet": "Clément LAIGNEZ",
+          "sexe": "M",
+          "age": 24,
+          "rang_liste": "25"
+        },
+        {
+          "nom": "LORIOT",
+          "prenom": "Virginie",
+          "nom_complet": "Virginie LORIOT",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "26"
+        },
+        {
+          "nom": "GAC",
+          "prenom": "Patrice",
+          "nom_complet": "Patrice GAC",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "27"
+        },
+        {
+          "nom": "PREVOST",
+          "prenom": "Luciana",
+          "nom_complet": "Luciana PREVOST",
+          "sexe": "F",
+          "age": 78,
+          "rang_liste": "28"
+        },
+        {
+          "nom": "ENNAS",
+          "prenom": "Angelo",
+          "nom_complet": "Angelo ENNAS",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "29"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

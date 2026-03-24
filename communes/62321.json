@@ -1,0 +1,279 @@
+{
+  "code_commune": "62321",
+  "commune": "Evin-Malmaison",
+  "departement": "Pas-de-Calais",
+  "tour": "T2",
+  "maire": {
+    "nom": "CAUX",
+    "prenom": "Christophe",
+    "nom_complet": "Christophe CAUX",
+    "age": 58,
+    "nuance": "LDVG"
+  },
+  "resultats": {
+    "inscrits": 3524,
+    "votants": 1988,
+    "pct_votants": 56.41,
+    "abstentions": 1536,
+    "pct_abstentions": 43.59,
+    "exprimes": 1901
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "AGIR ENSEMBLE POUR FAIRE REVIVRE EVIN",
+      "libelle_abrege_liste": "AGIR ENSEMBLE POUR FAIRE REVIVRE EVIN",
+      "nuance_liste": "LDVG",
+      "voix": 1077,
+      "pct_voix_exprimes": 56.65,
+      "sieges_cm": 21,
+      "sieges_cc": 2,
+      "nb_elus": 21,
+      "tete_de_liste": {
+        "nom": "CAUX",
+        "prenom": "Christophe",
+        "nom_complet": "Christophe CAUX",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "CAUX",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe CAUX",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "FERNANDEZ",
+          "prenom": "Aurore",
+          "nom_complet": "Aurore FERNANDEZ",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BOUYA",
+          "prenom": "Youssef",
+          "nom_complet": "Youssef BOUYA",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "VETU",
+          "prenom": "Mariane",
+          "nom_complet": "Mariane VETU",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DORNE",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe DORNE",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "GOMEZ GONZALEZ",
+          "prenom": "Sandy",
+          "nom_complet": "Sandy GOMEZ GONZALEZ",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "KACZMAREK",
+          "prenom": "Geoffroy",
+          "nom_complet": "Geoffroy KACZMAREK",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "JAREK",
+          "prenom": "Melanie",
+          "nom_complet": "Melanie JAREK",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "GILLOT",
+          "prenom": "Sylvain",
+          "nom_complet": "Sylvain GILLOT",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "KARAMUCKI",
+          "prenom": "Suzette",
+          "nom_complet": "Suzette KARAMUCKI",
+          "sexe": "F",
+          "age": 70,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "WATERLOT",
+          "prenom": "Gilles",
+          "nom_complet": "Gilles WATERLOT",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "LAMIA OUBELLA",
+          "prenom": "Malika",
+          "nom_complet": "Malika LAMIA OUBELLA",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "HERMANT",
+          "prenom": "Daniel",
+          "nom_complet": "Daniel HERMANT",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "LERAT",
+          "prenom": "Chloé",
+          "nom_complet": "Chloé LERAT",
+          "sexe": "F",
+          "age": 29,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "DE BOCK",
+          "prenom": "Cédric",
+          "nom_complet": "Cédric DE BOCK",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "DELRUE",
+          "prenom": "Nawel",
+          "nom_complet": "Nawel DELRUE",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "JACOTOT",
+          "prenom": "Teddy",
+          "nom_complet": "Teddy JACOTOT",
+          "sexe": "M",
+          "age": 27,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "DUPIRE",
+          "prenom": "Nadine",
+          "nom_complet": "Nadine DUPIRE",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "PRZYBYLSKI",
+          "prenom": "Jean-Philippe",
+          "nom_complet": "Jean-Philippe PRZYBYLSKI",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "MASCLET",
+          "prenom": "Elise",
+          "nom_complet": "Elise MASCLET",
+          "sexe": "F",
+          "age": 19,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "DARTOIS",
+          "prenom": "Ludovic",
+          "nom_complet": "Ludovic DARTOIS",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "21"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Evin-Malmaison, Aujourd'hui-Demain",
+      "libelle_abrege_liste": "Evin-Malmaison, Aujourd'hui-Demain",
+      "nuance_liste": "LDVG",
+      "voix": 824,
+      "pct_voix_exprimes": 43.35,
+      "sieges_cm": 6,
+      "sieges_cc": 0,
+      "nb_elus": 6,
+      "tete_de_liste": {
+        "nom": "VASSEUR",
+        "prenom": "Frank",
+        "nom_complet": "Frank VASSEUR",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "VASSEUR",
+          "prenom": "Frank",
+          "nom_complet": "Frank VASSEUR",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "CZARKOWSKI",
+          "prenom": "Magalie",
+          "nom_complet": "Magalie CZARKOWSKI",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BERGER",
+          "prenom": "Michel",
+          "nom_complet": "Michel BERGER",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "FERON",
+          "prenom": "Sabrina",
+          "nom_complet": "Sabrina FERON",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DUTKIEWICZ",
+          "prenom": "Gérard",
+          "nom_complet": "Gérard DUTKIEWICZ",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "RAMON",
+          "prenom": "Marie-Christine",
+          "nom_complet": "Marie-Christine RAMON",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "6"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

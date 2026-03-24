@@ -1,0 +1,131 @@
+{
+  "code_commune": "59076",
+  "commune": "Bettignies",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "BELERY",
+    "prenom": "Serge",
+    "nom_complet": "Serge BELERY",
+    "age": 73,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 210,
+    "votants": 139,
+    "pct_votants": 66.19,
+    "abstentions": 71,
+    "pct_abstentions": 33.81,
+    "exprimes": 126
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Ensemble pour Bettignies",
+      "libelle_abrege_liste": "Ensemble pour Bettignies",
+      "nuance_liste": null,
+      "voix": 126,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "BELERY",
+        "prenom": "Serge",
+        "nom_complet": "Serge BELERY",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BELERY",
+          "prenom": "Serge",
+          "nom_complet": "Serge BELERY",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "MATON",
+          "prenom": "Marilyne",
+          "nom_complet": "Marilyne MATON",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BLAS",
+          "prenom": "Jean-Pierre",
+          "nom_complet": "Jean-Pierre BLAS",
+          "sexe": "M",
+          "age": 81,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LESIX",
+          "prenom": "Christine",
+          "nom_complet": "Christine LESIX",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "BAYART",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe BAYART",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "PLANARD",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle PLANARD",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "CNOCKAERT",
+          "prenom": "Jonathan",
+          "nom_complet": "Jonathan CNOCKAERT",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "ANTOINE",
+          "prenom": "Melanie",
+          "nom_complet": "Melanie ANTOINE",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "SANTER",
+          "prenom": "Frederic",
+          "nom_complet": "Frederic SANTER",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "ORHOND",
+          "prenom": "Claudine",
+          "nom_complet": "Claudine ORHOND",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "HACHIN",
+          "prenom": "Julien",
+          "nom_complet": "Julien HACHIN",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

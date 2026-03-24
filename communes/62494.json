@@ -1,0 +1,99 @@
+{
+  "code_commune": "62494",
+  "commune": "Léchelle",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "TRANNIN",
+    "prenom": "Gabriel",
+    "nom_complet": "Gabriel TRANNIN",
+    "age": 70,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 40,
+    "votants": 23,
+    "pct_votants": 57.5,
+    "abstentions": 17,
+    "pct_abstentions": 42.5,
+    "exprimes": 23
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Défense des intérêts communaux",
+      "libelle_abrege_liste": "Défense des intérêts communaux",
+      "nuance_liste": null,
+      "voix": 23,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 7,
+      "sieges_cc": null,
+      "nb_elus": 7,
+      "tete_de_liste": {
+        "nom": "TRANNIN",
+        "prenom": "Gabriel",
+        "nom_complet": "Gabriel TRANNIN",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "TRANNIN",
+          "prenom": "Gabriel",
+          "nom_complet": "Gabriel TRANNIN",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "VALLIER",
+          "prenom": "Danielle",
+          "nom_complet": "Danielle VALLIER",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "GARCIA",
+          "prenom": "Antonio",
+          "nom_complet": "Antonio GARCIA",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DUCRON",
+          "prenom": "Mélanie",
+          "nom_complet": "Mélanie DUCRON",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "TRANNIN",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe TRANNIN",
+          "sexe": "M",
+          "age": 30,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "JOVINEL",
+          "prenom": "Laure",
+          "nom_complet": "Laure JOVINEL",
+          "sexe": "F",
+          "age": 28,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "GARCIA",
+          "prenom": "Florian",
+          "nom_complet": "Florian GARCIA",
+          "sexe": "M",
+          "age": 33,
+          "rang_liste": "7"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

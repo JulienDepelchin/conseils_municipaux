@@ -1,0 +1,163 @@
+{
+  "code_commune": "62148",
+  "commune": "Bois-Bernard",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "MONCHY",
+    "prenom": "Jean-Marie",
+    "nom_complet": "Jean-Marie MONCHY",
+    "age": 67,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 716,
+    "votants": 396,
+    "pct_votants": 55.31,
+    "abstentions": 320,
+    "pct_abstentions": 44.69,
+    "exprimes": 338
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "A VOS COTES POUR L'AVENIR",
+      "libelle_abrege_liste": "A VOS COTES POUR L'AVENIR",
+      "nuance_liste": null,
+      "voix": 338,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "MONCHY",
+        "prenom": "Jean-Marie",
+        "nom_complet": "Jean-Marie MONCHY",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "MONCHY",
+          "prenom": "Jean-Marie",
+          "nom_complet": "Jean-Marie MONCHY",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "RICQ",
+          "prenom": "Betty",
+          "nom_complet": "Betty RICQ",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LACHERY",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe LACHERY",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "ADAMSKI",
+          "prenom": "Delphine",
+          "nom_complet": "Delphine ADAMSKI",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "MONCHY",
+          "prenom": "Vincent",
+          "nom_complet": "Vincent MONCHY",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DI PIAZZA",
+          "prenom": "Anne-Sophie",
+          "nom_complet": "Anne-Sophie DI PIAZZA",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "CORDIER",
+          "prenom": "Alain",
+          "nom_complet": "Alain CORDIER",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "HANOT",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie HANOT",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "MONCHY",
+          "prenom": "Jérémy",
+          "nom_complet": "Jérémy MONCHY",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "CHARA",
+          "prenom": "Mélanie",
+          "nom_complet": "Mélanie CHARA",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DUBOIS",
+          "prenom": "Alain",
+          "nom_complet": "Alain DUBOIS",
+          "sexe": "M",
+          "age": 76,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "MAZWAR",
+          "prenom": "Tatiana",
+          "nom_complet": "Tatiana MAZWAR",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "COZONAC",
+          "prenom": "Dorin",
+          "nom_complet": "Dorin COZONAC",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "VERDEL",
+          "prenom": "Marion",
+          "nom_complet": "Marion VERDEL",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "GOLAWSKI",
+          "prenom": "Cédric",
+          "nom_complet": "Cédric GOLAWSKI",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

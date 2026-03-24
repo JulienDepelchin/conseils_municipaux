@@ -1,0 +1,151 @@
+{
+  "code_commune": "59372",
+  "commune": "Malincourt",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "FONTAINE",
+    "prenom": "Cédric",
+    "nom_complet": "Cédric FONTAINE",
+    "age": 51,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 418,
+    "votants": 289,
+    "pct_votants": 69.14,
+    "abstentions": 129,
+    "pct_abstentions": 30.86,
+    "exprimes": 273
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "ENSEMBLE SOYONS FIERS D'ÊTRE MALINCOURTOIS",
+      "libelle_abrege_liste": "ENSEMBLE SOYONS FIERS D'ÊTRE MALINCOURTOIS",
+      "nuance_liste": null,
+      "voix": 170,
+      "pct_voix_exprimes": 62.27,
+      "sieges_cm": 9,
+      "sieges_cc": null,
+      "nb_elus": 9,
+      "tete_de_liste": {
+        "nom": "FONTAINE",
+        "prenom": "Cédric",
+        "nom_complet": "Cédric FONTAINE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "FONTAINE",
+          "prenom": "Cédric",
+          "nom_complet": "Cédric FONTAINE",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BOUDERLIQUE",
+          "prenom": "Estelle",
+          "nom_complet": "Estelle BOUDERLIQUE",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LEURS",
+          "prenom": "Jérémy",
+          "nom_complet": "Jérémy LEURS",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "GUEGAIN",
+          "prenom": "Carole",
+          "nom_complet": "Carole GUEGAIN",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DOUCHET",
+          "prenom": "Hubert",
+          "nom_complet": "Hubert DOUCHET",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LÉVÊQUE",
+          "prenom": "Dorothée",
+          "nom_complet": "Dorothée LÉVÊQUE",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "GARREAUD",
+          "prenom": "Benjamin",
+          "nom_complet": "Benjamin GARREAUD",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LENOIR",
+          "prenom": "Hélène",
+          "nom_complet": "Hélène LENOIR",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "WATTELLE",
+          "prenom": "Alain",
+          "nom_complet": "Alain WATTELLE",
+          "sexe": "M",
+          "age": 77,
+          "rang_liste": "9"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "UNE NOUVELLE ENERGIE POUR MALINCOURT",
+      "libelle_abrege_liste": "UNE NOUVELLE ENERGIE POUR MALINCOURT",
+      "nuance_liste": null,
+      "voix": 103,
+      "pct_voix_exprimes": 37.73,
+      "sieges_cm": 2,
+      "sieges_cc": null,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "LEGRAND",
+        "prenom": "Laurence",
+        "nom_complet": "Laurence LEGRAND",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "LEGRAND",
+          "prenom": "Laurence",
+          "nom_complet": "Laurence LEGRAND",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "SENS",
+          "prenom": "Arnaud",
+          "nom_complet": "Arnaud SENS",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

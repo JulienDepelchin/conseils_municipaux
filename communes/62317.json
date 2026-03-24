@@ -1,0 +1,131 @@
+{
+  "code_commune": "62317",
+  "commune": "Etaing",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "CAPIEZ",
+    "prenom": "Jean-Louis",
+    "nom_complet": "Jean-Louis CAPIEZ",
+    "age": 67,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 326,
+    "votants": 179,
+    "pct_votants": 54.91,
+    "abstentions": 147,
+    "pct_abstentions": 45.09,
+    "exprimes": 155
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "VIVRE ET REUSSIR A ETAING",
+      "libelle_abrege_liste": "VIVRE ET REUSSIR A ETAING",
+      "nuance_liste": null,
+      "voix": 155,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "CAPIEZ",
+        "prenom": "Jean-Louis",
+        "nom_complet": "Jean-Louis CAPIEZ",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "CAPIEZ",
+          "prenom": "Jean-Louis",
+          "nom_complet": "Jean-Louis CAPIEZ",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "PARDIEU",
+          "prenom": "Eliane",
+          "nom_complet": "Eliane PARDIEU",
+          "sexe": "F",
+          "age": 71,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "RAQUET",
+          "prenom": "Christian",
+          "nom_complet": "Christian RAQUET",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DEZ",
+          "prenom": "Veronique",
+          "nom_complet": "Veronique DEZ",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LECLERCQ",
+          "prenom": "Didier",
+          "nom_complet": "Didier LECLERCQ",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "PRIEUX",
+          "prenom": "Stephanie",
+          "nom_complet": "Stephanie PRIEUX",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "FOUACHE-SORGE",
+          "prenom": "Julien",
+          "nom_complet": "Julien FOUACHE-SORGE",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "GOLOMBEK",
+          "prenom": "Valerie",
+          "nom_complet": "Valerie GOLOMBEK",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "MERCHEZ",
+          "prenom": "Jean-Luc",
+          "nom_complet": "Jean-Luc MERCHEZ",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "MOPTY",
+          "prenom": "Audrey",
+          "nom_complet": "Audrey MOPTY",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "LEFEBVRE",
+          "prenom": "Gilles",
+          "nom_complet": "Gilles LEFEBVRE",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

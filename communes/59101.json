@@ -1,0 +1,131 @@
+{
+  "code_commune": "59101",
+  "commune": "Bousignies-sur-Roc",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "WELONEK",
+    "prenom": "Aurélie",
+    "nom_complet": "Aurélie WELONEK",
+    "age": 40,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 292,
+    "votants": 172,
+    "pct_votants": 58.9,
+    "abstentions": 120,
+    "pct_abstentions": 41.1,
+    "exprimes": 158
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "TOUS UNIS POUR BOUSIGNIES SUR ROC",
+      "libelle_abrege_liste": "TOUS UNIS POUR BOUSIGNIES SUR ROC",
+      "nuance_liste": null,
+      "voix": 158,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "WELONEK",
+        "prenom": "Aurélie",
+        "nom_complet": "Aurélie WELONEK",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "WELONEK",
+          "prenom": "Aurélie",
+          "nom_complet": "Aurélie WELONEK",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LECLERCQ",
+          "prenom": "Jeremy",
+          "nom_complet": "Jeremy LECLERCQ",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BASTIEN",
+          "prenom": "Marie-Pierre",
+          "nom_complet": "Marie-Pierre BASTIEN",
+          "sexe": "F",
+          "age": 73,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "VERSPREET",
+          "prenom": "Claude",
+          "nom_complet": "Claude VERSPREET",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "SERRAULT",
+          "prenom": "Carole",
+          "nom_complet": "Carole SERRAULT",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "RENKIN",
+          "prenom": "Jean-Paul",
+          "nom_complet": "Jean-Paul RENKIN",
+          "sexe": "M",
+          "age": 77,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "SOURIS",
+          "prenom": "Joanne",
+          "nom_complet": "Joanne SOURIS",
+          "sexe": "F",
+          "age": 27,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DEWIL",
+          "prenom": "Valery",
+          "nom_complet": "Valery DEWIL",
+          "sexe": "M",
+          "age": 31,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DUBOIS",
+          "prenom": "Nelly",
+          "nom_complet": "Nelly DUBOIS",
+          "sexe": "F",
+          "age": 75,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "POLY",
+          "prenom": "Michel",
+          "nom_complet": "Michel POLY",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "CHARNEUX",
+          "prenom": "Caroline",
+          "nom_complet": "Caroline CHARNEUX",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

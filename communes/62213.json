@@ -1,0 +1,163 @@
+{
+  "code_commune": "62213",
+  "commune": "Carency",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "CLAIRET",
+    "prenom": "Justin",
+    "nom_complet": "Justin CLAIRET",
+    "age": 61,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 666,
+    "votants": 373,
+    "pct_votants": 56.01,
+    "abstentions": 293,
+    "pct_abstentions": 43.99,
+    "exprimes": 335
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Union, Progrès, Environnement",
+      "libelle_abrege_liste": "Union, Progrès, Environnement",
+      "nuance_liste": null,
+      "voix": 335,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "CLAIRET",
+        "prenom": "Justin",
+        "nom_complet": "Justin CLAIRET",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "CLAIRET",
+          "prenom": "Justin",
+          "nom_complet": "Justin CLAIRET",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DUBOIS LAGNEL",
+          "prenom": "Candice",
+          "nom_complet": "Candice DUBOIS LAGNEL",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "ROBILLART",
+          "prenom": "Jean-Marc",
+          "nom_complet": "Jean-Marc ROBILLART",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "FAUQUEMBERGUE",
+          "prenom": "Myriam",
+          "nom_complet": "Myriam FAUQUEMBERGUE",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LEBIDOIS",
+          "prenom": "Jérôme",
+          "nom_complet": "Jérôme LEBIDOIS",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LELEU",
+          "prenom": "Juliette",
+          "nom_complet": "Juliette LELEU",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DECOUPIGNY",
+          "prenom": "Geoffrey",
+          "nom_complet": "Geoffrey DECOUPIGNY",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "MOFFELEIN",
+          "prenom": "Aline",
+          "nom_complet": "Aline MOFFELEIN",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "HOCHAIN",
+          "prenom": "Gérard",
+          "nom_complet": "Gérard HOCHAIN",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "BERTHE",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie BERTHE",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "SANTERNE",
+          "prenom": "Jean-Pierre",
+          "nom_complet": "Jean-Pierre SANTERNE",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "MUSCZYNSKI",
+          "prenom": "Estelle",
+          "nom_complet": "Estelle MUSCZYNSKI",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "DEVAUX",
+          "prenom": "Jean-Claude",
+          "nom_complet": "Jean-Claude DEVAUX",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "BAUDUIN",
+          "prenom": "Sandra",
+          "nom_complet": "Sandra BAUDUIN",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "BARANEK",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric BARANEK",
+          "sexe": "M",
+          "age": 74,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

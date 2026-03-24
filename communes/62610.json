@@ -1,0 +1,183 @@
+{
+  "code_commune": "62610",
+  "commune": "Neuville-sous-Montreuil",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "DEKEN",
+    "prenom": "Olivier",
+    "nom_complet": "Olivier DEKEN",
+    "age": 62,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 510,
+    "votants": 347,
+    "pct_votants": 68.04,
+    "abstentions": 163,
+    "pct_abstentions": 31.96,
+    "exprimes": 343
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Neuville ça Bouge",
+      "libelle_abrege_liste": "Neuville ça Bouge",
+      "nuance_liste": null,
+      "voix": 238,
+      "pct_voix_exprimes": 69.39,
+      "sieges_cm": 13,
+      "sieges_cc": null,
+      "nb_elus": 13,
+      "tete_de_liste": {
+        "nom": "DEKEN",
+        "prenom": "Olivier",
+        "nom_complet": "Olivier DEKEN",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DEKEN",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier DEKEN",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BOUBET",
+          "prenom": "Laëtitia",
+          "nom_complet": "Laëtitia BOUBET",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "PEREZ",
+          "prenom": "Jérôme",
+          "nom_complet": "Jérôme PEREZ",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "HIELSCHER",
+          "prenom": "Eléonore",
+          "nom_complet": "Eléonore HIELSCHER",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "BELEMBERT",
+          "prenom": "Pierre-André",
+          "nom_complet": "Pierre-André BELEMBERT",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "CHOQUET",
+          "prenom": "Emmanuelle",
+          "nom_complet": "Emmanuelle CHOQUET",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "QUENTIN",
+          "prenom": "Martial",
+          "nom_complet": "Martial QUENTIN",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "BLOND",
+          "prenom": "Capucine",
+          "nom_complet": "Capucine BLOND",
+          "sexe": "F",
+          "age": 22,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "OSSET",
+          "prenom": "Thomas",
+          "nom_complet": "Thomas OSSET",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DOLCI",
+          "prenom": "Camille",
+          "nom_complet": "Camille DOLCI",
+          "sexe": "F",
+          "age": 31,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "BOUTILLIER",
+          "prenom": "Thomas",
+          "nom_complet": "Thomas BOUTILLIER",
+          "sexe": "M",
+          "age": 21,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "GOSSELIN",
+          "prenom": "Céline",
+          "nom_complet": "Céline GOSSELIN",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "PAQUE",
+          "prenom": "Stéphane",
+          "nom_complet": "Stéphane PAQUE",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "13"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "UNIR ET SERVIR NEUVILLE",
+      "libelle_abrege_liste": "UNIR ET SERVIR NEUVILLE",
+      "nuance_liste": null,
+      "voix": 105,
+      "pct_voix_exprimes": 30.61,
+      "sieges_cm": 2,
+      "sieges_cc": null,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "DUVIEUBOURG",
+        "prenom": "Françoise",
+        "nom_complet": "Françoise DUVIEUBOURG",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "DUVIEUBOURG",
+          "prenom": "Françoise",
+          "nom_complet": "Françoise DUVIEUBOURG",
+          "sexe": "F",
+          "age": 71,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "COTTIGNY",
+          "prenom": "Xavier",
+          "nom_complet": "Xavier COTTIGNY",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

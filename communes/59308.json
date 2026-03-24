@@ -1,0 +1,155 @@
+{
+  "code_commune": "59308",
+  "commune": "Hondeghem",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "VANDECAVEYE",
+    "prenom": "Pierre-Laurent",
+    "nom_complet": "Pierre-Laurent VANDECAVEYE",
+    "age": 44,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 721,
+    "votants": 485,
+    "pct_votants": 67.27,
+    "abstentions": 236,
+    "pct_abstentions": 32.73,
+    "exprimes": 448
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "HONDEGHEM ENSEMBLE",
+      "libelle_abrege_liste": "HE",
+      "nuance_liste": null,
+      "voix": 448,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 14,
+      "sieges_cc": null,
+      "nb_elus": 14,
+      "tete_de_liste": {
+        "nom": "VANDECAVEYE",
+        "prenom": "Pierre-Laurent",
+        "nom_complet": "Pierre-Laurent VANDECAVEYE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "VANDECAVEYE",
+          "prenom": "Pierre-Laurent",
+          "nom_complet": "Pierre-Laurent VANDECAVEYE",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "ASSEMAN",
+          "prenom": "Céline",
+          "nom_complet": "Céline ASSEMAN",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BOGAERT",
+          "prenom": "Michel",
+          "nom_complet": "Michel BOGAERT",
+          "sexe": "M",
+          "age": 74,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DECUYPER",
+          "prenom": "Anne",
+          "nom_complet": "Anne DECUYPER",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DONZE",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe DONZE",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DEHEUNYNCK",
+          "prenom": "Maïthé",
+          "nom_complet": "Maïthé DEHEUNYNCK",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "MANTEL",
+          "prenom": "Simon",
+          "nom_complet": "Simon MANTEL",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DESCHODT",
+          "prenom": "Aurélie",
+          "nom_complet": "Aurélie DESCHODT",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "POULET",
+          "prenom": "Arnaud",
+          "nom_complet": "Arnaud POULET",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "GARS",
+          "prenom": "Mathilde",
+          "nom_complet": "Mathilde GARS",
+          "sexe": "F",
+          "age": 24,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "SCHOTTE",
+          "prenom": "Ludovic",
+          "nom_complet": "Ludovic SCHOTTE",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "GEST",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique GEST",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "VANDAELE",
+          "prenom": "Grégory",
+          "nom_complet": "Grégory VANDAELE",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "RACKELBOOM",
+          "prenom": "Sabrina",
+          "nom_complet": "Sabrina RACKELBOOM",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "14"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

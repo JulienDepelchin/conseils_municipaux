@@ -1,0 +1,131 @@
+{
+  "code_commune": "62449",
+  "commune": "Hesmond",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "DERAY",
+    "prenom": "Pascal",
+    "nom_complet": "Pascal DERAY",
+    "age": 63,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 135,
+    "votants": 102,
+    "pct_votants": 75.56,
+    "abstentions": 33,
+    "pct_abstentions": 24.44,
+    "exprimes": 69
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "POUR HESMOND",
+      "libelle_abrege_liste": "POUR HESMOND",
+      "nuance_liste": null,
+      "voix": 69,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "DERAY",
+        "prenom": "Pascal",
+        "nom_complet": "Pascal DERAY",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DERAY",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal DERAY",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "ALEXANDRE",
+          "prenom": "Léonie",
+          "nom_complet": "Léonie ALEXANDRE",
+          "sexe": "F",
+          "age": 31,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BECQUET",
+          "prenom": "Julien",
+          "nom_complet": "Julien BECQUET",
+          "sexe": "M",
+          "age": 27,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BECQUET",
+          "prenom": "Clémence",
+          "nom_complet": "Clémence BECQUET",
+          "sexe": "F",
+          "age": 30,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DE BOURNONVILLE",
+          "prenom": "Jean-Félix",
+          "nom_complet": "Jean-Félix DE BOURNONVILLE",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DE BOURNONVILLE",
+          "prenom": "Olivia",
+          "nom_complet": "Olivia DE BOURNONVILLE",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DARSY",
+          "prenom": "Geoffrey",
+          "nom_complet": "Geoffrey DARSY",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DERAY",
+          "prenom": "Iphigénie",
+          "nom_complet": "Iphigénie DERAY",
+          "sexe": "F",
+          "age": 29,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DENECQ",
+          "prenom": "Franck",
+          "nom_complet": "Franck DENECQ",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "MAGNIEZ",
+          "prenom": "Valérie",
+          "nom_complet": "Valérie MAGNIEZ",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "HÉRARD",
+          "prenom": "Jean",
+          "nom_complet": "Jean HÉRARD",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

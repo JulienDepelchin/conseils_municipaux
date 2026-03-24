@@ -1,0 +1,183 @@
+{
+  "code_commune": "59132",
+  "commune": "Carnières",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "HOTTON",
+    "prenom": "Sandrine",
+    "nom_complet": "Sandrine HOTTON",
+    "age": 55,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 793,
+    "votants": 600,
+    "pct_votants": 75.66,
+    "abstentions": 193,
+    "pct_abstentions": 24.34,
+    "exprimes": 576
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "Tous ensemble agissons pour Carnières et son Hameau",
+      "libelle_abrege_liste": "Tous ensemble agissons pour Carnières et son Hameau",
+      "nuance_liste": null,
+      "voix": 341,
+      "pct_voix_exprimes": 59.2,
+      "sieges_cm": 12,
+      "sieges_cc": null,
+      "nb_elus": 12,
+      "tete_de_liste": {
+        "nom": "HOTTON",
+        "prenom": "Sandrine",
+        "nom_complet": "Sandrine HOTTON",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "HOTTON",
+          "prenom": "Sandrine",
+          "nom_complet": "Sandrine HOTTON",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "HERBIN",
+          "prenom": "Jacques",
+          "nom_complet": "Jacques HERBIN",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DELCROIX",
+          "prenom": "Aurore",
+          "nom_complet": "Aurore DELCROIX",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DRUBAY",
+          "prenom": "Aurelien",
+          "nom_complet": "Aurelien DRUBAY",
+          "sexe": "M",
+          "age": 33,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "CARDON",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle CARDON",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "FIEVET",
+          "prenom": "Jean-Baptiste",
+          "nom_complet": "Jean-Baptiste FIEVET",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "PARENT",
+          "prenom": "Corinne",
+          "nom_complet": "Corinne PARENT",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "CHEVIGNE",
+          "prenom": "Soan",
+          "nom_complet": "Soan CHEVIGNE",
+          "sexe": "M",
+          "age": 20,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "BELMANT",
+          "prenom": "Anaïs",
+          "nom_complet": "Anaïs BELMANT",
+          "sexe": "F",
+          "age": 32,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "PROUVEUR",
+          "prenom": "Gaëtan",
+          "nom_complet": "Gaëtan PROUVEUR",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "BAVAY",
+          "prenom": "Alyssia",
+          "nom_complet": "Alyssia BAVAY",
+          "sexe": "F",
+          "age": 22,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "MELLET",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent MELLET",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "12"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "CARNIERES/BOISTRANCOURT, C'EST VOUS ET NOUS",
+      "libelle_abrege_liste": "CARNIERES/BOISTRANCOURT, C'EST VOUS ET NOUS",
+      "nuance_liste": null,
+      "voix": 235,
+      "pct_voix_exprimes": 40.8,
+      "sieges_cm": 3,
+      "sieges_cc": null,
+      "nb_elus": 3,
+      "tete_de_liste": {
+        "nom": "FERCOQ",
+        "prenom": "Michel",
+        "nom_complet": "Michel FERCOQ",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "FERCOQ",
+          "prenom": "Michel",
+          "nom_complet": "Michel FERCOQ",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "NONGPANGA",
+          "prenom": "Brigitte",
+          "nom_complet": "Brigitte NONGPANGA",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "JOCAILLE",
+          "prenom": "Ludovic",
+          "nom_complet": "Ludovic JOCAILLE",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "3"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

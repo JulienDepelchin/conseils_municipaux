@@ -1,0 +1,197 @@
+{
+  "code_commune": "62112",
+  "commune": "Berles-au-Bois",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "PETIT",
+    "prenom": "Michel",
+    "nom_complet": "Michel PETIT",
+    "age": 73,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 431,
+    "votants": 361,
+    "pct_votants": 83.76,
+    "abstentions": 70,
+    "pct_abstentions": 16.24,
+    "exprimes": 263
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "RENOUVEAU ET EXPERIENCE AU SERVICE DE TOUS",
+      "libelle_abrege_liste": "RENOUVEAU ET EXPERIENCE AU SERVICE DE TOUS",
+      "nuance_liste": null,
+      "voix": 189,
+      "pct_voix_exprimes": 71.86,
+      "sieges_cm": 13,
+      "sieges_cc": null,
+      "nb_elus": 13,
+      "tete_de_liste": {
+        "nom": "PETIT",
+        "prenom": "Michel",
+        "nom_complet": "Michel PETIT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "PETIT",
+          "prenom": "Michel",
+          "nom_complet": "Michel PETIT",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "FIEVET",
+          "prenom": "Sandrine",
+          "nom_complet": "Sandrine FIEVET",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "FLAMENT",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent FLAMENT",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "GARBE",
+          "prenom": "Sabine",
+          "nom_complet": "Sabine GARBE",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "PEUVREL",
+          "prenom": "Christian",
+          "nom_complet": "Christian PEUVREL",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "PIGACHE",
+          "prenom": "Christine",
+          "nom_complet": "Christine PIGACHE",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DIRUIT",
+          "prenom": "Christian",
+          "nom_complet": "Christian DIRUIT",
+          "sexe": "M",
+          "age": 76,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DAMIENS-SÉVIN",
+          "prenom": "Annie",
+          "nom_complet": "Annie DAMIENS-SÉVIN",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "ANDRE",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe ANDRE",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "LEMAIRE",
+          "prenom": "Anne-Sophie",
+          "nom_complet": "Anne-Sophie LEMAIRE",
+          "sexe": "F",
+          "age": 33,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "THULL",
+          "prenom": "Sébastien",
+          "nom_complet": "Sébastien THULL",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "THUILLIEZ",
+          "prenom": "Juliette",
+          "nom_complet": "Juliette THUILLIEZ",
+          "sexe": "F",
+          "age": 29,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "HECQUET",
+          "prenom": "Arnaud",
+          "nom_complet": "Arnaud HECQUET",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "13"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Ensemble pour Berles au Bois",
+      "libelle_abrege_liste": "Ensemble pour Berles au Bois",
+      "nuance_liste": null,
+      "voix": 74,
+      "pct_voix_exprimes": 28.14,
+      "sieges_cm": 2,
+      "sieges_cc": null,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "BRASSART",
+        "prenom": "Ludovic",
+        "nom_complet": "Ludovic BRASSART",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BRASSART",
+          "prenom": "Ludovic",
+          "nom_complet": "Ludovic BRASSART",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DANTHOIS",
+          "prenom": "Coralie",
+          "nom_complet": "Coralie DANTHOIS",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    },
+    {
+      "num_panneau": "3",
+      "libelle_liste": "DES HABITANTS, UN VILLAGE, UN AVENIR COMMUN",
+      "libelle_abrege_liste": "DES HABITANTS, UN VILLAGE, UN AVENIR COMMUN",
+      "nuance_liste": null,
+      "voix": 0,
+      "pct_voix_exprimes": 0,
+      "sieges_cm": 0,
+      "sieges_cc": null,
+      "nb_elus": 0,
+      "tete_de_liste": null,
+      "elus": [],
+      "statut_conseil": "sans_elu"
+    }
+  ]
+}

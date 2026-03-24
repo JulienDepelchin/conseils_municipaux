@@ -1,0 +1,131 @@
+{
+  "code_commune": "62089",
+  "commune": "Bazinghen",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "PARENTY",
+    "prenom": "Franck",
+    "nom_complet": "Franck PARENTY",
+    "age": 66,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 331,
+    "votants": 183,
+    "pct_votants": 55.29,
+    "abstentions": 148,
+    "pct_abstentions": 44.71,
+    "exprimes": 147
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "BIEN VIVRE DANS NOTRE VILLAGE",
+      "libelle_abrege_liste": "BIEN VIVRE DANS NOTRE VILLAGE",
+      "nuance_liste": null,
+      "voix": 147,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "PARENTY",
+        "prenom": "Franck",
+        "nom_complet": "Franck PARENTY",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "PARENTY",
+          "prenom": "Franck",
+          "nom_complet": "Franck PARENTY",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "SAUVAL",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie SAUVAL",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BACLEZ",
+          "prenom": "Jean-Luc",
+          "nom_complet": "Jean-Luc BACLEZ",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "GARCIA JAKUBOWSKI",
+          "prenom": "Marie-Madeleine",
+          "nom_complet": "Marie-Madeleine GARCIA JAKUBOWSKI",
+          "sexe": "F",
+          "age": 73,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "VERMEIR",
+          "prenom": "Michel",
+          "nom_complet": "Michel VERMEIR",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "BRUNIN",
+          "prenom": "Clarisse",
+          "nom_complet": "Clarisse BRUNIN",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DORET",
+          "prenom": "Gilbert",
+          "nom_complet": "Gilbert DORET",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "FORESTIER",
+          "prenom": "Karine",
+          "nom_complet": "Karine FORESTIER",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "CUVELIER",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal CUVELIER",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "PINEAU",
+          "prenom": "Audrey",
+          "nom_complet": "Audrey PINEAU",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "HONVAULT",
+          "prenom": "Antoine",
+          "nom_complet": "Antoine HONVAULT",
+          "sexe": "M",
+          "age": 23,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

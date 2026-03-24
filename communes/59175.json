@@ -1,0 +1,131 @@
+{
+  "code_commune": "59175",
+  "commune": "Dimont",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "COURET",
+    "prenom": "Vincent",
+    "nom_complet": "Vincent COURET",
+    "age": 56,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 242,
+    "votants": 121,
+    "pct_votants": 50,
+    "abstentions": 121,
+    "pct_abstentions": 50,
+    "exprimes": 96
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Dimont, notre coeur",
+      "libelle_abrege_liste": "Dimont, notre coeur",
+      "nuance_liste": null,
+      "voix": 96,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "COURET",
+        "prenom": "Vincent",
+        "nom_complet": "Vincent COURET",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "COURET",
+          "prenom": "Vincent",
+          "nom_complet": "Vincent COURET",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "SANTERRE",
+          "prenom": "Francine",
+          "nom_complet": "Francine SANTERRE",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LEPROHON",
+          "prenom": "Eric",
+          "nom_complet": "Eric LEPROHON",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DELÉTRÉ",
+          "prenom": "Aurélie",
+          "nom_complet": "Aurélie DELÉTRÉ",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "HARLET",
+          "prenom": "Clément",
+          "nom_complet": "Clément HARLET",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "HENNEBERT",
+          "prenom": "Véronique",
+          "nom_complet": "Véronique HENNEBERT",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DEFER",
+          "prenom": "Jean-Louis",
+          "nom_complet": "Jean-Louis DEFER",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DEFER",
+          "prenom": "Anne",
+          "nom_complet": "Anne DEFER",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "MELET",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent MELET",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DUPLAT",
+          "prenom": "Marie-France",
+          "nom_complet": "Marie-France DUPLAT",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "CASSEZ",
+          "prenom": "Matthieu",
+          "nom_complet": "Matthieu CASSEZ",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

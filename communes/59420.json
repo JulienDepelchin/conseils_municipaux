@@ -1,0 +1,99 @@
+{
+  "code_commune": "59420",
+  "commune": "Moustier-en-Fagne",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "HANCART",
+    "prenom": "Jean-Michel",
+    "nom_complet": "Jean-Michel HANCART",
+    "age": 67,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 51,
+    "votants": 32,
+    "pct_votants": 62.75,
+    "abstentions": 19,
+    "pct_abstentions": 37.25,
+    "exprimes": 20
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ENTENTE ET DEMOCRATIE",
+      "libelle_abrege_liste": "ENTENTE ET DEMOCRATIE",
+      "nuance_liste": null,
+      "voix": 20,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 7,
+      "sieges_cc": null,
+      "nb_elus": 7,
+      "tete_de_liste": {
+        "nom": "HANCART",
+        "prenom": "Jean-Michel",
+        "nom_complet": "Jean-Michel HANCART",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "HANCART",
+          "prenom": "Jean-Michel",
+          "nom_complet": "Jean-Michel HANCART",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "PIERCOURT",
+          "prenom": "Alexia",
+          "nom_complet": "Alexia PIERCOURT",
+          "sexe": "F",
+          "age": 31,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DESJARDIN",
+          "prenom": "Damien",
+          "nom_complet": "Damien DESJARDIN",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "HATTON",
+          "prenom": "Hélène",
+          "nom_complet": "Hélène HATTON",
+          "sexe": "F",
+          "age": 33,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "BOUTON",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique BOUTON",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "HANCART",
+          "prenom": "Fleur",
+          "nom_complet": "Fleur HANCART",
+          "sexe": "F",
+          "age": 33,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "ARBONNIER",
+          "prenom": "Jerome",
+          "nom_complet": "Jerome ARBONNIER",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "7"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

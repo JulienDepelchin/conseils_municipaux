@@ -1,0 +1,131 @@
+{
+  "code_commune": "62890",
+  "commune": "Willeman",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "DEGRUGILLIER",
+    "prenom": "Xavier",
+    "nom_complet": "Xavier DEGRUGILLIER",
+    "age": 54,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 156,
+    "votants": 105,
+    "pct_votants": 67.31,
+    "abstentions": 51,
+    "pct_abstentions": 32.69,
+    "exprimes": 95
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "POUR UN ELAN NOUVEAU",
+      "libelle_abrege_liste": "POUR UN ELAN NOUVEAU",
+      "nuance_liste": null,
+      "voix": 95,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "DEGRUGILLIER",
+        "prenom": "Xavier",
+        "nom_complet": "Xavier DEGRUGILLIER",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DEGRUGILLIER",
+          "prenom": "Xavier",
+          "nom_complet": "Xavier DEGRUGILLIER",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "PRUVOT",
+          "prenom": "Lucie",
+          "nom_complet": "Lucie PRUVOT",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LEVISSE",
+          "prenom": "Luc",
+          "nom_complet": "Luc LEVISSE",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "FOURDINIER",
+          "prenom": "Céline",
+          "nom_complet": "Céline FOURDINIER",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LEDUC",
+          "prenom": "Guillaume",
+          "nom_complet": "Guillaume LEDUC",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DULARY",
+          "prenom": "Sabrina",
+          "nom_complet": "Sabrina DULARY",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "FARDEL",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric FARDEL",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LAURENT",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie LAURENT",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "RAMECOURT",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique RAMECOURT",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "BAZIN",
+          "prenom": "Delphine",
+          "nom_complet": "Delphine BAZIN",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "TAUBIN",
+          "prenom": "Cedric",
+          "nom_complet": "Cedric TAUBIN",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

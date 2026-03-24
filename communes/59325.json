@@ -1,0 +1,163 @@
+{
+  "code_commune": "59325",
+  "commune": "Jolimetz",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "VIENNE",
+    "prenom": "Anthony",
+    "nom_complet": "Anthony VIENNE",
+    "age": 69,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 672,
+    "votants": 411,
+    "pct_votants": 61.16,
+    "abstentions": 261,
+    "pct_abstentions": 38.84,
+    "exprimes": 336
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Jolimetz, un village \"vivant\" entre calme et nature",
+      "libelle_abrege_liste": "Jolimetz, un village \"vivant\" entre calme et nature",
+      "nuance_liste": null,
+      "voix": 336,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "VIENNE",
+        "prenom": "Anthony",
+        "nom_complet": "Anthony VIENNE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "VIENNE",
+          "prenom": "Anthony",
+          "nom_complet": "Anthony VIENNE",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DUPIRE",
+          "prenom": "Mireille",
+          "nom_complet": "Mireille DUPIRE",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "HOUZET",
+          "prenom": "Marc",
+          "nom_complet": "Marc HOUZET",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DELCROIX",
+          "prenom": "Hélène",
+          "nom_complet": "Hélène DELCROIX",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "HAMIDA",
+          "prenom": "Mehdi",
+          "nom_complet": "Mehdi HAMIDA",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "CRATO",
+          "prenom": "Charlotte",
+          "nom_complet": "Charlotte CRATO",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BRUYERE",
+          "prenom": "Sylvain",
+          "nom_complet": "Sylvain BRUYERE",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "VAN HERENTHALS",
+          "prenom": "Francine",
+          "nom_complet": "Francine VAN HERENTHALS",
+          "sexe": "F",
+          "age": 75,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "JADAS",
+          "prenom": "Ludovic",
+          "nom_complet": "Ludovic JADAS",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DUBOISSET",
+          "prenom": "Pascale",
+          "nom_complet": "Pascale DUBOISSET",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "AUTREAUX",
+          "prenom": "Charles",
+          "nom_complet": "Charles AUTREAUX",
+          "sexe": "M",
+          "age": 76,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "MAJCHRZAK",
+          "prenom": "Floriane",
+          "nom_complet": "Floriane MAJCHRZAK",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "AMIOT",
+          "prenom": "Yoann",
+          "nom_complet": "Yoann AMIOT",
+          "sexe": "M",
+          "age": 34,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "OBRITIN",
+          "prenom": "Marie-Thérèse",
+          "nom_complet": "Marie-Thérèse OBRITIN",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "BONENFANT",
+          "prenom": "Rémi",
+          "nom_complet": "Rémi BONENFANT",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

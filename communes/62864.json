@@ -1,0 +1,183 @@
+{
+  "code_commune": "62864",
+  "commune": "Vis-en-Artois",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "THIÉVET",
+    "prenom": "Christian",
+    "nom_complet": "Christian THIÉVET",
+    "age": 65,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 466,
+    "votants": 403,
+    "pct_votants": 86.48,
+    "abstentions": 63,
+    "pct_abstentions": 13.52,
+    "exprimes": 399
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "VIS EN ACTION",
+      "libelle_abrege_liste": "VIS EN ACTION",
+      "nuance_liste": null,
+      "voix": 251,
+      "pct_voix_exprimes": 62.91,
+      "sieges_cm": 13,
+      "sieges_cc": null,
+      "nb_elus": 13,
+      "tete_de_liste": {
+        "nom": "THIÉVET",
+        "prenom": "Christian",
+        "nom_complet": "Christian THIÉVET",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "THIÉVET",
+          "prenom": "Christian",
+          "nom_complet": "Christian THIÉVET",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "VERMEESCH",
+          "prenom": "Julie",
+          "nom_complet": "Julie VERMEESCH",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LETERME",
+          "prenom": "Julien",
+          "nom_complet": "Julien LETERME",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DERON",
+          "prenom": "Laurence",
+          "nom_complet": "Laurence DERON",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LALIN",
+          "prenom": "Raphaël",
+          "nom_complet": "Raphaël LALIN",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "ANSELIN",
+          "prenom": "Ghislaine",
+          "nom_complet": "Ghislaine ANSELIN",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "LAGRENE",
+          "prenom": "Franck",
+          "nom_complet": "Franck LAGRENE",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "BOISLEUX",
+          "prenom": "Léa",
+          "nom_complet": "Léa BOISLEUX",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DEGROOTE",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe DEGROOTE",
+          "sexe": "M",
+          "age": 74,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "SAUDEMONT",
+          "prenom": "Christine",
+          "nom_complet": "Christine SAUDEMONT",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DEGEUSER",
+          "prenom": "Simon",
+          "nom_complet": "Simon DEGEUSER",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "CARBOULEC",
+          "prenom": "Audrey",
+          "nom_complet": "Audrey CARBOULEC",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "ROUSSELLE",
+          "prenom": "Sébastien",
+          "nom_complet": "Sébastien ROUSSELLE",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "13"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "UNE COMMUNE QUI VOUS RESSEMBLE, UN VILLAGE QUI SE RASSEMBLE",
+      "libelle_abrege_liste": "UNE COMMUNE QUI VOUS RESSEMBLE, UN VILLAGE QUI SE RASSEMBLE",
+      "nuance_liste": null,
+      "voix": 148,
+      "pct_voix_exprimes": 37.09,
+      "sieges_cm": 2,
+      "sieges_cc": null,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "QUINCHON",
+        "prenom": "Didier",
+        "nom_complet": "Didier QUINCHON",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "QUINCHON",
+          "prenom": "Didier",
+          "nom_complet": "Didier QUINCHON",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BISSON",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle BISSON",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

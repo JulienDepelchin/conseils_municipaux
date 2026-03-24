@@ -1,0 +1,183 @@
+{
+  "code_commune": "62567",
+  "commune": "Mentque-Nortbécourt",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "HIRARDOT",
+    "prenom": "Sylvie",
+    "nom_complet": "Sylvie HIRARDOT",
+    "age": 52,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 492,
+    "votants": 371,
+    "pct_votants": 75.41,
+    "abstentions": 121,
+    "pct_abstentions": 24.59,
+    "exprimes": 355
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "MENTQUE-NORTBECOURT AUTREMENT",
+      "libelle_abrege_liste": "MENTQUE-NORTBECOURT AUTREMENT",
+      "nuance_liste": null,
+      "voix": 194,
+      "pct_voix_exprimes": 54.65,
+      "sieges_cm": 12,
+      "sieges_cc": null,
+      "nb_elus": 12,
+      "tete_de_liste": {
+        "nom": "HIRARDOT",
+        "prenom": "Sylvie",
+        "nom_complet": "Sylvie HIRARDOT",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "HIRARDOT",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie HIRARDOT",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "URBANAC",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric URBANAC",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "COLIN",
+          "prenom": "Sophie",
+          "nom_complet": "Sophie COLIN",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "COURQUIN",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick COURQUIN",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LEROY",
+          "prenom": "Anne-Sophie",
+          "nom_complet": "Anne-Sophie LEROY",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "OBERT",
+          "prenom": "Benoît",
+          "nom_complet": "Benoît OBERT",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "VINCENT",
+          "prenom": "Francine",
+          "nom_complet": "Francine VINCENT",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DIERS",
+          "prenom": "Freddy",
+          "nom_complet": "Freddy DIERS",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "LEURETTE",
+          "prenom": "Aurélie",
+          "nom_complet": "Aurélie LEURETTE",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "CARON",
+          "prenom": "Bernard",
+          "nom_complet": "Bernard CARON",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "GRIERE",
+          "prenom": "Joëlle",
+          "nom_complet": "Joëlle GRIERE",
+          "sexe": "F",
+          "age": 79,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "SAMEZ",
+          "prenom": "Daniel",
+          "nom_complet": "Daniel SAMEZ",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "12"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ENSEMBLE POUR NOTRE VILLAGE",
+      "libelle_abrege_liste": "ENSEMBLE POUR NOTRE VILLAGE",
+      "nuance_liste": null,
+      "voix": 161,
+      "pct_voix_exprimes": 45.35,
+      "sieges_cm": 3,
+      "sieges_cc": null,
+      "nb_elus": 3,
+      "tete_de_liste": {
+        "nom": "TERNINCK",
+        "prenom": "Christian",
+        "nom_complet": "Christian TERNINCK",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "TERNINCK",
+          "prenom": "Christian",
+          "nom_complet": "Christian TERNINCK",
+          "sexe": "M",
+          "age": 79,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "OGEZ",
+          "prenom": "Caroline",
+          "nom_complet": "Caroline OGEZ",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "TACCOËN",
+          "prenom": "Sylvain",
+          "nom_complet": "Sylvain TACCOËN",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "3"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

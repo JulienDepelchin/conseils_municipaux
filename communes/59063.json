@@ -1,0 +1,215 @@
+{
+  "code_commune": "59063",
+  "commune": "Beauvois-en-Cambrésis",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "MOTY VERGER",
+    "prenom": "Martine",
+    "nom_complet": "Martine MOTY VERGER",
+    "age": 69,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1554,
+    "votants": 913,
+    "pct_votants": 58.75,
+    "abstentions": 641,
+    "pct_abstentions": 41.25,
+    "exprimes": 880
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "REVALORISONS BEAUVOIS",
+      "libelle_abrege_liste": "REVALORISONS BEAUVOIS",
+      "nuance_liste": null,
+      "voix": 586,
+      "pct_voix_exprimes": 66.59,
+      "sieges_cm": 16,
+      "sieges_cc": 2,
+      "nb_elus": 16,
+      "tete_de_liste": {
+        "nom": "MOTY VERGER",
+        "prenom": "Martine",
+        "nom_complet": "Martine MOTY VERGER",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "MOTY VERGER",
+          "prenom": "Martine",
+          "nom_complet": "Martine MOTY VERGER",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "HERMANT",
+          "prenom": "Géry",
+          "nom_complet": "Géry HERMANT",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LE BERRIGAUD FRANÇOIS",
+          "prenom": "Virginie",
+          "nom_complet": "Virginie LE BERRIGAUD FRANÇOIS",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "CIMBÉ",
+          "prenom": "Yvon",
+          "nom_complet": "Yvon CIMBÉ",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "BOITTIAUX BOUDOUX",
+          "prenom": "Gilberte",
+          "nom_complet": "Gilberte BOITTIAUX BOUDOUX",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "GAWLIK",
+          "prenom": "Thomas",
+          "nom_complet": "Thomas GAWLIK",
+          "sexe": "M",
+          "age": 29,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DELANNOY",
+          "prenom": "Catherine",
+          "nom_complet": "Catherine DELANNOY",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LE GUEN",
+          "prenom": "Stéphane",
+          "nom_complet": "Stéphane LE GUEN",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "LIÉVIN",
+          "prenom": "Justine",
+          "nom_complet": "Justine LIÉVIN",
+          "sexe": "F",
+          "age": 31,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "LONGUE",
+          "prenom": "Jean Claude",
+          "nom_complet": "Jean Claude LONGUE",
+          "sexe": "M",
+          "age": 76,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "VERMEIL GERVAIS",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie VERMEIL GERVAIS",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "LEFEBVRE",
+          "prenom": "Rémy",
+          "nom_complet": "Rémy LEFEBVRE",
+          "sexe": "M",
+          "age": 26,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "THERON",
+          "prenom": "Audrey",
+          "nom_complet": "Audrey THERON",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "HAESAERT",
+          "prenom": "Maurice",
+          "nom_complet": "Maurice HAESAERT",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "SÉGARD",
+          "prenom": "Elise",
+          "nom_complet": "Elise SÉGARD",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "HÉGO",
+          "prenom": "Mario",
+          "nom_complet": "Mario HÉGO",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "16"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "Dynamisme et citoyenneté",
+      "libelle_abrege_liste": "Dynamisme et citoyenneté",
+      "nuance_liste": null,
+      "voix": 294,
+      "pct_voix_exprimes": 33.41,
+      "sieges_cm": 3,
+      "sieges_cc": 0,
+      "nb_elus": 3,
+      "tete_de_liste": {
+        "nom": "CHRETIEN",
+        "prenom": "Mickaël",
+        "nom_complet": "Mickaël CHRETIEN",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "CHRETIEN",
+          "prenom": "Mickaël",
+          "nom_complet": "Mickaël CHRETIEN",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "GUILOUTY",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle GUILOUTY",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LUTICK",
+          "prenom": "Maxime",
+          "nom_complet": "Maxime LUTICK",
+          "sexe": "M",
+          "age": 28,
+          "rang_liste": "3"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "code_commune": "59537",
+  "commune": "Saint-Martin-sur-Ecaillon",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "DHANEUS",
+    "prenom": "Michel",
+    "nom_complet": "Michel DHANEUS",
+    "age": 70,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 415,
+    "votants": 224,
+    "pct_votants": 53.98,
+    "abstentions": 191,
+    "pct_abstentions": 46.02,
+    "exprimes": 199
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Vivre et s'épanouir à Saint-Martin",
+      "libelle_abrege_liste": "Vivre et s'épanouir à Saint-Martin",
+      "nuance_liste": null,
+      "voix": 199,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "DHANEUS",
+        "prenom": "Michel",
+        "nom_complet": "Michel DHANEUS",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DHANEUS",
+          "prenom": "Michel",
+          "nom_complet": "Michel DHANEUS",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BAERT-PARENT",
+          "prenom": "Valérie",
+          "nom_complet": "Valérie BAERT-PARENT",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BLICQ",
+          "prenom": "Serge",
+          "nom_complet": "Serge BLICQ",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BAERT-LENQUETTE",
+          "prenom": "Marie-Colette",
+          "nom_complet": "Marie-Colette BAERT-LENQUETTE",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LADRIERE",
+          "prenom": "Yves",
+          "nom_complet": "Yves LADRIERE",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "BLAS",
+          "prenom": "Murielle",
+          "nom_complet": "Murielle BLAS",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "MARTIAL",
+          "prenom": "Thierry",
+          "nom_complet": "Thierry MARTIAL",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DRAOUI",
+          "prenom": "Rosemay",
+          "nom_complet": "Rosemay DRAOUI",
+          "sexe": "F",
+          "age": 25,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "VEROONE",
+          "prenom": "Thibaut",
+          "nom_complet": "Thibaut VEROONE",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "LECLERCQ",
+          "prenom": "Sandrine",
+          "nom_complet": "Sandrine LECLERCQ",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "BACRO",
+          "prenom": "Jérôme",
+          "nom_complet": "Jérôme BACRO",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

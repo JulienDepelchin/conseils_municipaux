@@ -1,0 +1,183 @@
+{
+  "code_commune": "59311",
+  "commune": "Honnechy",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "RAMETTE",
+    "prenom": "Vincent",
+    "nom_complet": "Vincent RAMETTE",
+    "age": 63,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 400,
+    "votants": 269,
+    "pct_votants": 67.25,
+    "abstentions": 131,
+    "pct_abstentions": 32.75,
+    "exprimes": 261
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Ensemble pour l'avenir de notre commune d'Honnechy",
+      "libelle_abrege_liste": "Ensemble pour l'avenir de notre commune d'Honnechy",
+      "nuance_liste": null,
+      "voix": 142,
+      "pct_voix_exprimes": 54.41,
+      "sieges_cm": 12,
+      "sieges_cc": null,
+      "nb_elus": 12,
+      "tete_de_liste": {
+        "nom": "RAMETTE",
+        "prenom": "Vincent",
+        "nom_complet": "Vincent RAMETTE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "RAMETTE",
+          "prenom": "Vincent",
+          "nom_complet": "Vincent RAMETTE",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "CANION",
+          "prenom": "Josiane",
+          "nom_complet": "Josiane CANION",
+          "sexe": "F",
+          "age": 74,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "CASIEZ",
+          "prenom": "Maxence",
+          "nom_complet": "Maxence CASIEZ",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "KRUSZYNA",
+          "prenom": "Eva",
+          "nom_complet": "Eva KRUSZYNA",
+          "sexe": "F",
+          "age": 25,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "VARLET",
+          "prenom": "Yannick",
+          "nom_complet": "Yannick VARLET",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "GUYOT",
+          "prenom": "Edith",
+          "nom_complet": "Edith GUYOT",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DROUVROY",
+          "prenom": "Michel",
+          "nom_complet": "Michel DROUVROY",
+          "sexe": "M",
+          "age": 78,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "MOREAU",
+          "prenom": "Manon",
+          "nom_complet": "Manon MOREAU",
+          "sexe": "F",
+          "age": 28,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "FIDAIRE",
+          "prenom": "Matthieu",
+          "nom_complet": "Matthieu FIDAIRE",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "HENNUYER",
+          "prenom": "Louise",
+          "nom_complet": "Louise HENNUYER",
+          "sexe": "F",
+          "age": 27,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "MEURANT",
+          "prenom": "Ludovic",
+          "nom_complet": "Ludovic MEURANT",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "PRADELS",
+          "prenom": "Dorothée",
+          "nom_complet": "Dorothée PRADELS",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "12"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "Renouveau",
+      "libelle_abrege_liste": "Renouveau",
+      "nuance_liste": null,
+      "voix": 119,
+      "pct_voix_exprimes": 45.59,
+      "sieges_cm": 3,
+      "sieges_cc": null,
+      "nb_elus": 3,
+      "tete_de_liste": {
+        "nom": "JOLY",
+        "prenom": "Linda",
+        "nom_complet": "Linda JOLY",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "JOLY",
+          "prenom": "Linda",
+          "nom_complet": "Linda JOLY",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "VITOUX",
+          "prenom": "Thibault",
+          "nom_complet": "Thibault VITOUX",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "GAILLARD",
+          "prenom": "Céline",
+          "nom_complet": "Céline GAILLARD",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "3"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

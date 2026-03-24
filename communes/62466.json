@@ -1,0 +1,131 @@
+{
+  "code_commune": "62466",
+  "commune": "Humbert",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "AVISSE",
+    "prenom": "Jean-Claude",
+    "nom_complet": "Jean-Claude AVISSE",
+    "age": 71,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 191,
+    "votants": 136,
+    "pct_votants": 71.2,
+    "abstentions": 55,
+    "pct_abstentions": 28.8,
+    "exprimes": 89
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ENSEMBLE POUR HUMBERT",
+      "libelle_abrege_liste": "ENSEMBLE POUR HUMBERT",
+      "nuance_liste": null,
+      "voix": 89,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "AVISSE",
+        "prenom": "Jean-Claude",
+        "nom_complet": "Jean-Claude AVISSE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "AVISSE",
+          "prenom": "Jean-Claude",
+          "nom_complet": "Jean-Claude AVISSE",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BRICHE",
+          "prenom": "Elise",
+          "nom_complet": "Elise BRICHE",
+          "sexe": "F",
+          "age": 33,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "COFFRE",
+          "prenom": "François",
+          "nom_complet": "François COFFRE",
+          "sexe": "M",
+          "age": 32,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "FOIRATIER",
+          "prenom": "Adeline",
+          "nom_complet": "Adeline FOIRATIER",
+          "sexe": "F",
+          "age": 33,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "HANQUEZ",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe HANQUEZ",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LEBON",
+          "prenom": "Marie-Claude",
+          "nom_complet": "Marie-Claude LEBON",
+          "sexe": "F",
+          "age": 76,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "HEREN",
+          "prenom": "Gérémy",
+          "nom_complet": "Gérémy HEREN",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LECLERCQ",
+          "prenom": "Anita",
+          "nom_complet": "Anita LECLERCQ",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "MERLIER",
+          "prenom": "Romain",
+          "nom_complet": "Romain MERLIER",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "PICHONNIER",
+          "prenom": "Séverine",
+          "nom_complet": "Séverine PICHONNIER",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "PRUVOST",
+          "prenom": "Jean-Marie",
+          "nom_complet": "Jean-Marie PRUVOST",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

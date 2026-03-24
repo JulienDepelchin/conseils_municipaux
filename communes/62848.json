@@ -1,0 +1,247 @@
+{
+  "code_commune": "62848",
+  "commune": "Verquin",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "BAUVAIS-TASSEZ",
+    "prenom": "Sylvie",
+    "nom_complet": "Sylvie BAUVAIS-TASSEZ",
+    "age": 62,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 2614,
+    "votants": 1687,
+    "pct_votants": 64.54,
+    "abstentions": 927,
+    "pct_abstentions": 35.46,
+    "exprimes": 1621
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "UNIS, LES VERQUINOIS SONT FORTS !",
+      "libelle_abrege_liste": "UNIS, LES VERQUINOIS SONT FORTS !",
+      "nuance_liste": null,
+      "voix": 896,
+      "pct_voix_exprimes": 55.27,
+      "sieges_cm": 18,
+      "sieges_cc": 1,
+      "nb_elus": 18,
+      "tete_de_liste": {
+        "nom": "BAUVAIS-TASSEZ",
+        "prenom": "Sylvie",
+        "nom_complet": "Sylvie BAUVAIS-TASSEZ",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "BAUVAIS-TASSEZ",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie BAUVAIS-TASSEZ",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "AIMAR",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas AIMAR",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "HERREMAN",
+          "prenom": "Marie",
+          "nom_complet": "Marie HERREMAN",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "PENIN",
+          "prenom": "Jérémie",
+          "nom_complet": "Jérémie PENIN",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "VAN CALSTER",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie VAN CALSTER",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "MASLONKA",
+          "prenom": "Arthur",
+          "nom_complet": "Arthur MASLONKA",
+          "sexe": "M",
+          "age": 25,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "IOZZELLI",
+          "prenom": "Mélanie",
+          "nom_complet": "Mélanie IOZZELLI",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "MAGNIER",
+          "prenom": "Alain",
+          "nom_complet": "Alain MAGNIER",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "COVEZ-MARLIÈRE",
+          "prenom": "Maryse",
+          "nom_complet": "Maryse COVEZ-MARLIÈRE",
+          "sexe": "F",
+          "age": 72,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "COCQUEL",
+          "prenom": "Pierre",
+          "nom_complet": "Pierre COCQUEL",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DEDOURGE",
+          "prenom": "Patricia",
+          "nom_complet": "Patricia DEDOURGE",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "LITZLER",
+          "prenom": "Fabrice",
+          "nom_complet": "Fabrice LITZLER",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "FONTAINE",
+          "prenom": "Angélique",
+          "nom_complet": "Angélique FONTAINE",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "DE LAERE",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas DE LAERE",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "KASZKOWIAK",
+          "prenom": "Patricia",
+          "nom_complet": "Patricia KASZKOWIAK",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "PESKENS",
+          "prenom": "Alexis",
+          "nom_complet": "Alexis PESKENS",
+          "sexe": "M",
+          "age": 24,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "VERBECQ",
+          "prenom": "Maryline",
+          "nom_complet": "Maryline VERBECQ",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "DONFUT",
+          "prenom": "Arnaud",
+          "nom_complet": "Arnaud DONFUT",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "18"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "LE RENOUVEAU DE VERQUIN",
+      "libelle_abrege_liste": "LE RENOUVEAU DE VERQUIN",
+      "nuance_liste": null,
+      "voix": 725,
+      "pct_voix_exprimes": 44.73,
+      "sieges_cm": 5,
+      "sieges_cc": 0,
+      "nb_elus": 5,
+      "tete_de_liste": {
+        "nom": "SEUX",
+        "prenom": "Thomas",
+        "nom_complet": "Thomas SEUX",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "SEUX",
+          "prenom": "Thomas",
+          "nom_complet": "Thomas SEUX",
+          "sexe": "M",
+          "age": 34,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "GOGNAU",
+          "prenom": "Joséphine",
+          "nom_complet": "Joséphine GOGNAU",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "MERCIER",
+          "prenom": "François",
+          "nom_complet": "François MERCIER",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DECAE",
+          "prenom": "Sonia",
+          "nom_complet": "Sonia DECAE",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "BRASME",
+          "prenom": "Jean-Claude",
+          "nom_complet": "Jean-Claude BRASME",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "5"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

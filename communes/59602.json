@@ -1,0 +1,163 @@
+{
+  "code_commune": "59602",
+  "commune": "Tressin",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "THIEFFRY",
+    "prenom": "Marine",
+    "nom_complet": "Marine THIEFFRY",
+    "age": 38,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1138,
+    "votants": 560,
+    "pct_votants": 49.21,
+    "abstentions": 578,
+    "pct_abstentions": 50.79,
+    "exprimes": 487
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "TRESSIN, TOUS UNIS POUR DEMAIN",
+      "libelle_abrege_liste": "TRESSIN, TOUS UNIS POUR DEMAIN",
+      "nuance_liste": null,
+      "voix": 487,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": 1,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "THIEFFRY",
+        "prenom": "Marine",
+        "nom_complet": "Marine THIEFFRY",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "THIEFFRY",
+          "prenom": "Marine",
+          "nom_complet": "Marine THIEFFRY",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DOSSIN",
+          "prenom": "Hugo",
+          "nom_complet": "Hugo DOSSIN",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "SYX",
+          "prenom": "Kathy",
+          "nom_complet": "Kathy SYX",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LONGUEMART",
+          "prenom": "Thomas",
+          "nom_complet": "Thomas LONGUEMART",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "BODIN",
+          "prenom": "Emily",
+          "nom_complet": "Emily BODIN",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "BLANGY",
+          "prenom": "Jean Louis",
+          "nom_complet": "Jean Louis BLANGY",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BROUTIN",
+          "prenom": "Marie-Ange",
+          "nom_complet": "Marie-Ange BROUTIN",
+          "sexe": "F",
+          "age": 71,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "BORREWATER",
+          "prenom": "Bruce",
+          "nom_complet": "Bruce BORREWATER",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DESMETTRE",
+          "prenom": "Raphaelle",
+          "nom_complet": "Raphaelle DESMETTRE",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "BRABANT",
+          "prenom": "Cyril",
+          "nom_complet": "Cyril BRABANT",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "GARRET",
+          "prenom": "Anne",
+          "nom_complet": "Anne GARRET",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "HENNEVIN",
+          "prenom": "Jean",
+          "nom_complet": "Jean HENNEVIN",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "MALCORPS",
+          "prenom": "Chrystèle",
+          "nom_complet": "Chrystèle MALCORPS",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "REISENTHEL",
+          "prenom": "François",
+          "nom_complet": "François REISENTHEL",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "SEYS",
+          "prenom": "Noemie",
+          "nom_complet": "Noemie SEYS",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

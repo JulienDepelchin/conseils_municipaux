@@ -1,0 +1,131 @@
+{
+  "code_commune": "62421",
+  "commune": "Havrincourt",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "ANTINORI",
+    "prenom": "Lionel",
+    "nom_complet": "Lionel ANTINORI",
+    "age": 61,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 292,
+    "votants": 151,
+    "pct_votants": 51.71,
+    "abstentions": 141,
+    "pct_abstentions": 48.29,
+    "exprimes": 147
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "NOTRE VILLAGE, NOTRE ENGAGEMENT",
+      "libelle_abrege_liste": "NOTRE VILLAGE, NOTRE ENGAGEMENT",
+      "nuance_liste": null,
+      "voix": 147,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "ANTINORI",
+        "prenom": "Lionel",
+        "nom_complet": "Lionel ANTINORI",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "ANTINORI",
+          "prenom": "Lionel",
+          "nom_complet": "Lionel ANTINORI",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LAVALLARD",
+          "prenom": "Carole",
+          "nom_complet": "Carole LAVALLARD",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BOUVET",
+          "prenom": "David",
+          "nom_complet": "David BOUVET",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "SZALKOWSKI",
+          "prenom": "Mélanie",
+          "nom_complet": "Mélanie SZALKOWSKI",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "VILCOT",
+          "prenom": "Jean-Luc",
+          "nom_complet": "Jean-Luc VILCOT",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "D'HALLUIN",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie D'HALLUIN",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "LESAGE",
+          "prenom": "Thibaut",
+          "nom_complet": "Thibaut LESAGE",
+          "sexe": "M",
+          "age": 33,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LAURENT",
+          "prenom": "Angèle",
+          "nom_complet": "Angèle LAURENT",
+          "sexe": "F",
+          "age": 73,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "ANTINORI",
+          "prenom": "Gaëtan",
+          "nom_complet": "Gaëtan ANTINORI",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "THELLIEZ",
+          "prenom": "Thérèse",
+          "nom_complet": "Thérèse THELLIEZ",
+          "sexe": "F",
+          "age": 75,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "MASCAUX",
+          "prenom": "Hubert",
+          "nom_complet": "Hubert MASCAUX",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

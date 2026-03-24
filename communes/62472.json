@@ -1,0 +1,131 @@
+{
+  "code_commune": "62472",
+  "commune": "Inxent",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "BIGAND",
+    "prenom": "Dominique",
+    "nom_complet": "Dominique BIGAND",
+    "age": 58,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 143,
+    "votants": 106,
+    "pct_votants": 74.13,
+    "abstentions": 37,
+    "pct_abstentions": 25.87,
+    "exprimes": 66
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Poursuivons Ensemble pour INXENT",
+      "libelle_abrege_liste": "Poursuivons Ensemble pour INXENT",
+      "nuance_liste": null,
+      "voix": 66,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "BIGAND",
+        "prenom": "Dominique",
+        "nom_complet": "Dominique BIGAND",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BIGAND",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique BIGAND",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BERNARD",
+          "prenom": "Christèle",
+          "nom_complet": "Christèle BERNARD",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "POCHET",
+          "prenom": "Gérard",
+          "nom_complet": "Gérard POCHET",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "ROUSSEL",
+          "prenom": "Cécile",
+          "nom_complet": "Cécile ROUSSEL",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "COMPIEGNE",
+          "prenom": "Pierre",
+          "nom_complet": "Pierre COMPIEGNE",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "HEDIN",
+          "prenom": "Eliane",
+          "nom_complet": "Eliane HEDIN",
+          "sexe": "F",
+          "age": 75,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "MARTEL",
+          "prenom": "Alexandre",
+          "nom_complet": "Alexandre MARTEL",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LOISEAU-BILLON",
+          "prenom": "Véronique",
+          "nom_complet": "Véronique LOISEAU-BILLON",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "HORNIG",
+          "prenom": "Yohan",
+          "nom_complet": "Yohan HORNIG",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "SORBIER",
+          "prenom": "Sandrine",
+          "nom_complet": "Sandrine SORBIER",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DUCHATEAU",
+          "prenom": "Jean-Luc",
+          "nom_complet": "Jean-Luc DUCHATEAU",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

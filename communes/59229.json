@@ -1,0 +1,183 @@
+{
+  "code_commune": "59229",
+  "commune": "Féron",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "BAUDRY",
+    "prenom": "Jean-François",
+    "nom_complet": "Jean-François BAUDRY",
+    "age": 69,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 487,
+    "votants": 393,
+    "pct_votants": 80.7,
+    "abstentions": 94,
+    "pct_abstentions": 19.3,
+    "exprimes": 382
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "L'ART DE VIVRE A FÉRON",
+      "libelle_abrege_liste": "L'ART DE VIVRE A FÉRON",
+      "nuance_liste": null,
+      "voix": 231,
+      "pct_voix_exprimes": 60.47,
+      "sieges_cm": 12,
+      "sieges_cc": null,
+      "nb_elus": 12,
+      "tete_de_liste": {
+        "nom": "BAUDRY",
+        "prenom": "Jean-François",
+        "nom_complet": "Jean-François BAUDRY",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BAUDRY",
+          "prenom": "Jean-François",
+          "nom_complet": "Jean-François BAUDRY",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DEHENRY",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle DEHENRY",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "CATELAIN",
+          "prenom": "Julien",
+          "nom_complet": "Julien CATELAIN",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "PAINCHART",
+          "prenom": "Christelle",
+          "nom_complet": "Christelle PAINCHART",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "ROGER",
+          "prenom": "Jean",
+          "nom_complet": "Jean ROGER",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DE BARBA",
+          "prenom": "Amandine",
+          "nom_complet": "Amandine DE BARBA",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BÉGUIN",
+          "prenom": "Jérôme",
+          "nom_complet": "Jérôme BÉGUIN",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "SOULIÉ",
+          "prenom": "Victoria",
+          "nom_complet": "Victoria SOULIÉ",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "HU",
+          "prenom": "Jean-Pierre",
+          "nom_complet": "Jean-Pierre HU",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DEPRET",
+          "prenom": "Claudine",
+          "nom_complet": "Claudine DEPRET",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "AZAMBRE",
+          "prenom": "Cédric",
+          "nom_complet": "Cédric AZAMBRE",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "VAN ELSLANDE",
+          "prenom": "Frédérique",
+          "nom_complet": "Frédérique VAN ELSLANDE",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "12"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Féron, un nouvel élan",
+      "libelle_abrege_liste": "Féron, un nouvel élan",
+      "nuance_liste": null,
+      "voix": 151,
+      "pct_voix_exprimes": 39.53,
+      "sieges_cm": 3,
+      "sieges_cc": null,
+      "nb_elus": 3,
+      "tete_de_liste": {
+        "nom": "COURBET",
+        "prenom": "Simon",
+        "nom_complet": "Simon COURBET",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "COURBET",
+          "prenom": "Simon",
+          "nom_complet": "Simon COURBET",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "REMBERT",
+          "prenom": "Laurine",
+          "nom_complet": "Laurine REMBERT",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "GALLOT",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas GALLOT",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "3"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

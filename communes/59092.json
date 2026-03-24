@@ -1,0 +1,279 @@
+{
+  "code_commune": "59092",
+  "commune": "Bouchain",
+  "departement": "Nord",
+  "tour": "T2",
+  "maire": {
+    "nom": "BROUTA",
+    "prenom": "Luc",
+    "nom_complet": "Luc BROUTA",
+    "age": 75,
+    "nuance": "LDVC"
+  },
+  "resultats": {
+    "inscrits": 3195,
+    "votants": 1982,
+    "pct_votants": 62.03,
+    "abstentions": 1213,
+    "pct_abstentions": 37.97,
+    "exprimes": 1928
+  },
+  "listes": [
+    {
+      "num_panneau": "4",
+      "libelle_liste": "BOUCHAIN DYNAMIQUE ET SEREIN",
+      "libelle_abrege_liste": "BOUCHAIN DYNAMIQUE ET SEREIN",
+      "nuance_liste": "LDVC",
+      "voix": 1065,
+      "pct_voix_exprimes": 55.24,
+      "sieges_cm": 21,
+      "sieges_cc": 2,
+      "nb_elus": 21,
+      "tete_de_liste": {
+        "nom": "BROUTA",
+        "prenom": "Luc",
+        "nom_complet": "Luc BROUTA",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BROUTA",
+          "prenom": "Luc",
+          "nom_complet": "Luc BROUTA",
+          "sexe": "M",
+          "age": 75,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "JURETZKO-BOULERY",
+          "prenom": "Pascale",
+          "nom_complet": "Pascale JURETZKO-BOULERY",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DA SILVA",
+          "prenom": "Emmanuel",
+          "nom_complet": "Emmanuel DA SILVA",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BELLYNCK",
+          "prenom": "Chrystèle",
+          "nom_complet": "Chrystèle BELLYNCK",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LEVEAUX",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe LEVEAUX",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "OULAÏ-LENFANT",
+          "prenom": "Sandrine",
+          "nom_complet": "Sandrine OULAÏ-LENFANT",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DI PIAZZA",
+          "prenom": "Daniel",
+          "nom_complet": "Daniel DI PIAZZA",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "CALVIN",
+          "prenom": "Céline",
+          "nom_complet": "Céline CALVIN",
+          "sexe": "F",
+          "age": 27,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "GREGOREK",
+          "prenom": "Pierre",
+          "nom_complet": "Pierre GREGOREK",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "WRZESZCZYNSKI",
+          "prenom": "Laetitia",
+          "nom_complet": "Laetitia WRZESZCZYNSKI",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "JURETZKO",
+          "prenom": "Emilien",
+          "nom_complet": "Emilien JURETZKO",
+          "sexe": "M",
+          "age": 29,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "DELETTE",
+          "prenom": "Céline",
+          "nom_complet": "Céline DELETTE",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "SENECHAL",
+          "prenom": "Pierre",
+          "nom_complet": "Pierre SENECHAL",
+          "sexe": "M",
+          "age": 27,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "NOREK-CLAISSE",
+          "prenom": "Béatrice",
+          "nom_complet": "Béatrice NOREK-CLAISSE",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "FAEHR",
+          "prenom": "Christian",
+          "nom_complet": "Christian FAEHR",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "MORENO",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie MORENO",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "GAUCHERELLE",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal GAUCHERELLE",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "BLONDEL",
+          "prenom": "Sara",
+          "nom_complet": "Sara BLONDEL",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "CARCEL",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent CARCEL",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "NICODEME",
+          "prenom": "Camille",
+          "nom_complet": "Camille NICODEME",
+          "sexe": "F",
+          "age": 29,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "DESTIENNE",
+          "prenom": "Roland",
+          "nom_complet": "Roland DESTIENNE",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "21"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "Ensemble, continuons pour Bouchain",
+      "libelle_abrege_liste": "Ensemble, continuons pour Bouchain",
+      "nuance_liste": "LDVG",
+      "voix": 863,
+      "pct_voix_exprimes": 44.76,
+      "sieges_cm": 6,
+      "sieges_cc": 0,
+      "nb_elus": 6,
+      "tete_de_liste": {
+        "nom": "ZIENTEK",
+        "prenom": "Ludovic",
+        "nom_complet": "Ludovic ZIENTEK",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "ZIENTEK",
+          "prenom": "Ludovic",
+          "nom_complet": "Ludovic ZIENTEK",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "HAUSSIN",
+          "prenom": "Chantal",
+          "nom_complet": "Chantal HAUSSIN",
+          "sexe": "F",
+          "age": 70,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "GLAVIER",
+          "prenom": "Eric",
+          "nom_complet": "Eric GLAVIER",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "SALADIN",
+          "prenom": "Colette",
+          "nom_complet": "Colette SALADIN",
+          "sexe": "F",
+          "age": 70,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "RICHEZ",
+          "prenom": "Marc",
+          "nom_complet": "Marc RICHEZ",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "FONTAINE",
+          "prenom": "Anne-Sophie",
+          "nom_complet": "Anne-Sophie FONTAINE",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "6"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

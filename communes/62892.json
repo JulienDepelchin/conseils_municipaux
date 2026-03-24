@@ -1,0 +1,183 @@
+{
+  "code_commune": "62892",
+  "commune": "Willerval",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "ROUSSEAU",
+    "prenom": "Philippe",
+    "nom_complet": "Philippe ROUSSEAU",
+    "age": 63,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 562,
+    "votants": 443,
+    "pct_votants": 78.83,
+    "abstentions": 119,
+    "pct_abstentions": 21.17,
+    "exprimes": 423
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "Ensemble pour l'avenir de Willerval",
+      "libelle_abrege_liste": "Ensemble pour l'avenir de Willerval",
+      "nuance_liste": null,
+      "voix": 272,
+      "pct_voix_exprimes": 64.3,
+      "sieges_cm": 13,
+      "sieges_cc": null,
+      "nb_elus": 13,
+      "tete_de_liste": {
+        "nom": "ROUSSEAU",
+        "prenom": "Philippe",
+        "nom_complet": "Philippe ROUSSEAU",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "ROUSSEAU",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe ROUSSEAU",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "ESTENNE-RIQUIER",
+          "prenom": "Martine",
+          "nom_complet": "Martine ESTENNE-RIQUIER",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "JARMUZEWSKI",
+          "prenom": "Gaëtan",
+          "nom_complet": "Gaëtan JARMUZEWSKI",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "PIOTROWSKI",
+          "prenom": "Christelle",
+          "nom_complet": "Christelle PIOTROWSKI",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "ARGENTINO",
+          "prenom": "Tony",
+          "nom_complet": "Tony ARGENTINO",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DUHEM-PRINGUÉ",
+          "prenom": "Marie-Claire",
+          "nom_complet": "Marie-Claire DUHEM-PRINGUÉ",
+          "sexe": "F",
+          "age": 76,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "CHAMBEYRON",
+          "prenom": "Marc",
+          "nom_complet": "Marc CHAMBEYRON",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "CADART",
+          "prenom": "Elisabeth",
+          "nom_complet": "Elisabeth CADART",
+          "sexe": "F",
+          "age": 31,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DANIEL",
+          "prenom": "Sylvain",
+          "nom_complet": "Sylvain DANIEL",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "JANSSEN-DUPRÉ",
+          "prenom": "Inès",
+          "nom_complet": "Inès JANSSEN-DUPRÉ",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "JOLY",
+          "prenom": "Corentin",
+          "nom_complet": "Corentin JOLY",
+          "sexe": "M",
+          "age": 32,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "VINCENT-WOZNIAK",
+          "prenom": "Josette",
+          "nom_complet": "Josette VINCENT-WOZNIAK",
+          "sexe": "F",
+          "age": 79,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "COUSSEMAEKER",
+          "prenom": "Arnaud",
+          "nom_complet": "Arnaud COUSSEMAEKER",
+          "sexe": "M",
+          "age": 31,
+          "rang_liste": "13"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "BIEN VIVRE ENSEMBLE",
+      "libelle_abrege_liste": "BIEN VIVRE ENSEMBLE",
+      "nuance_liste": null,
+      "voix": 151,
+      "pct_voix_exprimes": 35.7,
+      "sieges_cm": 2,
+      "sieges_cc": null,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "LEGLAND",
+        "prenom": "Geoffrey",
+        "nom_complet": "Geoffrey LEGLAND",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LEGLAND",
+          "prenom": "Geoffrey",
+          "nom_complet": "Geoffrey LEGLAND",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LANDELAMY",
+          "prenom": "Ingrid",
+          "nom_complet": "Ingrid LANDELAMY",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

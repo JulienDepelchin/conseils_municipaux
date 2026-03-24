@@ -1,0 +1,195 @@
+{
+  "code_commune": "62540",
+  "commune": "Maisnil-lès-Ruitz",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "PRUVOST",
+    "prenom": "Marcel",
+    "nom_complet": "Marcel PRUVOST",
+    "age": 61,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1314,
+    "votants": 728,
+    "pct_votants": 55.4,
+    "abstentions": 586,
+    "pct_abstentions": 44.6,
+    "exprimes": 676
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "AGIR ET BIEN VIVRE ENSEMBLE POUR MAISNIL LES RUITZ",
+      "libelle_abrege_liste": "AGIR ET BIEN VIVRE ENSEMBLE POUR MAISNIL LES RUITZ",
+      "nuance_liste": null,
+      "voix": 676,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 19,
+      "sieges_cc": 1,
+      "nb_elus": 19,
+      "tete_de_liste": {
+        "nom": "PRUVOST",
+        "prenom": "Marcel",
+        "nom_complet": "Marcel PRUVOST",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "PRUVOST",
+          "prenom": "Marcel",
+          "nom_complet": "Marcel PRUVOST",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "OLIVIER",
+          "prenom": "Sandrine",
+          "nom_complet": "Sandrine OLIVIER",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DELHOMEZ",
+          "prenom": "Jacques",
+          "nom_complet": "Jacques DELHOMEZ",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "TONNOIR",
+          "prenom": "Laetitia",
+          "nom_complet": "Laetitia TONNOIR",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DAUTREMEPUIS",
+          "prenom": "Henri",
+          "nom_complet": "Henri DAUTREMEPUIS",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "WOZNY",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle WOZNY",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BILLET",
+          "prenom": "Jean-Michel",
+          "nom_complet": "Jean-Michel BILLET",
+          "sexe": "M",
+          "age": 75,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "BOCQUET",
+          "prenom": "Beatrice",
+          "nom_complet": "Beatrice BOCQUET",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "CUGNET",
+          "prenom": "Jean-François",
+          "nom_complet": "Jean-François CUGNET",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "CARPENTIER",
+          "prenom": "Zoée",
+          "nom_complet": "Zoée CARPENTIER",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "MAYEUX",
+          "prenom": "Mickael",
+          "nom_complet": "Mickael MAYEUX",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "LABOISSE",
+          "prenom": "Jeanne Marie",
+          "nom_complet": "Jeanne Marie LABOISSE",
+          "sexe": "F",
+          "age": 73,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "PLACE",
+          "prenom": "Samuel",
+          "nom_complet": "Samuel PLACE",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "PENEL",
+          "prenom": "Adeline",
+          "nom_complet": "Adeline PENEL",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "CLERC",
+          "prenom": "Florent",
+          "nom_complet": "Florent CLERC",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "MARLARD",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie MARLARD",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "MINIOT",
+          "prenom": "Bertrand",
+          "nom_complet": "Bertrand MINIOT",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "WARINGHEM",
+          "prenom": "Corinne",
+          "nom_complet": "Corinne WARINGHEM",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "STRECK",
+          "prenom": "Rémi",
+          "nom_complet": "Rémi STRECK",
+          "sexe": "M",
+          "age": 32,
+          "rang_liste": "19"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

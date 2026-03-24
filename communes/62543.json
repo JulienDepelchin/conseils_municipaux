@@ -1,0 +1,195 @@
+{
+  "code_commune": "62543",
+  "commune": "Mametz",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "FENES LALOY",
+    "prenom": "Laurence",
+    "nom_complet": "Laurence FENES LALOY",
+    "age": 51,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1596,
+    "votants": 941,
+    "pct_votants": 58.96,
+    "abstentions": 655,
+    "pct_abstentions": 41.04,
+    "exprimes": 814
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "POUR MAMETZ",
+      "libelle_abrege_liste": "POUR MAMETZ",
+      "nuance_liste": null,
+      "voix": 814,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 19,
+      "sieges_cc": 1,
+      "nb_elus": 19,
+      "tete_de_liste": {
+        "nom": "FENES LALOY",
+        "prenom": "Laurence",
+        "nom_complet": "Laurence FENES LALOY",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "FENES LALOY",
+          "prenom": "Laurence",
+          "nom_complet": "Laurence FENES LALOY",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DUFOUR",
+          "prenom": "Jacky",
+          "nom_complet": "Jacky DUFOUR",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "JOLY",
+          "prenom": "Valérie",
+          "nom_complet": "Valérie JOLY",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "MARIOTTE",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick MARIOTTE",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "FAUCON",
+          "prenom": "Sylviane",
+          "nom_complet": "Sylviane FAUCON",
+          "sexe": "F",
+          "age": 71,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "BULTEL",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe BULTEL",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BREMONT",
+          "prenom": "Tatiana",
+          "nom_complet": "Tatiana BREMONT",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "CHARLET",
+          "prenom": "Stéphane",
+          "nom_complet": "Stéphane CHARLET",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DANNEL",
+          "prenom": "Viviane",
+          "nom_complet": "Viviane DANNEL",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "LECIGNE",
+          "prenom": "Joël",
+          "nom_complet": "Joël LECIGNE",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DUMORTIER",
+          "prenom": "Valérie",
+          "nom_complet": "Valérie DUMORTIER",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "BULTEL",
+          "prenom": "Cédric",
+          "nom_complet": "Cédric BULTEL",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "LAVALLEE",
+          "prenom": "Alexandra",
+          "nom_complet": "Alexandra LAVALLEE",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "VANBREMEERSCH",
+          "prenom": "Claude",
+          "nom_complet": "Claude VANBREMEERSCH",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "COHEZ",
+          "prenom": "Elise",
+          "nom_complet": "Elise COHEZ",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "DECOUVELAERE",
+          "prenom": "Clement",
+          "nom_complet": "Clement DECOUVELAERE",
+          "sexe": "M",
+          "age": 31,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "MARQUANT",
+          "prenom": "Céline",
+          "nom_complet": "Céline MARQUANT",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "MASSET",
+          "prenom": "Claude",
+          "nom_complet": "Claude MASSET",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "LECAT",
+          "prenom": "Christelle",
+          "nom_complet": "Christelle LECAT",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "19"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

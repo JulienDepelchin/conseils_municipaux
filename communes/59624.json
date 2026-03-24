@@ -1,0 +1,215 @@
+{
+  "code_commune": "59624",
+  "commune": "Villers-Outréaux",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "QUÉVREUX",
+    "prenom": "Patrice",
+    "nom_complet": "Patrice QUÉVREUX",
+    "age": 71,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1555,
+    "votants": 963,
+    "pct_votants": 61.93,
+    "abstentions": 592,
+    "pct_abstentions": 38.07,
+    "exprimes": 930
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "UNION POUR LA GESTION COMMUNALE",
+      "libelle_abrege_liste": "UNION POUR LA GESTION COMMUNALE",
+      "nuance_liste": null,
+      "voix": 623,
+      "pct_voix_exprimes": 66.99,
+      "sieges_cm": 16,
+      "sieges_cc": 2,
+      "nb_elus": 16,
+      "tete_de_liste": {
+        "nom": "QUÉVREUX",
+        "prenom": "Patrice",
+        "nom_complet": "Patrice QUÉVREUX",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "QUÉVREUX",
+          "prenom": "Patrice",
+          "nom_complet": "Patrice QUÉVREUX",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DOERLER",
+          "prenom": "Axelle",
+          "nom_complet": "Axelle DOERLER",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "GOSCIASZEK",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent GOSCIASZEK",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "RICHET",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie RICHET",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "COQUELLE",
+          "prenom": "Didier",
+          "nom_complet": "Didier COQUELLE",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "MASSE",
+          "prenom": "Fabienne",
+          "nom_complet": "Fabienne MASSE",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "MONCLERCQ",
+          "prenom": "Gérald",
+          "nom_complet": "Gérald MONCLERCQ",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "MOTTIN",
+          "prenom": "Elisabeth",
+          "nom_complet": "Elisabeth MOTTIN",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "FALEMPIN",
+          "prenom": "Jean-Yves",
+          "nom_complet": "Jean-Yves FALEMPIN",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "FRANQUEVILLE",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie FRANQUEVILLE",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "ROCHES",
+          "prenom": "Romain",
+          "nom_complet": "Romain ROCHES",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "MEURA",
+          "prenom": "Julie",
+          "nom_complet": "Julie MEURA",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "CAILLIEZ",
+          "prenom": "Etienne",
+          "nom_complet": "Etienne CAILLIEZ",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "POSTEL",
+          "prenom": "Juliette",
+          "nom_complet": "Juliette POSTEL",
+          "sexe": "F",
+          "age": 25,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "NORROY",
+          "prenom": "Jean-Marc",
+          "nom_complet": "Jean-Marc NORROY",
+          "sexe": "M",
+          "age": 75,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "DESSENNE",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie DESSENNE",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "16"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "VIVRE ENSEMBLE",
+      "libelle_abrege_liste": "VIVRE ENSEMBLE",
+      "nuance_liste": null,
+      "voix": 307,
+      "pct_voix_exprimes": 33.01,
+      "sieges_cm": 3,
+      "sieges_cc": 0,
+      "nb_elus": 3,
+      "tete_de_liste": {
+        "nom": "CARPENTIER",
+        "prenom": "Daniel",
+        "nom_complet": "Daniel CARPENTIER",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "CARPENTIER",
+          "prenom": "Daniel",
+          "nom_complet": "Daniel CARPENTIER",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "MILHEM LERCHE",
+          "prenom": "Martine",
+          "nom_complet": "Martine MILHEM LERCHE",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "GUTIERREZ CABEZA",
+          "prenom": "José",
+          "nom_complet": "José GUTIERREZ CABEZA",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "3"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

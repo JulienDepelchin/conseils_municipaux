@@ -1,0 +1,151 @@
+{
+  "code_commune": "62081",
+  "commune": "Baralle",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "DUDICOURT",
+    "prenom": "Christophe",
+    "nom_complet": "Christophe DUDICOURT",
+    "age": 58,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 377,
+    "votants": 281,
+    "pct_votants": 74.54,
+    "abstentions": 96,
+    "pct_abstentions": 25.46,
+    "exprimes": 274
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "UN NOUVEL ELAN POUR BARALLE",
+      "libelle_abrege_liste": "UN NOUVEL ELAN POUR BARALLE",
+      "nuance_liste": null,
+      "voix": 142,
+      "pct_voix_exprimes": 51.82,
+      "sieges_cm": 9,
+      "sieges_cc": null,
+      "nb_elus": 9,
+      "tete_de_liste": {
+        "nom": "DUDICOURT",
+        "prenom": "Christophe",
+        "nom_complet": "Christophe DUDICOURT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DUDICOURT",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe DUDICOURT",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "HARDUIN",
+          "prenom": "Michèle",
+          "nom_complet": "Michèle HARDUIN",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DEMONCHY",
+          "prenom": "Maxime",
+          "nom_complet": "Maxime DEMONCHY",
+          "sexe": "M",
+          "age": 29,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "MERCIER",
+          "prenom": "Geneviève",
+          "nom_complet": "Geneviève MERCIER",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "KHITER",
+          "prenom": "Mehdi",
+          "nom_complet": "Mehdi KHITER",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "PIORUN",
+          "prenom": "Vanessa",
+          "nom_complet": "Vanessa PIORUN",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "ASSEZ",
+          "prenom": "Martial",
+          "nom_complet": "Martial ASSEZ",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "VIOLA",
+          "prenom": "Elodie",
+          "nom_complet": "Elodie VIOLA",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "GRIFFON",
+          "prenom": "Eddy",
+          "nom_complet": "Eddy GRIFFON",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "9"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "POUR BARALLE, ENSEMBLE ET DURABLEMENT",
+      "libelle_abrege_liste": "POUR BARALLE, ENSEMBLE ET DURABLEMENT",
+      "nuance_liste": null,
+      "voix": 132,
+      "pct_voix_exprimes": 48.18,
+      "sieges_cm": 2,
+      "sieges_cc": null,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "LESTOCARD",
+        "prenom": "Jean-Pierre",
+        "nom_complet": "Jean-Pierre LESTOCARD",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LESTOCARD",
+          "prenom": "Jean-Pierre",
+          "nom_complet": "Jean-Pierre LESTOCARD",
+          "sexe": "M",
+          "age": 79,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "SEMIN",
+          "prenom": "Christine",
+          "nom_complet": "Christine SEMIN",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

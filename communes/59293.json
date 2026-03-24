@@ -1,0 +1,163 @@
+{
+  "code_commune": "59293",
+  "commune": "Haverskerque",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "DURUT",
+    "prenom": "Jocelyne",
+    "nom_complet": "Jocelyne DURUT",
+    "age": 71,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1079,
+    "votants": 636,
+    "pct_votants": 58.94,
+    "abstentions": 443,
+    "pct_abstentions": 41.06,
+    "exprimes": 574
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Ensemble pour Haverskerque",
+      "libelle_abrege_liste": "EPH",
+      "nuance_liste": null,
+      "voix": 574,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": 2,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "DURUT",
+        "prenom": "Jocelyne",
+        "nom_complet": "Jocelyne DURUT",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "DURUT",
+          "prenom": "Jocelyne",
+          "nom_complet": "Jocelyne DURUT",
+          "sexe": "F",
+          "age": 71,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BLERVAQUE",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe BLERVAQUE",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "VASSEUR",
+          "prenom": "Virginie",
+          "nom_complet": "Virginie VASSEUR",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "ROLIN",
+          "prenom": "Eddy",
+          "nom_complet": "Eddy ROLIN",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "GOEDGEBUER",
+          "prenom": "Catherine",
+          "nom_complet": "Catherine GOEDGEBUER",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DOUBLET",
+          "prenom": "Guillaume",
+          "nom_complet": "Guillaume DOUBLET",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BILLIAU",
+          "prenom": "Sandrine",
+          "nom_complet": "Sandrine BILLIAU",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "SALON",
+          "prenom": "Franky",
+          "nom_complet": "Franky SALON",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DEPUYDT",
+          "prenom": "Yaëlle",
+          "nom_complet": "Yaëlle DEPUYDT",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "WALBROU",
+          "prenom": "Clément",
+          "nom_complet": "Clément WALBROU",
+          "sexe": "M",
+          "age": 34,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "FAES",
+          "prenom": "Claire",
+          "nom_complet": "Claire FAES",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "QUIRET",
+          "prenom": "Alexis",
+          "nom_complet": "Alexis QUIRET",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "CAVELIER",
+          "prenom": "Jacqueline",
+          "nom_complet": "Jacqueline CAVELIER",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "BARROO",
+          "prenom": "Fabrice",
+          "nom_complet": "Fabrice BARROO",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "CORNARD",
+          "prenom": "Kelly",
+          "nom_complet": "Kelly CORNARD",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

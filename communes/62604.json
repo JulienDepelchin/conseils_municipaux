@@ -1,0 +1,299 @@
+{
+  "code_commune": "62604",
+  "commune": "Neufchâtel-Hardelot",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "JUILIEN-PEUVION",
+    "prenom": "Paulette",
+    "nom_complet": "Paulette JUILIEN-PEUVION",
+    "age": 64,
+    "nuance": "LDVC"
+  },
+  "resultats": {
+    "inscrits": 3703,
+    "votants": 2528,
+    "pct_votants": 68.27,
+    "abstentions": 1175,
+    "pct_abstentions": 31.73,
+    "exprimes": 2490
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "UNIS VERS DEMAIN",
+      "libelle_abrege_liste": "UNIS VERS DEMAIN",
+      "nuance_liste": "LDVC",
+      "voix": 1324,
+      "pct_voix_exprimes": 53.17,
+      "sieges_cm": 21,
+      "sieges_cc": 2,
+      "nb_elus": 21,
+      "tete_de_liste": {
+        "nom": "JUILIEN-PEUVION",
+        "prenom": "Paulette",
+        "nom_complet": "Paulette JUILIEN-PEUVION",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "JUILIEN-PEUVION",
+          "prenom": "Paulette",
+          "nom_complet": "Paulette JUILIEN-PEUVION",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "ACCOU",
+          "prenom": "Etienne",
+          "nom_complet": "Etienne ACCOU",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "CUVELIER",
+          "prenom": "Corinne",
+          "nom_complet": "Corinne CUVELIER",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "COUSIN",
+          "prenom": "Dany",
+          "nom_complet": "Dany COUSIN",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "BOULONGNE",
+          "prenom": "Martine",
+          "nom_complet": "Martine BOULONGNE",
+          "sexe": "F",
+          "age": 76,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "SEBILLE",
+          "prenom": "David",
+          "nom_complet": "David SEBILLE",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "HENNEQUART-FRÈRE",
+          "prenom": "Françoise",
+          "nom_complet": "Françoise HENNEQUART-FRÈRE",
+          "sexe": "F",
+          "age": 74,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "ROBART",
+          "prenom": "Eddy",
+          "nom_complet": "Eddy ROBART",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "COFFRE-LEMAITRE",
+          "prenom": "Justine",
+          "nom_complet": "Justine COFFRE-LEMAITRE",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "MAILLARD",
+          "prenom": "Bertrand",
+          "nom_complet": "Bertrand MAILLARD",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "BLOND",
+          "prenom": "Florence",
+          "nom_complet": "Florence BLOND",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "VILAIN",
+          "prenom": "Guillaume",
+          "nom_complet": "Guillaume VILAIN",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "QUANDALLE PIERRU",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie QUANDALLE PIERRU",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "WOSNITZKA",
+          "prenom": "Christopher",
+          "nom_complet": "Christopher WOSNITZKA",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "FOURCROY",
+          "prenom": "Marie-Claude",
+          "nom_complet": "Marie-Claude FOURCROY",
+          "sexe": "F",
+          "age": 73,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "CUVILLIER",
+          "prenom": "Théo",
+          "nom_complet": "Théo CUVILLIER",
+          "sexe": "M",
+          "age": 29,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "GARAS",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie GARAS",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "JAREMKIEWICZ",
+          "prenom": "Vincent",
+          "nom_complet": "Vincent JAREMKIEWICZ",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "LAPIE",
+          "prenom": "Anne-Sophie",
+          "nom_complet": "Anne-Sophie LAPIE",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "MARTIN",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno MARTIN",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "DURAND",
+          "prenom": "Anne",
+          "nom_complet": "Anne DURAND",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "21"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "3",
+      "libelle_liste": "NEUFCHATEL-HARDELOT, PARTAGER L'AVENIR",
+      "libelle_abrege_liste": "NEUFCHATEL-HARDELOT, PARTAGER L'AVENIR",
+      "nuance_liste": "LHOR",
+      "voix": 671,
+      "pct_voix_exprimes": 26.95,
+      "sieges_cm": 4,
+      "sieges_cc": 0,
+      "nb_elus": 4,
+      "tete_de_liste": {
+        "nom": "D'HALLUIN",
+        "prenom": "Hervé",
+        "nom_complet": "Hervé D'HALLUIN",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "D'HALLUIN",
+          "prenom": "Hervé",
+          "nom_complet": "Hervé D'HALLUIN",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "ANSELIN",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle ANSELIN",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LECLERCQ",
+          "prenom": "Gérard",
+          "nom_complet": "Gérard LECLERCQ",
+          "sexe": "M",
+          "age": 76,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "HERBEZ",
+          "prenom": "Anne",
+          "nom_complet": "Anne HERBEZ",
+          "sexe": "F",
+          "age": 73,
+          "rang_liste": "4"
+        }
+      ],
+      "statut_conseil": "autre"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "EXPERIENCE ET PROXIMITE",
+      "libelle_abrege_liste": "EXPERIENCE ET PROXIMITE",
+      "nuance_liste": "LDVC",
+      "voix": 495,
+      "pct_voix_exprimes": 19.88,
+      "sieges_cm": 2,
+      "sieges_cc": 0,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "PONT",
+        "prenom": "Jean-Pierre",
+        "nom_complet": "Jean-Pierre PONT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "PONT",
+          "prenom": "Jean-Pierre",
+          "nom_complet": "Jean-Pierre PONT",
+          "sexe": "M",
+          "age": 75,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "JAMBART-DEMONCHAUX",
+          "prenom": "Valerie",
+          "nom_complet": "Valerie JAMBART-DEMONCHAUX",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

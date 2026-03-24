@@ -1,0 +1,215 @@
+{
+  "code_commune": "59345",
+  "commune": "Lewarde",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "BRUNEEL",
+    "prenom": "Alain",
+    "nom_complet": "Alain BRUNEEL",
+    "age": 74,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1758,
+    "votants": 1213,
+    "pct_votants": 69,
+    "abstentions": 545,
+    "pct_abstentions": 31,
+    "exprimes": 1168
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "LEWARDE ENSEMBLE ECRIVONS LE FUTUR",
+      "libelle_abrege_liste": "LEWARDE ENSEMBLE ECRIVONS LE FUTUR",
+      "nuance_liste": null,
+      "voix": 686,
+      "pct_voix_exprimes": 58.73,
+      "sieges_cm": 15,
+      "sieges_cc": 2,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "BRUNEEL",
+        "prenom": "Alain",
+        "nom_complet": "Alain BRUNEEL",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BRUNEEL",
+          "prenom": "Alain",
+          "nom_complet": "Alain BRUNEEL",
+          "sexe": "M",
+          "age": 74,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DUQUESNOY",
+          "prenom": "Amandine",
+          "nom_complet": "Amandine DUQUESNOY",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "SOMBRIN",
+          "prenom": "Claude",
+          "nom_complet": "Claude SOMBRIN",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "RENAULT",
+          "prenom": "Christine",
+          "nom_complet": "Christine RENAULT",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "BELLEVERGE",
+          "prenom": "Vincent",
+          "nom_complet": "Vincent BELLEVERGE",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "SZYMCZAK",
+          "prenom": "Linda",
+          "nom_complet": "Linda SZYMCZAK",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "JOURDAIN",
+          "prenom": "Eric",
+          "nom_complet": "Eric JOURDAIN",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "FOUCAUT",
+          "prenom": "Nancy",
+          "nom_complet": "Nancy FOUCAUT",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "MOREAU",
+          "prenom": "Jean-Michel",
+          "nom_complet": "Jean-Michel MOREAU",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "LAHSSEN",
+          "prenom": "Nina",
+          "nom_complet": "Nina LAHSSEN",
+          "sexe": "F",
+          "age": 73,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "CADART",
+          "prenom": "Vincent",
+          "nom_complet": "Vincent CADART",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "KAROLEWICZ",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie KAROLEWICZ",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "CANIVET",
+          "prenom": "Pierre",
+          "nom_complet": "Pierre CANIVET",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "FOURMAUT",
+          "prenom": "Virginie",
+          "nom_complet": "Virginie FOURMAUT",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "LEGER",
+          "prenom": "André",
+          "nom_complet": "André LEGER",
+          "sexe": "M",
+          "age": 74,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "POUR LEWARDE, UN NOUVEL ELAN",
+      "libelle_abrege_liste": "POUR LEWARDE, UN NOUVEL ELAN",
+      "nuance_liste": null,
+      "voix": 482,
+      "pct_voix_exprimes": 41.27,
+      "sieges_cm": 4,
+      "sieges_cc": 0,
+      "nb_elus": 4,
+      "tete_de_liste": {
+        "nom": "DELANNOY",
+        "prenom": "Damien",
+        "nom_complet": "Damien DELANNOY",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DELANNOY",
+          "prenom": "Damien",
+          "nom_complet": "Damien DELANNOY",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "ZAGACKI",
+          "prenom": "Delphine",
+          "nom_complet": "Delphine ZAGACKI",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "POULAIN",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno POULAIN",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "WITCZAK",
+          "prenom": "Lydie",
+          "nom_complet": "Lydie WITCZAK",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "4"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

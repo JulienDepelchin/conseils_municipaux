@@ -1,0 +1,215 @@
+{
+  "code_commune": "59519",
+  "commune": "Rumegies",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "GHESQUIERE",
+    "prenom": "Anne Sophie",
+    "nom_complet": "Anne Sophie GHESQUIERE",
+    "age": 62,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1465,
+    "votants": 948,
+    "pct_votants": 64.71,
+    "abstentions": 517,
+    "pct_abstentions": 35.29,
+    "exprimes": 921
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "ACTIONS ET PROJETS POUR RUMEGIES",
+      "libelle_abrege_liste": "ACTIONS ET PROJETS POUR RUMEGIES",
+      "nuance_liste": null,
+      "voix": 550,
+      "pct_voix_exprimes": 59.72,
+      "sieges_cm": 15,
+      "sieges_cc": 1,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "GHESQUIERE",
+        "prenom": "Anne Sophie",
+        "nom_complet": "Anne Sophie GHESQUIERE",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "GHESQUIERE",
+          "prenom": "Anne Sophie",
+          "nom_complet": "Anne Sophie GHESQUIERE",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "THUILLIER",
+          "prenom": "Serge",
+          "nom_complet": "Serge THUILLIER",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "MICHEL",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie MICHEL",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "VIVIER",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe VIVIER",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "VERHEECKE",
+          "prenom": "Fabienne",
+          "nom_complet": "Fabienne VERHEECKE",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "FILMOTTE",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe FILMOTTE",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BAUDUIN",
+          "prenom": "Myriam",
+          "nom_complet": "Myriam BAUDUIN",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "CHOTEAU",
+          "prenom": "Benoît",
+          "nom_complet": "Benoît CHOTEAU",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "ANDULA",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie ANDULA",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DELESALLE",
+          "prenom": "Hugues",
+          "nom_complet": "Hugues DELESALLE",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "MARTINACHE",
+          "prenom": "Myriam",
+          "nom_complet": "Myriam MARTINACHE",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "THUILLIER",
+          "prenom": "Joel",
+          "nom_complet": "Joel THUILLIER",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "LEPEER",
+          "prenom": "Lydie",
+          "nom_complet": "Lydie LEPEER",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "MAC VEIGH",
+          "prenom": "Guillaume",
+          "nom_complet": "Guillaume MAC VEIGH",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "HOUAIRI",
+          "prenom": "Delphine",
+          "nom_complet": "Delphine HOUAIRI",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "LA VIE AU COEUR DE RUMEGIES",
+      "libelle_abrege_liste": "LA VIE AU COEUR DE RUMEGIES",
+      "nuance_liste": null,
+      "voix": 371,
+      "pct_voix_exprimes": 40.28,
+      "sieges_cm": 4,
+      "sieges_cc": 0,
+      "nb_elus": 4,
+      "tete_de_liste": {
+        "nom": "DUBOIS",
+        "prenom": "Marie",
+        "nom_complet": "Marie DUBOIS",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "DUBOIS",
+          "prenom": "Marie",
+          "nom_complet": "Marie DUBOIS",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "VANDEN STORME",
+          "prenom": "Fabrice",
+          "nom_complet": "Fabrice VANDEN STORME",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "CNOCKAERT",
+          "prenom": "Lauriane",
+          "nom_complet": "Lauriane CNOCKAERT",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DEJONGHE",
+          "prenom": "Emmanuel",
+          "nom_complet": "Emmanuel DEJONGHE",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "4"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

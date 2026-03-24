@@ -1,0 +1,183 @@
+{
+  "code_commune": "62839",
+  "commune": "Vaulx-Vraucourt",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "FOURNIER",
+    "prenom": "Freddy",
+    "nom_complet": "Freddy FOURNIER",
+    "age": 55,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 817,
+    "votants": 592,
+    "pct_votants": 72.46,
+    "abstentions": 225,
+    "pct_abstentions": 27.54,
+    "exprimes": 581
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "AGIR POUR NOTRE VILLAGE",
+      "libelle_abrege_liste": "AGIR POUR NOTRE VILLAGE",
+      "nuance_liste": null,
+      "voix": 457,
+      "pct_voix_exprimes": 78.66,
+      "sieges_cm": 14,
+      "sieges_cc": 3,
+      "nb_elus": 14,
+      "tete_de_liste": {
+        "nom": "FOURNIER",
+        "prenom": "Freddy",
+        "nom_complet": "Freddy FOURNIER",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "FOURNIER",
+          "prenom": "Freddy",
+          "nom_complet": "Freddy FOURNIER",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BONIFACE",
+          "prenom": "Martine",
+          "nom_complet": "Martine BONIFACE",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "CARRE",
+          "prenom": "Rémi",
+          "nom_complet": "Rémi CARRE",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DOLLET",
+          "prenom": "Armony",
+          "nom_complet": "Armony DOLLET",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "CAPRON",
+          "prenom": "Raymond",
+          "nom_complet": "Raymond CAPRON",
+          "sexe": "M",
+          "age": 78,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LENGLET",
+          "prenom": "Marie",
+          "nom_complet": "Marie LENGLET",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "GUINET",
+          "prenom": "Emmanuel",
+          "nom_complet": "Emmanuel GUINET",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LEPREUX",
+          "prenom": "Lise",
+          "nom_complet": "Lise LEPREUX",
+          "sexe": "F",
+          "age": 28,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "BRIDELLE",
+          "prenom": "Jean-René",
+          "nom_complet": "Jean-René BRIDELLE",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "LAURENT",
+          "prenom": "Marie-Pierre",
+          "nom_complet": "Marie-Pierre LAURENT",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "COPPIN",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe COPPIN",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "ACCART",
+          "prenom": "Cathy",
+          "nom_complet": "Cathy ACCART",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "BONIFACE",
+          "prenom": "Mathieu",
+          "nom_complet": "Mathieu BONIFACE",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "MARTIN",
+          "prenom": "Maryse",
+          "nom_complet": "Maryse MARTIN",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "14"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "VAULX-VRAUCOURT, VISION 2026",
+      "libelle_abrege_liste": "VAULX-VRAUCOURT, VISION 2026",
+      "nuance_liste": null,
+      "voix": 124,
+      "pct_voix_exprimes": 21.34,
+      "sieges_cm": 1,
+      "sieges_cc": 0,
+      "nb_elus": 1,
+      "tete_de_liste": {
+        "nom": "LAJON",
+        "prenom": "Gwenaelle",
+        "nom_complet": "Gwenaelle LAJON",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "LAJON",
+          "prenom": "Gwenaelle",
+          "nom_complet": "Gwenaelle LAJON",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "1"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

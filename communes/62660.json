@@ -1,0 +1,131 @@
+{
+  "code_commune": "62660",
+  "commune": "Plouvain",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "LESAGE",
+    "prenom": "Raoul",
+    "nom_complet": "Raoul LESAGE",
+    "age": 50,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 426,
+    "votants": 201,
+    "pct_votants": 47.18,
+    "abstentions": 225,
+    "pct_abstentions": 52.82,
+    "exprimes": 177
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "S'engager pour Plouvain : agir au présent, bâtir l'avenir",
+      "libelle_abrege_liste": "S'engager pour Plouvain : agir au présent, bâtir l'avenir",
+      "nuance_liste": null,
+      "voix": 177,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "LESAGE",
+        "prenom": "Raoul",
+        "nom_complet": "Raoul LESAGE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LESAGE",
+          "prenom": "Raoul",
+          "nom_complet": "Raoul LESAGE",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "COUPET",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie COUPET",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "FERRIER",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric FERRIER",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DELANNOY",
+          "prenom": "Florence",
+          "nom_complet": "Florence DELANNOY",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "PETIT",
+          "prenom": "Christian",
+          "nom_complet": "Christian PETIT",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "GABILLARD",
+          "prenom": "Manuéla",
+          "nom_complet": "Manuéla GABILLARD",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "LESTOILLE",
+          "prenom": "Franck",
+          "nom_complet": "Franck LESTOILLE",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "PAUNET LIETARD",
+          "prenom": "Emilie",
+          "nom_complet": "Emilie PAUNET LIETARD",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "MAROUZE",
+          "prenom": "Grégory",
+          "nom_complet": "Grégory MAROUZE",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DELANNOY",
+          "prenom": "Audrey",
+          "nom_complet": "Audrey DELANNOY",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "BRUNEAU",
+          "prenom": "Dimitri",
+          "nom_complet": "Dimitri BRUNEAU",
+          "sexe": "M",
+          "age": 24,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

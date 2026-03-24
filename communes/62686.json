@@ -1,0 +1,151 @@
+{
+  "code_commune": "62686",
+  "commune": "Ramecourt",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "PRUVOST",
+    "prenom": "Sylvain",
+    "nom_complet": "Sylvain PRUVOST",
+    "age": 54,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 292,
+    "votants": 241,
+    "pct_votants": 82.53,
+    "abstentions": 51,
+    "pct_abstentions": 17.47,
+    "exprimes": 237
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "RAMECOURT DE DEMAIN",
+      "libelle_abrege_liste": "RAMECOURT DE DEMAIN",
+      "nuance_liste": null,
+      "voix": 125,
+      "pct_voix_exprimes": 52.74,
+      "sieges_cm": 9,
+      "sieges_cc": null,
+      "nb_elus": 9,
+      "tete_de_liste": {
+        "nom": "PRUVOST",
+        "prenom": "Sylvain",
+        "nom_complet": "Sylvain PRUVOST",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "PRUVOST",
+          "prenom": "Sylvain",
+          "nom_complet": "Sylvain PRUVOST",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "KOKOCINSKI",
+          "prenom": "Cécile",
+          "nom_complet": "Cécile KOKOCINSKI",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "ROUSSEL",
+          "prenom": "Christian",
+          "nom_complet": "Christian ROUSSEL",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "MULLER",
+          "prenom": "Camille",
+          "nom_complet": "Camille MULLER",
+          "sexe": "F",
+          "age": 28,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "PARENT",
+          "prenom": "Francis",
+          "nom_complet": "Francis PARENT",
+          "sexe": "M",
+          "age": 81,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LAVIGNE",
+          "prenom": "Marie",
+          "nom_complet": "Marie LAVIGNE",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "WAMBERGUE",
+          "prenom": "Jérémy",
+          "nom_complet": "Jérémy WAMBERGUE",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "FLORY",
+          "prenom": "Pauline",
+          "nom_complet": "Pauline FLORY",
+          "sexe": "F",
+          "age": 27,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "CARON",
+          "prenom": "Cyril",
+          "nom_complet": "Cyril CARON",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "9"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Liste menée par Antoine BREUVART",
+      "libelle_abrege_liste": "Liste menée par Antoine BREUVART",
+      "nuance_liste": null,
+      "voix": 112,
+      "pct_voix_exprimes": 47.26,
+      "sieges_cm": 2,
+      "sieges_cc": null,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "BREUVART",
+        "prenom": "Antoine",
+        "nom_complet": "Antoine BREUVART",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BREUVART",
+          "prenom": "Antoine",
+          "nom_complet": "Antoine BREUVART",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DECROCK",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie DECROCK",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

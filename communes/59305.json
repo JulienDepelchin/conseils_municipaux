@@ -1,0 +1,235 @@
+{
+  "code_commune": "59305",
+  "commune": "Herzeele",
+  "departement": "Nord",
+  "tour": "T2",
+  "maire": {
+    "nom": "FRANCKE",
+    "prenom": "Stephane",
+    "nom_complet": "Stephane FRANCKE",
+    "age": 59,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1302,
+    "votants": 988,
+    "pct_votants": 75.88,
+    "abstentions": 314,
+    "pct_abstentions": 24.12,
+    "exprimes": 976
+  },
+  "listes": [
+    {
+      "num_panneau": "3",
+      "libelle_liste": "Tous unis pour Herzeele",
+      "libelle_abrege_liste": "tuph",
+      "nuance_liste": null,
+      "voix": 481,
+      "pct_voix_exprimes": 49.28,
+      "sieges_cm": 15,
+      "sieges_cc": 2,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "FRANCKE",
+        "prenom": "Stephane",
+        "nom_complet": "Stephane FRANCKE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "FRANCKE",
+          "prenom": "Stephane",
+          "nom_complet": "Stephane FRANCKE",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "GOCYK",
+          "prenom": "Beatrice",
+          "nom_complet": "Beatrice GOCYK",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "PICOTIN",
+          "prenom": "Gaetan",
+          "nom_complet": "Gaetan PICOTIN",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "REVEILLON",
+          "prenom": "Margaux",
+          "nom_complet": "Margaux REVEILLON",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "GERVOIS",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas GERVOIS",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "FAVEUUW",
+          "prenom": "Roselyne",
+          "nom_complet": "Roselyne FAVEUUW",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BAUDUIN",
+          "prenom": "Alexis",
+          "nom_complet": "Alexis BAUDUIN",
+          "sexe": "M",
+          "age": 34,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "BONADONNA",
+          "prenom": "Anne",
+          "nom_complet": "Anne BONADONNA",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "PLANQUELLE",
+          "prenom": "Matthieu",
+          "nom_complet": "Matthieu PLANQUELLE",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "LOONIS",
+          "prenom": "Davina",
+          "nom_complet": "Davina LOONIS",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DELOSIERES",
+          "prenom": "Fabrice",
+          "nom_complet": "Fabrice DELOSIERES",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "DEVEY",
+          "prenom": "Elodie",
+          "nom_complet": "Elodie DEVEY",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "THERY",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique THERY",
+          "sexe": "M",
+          "age": 33,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "NEIRYNCK",
+          "prenom": "Aline",
+          "nom_complet": "Aline NEIRYNCK",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "DEQUIDT",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal DEQUIDT",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Ensemble faisons battre le coeur d'Herzeele",
+      "libelle_abrege_liste": "EFBCH",
+      "nuance_liste": null,
+      "voix": 279,
+      "pct_voix_exprimes": 28.59,
+      "sieges_cm": 2,
+      "sieges_cc": 0,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "VANHERSEL",
+        "prenom": "Valerie",
+        "nom_complet": "Valerie VANHERSEL",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "VANHERSEL",
+          "prenom": "Valerie",
+          "nom_complet": "Valerie VANHERSEL",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "CHRISTIAENS",
+          "prenom": "Michael",
+          "nom_complet": "Michael CHRISTIAENS",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "herzeele c'est vous",
+      "libelle_abrege_liste": "HCV",
+      "nuance_liste": null,
+      "voix": 216,
+      "pct_voix_exprimes": 22.13,
+      "sieges_cm": 2,
+      "sieges_cc": 0,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "BOUCKENOOGHE",
+        "prenom": "Celine",
+        "nom_complet": "Celine BOUCKENOOGHE",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "BOUCKENOOGHE",
+          "prenom": "Celine",
+          "nom_complet": "Celine BOUCKENOOGHE",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "TROLET",
+          "prenom": "Cedric",
+          "nom_complet": "Cedric TROLET",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

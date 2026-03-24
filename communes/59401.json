@@ -1,0 +1,195 @@
+{
+  "code_commune": "59401",
+  "commune": "Méteren",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "BOULET",
+    "prenom": "Elizabeth",
+    "nom_complet": "Elizabeth BOULET",
+    "age": 36,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1678,
+    "votants": 923,
+    "pct_votants": 55.01,
+    "abstentions": 755,
+    "pct_abstentions": 44.99,
+    "exprimes": 709
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "AGIR ENSEMBLE",
+      "libelle_abrege_liste": "AGIR ENSEMBLE",
+      "nuance_liste": null,
+      "voix": 709,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 19,
+      "sieges_cc": 1,
+      "nb_elus": 19,
+      "tete_de_liste": {
+        "nom": "BOULET",
+        "prenom": "Elizabeth",
+        "nom_complet": "Elizabeth BOULET",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "BOULET",
+          "prenom": "Elizabeth",
+          "nom_complet": "Elizabeth BOULET",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "FACHE",
+          "prenom": "Benoit",
+          "nom_complet": "Benoit FACHE",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DESCAMPS",
+          "prenom": "Stephanie",
+          "nom_complet": "Stephanie DESCAMPS",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "GOMBERT",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe GOMBERT",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LAUWERIER",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie LAUWERIER",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "HERREMAN",
+          "prenom": "Damien",
+          "nom_complet": "Damien HERREMAN",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BENEZECH",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle BENEZECH",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LUTTUN",
+          "prenom": "Guillaume",
+          "nom_complet": "Guillaume LUTTUN",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "VAN LEDEGHEM",
+          "prenom": "Emilie",
+          "nom_complet": "Emilie VAN LEDEGHEM",
+          "sexe": "F",
+          "age": 31,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "RICHARD",
+          "prenom": "Stephane",
+          "nom_complet": "Stephane RICHARD",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DUNABIN",
+          "prenom": "Catherine",
+          "nom_complet": "Catherine DUNABIN",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "DECHERF",
+          "prenom": "Jean-Francois",
+          "nom_complet": "Jean-Francois DECHERF",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "TOUSSAINT",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle TOUSSAINT",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "LEMORT",
+          "prenom": "Guillaume",
+          "nom_complet": "Guillaume LEMORT",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "GERMAIN",
+          "prenom": "Caroline",
+          "nom_complet": "Caroline GERMAIN",
+          "sexe": "F",
+          "age": 31,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "NICOLAS",
+          "prenom": "Tanguy",
+          "nom_complet": "Tanguy NICOLAS",
+          "sexe": "M",
+          "age": 26,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "DIDOLLA-PERRAIN",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie DIDOLLA-PERRAIN",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "PARENT",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas PARENT",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "LABAERE",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie LABAERE",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "19"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

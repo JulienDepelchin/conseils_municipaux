@@ -1,0 +1,99 @@
+{
+  "code_commune": "62577",
+  "commune": "Monchel-sur-Canche",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "NANTOIS",
+    "prenom": "Daniel",
+    "nom_complet": "Daniel NANTOIS",
+    "age": 76,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 60,
+    "votants": 42,
+    "pct_votants": 70,
+    "abstentions": 18,
+    "pct_abstentions": 30,
+    "exprimes": 36
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ENSEMBLE POUR MONCHEL",
+      "libelle_abrege_liste": "ENSEMBLE POUR MONCHEL",
+      "nuance_liste": null,
+      "voix": 36,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 7,
+      "sieges_cc": null,
+      "nb_elus": 7,
+      "tete_de_liste": {
+        "nom": "NANTOIS",
+        "prenom": "Daniel",
+        "nom_complet": "Daniel NANTOIS",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "NANTOIS",
+          "prenom": "Daniel",
+          "nom_complet": "Daniel NANTOIS",
+          "sexe": "M",
+          "age": 76,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "GROUX",
+          "prenom": "Floriane",
+          "nom_complet": "Floriane GROUX",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "CUVILLIEZ",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent CUVILLIEZ",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "CUVILLIEZ",
+          "prenom": "Adeline",
+          "nom_complet": "Adeline CUVILLIEZ",
+          "sexe": "F",
+          "age": 27,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "CLÉRET",
+          "prenom": "Alexis",
+          "nom_complet": "Alexis CLÉRET",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "NANTOIS",
+          "prenom": "Bérénice",
+          "nom_complet": "Bérénice NANTOIS",
+          "sexe": "F",
+          "age": 19,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "GUERMONPREZ",
+          "prenom": "Serge",
+          "nom_complet": "Serge GUERMONPREZ",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "7"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

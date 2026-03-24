@@ -1,0 +1,131 @@
+{
+  "code_commune": "62125",
+  "commune": "Beuvrequen",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "HORNOY",
+    "prenom": "Hugues",
+    "nom_complet": "Hugues HORNOY",
+    "age": 54,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 376,
+    "votants": 224,
+    "pct_votants": 59.57,
+    "abstentions": 152,
+    "pct_abstentions": 40.43,
+    "exprimes": 201
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ENSEMBLE POUR BEUVREQUEN",
+      "libelle_abrege_liste": "ENSEMBLE POUR BEUVREQUEN",
+      "nuance_liste": null,
+      "voix": 201,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "HORNOY",
+        "prenom": "Hugues",
+        "nom_complet": "Hugues HORNOY",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "HORNOY",
+          "prenom": "Hugues",
+          "nom_complet": "Hugues HORNOY",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BAUDON",
+          "prenom": "Gilberte",
+          "nom_complet": "Gilberte BAUDON",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BIGAND",
+          "prenom": "Hervé",
+          "nom_complet": "Hervé BIGAND",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DAMIENS",
+          "prenom": "Caroline",
+          "nom_complet": "Caroline DAMIENS",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "ROSÉ",
+          "prenom": "Régis",
+          "nom_complet": "Régis ROSÉ",
+          "sexe": "M",
+          "age": 77,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "PAQUES",
+          "prenom": "Sabine",
+          "nom_complet": "Sabine PAQUES",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "COSTA",
+          "prenom": "Michel",
+          "nom_complet": "Michel COSTA",
+          "sexe": "M",
+          "age": 78,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DOLET",
+          "prenom": "Anaïs",
+          "nom_complet": "Anaïs DOLET",
+          "sexe": "F",
+          "age": 29,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "BROUTTIER",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent BROUTTIER",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "VANDAMBOSSE",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle VANDAMBOSSE",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "GUEULLE",
+          "prenom": "Gérard",
+          "nom_complet": "Gérard GUEULLE",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

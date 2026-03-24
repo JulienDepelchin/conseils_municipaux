@@ -1,0 +1,247 @@
+{
+  "code_commune": "59564",
+  "commune": "La Sentinelle",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "BLONDIAUX",
+    "prenom": "Eric",
+    "nom_complet": "Eric BLONDIAUX",
+    "age": 63,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 2129,
+    "votants": 1234,
+    "pct_votants": 57.96,
+    "abstentions": 895,
+    "pct_abstentions": 42.04,
+    "exprimes": 1186
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "La sentinelle La ville des Possibles",
+      "libelle_abrege_liste": "La sentinelle La ville des Possibles",
+      "nuance_liste": null,
+      "voix": 675,
+      "pct_voix_exprimes": 56.91,
+      "sieges_cm": 18,
+      "sieges_cc": 1,
+      "nb_elus": 18,
+      "tete_de_liste": {
+        "nom": "BLONDIAUX",
+        "prenom": "Eric",
+        "nom_complet": "Eric BLONDIAUX",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BLONDIAUX",
+          "prenom": "Eric",
+          "nom_complet": "Eric BLONDIAUX",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "CAMPHIN",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie CAMPHIN",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "PETIT",
+          "prenom": "Francky",
+          "nom_complet": "Francky PETIT",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DHAUSSY",
+          "prenom": "Francine",
+          "nom_complet": "Francine DHAUSSY",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "MEDJAHED",
+          "prenom": "Farid",
+          "nom_complet": "Farid MEDJAHED",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "MATER",
+          "prenom": "Firdaouce",
+          "nom_complet": "Firdaouce MATER",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "GABET",
+          "prenom": "Jérémy",
+          "nom_complet": "Jérémy GABET",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "HEBERT",
+          "prenom": "Christelle",
+          "nom_complet": "Christelle HEBERT",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "PENAUD",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick PENAUD",
+          "sexe": "M",
+          "age": 74,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "COSSART",
+          "prenom": "Morgan",
+          "nom_complet": "Morgan COSSART",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "NOWACZYK",
+          "prenom": "Mathieu",
+          "nom_complet": "Mathieu NOWACZYK",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "BRENET",
+          "prenom": "Brigitte",
+          "nom_complet": "Brigitte BRENET",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "BOULANGER",
+          "prenom": "Jean-Luc",
+          "nom_complet": "Jean-Luc BOULANGER",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "MASCHIO",
+          "prenom": "Jeanne-Marie",
+          "nom_complet": "Jeanne-Marie MASCHIO",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "MILLIEN",
+          "prenom": "Freddy",
+          "nom_complet": "Freddy MILLIEN",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "BISIEAUX",
+          "prenom": "Sabrina",
+          "nom_complet": "Sabrina BISIEAUX",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "DEWITTE",
+          "prenom": "David",
+          "nom_complet": "David DEWITTE",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "FERRARO",
+          "prenom": "Manuella",
+          "nom_complet": "Manuella FERRARO",
+          "sexe": "F",
+          "age": 32,
+          "rang_liste": "18"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ENSEMBLE !",
+      "libelle_abrege_liste": "ENSEMBLE !",
+      "nuance_liste": null,
+      "voix": 511,
+      "pct_voix_exprimes": 43.09,
+      "sieges_cm": 5,
+      "sieges_cc": 0,
+      "nb_elus": 5,
+      "tete_de_liste": {
+        "nom": "DUVIVIER",
+        "prenom": "Laurent",
+        "nom_complet": "Laurent DUVIVIER",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DUVIVIER",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent DUVIVIER",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "CAREMIAUX",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie CAREMIAUX",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "HOUPE",
+          "prenom": "Loïc",
+          "nom_complet": "Loïc HOUPE",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DEVORCINE",
+          "prenom": "Laetitia",
+          "nom_complet": "Laetitia DEVORCINE",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LIENARD",
+          "prenom": "Francis",
+          "nom_complet": "Francis LIENARD",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "5"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

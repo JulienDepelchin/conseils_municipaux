@@ -1,0 +1,151 @@
+{
+  "code_commune": "62564",
+  "commune": "Mazinghem",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "WILLERY",
+    "prenom": "Ludovic",
+    "nom_complet": "Ludovic WILLERY",
+    "age": 59,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 366,
+    "votants": 278,
+    "pct_votants": 75.96,
+    "abstentions": 88,
+    "pct_abstentions": 24.04,
+    "exprimes": 272
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "UN SOUFFLE NOUVEAU POUR NOTRE VILLAGE",
+      "libelle_abrege_liste": "UN SOUFFLE NOUVEAU POUR NOTRE VILLAGE",
+      "nuance_liste": null,
+      "voix": 169,
+      "pct_voix_exprimes": 62.13,
+      "sieges_cm": 9,
+      "sieges_cc": null,
+      "nb_elus": 9,
+      "tete_de_liste": {
+        "nom": "WILLERY",
+        "prenom": "Ludovic",
+        "nom_complet": "Ludovic WILLERY",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "WILLERY",
+          "prenom": "Ludovic",
+          "nom_complet": "Ludovic WILLERY",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BIAUSQUE",
+          "prenom": "Emmanuelle",
+          "nom_complet": "Emmanuelle BIAUSQUE",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "VIVIEN",
+          "prenom": "Quentin",
+          "nom_complet": "Quentin VIVIEN",
+          "sexe": "M",
+          "age": 22,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "PRUVOST",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie PRUVOST",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "CARON",
+          "prenom": "Cyril",
+          "nom_complet": "Cyril CARON",
+          "sexe": "M",
+          "age": 21,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "FACON",
+          "prenom": "Kate",
+          "nom_complet": "Kate FACON",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "CLEUET",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe CLEUET",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "EVRARD",
+          "prenom": "Muriel",
+          "nom_complet": "Muriel EVRARD",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DENIS",
+          "prenom": "Gervais",
+          "nom_complet": "Gervais DENIS",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "9"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "AGIR ENSEMBLE POUR L'AVENIR DE MAZINGHEM",
+      "libelle_abrege_liste": "AGIR ENSEMBLE POUR L'AVENIR DE MAZINGHEM",
+      "nuance_liste": null,
+      "voix": 103,
+      "pct_voix_exprimes": 37.87,
+      "sieges_cm": 2,
+      "sieges_cc": null,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "MATTON",
+        "prenom": "Claudette",
+        "nom_complet": "Claudette MATTON",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "MATTON",
+          "prenom": "Claudette",
+          "nom_complet": "Claudette MATTON",
+          "sexe": "F",
+          "age": 71,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "CUVILLIER",
+          "prenom": "Vincent",
+          "nom_complet": "Vincent CUVILLIER",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

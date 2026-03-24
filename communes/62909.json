@@ -1,0 +1,131 @@
+{
+  "code_commune": "62909",
+  "commune": "Ytres",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "LECAT",
+    "prenom": "André-Marie",
+    "nom_complet": "André-Marie LECAT",
+    "age": 71,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 302,
+    "votants": 158,
+    "pct_votants": 52.32,
+    "abstentions": 144,
+    "pct_abstentions": 47.68,
+    "exprimes": 141
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "UNIS POUR YTRES",
+      "libelle_abrege_liste": "UNIS POUR YTRES",
+      "nuance_liste": null,
+      "voix": 141,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "LECAT",
+        "prenom": "André-Marie",
+        "nom_complet": "André-Marie LECAT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LECAT",
+          "prenom": "André-Marie",
+          "nom_complet": "André-Marie LECAT",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "PRUVOST",
+          "prenom": "Elodie",
+          "nom_complet": "Elodie PRUVOST",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "RICAUX",
+          "prenom": "Gérard",
+          "nom_complet": "Gérard RICAUX",
+          "sexe": "M",
+          "age": 79,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LEROUX",
+          "prenom": "Céline",
+          "nom_complet": "Céline LEROUX",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "BANCOURT",
+          "prenom": "Jean-Louis",
+          "nom_complet": "Jean-Louis BANCOURT",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "BASSEZ",
+          "prenom": "Mila",
+          "nom_complet": "Mila BASSEZ",
+          "sexe": "F",
+          "age": 23,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "WECXSTEEN",
+          "prenom": "Lionel",
+          "nom_complet": "Lionel WECXSTEEN",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DUVIN",
+          "prenom": "Logane",
+          "nom_complet": "Logane DUVIN",
+          "sexe": "F",
+          "age": 30,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DUPONT",
+          "prenom": "Maxime",
+          "nom_complet": "Maxime DUPONT",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DUBREMETZ",
+          "prenom": "Claire",
+          "nom_complet": "Claire DUBREMETZ",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "LECONTE",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe LECONTE",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

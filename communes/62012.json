@@ -1,0 +1,131 @@
+{
+  "code_commune": "62012",
+  "commune": "Agnières",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "MESTAN",
+    "prenom": "Pascal",
+    "nom_complet": "Pascal MESTAN",
+    "age": 64,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 198,
+    "votants": 131,
+    "pct_votants": 66.16,
+    "abstentions": 67,
+    "pct_abstentions": 33.84,
+    "exprimes": 93
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Pour Agnières, tous ensemble !",
+      "libelle_abrege_liste": "Pour Agnières, tous ensemble !",
+      "nuance_liste": null,
+      "voix": 93,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "MESTAN",
+        "prenom": "Pascal",
+        "nom_complet": "Pascal MESTAN",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "MESTAN",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal MESTAN",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "COIN",
+          "prenom": "Mélanie",
+          "nom_complet": "Mélanie COIN",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BRIDOUX",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent BRIDOUX",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "GELTZ",
+          "prenom": "Adeline",
+          "nom_complet": "Adeline GELTZ",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LEROUX",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent LEROUX",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "VERCRUYSSE",
+          "prenom": "Julie",
+          "nom_complet": "Julie VERCRUYSSE",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "VERCRUYSSE",
+          "prenom": "Thierry",
+          "nom_complet": "Thierry VERCRUYSSE",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "VASSEUR",
+          "prenom": "Sophie",
+          "nom_complet": "Sophie VASSEUR",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DEMAGNY",
+          "prenom": "Yves",
+          "nom_complet": "Yves DEMAGNY",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "ROUVILLAIN",
+          "prenom": "Lucie",
+          "nom_complet": "Lucie ROUVILLAIN",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "WINTERSTEIN",
+          "prenom": "Maxime",
+          "nom_complet": "Maxime WINTERSTEIN",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

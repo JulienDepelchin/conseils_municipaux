@@ -1,0 +1,163 @@
+{
+  "code_commune": "59259",
+  "commune": "Ghissignies",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "BLEUSE",
+    "prenom": "Laurent",
+    "nom_complet": "Laurent BLEUSE",
+    "age": 56,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 407,
+    "votants": 271,
+    "pct_votants": 66.58,
+    "abstentions": 136,
+    "pct_abstentions": 33.42,
+    "exprimes": 212
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "AGIR POUR L'AVENIR",
+      "libelle_abrege_liste": "AGIR POUR L'AVENIR",
+      "nuance_liste": null,
+      "voix": 212,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "BLEUSE",
+        "prenom": "Laurent",
+        "nom_complet": "Laurent BLEUSE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BLEUSE",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent BLEUSE",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "PERSICHETTI",
+          "prenom": "Anne-Marie",
+          "nom_complet": "Anne-Marie PERSICHETTI",
+          "sexe": "F",
+          "age": 74,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LEFEBVRE",
+          "prenom": "Denis",
+          "nom_complet": "Denis LEFEBVRE",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "GUYOT",
+          "prenom": "Virginie",
+          "nom_complet": "Virginie GUYOT",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "SOLOCH",
+          "prenom": "Vladimir",
+          "nom_complet": "Vladimir SOLOCH",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DELHAYE-MESGUEN",
+          "prenom": "Agnes",
+          "nom_complet": "Agnes DELHAYE-MESGUEN",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "CORBILLON",
+          "prenom": "Daniel",
+          "nom_complet": "Daniel CORBILLON",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "PELTIER",
+          "prenom": "Lylas",
+          "nom_complet": "Lylas PELTIER",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "CARLIER",
+          "prenom": "Guillaume",
+          "nom_complet": "Guillaume CARLIER",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "CAUCHY",
+          "prenom": "Astrid",
+          "nom_complet": "Astrid CAUCHY",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DELEVOYE",
+          "prenom": "Martial",
+          "nom_complet": "Martial DELEVOYE",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "DELEBECQUE",
+          "prenom": "Lucille",
+          "nom_complet": "Lucille DELEBECQUE",
+          "sexe": "F",
+          "age": 33,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "GLAÇON",
+          "prenom": "Frederic",
+          "nom_complet": "Frederic GLAÇON",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "LALLEMAND",
+          "prenom": "Gaëtane",
+          "nom_complet": "Gaëtane LALLEMAND",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "GUERY",
+          "prenom": "Julien",
+          "nom_complet": "Julien GUERY",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "code_commune": "62344",
+  "commune": "Fontaine-lès-Hermans",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "DE LIEGE",
+    "prenom": "Arnaud",
+    "nom_complet": "Arnaud DE LIEGE",
+    "age": 52,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 87,
+    "votants": 61,
+    "pct_votants": 70.11,
+    "abstentions": 26,
+    "pct_abstentions": 29.89,
+    "exprimes": 39
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ENSEMBLE A FONTAINE LES HERMANS",
+      "libelle_abrege_liste": "ENSEMBLE A FONTAINE LES HERMANS",
+      "nuance_liste": null,
+      "voix": 39,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 10,
+      "sieges_cc": null,
+      "nb_elus": 10,
+      "tete_de_liste": {
+        "nom": "DE LIEGE",
+        "prenom": "Arnaud",
+        "nom_complet": "Arnaud DE LIEGE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DE LIEGE",
+          "prenom": "Arnaud",
+          "nom_complet": "Arnaud DE LIEGE",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BONVARLET",
+          "prenom": "Cécile",
+          "nom_complet": "Cécile BONVARLET",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DENEUVILLE",
+          "prenom": "Sébastien",
+          "nom_complet": "Sébastien DENEUVILLE",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "GORMOTTE",
+          "prenom": "Sylvanie",
+          "nom_complet": "Sylvanie GORMOTTE",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "GALLET",
+          "prenom": "Ludovic",
+          "nom_complet": "Ludovic GALLET",
+          "sexe": "M",
+          "age": 34,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "BOURGEOIS",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle BOURGEOIS",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "TRYJANOWSKI",
+          "prenom": "Sébastien",
+          "nom_complet": "Sébastien TRYJANOWSKI",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DENEUVILLE",
+          "prenom": "Marina",
+          "nom_complet": "Marina DENEUVILLE",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "VERPRAET",
+          "prenom": "Kenny",
+          "nom_complet": "Kenny VERPRAET",
+          "sexe": "M",
+          "age": 29,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "TERRIER",
+          "prenom": "Olivia",
+          "nom_complet": "Olivia TERRIER",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "10"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

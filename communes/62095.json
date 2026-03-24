@@ -1,0 +1,131 @@
+{
+  "code_commune": "62095",
+  "commune": "Beaumetz-lès-Aire",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "LIEBART",
+    "prenom": "Anthony",
+    "nom_complet": "Anthony LIEBART",
+    "age": 38,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 177,
+    "votants": 98,
+    "pct_votants": 55.37,
+    "abstentions": 79,
+    "pct_abstentions": 44.63,
+    "exprimes": 77
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "UNIS POUR BEAUMETZ-LEZ-AIRE",
+      "libelle_abrege_liste": "UNIS POUR BEAUMETZ-LEZ-AIRE",
+      "nuance_liste": null,
+      "voix": 77,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "LIEBART",
+        "prenom": "Anthony",
+        "nom_complet": "Anthony LIEBART",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LIEBART",
+          "prenom": "Anthony",
+          "nom_complet": "Anthony LIEBART",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BLOCQUEL",
+          "prenom": "Pascale",
+          "nom_complet": "Pascale BLOCQUEL",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "CARPENTIER",
+          "prenom": "Bertrand",
+          "nom_complet": "Bertrand CARPENTIER",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BROCVIEILLE",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique BROCVIEILLE",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DEFEBVIN",
+          "prenom": "Gilles",
+          "nom_complet": "Gilles DEFEBVIN",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DEMOLIN",
+          "prenom": "Virginie",
+          "nom_complet": "Virginie DEMOLIN",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DHIU",
+          "prenom": "Dimitri",
+          "nom_complet": "Dimitri DHIU",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "MERSSEMAN",
+          "prenom": "Nastasia",
+          "nom_complet": "Nastasia MERSSEMAN",
+          "sexe": "F",
+          "age": 33,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "MIENNEE",
+          "prenom": "Jérôme",
+          "nom_complet": "Jérôme MIENNEE",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "WESTERLYNCK",
+          "prenom": "Emeline",
+          "nom_complet": "Emeline WESTERLYNCK",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "PRUVOST",
+          "prenom": "Augustin",
+          "nom_complet": "Augustin PRUVOST",
+          "sexe": "M",
+          "age": 79,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "code_commune": "62453",
+  "commune": "Hézecques",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "PUYPE",
+    "prenom": "Gaëtan",
+    "nom_complet": "Gaëtan PUYPE",
+    "age": 44,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 114,
+    "votants": 90,
+    "pct_votants": 78.95,
+    "abstentions": 24,
+    "pct_abstentions": 21.05,
+    "exprimes": 50
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Hézecques, un village uni pour son avenir",
+      "libelle_abrege_liste": "Hézecques, un village uni pour son avenir",
+      "nuance_liste": null,
+      "voix": 50,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "PUYPE",
+        "prenom": "Gaëtan",
+        "nom_complet": "Gaëtan PUYPE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "PUYPE",
+          "prenom": "Gaëtan",
+          "nom_complet": "Gaëtan PUYPE",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BRUET",
+          "prenom": "Béatrice",
+          "nom_complet": "Béatrice BRUET",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "SELLIER",
+          "prenom": "Cyril",
+          "nom_complet": "Cyril SELLIER",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "CORDONNIER",
+          "prenom": "Marylise",
+          "nom_complet": "Marylise CORDONNIER",
+          "sexe": "F",
+          "age": 70,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "FREVILLE",
+          "prenom": "Alain",
+          "nom_complet": "Alain FREVILLE",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "SPECQUE",
+          "prenom": "Justine",
+          "nom_complet": "Justine SPECQUE",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DUQUENNE",
+          "prenom": "Vincent",
+          "nom_complet": "Vincent DUQUENNE",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DALLONGEVILLE",
+          "prenom": "Laura",
+          "nom_complet": "Laura DALLONGEVILLE",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "FREVILLE",
+          "prenom": "Guillaume",
+          "nom_complet": "Guillaume FREVILLE",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "FOURNIER",
+          "prenom": "Clara",
+          "nom_complet": "Clara FOURNIER",
+          "sexe": "F",
+          "age": 19,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "COURTIN",
+          "prenom": "Maxime",
+          "nom_complet": "Maxime COURTIN",
+          "sexe": "M",
+          "age": 32,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

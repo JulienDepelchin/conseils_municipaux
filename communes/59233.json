@@ -1,0 +1,131 @@
+{
+  "code_commune": "59233",
+  "commune": "Flaumont-Waudrechies",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "HUGÉ",
+    "prenom": "Sébastien",
+    "nom_complet": "Sébastien HUGÉ",
+    "age": 52,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 291,
+    "votants": 157,
+    "pct_votants": 53.95,
+    "abstentions": 134,
+    "pct_abstentions": 46.05,
+    "exprimes": 146
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Une Equipe pour Agir",
+      "libelle_abrege_liste": "Une Equipe pour Agir",
+      "nuance_liste": null,
+      "voix": 146,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "HUGÉ",
+        "prenom": "Sébastien",
+        "nom_complet": "Sébastien HUGÉ",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "HUGÉ",
+          "prenom": "Sébastien",
+          "nom_complet": "Sébastien HUGÉ",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DEFFOLIN",
+          "prenom": "Maryse",
+          "nom_complet": "Maryse DEFFOLIN",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "PLANARD",
+          "prenom": "Guy",
+          "nom_complet": "Guy PLANARD",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BRUYERE",
+          "prenom": "Floriane",
+          "nom_complet": "Floriane BRUYERE",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "PIECHEL",
+          "prenom": "Gregory",
+          "nom_complet": "Gregory PIECHEL",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "BOUTILLIER",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie BOUTILLIER",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DUFRANNE",
+          "prenom": "Ludovic",
+          "nom_complet": "Ludovic DUFRANNE",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "GRÉGOIRE",
+          "prenom": "Claudine Marie-Noëlle",
+          "nom_complet": "Claudine Marie-Noëlle GRÉGOIRE",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "JOSQUIN",
+          "prenom": "David Léon Bernard",
+          "nom_complet": "David Léon Bernard JOSQUIN",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "ROBERT BOUTECHE",
+          "prenom": "Fadila",
+          "nom_complet": "Fadila ROBERT BOUTECHE",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DECRUCQ",
+          "prenom": "Didier",
+          "nom_complet": "Didier DECRUCQ",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

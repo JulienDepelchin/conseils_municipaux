@@ -1,0 +1,335 @@
+{
+  "code_commune": "59268",
+  "commune": "La Gorgue",
+  "departement": "Nord",
+  "tour": "T2",
+  "maire": {
+    "nom": "EVRARD",
+    "prenom": "Monique",
+    "nom_complet": "Monique EVRARD",
+    "age": 68,
+    "nuance": "LDVD"
+  },
+  "resultats": {
+    "inscrits": 4303,
+    "votants": 2613,
+    "pct_votants": 60.73,
+    "abstentions": 1690,
+    "pct_abstentions": 39.27,
+    "exprimes": 2567
+  },
+  "listes": [
+    {
+      "num_panneau": "3",
+      "libelle_liste": "La gorgue avenir",
+      "libelle_abrege_liste": "lga",
+      "nuance_liste": "LDVD",
+      "voix": 1309,
+      "pct_voix_exprimes": 50.99,
+      "sieges_cm": 23,
+      "sieges_cc": 5,
+      "nb_elus": 23,
+      "tete_de_liste": {
+        "nom": "EVRARD",
+        "prenom": "Monique",
+        "nom_complet": "Monique EVRARD",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "EVRARD",
+          "prenom": "Monique",
+          "nom_complet": "Monique EVRARD",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "MAHIEU",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe MAHIEU",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LEROY",
+          "prenom": "Anne-Sophie",
+          "nom_complet": "Anne-Sophie LEROY",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "NORO",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno NORO",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DURIBREU",
+          "prenom": "Fabienne",
+          "nom_complet": "Fabienne DURIBREU",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "TROISLOUCHES",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe TROISLOUCHES",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "MOUFLIN",
+          "prenom": "Laurene",
+          "nom_complet": "Laurene MOUFLIN",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "THUILLIERS",
+          "prenom": "Jean-Marc",
+          "nom_complet": "Jean-Marc THUILLIERS",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "LECOEUR",
+          "prenom": "Christine",
+          "nom_complet": "Christine LECOEUR",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "GRUEZ",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent GRUEZ",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "VERHAEGHE",
+          "prenom": "Marie-Thérèse",
+          "nom_complet": "Marie-Thérèse VERHAEGHE",
+          "sexe": "F",
+          "age": 80,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "LECLERCQ",
+          "prenom": "Cyril",
+          "nom_complet": "Cyril LECLERCQ",
+          "sexe": "M",
+          "age": 32,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "DOUAY",
+          "prenom": "Emilie",
+          "nom_complet": "Emilie DOUAY",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "CALONNE",
+          "prenom": "Christian",
+          "nom_complet": "Christian CALONNE",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "CORRIERE",
+          "prenom": "Dagmar",
+          "nom_complet": "Dagmar CORRIERE",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "ROGINSKY",
+          "prenom": "Alain",
+          "nom_complet": "Alain ROGINSKY",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "DUCOURANT",
+          "prenom": "Julie",
+          "nom_complet": "Julie DUCOURANT",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "PREVOST",
+          "prenom": "Thomas",
+          "nom_complet": "Thomas PREVOST",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "BOUQUET",
+          "prenom": "Rebecca",
+          "nom_complet": "Rebecca BOUQUET",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "LAMOITTE",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal LAMOITTE",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "DONZE",
+          "prenom": "Florence",
+          "nom_complet": "Florence DONZE",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "CAYET",
+          "prenom": "Francis",
+          "nom_complet": "Francis CAYET",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "BUSEYNE",
+          "prenom": "Laetitia",
+          "nom_complet": "Laetitia BUSEYNE",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "23"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "votre voix notre voie réunis pour la gorgue",
+      "libelle_abrege_liste": "vvnvrplg",
+      "nuance_liste": "LDIV",
+      "voix": 742,
+      "pct_voix_exprimes": 28.91,
+      "sieges_cm": 4,
+      "sieges_cc": 1,
+      "nb_elus": 4,
+      "tete_de_liste": {
+        "nom": "DUPAS",
+        "prenom": "Michel",
+        "nom_complet": "Michel DUPAS",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DUPAS",
+          "prenom": "Michel",
+          "nom_complet": "Michel DUPAS",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DEROCQ",
+          "prenom": "Sabine",
+          "nom_complet": "Sabine DEROCQ",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "PETYT",
+          "prenom": "Didier",
+          "nom_complet": "Didier PETYT",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "ERMÉ",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie ERMÉ",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "4"
+        }
+      ],
+      "statut_conseil": "autre"
+    },
+    {
+      "num_panneau": "4",
+      "libelle_liste": "Un nouvel élan avec vous pour la gorgue",
+      "libelle_abrege_liste": "uneavplg",
+      "nuance_liste": "LDIV",
+      "voix": 266,
+      "pct_voix_exprimes": 10.36,
+      "sieges_cm": 1,
+      "sieges_cc": 0,
+      "nb_elus": 1,
+      "tete_de_liste": {
+        "nom": "BROUTEELE",
+        "prenom": "Philippe",
+        "nom_complet": "Philippe BROUTEELE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BROUTEELE",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe BROUTEELE",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "1"
+        }
+      ],
+      "statut_conseil": "autre"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "La gorgue ensemble",
+      "libelle_abrege_liste": "lge",
+      "nuance_liste": "LDVD",
+      "voix": 250,
+      "pct_voix_exprimes": 9.74,
+      "sieges_cm": 1,
+      "sieges_cc": 0,
+      "nb_elus": 1,
+      "tete_de_liste": {
+        "nom": "MOUFLIN",
+        "prenom": "Caroline",
+        "nom_complet": "Caroline MOUFLIN",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "MOUFLIN",
+          "prenom": "Caroline",
+          "nom_complet": "Caroline MOUFLIN",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "1"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

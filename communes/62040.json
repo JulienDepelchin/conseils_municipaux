@@ -1,0 +1,315 @@
+{
+  "code_commune": "62040",
+  "commune": "Arques",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "ROUSSEL",
+    "prenom": "Benoît",
+    "nom_complet": "Benoît ROUSSEL",
+    "age": 38,
+    "nuance": "LDVG"
+  },
+  "resultats": {
+    "inscrits": 7230,
+    "votants": 4226,
+    "pct_votants": 58.45,
+    "abstentions": 3004,
+    "pct_abstentions": 41.55,
+    "exprimes": 4094
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ARQUES  LA FIERTE D'Y VIVRE ENSEMBLE",
+      "libelle_abrege_liste": "ARQUES LA FIERTE D'Y VIVRE ENSEMBLE",
+      "nuance_liste": "LDVG",
+      "voix": 2988,
+      "pct_voix_exprimes": 72.98,
+      "sieges_cm": 26,
+      "sieges_cc": 8,
+      "nb_elus": 26,
+      "tete_de_liste": {
+        "nom": "ROUSSEL",
+        "prenom": "Benoît",
+        "nom_complet": "Benoît ROUSSEL",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "ROUSSEL",
+          "prenom": "Benoît",
+          "nom_complet": "Benoît ROUSSEL",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BODDAERT",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie BODDAERT",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "MERCIER",
+          "prenom": "Thierry",
+          "nom_complet": "Thierry MERCIER",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "COURBOT",
+          "prenom": "Christine",
+          "nom_complet": "Christine COURBOT",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "FINARD",
+          "prenom": "Stéphane",
+          "nom_complet": "Stéphane FINARD",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "VERGRIETE",
+          "prenom": "Nadine",
+          "nom_complet": "Nadine VERGRIETE",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "CANLER",
+          "prenom": "Mickaël",
+          "nom_complet": "Mickaël CANLER",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "VERQUIN-LAGACHE",
+          "prenom": "Mathilde",
+          "nom_complet": "Mathilde VERQUIN-LAGACHE",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "LARGE",
+          "prenom": "Thierry",
+          "nom_complet": "Thierry LARGE",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "CLABAUX",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle CLABAUX",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "LARDEUR",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique LARDEUR",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "MARECAU",
+          "prenom": "Peggy",
+          "nom_complet": "Peggy MARECAU",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "PREDHOMME",
+          "prenom": "Francis",
+          "nom_complet": "Francis PREDHOMME",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "MOTHERON",
+          "prenom": "Lucie",
+          "nom_complet": "Lucie MOTHERON",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "DUCHATEAU",
+          "prenom": "Sébastien",
+          "nom_complet": "Sébastien DUCHATEAU",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "DELEPINE",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie DELEPINE",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "JUSTIN",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier JUSTIN",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "LEMAIRE",
+          "prenom": "Lydie",
+          "nom_complet": "Lydie LEMAIRE",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "GUTTMANN",
+          "prenom": "Jackie",
+          "nom_complet": "Jackie GUTTMANN",
+          "sexe": "M",
+          "age": 76,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "WACQUET",
+          "prenom": "Amélie",
+          "nom_complet": "Amélie WACQUET",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "WILQUIN",
+          "prenom": "Arnaud",
+          "nom_complet": "Arnaud WILQUIN",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "ALBISSER",
+          "prenom": "Coralie",
+          "nom_complet": "Coralie ALBISSER",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "WIMEZ",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno WIMEZ",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "23"
+        },
+        {
+          "nom": "PETITPREZ",
+          "prenom": "Oceane",
+          "nom_complet": "Oceane PETITPREZ",
+          "sexe": "F",
+          "age": 31,
+          "rang_liste": "24"
+        },
+        {
+          "nom": "BONIC",
+          "prenom": "Julien",
+          "nom_complet": "Julien BONIC",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "25"
+        },
+        {
+          "nom": "DELAVIEZ",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle DELAVIEZ",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "26"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "AGIR POUR ARQUES",
+      "libelle_abrege_liste": "AGIR POUR ARQUES",
+      "nuance_liste": "LDVD",
+      "voix": 641,
+      "pct_voix_exprimes": 15.66,
+      "sieges_cm": 2,
+      "sieges_cc": 0,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "RICOUART",
+        "prenom": "Vincent",
+        "nom_complet": "Vincent RICOUART",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "RICOUART",
+          "prenom": "Vincent",
+          "nom_complet": "Vincent RICOUART",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DA COSTA ANGELO",
+          "prenom": "Cécilia",
+          "nom_complet": "Cécilia DA COSTA ANGELO",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    },
+    {
+      "num_panneau": "3",
+      "libelle_liste": "Union Populaire Arquoise",
+      "libelle_abrege_liste": "Union Populaire Arquoise",
+      "nuance_liste": "LDVG",
+      "voix": 465,
+      "pct_voix_exprimes": 11.36,
+      "sieges_cm": 1,
+      "sieges_cc": 0,
+      "nb_elus": 1,
+      "tete_de_liste": {
+        "nom": "TALLEUX",
+        "prenom": "Didier",
+        "nom_complet": "Didier TALLEUX",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "TALLEUX",
+          "prenom": "Didier",
+          "nom_complet": "Didier TALLEUX",
+          "sexe": "M",
+          "age": 75,
+          "rang_liste": "1"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

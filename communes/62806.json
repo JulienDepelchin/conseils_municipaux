@@ -1,0 +1,131 @@
+{
+  "code_commune": "62806",
+  "commune": "Tardinghen",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "SEGARD",
+    "prenom": "Thibaut",
+    "nom_complet": "Thibaut SEGARD",
+    "age": 62,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 134,
+    "votants": 87,
+    "pct_votants": 64.93,
+    "abstentions": 47,
+    "pct_abstentions": 35.07,
+    "exprimes": 58
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "TOUS POUR TARDINGHEN",
+      "libelle_abrege_liste": "TOUS POUR TARDINGHEN",
+      "nuance_liste": null,
+      "voix": 58,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "SEGARD",
+        "prenom": "Thibaut",
+        "nom_complet": "Thibaut SEGARD",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "SEGARD",
+          "prenom": "Thibaut",
+          "nom_complet": "Thibaut SEGARD",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "TRIQUET",
+          "prenom": "Amélie",
+          "nom_complet": "Amélie TRIQUET",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DESROUSSEAUX",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe DESROUSSEAUX",
+          "sexe": "M",
+          "age": 76,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DORESSE",
+          "prenom": "Marie-France",
+          "nom_complet": "Marie-France DORESSE",
+          "sexe": "F",
+          "age": 74,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "GENEAU DE LAMARLIERE",
+          "prenom": "Marc-Paul",
+          "nom_complet": "Marc-Paul GENEAU DE LAMARLIERE",
+          "sexe": "M",
+          "age": 76,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DARRAS",
+          "prenom": "Valentine",
+          "nom_complet": "Valentine DARRAS",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BOULET",
+          "prenom": "Romain",
+          "nom_complet": "Romain BOULET",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DOISY",
+          "prenom": "Pia-Marie",
+          "nom_complet": "Pia-Marie DOISY",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "WILLEFERT",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe WILLEFERT",
+          "sexe": "M",
+          "age": 76,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "SEGARD",
+          "prenom": "Justine",
+          "nom_complet": "Justine SEGARD",
+          "sexe": "F",
+          "age": 19,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "OLIVIER",
+          "prenom": "Alexandre",
+          "nom_complet": "Alexandre OLIVIER",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

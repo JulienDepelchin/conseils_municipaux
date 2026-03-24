@@ -1,0 +1,163 @@
+{
+  "code_commune": "62903",
+  "commune": "Zoteux",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "LANCE",
+    "prenom": "Daniel",
+    "nom_complet": "Daniel LANCE",
+    "age": 55,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 429,
+    "votants": 277,
+    "pct_votants": 64.57,
+    "abstentions": 152,
+    "pct_abstentions": 35.43,
+    "exprimes": 222
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ZOTEUX CONTINUITE ET RENOUVEAU",
+      "libelle_abrege_liste": "ZOTEUX CONTINUITE ET RENOUVEAU",
+      "nuance_liste": null,
+      "voix": 222,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "LANCE",
+        "prenom": "Daniel",
+        "nom_complet": "Daniel LANCE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LANCE",
+          "prenom": "Daniel",
+          "nom_complet": "Daniel LANCE",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BOULET",
+          "prenom": "Leonie",
+          "nom_complet": "Leonie BOULET",
+          "sexe": "F",
+          "age": 20,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "ALEXANDRE",
+          "prenom": "Miguel",
+          "nom_complet": "Miguel ALEXANDRE",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BREFORT",
+          "prenom": "Alexiane",
+          "nom_complet": "Alexiane BREFORT",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "CARLU",
+          "prenom": "Corentin",
+          "nom_complet": "Corentin CARLU",
+          "sexe": "M",
+          "age": 29,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DAVERTON",
+          "prenom": "Fabienne",
+          "nom_complet": "Fabienne DAVERTON",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "CHIVET",
+          "prenom": "Fabrice",
+          "nom_complet": "Fabrice CHIVET",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LOEUILLIEUX",
+          "prenom": "Delphine",
+          "nom_complet": "Delphine LOEUILLIEUX",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DELPLANQUE",
+          "prenom": "Joel",
+          "nom_complet": "Joel DELPLANQUE",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "MERLOT",
+          "prenom": "Francoise",
+          "nom_complet": "Francoise MERLOT",
+          "sexe": "F",
+          "age": 79,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "FOURMANOIR",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe FOURMANOIR",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "SOUDAIN",
+          "prenom": "Delphine",
+          "nom_complet": "Delphine SOUDAIN",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "LACHERE",
+          "prenom": "Johann",
+          "nom_complet": "Johann LACHERE",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "VASSEUR",
+          "prenom": "Sandrine",
+          "nom_complet": "Sandrine VASSEUR",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "HOCHART",
+          "prenom": "Mathieu",
+          "nom_complet": "Mathieu HOCHART",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

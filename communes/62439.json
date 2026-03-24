@@ -1,0 +1,131 @@
+{
+  "code_commune": "62439",
+  "commune": "Hermelinghen",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "DUPONT",
+    "prenom": "Christophe",
+    "nom_complet": "Christophe DUPONT",
+    "age": 51,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 301,
+    "votants": 177,
+    "pct_votants": 58.8,
+    "abstentions": 124,
+    "pct_abstentions": 41.2,
+    "exprimes": 153
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Conservons notre ruralité",
+      "libelle_abrege_liste": "Conservons notre ruralité",
+      "nuance_liste": null,
+      "voix": 153,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "DUPONT",
+        "prenom": "Christophe",
+        "nom_complet": "Christophe DUPONT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DUPONT",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe DUPONT",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DELAMER",
+          "prenom": "Karine",
+          "nom_complet": "Karine DELAMER",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "CANLER",
+          "prenom": "Matthieu",
+          "nom_complet": "Matthieu CANLER",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "HERMILIER",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie HERMILIER",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LELEU",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno LELEU",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LECRAS",
+          "prenom": "Estelle",
+          "nom_complet": "Estelle LECRAS",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DORET",
+          "prenom": "Maxime",
+          "nom_complet": "Maxime DORET",
+          "sexe": "M",
+          "age": 34,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "SAGOT",
+          "prenom": "Mégane",
+          "nom_complet": "Mégane SAGOT",
+          "sexe": "F",
+          "age": 30,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "BONNINGUES",
+          "prenom": "Xavier",
+          "nom_complet": "Xavier BONNINGUES",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "VINCENT",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique VINCENT",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "LELEU",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric LELEU",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

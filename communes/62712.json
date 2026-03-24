@@ -1,0 +1,183 @@
+{
+  "code_commune": "62712",
+  "commune": "Rivière",
+  "departement": "Pas-de-Calais",
+  "tour": "T2",
+  "maire": {
+    "nom": "QUIGNON",
+    "prenom": "Julien",
+    "nom_complet": "Julien QUIGNON",
+    "age": 41,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 927,
+    "votants": 736,
+    "pct_votants": 79.4,
+    "abstentions": 191,
+    "pct_abstentions": 20.6,
+    "exprimes": 699
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "EN AVANT",
+      "libelle_abrege_liste": "EN AVANT",
+      "nuance_liste": null,
+      "voix": 399,
+      "pct_voix_exprimes": 57.08,
+      "sieges_cm": 12,
+      "sieges_cc": 1,
+      "nb_elus": 12,
+      "tete_de_liste": {
+        "nom": "QUIGNON",
+        "prenom": "Julien",
+        "nom_complet": "Julien QUIGNON",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "QUIGNON",
+          "prenom": "Julien",
+          "nom_complet": "Julien QUIGNON",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DE DONCKER",
+          "prenom": "Céline",
+          "nom_complet": "Céline DE DONCKER",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "FAUCON",
+          "prenom": "Jérémy",
+          "nom_complet": "Jérémy FAUCON",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BURMANN",
+          "prenom": "Catherine",
+          "nom_complet": "Catherine BURMANN",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "VIALENS",
+          "prenom": "Stéphane",
+          "nom_complet": "Stéphane VIALENS",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "KARASIAK",
+          "prenom": "Jennifer",
+          "nom_complet": "Jennifer KARASIAK",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "VERDAVOIR",
+          "prenom": "Rémy",
+          "nom_complet": "Rémy VERDAVOIR",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DARRAS",
+          "prenom": "Marie-Sophie",
+          "nom_complet": "Marie-Sophie DARRAS",
+          "sexe": "F",
+          "age": 72,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DESAILLY",
+          "prenom": "Jean-Claude",
+          "nom_complet": "Jean-Claude DESAILLY",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "BOULESTEIX",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie BOULESTEIX",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "BUCZKOWSKI",
+          "prenom": "Rodrigue",
+          "nom_complet": "Rodrigue BUCZKOWSKI",
+          "sexe": "M",
+          "age": 31,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "WAREMBOURG",
+          "prenom": "Audrey",
+          "nom_complet": "Audrey WAREMBOURG",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "12"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "TOUJOURS EN ACTION POUR PRÉSERVER RIVIERE",
+      "libelle_abrege_liste": "TOUJOURS EN ACTION POUR PRÉSERVER RIVIERE",
+      "nuance_liste": null,
+      "voix": 300,
+      "pct_voix_exprimes": 42.92,
+      "sieges_cm": 3,
+      "sieges_cc": 0,
+      "nb_elus": 3,
+      "tete_de_liste": {
+        "nom": "BERTEIN",
+        "prenom": "Gabriel",
+        "nom_complet": "Gabriel BERTEIN",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BERTEIN",
+          "prenom": "Gabriel",
+          "nom_complet": "Gabriel BERTEIN",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "GRENIER",
+          "prenom": "Brigitte",
+          "nom_complet": "Brigitte GRENIER",
+          "sexe": "F",
+          "age": 71,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "CONTART",
+          "prenom": "Alain",
+          "nom_complet": "Alain CONTART",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "3"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

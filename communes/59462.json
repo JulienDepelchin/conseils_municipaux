@@ -1,0 +1,279 @@
+{
+  "code_commune": "59462",
+  "commune": "Phalempin",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "LAZARO",
+    "prenom": "Thierry",
+    "nom_complet": "Thierry LAZARO",
+    "age": 65,
+    "nuance": "LDVD"
+  },
+  "resultats": {
+    "inscrits": 3880,
+    "votants": 2400,
+    "pct_votants": 61.86,
+    "abstentions": 1480,
+    "pct_abstentions": 38.14,
+    "exprimes": 2292
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "PHALEMPIN AVEC VOUS 2026",
+      "libelle_abrege_liste": "PHALEMPIN AVEC VOUS 2026",
+      "nuance_liste": "LDVD",
+      "voix": 1401,
+      "pct_voix_exprimes": 61.13,
+      "sieges_cm": 22,
+      "sieges_cc": 2,
+      "nb_elus": 22,
+      "tete_de_liste": {
+        "nom": "LAZARO",
+        "prenom": "Thierry",
+        "nom_complet": "Thierry LAZARO",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LAZARO",
+          "prenom": "Thierry",
+          "nom_complet": "Thierry LAZARO",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "CIETERS",
+          "prenom": "Marie",
+          "nom_complet": "Marie CIETERS",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "CLÉMENT",
+          "prenom": "Jean-Charles",
+          "nom_complet": "Jean-Charles CLÉMENT",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "MOLINERI DEVIENNE",
+          "prenom": "Aurélie",
+          "nom_complet": "Aurélie MOLINERI DEVIENNE",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DIEVART",
+          "prenom": "Alain",
+          "nom_complet": "Alain DIEVART",
+          "sexe": "M",
+          "age": 78,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "PLUSS",
+          "prenom": "Caroline",
+          "nom_complet": "Caroline PLUSS",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "TAILLEZ",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric TAILLEZ",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "AVRONS NOGRET",
+          "prenom": "Alice",
+          "nom_complet": "Alice AVRONS NOGRET",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "RAUX",
+          "prenom": "Benoît",
+          "nom_complet": "Benoît RAUX",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "MONTREUIL",
+          "prenom": "Mauve",
+          "nom_complet": "Mauve MONTREUIL",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "WIBAUX",
+          "prenom": "Didier",
+          "nom_complet": "Didier WIBAUX",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "MOREZ",
+          "prenom": "Annelise",
+          "nom_complet": "Annelise MOREZ",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "PETITPREZ",
+          "prenom": "Jean-Luc",
+          "nom_complet": "Jean-Luc PETITPREZ",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "BAILLEUL",
+          "prenom": "Sophie",
+          "nom_complet": "Sophie BAILLEUL",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "HENRY",
+          "prenom": "Emmanuel",
+          "nom_complet": "Emmanuel HENRY",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "OUDART",
+          "prenom": "Caroline",
+          "nom_complet": "Caroline OUDART",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "DROULEZ",
+          "prenom": "Yann",
+          "nom_complet": "Yann DROULEZ",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "DELLEMOTTE",
+          "prenom": "Lydie",
+          "nom_complet": "Lydie DELLEMOTTE",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "MORTREUX",
+          "prenom": "Mathieu",
+          "nom_complet": "Mathieu MORTREUX",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "MOITY",
+          "prenom": "Chantal",
+          "nom_complet": "Chantal MOITY",
+          "sexe": "F",
+          "age": 77,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "SION",
+          "prenom": "Alain",
+          "nom_complet": "Alain SION",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "MARLIOT",
+          "prenom": "Marie",
+          "nom_complet": "Marie MARLIOT",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "22"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "UNION POUR PHALEMPIN",
+      "libelle_abrege_liste": "UNION POUR PHALEMPIN",
+      "nuance_liste": "LDVC",
+      "voix": 891,
+      "pct_voix_exprimes": 38.87,
+      "sieges_cm": 5,
+      "sieges_cc": 0,
+      "nb_elus": 5,
+      "tete_de_liste": {
+        "nom": "RICOURT",
+        "prenom": "Thierry",
+        "nom_complet": "Thierry RICOURT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "RICOURT",
+          "prenom": "Thierry",
+          "nom_complet": "Thierry RICOURT",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "FACHAUX",
+          "prenom": "Laurine",
+          "nom_complet": "Laurine FACHAUX",
+          "sexe": "F",
+          "age": 24,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DANJOU",
+          "prenom": "François-Xavier",
+          "nom_complet": "François-Xavier DANJOU",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "CARDIN",
+          "prenom": "Anne",
+          "nom_complet": "Anne CARDIN",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "RIGAUD",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe RIGAUD",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "5"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

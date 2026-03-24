@@ -1,0 +1,247 @@
+{
+  "code_commune": "59316",
+  "commune": "Houplin-Ancoisne",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "GANTIEZ",
+    "prenom": "Dominique",
+    "nom_complet": "Dominique GANTIEZ",
+    "age": 72,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 2732,
+    "votants": 1702,
+    "pct_votants": 62.3,
+    "abstentions": 1030,
+    "pct_abstentions": 37.7,
+    "exprimes": 1626
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "AVEC VOUS, GARDONS LE CAP !",
+      "libelle_abrege_liste": "AVEC VOUS, GARDONS LE CAP !",
+      "nuance_liste": null,
+      "voix": 903,
+      "pct_voix_exprimes": 55.54,
+      "sieges_cm": 18,
+      "sieges_cc": 1,
+      "nb_elus": 18,
+      "tete_de_liste": {
+        "nom": "GANTIEZ",
+        "prenom": "Dominique",
+        "nom_complet": "Dominique GANTIEZ",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "GANTIEZ",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique GANTIEZ",
+          "sexe": "F",
+          "age": 72,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DELVAL",
+          "prenom": "Claude",
+          "nom_complet": "Claude DELVAL",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "RUSCART-SEVIN",
+          "prenom": "Delphine",
+          "nom_complet": "Delphine RUSCART-SEVIN",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DEBLOOS",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent DEBLOOS",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "VERDUYN",
+          "prenom": "Emilie",
+          "nom_complet": "Emilie VERDUYN",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "VANDRIESSCHE",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick VANDRIESSCHE",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "GOYER",
+          "prenom": "Marie-Laure",
+          "nom_complet": "Marie-Laure GOYER",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "PRATZ",
+          "prenom": "Lionel",
+          "nom_complet": "Lionel PRATZ",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "FROMENTEL POTTEAU",
+          "prenom": "Gisèle Monique",
+          "nom_complet": "Gisèle Monique FROMENTEL POTTEAU",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "WIPLIE",
+          "prenom": "Hervé",
+          "nom_complet": "Hervé WIPLIE",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "ALLOSSERY",
+          "prenom": "Marie-Laure",
+          "nom_complet": "Marie-Laure ALLOSSERY",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "BOCQUILLON",
+          "prenom": "Sébastien",
+          "nom_complet": "Sébastien BOCQUILLON",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "MASUREL",
+          "prenom": "Anne",
+          "nom_complet": "Anne MASUREL",
+          "sexe": "F",
+          "age": 75,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "ROSE",
+          "prenom": "Celestin",
+          "nom_complet": "Celestin ROSE",
+          "sexe": "M",
+          "age": 32,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "CHICOT",
+          "prenom": "Brigitte",
+          "nom_complet": "Brigitte CHICOT",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "RICHARD",
+          "prenom": "Valéry",
+          "nom_complet": "Valéry RICHARD",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "BOURBOTTE",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie BOURBOTTE",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "GUNADIZ",
+          "prenom": "Ali",
+          "nom_complet": "Ali GUNADIZ",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "18"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "HOUPLIN-ANCOISNE POUR VOUS, AVEC VOUS",
+      "libelle_abrege_liste": "HOUPLIN-ANCOISNE POUR VOUS, AVEC VOUS",
+      "nuance_liste": null,
+      "voix": 723,
+      "pct_voix_exprimes": 44.46,
+      "sieges_cm": 5,
+      "sieges_cc": 0,
+      "nb_elus": 5,
+      "tete_de_liste": {
+        "nom": "KALEBA",
+        "prenom": "Aline",
+        "nom_complet": "Aline KALEBA",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "KALEBA",
+          "prenom": "Aline",
+          "nom_complet": "Aline KALEBA",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DUTHOIT",
+          "prenom": "Valentin",
+          "nom_complet": "Valentin DUTHOIT",
+          "sexe": "M",
+          "age": 29,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LINTREPIDE",
+          "prenom": "Vanessa",
+          "nom_complet": "Vanessa LINTREPIDE",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LECLERCQ",
+          "prenom": "Sébastien",
+          "nom_complet": "Sébastien LECLERCQ",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "CRESPEL",
+          "prenom": "Faustine",
+          "nom_complet": "Faustine CRESPEL",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "5"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

@@ -1,0 +1,215 @@
+{
+  "code_commune": "62529",
+  "commune": "Lorgies",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "MARIINI",
+    "prenom": "Laetitia",
+    "nom_complet": "Laetitia MARIINI",
+    "age": 48,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1391,
+    "votants": 1002,
+    "pct_votants": 72.03,
+    "abstentions": 389,
+    "pct_abstentions": 27.97,
+    "exprimes": 986
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "AVANÇONS POUR LORGIES - CONTINUONS ENSEMBLE",
+      "libelle_abrege_liste": "AVANÇONS POUR LORGIES - CONTINUONS ENSEMBLE",
+      "nuance_liste": null,
+      "voix": 578,
+      "pct_voix_exprimes": 58.62,
+      "sieges_cm": 15,
+      "sieges_cc": 1,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "MARIINI",
+        "prenom": "Laetitia",
+        "nom_complet": "Laetitia MARIINI",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "MARIINI",
+          "prenom": "Laetitia",
+          "nom_complet": "Laetitia MARIINI",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "VAILLANT",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe VAILLANT",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "COURCOL",
+          "prenom": "Maryvonne",
+          "nom_complet": "Maryvonne COURCOL",
+          "sexe": "F",
+          "age": 77,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DUBOIS",
+          "prenom": "Fabrice",
+          "nom_complet": "Fabrice DUBOIS",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DESMAZIERES",
+          "prenom": "Emilie",
+          "nom_complet": "Emilie DESMAZIERES",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "GRAPIN",
+          "prenom": "Marc",
+          "nom_complet": "Marc GRAPIN",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "POULLAIN",
+          "prenom": "Anne-Charlotte",
+          "nom_complet": "Anne-Charlotte POULLAIN",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "HOCEDEZ",
+          "prenom": "Bernard",
+          "nom_complet": "Bernard HOCEDEZ",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "FLAMENT",
+          "prenom": "Amandine",
+          "nom_complet": "Amandine FLAMENT",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "CHARLET",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier CHARLET",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "ERNOULD",
+          "prenom": "Pauline",
+          "nom_complet": "Pauline ERNOULD",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "GAVOIS",
+          "prenom": "Stéphane",
+          "nom_complet": "Stéphane GAVOIS",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "COUPET",
+          "prenom": "Séverine",
+          "nom_complet": "Séverine COUPET",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "DUVIQUET",
+          "prenom": "Baptiste",
+          "nom_complet": "Baptiste DUVIQUET",
+          "sexe": "M",
+          "age": 25,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "BERTHÉ",
+          "prenom": "Ingrid",
+          "nom_complet": "Ingrid BERTHÉ",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "LORGIES LE LIEN QUI NOUS UNIT",
+      "libelle_abrege_liste": "LORGIES LE LIEN QUI NOUS UNIT",
+      "nuance_liste": null,
+      "voix": 408,
+      "pct_voix_exprimes": 41.38,
+      "sieges_cm": 4,
+      "sieges_cc": 0,
+      "nb_elus": 4,
+      "tete_de_liste": {
+        "nom": "DHALLUIN",
+        "prenom": "Jean-Claude",
+        "nom_complet": "Jean-Claude DHALLUIN",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DHALLUIN",
+          "prenom": "Jean-Claude",
+          "nom_complet": "Jean-Claude DHALLUIN",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DECROIX",
+          "prenom": "Béatrice",
+          "nom_complet": "Béatrice DECROIX",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BOCHET",
+          "prenom": "Joël",
+          "nom_complet": "Joël BOCHET",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "URBANIAK",
+          "prenom": "Véronique",
+          "nom_complet": "Véronique URBANIAK",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "4"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

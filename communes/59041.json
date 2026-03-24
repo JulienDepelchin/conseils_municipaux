@@ -1,0 +1,195 @@
+{
+  "code_commune": "59041",
+  "commune": "Bachant",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "ZELANI",
+    "prenom": "David",
+    "nom_complet": "David ZELANI",
+    "age": 58,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1727,
+    "votants": 781,
+    "pct_votants": 45.22,
+    "abstentions": 946,
+    "pct_abstentions": 54.78,
+    "exprimes": 581
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "TROIS GENERATIONS POUR AGIR A BACHANT",
+      "libelle_abrege_liste": "TROIS GENERATIONS POUR AGIR A BACHANT",
+      "nuance_liste": null,
+      "voix": 581,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 19,
+      "sieges_cc": 1,
+      "nb_elus": 19,
+      "tete_de_liste": {
+        "nom": "ZELANI",
+        "prenom": "David",
+        "nom_complet": "David ZELANI",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "ZELANI",
+          "prenom": "David",
+          "nom_complet": "David ZELANI",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DURIN",
+          "prenom": "Patricia",
+          "nom_complet": "Patricia DURIN",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LEQUEUX",
+          "prenom": "Ronald",
+          "nom_complet": "Ronald LEQUEUX",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "AGAG",
+          "prenom": "Marlene",
+          "nom_complet": "Marlene AGAG",
+          "sexe": "F",
+          "age": 33,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "MARTEVILLE",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal MARTEVILLE",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DEBOOSERE",
+          "prenom": "Marie-Anne",
+          "nom_complet": "Marie-Anne DEBOOSERE",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BERTAUX",
+          "prenom": "Guy",
+          "nom_complet": "Guy BERTAUX",
+          "sexe": "M",
+          "age": 78,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "MINON",
+          "prenom": "Marie-Ghislaine",
+          "nom_complet": "Marie-Ghislaine MINON",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "ZELANI",
+          "prenom": "Nathan",
+          "nom_complet": "Nathan ZELANI",
+          "sexe": "M",
+          "age": 32,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "LEQUEUX EPOUSE LEBOIS",
+          "prenom": "Florinne",
+          "nom_complet": "Florinne LEQUEUX EPOUSE LEBOIS",
+          "sexe": "F",
+          "age": 32,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "ISOREZ",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal ISOREZ",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "DEMEURE",
+          "prenom": "Celine",
+          "nom_complet": "Celine DEMEURE",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "LEPEZ",
+          "prenom": "Sebastien",
+          "nom_complet": "Sebastien LEPEZ",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "DUFRESNES",
+          "prenom": "Sandrine",
+          "nom_complet": "Sandrine DUFRESNES",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "DEHIER",
+          "prenom": "Gabriel",
+          "nom_complet": "Gabriel DEHIER",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "VALENTE",
+          "prenom": "Marine",
+          "nom_complet": "Marine VALENTE",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "FIEVET",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal FIEVET",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "DURIEUX",
+          "prenom": "Kimberley",
+          "nom_complet": "Kimberley DURIEUX",
+          "sexe": "F",
+          "age": 26,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "LOMBART",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno LOMBART",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "19"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

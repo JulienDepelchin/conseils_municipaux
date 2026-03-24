@@ -1,0 +1,227 @@
+{
+  "code_commune": "62300",
+  "commune": "Equihen-Plage",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "FOURCROY",
+    "prenom": "Christian",
+    "nom_complet": "Christian FOURCROY",
+    "age": 75,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 2053,
+    "votants": 1237,
+    "pct_votants": 60.25,
+    "abstentions": 816,
+    "pct_abstentions": 39.75,
+    "exprimes": 1069
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "POUR EQUIHEN-PLAGE, ENSEMBLE CONTINUONS",
+      "libelle_abrege_liste": "POUR EQUIHEN-PLAGE, ENSEMBLE CONTINUONS",
+      "nuance_liste": null,
+      "voix": 1069,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 23,
+      "sieges_cc": 1,
+      "nb_elus": 23,
+      "tete_de_liste": {
+        "nom": "FOURCROY",
+        "prenom": "Christian",
+        "nom_complet": "Christian FOURCROY",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "FOURCROY",
+          "prenom": "Christian",
+          "nom_complet": "Christian FOURCROY",
+          "sexe": "M",
+          "age": 75,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "TISSERAND",
+          "prenom": "Frédérique",
+          "nom_complet": "Frédérique TISSERAND",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "HODICQ",
+          "prenom": "Bertrand",
+          "nom_complet": "Bertrand HODICQ",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BEAUVOIS",
+          "prenom": "Martine",
+          "nom_complet": "Martine BEAUVOIS",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DUFOUR",
+          "prenom": "Franck",
+          "nom_complet": "Franck DUFOUR",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "FOURMEAU",
+          "prenom": "Claudine",
+          "nom_complet": "Claudine FOURMEAU",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BAILLIARD",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno BAILLIARD",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "MEGRET",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie MEGRET",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "GOBERT",
+          "prenom": "Sylvain",
+          "nom_complet": "Sylvain GOBERT",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "CRETEL",
+          "prenom": "Maryse",
+          "nom_complet": "Maryse CRETEL",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "GOURNAY",
+          "prenom": "Jean-Luc",
+          "nom_complet": "Jean-Luc GOURNAY",
+          "sexe": "M",
+          "age": 74,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "HERBEZ",
+          "prenom": "Christelle",
+          "nom_complet": "Christelle HERBEZ",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "LENNE",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent LENNE",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "SCHWAB",
+          "prenom": "Françoise",
+          "nom_complet": "Françoise SCHWAB",
+          "sexe": "F",
+          "age": 76,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "LAPIERRE",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique LAPIERRE",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "BAHEUX",
+          "prenom": "Justine",
+          "nom_complet": "Justine BAHEUX",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "BARMUTA",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe BARMUTA",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "GIN",
+          "prenom": "Adeline",
+          "nom_complet": "Adeline GIN",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "DAUCHY",
+          "prenom": "Georges",
+          "nom_complet": "Georges DAUCHY",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "MALFOY",
+          "prenom": "Laurie",
+          "nom_complet": "Laurie MALFOY",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "DELEPLACE",
+          "prenom": "Emmanuel",
+          "nom_complet": "Emmanuel DELEPLACE",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "MERLIN",
+          "prenom": "Katy",
+          "nom_complet": "Katy MERLIN",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "MAGNIER",
+          "prenom": "Tony",
+          "nom_complet": "Tony MAGNIER",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "23"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

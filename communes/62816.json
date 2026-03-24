@@ -1,0 +1,131 @@
+{
+  "code_commune": "62816",
+  "commune": "Tilloy-lès-Hermaville",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "DUCHATEAU",
+    "prenom": "David",
+    "nom_complet": "David DUCHATEAU",
+    "age": 56,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 172,
+    "votants": 128,
+    "pct_votants": 74.42,
+    "abstentions": 44,
+    "pct_abstentions": 25.58,
+    "exprimes": 110
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "\"Bien vivre à Tilloy\"",
+      "libelle_abrege_liste": "\"Bien vivre à Tilloy\"",
+      "nuance_liste": null,
+      "voix": 110,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "DUCHATEAU",
+        "prenom": "David",
+        "nom_complet": "David DUCHATEAU",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DUCHATEAU",
+          "prenom": "David",
+          "nom_complet": "David DUCHATEAU",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DHEE",
+          "prenom": "Josiane",
+          "nom_complet": "Josiane DHEE",
+          "sexe": "F",
+          "age": 72,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "GUISSE",
+          "prenom": "Vincent",
+          "nom_complet": "Vincent GUISSE",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DENNEQUIN",
+          "prenom": "Cécile",
+          "nom_complet": "Cécile DENNEQUIN",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "BODNAR",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric BODNAR",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DHOTEL",
+          "prenom": "Anne-Véronique",
+          "nom_complet": "Anne-Véronique DHOTEL",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BAILLEUL",
+          "prenom": "Alain",
+          "nom_complet": "Alain BAILLEUL",
+          "sexe": "M",
+          "age": 76,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "MONIER",
+          "prenom": "Laurence",
+          "nom_complet": "Laurence MONIER",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "CAUDRON",
+          "prenom": "Rémi",
+          "nom_complet": "Rémi CAUDRON",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DUPONT",
+          "prenom": "Coralie",
+          "nom_complet": "Coralie DUPONT",
+          "sexe": "F",
+          "age": 27,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "LONGUEMARE",
+          "prenom": "Ghislain",
+          "nom_complet": "Ghislain LONGUEMARE",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

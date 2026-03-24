@@ -1,0 +1,163 @@
+{
+  "code_commune": "59437",
+  "commune": "Noyelles-lès-Seclin",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "LENFANT",
+    "prenom": "Henri",
+    "nom_complet": "Henri LENFANT",
+    "age": 72,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 634,
+    "votants": 392,
+    "pct_votants": 61.83,
+    "abstentions": 242,
+    "pct_abstentions": 38.17,
+    "exprimes": 294
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ENSEMBLE POUR UN VILLAGE QUI NOUS RASSEMBLE",
+      "libelle_abrege_liste": "ENSEMBLE POUR UN VILLAGE QUI NOUS RASSEMBLE",
+      "nuance_liste": null,
+      "voix": 294,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "LENFANT",
+        "prenom": "Henri",
+        "nom_complet": "Henri LENFANT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LENFANT",
+          "prenom": "Henri",
+          "nom_complet": "Henri LENFANT",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "PENNEQUIN",
+          "prenom": "Laurence",
+          "nom_complet": "Laurence PENNEQUIN",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BLANCHART",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique BLANCHART",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "CORDONNIER",
+          "prenom": "Nadia",
+          "nom_complet": "Nadia CORDONNIER",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DUMORTIER",
+          "prenom": "Matthieu",
+          "nom_complet": "Matthieu DUMORTIER",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DEVESTEL",
+          "prenom": "Valerie",
+          "nom_complet": "Valerie DEVESTEL",
+          "sexe": "F",
+          "age": 93,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "GITS",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal GITS",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DUQUESNE",
+          "prenom": "Christine",
+          "nom_complet": "Christine DUQUESNE",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "GMYR",
+          "prenom": "Valery",
+          "nom_complet": "Valery GMYR",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "GUENIDEZ",
+          "prenom": "Sirine",
+          "nom_complet": "Sirine GUENIDEZ",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "HEROGUER",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe HEROGUER",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "GUICHARD",
+          "prenom": "Adeline",
+          "nom_complet": "Adeline GUICHARD",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "LAVERRE",
+          "prenom": "Didier",
+          "nom_complet": "Didier LAVERRE",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "REINE",
+          "prenom": "Sophie",
+          "nom_complet": "Sophie REINE",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "MALEJKA",
+          "prenom": "Sylvain",
+          "nom_complet": "Sylvain MALEJKA",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

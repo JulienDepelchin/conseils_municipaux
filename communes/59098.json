@@ -1,0 +1,279 @@
+{
+  "code_commune": "59098",
+  "commune": "Bousbecque",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "DESEIGNE",
+    "prenom": "Cédric",
+    "nom_complet": "Cédric DESEIGNE",
+    "age": 51,
+    "nuance": "LDVD"
+  },
+  "resultats": {
+    "inscrits": 3973,
+    "votants": 2115,
+    "pct_votants": 53.23,
+    "abstentions": 1858,
+    "pct_abstentions": 46.77,
+    "exprimes": 2050
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Nouvel Elan Pour Bousbecque",
+      "libelle_abrege_liste": "Nouvel Elan Pour Bousbecque",
+      "nuance_liste": "LDVD",
+      "voix": 1224,
+      "pct_voix_exprimes": 59.71,
+      "sieges_cm": 22,
+      "sieges_cc": 1,
+      "nb_elus": 22,
+      "tete_de_liste": {
+        "nom": "DESEIGNE",
+        "prenom": "Cédric",
+        "nom_complet": "Cédric DESEIGNE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DESEIGNE",
+          "prenom": "Cédric",
+          "nom_complet": "Cédric DESEIGNE",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "MOLS",
+          "prenom": "Marie-Christine",
+          "nom_complet": "Marie-Christine MOLS",
+          "sexe": "F",
+          "age": 74,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DE FACQ",
+          "prenom": "Jean",
+          "nom_complet": "Jean DE FACQ",
+          "sexe": "M",
+          "age": 78,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BRÉFORT",
+          "prenom": "Nelly",
+          "nom_complet": "Nelly BRÉFORT",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "HOUPLINE",
+          "prenom": "Yves",
+          "nom_complet": "Yves HOUPLINE",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DELEFORTRIE",
+          "prenom": "Christine",
+          "nom_complet": "Christine DELEFORTRIE",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DELEBECQUE",
+          "prenom": "André",
+          "nom_complet": "André DELEBECQUE",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DESEIGNE",
+          "prenom": "Euphélie",
+          "nom_complet": "Euphélie DESEIGNE",
+          "sexe": "F",
+          "age": 21,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "HOUTEKIET",
+          "prenom": "Eric",
+          "nom_complet": "Eric HOUTEKIET",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DUPONT",
+          "prenom": "Anita",
+          "nom_complet": "Anita DUPONT",
+          "sexe": "F",
+          "age": 73,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DELANNOY",
+          "prenom": "Ghislain",
+          "nom_complet": "Ghislain DELANNOY",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "DUCLOS",
+          "prenom": "Emilie",
+          "nom_complet": "Emilie DUCLOS",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "DESTAILLEUR",
+          "prenom": "Martial",
+          "nom_complet": "Martial DESTAILLEUR",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "DHALLUIN",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie DHALLUIN",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "DESCAMPS",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe DESCAMPS",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "DELANNOY",
+          "prenom": "Emma",
+          "nom_complet": "Emma DELANNOY",
+          "sexe": "F",
+          "age": 23,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "HUYGHE",
+          "prenom": "Mickaël",
+          "nom_complet": "Mickaël HUYGHE",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "ALLARD",
+          "prenom": "Myriam",
+          "nom_complet": "Myriam ALLARD",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "CHMIELARSKI",
+          "prenom": "Eric",
+          "nom_complet": "Eric CHMIELARSKI",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "PETIT",
+          "prenom": "Marie-Pierre",
+          "nom_complet": "Marie-Pierre PETIT",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "DISSE",
+          "prenom": "Sébastien",
+          "nom_complet": "Sébastien DISSE",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "DISSE",
+          "prenom": "Loane",
+          "nom_complet": "Loane DISSE",
+          "sexe": "F",
+          "age": 18,
+          "rang_liste": "22"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "AVEC LES BOUSBECQUOIS CONSTRUISONS DEMAIN",
+      "libelle_abrege_liste": "ABCD",
+      "nuance_liste": "LDVC",
+      "voix": 826,
+      "pct_voix_exprimes": 40.29,
+      "sieges_cm": 5,
+      "sieges_cc": 0,
+      "nb_elus": 5,
+      "tete_de_liste": {
+        "nom": "DELESCLUSE",
+        "prenom": "Christophe",
+        "nom_complet": "Christophe DELESCLUSE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DELESCLUSE",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe DELESCLUSE",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DESMETTRE",
+          "prenom": "Marcelle",
+          "nom_complet": "Marcelle DESMETTRE",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BAUDIN",
+          "prenom": "Stephane",
+          "nom_complet": "Stephane BAUDIN",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LEROY",
+          "prenom": "Christine",
+          "nom_complet": "Christine LEROY",
+          "sexe": "F",
+          "age": 72,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "RIBEIRO",
+          "prenom": "Ismael",
+          "nom_complet": "Ismael RIBEIRO",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "5"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

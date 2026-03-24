@@ -1,0 +1,227 @@
+{
+  "code_commune": "59346",
+  "commune": "Lezennes",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "DUFOUR",
+    "prenom": "Didier",
+    "nom_complet": "Didier DUFOUR",
+    "age": 63,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 2460,
+    "votants": 1232,
+    "pct_votants": 50.08,
+    "abstentions": 1228,
+    "pct_abstentions": 49.92,
+    "exprimes": 1026
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ENSEMBLE FAISONS VIVRE LEZENNES",
+      "libelle_abrege_liste": "ENSEMBLE FAISONS VIVRE LEZENNES",
+      "nuance_liste": null,
+      "voix": 1026,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 23,
+      "sieges_cc": 1,
+      "nb_elus": 23,
+      "tete_de_liste": {
+        "nom": "DUFOUR",
+        "prenom": "Didier",
+        "nom_complet": "Didier DUFOUR",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DUFOUR",
+          "prenom": "Didier",
+          "nom_complet": "Didier DUFOUR",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DUDENKO",
+          "prenom": "Aude",
+          "nom_complet": "Aude DUDENKO",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "SAGETTE",
+          "prenom": "Jean",
+          "nom_complet": "Jean SAGETTE",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DEPLECHIN",
+          "prenom": "Sandrine",
+          "nom_complet": "Sandrine DEPLECHIN",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "CHRETIEN",
+          "prenom": "Ludovic",
+          "nom_complet": "Ludovic CHRETIEN",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "SAGETTE",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie SAGETTE",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "MIRABAUD",
+          "prenom": "Cyril",
+          "nom_complet": "Cyril MIRABAUD",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "GAUDRON",
+          "prenom": "Gaëlle",
+          "nom_complet": "Gaëlle GAUDRON",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DUCHESNE",
+          "prenom": "Alexis",
+          "nom_complet": "Alexis DUCHESNE",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "LAVOISIER",
+          "prenom": "Lucienne",
+          "nom_complet": "Lucienne LAVOISIER",
+          "sexe": "F",
+          "age": 75,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "GODEFROY",
+          "prenom": "Marc",
+          "nom_complet": "Marc GODEFROY",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "DESCAMPS",
+          "prenom": "Frédérique",
+          "nom_complet": "Frédérique DESCAMPS",
+          "sexe": "F",
+          "age": 72,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "FARAJI",
+          "prenom": "Farid",
+          "nom_complet": "Farid FARAJI",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "MIRABAUD",
+          "prenom": "Raphaëlle",
+          "nom_complet": "Raphaëlle MIRABAUD",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "LACMANS",
+          "prenom": "Franck",
+          "nom_complet": "Franck LACMANS",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "STANASZEK",
+          "prenom": "Élodie",
+          "nom_complet": "Élodie STANASZEK",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "DESEURE",
+          "prenom": "Michael",
+          "nom_complet": "Michael DESEURE",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "PREVOST",
+          "prenom": "Pascaline",
+          "nom_complet": "Pascaline PREVOST",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "BABIK",
+          "prenom": "Edouard",
+          "nom_complet": "Edouard BABIK",
+          "sexe": "M",
+          "age": 21,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "PETIT",
+          "prenom": "Carole",
+          "nom_complet": "Carole PETIT",
+          "sexe": "F",
+          "age": 71,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "LORIDAN",
+          "prenom": "Reinald",
+          "nom_complet": "Reinald LORIDAN",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "DONDEYNE",
+          "prenom": "Cathy",
+          "nom_complet": "Cathy DONDEYNE",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "LEGER",
+          "prenom": "Quentin",
+          "nom_complet": "Quentin LEGER",
+          "sexe": "M",
+          "age": 30,
+          "rang_liste": "23"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

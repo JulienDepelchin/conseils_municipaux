@@ -1,0 +1,163 @@
+{
+  "code_commune": "59634",
+  "commune": "Wallon-Cappel",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "HEMELSDAEL",
+    "prenom": "Sylvie",
+    "nom_complet": "Sylvie HEMELSDAEL",
+    "age": 56,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 668,
+    "votants": 412,
+    "pct_votants": 61.68,
+    "abstentions": 256,
+    "pct_abstentions": 38.32,
+    "exprimes": 350
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "WALLON CAPPEL AU COEUR AGIR ENSEMBLE POUR DEMAIN",
+      "libelle_abrege_liste": "WCC",
+      "nuance_liste": null,
+      "voix": 350,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "HEMELSDAEL",
+        "prenom": "Sylvie",
+        "nom_complet": "Sylvie HEMELSDAEL",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "HEMELSDAEL",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie HEMELSDAEL",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "SMAL",
+          "prenom": "Eric",
+          "nom_complet": "Eric SMAL",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LESCIEUX",
+          "prenom": "Edwige",
+          "nom_complet": "Edwige LESCIEUX",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LAUWERIE",
+          "prenom": "Patrice",
+          "nom_complet": "Patrice LAUWERIE",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LAUWERIER",
+          "prenom": "Marie-Odile",
+          "nom_complet": "Marie-Odile LAUWERIER",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "POREYE",
+          "prenom": "François",
+          "nom_complet": "François POREYE",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "COLPAERT",
+          "prenom": "Julie",
+          "nom_complet": "Julie COLPAERT",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "ROUSSEL",
+          "prenom": "Benoit",
+          "nom_complet": "Benoit ROUSSEL",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DEFOORT",
+          "prenom": "Moena",
+          "nom_complet": "Moena DEFOORT",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DEHESTRU",
+          "prenom": "Fabrice",
+          "nom_complet": "Fabrice DEHESTRU",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DELVART",
+          "prenom": "Sarah",
+          "nom_complet": "Sarah DELVART",
+          "sexe": "F",
+          "age": 33,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "DONDEYNE",
+          "prenom": "François",
+          "nom_complet": "François DONDEYNE",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "MARCHYLLIE",
+          "prenom": "Laurence",
+          "nom_complet": "Laurence MARCHYLLIE",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "QUAEGEBEUR",
+          "prenom": "Brian",
+          "nom_complet": "Brian QUAEGEBEUR",
+          "sexe": "M",
+          "age": 33,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "ROLLANDT",
+          "prenom": "Anne-Lise",
+          "nom_complet": "Anne-Lise ROLLANDT",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

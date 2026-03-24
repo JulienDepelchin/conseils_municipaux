@@ -1,0 +1,275 @@
+{
+  "code_commune": "62563",
+  "commune": "Mazingarbe",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "POISSANT",
+    "prenom": "Laurent",
+    "nom_complet": "Laurent POISSANT",
+    "age": 47,
+    "nuance": "LDVG"
+  },
+  "resultats": {
+    "inscrits": 5771,
+    "votants": 2529,
+    "pct_votants": 43.82,
+    "abstentions": 3242,
+    "pct_abstentions": 56.18,
+    "exprimes": 2256
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "MAZINGARBE DEMAIN",
+      "libelle_abrege_liste": "MAZINGARBE DEMAIN",
+      "nuance_liste": "LDVG",
+      "voix": 2256,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 29,
+      "sieges_cc": 3,
+      "nb_elus": 29,
+      "tete_de_liste": {
+        "nom": "POISSANT",
+        "prenom": "Laurent",
+        "nom_complet": "Laurent POISSANT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "POISSANT",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent POISSANT",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DUHAMEL",
+          "prenom": "Anne-Marie",
+          "nom_complet": "Anne-Marie DUHAMEL",
+          "sexe": "F",
+          "age": 73,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DRUMEZ",
+          "prenom": "Romain",
+          "nom_complet": "Romain DRUMEZ",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "QUESTE SLIWINSKI",
+          "prenom": "Cindy",
+          "nom_complet": "Cindy QUESTE SLIWINSKI",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "COMPARON",
+          "prenom": "Didier",
+          "nom_complet": "Didier COMPARON",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DAUTRICHE WAELES",
+          "prenom": "Nadine",
+          "nom_complet": "Nadine DAUTRICHE WAELES",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "CARON",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe CARON",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "FRUCHART",
+          "prenom": "Perrine",
+          "nom_complet": "Perrine FRUCHART",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "LOTHE",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno LOTHE",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "PASSERIEUX",
+          "prenom": "Sophie",
+          "nom_complet": "Sophie PASSERIEUX",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DUPRIEZ",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent DUPRIEZ",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "FRARIN",
+          "prenom": "Suzy",
+          "nom_complet": "Suzy FRARIN",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "TOBO",
+          "prenom": "Sylvain",
+          "nom_complet": "Sylvain TOBO",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "KUBISIAK",
+          "prenom": "Laure",
+          "nom_complet": "Laure KUBISIAK",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "VERSCHELDEN",
+          "prenom": "Gregory",
+          "nom_complet": "Gregory VERSCHELDEN",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "DESLYPER",
+          "prenom": "Aurelie",
+          "nom_complet": "Aurelie DESLYPER",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "BROULIN",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier BROULIN",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "NESSAL DJELLOUD",
+          "prenom": "Marion",
+          "nom_complet": "Marion NESSAL DJELLOUD",
+          "sexe": "F",
+          "age": 31,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "OUVRY",
+          "prenom": "Joël",
+          "nom_complet": "Joël OUVRY",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "EVRARD COURTIN",
+          "prenom": "Marie-Claire",
+          "nom_complet": "Marie-Claire EVRARD COURTIN",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "VANDAPEL",
+          "prenom": "Franck",
+          "nom_complet": "Franck VANDAPEL",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "LOCQUET BAILLOEUIL",
+          "prenom": "Delphine",
+          "nom_complet": "Delphine LOCQUET BAILLOEUIL",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "BIGOURD",
+          "prenom": "Joël",
+          "nom_complet": "Joël BIGOURD",
+          "sexe": "M",
+          "age": 74,
+          "rang_liste": "23"
+        },
+        {
+          "nom": "GUILLEMANT",
+          "prenom": "Jennifer",
+          "nom_complet": "Jennifer GUILLEMANT",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "24"
+        },
+        {
+          "nom": "KACZOR",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas KACZOR",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "25"
+        },
+        {
+          "nom": "CARPENTIER - KOSIAK",
+          "prenom": "Celine",
+          "nom_complet": "Celine CARPENTIER - KOSIAK",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "26"
+        },
+        {
+          "nom": "CAILLIAUX",
+          "prenom": "Sebastien",
+          "nom_complet": "Sebastien CAILLIAUX",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "27"
+        },
+        {
+          "nom": "DAUSSE",
+          "prenom": "Myliane",
+          "nom_complet": "Myliane DAUSSE",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "28"
+        },
+        {
+          "nom": "LAIGLE",
+          "prenom": "Daniel",
+          "nom_complet": "Daniel LAIGLE",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "29"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

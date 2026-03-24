@@ -1,0 +1,195 @@
+{
+  "code_commune": "59387",
+  "commune": "Marquette-en-Ostrevant",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "TONDEUR",
+    "prenom": "Jean-Marie",
+    "nom_complet": "Jean-Marie TONDEUR",
+    "age": 73,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1234,
+    "votants": 700,
+    "pct_votants": 56.73,
+    "abstentions": 534,
+    "pct_abstentions": 43.27,
+    "exprimes": 632
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "AGISSONS POUR UNE COMMUNE DYNAMIQUE ET MODERNE",
+      "libelle_abrege_liste": "AGISSONS POUR UNE COMMUNE DYNAMIQUE ET MODERNE",
+      "nuance_liste": null,
+      "voix": 632,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 19,
+      "sieges_cc": 1,
+      "nb_elus": 19,
+      "tete_de_liste": {
+        "nom": "TONDEUR",
+        "prenom": "Jean-Marie",
+        "nom_complet": "Jean-Marie TONDEUR",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "TONDEUR",
+          "prenom": "Jean-Marie",
+          "nom_complet": "Jean-Marie TONDEUR",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "CARPENTIER",
+          "prenom": "Brigitte",
+          "nom_complet": "Brigitte CARPENTIER",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DUBOIS",
+          "prenom": "Jean-Yves",
+          "nom_complet": "Jean-Yves DUBOIS",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "SCHOLAERT",
+          "prenom": "Myriam",
+          "nom_complet": "Myriam SCHOLAERT",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "MARECHAL",
+          "prenom": "Jean-Maurice",
+          "nom_complet": "Jean-Maurice MARECHAL",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DUTAILLY",
+          "prenom": "Anne",
+          "nom_complet": "Anne DUTAILLY",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "POULAIN",
+          "prenom": "Jean-Paul",
+          "nom_complet": "Jean-Paul POULAIN",
+          "sexe": "M",
+          "age": 75,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "MICHEL",
+          "prenom": "Cathy",
+          "nom_complet": "Cathy MICHEL",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "MERESSE",
+          "prenom": "Eric",
+          "nom_complet": "Eric MERESSE",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "WATERLOT",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie WATERLOT",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "JABLONSKI",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick JABLONSKI",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "DOLET",
+          "prenom": "Marie",
+          "nom_complet": "Marie DOLET",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "POULAIN",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal POULAIN",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "JOSPIN",
+          "prenom": "Catherine",
+          "nom_complet": "Catherine JOSPIN",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "ROTOLO",
+          "prenom": "David",
+          "nom_complet": "David ROTOLO",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "MOREAU",
+          "prenom": "Géraldine",
+          "nom_complet": "Géraldine MOREAU",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "VALANSOMME",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe VALANSOMME",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "PIELGRZYM",
+          "prenom": "Marie",
+          "nom_complet": "Marie PIELGRZYM",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "DEMARTHE",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas DEMARTHE",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "19"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

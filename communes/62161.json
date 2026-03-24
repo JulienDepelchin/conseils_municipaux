@@ -1,0 +1,183 @@
+{
+  "code_commune": "62161",
+  "commune": "Bouquehault",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "MELIN",
+    "prenom": "Lucien",
+    "nom_complet": "Lucien MELIN",
+    "age": 60,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 534,
+    "votants": 433,
+    "pct_votants": 81.09,
+    "abstentions": 101,
+    "pct_abstentions": 18.91,
+    "exprimes": 410
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Ensemble pour Bouquehault",
+      "libelle_abrege_liste": "Ensemble pour Bouquehault",
+      "nuance_liste": null,
+      "voix": 235,
+      "pct_voix_exprimes": 57.32,
+      "sieges_cm": 12,
+      "sieges_cc": null,
+      "nb_elus": 12,
+      "tete_de_liste": {
+        "nom": "MELIN",
+        "prenom": "Lucien",
+        "nom_complet": "Lucien MELIN",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "MELIN",
+          "prenom": "Lucien",
+          "nom_complet": "Lucien MELIN",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "MERLEN",
+          "prenom": "Claudine",
+          "nom_complet": "Claudine MERLEN",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BACHELARD",
+          "prenom": "Grégory",
+          "nom_complet": "Grégory BACHELARD",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LEROY",
+          "prenom": "Catherine",
+          "nom_complet": "Catherine LEROY",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DELACOURT",
+          "prenom": "Michaël",
+          "nom_complet": "Michaël DELACOURT",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "SANTER",
+          "prenom": "Julia",
+          "nom_complet": "Julia SANTER",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "PERALDI",
+          "prenom": "Antoine",
+          "nom_complet": "Antoine PERALDI",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "BOUSSEKEY",
+          "prenom": "Pauline",
+          "nom_complet": "Pauline BOUSSEKEY",
+          "sexe": "F",
+          "age": 31,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "VANDROMME",
+          "prenom": "Thibaut",
+          "nom_complet": "Thibaut VANDROMME",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DUHAUTOY",
+          "prenom": "Lucie",
+          "nom_complet": "Lucie DUHAUTOY",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "BILLERAIT",
+          "prenom": "Sébastien",
+          "nom_complet": "Sébastien BILLERAIT",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "COCQUET",
+          "prenom": "Mélanie",
+          "nom_complet": "Mélanie COCQUET",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "12"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "BOUQUEHAULT...PLACE A L AVENIR !!",
+      "libelle_abrege_liste": "BOUQUEHAULT...PLACE A L AVENIR !!",
+      "nuance_liste": null,
+      "voix": 175,
+      "pct_voix_exprimes": 42.68,
+      "sieges_cm": 3,
+      "sieges_cc": null,
+      "nb_elus": 3,
+      "tete_de_liste": {
+        "nom": "NOEL",
+        "prenom": "François",
+        "nom_complet": "François NOEL",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "NOEL",
+          "prenom": "François",
+          "nom_complet": "François NOEL",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "MAEGHT",
+          "prenom": "Linda",
+          "nom_complet": "Linda MAEGHT",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DRAIN",
+          "prenom": "Gaetan",
+          "nom_complet": "Gaetan DRAIN",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "3"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

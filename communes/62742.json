@@ -1,0 +1,151 @@
+{
+  "code_commune": "62742",
+  "commune": "Saint-Aubin",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "LECAT",
+    "prenom": "Thierry",
+    "nom_complet": "Thierry LECAT",
+    "age": 73,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 271,
+    "votants": 213,
+    "pct_votants": 78.6,
+    "abstentions": 58,
+    "pct_abstentions": 21.4,
+    "exprimes": 211
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Saint-Aubin 2026",
+      "libelle_abrege_liste": "Saint-Aubin 2026",
+      "nuance_liste": null,
+      "voix": 141,
+      "pct_voix_exprimes": 66.82,
+      "sieges_cm": 10,
+      "sieges_cc": null,
+      "nb_elus": 10,
+      "tete_de_liste": {
+        "nom": "LECAT",
+        "prenom": "Thierry",
+        "nom_complet": "Thierry LECAT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LECAT",
+          "prenom": "Thierry",
+          "nom_complet": "Thierry LECAT",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LAUZEL",
+          "prenom": "Béatrice",
+          "nom_complet": "Béatrice LAUZEL",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "THILLIEZ",
+          "prenom": "Benoit",
+          "nom_complet": "Benoit THILLIEZ",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "MAILLARD",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie MAILLARD",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "MARIE",
+          "prenom": "Jean-Pierre",
+          "nom_complet": "Jean-Pierre MARIE",
+          "sexe": "M",
+          "age": 77,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DALMASSO",
+          "prenom": "Anne",
+          "nom_complet": "Anne DALMASSO",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "MASSET",
+          "prenom": "Antoine",
+          "nom_complet": "Antoine MASSET",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "VERNY",
+          "prenom": "Yasmina",
+          "nom_complet": "Yasmina VERNY",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "POULAIN",
+          "prenom": "Gilbert",
+          "nom_complet": "Gilbert POULAIN",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "SAGETTE",
+          "prenom": "Patricia",
+          "nom_complet": "Patricia SAGETTE",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "10"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "Saint-Aubin, Vivre ensemble",
+      "libelle_abrege_liste": "Saint-Aubin, Vivre ensemble",
+      "nuance_liste": null,
+      "voix": 70,
+      "pct_voix_exprimes": 33.18,
+      "sieges_cm": 1,
+      "sieges_cc": null,
+      "nb_elus": 1,
+      "tete_de_liste": {
+        "nom": "LIGNEUL",
+        "prenom": "Patrice",
+        "nom_complet": "Patrice LIGNEUL",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LIGNEUL",
+          "prenom": "Patrice",
+          "nom_complet": "Patrice LIGNEUL",
+          "sexe": "M",
+          "age": 76,
+          "rang_liste": "1"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "code_commune": "62697",
+  "commune": "Récourt",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "DELANNOY",
+    "prenom": "Danièle",
+    "nom_complet": "Danièle DELANNOY",
+    "age": 69,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 213,
+    "votants": 133,
+    "pct_votants": 62.44,
+    "abstentions": 80,
+    "pct_abstentions": 37.56,
+    "exprimes": 123
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ENSEMBLE POUR RECOURT",
+      "libelle_abrege_liste": "ENSEMBLE POUR RECOURT",
+      "nuance_liste": null,
+      "voix": 123,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "DELANNOY",
+        "prenom": "Danièle",
+        "nom_complet": "Danièle DELANNOY",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "DELANNOY",
+          "prenom": "Danièle",
+          "nom_complet": "Danièle DELANNOY",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DESCATOIRES",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas DESCATOIRES",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "PARENT",
+          "prenom": "Séverine",
+          "nom_complet": "Séverine PARENT",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "HERBIN",
+          "prenom": "Mickaël",
+          "nom_complet": "Mickaël HERBIN",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LERÈCHE",
+          "prenom": "Margo",
+          "nom_complet": "Margo LERÈCHE",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LHERMITTE",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal LHERMITTE",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "HARD",
+          "prenom": "Amandine",
+          "nom_complet": "Amandine HARD",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "GENDERKA",
+          "prenom": "Benoît",
+          "nom_complet": "Benoît GENDERKA",
+          "sexe": "M",
+          "age": 32,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DUQUESNOY",
+          "prenom": "Manon",
+          "nom_complet": "Manon DUQUESNOY",
+          "sexe": "F",
+          "age": 22,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DEWEZ",
+          "prenom": "Vincent",
+          "nom_complet": "Vincent DEWEZ",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "PROUVIER",
+          "prenom": "Pamela",
+          "nom_complet": "Pamela PROUVIER",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

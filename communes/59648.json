@@ -1,0 +1,347 @@
+{
+  "code_commune": "59648",
+  "commune": "Wattignies",
+  "departement": "Nord",
+  "tour": "T2",
+  "maire": {
+    "nom": "FAUCOMPREZ",
+    "prenom": "Frederic",
+    "nom_complet": "Frederic FAUCOMPREZ",
+    "age": 56,
+    "nuance": "LDVD"
+  },
+  "resultats": {
+    "inscrits": 9687,
+    "votants": 5161,
+    "pct_votants": 53.28,
+    "abstentions": 4526,
+    "pct_abstentions": 46.72,
+    "exprimes": 5080
+  },
+  "listes": [
+    {
+      "num_panneau": "3",
+      "libelle_liste": "WATTIGNIES C'EST VOUS POUR VOUS",
+      "libelle_abrege_liste": "WATTIGNIES C'EST VOUS POUR VOUS",
+      "nuance_liste": "LDVD",
+      "voix": 2353,
+      "pct_voix_exprimes": 46.32,
+      "sieges_cm": 24,
+      "sieges_cc": 2,
+      "nb_elus": 24,
+      "tete_de_liste": {
+        "nom": "FAUCOMPREZ",
+        "prenom": "Frederic",
+        "nom_complet": "Frederic FAUCOMPREZ",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "FAUCOMPREZ",
+          "prenom": "Frederic",
+          "nom_complet": "Frederic FAUCOMPREZ",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "VAAST",
+          "prenom": "Florence",
+          "nom_complet": "Florence VAAST",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "PLANQUART",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe PLANQUART",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "MOREAUX",
+          "prenom": "Maryse",
+          "nom_complet": "Maryse MOREAUX",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "HINCELIN",
+          "prenom": "Luc",
+          "nom_complet": "Luc HINCELIN",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "HERBAUT",
+          "prenom": "Francine",
+          "nom_complet": "Francine HERBAUT",
+          "sexe": "F",
+          "age": 73,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "MOREAU",
+          "prenom": "Benoit",
+          "nom_complet": "Benoit MOREAU",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "KOUSTANAÏ",
+          "prenom": "Julie",
+          "nom_complet": "Julie KOUSTANAÏ",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "POTTIER",
+          "prenom": "David",
+          "nom_complet": "David POTTIER",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "WAYMEL",
+          "prenom": "Martine",
+          "nom_complet": "Martine WAYMEL",
+          "sexe": "F",
+          "age": 72,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "BUTIN",
+          "prenom": "Alain",
+          "nom_complet": "Alain BUTIN",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "LEGRAND",
+          "prenom": "Helene",
+          "nom_complet": "Helene LEGRAND",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "TAISNE",
+          "prenom": "Eric",
+          "nom_complet": "Eric TAISNE",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "LEMAY",
+          "prenom": "Audrey",
+          "nom_complet": "Audrey LEMAY",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "LOISON",
+          "prenom": "Sacha",
+          "nom_complet": "Sacha LOISON",
+          "sexe": "M",
+          "age": 22,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "POLLET",
+          "prenom": "Sonia",
+          "nom_complet": "Sonia POLLET",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "NGOUNOU",
+          "prenom": "Rigobert",
+          "nom_complet": "Rigobert NGOUNOU",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "NIEUWJAER",
+          "prenom": "Sabine",
+          "nom_complet": "Sabine NIEUWJAER",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "BADIER",
+          "prenom": "Benoit",
+          "nom_complet": "Benoit BADIER",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "LAURENT",
+          "prenom": "Catherine",
+          "nom_complet": "Catherine LAURENT",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "HAZEBROUCK",
+          "prenom": "Benoit",
+          "nom_complet": "Benoit HAZEBROUCK",
+          "sexe": "M",
+          "age": 27,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "DOMZALSKI",
+          "prenom": "Marie-Claude",
+          "nom_complet": "Marie-Claude DOMZALSKI",
+          "sexe": "F",
+          "age": 73,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "SMETS",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas SMETS",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "23"
+        },
+        {
+          "nom": "MOUQUET",
+          "prenom": "Tourria",
+          "nom_complet": "Tourria MOUQUET",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "24"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "UNIS POUR WATTIGNIES",
+      "libelle_abrege_liste": "UNIS POUR WATTIGNIES",
+      "nuance_liste": "LDVG",
+      "voix": 1784,
+      "pct_voix_exprimes": 35.12,
+      "sieges_cm": 6,
+      "sieges_cc": 0,
+      "nb_elus": 6,
+      "tete_de_liste": {
+        "nom": "GUIHARD",
+        "prenom": "Marion",
+        "nom_complet": "Marion GUIHARD",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "GUIHARD",
+          "prenom": "Marion",
+          "nom_complet": "Marion GUIHARD",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "JENDAR",
+          "prenom": "Mohamed",
+          "nom_complet": "Mohamed JENDAR",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "GUILLOTON-VALLUIS",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle GUILLOTON-VALLUIS",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BROHARD",
+          "prenom": "Yannick",
+          "nom_complet": "Yannick BROHARD",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "CAËCKE",
+          "prenom": "Anne-Sophie",
+          "nom_complet": "Anne-Sophie CAËCKE",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DHERBECOURT",
+          "prenom": "Fabrice",
+          "nom_complet": "Fabrice DHERBECOURT",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "6"
+        }
+      ],
+      "statut_conseil": "autre"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "NOUVELLE ENERGIE WATTIGNIES",
+      "libelle_abrege_liste": "NOUVELLE ENERGIE WATTIGNIES",
+      "nuance_liste": "LDVC",
+      "voix": 943,
+      "pct_voix_exprimes": 18.56,
+      "sieges_cm": 3,
+      "sieges_cc": 0,
+      "nb_elus": 3,
+      "tete_de_liste": {
+        "nom": "GOSSET",
+        "prenom": "Olivier",
+        "nom_complet": "Olivier GOSSET",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "GOSSET",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier GOSSET",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LE ROUX",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie LE ROUX",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "CARPENTIER",
+          "prenom": "Gilles",
+          "nom_complet": "Gilles CARPENTIER",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "3"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

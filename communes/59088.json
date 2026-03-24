@@ -1,0 +1,195 @@
+{
+  "code_commune": "59088",
+  "commune": "Bois-Grenier",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "DELEPAUL",
+    "prenom": "Michel",
+    "nom_complet": "Michel DELEPAUL",
+    "age": 70,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1491,
+    "votants": 778,
+    "pct_votants": 52.18,
+    "abstentions": 713,
+    "pct_abstentions": 47.82,
+    "exprimes": 675
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Un village, une équipe, un avenir partagé",
+      "libelle_abrege_liste": "Un village, une équipe, un avenir partagé",
+      "nuance_liste": null,
+      "voix": 675,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 19,
+      "sieges_cc": 1,
+      "nb_elus": 19,
+      "tete_de_liste": {
+        "nom": "DELEPAUL",
+        "prenom": "Michel",
+        "nom_complet": "Michel DELEPAUL",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DELEPAUL",
+          "prenom": "Michel",
+          "nom_complet": "Michel DELEPAUL",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LACONTE",
+          "prenom": "Anne",
+          "nom_complet": "Anne LACONTE",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BRAME",
+          "prenom": "Albert",
+          "nom_complet": "Albert BRAME",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "CARON",
+          "prenom": "Christine",
+          "nom_complet": "Christine CARON",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "CARLIER",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier CARLIER",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "ELOIRE-COLAS",
+          "prenom": "Christine",
+          "nom_complet": "Christine ELOIRE-COLAS",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "SPRUYT",
+          "prenom": "Thibaut",
+          "nom_complet": "Thibaut SPRUYT",
+          "sexe": "M",
+          "age": 34,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "JOURDAIN ROUSSEL",
+          "prenom": "Ghislaine",
+          "nom_complet": "Ghislaine JOURDAIN ROUSSEL",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DUPONTREUE",
+          "prenom": "Thierry",
+          "nom_complet": "Thierry DUPONTREUE",
+          "sexe": "M",
+          "age": 33,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "CONTAY",
+          "prenom": "Brigitte",
+          "nom_complet": "Brigitte CONTAY",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "CARON",
+          "prenom": "Romain",
+          "nom_complet": "Romain CARON",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "MIELLET",
+          "prenom": "Claire",
+          "nom_complet": "Claire MIELLET",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "LEDOUX",
+          "prenom": "Antoine",
+          "nom_complet": "Antoine LEDOUX",
+          "sexe": "M",
+          "age": 31,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "DELQUEUX",
+          "prenom": "Coralie",
+          "nom_complet": "Coralie DELQUEUX",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "ATSU-GLEGLEDZI",
+          "prenom": "Akouete Flo",
+          "nom_complet": "Akouete Flo ATSU-GLEGLEDZI",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "BRACKE",
+          "prenom": "Charlotte",
+          "nom_complet": "Charlotte BRACKE",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "SPETEBROOT",
+          "prenom": "Yan",
+          "nom_complet": "Yan SPETEBROOT",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "SLEMBROUCK",
+          "prenom": "Marie",
+          "nom_complet": "Marie SLEMBROUCK",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "VANBRUGGHE",
+          "prenom": "Régis",
+          "nom_complet": "Régis VANBRUGGHE",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "19"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

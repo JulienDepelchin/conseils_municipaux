@@ -1,0 +1,195 @@
+{
+  "code_commune": "62721",
+  "commune": "Roquetoire",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "BOIDIN",
+    "prenom": "Véronique",
+    "nom_complet": "Véronique BOIDIN",
+    "age": 61,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1693,
+    "votants": 1061,
+    "pct_votants": 62.67,
+    "abstentions": 632,
+    "pct_abstentions": 37.33,
+    "exprimes": 766
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Roquetoire, un village qui avance avec vous",
+      "libelle_abrege_liste": "Roquetoire, un village qui avance avec vous",
+      "nuance_liste": null,
+      "voix": 766,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 19,
+      "sieges_cc": 1,
+      "nb_elus": 19,
+      "tete_de_liste": {
+        "nom": "BOIDIN",
+        "prenom": "Véronique",
+        "nom_complet": "Véronique BOIDIN",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "BOIDIN",
+          "prenom": "Véronique",
+          "nom_complet": "Véronique BOIDIN",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "HENNERON",
+          "prenom": "François",
+          "nom_complet": "François HENNERON",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "WASSELIN",
+          "prenom": "Patricia",
+          "nom_complet": "Patricia WASSELIN",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "CEUGNIET",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent CEUGNIET",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DUCROCQ",
+          "prenom": "Aurélie",
+          "nom_complet": "Aurélie DUCROCQ",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "NOURRY",
+          "prenom": "Daniel",
+          "nom_complet": "Daniel NOURRY",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DARQUE",
+          "prenom": "Ludivine",
+          "nom_complet": "Ludivine DARQUE",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "MARTEL",
+          "prenom": "Patrice",
+          "nom_complet": "Patrice MARTEL",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "CALAU",
+          "prenom": "Lydie",
+          "nom_complet": "Lydie CALAU",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "FRANCOIS",
+          "prenom": "Vincent",
+          "nom_complet": "Vincent FRANCOIS",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "BARBIER",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle BARBIER",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "HIDOUX",
+          "prenom": "Jonathan",
+          "nom_complet": "Jonathan HIDOUX",
+          "sexe": "M",
+          "age": 34,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "FERRIER",
+          "prenom": "Christine",
+          "nom_complet": "Christine FERRIER",
+          "sexe": "F",
+          "age": 77,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "PENEL",
+          "prenom": "Jean-Pierre",
+          "nom_complet": "Jean-Pierre PENEL",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "DUPUIS",
+          "prenom": "Monique",
+          "nom_complet": "Monique DUPUIS",
+          "sexe": "F",
+          "age": 72,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "BULTEL",
+          "prenom": "Mathieu",
+          "nom_complet": "Mathieu BULTEL",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "VERWAERDE",
+          "prenom": "Jessica",
+          "nom_complet": "Jessica VERWAERDE",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "FONTAINE",
+          "prenom": "David",
+          "nom_complet": "David FONTAINE",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "LOCOCHE",
+          "prenom": "Annie",
+          "nom_complet": "Annie LOCOCHE",
+          "sexe": "F",
+          "age": 71,
+          "rang_liste": "19"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

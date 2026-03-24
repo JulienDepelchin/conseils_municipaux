@@ -1,0 +1,131 @@
+{
+  "code_commune": "62152",
+  "commune": "Boisleux-Saint-Marc",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "FLOCHEL",
+    "prenom": "Jean-Paul",
+    "nom_complet": "Jean-Paul FLOCHEL",
+    "age": 72,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 202,
+    "votants": 147,
+    "pct_votants": 72.77,
+    "abstentions": 55,
+    "pct_abstentions": 27.23,
+    "exprimes": 128
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "VIVRE ENSEMBLE A BOISLEUX SAINT MARC",
+      "libelle_abrege_liste": "VIVRE ENSEMBLE A BOISLEUX SAINT MARC",
+      "nuance_liste": null,
+      "voix": 128,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "FLOCHEL",
+        "prenom": "Jean-Paul",
+        "nom_complet": "Jean-Paul FLOCHEL",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "FLOCHEL",
+          "prenom": "Jean-Paul",
+          "nom_complet": "Jean-Paul FLOCHEL",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "GERNEZ",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle GERNEZ",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LEIGNEZ",
+          "prenom": "Stéphane",
+          "nom_complet": "Stéphane LEIGNEZ",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BONDIGUET",
+          "prenom": "Annie",
+          "nom_complet": "Annie BONDIGUET",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "COQUEL",
+          "prenom": "Hugo",
+          "nom_complet": "Hugo COQUEL",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "MORAIS",
+          "prenom": "Maryline",
+          "nom_complet": "Maryline MORAIS",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DELVAL",
+          "prenom": "Jérôme",
+          "nom_complet": "Jérôme DELVAL",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "BECKRICH",
+          "prenom": "Anne",
+          "nom_complet": "Anne BECKRICH",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "PONTUS",
+          "prenom": "Tony",
+          "nom_complet": "Tony PONTUS",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "HENNART",
+          "prenom": "Marion",
+          "nom_complet": "Marion HENNART",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "GERNEZ",
+          "prenom": "Yann",
+          "nom_complet": "Yann GERNEZ",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

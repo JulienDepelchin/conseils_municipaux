@@ -1,0 +1,131 @@
+{
+  "code_commune": "62508",
+  "commune": "Lières",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "CRETEL",
+    "prenom": "Didier",
+    "nom_complet": "Didier CRETEL",
+    "age": 59,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 289,
+    "votants": 172,
+    "pct_votants": 59.52,
+    "abstentions": 117,
+    "pct_abstentions": 40.48,
+    "exprimes": 159
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ENSEMBLE POUR LIERES",
+      "libelle_abrege_liste": "ENSEMBLE POUR LIERES",
+      "nuance_liste": null,
+      "voix": 159,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "CRETEL",
+        "prenom": "Didier",
+        "nom_complet": "Didier CRETEL",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "CRETEL",
+          "prenom": "Didier",
+          "nom_complet": "Didier CRETEL",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "HOUQUE",
+          "prenom": "Virginie",
+          "nom_complet": "Virginie HOUQUE",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LIEBART",
+          "prenom": "Freddy",
+          "nom_complet": "Freddy LIEBART",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DELVAL",
+          "prenom": "Ginette",
+          "nom_complet": "Ginette DELVAL",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "BECQUART",
+          "prenom": "Guy",
+          "nom_complet": "Guy BECQUART",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LEBAS",
+          "prenom": "Sandrine",
+          "nom_complet": "Sandrine LEBAS",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "JANNIN",
+          "prenom": "Emmanuel",
+          "nom_complet": "Emmanuel JANNIN",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "L'HOIR",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie L'HOIR",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "LALOUX",
+          "prenom": "Jean-François",
+          "nom_complet": "Jean-François LALOUX",
+          "sexe": "M",
+          "age": 29,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "SCHOEMACKER",
+          "prenom": "Paméla",
+          "nom_complet": "Paméla SCHOEMACKER",
+          "sexe": "F",
+          "age": 26,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "LUSTRE",
+          "prenom": "Sebastien",
+          "nom_complet": "Sebastien LUSTRE",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

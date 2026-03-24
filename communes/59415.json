@@ -1,0 +1,131 @@
+{
+  "code_commune": "59415",
+  "commune": "Montrécourt",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "GUILLEZ",
+    "prenom": "Marc",
+    "nom_complet": "Marc GUILLEZ",
+    "age": 70,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 197,
+    "votants": 115,
+    "pct_votants": 58.38,
+    "abstentions": 82,
+    "pct_abstentions": 41.62,
+    "exprimes": 98
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Défense des intérêts communaux",
+      "libelle_abrege_liste": "Défense des intérêts communaux",
+      "nuance_liste": null,
+      "voix": 98,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "GUILLEZ",
+        "prenom": "Marc",
+        "nom_complet": "Marc GUILLEZ",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "GUILLEZ",
+          "prenom": "Marc",
+          "nom_complet": "Marc GUILLEZ",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "GUILLEZ",
+          "prenom": "Anne-Claude",
+          "nom_complet": "Anne-Claude GUILLEZ",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "SIMON",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe SIMON",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "GRABARZ",
+          "prenom": "Geneviève",
+          "nom_complet": "Geneviève GRABARZ",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LEDUC",
+          "prenom": "Daniel",
+          "nom_complet": "Daniel LEDUC",
+          "sexe": "M",
+          "age": 75,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "BRYLAK DI DIO",
+          "prenom": "Pearl",
+          "nom_complet": "Pearl BRYLAK DI DIO",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DEVIGNE",
+          "prenom": "Albert",
+          "nom_complet": "Albert DEVIGNE",
+          "sexe": "M",
+          "age": 77,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "GABET",
+          "prenom": "Amandine",
+          "nom_complet": "Amandine GABET",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "CORDELLE",
+          "prenom": "Dany",
+          "nom_complet": "Dany CORDELLE",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "HECQUET",
+          "prenom": "Aurore",
+          "nom_complet": "Aurore HECQUET",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "PETIT",
+          "prenom": "Lionel",
+          "nom_complet": "Lionel PETIT",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

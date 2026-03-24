@@ -1,0 +1,151 @@
+{
+  "code_commune": "62739",
+  "commune": "Sains-lès-Marquion",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "DE SAINT-AUBERT",
+    "prenom": "Guy",
+    "nom_complet": "Guy DE SAINT-AUBERT",
+    "age": 73,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 277,
+    "votants": 226,
+    "pct_votants": 81.59,
+    "abstentions": 51,
+    "pct_abstentions": 18.41,
+    "exprimes": 223
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "SAINS-LÈS-MARQUION VILLAGE",
+      "libelle_abrege_liste": "SAINS-LÈS-MARQUION VILLAGE",
+      "nuance_liste": null,
+      "voix": 149,
+      "pct_voix_exprimes": 66.82,
+      "sieges_cm": 10,
+      "sieges_cc": null,
+      "nb_elus": 10,
+      "tete_de_liste": {
+        "nom": "DE SAINT-AUBERT",
+        "prenom": "Guy",
+        "nom_complet": "Guy DE SAINT-AUBERT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DE SAINT-AUBERT",
+          "prenom": "Guy",
+          "nom_complet": "Guy DE SAINT-AUBERT",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "MERCIER",
+          "prenom": "Geneviève",
+          "nom_complet": "Geneviève MERCIER",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DELOFFRE",
+          "prenom": "Tanguy",
+          "nom_complet": "Tanguy DELOFFRE",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DUBOIS",
+          "prenom": "Florence",
+          "nom_complet": "Florence DUBOIS",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DANEL",
+          "prenom": "Stéphane",
+          "nom_complet": "Stéphane DANEL",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DESRUENNE",
+          "prenom": "Anne-Sophie",
+          "nom_complet": "Anne-Sophie DESRUENNE",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "JAYET",
+          "prenom": "Roland",
+          "nom_complet": "Roland JAYET",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DECAQUERAYE",
+          "prenom": "Claudine",
+          "nom_complet": "Claudine DECAQUERAYE",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DE SAINT-AUBERT",
+          "prenom": "Mathieu",
+          "nom_complet": "Mathieu DE SAINT-AUBERT",
+          "sexe": "M",
+          "age": 28,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "MOREAUX",
+          "prenom": "Bénédicte",
+          "nom_complet": "Bénédicte MOREAUX",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "10"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ENSEMBLE POUR SAINS LES MARQUION",
+      "libelle_abrege_liste": "ENSEMBLE POUR SAINS LES MARQUION",
+      "nuance_liste": null,
+      "voix": 74,
+      "pct_voix_exprimes": 33.18,
+      "sieges_cm": 1,
+      "sieges_cc": null,
+      "nb_elus": 1,
+      "tete_de_liste": {
+        "nom": "COURQUIN",
+        "prenom": "Frédéric",
+        "nom_complet": "Frédéric COURQUIN",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "COURQUIN",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric COURQUIN",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "1"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

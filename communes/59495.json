@@ -1,0 +1,235 @@
+{
+  "code_commune": "59495",
+  "commune": "Recquignies",
+  "departement": "Nord",
+  "tour": "T2",
+  "maire": {
+    "nom": "ROSIER",
+    "prenom": "Ghislain",
+    "nom_complet": "Ghislain ROSIER",
+    "age": 78,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1747,
+    "votants": 1057,
+    "pct_votants": 60.5,
+    "abstentions": 690,
+    "pct_abstentions": 39.5,
+    "exprimes": 1050
+  },
+  "listes": [
+    {
+      "num_panneau": "3",
+      "libelle_liste": "LISTE D'UNION POUR RECQUIGNIES ET ROCQ",
+      "libelle_abrege_liste": "LISTE D'UNION POUR RECQUIGNIES ET ROCQ",
+      "nuance_liste": null,
+      "voix": 403,
+      "pct_voix_exprimes": 38.38,
+      "sieges_cm": 14,
+      "sieges_cc": 1,
+      "nb_elus": 14,
+      "tete_de_liste": {
+        "nom": "ROSIER",
+        "prenom": "Ghislain",
+        "nom_complet": "Ghislain ROSIER",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "ROSIER",
+          "prenom": "Ghislain",
+          "nom_complet": "Ghislain ROSIER",
+          "sexe": "M",
+          "age": 78,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "HUART",
+          "prenom": "Jessica",
+          "nom_complet": "Jessica HUART",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "MAUGARS",
+          "prenom": "Gerard",
+          "nom_complet": "Gerard MAUGARS",
+          "sexe": "M",
+          "age": 77,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DECAMPS",
+          "prenom": "Nadine",
+          "nom_complet": "Nadine DECAMPS",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "PHILIPPE",
+          "prenom": "Daniel",
+          "nom_complet": "Daniel PHILIPPE",
+          "sexe": "M",
+          "age": 80,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "MASSART",
+          "prenom": "Violette",
+          "nom_complet": "Violette MASSART",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DROUSIE",
+          "prenom": "Denis",
+          "nom_complet": "Denis DROUSIE",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LACZEWNY",
+          "prenom": "Marine",
+          "nom_complet": "Marine LACZEWNY",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "VAN HALUWYN",
+          "prenom": "Damien",
+          "nom_complet": "Damien VAN HALUWYN",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "LEFEVRE",
+          "prenom": "Vanessa",
+          "nom_complet": "Vanessa LEFEVRE",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "LE PEURIEN",
+          "prenom": "Marc",
+          "nom_complet": "Marc LE PEURIEN",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "LHOTE",
+          "prenom": "Delphine",
+          "nom_complet": "Delphine LHOTE",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "GOSSET",
+          "prenom": "Mickaël",
+          "nom_complet": "Mickaël GOSSET",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "DEVIN",
+          "prenom": "Cathy",
+          "nom_complet": "Cathy DEVIN",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "14"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "Mieux vivre et bien grandir à Recquignies-Rocq",
+      "libelle_abrege_liste": "Mieux vivre et bien grandir à Recquignies-Rocq",
+      "nuance_liste": null,
+      "voix": 358,
+      "pct_voix_exprimes": 34.1,
+      "sieges_cm": 3,
+      "sieges_cc": 0,
+      "nb_elus": 3,
+      "tete_de_liste": {
+        "nom": "GARCIA",
+        "prenom": "Olivier",
+        "nom_complet": "Olivier GARCIA",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "GARCIA",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier GARCIA",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "CORBEAUX",
+          "prenom": "Hélène",
+          "nom_complet": "Hélène CORBEAUX",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DELSARTE",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric DELSARTE",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "3"
+        }
+      ],
+      "statut_conseil": "autre"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "RECQUIGNIES-ROCQ UNIS POUR CONSTRUIRE L'AVENIR",
+      "libelle_abrege_liste": "RECQUIGNIES-ROCQ UNIS POUR CONSTRUIRE L'AVENIR",
+      "nuance_liste": null,
+      "voix": 289,
+      "pct_voix_exprimes": 27.52,
+      "sieges_cm": 2,
+      "sieges_cc": 0,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "WALLEZ",
+        "prenom": "Linda",
+        "nom_complet": "Linda WALLEZ",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "WALLEZ",
+          "prenom": "Linda",
+          "nom_complet": "Linda WALLEZ",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "VICENTE",
+          "prenom": "Jean-Paul",
+          "nom_complet": "Jean-Paul VICENTE",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

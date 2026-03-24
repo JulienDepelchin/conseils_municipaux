@@ -1,0 +1,183 @@
+{
+  "code_commune": "59336",
+  "commune": "Lécluse",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "DILLIES",
+    "prenom": "Rudy",
+    "nom_complet": "Rudy DILLIES",
+    "age": 34,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1064,
+    "votants": 795,
+    "pct_votants": 74.72,
+    "abstentions": 269,
+    "pct_abstentions": 25.28,
+    "exprimes": 771
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ENSEMBLE, PRÉPARONS ET VIVONS L'AVENIR",
+      "libelle_abrege_liste": "ENSEMBLE, PRÉPARONS ET VIVONS L'AVENIR",
+      "nuance_liste": null,
+      "voix": 543,
+      "pct_voix_exprimes": 70.43,
+      "sieges_cm": 13,
+      "sieges_cc": 2,
+      "nb_elus": 13,
+      "tete_de_liste": {
+        "nom": "DILLIES",
+        "prenom": "Rudy",
+        "nom_complet": "Rudy DILLIES",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DILLIES",
+          "prenom": "Rudy",
+          "nom_complet": "Rudy DILLIES",
+          "sexe": "M",
+          "age": 34,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "VILLAIN",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie VILLAIN",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "STIEVET",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas STIEVET",
+          "sexe": "M",
+          "age": 34,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DUBOIS",
+          "prenom": "Muriel",
+          "nom_complet": "Muriel DUBOIS",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LECOMTE",
+          "prenom": "Bernard",
+          "nom_complet": "Bernard LECOMTE",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LEROY",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie LEROY",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "TATENCLOUX",
+          "prenom": "Michael",
+          "nom_complet": "Michael TATENCLOUX",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "TAYEBI",
+          "prenom": "Mischa",
+          "nom_complet": "Mischa TAYEBI",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "PATTE",
+          "prenom": "Steve",
+          "nom_complet": "Steve PATTE",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "LOLIVIER",
+          "prenom": "Marie-Pierre",
+          "nom_complet": "Marie-Pierre LOLIVIER",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "LADENT",
+          "prenom": "Erick",
+          "nom_complet": "Erick LADENT",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "LAVERSIN",
+          "prenom": "Valentine",
+          "nom_complet": "Valentine LAVERSIN",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "FRUCHART",
+          "prenom": "Denis",
+          "nom_complet": "Denis FRUCHART",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "13"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "SOLIDARITE, ACTIONS, ENGAGEMENTS",
+      "libelle_abrege_liste": "SOLIDARITE, ACTIONS, ENGAGEMENTS",
+      "nuance_liste": null,
+      "voix": 228,
+      "pct_voix_exprimes": 29.57,
+      "sieges_cm": 2,
+      "sieges_cc": 0,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "CARLIER",
+        "prenom": "Reine-Elise",
+        "nom_complet": "Reine-Elise CARLIER",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "CARLIER",
+          "prenom": "Reine-Elise",
+          "nom_complet": "Reine-Elise CARLIER",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "MALAQUIN",
+          "prenom": "Renaud",
+          "nom_complet": "Renaud MALAQUIN",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

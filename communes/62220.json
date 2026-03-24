@@ -1,0 +1,151 @@
+{
+  "code_commune": "62220",
+  "commune": "Cavron-Saint-Martin",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "CARON",
+    "prenom": "Sabine",
+    "nom_complet": "Sabine CARON",
+    "age": 55,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 373,
+    "votants": 301,
+    "pct_votants": 80.7,
+    "abstentions": 72,
+    "pct_abstentions": 19.3,
+    "exprimes": 291
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "DONNONS DES COULEURS",
+      "libelle_abrege_liste": "DONNONS DES COULEURS",
+      "nuance_liste": null,
+      "voix": 176,
+      "pct_voix_exprimes": 60.48,
+      "sieges_cm": 9,
+      "sieges_cc": null,
+      "nb_elus": 9,
+      "tete_de_liste": {
+        "nom": "CARON",
+        "prenom": "Sabine",
+        "nom_complet": "Sabine CARON",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "CARON",
+          "prenom": "Sabine",
+          "nom_complet": "Sabine CARON",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "EVRARD",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique EVRARD",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "RIQUET",
+          "prenom": "Virginie",
+          "nom_complet": "Virginie RIQUET",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "CATTEAU",
+          "prenom": "Thomas",
+          "nom_complet": "Thomas CATTEAU",
+          "sexe": "M",
+          "age": 31,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "CACHERA",
+          "prenom": "Sophie",
+          "nom_complet": "Sophie CACHERA",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "CARON",
+          "prenom": "Henri",
+          "nom_complet": "Henri CARON",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DELVINQUIERE",
+          "prenom": "Ludivine",
+          "nom_complet": "Ludivine DELVINQUIERE",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "COURTINE-CHERUZEL",
+          "prenom": "Cedric",
+          "nom_complet": "Cedric COURTINE-CHERUZEL",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "KAPPES",
+          "prenom": "Aurelia",
+          "nom_complet": "Aurelia KAPPES",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "9"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "UNE EQUIPE EN ACTION, TOURNEE VERS DEMAIN",
+      "libelle_abrege_liste": "UNE EQUIPE EN ACTION, TOURNEE VERS DEMAIN",
+      "nuance_liste": null,
+      "voix": 115,
+      "pct_voix_exprimes": 39.52,
+      "sieges_cm": 2,
+      "sieges_cc": null,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "BOLLART",
+        "prenom": "Antoine",
+        "nom_complet": "Antoine BOLLART",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BOLLART",
+          "prenom": "Antoine",
+          "nom_complet": "Antoine BOLLART",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "ALLOUCHERY",
+          "prenom": "Marielle",
+          "nom_complet": "Marielle ALLOUCHERY",
+          "sexe": "F",
+          "age": 71,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

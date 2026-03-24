@@ -1,0 +1,131 @@
+{
+  "code_commune": "62366",
+  "commune": "Gauchin-Légal",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "VOISEUX",
+    "prenom": "Dominique",
+    "nom_complet": "Dominique VOISEUX",
+    "age": 60,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 281,
+    "votants": 180,
+    "pct_votants": 64.06,
+    "abstentions": 101,
+    "pct_abstentions": 35.94,
+    "exprimes": 162
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ENSEMBLE POUR GAUCHIN LE GAL",
+      "libelle_abrege_liste": "ENSEMBLE POUR GAUCHIN LE GAL",
+      "nuance_liste": null,
+      "voix": 162,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "VOISEUX",
+        "prenom": "Dominique",
+        "nom_complet": "Dominique VOISEUX",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "VOISEUX",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique VOISEUX",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LEMAITRE",
+          "prenom": "Valerie",
+          "nom_complet": "Valerie LEMAITRE",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DELATTRE",
+          "prenom": "Jean-Pierre",
+          "nom_complet": "Jean-Pierre DELATTRE",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LISEWSKI",
+          "prenom": "Lucie",
+          "nom_complet": "Lucie LISEWSKI",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "BOURNISIEN",
+          "prenom": "Rémy",
+          "nom_complet": "Rémy BOURNISIEN",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "MARCINIAK",
+          "prenom": "Laëtitia",
+          "nom_complet": "Laëtitia MARCINIAK",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DURANEL",
+          "prenom": "Pierre",
+          "nom_complet": "Pierre DURANEL",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "FOLTA",
+          "prenom": "Chantal",
+          "nom_complet": "Chantal FOLTA",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DELMOTTE",
+          "prenom": "Camille",
+          "nom_complet": "Camille DELMOTTE",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "PARIS",
+          "prenom": "Léa",
+          "nom_complet": "Léa PARIS",
+          "sexe": "F",
+          "age": 27,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "COURTOIS",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal COURTOIS",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

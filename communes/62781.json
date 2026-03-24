@@ -1,0 +1,151 @@
+{
+  "code_commune": "62781",
+  "commune": "Sauchy-Lestrée",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "RIGAUT",
+    "prenom": "Francis",
+    "nom_complet": "Francis RIGAUT",
+    "age": 74,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 353,
+    "votants": 235,
+    "pct_votants": 66.57,
+    "abstentions": 118,
+    "pct_abstentions": 33.43,
+    "exprimes": 228
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "LISTE D'UNION POUR LA DEFENSE DES INTERETS COMMUNAUX",
+      "libelle_abrege_liste": "LISTE D'UNION POUR LA DEFENSE DES INTERETS COMMUNAUX",
+      "nuance_liste": null,
+      "voix": 161,
+      "pct_voix_exprimes": 70.61,
+      "sieges_cm": 10,
+      "sieges_cc": null,
+      "nb_elus": 10,
+      "tete_de_liste": {
+        "nom": "RIGAUT",
+        "prenom": "Francis",
+        "nom_complet": "Francis RIGAUT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "RIGAUT",
+          "prenom": "Francis",
+          "nom_complet": "Francis RIGAUT",
+          "sexe": "M",
+          "age": 74,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BÉZÉ",
+          "prenom": "Cécile",
+          "nom_complet": "Cécile BÉZÉ",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DESCHRYVER",
+          "prenom": "Benoît",
+          "nom_complet": "Benoît DESCHRYVER",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "VASSEUR",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie VASSEUR",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "PILLON",
+          "prenom": "Hervé",
+          "nom_complet": "Hervé PILLON",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "NOURRY",
+          "prenom": "Pauline",
+          "nom_complet": "Pauline NOURRY",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BEZE",
+          "prenom": "Alain",
+          "nom_complet": "Alain BEZE",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "VEYS",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie VEYS",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "GAILLARD",
+          "prenom": "Antoine",
+          "nom_complet": "Antoine GAILLARD",
+          "sexe": "M",
+          "age": 29,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "SAUVAGE",
+          "prenom": "Christelle",
+          "nom_complet": "Christelle SAUVAGE",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "10"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Re Nouveau pour Sauchy-Lestrée",
+      "libelle_abrege_liste": "Re Nouveau pour Sauchy-Lestrée",
+      "nuance_liste": null,
+      "voix": 67,
+      "pct_voix_exprimes": 29.39,
+      "sieges_cm": 1,
+      "sieges_cc": null,
+      "nb_elus": 1,
+      "tete_de_liste": {
+        "nom": "BRIEZ",
+        "prenom": "Alicia",
+        "nom_complet": "Alicia BRIEZ",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "BRIEZ",
+          "prenom": "Alicia",
+          "nom_complet": "Alicia BRIEZ",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "1"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

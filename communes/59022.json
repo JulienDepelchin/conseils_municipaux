@@ -1,0 +1,215 @@
+{
+  "code_commune": "59022",
+  "commune": "Attiches",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "FOUTRY",
+    "prenom": "Luc",
+    "nom_complet": "Luc FOUTRY",
+    "age": 51,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1961,
+    "votants": 1356,
+    "pct_votants": 69.15,
+    "abstentions": 605,
+    "pct_abstentions": 30.85,
+    "exprimes": 1327
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "ATTICHES ENSEMBLE",
+      "libelle_abrege_liste": "ATTICHES ENSEMBLE",
+      "nuance_liste": null,
+      "voix": 795,
+      "pct_voix_exprimes": 59.91,
+      "sieges_cm": 15,
+      "sieges_cc": 1,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "FOUTRY",
+        "prenom": "Luc",
+        "nom_complet": "Luc FOUTRY",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "FOUTRY",
+          "prenom": "Luc",
+          "nom_complet": "Luc FOUTRY",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DEMESSINE",
+          "prenom": "Paule",
+          "nom_complet": "Paule DEMESSINE",
+          "sexe": "F",
+          "age": 70,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DEKERLE",
+          "prenom": "Jerome",
+          "nom_complet": "Jerome DEKERLE",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "COLLETTE",
+          "prenom": "Suzy",
+          "nom_complet": "Suzy COLLETTE",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "BUCHET",
+          "prenom": "Julien",
+          "nom_complet": "Julien BUCHET",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "FABRE",
+          "prenom": "Hélène",
+          "nom_complet": "Hélène FABRE",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "LOISEAUX",
+          "prenom": "Pierre",
+          "nom_complet": "Pierre LOISEAUX",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "PATRON-ANQUEZ",
+          "prenom": "Arabelle",
+          "nom_complet": "Arabelle PATRON-ANQUEZ",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "GILLIARD",
+          "prenom": "Vincent",
+          "nom_complet": "Vincent GILLIARD",
+          "sexe": "M",
+          "age": 32,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "VERRIEST",
+          "prenom": "Sabine",
+          "nom_complet": "Sabine VERRIEST",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DESSEAUX",
+          "prenom": "Regis",
+          "nom_complet": "Regis DESSEAUX",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "DENHEZ",
+          "prenom": "Maryse",
+          "nom_complet": "Maryse DENHEZ",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "WAUQUIER",
+          "prenom": "Julien",
+          "nom_complet": "Julien WAUQUIER",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "FELGATE",
+          "prenom": "Anne",
+          "nom_complet": "Anne FELGATE",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "SCHNEIDER",
+          "prenom": "Jonathan",
+          "nom_complet": "Jonathan SCHNEIDER",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ATTICHES ET VOUS",
+      "libelle_abrege_liste": "ATTICHES ET VOUS",
+      "nuance_liste": null,
+      "voix": 532,
+      "pct_voix_exprimes": 40.09,
+      "sieges_cm": 4,
+      "sieges_cc": 0,
+      "nb_elus": 4,
+      "tete_de_liste": {
+        "nom": "CORDIER",
+        "prenom": "Guillaume",
+        "nom_complet": "Guillaume CORDIER",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "CORDIER",
+          "prenom": "Guillaume",
+          "nom_complet": "Guillaume CORDIER",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DAUSQUE-OTEVAERT",
+          "prenom": "Laurence",
+          "nom_complet": "Laurence DAUSQUE-OTEVAERT",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "RACHEZ",
+          "prenom": "Emmanuel",
+          "nom_complet": "Emmanuel RACHEZ",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DELIGNE",
+          "prenom": "Marie-Line",
+          "nom_complet": "Marie-Line DELIGNE",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "4"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

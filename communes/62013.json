@@ -1,0 +1,195 @@
+{
+  "code_commune": "62013",
+  "commune": "Agny",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "DUTOIT",
+    "prenom": "Pascal",
+    "nom_complet": "Pascal DUTOIT",
+    "age": 60,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1678,
+    "votants": 820,
+    "pct_votants": 48.87,
+    "abstentions": 858,
+    "pct_abstentions": 51.13,
+    "exprimes": 675
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "AU SERVICE D'AGNY",
+      "libelle_abrege_liste": "AU SERVICE D'AGNY",
+      "nuance_liste": null,
+      "voix": 675,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 19,
+      "sieges_cc": 1,
+      "nb_elus": 19,
+      "tete_de_liste": {
+        "nom": "DUTOIT",
+        "prenom": "Pascal",
+        "nom_complet": "Pascal DUTOIT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DUTOIT",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal DUTOIT",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "ROMELÉ",
+          "prenom": "Catherine",
+          "nom_complet": "Catherine ROMELÉ",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "JANSSENS",
+          "prenom": "Sandy",
+          "nom_complet": "Sandy JANSSENS",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "AMAL",
+          "prenom": "Virginie",
+          "nom_complet": "Virginie AMAL",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "RISBETZ",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric RISBETZ",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "MERCIER",
+          "prenom": "Charlotte",
+          "nom_complet": "Charlotte MERCIER",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "LEGRAND",
+          "prenom": "Christian",
+          "nom_complet": "Christian LEGRAND",
+          "sexe": "M",
+          "age": 75,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "WIDZINSKI",
+          "prenom": "Estelle",
+          "nom_complet": "Estelle WIDZINSKI",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "AUBERT",
+          "prenom": "Pierre",
+          "nom_complet": "Pierre AUBERT",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "MANTEL",
+          "prenom": "Amelie",
+          "nom_complet": "Amelie MANTEL",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "NICOLLE",
+          "prenom": "Michel",
+          "nom_complet": "Michel NICOLLE",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "DEROO",
+          "prenom": "Sabine",
+          "nom_complet": "Sabine DEROO",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "CARTON",
+          "prenom": "John",
+          "nom_complet": "John CARTON",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "ALLART",
+          "prenom": "Ophelie",
+          "nom_complet": "Ophelie ALLART",
+          "sexe": "F",
+          "age": 19,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "TREHOUT",
+          "prenom": "Jean-Paul",
+          "nom_complet": "Jean-Paul TREHOUT",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "ALLARD",
+          "prenom": "Florence",
+          "nom_complet": "Florence ALLARD",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "AGEZ",
+          "prenom": "Sandy",
+          "nom_complet": "Sandy AGEZ",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "LETTREZ",
+          "prenom": "Stephanie",
+          "nom_complet": "Stephanie LETTREZ",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "DUMAS",
+          "prenom": "Jacques",
+          "nom_complet": "Jacques DUMAS",
+          "sexe": "M",
+          "age": 79,
+          "rang_liste": "19"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

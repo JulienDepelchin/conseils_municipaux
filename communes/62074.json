@@ -1,0 +1,131 @@
+{
+  "code_commune": "62074",
+  "commune": "Bailleulval",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "TETU",
+    "prenom": "Harold",
+    "nom_complet": "Harold TETU",
+    "age": 55,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 176,
+    "votants": 115,
+    "pct_votants": 65.34,
+    "abstentions": 61,
+    "pct_abstentions": 34.66,
+    "exprimes": 107
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Liste Harold TETU",
+      "libelle_abrege_liste": "Liste Harold TETU",
+      "nuance_liste": null,
+      "voix": 107,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "TETU",
+        "prenom": "Harold",
+        "nom_complet": "Harold TETU",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "TETU",
+          "prenom": "Harold",
+          "nom_complet": "Harold TETU",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "CARON",
+          "prenom": "Danièle",
+          "nom_complet": "Danièle CARON",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BERLAIRE",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique BERLAIRE",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "CLÉRY",
+          "prenom": "Béatrice",
+          "nom_complet": "Béatrice CLÉRY",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "BOUVET",
+          "prenom": "Jean-Michel",
+          "nom_complet": "Jean-Michel BOUVET",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "OTURBON",
+          "prenom": "Muriel",
+          "nom_complet": "Muriel OTURBON",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DUCORNEZ",
+          "prenom": "François",
+          "nom_complet": "François DUCORNEZ",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "RONGER",
+          "prenom": "Betty",
+          "nom_complet": "Betty RONGER",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "PATTE",
+          "prenom": "Michaël",
+          "nom_complet": "Michaël PATTE",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "THUILLIER",
+          "prenom": "Anaïs",
+          "nom_complet": "Anaïs THUILLIER",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "PLOUVIEZ",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas PLOUVIEZ",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

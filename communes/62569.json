@@ -1,0 +1,163 @@
+{
+  "code_commune": "62569",
+  "commune": "Merck-Saint-Liévin",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "HOCHART",
+    "prenom": "Philippe",
+    "nom_complet": "Philippe HOCHART",
+    "age": 60,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 487,
+    "votants": 326,
+    "pct_votants": 66.94,
+    "abstentions": 161,
+    "pct_abstentions": 33.06,
+    "exprimes": 265
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "AGIR ENSEMBLE POUR MERCK SAINT LIÉVIN",
+      "libelle_abrege_liste": "AGIR ENSEMBLE POUR MERCK SAINT LIÉVIN",
+      "nuance_liste": null,
+      "voix": 265,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "HOCHART",
+        "prenom": "Philippe",
+        "nom_complet": "Philippe HOCHART",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "HOCHART",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe HOCHART",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "WAILLY EPOUSE HUMETZ",
+          "prenom": "Jeanne-Marie",
+          "nom_complet": "Jeanne-Marie WAILLY EPOUSE HUMETZ",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "WILQUIN",
+          "prenom": "Geoffrey",
+          "nom_complet": "Geoffrey WILQUIN",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DARRAS",
+          "prenom": "Céline",
+          "nom_complet": "Céline DARRAS",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "CARON",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno CARON",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "FLUET",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie FLUET",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "MONTUY",
+          "prenom": "Sébastien",
+          "nom_complet": "Sébastien MONTUY",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LIEVIN",
+          "prenom": "Laurence",
+          "nom_complet": "Laurence LIEVIN",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "BERNARD",
+          "prenom": "Quentin",
+          "nom_complet": "Quentin BERNARD",
+          "sexe": "M",
+          "age": 34,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DENIS",
+          "prenom": "Gladys",
+          "nom_complet": "Gladys DENIS",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DÉGREMONT",
+          "prenom": "Ludovic",
+          "nom_complet": "Ludovic DÉGREMONT",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "LEJEUNE",
+          "prenom": "Alexandra",
+          "nom_complet": "Alexandra LEJEUNE",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "CAFFRAY",
+          "prenom": "Rémi",
+          "nom_complet": "Rémi CAFFRAY",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "ARRACHART",
+          "prenom": "Véronique",
+          "nom_complet": "Véronique ARRACHART",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "CARON",
+          "prenom": "Paul",
+          "nom_complet": "Paul CARON",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

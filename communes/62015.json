@@ -1,0 +1,151 @@
+{
+  "code_commune": "62015",
+  "commune": "Airon-Notre-Dame",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "BEAUMONT",
+    "prenom": "Jean-Paul",
+    "nom_complet": "Jean-Paul BEAUMONT",
+    "age": 68,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 194,
+    "votants": 179,
+    "pct_votants": 92.27,
+    "abstentions": 15,
+    "pct_abstentions": 7.73,
+    "exprimes": 176
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "UNIS POUR AIRON NOTRE DAME",
+      "libelle_abrege_liste": "UNIS POUR AIRON NOTRE DAME",
+      "nuance_liste": null,
+      "voix": 112,
+      "pct_voix_exprimes": 63.64,
+      "sieges_cm": 9,
+      "sieges_cc": null,
+      "nb_elus": 9,
+      "tete_de_liste": {
+        "nom": "BEAUMONT",
+        "prenom": "Jean-Paul",
+        "nom_complet": "Jean-Paul BEAUMONT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BEAUMONT",
+          "prenom": "Jean-Paul",
+          "nom_complet": "Jean-Paul BEAUMONT",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "CLETON",
+          "prenom": "Aurelie",
+          "nom_complet": "Aurelie CLETON",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "SWISTOWSKI",
+          "prenom": "Damien",
+          "nom_complet": "Damien SWISTOWSKI",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "HUMEZ",
+          "prenom": "Rejane",
+          "nom_complet": "Rejane HUMEZ",
+          "sexe": "F",
+          "age": 73,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "MELCHIOR",
+          "prenom": "Ludovic",
+          "nom_complet": "Ludovic MELCHIOR",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "MIOT",
+          "prenom": "Pauline",
+          "nom_complet": "Pauline MIOT",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "LOUCHET",
+          "prenom": "Frederic",
+          "nom_complet": "Frederic LOUCHET",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "RIVAT",
+          "prenom": "Cinthia",
+          "nom_complet": "Cinthia RIVAT",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "LEPRETRE",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique LEPRETRE",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "9"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "Bien vivre à Airon Notre Dame",
+      "libelle_abrege_liste": "Bien vivre à Airon Notre Dame",
+      "nuance_liste": null,
+      "voix": 64,
+      "pct_voix_exprimes": 36.36,
+      "sieges_cm": 2,
+      "sieges_cc": null,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "LOISIL",
+        "prenom": "Roland",
+        "nom_complet": "Roland LOISIL",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LOISIL",
+          "prenom": "Roland",
+          "nom_complet": "Roland LOISIL",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "MAHÉ",
+          "prenom": "Bénédicte",
+          "nom_complet": "Bénédicte MAHÉ",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

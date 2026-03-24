@@ -1,0 +1,183 @@
+{
+  "code_commune": "59189",
+  "commune": "Eecke",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "DEQUIDT",
+    "prenom": "Pascal",
+    "nom_complet": "Pascal DEQUIDT",
+    "age": 63,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 974,
+    "votants": 847,
+    "pct_votants": 86.96,
+    "abstentions": 127,
+    "pct_abstentions": 13.04,
+    "exprimes": 825
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "Eecke autrement",
+      "libelle_abrege_liste": "EA",
+      "nuance_liste": null,
+      "voix": 557,
+      "pct_voix_exprimes": 67.52,
+      "sieges_cm": 13,
+      "sieges_cc": 1,
+      "nb_elus": 13,
+      "tete_de_liste": {
+        "nom": "DEQUIDT",
+        "prenom": "Pascal",
+        "nom_complet": "Pascal DEQUIDT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DEQUIDT",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal DEQUIDT",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "VANPEENE",
+          "prenom": "Séverine",
+          "nom_complet": "Séverine VANPEENE",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "THIREZ",
+          "prenom": "Thierry",
+          "nom_complet": "Thierry THIREZ",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LAMOTTE",
+          "prenom": "Nadége",
+          "nom_complet": "Nadége LAMOTTE",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "FONTAINE",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent FONTAINE",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DUBAELE",
+          "prenom": "Fabienne",
+          "nom_complet": "Fabienne DUBAELE",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "MERSSEMAN",
+          "prenom": "Romain",
+          "nom_complet": "Romain MERSSEMAN",
+          "sexe": "M",
+          "age": 20,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DECHERF",
+          "prenom": "Mélanie",
+          "nom_complet": "Mélanie DECHERF",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "EVERAERE",
+          "prenom": "Marc",
+          "nom_complet": "Marc EVERAERE",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "PERSYN",
+          "prenom": "Annie",
+          "nom_complet": "Annie PERSYN",
+          "sexe": "F",
+          "age": 75,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "MARCANT",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe MARCANT",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "TREULIER",
+          "prenom": "Amélie",
+          "nom_complet": "Amélie TREULIER",
+          "sexe": "F",
+          "age": 25,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "VALENCOUR",
+          "prenom": "Thierry",
+          "nom_complet": "Thierry VALENCOUR",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "13"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Vivre ensemble",
+      "libelle_abrege_liste": "Vivre ensemble",
+      "nuance_liste": null,
+      "voix": 268,
+      "pct_voix_exprimes": 32.48,
+      "sieges_cm": 2,
+      "sieges_cc": 0,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "NUNS",
+        "prenom": "Jacques",
+        "nom_complet": "Jacques NUNS",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "NUNS",
+          "prenom": "Jacques",
+          "nom_complet": "Jacques NUNS",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "SAELENS",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie SAELENS",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

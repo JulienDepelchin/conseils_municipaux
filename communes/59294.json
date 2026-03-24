@@ -1,0 +1,131 @@
+{
+  "code_commune": "59294",
+  "commune": "Haynecourt",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "HUREZ",
+    "prenom": "Bernard",
+    "nom_complet": "Bernard HUREZ",
+    "age": 68,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 256,
+    "votants": 157,
+    "pct_votants": 61.33,
+    "abstentions": 99,
+    "pct_abstentions": 38.67,
+    "exprimes": 126
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "RASSEMBLER POUR HAYNECOURT",
+      "libelle_abrege_liste": "RASSEMBLER POUR HAYNECOURT",
+      "nuance_liste": null,
+      "voix": 126,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "HUREZ",
+        "prenom": "Bernard",
+        "nom_complet": "Bernard HUREZ",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "HUREZ",
+          "prenom": "Bernard",
+          "nom_complet": "Bernard HUREZ",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "KOLLIKER",
+          "prenom": "Caroline",
+          "nom_complet": "Caroline KOLLIKER",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BOHACZ",
+          "prenom": "Guillaume",
+          "nom_complet": "Guillaume BOHACZ",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DELVALLÉE",
+          "prenom": "Myriam",
+          "nom_complet": "Myriam DELVALLÉE",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LEMAIRE",
+          "prenom": "Thierry",
+          "nom_complet": "Thierry LEMAIRE",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DUPRIEZ",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie DUPRIEZ",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DUPRIEZ",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent DUPRIEZ",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LABALETTE",
+          "prenom": "Emeline",
+          "nom_complet": "Emeline LABALETTE",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "CAUDE",
+          "prenom": "Jean",
+          "nom_complet": "Jean CAUDE",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "PAGE",
+          "prenom": "Emilie",
+          "nom_complet": "Emilie PAGE",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "THÉRON",
+          "prenom": "Paul",
+          "nom_complet": "Paul THÉRON",
+          "sexe": "M",
+          "age": 23,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

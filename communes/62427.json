@@ -1,0 +1,357 @@
+{
+  "code_commune": "62427",
+  "commune": "Hénin-Beaumont",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "BRIOIS",
+    "prenom": "Steeve",
+    "nom_complet": "Steeve BRIOIS",
+    "age": 53,
+    "nuance": "LRN"
+  },
+  "resultats": {
+    "inscrits": 17685,
+    "votants": 11159,
+    "pct_votants": 63.1,
+    "abstentions": 6526,
+    "pct_abstentions": 36.9,
+    "exprimes": 10810
+  },
+  "listes": [
+    {
+      "num_panneau": "3",
+      "libelle_liste": "Avec vous depuis toujours !",
+      "libelle_abrege_liste": "Avec vous depuis toujours !",
+      "nuance_liste": "LRN",
+      "voix": 8400,
+      "pct_voix_exprimes": 77.71,
+      "sieges_cm": 32,
+      "sieges_cc": 10,
+      "nb_elus": 32,
+      "tete_de_liste": {
+        "nom": "BRIOIS",
+        "prenom": "Steeve",
+        "nom_complet": "Steeve BRIOIS",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BRIOIS",
+          "prenom": "Steeve",
+          "nom_complet": "Steeve BRIOIS",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "GOUDAILLER",
+          "prenom": "Angela",
+          "nom_complet": "Angela GOUDAILLER",
+          "sexe": "F",
+          "age": 29,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BRICE",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent BRICE",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DURIEZ",
+          "prenom": "Karine",
+          "nom_complet": "Karine DURIEZ",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "SZCZUREK",
+          "prenom": "Christopher",
+          "nom_complet": "Christopher SZCZUREK",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "PAYEN",
+          "prenom": "Jennifer",
+          "nom_complet": "Jennifer PAYEN",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "PAYET-MAUGERON",
+          "prenom": "Michaël",
+          "nom_complet": "Michaël PAYET-MAUGERON",
+          "sexe": "M",
+          "age": 31,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DEHAY",
+          "prenom": "Marcelline",
+          "nom_complet": "Marcelline DEHAY",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "CARTON",
+          "prenom": "Michel",
+          "nom_complet": "Michel CARTON",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "CONSTANTINHO",
+          "prenom": "Patricia",
+          "nom_complet": "Patricia CONSTANTINHO",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DELATTRE",
+          "prenom": "Arthur",
+          "nom_complet": "Arthur DELATTRE",
+          "sexe": "M",
+          "age": 20,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "CROQUELOIS",
+          "prenom": "Martine",
+          "nom_complet": "Martine CROQUELOIS",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "DELAHAYE",
+          "prenom": "Pierre",
+          "nom_complet": "Pierre DELAHAYE",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "GOURMEZ",
+          "prenom": "Mathilde",
+          "nom_complet": "Mathilde GOURMEZ",
+          "sexe": "F",
+          "age": 20,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "TAFFIN",
+          "prenom": "Mathieu",
+          "nom_complet": "Mathieu TAFFIN",
+          "sexe": "M",
+          "age": 24,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "NAPORA",
+          "prenom": "Francine",
+          "nom_complet": "Francine NAPORA",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "MOISAN-GUIBERT",
+          "prenom": "Gérard",
+          "nom_complet": "Gérard MOISAN-GUIBERT",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "COGET",
+          "prenom": "Joëlle",
+          "nom_complet": "Joëlle COGET",
+          "sexe": "F",
+          "age": 71,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "DAMIENS",
+          "prenom": "Dorian",
+          "nom_complet": "Dorian DAMIENS",
+          "sexe": "M",
+          "age": 28,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "FATOUX",
+          "prenom": "Martine",
+          "nom_complet": "Martine FATOUX",
+          "sexe": "F",
+          "age": 70,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "BAUDRIN",
+          "prenom": "Freddy",
+          "nom_complet": "Freddy BAUDRIN",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "FATNA",
+          "prenom": "Huguette",
+          "nom_complet": "Huguette FATNA",
+          "sexe": "F",
+          "age": 77,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "BALAN",
+          "prenom": "Joël",
+          "nom_complet": "Joël BALAN",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "23"
+        },
+        {
+          "nom": "QUIQUEMPOIX",
+          "prenom": "Mauricette",
+          "nom_complet": "Mauricette QUIQUEMPOIX",
+          "sexe": "F",
+          "age": 71,
+          "rang_liste": "24"
+        },
+        {
+          "nom": "KUS",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe KUS",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "25"
+        },
+        {
+          "nom": "SKIBA",
+          "prenom": "Nicole",
+          "nom_complet": "Nicole SKIBA",
+          "sexe": "F",
+          "age": 70,
+          "rang_liste": "26"
+        },
+        {
+          "nom": "RISSEN",
+          "prenom": "Aurélien",
+          "nom_complet": "Aurélien RISSEN",
+          "sexe": "M",
+          "age": 31,
+          "rang_liste": "27"
+        },
+        {
+          "nom": "WATERLOT",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie WATERLOT",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "28"
+        },
+        {
+          "nom": "LEMOINE",
+          "prenom": "Maxime",
+          "nom_complet": "Maxime LEMOINE",
+          "sexe": "M",
+          "age": 20,
+          "rang_liste": "29"
+        },
+        {
+          "nom": "PETIT",
+          "prenom": "Liliane",
+          "nom_complet": "Liliane PETIT",
+          "sexe": "F",
+          "age": 75,
+          "rang_liste": "30"
+        },
+        {
+          "nom": "MON",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick MON",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "31"
+        },
+        {
+          "nom": "DERENONCOURT",
+          "prenom": "Wendy",
+          "nom_complet": "Wendy DERENONCOURT",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "32"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "REDONNER LA PAROLE AUX HABITANTS !",
+      "libelle_abrege_liste": "REDONNER LA PAROLE AUX HABITANTS !",
+      "nuance_liste": "LDVG",
+      "voix": 2071,
+      "pct_voix_exprimes": 19.16,
+      "sieges_cm": 3,
+      "sieges_cc": 1,
+      "nb_elus": 3,
+      "tete_de_liste": {
+        "nom": "TAOURIT",
+        "prenom": "Inès",
+        "nom_complet": "Inès TAOURIT",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "TAOURIT",
+          "prenom": "Inès",
+          "nom_complet": "Inès TAOURIT",
+          "sexe": "F",
+          "age": 32,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "RANIERI",
+          "prenom": "Gianni",
+          "nom_complet": "Gianni RANIERI",
+          "sexe": "M",
+          "age": 26,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "MATUSZCZAK",
+          "prenom": "Marjorie",
+          "nom_complet": "Marjorie MATUSZCZAK",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "3"
+        }
+      ],
+      "statut_conseil": "autre"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "UN AVENIR EN COMMUN POUR HENIN-BEAUMONT",
+      "libelle_abrege_liste": "UN AVENIR EN COMMUN POUR HENIN-BEAUMONT",
+      "nuance_liste": "LFI",
+      "voix": 339,
+      "pct_voix_exprimes": 3.14,
+      "sieges_cm": 0,
+      "sieges_cc": 0,
+      "nb_elus": 0,
+      "tete_de_liste": null,
+      "elus": [],
+      "statut_conseil": "sans_elu"
+    }
+  ]
+}

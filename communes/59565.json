@@ -1,0 +1,163 @@
+{
+  "code_commune": "59565",
+  "commune": "Sepmeries",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "SOSZYNSKI",
+    "prenom": "Thierry",
+    "nom_complet": "Thierry SOSZYNSKI",
+    "age": 56,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 520,
+    "votants": 299,
+    "pct_votants": 57.5,
+    "abstentions": 221,
+    "pct_abstentions": 42.5,
+    "exprimes": 272
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "SEPMERIES AVENIR",
+      "libelle_abrege_liste": "SEPMERIES AVENIR",
+      "nuance_liste": null,
+      "voix": 272,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "SOSZYNSKI",
+        "prenom": "Thierry",
+        "nom_complet": "Thierry SOSZYNSKI",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "SOSZYNSKI",
+          "prenom": "Thierry",
+          "nom_complet": "Thierry SOSZYNSKI",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "GAILLET",
+          "prenom": "Anne-Laure",
+          "nom_complet": "Anne-Laure GAILLET",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BASSEZ",
+          "prenom": "Christian",
+          "nom_complet": "Christian BASSEZ",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BOUCHEZ",
+          "prenom": "Dorothée",
+          "nom_complet": "Dorothée BOUCHEZ",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DUPUIS",
+          "prenom": "Alain",
+          "nom_complet": "Alain DUPUIS",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DAUCHEZ",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie DAUCHEZ",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "PASBECQ",
+          "prenom": "Jean-Michel",
+          "nom_complet": "Jean-Michel PASBECQ",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "SELLIER",
+          "prenom": "Florentine",
+          "nom_complet": "Florentine SELLIER",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DIENNE",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe DIENNE",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DANHIER",
+          "prenom": "Marie-Pierre",
+          "nom_complet": "Marie-Pierre DANHIER",
+          "sexe": "F",
+          "age": 70,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DOUVRY",
+          "prenom": "Anthony",
+          "nom_complet": "Anthony DOUVRY",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "PREVOT",
+          "prenom": "Aurélie",
+          "nom_complet": "Aurélie PREVOT",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "MOUFTIEZ",
+          "prenom": "Pierre",
+          "nom_complet": "Pierre MOUFTIEZ",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "BERCHON",
+          "prenom": "Elodie",
+          "nom_complet": "Elodie BERCHON",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "GEORGES",
+          "prenom": "Romain",
+          "nom_complet": "Romain GEORGES",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

@@ -1,0 +1,183 @@
+{
+  "code_commune": "62233",
+  "commune": "Conchil-le-Temple",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "DUBOIS",
+    "prenom": "Daniel",
+    "nom_complet": "Daniel DUBOIS",
+    "age": 73,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 882,
+    "votants": 730,
+    "pct_votants": 82.77,
+    "abstentions": 152,
+    "pct_abstentions": 17.23,
+    "exprimes": 720
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "Pour Conchil avec vous",
+      "libelle_abrege_liste": "Pour Conchil avec vous",
+      "nuance_liste": null,
+      "voix": 484,
+      "pct_voix_exprimes": 67.22,
+      "sieges_cm": 13,
+      "sieges_cc": 1,
+      "nb_elus": 13,
+      "tete_de_liste": {
+        "nom": "DUBOIS",
+        "prenom": "Daniel",
+        "nom_complet": "Daniel DUBOIS",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DUBOIS",
+          "prenom": "Daniel",
+          "nom_complet": "Daniel DUBOIS",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "VARLET",
+          "prenom": "Stephanie",
+          "nom_complet": "Stephanie VARLET",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "PAQUEZ",
+          "prenom": "Michel",
+          "nom_complet": "Michel PAQUEZ",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BERNARD",
+          "prenom": "Alexandra",
+          "nom_complet": "Alexandra BERNARD",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DELAMOTTE",
+          "prenom": "Franck",
+          "nom_complet": "Franck DELAMOTTE",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "TERNISIEN",
+          "prenom": "Anne",
+          "nom_complet": "Anne TERNISIEN",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "LOUVET",
+          "prenom": "Eric",
+          "nom_complet": "Eric LOUVET",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "RAMET",
+          "prenom": "Anais",
+          "nom_complet": "Anais RAMET",
+          "sexe": "F",
+          "age": 28,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "MARCOURT",
+          "prenom": "Benjamin",
+          "nom_complet": "Benjamin MARCOURT",
+          "sexe": "M",
+          "age": 33,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "MENDES DA COSTA",
+          "prenom": "Karine",
+          "nom_complet": "Karine MENDES DA COSTA",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "CASTELAIN",
+          "prenom": "Charles",
+          "nom_complet": "Charles CASTELAIN",
+          "sexe": "M",
+          "age": 76,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "GILAT",
+          "prenom": "Sandrine",
+          "nom_complet": "Sandrine GILAT",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "LOPES",
+          "prenom": "Stephane",
+          "nom_complet": "Stephane LOPES",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "13"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Conchilois, rassemblons nous",
+      "libelle_abrege_liste": "Conchilois, rassemblons nous",
+      "nuance_liste": null,
+      "voix": 236,
+      "pct_voix_exprimes": 32.78,
+      "sieges_cm": 2,
+      "sieges_cc": 0,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "DELORME",
+        "prenom": "Marie",
+        "nom_complet": "Marie DELORME",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "DELORME",
+          "prenom": "Marie",
+          "nom_complet": "Marie DELORME",
+          "sexe": "F",
+          "age": 32,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BOUCHEZ",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas BOUCHEZ",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

@@ -1,0 +1,347 @@
+{
+  "code_commune": "59179",
+  "commune": "Douchy-les-Mines",
+  "departement": "Nord",
+  "tour": "T2",
+  "maire": {
+    "nom": "MERVILLE",
+    "prenom": "Romain",
+    "nom_complet": "Romain MERVILLE",
+    "age": 32,
+    "nuance": "LDVG"
+  },
+  "resultats": {
+    "inscrits": 7285,
+    "votants": 4435,
+    "pct_votants": 60.88,
+    "abstentions": 2850,
+    "pct_abstentions": 39.12,
+    "exprimes": 4366
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "À VOS CÔTÉS",
+      "libelle_abrege_liste": "À VOS CÔTÉS",
+      "nuance_liste": "LDVG",
+      "voix": 1712,
+      "pct_voix_exprimes": 39.21,
+      "sieges_cm": 23,
+      "sieges_cc": 4,
+      "nb_elus": 23,
+      "tete_de_liste": {
+        "nom": "MERVILLE",
+        "prenom": "Romain",
+        "nom_complet": "Romain MERVILLE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "MERVILLE",
+          "prenom": "Romain",
+          "nom_complet": "Romain MERVILLE",
+          "sexe": "M",
+          "age": 32,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "MASNIN LARGILLET",
+          "prenom": "Mathilde",
+          "nom_complet": "Mathilde MASNIN LARGILLET",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DELAPORTE",
+          "prenom": "Claude",
+          "nom_complet": "Claude DELAPORTE",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "CARLIER",
+          "prenom": "Rossana",
+          "nom_complet": "Rossana CARLIER",
+          "sexe": "F",
+          "age": 70,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LECARPENTIER",
+          "prenom": "Guillaume",
+          "nom_complet": "Guillaume LECARPENTIER",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DOUAY",
+          "prenom": "Glawdys",
+          "nom_complet": "Glawdys DOUAY",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DEGUISNE",
+          "prenom": "Boris",
+          "nom_complet": "Boris DEGUISNE",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "GRIGAHCINE",
+          "prenom": "Inès",
+          "nom_complet": "Inès GRIGAHCINE",
+          "sexe": "F",
+          "age": 32,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DANCZAK",
+          "prenom": "Gérard",
+          "nom_complet": "Gérard DANCZAK",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "BOUDRY",
+          "prenom": "Béatrice",
+          "nom_complet": "Béatrice BOUDRY",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "MESNAGER",
+          "prenom": "Brandon",
+          "nom_complet": "Brandon MESNAGER",
+          "sexe": "M",
+          "age": 32,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "ROSZAK",
+          "prenom": "Valérie",
+          "nom_complet": "Valérie ROSZAK",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "ROSEL",
+          "prenom": "Marc",
+          "nom_complet": "Marc ROSEL",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "LOIRS",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie LOIRS",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "GABET",
+          "prenom": "Thierry",
+          "nom_complet": "Thierry GABET",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "EGELE",
+          "prenom": "Emmanuelle",
+          "nom_complet": "Emmanuelle EGELE",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "SAYAH",
+          "prenom": "Mustapha",
+          "nom_complet": "Mustapha SAYAH",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "SALVA",
+          "prenom": "Laurence",
+          "nom_complet": "Laurence SALVA",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "AMAZOZ",
+          "prenom": "Moulay-Ismaïl",
+          "nom_complet": "Moulay-Ismaïl AMAZOZ",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "GABRIELYAN",
+          "prenom": "Kristine",
+          "nom_complet": "Kristine GABRIELYAN",
+          "sexe": "F",
+          "age": 27,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "BOUDART",
+          "prenom": "Kévin",
+          "nom_complet": "Kévin BOUDART",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "DARDENNE",
+          "prenom": "Rita",
+          "nom_complet": "Rita DARDENNE",
+          "sexe": "F",
+          "age": 75,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "RUE",
+          "prenom": "Jean-Louis",
+          "nom_complet": "Jean-Louis RUE",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "23"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "4",
+      "libelle_liste": "DOUCHY, LE TEMPS DU CHANGEMENT !",
+      "libelle_abrege_liste": "DOUCHY, LE TEMPS DU CHANGEMENT !",
+      "nuance_liste": "LRN",
+      "voix": 1558,
+      "pct_voix_exprimes": 35.68,
+      "sieges_cm": 6,
+      "sieges_cc": 1,
+      "nb_elus": 6,
+      "tete_de_liste": {
+        "nom": "MESNAGER",
+        "prenom": "Bryan",
+        "nom_complet": "Bryan MESNAGER",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "MESNAGER",
+          "prenom": "Bryan",
+          "nom_complet": "Bryan MESNAGER",
+          "sexe": "M",
+          "age": 31,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DELSAUT",
+          "prenom": "Émilie",
+          "nom_complet": "Émilie DELSAUT",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "PARSAT",
+          "prenom": "Alexandre",
+          "nom_complet": "Alexandre PARSAT",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "PADOVAN",
+          "prenom": "Angélina",
+          "nom_complet": "Angélina PADOVAN",
+          "sexe": "F",
+          "age": 25,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DELMOTTE",
+          "prenom": "Donovan",
+          "nom_complet": "Donovan DELMOTTE",
+          "sexe": "M",
+          "age": 31,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "VALIN",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie VALIN",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "6"
+        }
+      ],
+      "statut_conseil": "autre"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "POUR DOUCHY FIÈRE, UNIE ET SOLIDAIRE",
+      "libelle_abrege_liste": "POUR DOUCHY FIÈRE, UNIE ET SOLIDAIRE",
+      "nuance_liste": "LCOM",
+      "voix": 1096,
+      "pct_voix_exprimes": 25.1,
+      "sieges_cm": 4,
+      "sieges_cc": 0,
+      "nb_elus": 4,
+      "tete_de_liste": {
+        "nom": "LEFEBVRE",
+        "prenom": "Michel",
+        "nom_complet": "Michel LEFEBVRE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LEFEBVRE",
+          "prenom": "Michel",
+          "nom_complet": "Michel LEFEBVRE",
+          "sexe": "M",
+          "age": 79,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "MARLOT",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique MARLOT",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "JOURNET",
+          "prenom": "Sami",
+          "nom_complet": "Sami JOURNET",
+          "sexe": "M",
+          "age": 30,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "GUILAIN",
+          "prenom": "Régine Hedwige Gisèle",
+          "nom_complet": "Régine Hedwige Gisèle GUILAIN",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "4"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

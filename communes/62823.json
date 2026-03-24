@@ -1,0 +1,131 @@
+{
+  "code_commune": "62823",
+  "commune": "Torcy",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "CORNU",
+    "prenom": "Patrick",
+    "nom_complet": "Patrick CORNU",
+    "age": 62,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 154,
+    "votants": 114,
+    "pct_votants": 74.03,
+    "abstentions": 40,
+    "pct_abstentions": 25.97,
+    "exprimes": 86
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Défense des intérêts communaux",
+      "libelle_abrege_liste": "Défense des intérêts communaux",
+      "nuance_liste": null,
+      "voix": 86,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "CORNU",
+        "prenom": "Patrick",
+        "nom_complet": "Patrick CORNU",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "CORNU",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick CORNU",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LEROY",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie LEROY",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BRACQUART",
+          "prenom": "Francis",
+          "nom_complet": "Francis BRACQUART",
+          "sexe": "M",
+          "age": 75,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "MALADRY",
+          "prenom": "Martine",
+          "nom_complet": "Martine MALADRY",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DOLLE",
+          "prenom": "Jean-Paul",
+          "nom_complet": "Jean-Paul DOLLE",
+          "sexe": "M",
+          "age": 78,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "BLAS",
+          "prenom": "Dolorès",
+          "nom_complet": "Dolorès BLAS",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "CORNU",
+          "prenom": "Michel",
+          "nom_complet": "Michel CORNU",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LEMAIRE",
+          "prenom": "Cyrielle",
+          "nom_complet": "Cyrielle LEMAIRE",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "BEAUBOIS",
+          "prenom": "Bernard",
+          "nom_complet": "Bernard BEAUBOIS",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "WAESSEM ROBERT",
+          "prenom": "Miranda",
+          "nom_complet": "Miranda WAESSEM ROBERT",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "LEGRAND",
+          "prenom": "Geoffroy",
+          "nom_complet": "Geoffroy LEGRAND",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

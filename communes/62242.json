@@ -1,0 +1,119 @@
+{
+  "code_commune": "62242",
+  "commune": "Couin",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "GLAVIEUX",
+    "prenom": "Pascal",
+    "nom_complet": "Pascal GLAVIEUX",
+    "age": 61,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 84,
+    "votants": 75,
+    "pct_votants": 89.29,
+    "abstentions": 9,
+    "pct_abstentions": 10.71,
+    "exprimes": 72
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "AGIR ENSEMBLE POUR COUIN",
+      "libelle_abrege_liste": "AGIR ENSEMBLE POUR COUIN",
+      "nuance_liste": null,
+      "voix": 42,
+      "pct_voix_exprimes": 58.33,
+      "sieges_cm": 6,
+      "sieges_cc": null,
+      "nb_elus": 6,
+      "tete_de_liste": {
+        "nom": "GLAVIEUX",
+        "prenom": "Pascal",
+        "nom_complet": "Pascal GLAVIEUX",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "GLAVIEUX",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal GLAVIEUX",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "GÉRIN",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle GÉRIN",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "VAJDA",
+          "prenom": "David",
+          "nom_complet": "David VAJDA",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BECQUART",
+          "prenom": "Valerie",
+          "nom_complet": "Valerie BECQUART",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LIEVRE",
+          "prenom": "Gabriel",
+          "nom_complet": "Gabriel LIEVRE",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DENEUBOURG",
+          "prenom": "Delphine",
+          "nom_complet": "Delphine DENEUBOURG",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "6"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "DONNONS UN NOUVEL ELAN A NOTRE COMMUNE",
+      "libelle_abrege_liste": "DONNONS UN NOUVEL ELAN A NOTRE COMMUNE",
+      "nuance_liste": null,
+      "voix": 30,
+      "pct_voix_exprimes": 41.67,
+      "sieges_cm": 1,
+      "sieges_cc": null,
+      "nb_elus": 1,
+      "tete_de_liste": {
+        "nom": "LACROIX",
+        "prenom": "Vincent",
+        "nom_complet": "Vincent LACROIX",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LACROIX",
+          "prenom": "Vincent",
+          "nom_complet": "Vincent LACROIX",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "1"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

@@ -1,0 +1,327 @@
+{
+  "code_commune": "59588",
+  "commune": "Téteghem-Coudekerque-Village",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "PESCH",
+    "prenom": "Michel",
+    "nom_complet": "Michel PESCH",
+    "age": 67,
+    "nuance": "LDVC"
+  },
+  "resultats": {
+    "inscrits": 7310,
+    "votants": 4676,
+    "pct_votants": 63.97,
+    "abstentions": 2634,
+    "pct_abstentions": 36.03,
+    "exprimes": 4456
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ensemble naturellement",
+      "libelle_abrege_liste": "ens nat",
+      "nuance_liste": "LDVC",
+      "voix": 3167,
+      "pct_voix_exprimes": 71.07,
+      "sieges_cm": 29,
+      "sieges_cc": 2,
+      "nb_elus": 29,
+      "tete_de_liste": {
+        "nom": "PESCH",
+        "prenom": "Michel",
+        "nom_complet": "Michel PESCH",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "PESCH",
+          "prenom": "Michel",
+          "nom_complet": "Michel PESCH",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "FERMON",
+          "prenom": "Regine",
+          "nom_complet": "Regine FERMON",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DEMEY",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe DEMEY",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "ENGELAERE",
+          "prenom": "Delphine",
+          "nom_complet": "Delphine ENGELAERE",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "GUERVILLE",
+          "prenom": "Didier",
+          "nom_complet": "Didier GUERVILLE",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DJIVANDJY",
+          "prenom": "Delphine",
+          "nom_complet": "Delphine DJIVANDJY",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DAMMAN",
+          "prenom": "Regis",
+          "nom_complet": "Regis DAMMAN",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "PECOURT",
+          "prenom": "Caroline",
+          "nom_complet": "Caroline PECOURT",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "RAMET",
+          "prenom": "Vincent",
+          "nom_complet": "Vincent RAMET",
+          "sexe": "M",
+          "age": 31,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "SWAL",
+          "prenom": "Annabelle",
+          "nom_complet": "Annabelle SWAL",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "WARE",
+          "prenom": "David Alan",
+          "nom_complet": "David Alan WARE",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "PAGNERRE",
+          "prenom": "Annie",
+          "nom_complet": "Annie PAGNERRE",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "DEBRUYNE",
+          "prenom": "Jonathan",
+          "nom_complet": "Jonathan DEBRUYNE",
+          "sexe": "M",
+          "age": 24,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "TURPIN",
+          "prenom": "Pauline",
+          "nom_complet": "Pauline TURPIN",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "LARANGÉ",
+          "prenom": "Noel",
+          "nom_complet": "Noel LARANGÉ",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "CORNILLE",
+          "prenom": "Carole",
+          "nom_complet": "Carole CORNILLE",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "JACOB",
+          "prenom": "Michel",
+          "nom_complet": "Michel JACOB",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "DESNOUES",
+          "prenom": "Marion",
+          "nom_complet": "Marion DESNOUES",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "LANDSWERDT",
+          "prenom": "Jean-Marie",
+          "nom_complet": "Jean-Marie LANDSWERDT",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "VANDAMME",
+          "prenom": "Amandine",
+          "nom_complet": "Amandine VANDAMME",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "TAR",
+          "prenom": "Benjamin",
+          "nom_complet": "Benjamin TAR",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "RETER",
+          "prenom": "Luminita",
+          "nom_complet": "Luminita RETER",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "CACHE",
+          "prenom": "Jean-Christophe",
+          "nom_complet": "Jean-Christophe CACHE",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "23"
+        },
+        {
+          "nom": "BROUCK FLAMENT",
+          "prenom": "Jeanne",
+          "nom_complet": "Jeanne BROUCK FLAMENT",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "24"
+        },
+        {
+          "nom": "BOREL",
+          "prenom": "Marc",
+          "nom_complet": "Marc BOREL",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "25"
+        },
+        {
+          "nom": "TIMMERMAN",
+          "prenom": "Angie",
+          "nom_complet": "Angie TIMMERMAN",
+          "sexe": "F",
+          "age": 27,
+          "rang_liste": "26"
+        },
+        {
+          "nom": "CAULLIER",
+          "prenom": "Guillaume",
+          "nom_complet": "Guillaume CAULLIER",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "27"
+        },
+        {
+          "nom": "VANDERFAEILLIE",
+          "prenom": "Aurelie",
+          "nom_complet": "Aurelie VANDERFAEILLIE",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "28"
+        },
+        {
+          "nom": "HOCQUETTE",
+          "prenom": "Corentin",
+          "nom_complet": "Corentin HOCQUETTE",
+          "sexe": "M",
+          "age": 23,
+          "rang_liste": "29"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "CONCERTER, AGIR, PROTEGER AVEC EMILIE TACQUET",
+      "libelle_abrege_liste": "CAPAET",
+      "nuance_liste": "LDVD",
+      "voix": 1289,
+      "pct_voix_exprimes": 28.93,
+      "sieges_cm": 4,
+      "sieges_cc": 0,
+      "nb_elus": 4,
+      "tete_de_liste": {
+        "nom": "TACQUET",
+        "prenom": "Émilie",
+        "nom_complet": "Émilie TACQUET",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "TACQUET",
+          "prenom": "Émilie",
+          "nom_complet": "Émilie TACQUET",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BARANSKI",
+          "prenom": "Jacques",
+          "nom_complet": "Jacques BARANSKI",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "CUPILLARD",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique CUPILLARD",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "JONCKHEERE",
+          "prenom": "Régis",
+          "nom_complet": "Régis JONCKHEERE",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "4"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

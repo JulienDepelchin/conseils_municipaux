@@ -1,0 +1,299 @@
+{
+  "code_commune": "59489",
+  "commune": "Raimbeaucourt",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "MENSION",
+    "prenom": "Alain",
+    "nom_complet": "Alain MENSION",
+    "age": 57,
+    "nuance": "LDVD"
+  },
+  "resultats": {
+    "inscrits": 2966,
+    "votants": 2106,
+    "pct_votants": 71,
+    "abstentions": 860,
+    "pct_abstentions": 29,
+    "exprimes": 2061
+  },
+  "listes": [
+    {
+      "num_panneau": "3",
+      "libelle_liste": "VIVRE ET AGIR POUR RAIMBEAUCOURT",
+      "libelle_abrege_liste": "VIVRE ET AGIR POUR RAIMBEAUCOURT",
+      "nuance_liste": "LDVD",
+      "voix": 1062,
+      "pct_voix_exprimes": 51.53,
+      "sieges_cm": 21,
+      "sieges_cc": 1,
+      "nb_elus": 21,
+      "tete_de_liste": {
+        "nom": "MENSION",
+        "prenom": "Alain",
+        "nom_complet": "Alain MENSION",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "MENSION",
+          "prenom": "Alain",
+          "nom_complet": "Alain MENSION",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "SKOTAREK",
+          "prenom": "Karine",
+          "nom_complet": "Karine SKOTAREK",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "STICKER",
+          "prenom": "Cédric",
+          "nom_complet": "Cédric STICKER",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DUBOIS",
+          "prenom": "Marion",
+          "nom_complet": "Marion DUBOIS",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "SALLEZ",
+          "prenom": "Regis",
+          "nom_complet": "Regis SALLEZ",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LOYEZ",
+          "prenom": "Julie",
+          "nom_complet": "Julie LOYEZ",
+          "sexe": "F",
+          "age": 30,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "OBRY",
+          "prenom": "Joël",
+          "nom_complet": "Joël OBRY",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LEMAIRE-BURGEAT",
+          "prenom": "Stephanie",
+          "nom_complet": "Stephanie LEMAIRE-BURGEAT",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "LEMAR",
+          "prenom": "Christian",
+          "nom_complet": "Christian LEMAR",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "SAVARY",
+          "prenom": "Vinciane",
+          "nom_complet": "Vinciane SAVARY",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "TRICOT",
+          "prenom": "Bernard",
+          "nom_complet": "Bernard TRICOT",
+          "sexe": "M",
+          "age": 74,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "DHINNIN-VANUXEEM",
+          "prenom": "Angélique",
+          "nom_complet": "Angélique DHINNIN-VANUXEEM",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "WATTEAU",
+          "prenom": "Anthony",
+          "nom_complet": "Anthony WATTEAU",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "LOUVIER",
+          "prenom": "Renelle",
+          "nom_complet": "Renelle LOUVIER",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "MICHALAK",
+          "prenom": "Julien Anthony",
+          "nom_complet": "Julien Anthony MICHALAK",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "GOGE",
+          "prenom": "Angelique",
+          "nom_complet": "Angelique GOGE",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "NOWAK",
+          "prenom": "Cédric",
+          "nom_complet": "Cédric NOWAK",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "BOCQUILLON",
+          "prenom": "Armelle",
+          "nom_complet": "Armelle BOCQUILLON",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "IGNASZAK",
+          "prenom": "Sébastien",
+          "nom_complet": "Sébastien IGNASZAK",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "MARLIERE",
+          "prenom": "Maryline",
+          "nom_complet": "Maryline MARLIERE",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "COURTECUISSE",
+          "prenom": "Michel",
+          "nom_complet": "Michel COURTECUISSE",
+          "sexe": "M",
+          "age": 74,
+          "rang_liste": "21"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "Ensemble pour Raimbeaucourt",
+      "libelle_abrege_liste": "Ensemble pour Raimbeaucourt",
+      "nuance_liste": "LDVD",
+      "voix": 532,
+      "pct_voix_exprimes": 25.81,
+      "sieges_cm": 3,
+      "sieges_cc": 0,
+      "nb_elus": 3,
+      "tete_de_liste": {
+        "nom": "LENNE",
+        "prenom": "Laurent",
+        "nom_complet": "Laurent LENNE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LENNE",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent LENNE",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DESTOMBES",
+          "prenom": "Anne",
+          "nom_complet": "Anne DESTOMBES",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BELLU",
+          "prenom": "Salvatore",
+          "nom_complet": "Salvatore BELLU",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "3"
+        }
+      ],
+      "statut_conseil": "autre"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "IMAGINE RAIMBEAUCOURT",
+      "libelle_abrege_liste": "IMAGINE RAIMBEAUCOURT",
+      "nuance_liste": "LDIV",
+      "voix": 467,
+      "pct_voix_exprimes": 22.66,
+      "sieges_cm": 3,
+      "sieges_cc": 0,
+      "nb_elus": 3,
+      "tete_de_liste": {
+        "nom": "BOURSE",
+        "prenom": "Valentine",
+        "nom_complet": "Valentine BOURSE",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "BOURSE",
+          "prenom": "Valentine",
+          "nom_complet": "Valentine BOURSE",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "MONNIER",
+          "prenom": "Sébastien",
+          "nom_complet": "Sébastien MONNIER",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LIEGEOIS",
+          "prenom": "Perrine",
+          "nom_complet": "Perrine LIEGEOIS",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "3"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

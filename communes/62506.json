@@ -1,0 +1,195 @@
+{
+  "code_commune": "62506",
+  "commune": "Licques",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "HAVART",
+    "prenom": "Brigitte",
+    "nom_complet": "Brigitte HAVART",
+    "age": 74,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1297,
+    "votants": 724,
+    "pct_votants": 55.82,
+    "abstentions": 573,
+    "pct_abstentions": 44.18,
+    "exprimes": 558
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Licques notre village, notre fierté",
+      "libelle_abrege_liste": "Licques notre village, notre fierté",
+      "nuance_liste": null,
+      "voix": 558,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 19,
+      "sieges_cc": 3,
+      "nb_elus": 19,
+      "tete_de_liste": {
+        "nom": "HAVART",
+        "prenom": "Brigitte",
+        "nom_complet": "Brigitte HAVART",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "HAVART",
+          "prenom": "Brigitte",
+          "nom_complet": "Brigitte HAVART",
+          "sexe": "F",
+          "age": 74,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "HÉNARD",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe HÉNARD",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "GOLLIOT",
+          "prenom": "Caroline",
+          "nom_complet": "Caroline GOLLIOT",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "ALLEXANDRE",
+          "prenom": "Alain",
+          "nom_complet": "Alain ALLEXANDRE",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "BLANQUART",
+          "prenom": "Delphine",
+          "nom_complet": "Delphine BLANQUART",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LEMAIRE",
+          "prenom": "Arnaud",
+          "nom_complet": "Arnaud LEMAIRE",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BLASZCZYK",
+          "prenom": "Angélique",
+          "nom_complet": "Angélique BLASZCZYK",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "AUDUBERT",
+          "prenom": "Guillaume",
+          "nom_complet": "Guillaume AUDUBERT",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "GHYS",
+          "prenom": "Sophie",
+          "nom_complet": "Sophie GHYS",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "BOULOGNE",
+          "prenom": "Delphin",
+          "nom_complet": "Delphin BOULOGNE",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "LAUTRIE",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle LAUTRIE",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "LANSON",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe LANSON",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "WIERRE",
+          "prenom": "Cathy",
+          "nom_complet": "Cathy WIERRE",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "SWAENEPOEL",
+          "prenom": "Jean-Philippe",
+          "nom_complet": "Jean-Philippe SWAENEPOEL",
+          "sexe": "M",
+          "age": 30,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "BRESSEL",
+          "prenom": "Lydie",
+          "nom_complet": "Lydie BRESSEL",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "SAINT-MAXENT",
+          "prenom": "Jean-Claude",
+          "nom_complet": "Jean-Claude SAINT-MAXENT",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "DANZEL",
+          "prenom": "Valérie",
+          "nom_complet": "Valérie DANZEL",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "PAQUES",
+          "prenom": "Maxime",
+          "nom_complet": "Maxime PAQUES",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "DARRAS",
+          "prenom": "Murielle",
+          "nom_complet": "Murielle DARRAS",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "19"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

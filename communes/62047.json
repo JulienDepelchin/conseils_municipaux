@@ -1,0 +1,131 @@
+{
+  "code_commune": "62047",
+  "commune": "Aubrometz",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "FAYE",
+    "prenom": "Francis",
+    "nom_complet": "Francis FAYE",
+    "age": 66,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 133,
+    "votants": 81,
+    "pct_votants": 60.9,
+    "abstentions": 52,
+    "pct_abstentions": 39.1,
+    "exprimes": 60
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Agir Ensemble",
+      "libelle_abrege_liste": "Agir Ensemble",
+      "nuance_liste": null,
+      "voix": 60,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "FAYE",
+        "prenom": "Francis",
+        "nom_complet": "Francis FAYE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "FAYE",
+          "prenom": "Francis",
+          "nom_complet": "Francis FAYE",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DUCROQUET-DAILLY",
+          "prenom": "Mathilde",
+          "nom_complet": "Mathilde DUCROQUET-DAILLY",
+          "sexe": "F",
+          "age": 29,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DUWEZ",
+          "prenom": "Hervé",
+          "nom_complet": "Hervé DUWEZ",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "GAMBET-JOSSE",
+          "prenom": "Gaëlle",
+          "nom_complet": "Gaëlle GAMBET-JOSSE",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "FACQUEZ",
+          "prenom": "Lysian",
+          "nom_complet": "Lysian FACQUEZ",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "RADAJEWSKI",
+          "prenom": "Angélique",
+          "nom_complet": "Angélique RADAJEWSKI",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "GOSSET",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique GOSSET",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "SELLIER-FOURDRINOY",
+          "prenom": "Sandrine",
+          "nom_complet": "Sandrine SELLIER-FOURDRINOY",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "THOMAS",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent THOMAS",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "THOMAS",
+          "prenom": "Alyson",
+          "nom_complet": "Alyson THOMAS",
+          "sexe": "F",
+          "age": 25,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "VALLIÈRE",
+          "prenom": "Sébastien",
+          "nom_complet": "Sébastien VALLIÈRE",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

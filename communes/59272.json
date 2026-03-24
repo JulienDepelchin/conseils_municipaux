@@ -1,0 +1,279 @@
+{
+  "code_commune": "59272",
+  "commune": "Grand-Fort-Philippe",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "AGEZ",
+    "prenom": "Romain",
+    "nom_complet": "Romain AGEZ",
+    "age": 38,
+    "nuance": "LDVC"
+  },
+  "resultats": {
+    "inscrits": 4111,
+    "votants": 2497,
+    "pct_votants": 60.74,
+    "abstentions": 1614,
+    "pct_abstentions": 39.26,
+    "exprimes": 2393
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Ecouter pour Agir",
+      "libelle_abrege_liste": "EPA",
+      "nuance_liste": "LDVC",
+      "voix": 1412,
+      "pct_voix_exprimes": 59.01,
+      "sieges_cm": 22,
+      "sieges_cc": 1,
+      "nb_elus": 22,
+      "tete_de_liste": {
+        "nom": "AGEZ",
+        "prenom": "Romain",
+        "nom_complet": "Romain AGEZ",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "AGEZ",
+          "prenom": "Romain",
+          "nom_complet": "Romain AGEZ",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "WADOUX",
+          "prenom": "Christele",
+          "nom_complet": "Christele WADOUX",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "CANDEL ESCOBAR",
+          "prenom": "Mario",
+          "nom_complet": "Mario CANDEL ESCOBAR",
+          "sexe": "M",
+          "age": 75,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "AGEZ",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie AGEZ",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "FOURNIER",
+          "prenom": "Herve",
+          "nom_complet": "Herve FOURNIER",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LEFEBURE",
+          "prenom": "Chantal",
+          "nom_complet": "Chantal LEFEBURE",
+          "sexe": "F",
+          "age": 71,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "NEUQUELMAN",
+          "prenom": "Willy",
+          "nom_complet": "Willy NEUQUELMAN",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "GIONNANE",
+          "prenom": "Charline",
+          "nom_complet": "Charline GIONNANE",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DIVE",
+          "prenom": "Alexis",
+          "nom_complet": "Alexis DIVE",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "LOTTEAU",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie LOTTEAU",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "BLOCKLET",
+          "prenom": "Jean-Noël",
+          "nom_complet": "Jean-Noël BLOCKLET",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "LEGRAND",
+          "prenom": "Sandrine",
+          "nom_complet": "Sandrine LEGRAND",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "DOUBLET",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno DOUBLET",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "FOURNIER",
+          "prenom": "Marie-Anne",
+          "nom_complet": "Marie-Anne FOURNIER",
+          "sexe": "F",
+          "age": 75,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "CHOMBART",
+          "prenom": "Raphaël",
+          "nom_complet": "Raphaël CHOMBART",
+          "sexe": "M",
+          "age": 22,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "BAYARD",
+          "prenom": "Marie Christine",
+          "nom_complet": "Marie Christine BAYARD",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "GRUSON",
+          "prenom": "Jean-Marie",
+          "nom_complet": "Jean-Marie GRUSON",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "AGNERAY",
+          "prenom": "Carole",
+          "nom_complet": "Carole AGNERAY",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "VERGRIETE",
+          "prenom": "Renaud",
+          "nom_complet": "Renaud VERGRIETE",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "GIONNANE",
+          "prenom": "Aline",
+          "nom_complet": "Aline GIONNANE",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "LEFRANC",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric LEFRANC",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "SCHEPPER",
+          "prenom": "Josette",
+          "nom_complet": "Josette SCHEPPER",
+          "sexe": "F",
+          "age": 81,
+          "rang_liste": "22"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "avec vous pour grand-fort",
+      "libelle_abrege_liste": "avpgd",
+      "nuance_liste": "LDVG",
+      "voix": 981,
+      "pct_voix_exprimes": 40.99,
+      "sieges_cm": 5,
+      "sieges_cc": 0,
+      "nb_elus": 5,
+      "tete_de_liste": {
+        "nom": "DEROY",
+        "prenom": "Fabienne",
+        "nom_complet": "Fabienne DEROY",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "DEROY",
+          "prenom": "Fabienne",
+          "nom_complet": "Fabienne DEROY",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "VITSE",
+          "prenom": "Jean-François",
+          "nom_complet": "Jean-François VITSE",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "VEROVE",
+          "prenom": "Solenne",
+          "nom_complet": "Solenne VEROVE",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "FIHEY",
+          "prenom": "Ludovic",
+          "nom_complet": "Ludovic FIHEY",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LEMAIRE",
+          "prenom": "Dorothée",
+          "nom_complet": "Dorothée LEMAIRE",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "5"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

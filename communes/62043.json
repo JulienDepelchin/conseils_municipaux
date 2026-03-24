@@ -1,0 +1,195 @@
+{
+  "code_commune": "62043",
+  "commune": "Les Attaques",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "DENIELE-VAMPOUILLE",
+    "prenom": "Nadine",
+    "nom_complet": "Nadine DENIELE-VAMPOUILLE",
+    "age": 70,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1532,
+    "votants": 829,
+    "pct_votants": 54.11,
+    "abstentions": 703,
+    "pct_abstentions": 45.89,
+    "exprimes": 702
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Le bien vivre comme engagement",
+      "libelle_abrege_liste": "Le bien vivre comme engagement",
+      "nuance_liste": null,
+      "voix": 702,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 19,
+      "sieges_cc": 1,
+      "nb_elus": 19,
+      "tete_de_liste": {
+        "nom": "DENIELE-VAMPOUILLE",
+        "prenom": "Nadine",
+        "nom_complet": "Nadine DENIELE-VAMPOUILLE",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "DENIELE-VAMPOUILLE",
+          "prenom": "Nadine",
+          "nom_complet": "Nadine DENIELE-VAMPOUILLE",
+          "sexe": "F",
+          "age": 70,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LEFEBVRE",
+          "prenom": "Pierre-Louis",
+          "nom_complet": "Pierre-Louis LEFEBVRE",
+          "sexe": "M",
+          "age": 74,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DUVIVIER",
+          "prenom": "Chantal",
+          "nom_complet": "Chantal DUVIVIER",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "COUTURIER",
+          "prenom": "Stéphane",
+          "nom_complet": "Stéphane COUTURIER",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "STROBBE",
+          "prenom": "Marielle",
+          "nom_complet": "Marielle STROBBE",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DUTRIE",
+          "prenom": "Axel",
+          "nom_complet": "Axel DUTRIE",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "MERCIER",
+          "prenom": "Martine",
+          "nom_complet": "Martine MERCIER",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "PEENAERT",
+          "prenom": "Antoine",
+          "nom_complet": "Antoine PEENAERT",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "HALLER",
+          "prenom": "Jennifer",
+          "nom_complet": "Jennifer HALLER",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DEBYSER",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick DEBYSER",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "BOUCHART",
+          "prenom": "Allison",
+          "nom_complet": "Allison BOUCHART",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "MERCIER",
+          "prenom": "Eric",
+          "nom_complet": "Eric MERCIER",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "CLABAUX",
+          "prenom": "Annabelle",
+          "nom_complet": "Annabelle CLABAUX",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "LASSALLE",
+          "prenom": "Eric",
+          "nom_complet": "Eric LASSALLE",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "LHASSEN",
+          "prenom": "Fabienne",
+          "nom_complet": "Fabienne LHASSEN",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "NEE",
+          "prenom": "Sébastien",
+          "nom_complet": "Sébastien NEE",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "DUVIEUXBOURG",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie DUVIEUXBOURG",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "HONVAULT",
+          "prenom": "Stéphane",
+          "nom_complet": "Stéphane HONVAULT",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "BERIATI",
+          "prenom": "Karine",
+          "nom_complet": "Karine BERIATI",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "19"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

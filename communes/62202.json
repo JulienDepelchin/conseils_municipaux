@@ -1,0 +1,163 @@
+{
+  "code_commune": "62202",
+  "commune": "Campagne-lès-Boulonnais",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "CARDON",
+    "prenom": "Joel",
+    "nom_complet": "Joel CARDON",
+    "age": 70,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 487,
+    "votants": 333,
+    "pct_votants": 68.38,
+    "abstentions": 154,
+    "pct_abstentions": 31.62,
+    "exprimes": 266
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "NOTRE VILLAGE, NOTRE AVENIR",
+      "libelle_abrege_liste": "NOTRE VILLAGE, NOTRE AVENIR",
+      "nuance_liste": null,
+      "voix": 266,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "CARDON",
+        "prenom": "Joel",
+        "nom_complet": "Joel CARDON",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "CARDON",
+          "prenom": "Joel",
+          "nom_complet": "Joel CARDON",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "CLEMENT",
+          "prenom": "Estelle",
+          "nom_complet": "Estelle CLEMENT",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LOTTILLIER",
+          "prenom": "Herve",
+          "nom_complet": "Herve LOTTILLIER",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DEFOSSE",
+          "prenom": "Annie",
+          "nom_complet": "Annie DEFOSSE",
+          "sexe": "F",
+          "age": 72,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "HEUEL",
+          "prenom": "Jean-Michel",
+          "nom_complet": "Jean-Michel HEUEL",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LASSALLE",
+          "prenom": "Estelle",
+          "nom_complet": "Estelle LASSALLE",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BRAURE",
+          "prenom": "Herve",
+          "nom_complet": "Herve BRAURE",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "FOURNIER",
+          "prenom": "Therese",
+          "nom_complet": "Therese FOURNIER",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "CANLER",
+          "prenom": "David",
+          "nom_complet": "David CANLER",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "LELEU",
+          "prenom": "Lucie",
+          "nom_complet": "Lucie LELEU",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "BEGARD",
+          "prenom": "Kevin",
+          "nom_complet": "Kevin BEGARD",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "VANAUTRYVE",
+          "prenom": "Severine",
+          "nom_complet": "Severine VANAUTRYVE",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "ROUSSEL",
+          "prenom": "Jacques",
+          "nom_complet": "Jacques ROUSSEL",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "FINDINIER",
+          "prenom": "Therese",
+          "nom_complet": "Therese FINDINIER",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "FAYOLLE",
+          "prenom": "Bernard",
+          "nom_complet": "Bernard FAYOLLE",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

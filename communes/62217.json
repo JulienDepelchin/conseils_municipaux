@@ -1,0 +1,247 @@
+{
+  "code_commune": "62217",
+  "commune": "Cauchy-à-la-Tour",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "FLAHAUT",
+    "prenom": "Jacques",
+    "nom_complet": "Jacques FLAHAUT",
+    "age": 58,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1928,
+    "votants": 1298,
+    "pct_votants": 67.32,
+    "abstentions": 630,
+    "pct_abstentions": 32.68,
+    "exprimes": 1242
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "CONTINUONS ENSEMBLE",
+      "libelle_abrege_liste": "CONTINUONS ENSEMBLE",
+      "nuance_liste": null,
+      "voix": 876,
+      "pct_voix_exprimes": 70.53,
+      "sieges_cm": 20,
+      "sieges_cc": 1,
+      "nb_elus": 20,
+      "tete_de_liste": {
+        "nom": "FLAHAUT",
+        "prenom": "Jacques",
+        "nom_complet": "Jacques FLAHAUT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "FLAHAUT",
+          "prenom": "Jacques",
+          "nom_complet": "Jacques FLAHAUT",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "COLLIEZ",
+          "prenom": "Anne-Sophie",
+          "nom_complet": "Anne-Sophie COLLIEZ",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "HECQUEFEUILLE",
+          "prenom": "Bernard",
+          "nom_complet": "Bernard HECQUEFEUILLE",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DESQUESNES",
+          "prenom": "Betty",
+          "nom_complet": "Betty DESQUESNES",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "OFFROY",
+          "prenom": "Serge",
+          "nom_complet": "Serge OFFROY",
+          "sexe": "M",
+          "age": 76,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "WITTKE",
+          "prenom": "Ophélie",
+          "nom_complet": "Ophélie WITTKE",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "ROLLIN",
+          "prenom": "Michel",
+          "nom_complet": "Michel ROLLIN",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LANCELLE",
+          "prenom": "Élodie",
+          "nom_complet": "Élodie LANCELLE",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "BRINGUETZ",
+          "prenom": "Michel",
+          "nom_complet": "Michel BRINGUETZ",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "BOURSAULT",
+          "prenom": "Patricia",
+          "nom_complet": "Patricia BOURSAULT",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "VASSEUR",
+          "prenom": "Serge",
+          "nom_complet": "Serge VASSEUR",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "LHOMME",
+          "prenom": "Barbara",
+          "nom_complet": "Barbara LHOMME",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "KAJ",
+          "prenom": "Jean Bernard",
+          "nom_complet": "Jean Bernard KAJ",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "MILON",
+          "prenom": "Vicky",
+          "nom_complet": "Vicky MILON",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "PATZOLD",
+          "prenom": "Rudy",
+          "nom_complet": "Rudy PATZOLD",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "LEPRETRE",
+          "prenom": "Delphine",
+          "nom_complet": "Delphine LEPRETRE",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "EVRARD",
+          "prenom": "Louis",
+          "nom_complet": "Louis EVRARD",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "GALLET",
+          "prenom": "Catherine",
+          "nom_complet": "Catherine GALLET",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "BOUTON",
+          "prenom": "Michel",
+          "nom_complet": "Michel BOUTON",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "GRIMBERT",
+          "prenom": "Sophie",
+          "nom_complet": "Sophie GRIMBERT",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "20"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Libérons Cauchy",
+      "libelle_abrege_liste": "Libérons Cauchy",
+      "nuance_liste": null,
+      "voix": 366,
+      "pct_voix_exprimes": 29.47,
+      "sieges_cm": 3,
+      "sieges_cc": 0,
+      "nb_elus": 3,
+      "tete_de_liste": {
+        "nom": "BARROIS",
+        "prenom": "Hélène",
+        "nom_complet": "Hélène BARROIS",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "BARROIS",
+          "prenom": "Hélène",
+          "nom_complet": "Hélène BARROIS",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DEPLANQUE",
+          "prenom": "Yannick",
+          "nom_complet": "Yannick DEPLANQUE",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LEPECQUET",
+          "prenom": "Annick",
+          "nom_complet": "Annick LEPECQUET",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "3"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

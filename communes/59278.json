@@ -1,0 +1,259 @@
+{
+  "code_commune": "59278",
+  "commune": "Hallennes-lez-Haubourdin",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "PAU",
+    "prenom": "André",
+    "nom_complet": "André PAU",
+    "age": 70,
+    "nuance": "LDVD"
+  },
+  "resultats": {
+    "inscrits": 3433,
+    "votants": 1576,
+    "pct_votants": 45.91,
+    "abstentions": 1857,
+    "pct_abstentions": 54.09,
+    "exprimes": 1391
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "DÉFENSE DES INTÉRÊTS FAMILIAUX ET COMMUNAUX",
+      "libelle_abrege_liste": "DÉFENSE DES INTÉRÊTS FAMILIAUX ET COMMUNAUX",
+      "nuance_liste": "LDVD",
+      "voix": 1391,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 27,
+      "sieges_cc": 1,
+      "nb_elus": 27,
+      "tete_de_liste": {
+        "nom": "PAU",
+        "prenom": "André",
+        "nom_complet": "André PAU",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "PAU",
+          "prenom": "André",
+          "nom_complet": "André PAU",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BOUTEVILLAIN",
+          "prenom": "Anne-Catherine",
+          "nom_complet": "Anne-Catherine BOUTEVILLAIN",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "CHIRAT",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric CHIRAT",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "PÉRÉ",
+          "prenom": "Ghislaine",
+          "nom_complet": "Ghislaine PÉRÉ",
+          "sexe": "F",
+          "age": 71,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DRUART",
+          "prenom": "Ludovic",
+          "nom_complet": "Ludovic DRUART",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "ROSE",
+          "prenom": "Brigitte",
+          "nom_complet": "Brigitte ROSE",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "MOLIN",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick MOLIN",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "VANHOUCKE",
+          "prenom": "Patricia",
+          "nom_complet": "Patricia VANHOUCKE",
+          "sexe": "F",
+          "age": 70,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DEFIVES",
+          "prenom": "Alain",
+          "nom_complet": "Alain DEFIVES",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "CACHOT",
+          "prenom": "Delphine",
+          "nom_complet": "Delphine CACHOT",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "LEBLANC",
+          "prenom": "William",
+          "nom_complet": "William LEBLANC",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "CRÉPIN",
+          "prenom": "Josiane",
+          "nom_complet": "Josiane CRÉPIN",
+          "sexe": "F",
+          "age": 81,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "LECLERCQ",
+          "prenom": "Fernand",
+          "nom_complet": "Fernand LECLERCQ",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "PLATAUX",
+          "prenom": "Elisabeth",
+          "nom_complet": "Elisabeth PLATAUX",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "LEPETIT",
+          "prenom": "Francis",
+          "nom_complet": "Francis LEPETIT",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "DEMUYNCK",
+          "prenom": "Dorothée",
+          "nom_complet": "Dorothée DEMUYNCK",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "ALLIENNE",
+          "prenom": "Yves",
+          "nom_complet": "Yves ALLIENNE",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "DE MORAIS",
+          "prenom": "Eugénie",
+          "nom_complet": "Eugénie DE MORAIS",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "COPOL",
+          "prenom": "Richard",
+          "nom_complet": "Richard COPOL",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "GOSSELIN",
+          "prenom": "Caroline",
+          "nom_complet": "Caroline GOSSELIN",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "LECLERCQ",
+          "prenom": "Mickaël",
+          "nom_complet": "Mickaël LECLERCQ",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "LEFEVRE",
+          "prenom": "Alexandra",
+          "nom_complet": "Alexandra LEFEVRE",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "LORIER",
+          "prenom": "Goldy",
+          "nom_complet": "Goldy LORIER",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "23"
+        },
+        {
+          "nom": "MOROY",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie MOROY",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "24"
+        },
+        {
+          "nom": "THIEFFRY",
+          "prenom": "André",
+          "nom_complet": "André THIEFFRY",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "25"
+        },
+        {
+          "nom": "VERREYDT",
+          "prenom": "Florence",
+          "nom_complet": "Florence VERREYDT",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "26"
+        },
+        {
+          "nom": "TOSELLO",
+          "prenom": "Maverick",
+          "nom_complet": "Maverick TOSELLO",
+          "sexe": "M",
+          "age": 30,
+          "rang_liste": "27"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

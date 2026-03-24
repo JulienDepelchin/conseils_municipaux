@@ -1,0 +1,131 @@
+{
+  "code_commune": "62710",
+  "commune": "Rimboval",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "PICHONNIER",
+    "prenom": "Nicolas",
+    "nom_complet": "Nicolas PICHONNIER",
+    "age": 49,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 162,
+    "votants": 151,
+    "pct_votants": 93.21,
+    "abstentions": 11,
+    "pct_abstentions": 6.79,
+    "exprimes": 133
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Rimboval, Notre Village",
+      "libelle_abrege_liste": "Rimboval, Notre Village",
+      "nuance_liste": null,
+      "voix": 133,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "PICHONNIER",
+        "prenom": "Nicolas",
+        "nom_complet": "Nicolas PICHONNIER",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "PICHONNIER",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas PICHONNIER",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LAINÉ",
+          "prenom": "Corinne",
+          "nom_complet": "Corinne LAINÉ",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DENIS",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal DENIS",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "PETIT",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle PETIT",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "HERTAULT",
+          "prenom": "Julien",
+          "nom_complet": "Julien HERTAULT",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "WIDEHEM",
+          "prenom": "Aline",
+          "nom_complet": "Aline WIDEHEM",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "VERZELETTI",
+          "prenom": "Rino",
+          "nom_complet": "Rino VERZELETTI",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DOURNEAU",
+          "prenom": "Brigitte",
+          "nom_complet": "Brigitte DOURNEAU",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "MERLOT",
+          "prenom": "Alexis",
+          "nom_complet": "Alexis MERLOT",
+          "sexe": "M",
+          "age": 27,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "PRUDHOMME",
+          "prenom": "Sarah",
+          "nom_complet": "Sarah PRUDHOMME",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "BARON",
+          "prenom": "Jérôme",
+          "nom_complet": "Jérôme BARON",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

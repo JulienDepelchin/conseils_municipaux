@@ -1,0 +1,327 @@
+{
+  "code_commune": "59527",
+  "commune": "Saint-André-lez-Lille",
+  "departement": "Nord",
+  "tour": "T2",
+  "maire": {
+    "nom": "RICHER",
+    "prenom": "Cyprien",
+    "nom_complet": "Cyprien RICHER",
+    "age": 44,
+    "nuance": "LDVG"
+  },
+  "resultats": {
+    "inscrits": 9374,
+    "votants": 5177,
+    "pct_votants": 55.23,
+    "abstentions": 4197,
+    "pct_abstentions": 44.77,
+    "exprimes": 5058
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "Osons Saint-André avec Cyprien Richer, Liste citoyenne, écologiste et sociale",
+      "libelle_abrege_liste": "Osons Saint-André avec Cyprien Richer, Liste citoyenne, écologiste et sociale",
+      "nuance_liste": "LDVG",
+      "voix": 2567,
+      "pct_voix_exprimes": 50.75,
+      "sieges_cm": 25,
+      "sieges_cc": 1,
+      "nb_elus": 25,
+      "tete_de_liste": {
+        "nom": "RICHER",
+        "prenom": "Cyprien",
+        "nom_complet": "Cyprien RICHER",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "RICHER",
+          "prenom": "Cyprien",
+          "nom_complet": "Cyprien RICHER",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DESCAMPS",
+          "prenom": "Fatima",
+          "nom_complet": "Fatima DESCAMPS",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "GARCIA",
+          "prenom": "Esteban",
+          "nom_complet": "Esteban GARCIA",
+          "sexe": "M",
+          "age": 76,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "ATTINAULT",
+          "prenom": "Karine",
+          "nom_complet": "Karine ATTINAULT",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "ANDRÉ",
+          "prenom": "Émeric",
+          "nom_complet": "Émeric ANDRÉ",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "BRILLOT",
+          "prenom": "Frédérique",
+          "nom_complet": "Frédérique BRILLOT",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "GOSSET",
+          "prenom": "Francis",
+          "nom_complet": "Francis GOSSET",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "VANDOOLAEGHE",
+          "prenom": "Pauline",
+          "nom_complet": "Pauline VANDOOLAEGHE",
+          "sexe": "F",
+          "age": 33,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "GOUSSEAU",
+          "prenom": "Sylvain",
+          "nom_complet": "Sylvain GOUSSEAU",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "LENGLAIN",
+          "prenom": "Dorothée",
+          "nom_complet": "Dorothée LENGLAIN",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "RENOUF",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent RENOUF",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "BAUWERAERTS",
+          "prenom": "Peggy",
+          "nom_complet": "Peggy BAUWERAERTS",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "MARAQUIN",
+          "prenom": "Thibaut",
+          "nom_complet": "Thibaut MARAQUIN",
+          "sexe": "M",
+          "age": 31,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "CAILLERET",
+          "prenom": "Marion",
+          "nom_complet": "Marion CAILLERET",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "LIBAERT",
+          "prenom": "Thierry",
+          "nom_complet": "Thierry LIBAERT",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "COLINET",
+          "prenom": "Marie",
+          "nom_complet": "Marie COLINET",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "HOUZEAUX",
+          "prenom": "Alain",
+          "nom_complet": "Alain HOUZEAUX",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "VENET",
+          "prenom": "Marie",
+          "nom_complet": "Marie VENET",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "KINDT",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe KINDT",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "PASTOUKOFF",
+          "prenom": "Natacha",
+          "nom_complet": "Natacha PASTOUKOFF",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "LAVIÉVILLE",
+          "prenom": "Jean-Pierre",
+          "nom_complet": "Jean-Pierre LAVIÉVILLE",
+          "sexe": "M",
+          "age": 85,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "CROQUETTE",
+          "prenom": "Elisabeth",
+          "nom_complet": "Elisabeth CROQUETTE",
+          "sexe": "F",
+          "age": 70,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "GHOMRANE",
+          "prenom": "Rabah",
+          "nom_complet": "Rabah GHOMRANE",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "23"
+        },
+        {
+          "nom": "DECONYNCK",
+          "prenom": "Christine",
+          "nom_complet": "Christine DECONYNCK",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "24"
+        },
+        {
+          "nom": "TIMELLI",
+          "prenom": "Geoffroy",
+          "nom_complet": "Geoffroy TIMELLI",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "25"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "3",
+      "libelle_liste": "SAINT-ANDRÉ DEMAIN",
+      "libelle_abrege_liste": "SAINT-ANDRÉ DEMAIN",
+      "nuance_liste": "LDVC",
+      "voix": 2491,
+      "pct_voix_exprimes": 49.25,
+      "sieges_cm": 8,
+      "sieges_cc": 0,
+      "nb_elus": 8,
+      "tete_de_liste": {
+        "nom": "FABRE",
+        "prenom": "Thomas",
+        "nom_complet": "Thomas FABRE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "FABRE",
+          "prenom": "Thomas",
+          "nom_complet": "Thomas FABRE",
+          "sexe": "M",
+          "age": 31,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "CLUSMAN",
+          "prenom": "Mélanie",
+          "nom_complet": "Mélanie CLUSMAN",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BRAY",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas BRAY",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DEMUYS",
+          "prenom": "Martine",
+          "nom_complet": "Martine DEMUYS",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "BONTE",
+          "prenom": "Maxime",
+          "nom_complet": "Maxime BONTE",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "ROGGE",
+          "prenom": "Christelle",
+          "nom_complet": "Christelle ROGGE",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "PARSY",
+          "prenom": "Didier",
+          "nom_complet": "Didier PARSY",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DOLVELDE",
+          "prenom": "Véronique",
+          "nom_complet": "Véronique DOLVELDE",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "8"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

@@ -1,0 +1,259 @@
+{
+  "code_commune": "59067",
+  "commune": "Bergues",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "TRONQUOY",
+    "prenom": "Paul-Loup",
+    "nom_complet": "Paul-Loup TRONQUOY",
+    "age": 38,
+    "nuance": "LDVD"
+  },
+  "resultats": {
+    "inscrits": 2697,
+    "votants": 1372,
+    "pct_votants": 50.87,
+    "abstentions": 1325,
+    "pct_abstentions": 49.13,
+    "exprimes": 1281
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Bergues avenir",
+      "libelle_abrege_liste": "BA",
+      "nuance_liste": "LDVD",
+      "voix": 1281,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 27,
+      "sieges_cc": 4,
+      "nb_elus": 27,
+      "tete_de_liste": {
+        "nom": "TRONQUOY",
+        "prenom": "Paul-Loup",
+        "nom_complet": "Paul-Loup TRONQUOY",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "TRONQUOY",
+          "prenom": "Paul-Loup",
+          "nom_complet": "Paul-Loup TRONQUOY",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "FOLLET",
+          "prenom": "Françoise",
+          "nom_complet": "Françoise FOLLET",
+          "sexe": "F",
+          "age": 70,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BOUREL",
+          "prenom": "Marc",
+          "nom_complet": "Marc BOUREL",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "THOMAS",
+          "prenom": "Elodie",
+          "nom_complet": "Elodie THOMAS",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "CHELKOWSKI",
+          "prenom": "Xavier",
+          "nom_complet": "Xavier CHELKOWSKI",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DESMEDT",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie DESMEDT",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "PRIN",
+          "prenom": "Romain",
+          "nom_complet": "Romain PRIN",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "VASSEUR",
+          "prenom": "Catherine",
+          "nom_complet": "Catherine VASSEUR",
+          "sexe": "F",
+          "age": 71,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "THIRIONET",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent THIRIONET",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "LAURENS",
+          "prenom": "Marina",
+          "nom_complet": "Marina LAURENS",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "COLAU",
+          "prenom": "Jean-François",
+          "nom_complet": "Jean-François COLAU",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "MARTEL",
+          "prenom": "Karine",
+          "nom_complet": "Karine MARTEL",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "VANMERRIS",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe VANMERRIS",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "CRESPEAU",
+          "prenom": "Angélina",
+          "nom_complet": "Angélina CRESPEAU",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "BUTTERDROGHE",
+          "prenom": "Hervé",
+          "nom_complet": "Hervé BUTTERDROGHE",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "THERY",
+          "prenom": "Sandrine",
+          "nom_complet": "Sandrine THERY",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "CANOEN",
+          "prenom": "Tony",
+          "nom_complet": "Tony CANOEN",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "VANDAELE",
+          "prenom": "Mylène",
+          "nom_complet": "Mylène VANDAELE",
+          "sexe": "F",
+          "age": 29,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "DUPUIS",
+          "prenom": "Alexandre",
+          "nom_complet": "Alexandre DUPUIS",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "DUMONT",
+          "prenom": "Monique",
+          "nom_complet": "Monique DUMONT",
+          "sexe": "F",
+          "age": 81,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "CLYTI",
+          "prenom": "Julien",
+          "nom_complet": "Julien CLYTI",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "TANGE DAMBRY",
+          "prenom": "Carole",
+          "nom_complet": "Carole TANGE DAMBRY",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "LEFEBVRE",
+          "prenom": "Georges",
+          "nom_complet": "Georges LEFEBVRE",
+          "sexe": "M",
+          "age": 34,
+          "rang_liste": "23"
+        },
+        {
+          "nom": "ETIENNE",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie ETIENNE",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "24"
+        },
+        {
+          "nom": "VERLANDE",
+          "prenom": "Michel",
+          "nom_complet": "Michel VERLANDE",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "25"
+        },
+        {
+          "nom": "GUILBERT",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle GUILBERT",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "26"
+        },
+        {
+          "nom": "NOOTE",
+          "prenom": "Robert",
+          "nom_complet": "Robert NOOTE",
+          "sexe": "M",
+          "age": 74,
+          "rang_liste": "27"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

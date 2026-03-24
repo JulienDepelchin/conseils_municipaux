@@ -1,0 +1,131 @@
+{
+  "code_commune": "59217",
+  "commune": "Eth",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "WANDOLSKI",
+    "prenom": "Fabrice",
+    "nom_complet": "Fabrice WANDOLSKI",
+    "age": 58,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 253,
+    "votants": 161,
+    "pct_votants": 63.64,
+    "abstentions": 92,
+    "pct_abstentions": 36.36,
+    "exprimes": 138
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ETH une authenticité à partager",
+      "libelle_abrege_liste": "ETH une authenticité à partager",
+      "nuance_liste": null,
+      "voix": 138,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "WANDOLSKI",
+        "prenom": "Fabrice",
+        "nom_complet": "Fabrice WANDOLSKI",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "WANDOLSKI",
+          "prenom": "Fabrice",
+          "nom_complet": "Fabrice WANDOLSKI",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "WIDIEZ",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie WIDIEZ",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "ROGER",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe ROGER",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "RIGAUT",
+          "prenom": "Catherine",
+          "nom_complet": "Catherine RIGAUT",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "GROMADA",
+          "prenom": "Julien",
+          "nom_complet": "Julien GROMADA",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "WIDIEZ",
+          "prenom": "Alice",
+          "nom_complet": "Alice WIDIEZ",
+          "sexe": "F",
+          "age": 21,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "GENAMEZ",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent GENAMEZ",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "BESIN",
+          "prenom": "Ludivine",
+          "nom_complet": "Ludivine BESIN",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "KRIEGEL",
+          "prenom": "Bertrand",
+          "nom_complet": "Bertrand KRIEGEL",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "FEDERBE",
+          "prenom": "Angélique",
+          "nom_complet": "Angélique FEDERBE",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "BIFARELLA",
+          "prenom": "Giuseppe",
+          "nom_complet": "Giuseppe BIFARELLA",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

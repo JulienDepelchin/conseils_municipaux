@@ -1,0 +1,327 @@
+{
+  "code_commune": "59367",
+  "commune": "Lys-lez-Lannoy",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "PROKOPOWICZ",
+    "prenom": "Charles-Alexandre",
+    "nom_complet": "Charles-Alexandre PROKOPOWICZ",
+    "age": 36,
+    "nuance": "LDVD"
+  },
+  "resultats": {
+    "inscrits": 9463,
+    "votants": 4421,
+    "pct_votants": 46.72,
+    "abstentions": 5042,
+    "pct_abstentions": 53.28,
+    "exprimes": 4245
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Lys Proche et Innovante",
+      "libelle_abrege_liste": "Lys Proche et Innovante",
+      "nuance_liste": "LDVD",
+      "voix": 3148,
+      "pct_voix_exprimes": 74.16,
+      "sieges_cm": 29,
+      "sieges_cc": 2,
+      "nb_elus": 29,
+      "tete_de_liste": {
+        "nom": "PROKOPOWICZ",
+        "prenom": "Charles-Alexandre",
+        "nom_complet": "Charles-Alexandre PROKOPOWICZ",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "PROKOPOWICZ",
+          "prenom": "Charles-Alexandre",
+          "nom_complet": "Charles-Alexandre PROKOPOWICZ",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "ELBASRI",
+          "prenom": "Zohra",
+          "nom_complet": "Zohra ELBASRI",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "WALLERAND",
+          "prenom": "Konrad",
+          "nom_complet": "Konrad WALLERAND",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LE LANNIC",
+          "prenom": "Agnès",
+          "nom_complet": "Agnès LE LANNIC",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "HANCQ",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe HANCQ",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "CAPLIER",
+          "prenom": "Delphine",
+          "nom_complet": "Delphine CAPLIER",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DE BRUILLE",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe DE BRUILLE",
+          "sexe": "M",
+          "age": 76,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "MENAGER-NKOMBE",
+          "prenom": "Técla",
+          "nom_complet": "Técla MENAGER-NKOMBE",
+          "sexe": "F",
+          "age": 70,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "MORTIER",
+          "prenom": "François",
+          "nom_complet": "François MORTIER",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "HUYS",
+          "prenom": "Aurélie",
+          "nom_complet": "Aurélie HUYS",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "LEDRUE",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas LEDRUE",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "SELOSSE",
+          "prenom": "Valérie",
+          "nom_complet": "Valérie SELOSSE",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "PILLOIS",
+          "prenom": "Francis",
+          "nom_complet": "Francis PILLOIS",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "DE FREITAS",
+          "prenom": "Manuella",
+          "nom_complet": "Manuella DE FREITAS",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "LEMANT",
+          "prenom": "Thierry",
+          "nom_complet": "Thierry LEMANT",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "SEYS",
+          "prenom": "Marie-France",
+          "nom_complet": "Marie-France SEYS",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "METGY",
+          "prenom": "Amaury",
+          "nom_complet": "Amaury METGY",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "PROKOPOWICZ-MAGRIT",
+          "prenom": "Marie-Christine",
+          "nom_complet": "Marie-Christine PROKOPOWICZ-MAGRIT",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "BOSSU",
+          "prenom": "Geoffrey",
+          "nom_complet": "Geoffrey BOSSU",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "TOP",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie TOP",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "GIGANTE",
+          "prenom": "Marco",
+          "nom_complet": "Marco GIGANTE",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "DE METS",
+          "prenom": "Pascale",
+          "nom_complet": "Pascale DE METS",
+          "sexe": "F",
+          "age": 73,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "ROUX",
+          "prenom": "Sébastien",
+          "nom_complet": "Sébastien ROUX",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "23"
+        },
+        {
+          "nom": "LEGROS",
+          "prenom": "Caroline",
+          "nom_complet": "Caroline LEGROS",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "24"
+        },
+        {
+          "nom": "MENAGER",
+          "prenom": "Francis",
+          "nom_complet": "Francis MENAGER",
+          "sexe": "M",
+          "age": 80,
+          "rang_liste": "25"
+        },
+        {
+          "nom": "KUGLER-HELLIN",
+          "prenom": "Sandra",
+          "nom_complet": "Sandra KUGLER-HELLIN",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "26"
+        },
+        {
+          "nom": "VANLAECKE",
+          "prenom": "Romain",
+          "nom_complet": "Romain VANLAECKE",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "27"
+        },
+        {
+          "nom": "DUARTE-VERSCHAETE",
+          "prenom": "Sandra",
+          "nom_complet": "Sandra DUARTE-VERSCHAETE",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "28"
+        },
+        {
+          "nom": "THERBY",
+          "prenom": "Thibault",
+          "nom_complet": "Thibault THERBY",
+          "sexe": "M",
+          "age": 31,
+          "rang_liste": "29"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "Agir Ensemble, pour une ville qui vous ressemble!",
+      "libelle_abrege_liste": "Agir Ensemble, pour une ville qui vous ressemble!",
+      "nuance_liste": "LDVC",
+      "voix": 1097,
+      "pct_voix_exprimes": 25.84,
+      "sieges_cm": 4,
+      "sieges_cc": 0,
+      "nb_elus": 4,
+      "tete_de_liste": {
+        "nom": "VANHOVE",
+        "prenom": "Mélanie",
+        "nom_complet": "Mélanie VANHOVE",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "VANHOVE",
+          "prenom": "Mélanie",
+          "nom_complet": "Mélanie VANHOVE",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "PAUWELS",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric PAUWELS",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "VLUYS",
+          "prenom": "Valérie",
+          "nom_complet": "Valérie VLUYS",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BUINO",
+          "prenom": "Amaury",
+          "nom_complet": "Amaury BUINO",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "4"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

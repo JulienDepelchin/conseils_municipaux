@@ -1,0 +1,215 @@
+{
+  "code_commune": "59042",
+  "commune": "Bachy",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "DELCOURT",
+    "prenom": "Philippe",
+    "nom_complet": "Philippe DELCOURT",
+    "age": 76,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1447,
+    "votants": 1011,
+    "pct_votants": 69.87,
+    "abstentions": 436,
+    "pct_abstentions": 30.13,
+    "exprimes": 992
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "Bachy, Bien Vivre Ensemble",
+      "libelle_abrege_liste": "Bachy, Bien Vivre Ensemble",
+      "nuance_liste": null,
+      "voix": 590,
+      "pct_voix_exprimes": 59.48,
+      "sieges_cm": 15,
+      "sieges_cc": 1,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "DELCOURT",
+        "prenom": "Philippe",
+        "nom_complet": "Philippe DELCOURT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DELCOURT",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe DELCOURT",
+          "sexe": "M",
+          "age": 76,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LEMAIRE",
+          "prenom": "Chloé",
+          "nom_complet": "Chloé LEMAIRE",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DHORDAIN",
+          "prenom": "Gautier",
+          "nom_complet": "Gautier DHORDAIN",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "FIEVET",
+          "prenom": "Valérie",
+          "nom_complet": "Valérie FIEVET",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "WOUÉ",
+          "prenom": "Benjamin",
+          "nom_complet": "Benjamin WOUÉ",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "HOUPPE",
+          "prenom": "Apolline",
+          "nom_complet": "Apolline HOUPPE",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "GRAËNICHER",
+          "prenom": "Yann",
+          "nom_complet": "Yann GRAËNICHER",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "FAUQUEMBERGUE",
+          "prenom": "Julie",
+          "nom_complet": "Julie FAUQUEMBERGUE",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "COUSIN",
+          "prenom": "Patrice",
+          "nom_complet": "Patrice COUSIN",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "HERBAUX",
+          "prenom": "Marion",
+          "nom_complet": "Marion HERBAUX",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "BEGHIN",
+          "prenom": "Joseph",
+          "nom_complet": "Joseph BEGHIN",
+          "sexe": "M",
+          "age": 80,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "THOMAS-DRUON",
+          "prenom": "Sarah",
+          "nom_complet": "Sarah THOMAS-DRUON",
+          "sexe": "F",
+          "age": 23,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "BERNARD",
+          "prenom": "Denis",
+          "nom_complet": "Denis BERNARD",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "BULTEAU",
+          "prenom": "Hélène",
+          "nom_complet": "Hélène BULTEAU",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "RYCKEWAERT",
+          "prenom": "Maxime",
+          "nom_complet": "Maxime RYCKEWAERT",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "BACHY, UN AVENIR COMMUN POUR NOTRE VILLAGE",
+      "libelle_abrege_liste": "BACHY, UN AVENIR COMMUN POUR NOTRE VILLAGE",
+      "nuance_liste": null,
+      "voix": 402,
+      "pct_voix_exprimes": 40.52,
+      "sieges_cm": 4,
+      "sieges_cc": 0,
+      "nb_elus": 4,
+      "tete_de_liste": {
+        "nom": "INGELAERE",
+        "prenom": "Geoffrey",
+        "nom_complet": "Geoffrey INGELAERE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "INGELAERE",
+          "prenom": "Geoffrey",
+          "nom_complet": "Geoffrey INGELAERE",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LE MOIGNE",
+          "prenom": "Lenna",
+          "nom_complet": "Lenna LE MOIGNE",
+          "sexe": "F",
+          "age": 31,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DESROUSSEAUX",
+          "prenom": "Emmanuel",
+          "nom_complet": "Emmanuel DESROUSSEAUX",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "GUENOT",
+          "prenom": "Maeva",
+          "nom_complet": "Maeva GUENOT",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "4"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

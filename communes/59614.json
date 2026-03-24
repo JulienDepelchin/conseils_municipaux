@@ -1,0 +1,203 @@
+{
+  "code_commune": "59614",
+  "commune": "Viesly",
+  "departement": "Nord",
+  "tour": "T2",
+  "maire": {
+    "nom": "BALEMBOIS",
+    "prenom": "Maryse",
+    "nom_complet": "Maryse BALEMBOIS",
+    "age": 63,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1088,
+    "votants": 755,
+    "pct_votants": 69.39,
+    "abstentions": 333,
+    "pct_abstentions": 30.61,
+    "exprimes": 738
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "BIEN VIVRE A VIESLY",
+      "libelle_abrege_liste": "BIEN VIVRE A VIESLY",
+      "nuance_liste": null,
+      "voix": 262,
+      "pct_voix_exprimes": 35.5,
+      "sieges_cm": 11,
+      "sieges_cc": 2,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "BALEMBOIS",
+        "prenom": "Maryse",
+        "nom_complet": "Maryse BALEMBOIS",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "BALEMBOIS",
+          "prenom": "Maryse",
+          "nom_complet": "Maryse BALEMBOIS",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LAIGLE",
+          "prenom": "Eric",
+          "nom_complet": "Eric LAIGLE",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BRIATTE",
+          "prenom": "Chloé",
+          "nom_complet": "Chloé BRIATTE",
+          "sexe": "F",
+          "age": 28,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "HÉGO",
+          "prenom": "Simon",
+          "nom_complet": "Simon HÉGO",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "NAMOR",
+          "prenom": "Martine",
+          "nom_complet": "Martine NAMOR",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DA COSTA",
+          "prenom": "Georges",
+          "nom_complet": "Georges DA COSTA",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "LAIGLE",
+          "prenom": "Véronique",
+          "nom_complet": "Véronique LAIGLE",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "NOEL",
+          "prenom": "Jean-Pierre",
+          "nom_complet": "Jean-Pierre NOEL",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "PETERS",
+          "prenom": "Jocelyne",
+          "nom_complet": "Jocelyne PETERS",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DESCHAMPS",
+          "prenom": "Vincent",
+          "nom_complet": "Vincent DESCHAMPS",
+          "sexe": "M",
+          "age": 32,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "PETERS",
+          "prenom": "Tiffany",
+          "nom_complet": "Tiffany PETERS",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "TOUS POUR VIESLY",
+      "libelle_abrege_liste": "TOUS POUR VIESLY",
+      "nuance_liste": null,
+      "voix": 258,
+      "pct_voix_exprimes": 34.96,
+      "sieges_cm": 2,
+      "sieges_cc": 0,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "QUARRE",
+        "prenom": "Gilles",
+        "nom_complet": "Gilles QUARRE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "QUARRE",
+          "prenom": "Gilles",
+          "nom_complet": "Gilles QUARRE",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "MONIER",
+          "prenom": "Marie",
+          "nom_complet": "Marie MONIER",
+          "sexe": "F",
+          "age": 23,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    },
+    {
+      "num_panneau": "3",
+      "libelle_liste": "VIESLY, NOTRE AVENIR COMMUN",
+      "libelle_abrege_liste": "VIESLY, NOTRE AVENIR COMMUN",
+      "nuance_liste": null,
+      "voix": 218,
+      "pct_voix_exprimes": 29.54,
+      "sieges_cm": 2,
+      "sieges_cc": 0,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "SANTERRE",
+        "prenom": "Pascal",
+        "nom_complet": "Pascal SANTERRE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "SANTERRE",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal SANTERRE",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "OCHSENFELD",
+          "prenom": "Sandrine",
+          "nom_complet": "Sandrine OCHSENFELD",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

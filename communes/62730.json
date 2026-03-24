@@ -1,0 +1,195 @@
+{
+  "code_commune": "62730",
+  "commune": "Ruminghem",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "WACSIN",
+    "prenom": "Christian",
+    "nom_complet": "Christian WACSIN",
+    "age": 60,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1140,
+    "votants": 629,
+    "pct_votants": 55.18,
+    "abstentions": 511,
+    "pct_abstentions": 44.82,
+    "exprimes": 566
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "CONTINUONS ENSEMBLE",
+      "libelle_abrege_liste": "CONTINUONS ENSEMBLE",
+      "nuance_liste": null,
+      "voix": 566,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 19,
+      "sieges_cc": 2,
+      "nb_elus": 19,
+      "tete_de_liste": {
+        "nom": "WACSIN",
+        "prenom": "Christian",
+        "nom_complet": "Christian WACSIN",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "WACSIN",
+          "prenom": "Christian",
+          "nom_complet": "Christian WACSIN",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LEPRETRE",
+          "prenom": "Helene",
+          "nom_complet": "Helene LEPRETRE",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DUFLOS",
+          "prenom": "Johan",
+          "nom_complet": "Johan DUFLOS",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "MALAS",
+          "prenom": "Catherine",
+          "nom_complet": "Catherine MALAS",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "GODBILLON",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent GODBILLON",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DEFFRENNES",
+          "prenom": "Celine",
+          "nom_complet": "Celine DEFFRENNES",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "MEVEL",
+          "prenom": "François",
+          "nom_complet": "François MEVEL",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LE COQ",
+          "prenom": "Caroline",
+          "nom_complet": "Caroline LE COQ",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "HAUTEKEUR",
+          "prenom": "Antoine",
+          "nom_complet": "Antoine HAUTEKEUR",
+          "sexe": "M",
+          "age": 33,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "MORREELS",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle MORREELS",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "BREGNARD",
+          "prenom": "Benoît",
+          "nom_complet": "Benoît BREGNARD",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "STIEN",
+          "prenom": "Marie-Aude",
+          "nom_complet": "Marie-Aude STIEN",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "HAUTEKEUR",
+          "prenom": "Davy",
+          "nom_complet": "Davy HAUTEKEUR",
+          "sexe": "M",
+          "age": 29,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "BAILLEUL",
+          "prenom": "Elodie",
+          "nom_complet": "Elodie BAILLEUL",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "BREUILLET",
+          "prenom": "Aurélien",
+          "nom_complet": "Aurélien BREUILLET",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "DELMOTTE",
+          "prenom": "Alexandra",
+          "nom_complet": "Alexandra DELMOTTE",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "BAROIS",
+          "prenom": "Amandin",
+          "nom_complet": "Amandin BAROIS",
+          "sexe": "M",
+          "age": 31,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "SCHONSECK",
+          "prenom": "Sandrine",
+          "nom_complet": "Sandrine SCHONSECK",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "FOURNIER",
+          "prenom": "Loïc",
+          "nom_complet": "Loïc FOURNIER",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "19"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

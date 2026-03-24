@@ -1,0 +1,261 @@
+{
+  "code_commune": "59409",
+  "commune": "Monchecourt",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "ROMAN",
+    "prenom": "Jeanne",
+    "nom_complet": "Jeanne ROMAN",
+    "age": 69,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1989,
+    "votants": 1285,
+    "pct_votants": 64.61,
+    "abstentions": 704,
+    "pct_abstentions": 35.39,
+    "exprimes": 1257
+  },
+  "listes": [
+    {
+      "num_panneau": "3",
+      "libelle_liste": "BIEN VIVRE A MONCHECOURT",
+      "libelle_abrege_liste": "BIEN VIVRE A MONCHECOURT",
+      "nuance_liste": null,
+      "voix": 651,
+      "pct_voix_exprimes": 51.79,
+      "sieges_cm": 18,
+      "sieges_cc": 2,
+      "nb_elus": 18,
+      "tete_de_liste": {
+        "nom": "ROMAN",
+        "prenom": "Jeanne",
+        "nom_complet": "Jeanne ROMAN",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "ROMAN",
+          "prenom": "Jeanne",
+          "nom_complet": "Jeanne ROMAN",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LEBAS",
+          "prenom": "Jérôme",
+          "nom_complet": "Jérôme LEBAS",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DESCAMPS",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie DESCAMPS",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DUBOIS",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent DUBOIS",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "PHILIPPE",
+          "prenom": "Marie-Christine",
+          "nom_complet": "Marie-Christine PHILIPPE",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "VANHOVE",
+          "prenom": "Julien",
+          "nom_complet": "Julien VANHOVE",
+          "sexe": "M",
+          "age": 33,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BARBARE",
+          "prenom": "Maryse",
+          "nom_complet": "Maryse BARBARE",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "HENO",
+          "prenom": "François",
+          "nom_complet": "François HENO",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "MAILLET",
+          "prenom": "Anne",
+          "nom_complet": "Anne MAILLET",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "BAILLEUL",
+          "prenom": "Max",
+          "nom_complet": "Max BAILLEUL",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DUMONT",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie DUMONT",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "PRUVOST",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal PRUVOST",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "DELCROIX",
+          "prenom": "Marie-Ange",
+          "nom_complet": "Marie-Ange DELCROIX",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "SIMONCINI",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal SIMONCINI",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "RATAJCZAK",
+          "prenom": "Catherine",
+          "nom_complet": "Catherine RATAJCZAK",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "ROGER",
+          "prenom": "Raphaël",
+          "nom_complet": "Raphaël ROGER",
+          "sexe": "M",
+          "age": 19,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "JARONIAK",
+          "prenom": "Vanessa",
+          "nom_complet": "Vanessa JARONIAK",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "LEDOUX",
+          "prenom": "Michel",
+          "nom_complet": "Michel LEDOUX",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "18"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "UNIS, POUR NOTRE VILLE",
+      "libelle_abrege_liste": "UNIS, POUR NOTRE VILLE",
+      "nuance_liste": null,
+      "voix": 561,
+      "pct_voix_exprimes": 44.63,
+      "sieges_cm": 5,
+      "sieges_cc": 0,
+      "nb_elus": 5,
+      "tete_de_liste": {
+        "nom": "BURGEAT",
+        "prenom": "Matthieu",
+        "nom_complet": "Matthieu BURGEAT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BURGEAT",
+          "prenom": "Matthieu",
+          "nom_complet": "Matthieu BURGEAT",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LEWANDOSKI",
+          "prenom": "Peggy",
+          "nom_complet": "Peggy LEWANDOSKI",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "PINTE",
+          "prenom": "Thomas",
+          "nom_complet": "Thomas PINTE",
+          "sexe": "M",
+          "age": 21,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "GELEZ",
+          "prenom": "Aurore",
+          "nom_complet": "Aurore GELEZ",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "PINTE",
+          "prenom": "Cédric",
+          "nom_complet": "Cédric PINTE",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "5"
+        }
+      ],
+      "statut_conseil": "autre"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "ENSEMBLE A VOTRE SERVICE",
+      "libelle_abrege_liste": "ENSEMBLE A VOTRE SERVICE",
+      "nuance_liste": null,
+      "voix": 45,
+      "pct_voix_exprimes": 3.58,
+      "sieges_cm": 0,
+      "sieges_cc": 0,
+      "nb_elus": 0,
+      "tete_de_liste": null,
+      "elus": [],
+      "statut_conseil": "sans_elu"
+    }
+  ]
+}

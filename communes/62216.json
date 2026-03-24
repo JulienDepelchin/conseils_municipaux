@@ -1,0 +1,131 @@
+{
+  "code_commune": "62216",
+  "commune": "La Cauchie",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "BERNARD",
+    "prenom": "Marie",
+    "nom_complet": "Marie BERNARD",
+    "age": 43,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 154,
+    "votants": 102,
+    "pct_votants": 66.23,
+    "abstentions": 52,
+    "pct_abstentions": 33.77,
+    "exprimes": 92
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Continuons en harmonie à La Cauchie",
+      "libelle_abrege_liste": "Continuons en harmonie à La Cauchie",
+      "nuance_liste": null,
+      "voix": 92,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "BERNARD",
+        "prenom": "Marie",
+        "nom_complet": "Marie BERNARD",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "BERNARD",
+          "prenom": "Marie",
+          "nom_complet": "Marie BERNARD",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LEUILLIER",
+          "prenom": "Jeremy",
+          "nom_complet": "Jeremy LEUILLIER",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BRIOT",
+          "prenom": "Marinette",
+          "nom_complet": "Marinette BRIOT",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "POITEAU",
+          "prenom": "Michel",
+          "nom_complet": "Michel POITEAU",
+          "sexe": "M",
+          "age": 75,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "FRANÇOIS",
+          "prenom": "Coralie",
+          "nom_complet": "Coralie FRANÇOIS",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "BRIOT",
+          "prenom": "Denis",
+          "nom_complet": "Denis BRIOT",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "EVRARD",
+          "prenom": "Maryline",
+          "nom_complet": "Maryline EVRARD",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "VIGNE",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique VIGNE",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "VINCENT",
+          "prenom": "Estelle",
+          "nom_complet": "Estelle VINCENT",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "ACCART",
+          "prenom": "Sébastien",
+          "nom_complet": "Sébastien ACCART",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "MONCOMBLE",
+          "prenom": "Fanny",
+          "nom_complet": "Fanny MONCOMBLE",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

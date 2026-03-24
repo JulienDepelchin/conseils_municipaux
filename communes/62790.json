@@ -1,0 +1,115 @@
+{
+  "code_commune": "62790",
+  "commune": "Senlis",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "HERTAULT",
+    "prenom": "Thérèse-Marie",
+    "nom_complet": "Thérèse-Marie HERTAULT",
+    "age": 63,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 138,
+    "votants": 94,
+    "pct_votants": 68.12,
+    "abstentions": 44,
+    "pct_abstentions": 31.88,
+    "exprimes": 77
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "\"Senlis, notre village\"",
+      "libelle_abrege_liste": "\"Senlis, notre village\"",
+      "nuance_liste": null,
+      "voix": 77,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 9,
+      "sieges_cc": null,
+      "nb_elus": 9,
+      "tete_de_liste": {
+        "nom": "HERTAULT",
+        "prenom": "Thérèse-Marie",
+        "nom_complet": "Thérèse-Marie HERTAULT",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "HERTAULT",
+          "prenom": "Thérèse-Marie",
+          "nom_complet": "Thérèse-Marie HERTAULT",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BAILLY",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric BAILLY",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "PALFART",
+          "prenom": "Valérie",
+          "nom_complet": "Valérie PALFART",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "ROLIN",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent ROLIN",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "HENGUELLE",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle HENGUELLE",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "BOUTIN",
+          "prenom": "Jean",
+          "nom_complet": "Jean BOUTIN",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "HENGUELLE",
+          "prenom": "Aurélie",
+          "nom_complet": "Aurélie HENGUELLE",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LANGUE",
+          "prenom": "Marcel",
+          "nom_complet": "Marcel LANGUE",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "HERMAND",
+          "prenom": "Delphine",
+          "nom_complet": "Delphine HERMAND",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "9"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

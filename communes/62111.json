@@ -1,0 +1,131 @@
+{
+  "code_commune": "62111",
+  "commune": "Berlencourt-le-Cauroy",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "ANSQUIN",
+    "prenom": "Christophe",
+    "nom_complet": "Christophe ANSQUIN",
+    "age": 57,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 205,
+    "votants": 121,
+    "pct_votants": 59.02,
+    "abstentions": 84,
+    "pct_abstentions": 40.98,
+    "exprimes": 83
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Liste menée par Christophe ANSQUIN",
+      "libelle_abrege_liste": "Liste menée par Christophe ANSQUIN",
+      "nuance_liste": null,
+      "voix": 83,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "ANSQUIN",
+        "prenom": "Christophe",
+        "nom_complet": "Christophe ANSQUIN",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "ANSQUIN",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe ANSQUIN",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "CORNU",
+          "prenom": "Nadège",
+          "nom_complet": "Nadège CORNU",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "POMMART",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal POMMART",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "STRASSBURGER",
+          "prenom": "Aurélie",
+          "nom_complet": "Aurélie STRASSBURGER",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "BOLIN",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric BOLIN",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "VAN DER CRUISSE DE WAZIERS",
+          "prenom": "Diane",
+          "nom_complet": "Diane VAN DER CRUISSE DE WAZIERS",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "MAZAGRAN",
+          "prenom": "Jean-Michel",
+          "nom_complet": "Jean-Michel MAZAGRAN",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DEGAND",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie DEGAND",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DOMET",
+          "prenom": "Alexis",
+          "nom_complet": "Alexis DOMET",
+          "sexe": "M",
+          "age": 24,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "CHRÉTIEN",
+          "prenom": "Annie",
+          "nom_complet": "Annie CHRÉTIEN",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DURAND",
+          "prenom": "Stéphane",
+          "nom_complet": "Stéphane DURAND",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

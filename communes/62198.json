@@ -1,0 +1,151 @@
+{
+  "code_commune": "62198",
+  "commune": "Cambligneul",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "LEUILLER",
+    "prenom": "Jean-Luc",
+    "nom_complet": "Jean-Luc LEUILLER",
+    "age": 68,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 304,
+    "votants": 238,
+    "pct_votants": 78.29,
+    "abstentions": 66,
+    "pct_abstentions": 21.71,
+    "exprimes": 229
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "PREPARONS L'AVENIR A CAMBLIGNEUL",
+      "libelle_abrege_liste": "PREPARONS L'AVENIR A CAMBLIGNEUL",
+      "nuance_liste": null,
+      "voix": 123,
+      "pct_voix_exprimes": 53.71,
+      "sieges_cm": 9,
+      "sieges_cc": null,
+      "nb_elus": 9,
+      "tete_de_liste": {
+        "nom": "LEUILLER",
+        "prenom": "Jean-Luc",
+        "nom_complet": "Jean-Luc LEUILLER",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LEUILLER",
+          "prenom": "Jean-Luc",
+          "nom_complet": "Jean-Luc LEUILLER",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "GARIN",
+          "prenom": "Audrey",
+          "nom_complet": "Audrey GARIN",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DELATTRE",
+          "prenom": "Yves",
+          "nom_complet": "Yves DELATTRE",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BAUSSART",
+          "prenom": "Celine",
+          "nom_complet": "Celine BAUSSART",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "VICHERY",
+          "prenom": "Jean-Pierre",
+          "nom_complet": "Jean-Pierre VICHERY",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "MENU",
+          "prenom": "Emilie",
+          "nom_complet": "Emilie MENU",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DUFRESNE",
+          "prenom": "Adrien",
+          "nom_complet": "Adrien DUFRESNE",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DEGARDIN",
+          "prenom": "Leslie",
+          "nom_complet": "Leslie DEGARDIN",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "PASCUAL",
+          "prenom": "Vincent",
+          "nom_complet": "Vincent PASCUAL",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "9"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ECOUTER - AGIR - AVANCER",
+      "libelle_abrege_liste": "ECOUTER - AGIR - AVANCER",
+      "nuance_liste": null,
+      "voix": 106,
+      "pct_voix_exprimes": 46.29,
+      "sieges_cm": 2,
+      "sieges_cc": null,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "CUVILLIER",
+        "prenom": "Pierre",
+        "nom_complet": "Pierre CUVILLIER",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "CUVILLIER",
+          "prenom": "Pierre",
+          "nom_complet": "Pierre CUVILLIER",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DUMOULIN",
+          "prenom": "Michèle",
+          "nom_complet": "Michèle DUMOULIN",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

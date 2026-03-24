@@ -1,0 +1,131 @@
+{
+  "code_commune": "62175",
+  "commune": "Brévillers",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "GIRARD",
+    "prenom": "Christiane",
+    "nom_complet": "Christiane GIRARD",
+    "age": 72,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 133,
+    "votants": 86,
+    "pct_votants": 64.66,
+    "abstentions": 47,
+    "pct_abstentions": 35.34,
+    "exprimes": 60
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "VERS L'AVENIR",
+      "libelle_abrege_liste": "VERS L'AVENIR",
+      "nuance_liste": null,
+      "voix": 60,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "GIRARD",
+        "prenom": "Christiane",
+        "nom_complet": "Christiane GIRARD",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "GIRARD",
+          "prenom": "Christiane",
+          "nom_complet": "Christiane GIRARD",
+          "sexe": "F",
+          "age": 72,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LEGRAND",
+          "prenom": "Guillaume",
+          "nom_complet": "Guillaume LEGRAND",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "MAGERE",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie MAGERE",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LEBOEUF",
+          "prenom": "Johnny",
+          "nom_complet": "Johnny LEBOEUF",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LEGRAND",
+          "prenom": "Angélique",
+          "nom_complet": "Angélique LEGRAND",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "KACZMAREK",
+          "prenom": "Christopher",
+          "nom_complet": "Christopher KACZMAREK",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DELEHAYE",
+          "prenom": "Emeline",
+          "nom_complet": "Emeline DELEHAYE",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "TOUPET",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe TOUPET",
+          "sexe": "M",
+          "age": 77,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "HOUSEAUX",
+          "prenom": "Annette",
+          "nom_complet": "Annette HOUSEAUX",
+          "sexe": "F",
+          "age": 78,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "LANVIN",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe LANVIN",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "BAUDUIN",
+          "prenom": "Marie-Christine",
+          "nom_complet": "Marie-Christine BAUDUIN",
+          "sexe": "F",
+          "age": 73,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "code_commune": "59516",
+  "commune": "Rubrouck",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "EVERAERE",
+    "prenom": "Luc",
+    "nom_complet": "Luc EVERAERE",
+    "age": 65,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 717,
+    "votants": 401,
+    "pct_votants": 55.93,
+    "abstentions": 316,
+    "pct_abstentions": 44.07,
+    "exprimes": 342
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Ensemble, Agissons !",
+      "libelle_abrege_liste": "Ensemble, Agissons !",
+      "nuance_liste": null,
+      "voix": 342,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "EVERAERE",
+        "prenom": "Luc",
+        "nom_complet": "Luc EVERAERE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "EVERAERE",
+          "prenom": "Luc",
+          "nom_complet": "Luc EVERAERE",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "POLLET",
+          "prenom": "Véronique",
+          "nom_complet": "Véronique POLLET",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DEWYNTER",
+          "prenom": "Didier",
+          "nom_complet": "Didier DEWYNTER",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DELAYEN",
+          "prenom": "Julie",
+          "nom_complet": "Julie DELAYEN",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "NEFFE",
+          "prenom": "Kévin",
+          "nom_complet": "Kévin NEFFE",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "THOORENS",
+          "prenom": "Sophie",
+          "nom_complet": "Sophie THOORENS",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "IOOS",
+          "prenom": "Abel",
+          "nom_complet": "Abel IOOS",
+          "sexe": "M",
+          "age": 34,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LESNE",
+          "prenom": "Aurélie",
+          "nom_complet": "Aurélie LESNE",
+          "sexe": "F",
+          "age": 31,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "MOREAU",
+          "prenom": "Julien",
+          "nom_complet": "Julien MOREAU",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "BOLLENGIER",
+          "prenom": "Marie-Christine",
+          "nom_complet": "Marie-Christine BOLLENGIER",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "PONSIN",
+          "prenom": "Jean-Christophe",
+          "nom_complet": "Jean-Christophe PONSIN",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "MOUCHARD",
+          "prenom": "Julie",
+          "nom_complet": "Julie MOUCHARD",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "DEBRUYNE",
+          "prenom": "Arnaud",
+          "nom_complet": "Arnaud DEBRUYNE",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "PONSIN",
+          "prenom": "Marine",
+          "nom_complet": "Marine PONSIN",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "FOULON",
+          "prenom": "Benjamin",
+          "nom_complet": "Benjamin FOULON",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

@@ -1,0 +1,215 @@
+{
+  "code_commune": "59210",
+  "commune": "Esquelbecq",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "DRIEUX",
+    "prenom": "Frederic",
+    "nom_complet": "Frederic DRIEUX",
+    "age": 58,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1743,
+    "votants": 1392,
+    "pct_votants": 79.86,
+    "abstentions": 351,
+    "pct_abstentions": 20.14,
+    "exprimes": 1349
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "VIVRE ENSEMBLE ESQUELBECQ",
+      "libelle_abrege_liste": "VIVRE ENSEMBLE ESQUELBECQ",
+      "nuance_liste": null,
+      "voix": 958,
+      "pct_voix_exprimes": 71.02,
+      "sieges_cm": 17,
+      "sieges_cc": 2,
+      "nb_elus": 17,
+      "tete_de_liste": {
+        "nom": "DRIEUX",
+        "prenom": "Frederic",
+        "nom_complet": "Frederic DRIEUX",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DRIEUX",
+          "prenom": "Frederic",
+          "nom_complet": "Frederic DRIEUX",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "VANDEWALLE NÉE LELIEUR",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie VANDEWALLE NÉE LELIEUR",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "ACHTE",
+          "prenom": "Bertrand",
+          "nom_complet": "Bertrand ACHTE",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "GILLOIS NÉE JARDET",
+          "prenom": "Angélique",
+          "nom_complet": "Angélique GILLOIS NÉE JARDET",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "GLORIANT",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas GLORIANT",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DUTILLY",
+          "prenom": "Géraldine",
+          "nom_complet": "Géraldine DUTILLY",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DERVILLERS",
+          "prenom": "Stéphane",
+          "nom_complet": "Stéphane DERVILLERS",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "BOY NÉE NYBELEN",
+          "prenom": "Hélène",
+          "nom_complet": "Hélène BOY NÉE NYBELEN",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "GHYSEL",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe GHYSEL",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "MAISON NÉE HAMRE",
+          "prenom": "Claire",
+          "nom_complet": "Claire MAISON NÉE HAMRE",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "MORISS",
+          "prenom": "Thomas",
+          "nom_complet": "Thomas MORISS",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "LAPORTE NÉE CHAVATTE",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique LAPORTE NÉE CHAVATTE",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "VAESKEN",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric VAESKEN",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "DEFEBVRE",
+          "prenom": "Ingrid",
+          "nom_complet": "Ingrid DEFEBVRE",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "VANDERHEYDE",
+          "prenom": "Anthony",
+          "nom_complet": "Anthony VANDERHEYDE",
+          "sexe": "M",
+          "age": 33,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "LESCIEUX NÉE ROELANDT",
+          "prenom": "Valérie",
+          "nom_complet": "Valérie LESCIEUX NÉE ROELANDT",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "MISEROLE",
+          "prenom": "François",
+          "nom_complet": "François MISEROLE",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "17"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "CULTIVONS DEMAIN",
+      "libelle_abrege_liste": "CD",
+      "nuance_liste": null,
+      "voix": 391,
+      "pct_voix_exprimes": 28.98,
+      "sieges_cm": 2,
+      "sieges_cc": 0,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "SÉNICOURT",
+        "prenom": "Sabine",
+        "nom_complet": "Sabine SÉNICOURT",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "SÉNICOURT",
+          "prenom": "Sabine",
+          "nom_complet": "Sabine SÉNICOURT",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LAMMAR",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe LAMMAR",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

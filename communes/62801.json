@@ -1,0 +1,227 @@
+{
+  "code_commune": "62801",
+  "commune": "Souchez",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "ALEXANDRE",
+    "prenom": "Jean-Marie",
+    "nom_complet": "Jean-Marie ALEXANDRE",
+    "age": 79,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 2194,
+    "votants": 1182,
+    "pct_votants": 53.87,
+    "abstentions": 1012,
+    "pct_abstentions": 46.13,
+    "exprimes": 970
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "SOUCHEZ PASSION",
+      "libelle_abrege_liste": "SOUCHEZ PASSION",
+      "nuance_liste": null,
+      "voix": 970,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 23,
+      "sieges_cc": 1,
+      "nb_elus": 23,
+      "tete_de_liste": {
+        "nom": "ALEXANDRE",
+        "prenom": "Jean-Marie",
+        "nom_complet": "Jean-Marie ALEXANDRE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "ALEXANDRE",
+          "prenom": "Jean-Marie",
+          "nom_complet": "Jean-Marie ALEXANDRE",
+          "sexe": "M",
+          "age": 79,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BEAUCAMP",
+          "prenom": "Christine",
+          "nom_complet": "Christine BEAUCAMP",
+          "sexe": "F",
+          "age": 76,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "ALEXANDRE",
+          "prenom": "Guillaume",
+          "nom_complet": "Guillaume ALEXANDRE",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "CARON",
+          "prenom": "Micheline",
+          "nom_complet": "Micheline CARON",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "BRIAVAL",
+          "prenom": "Didier",
+          "nom_complet": "Didier BRIAVAL",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "BOUTHORS",
+          "prenom": "Marie",
+          "nom_complet": "Marie BOUTHORS",
+          "sexe": "F",
+          "age": 72,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "CHABOT",
+          "prenom": "Yvon",
+          "nom_complet": "Yvon CHABOT",
+          "sexe": "M",
+          "age": 79,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "KUPKA",
+          "prenom": "Cathy",
+          "nom_complet": "Cathy KUPKA",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DELANNOY",
+          "prenom": "Loïc",
+          "nom_complet": "Loïc DELANNOY",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "KUBIAK",
+          "prenom": "Paulette",
+          "nom_complet": "Paulette KUBIAK",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "ENGLEBERT",
+          "prenom": "Richard",
+          "nom_complet": "Richard ENGLEBERT",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "CORROYER",
+          "prenom": "Delphine",
+          "nom_complet": "Delphine CORROYER",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "RUDZKI",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe RUDZKI",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "ZBIK",
+          "prenom": "Maryline",
+          "nom_complet": "Maryline ZBIK",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "BEAUCAMP",
+          "prenom": "Mathieu",
+          "nom_complet": "Mathieu BEAUCAMP",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "RICHEZ",
+          "prenom": "Sabrina",
+          "nom_complet": "Sabrina RICHEZ",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "DILLY",
+          "prenom": "Aymeric",
+          "nom_complet": "Aymeric DILLY",
+          "sexe": "M",
+          "age": 27,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "SOUILLARD",
+          "prenom": "Delphine",
+          "nom_complet": "Delphine SOUILLARD",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "PETITPRE",
+          "prenom": "Jean-Marie",
+          "nom_complet": "Jean-Marie PETITPRE",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "HENOT",
+          "prenom": "Florence",
+          "nom_complet": "Florence HENOT",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "BRASSEUR",
+          "prenom": "Michel",
+          "nom_complet": "Michel BRASSEUR",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "DRUON",
+          "prenom": "Bernadette",
+          "nom_complet": "Bernadette DRUON",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "KONARSKI",
+          "prenom": "Jean-François",
+          "nom_complet": "Jean-François KONARSKI",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "23"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

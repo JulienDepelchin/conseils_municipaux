@@ -1,0 +1,151 @@
+{
+  "code_commune": "62644",
+  "commune": "Ouve-Wirquin",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "WILQUIN",
+    "prenom": "Ghislain",
+    "nom_complet": "Ghislain WILQUIN",
+    "age": 66,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 446,
+    "votants": 355,
+    "pct_votants": 79.6,
+    "abstentions": 91,
+    "pct_abstentions": 20.4,
+    "exprimes": 348
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Continuons ensemble à faire vivre Ouve-Wirquin",
+      "libelle_abrege_liste": "Continuons ensemble à faire vivre Ouve-Wirquin",
+      "nuance_liste": null,
+      "voix": 218,
+      "pct_voix_exprimes": 62.64,
+      "sieges_cm": 9,
+      "sieges_cc": null,
+      "nb_elus": 9,
+      "tete_de_liste": {
+        "nom": "WILQUIN",
+        "prenom": "Ghislain",
+        "nom_complet": "Ghislain WILQUIN",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "WILQUIN",
+          "prenom": "Ghislain",
+          "nom_complet": "Ghislain WILQUIN",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "CAPELLE",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie CAPELLE",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BAILLY",
+          "prenom": "Paul",
+          "nom_complet": "Paul BAILLY",
+          "sexe": "M",
+          "age": 75,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LE COZLER-DURAND",
+          "prenom": "Marie-Christine",
+          "nom_complet": "Marie-Christine LE COZLER-DURAND",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "WOZNIAK",
+          "prenom": "Jérôme",
+          "nom_complet": "Jérôme WOZNIAK",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "PELTIER",
+          "prenom": "Laurence",
+          "nom_complet": "Laurence PELTIER",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "ALLOUCHERY",
+          "prenom": "David",
+          "nom_complet": "David ALLOUCHERY",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "SANNIER",
+          "prenom": "Marie-José",
+          "nom_complet": "Marie-José SANNIER",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "TARTARE",
+          "prenom": "Damien",
+          "nom_complet": "Damien TARTARE",
+          "sexe": "M",
+          "age": 30,
+          "rang_liste": "9"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "ENSEMBLE FAISONS VIVRE OUVE-WIRQUIN",
+      "libelle_abrege_liste": "ENSEMBLE FAISONS VIVRE OUVE-WIRQUIN",
+      "nuance_liste": null,
+      "voix": 130,
+      "pct_voix_exprimes": 37.36,
+      "sieges_cm": 2,
+      "sieges_cc": null,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "CHARLEMAGNE",
+        "prenom": "Olivier",
+        "nom_complet": "Olivier CHARLEMAGNE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "CHARLEMAGNE",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier CHARLEMAGNE",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LEVRAY",
+          "prenom": "Claire-Marie",
+          "nom_complet": "Claire-Marie LEVRAY",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

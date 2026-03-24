@@ -1,0 +1,215 @@
+{
+  "code_commune": "62240",
+  "commune": "Corbehem",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "BERTOUT",
+    "prenom": "Dominique",
+    "nom_complet": "Dominique BERTOUT",
+    "age": 68,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1626,
+    "votants": 1053,
+    "pct_votants": 64.76,
+    "abstentions": 573,
+    "pct_abstentions": 35.24,
+    "exprimes": 1040
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "CORBEHEM AVENIR",
+      "libelle_abrege_liste": "CORBEHEM AVENIR",
+      "nuance_liste": null,
+      "voix": 756,
+      "pct_voix_exprimes": 72.69,
+      "sieges_cm": 17,
+      "sieges_cc": 4,
+      "nb_elus": 17,
+      "tete_de_liste": {
+        "nom": "BERTOUT",
+        "prenom": "Dominique",
+        "nom_complet": "Dominique BERTOUT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BERTOUT",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique BERTOUT",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "VITTE",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle VITTE",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "GROLEZ",
+          "prenom": "Joël",
+          "nom_complet": "Joël GROLEZ",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "PEREZ",
+          "prenom": "Gersande",
+          "nom_complet": "Gersande PEREZ",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "JOUVENAUX",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent JOUVENAUX",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "MORELLE",
+          "prenom": "Catherine",
+          "nom_complet": "Catherine MORELLE",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "CLOQUET",
+          "prenom": "Jean-Michel",
+          "nom_complet": "Jean-Michel CLOQUET",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LINQUETTE",
+          "prenom": "Hélène",
+          "nom_complet": "Hélène LINQUETTE",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DELOBEL",
+          "prenom": "Loîc",
+          "nom_complet": "Loîc DELOBEL",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DOYEN",
+          "prenom": "Justine",
+          "nom_complet": "Justine DOYEN",
+          "sexe": "F",
+          "age": 24,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "SOUDEIX",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe SOUDEIX",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "JOUVENAUX",
+          "prenom": "Nadine",
+          "nom_complet": "Nadine JOUVENAUX",
+          "sexe": "F",
+          "age": 73,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "BARBET",
+          "prenom": "Jean-Claude",
+          "nom_complet": "Jean-Claude BARBET",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "MITERNIQUE",
+          "prenom": "Lydia",
+          "nom_complet": "Lydia MITERNIQUE",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "POLONI",
+          "prenom": "David",
+          "nom_complet": "David POLONI",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "BRAIZET",
+          "prenom": "Agnès",
+          "nom_complet": "Agnès BRAIZET",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "TABARY",
+          "prenom": "Cédric",
+          "nom_complet": "Cédric TABARY",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "17"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "CORBEHEM ENSEMBLE",
+      "libelle_abrege_liste": "CORBEHEM ENSEMBLE",
+      "nuance_liste": null,
+      "voix": 284,
+      "pct_voix_exprimes": 27.31,
+      "sieges_cm": 2,
+      "sieges_cc": 0,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "HERMANT",
+        "prenom": "André-Jean",
+        "nom_complet": "André-Jean HERMANT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "HERMANT",
+          "prenom": "André-Jean",
+          "nom_complet": "André-Jean HERMANT",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "CARIDROIT",
+          "prenom": "Pauline",
+          "nom_complet": "Pauline CARIDROIT",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

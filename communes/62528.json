@@ -1,0 +1,275 @@
+{
+  "code_commune": "62528",
+  "commune": "Loos-en-Gohelle",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "MATHON",
+    "prenom": "Geoffrey",
+    "nom_complet": "Geoffrey MATHON",
+    "age": 48,
+    "nuance": "LECO"
+  },
+  "resultats": {
+    "inscrits": 5435,
+    "votants": 2445,
+    "pct_votants": 44.99,
+    "abstentions": 2990,
+    "pct_abstentions": 55.01,
+    "exprimes": 2109
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "LOOS-EN-GOHELLE : LA FORCE DU COLLECTIF, LA VISION DE DEMAIN",
+      "libelle_abrege_liste": "LOOS-EN-GOHELLE : LA FORCE DU COLLECTIF, LA VISION DE DEMAIN",
+      "nuance_liste": "LECO",
+      "voix": 2109,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 29,
+      "sieges_cc": 3,
+      "nb_elus": 29,
+      "tete_de_liste": {
+        "nom": "MATHON",
+        "prenom": "Geoffrey",
+        "nom_complet": "Geoffrey MATHON",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "MATHON",
+          "prenom": "Geoffrey",
+          "nom_complet": "Geoffrey MATHON",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "STIÉVENARD",
+          "prenom": "Christine",
+          "nom_complet": "Christine STIÉVENARD",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "MARECHAL",
+          "prenom": "Francis",
+          "nom_complet": "Francis MARECHAL",
+          "sexe": "M",
+          "age": 77,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "ZARABSKI",
+          "prenom": "Monique",
+          "nom_complet": "Monique ZARABSKI",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "HUREZ",
+          "prenom": "René",
+          "nom_complet": "René HUREZ",
+          "sexe": "M",
+          "age": 78,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DURIEZ",
+          "prenom": "Laurence",
+          "nom_complet": "Laurence DURIEZ",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "PIQUET-BACQUET",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick PIQUET-BACQUET",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "CROMBEKE",
+          "prenom": "Delphine",
+          "nom_complet": "Delphine CROMBEKE",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "HOBER",
+          "prenom": "Grégory",
+          "nom_complet": "Grégory HOBER",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "CAVACO",
+          "prenom": "Manuella",
+          "nom_complet": "Manuella CAVACO",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "SAILLY",
+          "prenom": "Jean-Pierre",
+          "nom_complet": "Jean-Pierre SAILLY",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "GUILBERT",
+          "prenom": "Chantal",
+          "nom_complet": "Chantal GUILBERT",
+          "sexe": "F",
+          "age": 75,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "PAVY",
+          "prenom": "Arnaud",
+          "nom_complet": "Arnaud PAVY",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "ESLAN",
+          "prenom": "Pascale",
+          "nom_complet": "Pascale ESLAN",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "AMBROZY",
+          "prenom": "Benoît",
+          "nom_complet": "Benoît AMBROZY",
+          "sexe": "M",
+          "age": 33,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "CHARPENTIER",
+          "prenom": "Mélanie",
+          "nom_complet": "Mélanie CHARPENTIER",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "GRILLET",
+          "prenom": "Eric",
+          "nom_complet": "Eric GRILLET",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "MATHE",
+          "prenom": "Marjorie",
+          "nom_complet": "Marjorie MATHE",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "OUDJANI",
+          "prenom": "Yassine",
+          "nom_complet": "Yassine OUDJANI",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "SESTU",
+          "prenom": "Caroline",
+          "nom_complet": "Caroline SESTU",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "CAILLET",
+          "prenom": "Félix",
+          "nom_complet": "Félix CAILLET",
+          "sexe": "M",
+          "age": 24,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "FAILLY",
+          "prenom": "Sophie",
+          "nom_complet": "Sophie FAILLY",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "HAEGEMAN",
+          "prenom": "Loic",
+          "nom_complet": "Loic HAEGEMAN",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "23"
+        },
+        {
+          "nom": "POLITO",
+          "prenom": "Carla",
+          "nom_complet": "Carla POLITO",
+          "sexe": "F",
+          "age": 26,
+          "rang_liste": "24"
+        },
+        {
+          "nom": "LEZIER",
+          "prenom": "Yann",
+          "nom_complet": "Yann LEZIER",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "25"
+        },
+        {
+          "nom": "BOUDET",
+          "prenom": "Jessica",
+          "nom_complet": "Jessica BOUDET",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "26"
+        },
+        {
+          "nom": "DESITTER",
+          "prenom": "Anthony",
+          "nom_complet": "Anthony DESITTER",
+          "sexe": "M",
+          "age": 31,
+          "rang_liste": "27"
+        },
+        {
+          "nom": "FRIMAT",
+          "prenom": "Catherine",
+          "nom_complet": "Catherine FRIMAT",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "28"
+        },
+        {
+          "nom": "LELEU",
+          "prenom": "Freddy",
+          "nom_complet": "Freddy LELEU",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "29"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

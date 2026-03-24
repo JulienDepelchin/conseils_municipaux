@@ -1,0 +1,131 @@
+{
+  "code_commune": "59493",
+  "commune": "Ramousies",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "AMAND",
+    "prenom": "Brice",
+    "nom_complet": "Brice AMAND",
+    "age": 63,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 171,
+    "votants": 94,
+    "pct_votants": 54.97,
+    "abstentions": 77,
+    "pct_abstentions": 45.03,
+    "exprimes": 81
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "RAMOUSIES ENVIE",
+      "libelle_abrege_liste": "RAMOUSIES ENVIE",
+      "nuance_liste": null,
+      "voix": 81,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "AMAND",
+        "prenom": "Brice",
+        "nom_complet": "Brice AMAND",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "AMAND",
+          "prenom": "Brice",
+          "nom_complet": "Brice AMAND",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BURLION",
+          "prenom": "Marie",
+          "nom_complet": "Marie BURLION",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BOULENGER",
+          "prenom": "Antoine",
+          "nom_complet": "Antoine BOULENGER",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "GUERIN",
+          "prenom": "Cathy",
+          "nom_complet": "Cathy GUERIN",
+          "sexe": "F",
+          "age": 25,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DELATTRE",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier DELATTRE",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "VELDMANS",
+          "prenom": "Elisabeth",
+          "nom_complet": "Elisabeth VELDMANS",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "HANSENIUS",
+          "prenom": "Antoine",
+          "nom_complet": "Antoine HANSENIUS",
+          "sexe": "M",
+          "age": 32,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "MEUNIER",
+          "prenom": "Sophie",
+          "nom_complet": "Sophie MEUNIER",
+          "sexe": "F",
+          "age": 33,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "LOUCHAERT",
+          "prenom": "Louis",
+          "nom_complet": "Louis LOUCHAERT",
+          "sexe": "M",
+          "age": 24,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "LUDE",
+          "prenom": "Anita",
+          "nom_complet": "Anita LUDE",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "NAVET",
+          "prenom": "Alain",
+          "nom_complet": "Alain NAVET",
+          "sexe": "M",
+          "age": 25,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

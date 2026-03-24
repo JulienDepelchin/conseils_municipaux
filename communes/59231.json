@@ -1,0 +1,203 @@
+{
+  "code_commune": "59231",
+  "commune": "Ferrière-la-Petite",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "TONDEUR",
+    "prenom": "Pierre",
+    "nom_complet": "Pierre TONDEUR",
+    "age": 73,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 802,
+    "votants": 573,
+    "pct_votants": 71.45,
+    "abstentions": 229,
+    "pct_abstentions": 28.55,
+    "exprimes": 561
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "Toujours ensemble pour Ferrière-la-Petite",
+      "libelle_abrege_liste": "Toujours ensemble pour Ferrière-la-Petite",
+      "nuance_liste": null,
+      "voix": 309,
+      "pct_voix_exprimes": 55.08,
+      "sieges_cm": 12,
+      "sieges_cc": 1,
+      "nb_elus": 12,
+      "tete_de_liste": {
+        "nom": "TONDEUR",
+        "prenom": "Pierre",
+        "nom_complet": "Pierre TONDEUR",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "TONDEUR",
+          "prenom": "Pierre",
+          "nom_complet": "Pierre TONDEUR",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "VAN DE VELDE",
+          "prenom": "Christelle",
+          "nom_complet": "Christelle VAN DE VELDE",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "CHAMOT",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe CHAMOT",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "MOREAU",
+          "prenom": "Mélissa",
+          "nom_complet": "Mélissa MOREAU",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "MEURANT",
+          "prenom": "Grégory",
+          "nom_complet": "Grégory MEURANT",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "BERTAUX",
+          "prenom": "Camille",
+          "nom_complet": "Camille BERTAUX",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "OLIVIER",
+          "prenom": "Didier",
+          "nom_complet": "Didier OLIVIER",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "GRELL",
+          "prenom": "Audrey",
+          "nom_complet": "Audrey GRELL",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "BAILLON",
+          "prenom": "Lucas",
+          "nom_complet": "Lucas BAILLON",
+          "sexe": "M",
+          "age": 28,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "FIEVET",
+          "prenom": "Chantal",
+          "nom_complet": "Chantal FIEVET",
+          "sexe": "F",
+          "age": 71,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "MONIER",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal MONIER",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "DELHAYE",
+          "prenom": "Sonia",
+          "nom_complet": "Sonia DELHAYE",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "12"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Un nouveau souffle pour Ferriere-la-Petite",
+      "libelle_abrege_liste": "Un nouveau souffle pour Ferriere-la-Petite",
+      "nuance_liste": null,
+      "voix": 145,
+      "pct_voix_exprimes": 25.85,
+      "sieges_cm": 2,
+      "sieges_cc": 0,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "JIMENEZ",
+        "prenom": "Mathias Marcel Manuel",
+        "nom_complet": "Mathias Marcel Manuel JIMENEZ",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "JIMENEZ",
+          "prenom": "Mathias Marcel Manuel",
+          "nom_complet": "Mathias Marcel Manuel JIMENEZ",
+          "sexe": "M",
+          "age": 23,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BULTIEAUX",
+          "prenom": "Brigitte",
+          "nom_complet": "Brigitte BULTIEAUX",
+          "sexe": "F",
+          "age": 73,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    },
+    {
+      "num_panneau": "3",
+      "libelle_liste": "Demain Ferriere la Petite",
+      "libelle_abrege_liste": "Demain Ferriere la Petite",
+      "nuance_liste": null,
+      "voix": 107,
+      "pct_voix_exprimes": 19.07,
+      "sieges_cm": 1,
+      "sieges_cc": 0,
+      "nb_elus": 1,
+      "tete_de_liste": {
+        "nom": "MAESEN",
+        "prenom": "Renaud",
+        "nom_complet": "Renaud MAESEN",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "MAESEN",
+          "prenom": "Renaud",
+          "nom_complet": "Renaud MAESEN",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "1"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

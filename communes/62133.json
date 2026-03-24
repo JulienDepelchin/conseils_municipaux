@@ -1,0 +1,295 @@
+{
+  "code_commune": "62133",
+  "commune": "Billy-Montigny",
+  "departement": "Pas-de-Calais",
+  "tour": "T2",
+  "maire": {
+    "nom": "GAUDILLAT",
+    "prenom": "Yanis",
+    "nom_complet": "Yanis GAUDILLAT",
+    "age": 21,
+    "nuance": "LRN"
+  },
+  "resultats": {
+    "inscrits": 5297,
+    "votants": 3509,
+    "pct_votants": 66.25,
+    "abstentions": 1788,
+    "pct_abstentions": 33.75,
+    "exprimes": 3410
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "UNE NOUVELLE ENERGIE POUR BILLY-MONTIGNY",
+      "libelle_abrege_liste": "UNE NOUVELLE ENERGIE POUR BILLY-MONTIGNY",
+      "nuance_liste": "LRN",
+      "voix": 1975,
+      "pct_voix_exprimes": 57.92,
+      "sieges_cm": 23,
+      "sieges_cc": 2,
+      "nb_elus": 23,
+      "tete_de_liste": {
+        "nom": "GAUDILLAT",
+        "prenom": "Yanis",
+        "nom_complet": "Yanis GAUDILLAT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "GAUDILLAT",
+          "prenom": "Yanis",
+          "nom_complet": "Yanis GAUDILLAT",
+          "sexe": "M",
+          "age": 21,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DURIEZ-GUICHARD",
+          "prenom": "Lisa",
+          "nom_complet": "Lisa DURIEZ-GUICHARD",
+          "sexe": "F",
+          "age": 30,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BEVAN",
+          "prenom": "Geoffrey",
+          "nom_complet": "Geoffrey BEVAN",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LOY",
+          "prenom": "Virgine",
+          "nom_complet": "Virgine LOY",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "GRISCHKO",
+          "prenom": "Benjamin",
+          "nom_complet": "Benjamin GRISCHKO",
+          "sexe": "M",
+          "age": 26,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "MURTAS",
+          "prenom": "Cynthia",
+          "nom_complet": "Cynthia MURTAS",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "FLAMENT",
+          "prenom": "Ludovic",
+          "nom_complet": "Ludovic FLAMENT",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "OLIVIER",
+          "prenom": "Séverine",
+          "nom_complet": "Séverine OLIVIER",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DESPLANQUES",
+          "prenom": "Michel",
+          "nom_complet": "Michel DESPLANQUES",
+          "sexe": "M",
+          "age": 34,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DE-LOOZE",
+          "prenom": "Marie-Noëlle",
+          "nom_complet": "Marie-Noëlle DE-LOOZE",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "MARECHAL",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe MARECHAL",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "ZIMOLAG",
+          "prenom": "Magdalena",
+          "nom_complet": "Magdalena ZIMOLAG",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "DARDENNE",
+          "prenom": "Jérôme",
+          "nom_complet": "Jérôme DARDENNE",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "RUDOLPH",
+          "prenom": "Sabine",
+          "nom_complet": "Sabine RUDOLPH",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "CAUDRELIER",
+          "prenom": "Jean-Michel",
+          "nom_complet": "Jean-Michel CAUDRELIER",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "FLAMENT",
+          "prenom": "Brendy",
+          "nom_complet": "Brendy FLAMENT",
+          "sexe": "F",
+          "age": 20,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "CAILLUYERE",
+          "prenom": "Joël",
+          "nom_complet": "Joël CAILLUYERE",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "FAMIL",
+          "prenom": "Martine",
+          "nom_complet": "Martine FAMIL",
+          "sexe": "F",
+          "age": 77,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "STACHOWIAK",
+          "prenom": "Corentin",
+          "nom_complet": "Corentin STACHOWIAK",
+          "sexe": "M",
+          "age": 22,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "BRUNELLES",
+          "prenom": "Séverine",
+          "nom_complet": "Séverine BRUNELLES",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "FOURNIER",
+          "prenom": "David",
+          "nom_complet": "David FOURNIER",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "FOURNIER",
+          "prenom": "Angélique",
+          "nom_complet": "Angélique FOURNIER",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "DUBOIS",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric DUBOIS",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "23"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "3",
+      "libelle_liste": "POUR UN AVENIR COMMUN",
+      "libelle_abrege_liste": "POUR UN AVENIR COMMUN",
+      "nuance_liste": "LCOM",
+      "voix": 1435,
+      "pct_voix_exprimes": 42.08,
+      "sieges_cm": 6,
+      "sieges_cc": 1,
+      "nb_elus": 6,
+      "tete_de_liste": {
+        "nom": "TRONI",
+        "prenom": "Bruno",
+        "nom_complet": "Bruno TRONI",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "TRONI",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno TRONI",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BRIKI",
+          "prenom": "Fadila",
+          "nom_complet": "Fadila BRIKI",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "MILLIEN",
+          "prenom": "Alexandre",
+          "nom_complet": "Alexandre MILLIEN",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "MANIER-MEGUEULLE",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie MANIER-MEGUEULLE",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "EECKMAN",
+          "prenom": "Marc",
+          "nom_complet": "Marc EECKMAN",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "MOPTY",
+          "prenom": "Aurore",
+          "nom_complet": "Aurore MOPTY",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "6"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

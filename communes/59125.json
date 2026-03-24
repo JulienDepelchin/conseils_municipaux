@@ -1,0 +1,131 @@
+{
+  "code_commune": "59125",
+  "commune": "Cantaing-sur-Escaut",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "PARENT",
+    "prenom": "Eric",
+    "nom_complet": "Eric PARENT",
+    "age": 56,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 315,
+    "votants": 183,
+    "pct_votants": 58.1,
+    "abstentions": 132,
+    "pct_abstentions": 41.9,
+    "exprimes": 174
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "VIVRE A CANTAING SUR ESCAUT",
+      "libelle_abrege_liste": "VIVRE A CANTAING SUR ESCAUT",
+      "nuance_liste": null,
+      "voix": 174,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "PARENT",
+        "prenom": "Eric",
+        "nom_complet": "Eric PARENT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "PARENT",
+          "prenom": "Eric",
+          "nom_complet": "Eric PARENT",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "COUVREUR",
+          "prenom": "Maggy",
+          "nom_complet": "Maggy COUVREUR",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DHERBECOURT",
+          "prenom": "Marc",
+          "nom_complet": "Marc DHERBECOURT",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "FAILLE",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle FAILLE",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LESNIAK",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent LESNIAK",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "CARON",
+          "prenom": "Anne-Marie",
+          "nom_complet": "Anne-Marie CARON",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "CAILLIEZ",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal CAILLIEZ",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "GAUVIN",
+          "prenom": "Guenhaëlle",
+          "nom_complet": "Guenhaëlle GAUVIN",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "PETRIAUX",
+          "prenom": "Clément",
+          "nom_complet": "Clément PETRIAUX",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "CAILLIEZ",
+          "prenom": "Lorine",
+          "nom_complet": "Lorine CAILLIEZ",
+          "sexe": "F",
+          "age": 21,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DROULEZ",
+          "prenom": "Emmanuel",
+          "nom_complet": "Emmanuel DROULEZ",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

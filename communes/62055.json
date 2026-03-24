@@ -1,0 +1,147 @@
+{
+  "code_commune": "62055",
+  "commune": "Audrehem",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "LECAILLE",
+    "prenom": "Sébastien",
+    "nom_complet": "Sébastien LECAILLE",
+    "age": 50,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 429,
+    "votants": 259,
+    "pct_votants": 60.37,
+    "abstentions": 170,
+    "pct_abstentions": 39.63,
+    "exprimes": 232
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Continuons ensemble pour Audrehem",
+      "libelle_abrege_liste": "Continuons ensemble pour Audrehem",
+      "nuance_liste": null,
+      "voix": 232,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 13,
+      "sieges_cc": null,
+      "nb_elus": 13,
+      "tete_de_liste": {
+        "nom": "LECAILLE",
+        "prenom": "Sébastien",
+        "nom_complet": "Sébastien LECAILLE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LECAILLE",
+          "prenom": "Sébastien",
+          "nom_complet": "Sébastien LECAILLE",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BARBIER",
+          "prenom": "Betty",
+          "nom_complet": "Betty BARBIER",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "MAGNIEZ",
+          "prenom": "Gilles",
+          "nom_complet": "Gilles MAGNIEZ",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "NOEL",
+          "prenom": "Marie-Catherine",
+          "nom_complet": "Marie-Catherine NOEL",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LELEU",
+          "prenom": "José",
+          "nom_complet": "José LELEU",
+          "sexe": "M",
+          "age": 77,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "CASAGRANDE",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie CASAGRANDE",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "SAUVAGE",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal SAUVAGE",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "VELU",
+          "prenom": "Edwige",
+          "nom_complet": "Edwige VELU",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "RIGOBERT",
+          "prenom": "François",
+          "nom_complet": "François RIGOBERT",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "LEPRETRE",
+          "prenom": "Mélanie",
+          "nom_complet": "Mélanie LEPRETRE",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "GILLET",
+          "prenom": "Fredy",
+          "nom_complet": "Fredy GILLET",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "BERNARD",
+          "prenom": "Kelly",
+          "nom_complet": "Kelly BERNARD",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "LOUCHEZ",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent LOUCHEZ",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "13"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

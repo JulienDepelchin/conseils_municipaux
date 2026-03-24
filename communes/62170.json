@@ -1,0 +1,195 @@
+{
+  "code_commune": "62170",
+  "commune": "Bouvigny-Boyeffles",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "VISEUX",
+    "prenom": "Maurice",
+    "nom_complet": "Maurice VISEUX",
+    "age": 71,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1962,
+    "votants": 1068,
+    "pct_votants": 54.43,
+    "abstentions": 894,
+    "pct_abstentions": 45.57,
+    "exprimes": 986
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "LISTE D'UNION ET DE RASSEMBLEMENT",
+      "libelle_abrege_liste": "LISTE D'UNION ET DE RASSEMBLEMENT",
+      "nuance_liste": null,
+      "voix": 986,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 19,
+      "sieges_cc": 1,
+      "nb_elus": 19,
+      "tete_de_liste": {
+        "nom": "VISEUX",
+        "prenom": "Maurice",
+        "nom_complet": "Maurice VISEUX",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "VISEUX",
+          "prenom": "Maurice",
+          "nom_complet": "Maurice VISEUX",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "KONIECZKA",
+          "prenom": "Coralie",
+          "nom_complet": "Coralie KONIECZKA",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BAUCHET",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique BAUCHET",
+          "sexe": "M",
+          "age": 74,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "CARLUS",
+          "prenom": "Laurence",
+          "nom_complet": "Laurence CARLUS",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DELENGAIGNE",
+          "prenom": "Jean-Michel",
+          "nom_complet": "Jean-Michel DELENGAIGNE",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "COURCOL",
+          "prenom": "Audrey",
+          "nom_complet": "Audrey COURCOL",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BRISSE",
+          "prenom": "Jean-Jacques",
+          "nom_complet": "Jean-Jacques BRISSE",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "COVEZ",
+          "prenom": "Fatima",
+          "nom_complet": "Fatima COVEZ",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "VIEIRA DA SILVA",
+          "prenom": "Guy",
+          "nom_complet": "Guy VIEIRA DA SILVA",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "MANS",
+          "prenom": "Cathy",
+          "nom_complet": "Cathy MANS",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DELRUE",
+          "prenom": "Maurice",
+          "nom_complet": "Maurice DELRUE",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "ROUSSILLE",
+          "prenom": "Catherine",
+          "nom_complet": "Catherine ROUSSILLE",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "COQUEL",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe COQUEL",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "DELATTRE",
+          "prenom": "Marine",
+          "nom_complet": "Marine DELATTRE",
+          "sexe": "F",
+          "age": 23,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "LEBRETON",
+          "prenom": "Amaury",
+          "nom_complet": "Amaury LEBRETON",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "MYKAJ",
+          "prenom": "Bélinda",
+          "nom_complet": "Bélinda MYKAJ",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "COLLIEZ",
+          "prenom": "Régis",
+          "nom_complet": "Régis COLLIEZ",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "LEMAITRE",
+          "prenom": "Audrey",
+          "nom_complet": "Audrey LEMAITRE",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "LOURME",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick LOURME",
+          "sexe": "M",
+          "age": 76,
+          "rang_liste": "19"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

@@ -1,0 +1,295 @@
+{
+  "code_commune": "62004",
+  "commune": "Achicourt",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "LEMAIRE",
+    "prenom": "Patrick",
+    "nom_complet": "Patrick LEMAIRE",
+    "age": 55,
+    "nuance": "LDVG"
+  },
+  "resultats": {
+    "inscrits": 6002,
+    "votants": 3419,
+    "pct_votants": 56.96,
+    "abstentions": 2583,
+    "pct_abstentions": 43.04,
+    "exprimes": 3272
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "Achicourt, cultivons demain",
+      "libelle_abrege_liste": "Achicourt, cultivons demain",
+      "nuance_liste": "LDVG",
+      "voix": 2510,
+      "pct_voix_exprimes": 76.71,
+      "sieges_cm": 26,
+      "sieges_cc": 5,
+      "nb_elus": 26,
+      "tete_de_liste": {
+        "nom": "LEMAIRE",
+        "prenom": "Patrick",
+        "nom_complet": "Patrick LEMAIRE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LEMAIRE",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick LEMAIRE",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DELALIN",
+          "prenom": "Déborah",
+          "nom_complet": "Déborah DELALIN",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "WANIN",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas WANIN",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "THELLIER",
+          "prenom": "Florence",
+          "nom_complet": "Florence THELLIER",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "CHOCHOY",
+          "prenom": "Yves-Marie",
+          "nom_complet": "Yves-Marie CHOCHOY",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "MALAYEUDE",
+          "prenom": "Virginie",
+          "nom_complet": "Virginie MALAYEUDE",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "THELLIER DESPLANQUES",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe THELLIER DESPLANQUES",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "PIGNON",
+          "prenom": "Marie",
+          "nom_complet": "Marie PIGNON",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "JOVINEL",
+          "prenom": "Kévin",
+          "nom_complet": "Kévin JOVINEL",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "WARIN",
+          "prenom": "Gabrielle",
+          "nom_complet": "Gabrielle WARIN",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "CAZE",
+          "prenom": "Bernard",
+          "nom_complet": "Bernard CAZE",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "LALIN",
+          "prenom": "Blandine",
+          "nom_complet": "Blandine LALIN",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "VILLASPASA",
+          "prenom": "José",
+          "nom_complet": "José VILLASPASA",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "GRAVELEINE",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie GRAVELEINE",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "CASTETS",
+          "prenom": "Michel",
+          "nom_complet": "Michel CASTETS",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "BEAUVAIS BEAULIEUX",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie BEAUVAIS BEAULIEUX",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "LEGRAND",
+          "prenom": "Louis",
+          "nom_complet": "Louis LEGRAND",
+          "sexe": "M",
+          "age": 27,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "RAIMOND TRUFFIER",
+          "prenom": "Géraldine",
+          "nom_complet": "Géraldine RAIMOND TRUFFIER",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "SZYMCZAK",
+          "prenom": "Patrice",
+          "nom_complet": "Patrice SZYMCZAK",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "WROBLEWSKI",
+          "prenom": "Valerie",
+          "nom_complet": "Valerie WROBLEWSKI",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "MOREAU",
+          "prenom": "Gildas",
+          "nom_complet": "Gildas MOREAU",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "LAKRAA",
+          "prenom": "Elvire",
+          "nom_complet": "Elvire LAKRAA",
+          "sexe": "F",
+          "age": 29,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "MARGELIN",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas MARGELIN",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "23"
+        },
+        {
+          "nom": "LECOCQ",
+          "prenom": "Maryse",
+          "nom_complet": "Maryse LECOCQ",
+          "sexe": "F",
+          "age": 73,
+          "rang_liste": "24"
+        },
+        {
+          "nom": "PETIT",
+          "prenom": "Adrien",
+          "nom_complet": "Adrien PETIT",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "25"
+        },
+        {
+          "nom": "FOUQUEZ",
+          "prenom": "Anne",
+          "nom_complet": "Anne FOUQUEZ",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "26"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "UN NOUVEL ELAN POUR ACHICOURT",
+      "libelle_abrege_liste": "UN NOUVEL ELAN POUR ACHICOURT",
+      "nuance_liste": "LDIV",
+      "voix": 762,
+      "pct_voix_exprimes": 23.29,
+      "sieges_cm": 3,
+      "sieges_cc": 0,
+      "nb_elus": 3,
+      "tete_de_liste": {
+        "nom": "LEGRAND",
+        "prenom": "Ludovic",
+        "nom_complet": "Ludovic LEGRAND",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LEGRAND",
+          "prenom": "Ludovic",
+          "nom_complet": "Ludovic LEGRAND",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DHELIN",
+          "prenom": "Angela",
+          "nom_complet": "Angela DHELIN",
+          "sexe": "F",
+          "age": 24,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LAVALLEE",
+          "prenom": "Sven",
+          "nom_complet": "Sven LAVALLEE",
+          "sexe": "M",
+          "age": 25,
+          "rang_liste": "3"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

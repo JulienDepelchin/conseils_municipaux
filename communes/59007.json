@@ -1,0 +1,163 @@
+{
+  "code_commune": "59007",
+  "commune": "Anhiers",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "MORTELETTE",
+    "prenom": "Nadine",
+    "nom_complet": "Nadine MORTELETTE",
+    "age": 66,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 634,
+    "votants": 378,
+    "pct_votants": 59.62,
+    "abstentions": 256,
+    "pct_abstentions": 40.38,
+    "exprimes": 350
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ENSEMBLE, CONSTRUISONS NOTRE AVENIR",
+      "libelle_abrege_liste": "ENSEMBLE, CONSTRUISONS NOTRE AVENIR",
+      "nuance_liste": null,
+      "voix": 350,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "MORTELETTE",
+        "prenom": "Nadine",
+        "nom_complet": "Nadine MORTELETTE",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "MORTELETTE",
+          "prenom": "Nadine",
+          "nom_complet": "Nadine MORTELETTE",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "ZYMELKA",
+          "prenom": "Jean-Pierre",
+          "nom_complet": "Jean-Pierre ZYMELKA",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LONGUEPEZ BAUWENS",
+          "prenom": "Celine",
+          "nom_complet": "Celine LONGUEPEZ BAUWENS",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "FICHELLE",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal FICHELLE",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "ANNERON",
+          "prenom": "Severine",
+          "nom_complet": "Severine ANNERON",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "MORTELETTE",
+          "prenom": "Jean-Paul",
+          "nom_complet": "Jean-Paul MORTELETTE",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "ROGIERS",
+          "prenom": "Pauline",
+          "nom_complet": "Pauline ROGIERS",
+          "sexe": "F",
+          "age": 24,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "WEISS",
+          "prenom": "Alexandre",
+          "nom_complet": "Alexandre WEISS",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "FAYE",
+          "prenom": "Marie",
+          "nom_complet": "Marie FAYE",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "FICHELLE",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe FICHELLE",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "MICULIAN",
+          "prenom": "Ivana",
+          "nom_complet": "Ivana MICULIAN",
+          "sexe": "F",
+          "age": 21,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "GUITTARD",
+          "prenom": "Jean-Pierre",
+          "nom_complet": "Jean-Pierre GUITTARD",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "DEPOORTER",
+          "prenom": "Josette",
+          "nom_complet": "Josette DEPOORTER",
+          "sexe": "F",
+          "age": 79,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "ELIAS",
+          "prenom": "Jacques",
+          "nom_complet": "Jacques ELIAS",
+          "sexe": "M",
+          "age": 83,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "CANTINEAU",
+          "prenom": "Emilie",
+          "nom_complet": "Emilie CANTINEAU",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

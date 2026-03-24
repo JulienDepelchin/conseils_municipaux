@@ -1,0 +1,131 @@
+{
+  "code_commune": "59216",
+  "commune": "Eswars",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "REGNAULT",
+    "prenom": "Francis",
+    "nom_complet": "Francis REGNAULT",
+    "age": 81,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 286,
+    "votants": 167,
+    "pct_votants": 58.39,
+    "abstentions": 119,
+    "pct_abstentions": 41.61,
+    "exprimes": 147
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "UNIS POUR ESWARS",
+      "libelle_abrege_liste": "UNIS POUR ESWARS",
+      "nuance_liste": null,
+      "voix": 147,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "REGNAULT",
+        "prenom": "Francis",
+        "nom_complet": "Francis REGNAULT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "REGNAULT",
+          "prenom": "Francis",
+          "nom_complet": "Francis REGNAULT",
+          "sexe": "M",
+          "age": 81,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "POTIEZ",
+          "prenom": "Marie-Thérèse",
+          "nom_complet": "Marie-Thérèse POTIEZ",
+          "sexe": "F",
+          "age": 75,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "RATTE",
+          "prenom": "Francis",
+          "nom_complet": "Francis RATTE",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LEGER",
+          "prenom": "Marie-Paule",
+          "nom_complet": "Marie-Paule LEGER",
+          "sexe": "F",
+          "age": 74,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "MILLIOT",
+          "prenom": "Bertrand",
+          "nom_complet": "Bertrand MILLIOT",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LEFEBVRE",
+          "prenom": "Marie-Pierre",
+          "nom_complet": "Marie-Pierre LEFEBVRE",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "LOR",
+          "prenom": "Claude",
+          "nom_complet": "Claude LOR",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "MEURIS",
+          "prenom": "Hélène",
+          "nom_complet": "Hélène MEURIS",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "BOUVIER",
+          "prenom": "Romain",
+          "nom_complet": "Romain BOUVIER",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "BRACQ",
+          "prenom": "Marion",
+          "nom_complet": "Marion BRACQ",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "ROSIER",
+          "prenom": "Michaël",
+          "nom_complet": "Michaël ROSIER",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

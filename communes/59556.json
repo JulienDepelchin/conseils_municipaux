@@ -1,0 +1,131 @@
+{
+  "code_commune": "59556",
+  "commune": "Sassegnies",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "PETIT",
+    "prenom": "Vincent",
+    "nom_complet": "Vincent PETIT",
+    "age": 43,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 215,
+    "votants": 106,
+    "pct_votants": 49.3,
+    "abstentions": 109,
+    "pct_abstentions": 50.7,
+    "exprimes": 100
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ENSEMBLE POUR SASSEGNIES",
+      "libelle_abrege_liste": "ENSEMBLE POUR SASSEGNIES",
+      "nuance_liste": null,
+      "voix": 100,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "PETIT",
+        "prenom": "Vincent",
+        "nom_complet": "Vincent PETIT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "PETIT",
+          "prenom": "Vincent",
+          "nom_complet": "Vincent PETIT",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BERTAUX",
+          "prenom": "Marie Laure",
+          "nom_complet": "Marie Laure BERTAUX",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DEHIER",
+          "prenom": "Aurélien",
+          "nom_complet": "Aurélien DEHIER",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LOCQUENEUX",
+          "prenom": "Justine",
+          "nom_complet": "Justine LOCQUENEUX",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "BERTAUX",
+          "prenom": "Jean Noel",
+          "nom_complet": "Jean Noel BERTAUX",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LOCOCHE",
+          "prenom": "Laurence",
+          "nom_complet": "Laurence LOCOCHE",
+          "sexe": "F",
+          "age": 75,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "LAIDET",
+          "prenom": "Geoffroy",
+          "nom_complet": "Geoffroy LAIDET",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DOLÉANS",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle DOLÉANS",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "BAILLEUX",
+          "prenom": "Jean Henry",
+          "nom_complet": "Jean Henry BAILLEUX",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DENHEZ",
+          "prenom": "Marion",
+          "nom_complet": "Marion DENHEZ",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "LANGLOIS",
+          "prenom": "Julien",
+          "nom_complet": "Julien LANGLOIS",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

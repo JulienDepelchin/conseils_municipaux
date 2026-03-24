@@ -1,0 +1,131 @@
+{
+  "code_commune": "62715",
+  "commune": "Rocquigny",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "VAN CAENEGHEM",
+    "prenom": "Romain",
+    "nom_complet": "Romain VAN CAENEGHEM",
+    "age": 40,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 220,
+    "votants": 162,
+    "pct_votants": 73.64,
+    "abstentions": 58,
+    "pct_abstentions": 26.36,
+    "exprimes": 96
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Ensemble, continuons à faire battre le coeur de notre village",
+      "libelle_abrege_liste": "Ensemble, continuons à faire battre le coeur de notre village",
+      "nuance_liste": null,
+      "voix": 96,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "VAN CAENEGHEM",
+        "prenom": "Romain",
+        "nom_complet": "Romain VAN CAENEGHEM",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "VAN CAENEGHEM",
+          "prenom": "Romain",
+          "nom_complet": "Romain VAN CAENEGHEM",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "ROCHON",
+          "prenom": "Laura",
+          "nom_complet": "Laura ROCHON",
+          "sexe": "F",
+          "age": 32,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "COCHE",
+          "prenom": "Raymond",
+          "nom_complet": "Raymond COCHE",
+          "sexe": "M",
+          "age": 77,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BRIDELLE",
+          "prenom": "Nadine",
+          "nom_complet": "Nadine BRIDELLE",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "WILLEKENS",
+          "prenom": "Emmanuel",
+          "nom_complet": "Emmanuel WILLEKENS",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "MOTTIER",
+          "prenom": "Jennifer",
+          "nom_complet": "Jennifer MOTTIER",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "COCHE",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal COCHE",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "COUPÉ",
+          "prenom": "Léa",
+          "nom_complet": "Léa COUPÉ",
+          "sexe": "F",
+          "age": 22,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "BOUTEILLER",
+          "prenom": "Sébastien",
+          "nom_complet": "Sébastien BOUTEILLER",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "BACQUEVILLE",
+          "prenom": "Ingrid",
+          "nom_complet": "Ingrid BACQUEVILLE",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DENIMAL",
+          "prenom": "François",
+          "nom_complet": "François DENIMAL",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

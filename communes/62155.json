@@ -1,0 +1,163 @@
+{
+  "code_commune": "62155",
+  "commune": "Bonningues-lès-Ardres",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "FRANQUE",
+    "prenom": "Gerard-Alexandre",
+    "nom_complet": "Gerard-Alexandre FRANQUE",
+    "age": 54,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 476,
+    "votants": 345,
+    "pct_votants": 72.48,
+    "abstentions": 131,
+    "pct_abstentions": 27.52,
+    "exprimes": 273
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "BONNINGUES ENSEMBLE",
+      "libelle_abrege_liste": "BONNINGUES ENSEMBLE",
+      "nuance_liste": null,
+      "voix": 273,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "FRANQUE",
+        "prenom": "Gerard-Alexandre",
+        "nom_complet": "Gerard-Alexandre FRANQUE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "FRANQUE",
+          "prenom": "Gerard-Alexandre",
+          "nom_complet": "Gerard-Alexandre FRANQUE",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "SAVARY",
+          "prenom": "Brigitte",
+          "nom_complet": "Brigitte SAVARY",
+          "sexe": "F",
+          "age": 71,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "CRETON",
+          "prenom": "Sylvain",
+          "nom_complet": "Sylvain CRETON",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DEMARET",
+          "prenom": "Laurence",
+          "nom_complet": "Laurence DEMARET",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "WIRQUIN",
+          "prenom": "Frederic",
+          "nom_complet": "Frederic WIRQUIN",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "HENON",
+          "prenom": "Christelle",
+          "nom_complet": "Christelle HENON",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BOURBIAUX",
+          "prenom": "Alain",
+          "nom_complet": "Alain BOURBIAUX",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LELIEUR",
+          "prenom": "Amelie",
+          "nom_complet": "Amelie LELIEUR",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "CHARLEMAGNE",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe CHARLEMAGNE",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "SENECAT",
+          "prenom": "Myriam",
+          "nom_complet": "Myriam SENECAT",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "TAUFOUR",
+          "prenom": "Thierry",
+          "nom_complet": "Thierry TAUFOUR",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "BONNET",
+          "prenom": "Lise",
+          "nom_complet": "Lise BONNET",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "DUQUENOY",
+          "prenom": "David",
+          "nom_complet": "David DUQUENOY",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "OBIN",
+          "prenom": "Gwendolina",
+          "nom_complet": "Gwendolina OBIN",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "MERLE",
+          "prenom": "Robert",
+          "nom_complet": "Robert MERLE",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

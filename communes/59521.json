@@ -1,0 +1,131 @@
+{
+  "code_commune": "59521",
+  "commune": "Sailly-lez-Cambrai",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "LAUDE",
+    "prenom": "Philippe",
+    "nom_complet": "Philippe LAUDE",
+    "age": 65,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 337,
+    "votants": 212,
+    "pct_votants": 62.91,
+    "abstentions": 125,
+    "pct_abstentions": 37.09,
+    "exprimes": 201
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Liste d'union pour le \"bien vivre\" à Sailly",
+      "libelle_abrege_liste": "Liste d'union pour le \"bien vivre\" à Sailly",
+      "nuance_liste": null,
+      "voix": 201,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "LAUDE",
+        "prenom": "Philippe",
+        "nom_complet": "Philippe LAUDE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LAUDE",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe LAUDE",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BRUEZ",
+          "prenom": "Christine",
+          "nom_complet": "Christine BRUEZ",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "PROUVEZ",
+          "prenom": "Damien",
+          "nom_complet": "Damien PROUVEZ",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DOIGNEAUX",
+          "prenom": "Marie-Thérèse",
+          "nom_complet": "Marie-Thérèse DOIGNEAUX",
+          "sexe": "F",
+          "age": 82,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LAUDE",
+          "prenom": "Xavier",
+          "nom_complet": "Xavier LAUDE",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DUMON",
+          "prenom": "Monique",
+          "nom_complet": "Monique DUMON",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "WOLFFER",
+          "prenom": "Hervé",
+          "nom_complet": "Hervé WOLFFER",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "CATTEAU",
+          "prenom": "Audrey",
+          "nom_complet": "Audrey CATTEAU",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "CATTEAU",
+          "prenom": "François",
+          "nom_complet": "François CATTEAU",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "MERCIER",
+          "prenom": "Emeline",
+          "nom_complet": "Emeline MERCIER",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "JUSY",
+          "prenom": "Sébastien",
+          "nom_complet": "Sébastien JUSY",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

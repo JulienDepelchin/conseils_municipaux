@@ -1,0 +1,131 @@
+{
+  "code_commune": "59664",
+  "commune": "Wulverdinghe",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "PERRIN",
+    "prenom": "Philippe",
+    "nom_complet": "Philippe PERRIN",
+    "age": 60,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 269,
+    "votants": 162,
+    "pct_votants": 60.22,
+    "abstentions": 107,
+    "pct_abstentions": 39.78,
+    "exprimes": 126
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "WULVERDINGHE AVEC SERIEUX, PROXIMITE ET ENGAGEMENT",
+      "libelle_abrege_liste": "WASPEE",
+      "nuance_liste": null,
+      "voix": 126,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "PERRIN",
+        "prenom": "Philippe",
+        "nom_complet": "Philippe PERRIN",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "PERRIN",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe PERRIN",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "ALLOY",
+          "prenom": "Béatrice",
+          "nom_complet": "Béatrice ALLOY",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LEPLAT",
+          "prenom": "Franck",
+          "nom_complet": "Franck LEPLAT",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "GOLL",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie GOLL",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DELGRANGE",
+          "prenom": "Stéphane",
+          "nom_complet": "Stéphane DELGRANGE",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "FENET",
+          "prenom": "Amélie",
+          "nom_complet": "Amélie FENET",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "RECOURT",
+          "prenom": "Gaël",
+          "nom_complet": "Gaël RECOURT",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LUCAS",
+          "prenom": "Carine",
+          "nom_complet": "Carine LUCAS",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "FIERS",
+          "prenom": "Johanne",
+          "nom_complet": "Johanne FIERS",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DEBOUVRIES",
+          "prenom": "Angélique",
+          "nom_complet": "Angélique DEBOUVRIES",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "SANTOLALLA",
+          "prenom": "Francois-Xavier",
+          "nom_complet": "Francois-Xavier SANTOLALLA",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

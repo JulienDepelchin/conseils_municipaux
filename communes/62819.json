@@ -1,0 +1,163 @@
+{
+  "code_commune": "62819",
+  "commune": "Tilques",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "BEDAGUE",
+    "prenom": "Patrick",
+    "nom_complet": "Patrick BEDAGUE",
+    "age": 64,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 908,
+    "votants": 611,
+    "pct_votants": 67.29,
+    "abstentions": 297,
+    "pct_abstentions": 32.71,
+    "exprimes": 552
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Pour la gestion et l'animation de la vie communale",
+      "libelle_abrege_liste": "Pour la gestion et l'animation de la vie communale",
+      "nuance_liste": null,
+      "voix": 552,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": 1,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "BEDAGUE",
+        "prenom": "Patrick",
+        "nom_complet": "Patrick BEDAGUE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BEDAGUE",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick BEDAGUE",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "KIELINSKI-THOMAS",
+          "prenom": "Fabienne",
+          "nom_complet": "Fabienne KIELINSKI-THOMAS",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "STOPIN",
+          "prenom": "Alain",
+          "nom_complet": "Alain STOPIN",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "HUYARD-WILLE",
+          "prenom": "Charlotte",
+          "nom_complet": "Charlotte HUYARD-WILLE",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "BODART",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent BODART",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "BOIN",
+          "prenom": "Marie-Laure",
+          "nom_complet": "Marie-Laure BOIN",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "LEBLOND",
+          "prenom": "Jean-Jacques",
+          "nom_complet": "Jean-Jacques LEBLOND",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "BOIN-BOULET",
+          "prenom": "Béatrice",
+          "nom_complet": "Béatrice BOIN-BOULET",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "TELLIER",
+          "prenom": "Hervé",
+          "nom_complet": "Hervé TELLIER",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "BÉCU -DUPUIS",
+          "prenom": "Hélène",
+          "nom_complet": "Hélène BÉCU -DUPUIS",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "GUILBERT",
+          "prenom": "Jean-Pierre",
+          "nom_complet": "Jean-Pierre GUILBERT",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "DERCY",
+          "prenom": "Sandrine",
+          "nom_complet": "Sandrine DERCY",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "LEMAIRE",
+          "prenom": "Jérémy",
+          "nom_complet": "Jérémy LEMAIRE",
+          "sexe": "M",
+          "age": 31,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "LEFEBVRE-DUPUIS",
+          "prenom": "Mélanie",
+          "nom_complet": "Mélanie LEFEBVRE-DUPUIS",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "MINEBOIS",
+          "prenom": "Didier",
+          "nom_complet": "Didier MINEBOIS",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "code_commune": "59201",
+  "commune": "Erquinghem-le-Sec",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "BIALAIS",
+    "prenom": "Philippe",
+    "nom_complet": "Philippe BIALAIS",
+    "age": 64,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 440,
+    "votants": 281,
+    "pct_votants": 63.86,
+    "abstentions": 159,
+    "pct_abstentions": 36.14,
+    "exprimes": 258
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "AVEC VOUS, FAISONS BATTRE LES COEURS DE NOTRE VILLAGE!",
+      "libelle_abrege_liste": "AVEC VOUS, FAISONS BATTRE LES COEURS DE NOTRE VILLAGE!",
+      "nuance_liste": null,
+      "voix": 258,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "BIALAIS",
+        "prenom": "Philippe",
+        "nom_complet": "Philippe BIALAIS",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BIALAIS",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe BIALAIS",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "MALBRANCKE",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie MALBRANCKE",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "MACQUART",
+          "prenom": "Thibault",
+          "nom_complet": "Thibault MACQUART",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LAMBIN",
+          "prenom": "Anna-Maria",
+          "nom_complet": "Anna-Maria LAMBIN",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "SOUDAIN",
+          "prenom": "Florian",
+          "nom_complet": "Florian SOUDAIN",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "MALLET",
+          "prenom": "Celine",
+          "nom_complet": "Celine MALLET",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "LEMERRE",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe LEMERRE",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "BLANQUART",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle BLANQUART",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DAUWER",
+          "prenom": "Jean-Pierre",
+          "nom_complet": "Jean-Pierre DAUWER",
+          "sexe": "M",
+          "age": 74,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "CATAN-CAVERY",
+          "prenom": "Prisca",
+          "nom_complet": "Prisca CATAN-CAVERY",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "COTTREEL",
+          "prenom": "Adrien",
+          "nom_complet": "Adrien COTTREEL",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "PENIN",
+          "prenom": "Karine",
+          "nom_complet": "Karine PENIN",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "D'ALMEIDA",
+          "prenom": "Emmanuel",
+          "nom_complet": "Emmanuel D'ALMEIDA",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "MARQUES TEIXEIRA",
+          "prenom": "Alexandra",
+          "nom_complet": "Alexandra MARQUES TEIXEIRA",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "GODBERT",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe GODBERT",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

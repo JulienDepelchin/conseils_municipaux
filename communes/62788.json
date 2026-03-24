@@ -1,0 +1,183 @@
+{
+  "code_commune": "62788",
+  "commune": "Seninghem",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "BÉCLIN",
+    "prenom": "Freddy",
+    "nom_complet": "Freddy BÉCLIN",
+    "age": 69,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 577,
+    "votants": 424,
+    "pct_votants": 73.48,
+    "abstentions": 153,
+    "pct_abstentions": 26.52,
+    "exprimes": 408
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "Toujours ensemble pour Seninghem",
+      "libelle_abrege_liste": "Toujours ensemble pour Seninghem",
+      "nuance_liste": null,
+      "voix": 213,
+      "pct_voix_exprimes": 52.21,
+      "sieges_cm": 12,
+      "sieges_cc": null,
+      "nb_elus": 12,
+      "tete_de_liste": {
+        "nom": "BÉCLIN",
+        "prenom": "Freddy",
+        "nom_complet": "Freddy BÉCLIN",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BÉCLIN",
+          "prenom": "Freddy",
+          "nom_complet": "Freddy BÉCLIN",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "RAEVEL",
+          "prenom": "Laura",
+          "nom_complet": "Laura RAEVEL",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LECLERCQ",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe LECLERCQ",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LELEU",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle LELEU",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DUVAL",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe DUVAL",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "MACHU",
+          "prenom": "Christine",
+          "nom_complet": "Christine MACHU",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "HANON",
+          "prenom": "Yohann",
+          "nom_complet": "Yohann HANON",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "SUEUR",
+          "prenom": "Camille",
+          "nom_complet": "Camille SUEUR",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "BAROUX",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno BAROUX",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "FASQUELLE",
+          "prenom": "Cindy",
+          "nom_complet": "Cindy FASQUELLE",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "THOMAS",
+          "prenom": "Johann",
+          "nom_complet": "Johann THOMAS",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "CAZIER",
+          "prenom": "Audrey",
+          "nom_complet": "Audrey CAZIER",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "12"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "SENINGHEM, UN TERRITOIRE, UN MÊME ÉLAN",
+      "libelle_abrege_liste": "SENINGHEM, UN TERRITOIRE, UN MÊME ÉLAN",
+      "nuance_liste": null,
+      "voix": 195,
+      "pct_voix_exprimes": 47.79,
+      "sieges_cm": 3,
+      "sieges_cc": null,
+      "nb_elus": 3,
+      "tete_de_liste": {
+        "nom": "DUFOUR",
+        "prenom": "Alexandra",
+        "nom_complet": "Alexandra DUFOUR",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "DUFOUR",
+          "prenom": "Alexandra",
+          "nom_complet": "Alexandra DUFOUR",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DELHAYE",
+          "prenom": "René",
+          "nom_complet": "René DELHAYE",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "YAKOUBEN",
+          "prenom": "Maud",
+          "nom_complet": "Maud YAKOUBEN",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "3"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

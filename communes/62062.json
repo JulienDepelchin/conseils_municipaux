@@ -1,0 +1,99 @@
+{
+  "code_commune": "62062",
+  "commune": "Avesnes",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "BENOIT",
+    "prenom": "Gauthier",
+    "nom_complet": "Gauthier BENOIT",
+    "age": 41,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 39,
+    "votants": 32,
+    "pct_votants": 82.05,
+    "abstentions": 7,
+    "pct_abstentions": 17.95,
+    "exprimes": 26
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "POUR AVESNES",
+      "libelle_abrege_liste": "POUR AVESNES",
+      "nuance_liste": null,
+      "voix": 26,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 7,
+      "sieges_cc": null,
+      "nb_elus": 7,
+      "tete_de_liste": {
+        "nom": "BENOIT",
+        "prenom": "Gauthier",
+        "nom_complet": "Gauthier BENOIT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BENOIT",
+          "prenom": "Gauthier",
+          "nom_complet": "Gauthier BENOIT",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "FONTAINE",
+          "prenom": "Françoise",
+          "nom_complet": "Françoise FONTAINE",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DELHAYE",
+          "prenom": "Thierry",
+          "nom_complet": "Thierry DELHAYE",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DEWAILLY",
+          "prenom": "Amandine",
+          "nom_complet": "Amandine DEWAILLY",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "FÉVRIER",
+          "prenom": "Martial",
+          "nom_complet": "Martial FÉVRIER",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DOURDIN",
+          "prenom": "Emeline",
+          "nom_complet": "Emeline DOURDIN",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DEMAGNY",
+          "prenom": "Mathieu",
+          "nom_complet": "Mathieu DEMAGNY",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "7"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

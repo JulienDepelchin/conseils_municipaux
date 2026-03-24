@@ -1,0 +1,131 @@
+{
+  "code_commune": "62319",
+  "commune": "Eterpigny",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "DUTHILLEUL",
+    "prenom": "Philippe",
+    "nom_complet": "Philippe DUTHILLEUL",
+    "age": 49,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 207,
+    "votants": 131,
+    "pct_votants": 63.29,
+    "abstentions": 76,
+    "pct_abstentions": 36.71,
+    "exprimes": 116
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Un Village qui nous ressemble et nous rassemble",
+      "libelle_abrege_liste": "Un Village qui nous ressemble et nous rassemble",
+      "nuance_liste": null,
+      "voix": 116,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "DUTHILLEUL",
+        "prenom": "Philippe",
+        "nom_complet": "Philippe DUTHILLEUL",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DUTHILLEUL",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe DUTHILLEUL",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "COLIN",
+          "prenom": "Vanessa",
+          "nom_complet": "Vanessa COLIN",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "MITTET",
+          "prenom": "Vincent",
+          "nom_complet": "Vincent MITTET",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "STIEVENART",
+          "prenom": "Corinne",
+          "nom_complet": "Corinne STIEVENART",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DEVIS",
+          "prenom": "Fabrice",
+          "nom_complet": "Fabrice DEVIS",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "IACOPUCCI",
+          "prenom": "Sacha",
+          "nom_complet": "Sacha IACOPUCCI",
+          "sexe": "F",
+          "age": 30,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "ESQUENET",
+          "prenom": "Edouard",
+          "nom_complet": "Edouard ESQUENET",
+          "sexe": "M",
+          "age": 32,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "PLAYE",
+          "prenom": "Cindy",
+          "nom_complet": "Cindy PLAYE",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "LAMBERT",
+          "prenom": "José",
+          "nom_complet": "José LAMBERT",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "POISSINGER",
+          "prenom": "Cecile",
+          "nom_complet": "Cecile POISSINGER",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "HERLEM",
+          "prenom": "Julien",
+          "nom_complet": "Julien HERLEM",
+          "sexe": "M",
+          "age": 34,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

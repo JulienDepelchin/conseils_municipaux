@@ -1,0 +1,163 @@
+{
+  "code_commune": "59275",
+  "commune": "Gruson",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "TURPIN",
+    "prenom": "Olivier",
+    "nom_complet": "Olivier TURPIN",
+    "age": 58,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1093,
+    "votants": 593,
+    "pct_votants": 54.25,
+    "abstentions": 500,
+    "pct_abstentions": 45.75,
+    "exprimes": 530
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "GRUSON 2026 CONTINUONS ENSEMBLE",
+      "libelle_abrege_liste": "GRUSON 2026 CONTINUONS ENSEMBLE",
+      "nuance_liste": null,
+      "voix": 530,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": 1,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "TURPIN",
+        "prenom": "Olivier",
+        "nom_complet": "Olivier TURPIN",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "TURPIN",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier TURPIN",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "MAERTE",
+          "prenom": "Caroline",
+          "nom_complet": "Caroline MAERTE",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "SIMOENS",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe SIMOENS",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "TISON POTIN",
+          "prenom": "Vanessa",
+          "nom_complet": "Vanessa TISON POTIN",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "PENNEQUIN",
+          "prenom": "Pierre-Henri",
+          "nom_complet": "Pierre-Henri PENNEQUIN",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "TARRIN",
+          "prenom": "Chrystelle",
+          "nom_complet": "Chrystelle TARRIN",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "CARETTE",
+          "prenom": "Valère",
+          "nom_complet": "Valère CARETTE",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "BOUCHELAGHEM",
+          "prenom": "Louisa",
+          "nom_complet": "Louisa BOUCHELAGHEM",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "MASQUELIER",
+          "prenom": "Thierry",
+          "nom_complet": "Thierry MASQUELIER",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "MEZZINA",
+          "prenom": "Catherine",
+          "nom_complet": "Catherine MEZZINA",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "VANHASBROUCK",
+          "prenom": "Simon",
+          "nom_complet": "Simon VANHASBROUCK",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "DOOSE",
+          "prenom": "Hélène",
+          "nom_complet": "Hélène DOOSE",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "TISON",
+          "prenom": "Thibault",
+          "nom_complet": "Thibault TISON",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "CAVROIS",
+          "prenom": "Christelle",
+          "nom_complet": "Christelle CAVROIS",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "DEFRETIN",
+          "prenom": "Thierry",
+          "nom_complet": "Thierry DEFRETIN",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

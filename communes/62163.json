@@ -1,0 +1,131 @@
+{
+  "code_commune": "62163",
+  "commune": "Bouret-sur-Canche",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "DELATTRE",
+    "prenom": "Jean-Marie",
+    "nom_complet": "Jean-Marie DELATTRE",
+    "age": 75,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 205,
+    "votants": 145,
+    "pct_votants": 70.73,
+    "abstentions": 60,
+    "pct_abstentions": 29.27,
+    "exprimes": 117
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Défense des intérêts communaux",
+      "libelle_abrege_liste": "Défense des intérêts communaux",
+      "nuance_liste": null,
+      "voix": 117,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "DELATTRE",
+        "prenom": "Jean-Marie",
+        "nom_complet": "Jean-Marie DELATTRE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DELATTRE",
+          "prenom": "Jean-Marie",
+          "nom_complet": "Jean-Marie DELATTRE",
+          "sexe": "M",
+          "age": 75,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DESACY",
+          "prenom": "Laurence",
+          "nom_complet": "Laurence DESACY",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LANCE",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick LANCE",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DUBOURDIEU",
+          "prenom": "Marie-Pierre",
+          "nom_complet": "Marie-Pierre DUBOURDIEU",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LESIEUX",
+          "prenom": "Arnaud",
+          "nom_complet": "Arnaud LESIEUX",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DUPONT",
+          "prenom": "Chantal",
+          "nom_complet": "Chantal DUPONT",
+          "sexe": "F",
+          "age": 70,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "MORIEUX",
+          "prenom": "David",
+          "nom_complet": "David MORIEUX",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "MACHEPRIN",
+          "prenom": "Jo-Ann",
+          "nom_complet": "Jo-Ann MACHEPRIN",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "GOERGES",
+          "prenom": "Grégory",
+          "nom_complet": "Grégory GOERGES",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "CHABE",
+          "prenom": "Emilie",
+          "nom_complet": "Emilie CHABE",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "MACRON",
+          "prenom": "Antoine",
+          "nom_complet": "Antoine MACRON",
+          "sexe": "M",
+          "age": 26,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

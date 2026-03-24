@@ -1,0 +1,355 @@
+{
+  "code_commune": "62244",
+  "commune": "Coulogne",
+  "departement": "Pas-de-Calais",
+  "tour": "T2",
+  "maire": {
+    "nom": "PUISSESSEAU",
+    "prenom": "Jean-Marc",
+    "nom_complet": "Jean-Marc PUISSESSEAU",
+    "age": 85,
+    "nuance": "LDVD"
+  },
+  "resultats": {
+    "inscrits": 4682,
+    "votants": 2858,
+    "pct_votants": 61.04,
+    "abstentions": 1824,
+    "pct_abstentions": 38.96,
+    "exprimes": 2776
+  },
+  "listes": [
+    {
+      "num_panneau": "5",
+      "libelle_liste": "Fiers de Coulogne",
+      "libelle_abrege_liste": "Fiers de Coulogne",
+      "nuance_liste": "LDVD",
+      "voix": 915,
+      "pct_voix_exprimes": 32.96,
+      "sieges_cm": 20,
+      "sieges_cc": 3,
+      "nb_elus": 20,
+      "tete_de_liste": {
+        "nom": "PUISSESSEAU",
+        "prenom": "Jean-Marc",
+        "nom_complet": "Jean-Marc PUISSESSEAU",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "PUISSESSEAU",
+          "prenom": "Jean-Marc",
+          "nom_complet": "Jean-Marc PUISSESSEAU",
+          "sexe": "M",
+          "age": 85,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DEVOT",
+          "prenom": "Pauline",
+          "nom_complet": "Pauline DEVOT",
+          "sexe": "F",
+          "age": 26,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DE GRAVE",
+          "prenom": "José",
+          "nom_complet": "José DE GRAVE",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "GOMEL",
+          "prenom": "Sylviane",
+          "nom_complet": "Sylviane GOMEL",
+          "sexe": "F",
+          "age": 70,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "EL HAIMEUR",
+          "prenom": "Medhy",
+          "nom_complet": "Medhy EL HAIMEUR",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DELBEC",
+          "prenom": "Valérie",
+          "nom_complet": "Valérie DELBEC",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "CADET",
+          "prenom": "Romuald",
+          "nom_complet": "Romuald CADET",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DE JAEGHER",
+          "prenom": "Priscilla",
+          "nom_complet": "Priscilla DE JAEGHER",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "POVSIC",
+          "prenom": "Reynald",
+          "nom_complet": "Reynald POVSIC",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "FORATIER",
+          "prenom": "Albine",
+          "nom_complet": "Albine FORATIER",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "POLLET",
+          "prenom": "Renaud",
+          "nom_complet": "Renaud POLLET",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "BARROIS",
+          "prenom": "Annick",
+          "nom_complet": "Annick BARROIS",
+          "sexe": "F",
+          "age": 70,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "HOUZÉ",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique HOUZÉ",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "CADET DIT DEGRAVIER",
+          "prenom": "Corinne",
+          "nom_complet": "Corinne CADET DIT DEGRAVIER",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "FONTAINE",
+          "prenom": "Régis",
+          "nom_complet": "Régis FONTAINE",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "SMAGHUE",
+          "prenom": "Carole",
+          "nom_complet": "Carole SMAGHUE",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "PROYART",
+          "prenom": "Simon",
+          "nom_complet": "Simon PROYART",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "SY",
+          "prenom": "Manon",
+          "nom_complet": "Manon SY",
+          "sexe": "F",
+          "age": 31,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "DEGUINES",
+          "prenom": "Thomas",
+          "nom_complet": "Thomas DEGUINES",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "TURPIN",
+          "prenom": "Emma",
+          "nom_complet": "Emma TURPIN",
+          "sexe": "F",
+          "age": 20,
+          "rang_liste": "20"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Coulogne, un nouveau souffle",
+      "libelle_abrege_liste": "Coulogne, un nouveau souffle",
+      "nuance_liste": "LDIV",
+      "voix": 773,
+      "pct_voix_exprimes": 27.85,
+      "sieges_cm": 4,
+      "sieges_cc": 1,
+      "nb_elus": 4,
+      "tete_de_liste": {
+        "nom": "PRUVOT",
+        "prenom": "Morgan",
+        "nom_complet": "Morgan PRUVOT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "PRUVOT",
+          "prenom": "Morgan",
+          "nom_complet": "Morgan PRUVOT",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DELEGLISE",
+          "prenom": "Sophie",
+          "nom_complet": "Sophie DELEGLISE",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "GAVELLE",
+          "prenom": "Quentin",
+          "nom_complet": "Quentin GAVELLE",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DOMAIN",
+          "prenom": "Eloise",
+          "nom_complet": "Eloise DOMAIN",
+          "sexe": "F",
+          "age": 27,
+          "rang_liste": "4"
+        }
+      ],
+      "statut_conseil": "autre"
+    },
+    {
+      "num_panneau": "8",
+      "libelle_liste": "Reprendre le cap",
+      "libelle_abrege_liste": "Reprendre le cap",
+      "nuance_liste": "LDVD",
+      "voix": 428,
+      "pct_voix_exprimes": 15.42,
+      "sieges_cm": 2,
+      "sieges_cc": 0,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "MUYS",
+        "prenom": "Isabelle",
+        "nom_complet": "Isabelle MUYS",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "MUYS",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle MUYS",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "WARNAULT",
+          "prenom": "Pierre",
+          "nom_complet": "Pierre WARNAULT",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    },
+    {
+      "num_panneau": "3",
+      "libelle_liste": "Coulogne apaisé",
+      "libelle_abrege_liste": "Coulogne apaisé",
+      "nuance_liste": "LRN",
+      "voix": 330,
+      "pct_voix_exprimes": 11.89,
+      "sieges_cm": 2,
+      "sieges_cc": 0,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "FLAMENT",
+        "prenom": "Andy",
+        "nom_complet": "Andy FLAMENT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "FLAMENT",
+          "prenom": "Andy",
+          "nom_complet": "Andy FLAMENT",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "STOPIN",
+          "prenom": "Céline",
+          "nom_complet": "Céline STOPIN",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    },
+    {
+      "num_panneau": "7",
+      "libelle_liste": "Simplement Coulogne",
+      "libelle_abrege_liste": "Simplement Coulogne",
+      "nuance_liste": "LDIV",
+      "voix": 330,
+      "pct_voix_exprimes": 11.89,
+      "sieges_cm": 1,
+      "sieges_cc": 0,
+      "nb_elus": 1,
+      "tete_de_liste": {
+        "nom": "CHARAVEL",
+        "prenom": "Jérémy",
+        "nom_complet": "Jérémy CHARAVEL",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "CHARAVEL",
+          "prenom": "Jérémy",
+          "nom_complet": "Jérémy CHARAVEL",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "1"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

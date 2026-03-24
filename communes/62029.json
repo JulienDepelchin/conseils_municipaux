@@ -1,0 +1,131 @@
+{
+  "code_commune": "62029",
+  "commune": "Amettes",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "DELEPINE",
+    "prenom": "Michèle",
+    "nom_complet": "Michèle DELEPINE",
+    "age": 66,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 368,
+    "votants": 281,
+    "pct_votants": 76.36,
+    "abstentions": 87,
+    "pct_abstentions": 23.64,
+    "exprimes": 220
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "AMETTES POUR TOUS",
+      "libelle_abrege_liste": "AMETTES POUR TOUS",
+      "nuance_liste": null,
+      "voix": 220,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "DELEPINE",
+        "prenom": "Michèle",
+        "nom_complet": "Michèle DELEPINE",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "DELEPINE",
+          "prenom": "Michèle",
+          "nom_complet": "Michèle DELEPINE",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "SCHOEMACKER",
+          "prenom": "Paul",
+          "nom_complet": "Paul SCHOEMACKER",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "SCHOEMACKER",
+          "prenom": "Laëtitia",
+          "nom_complet": "Laëtitia SCHOEMACKER",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BOITEL",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier BOITEL",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "BILLIET",
+          "prenom": "Elsa",
+          "nom_complet": "Elsa BILLIET",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DEVOS",
+          "prenom": "Mathieu",
+          "nom_complet": "Mathieu DEVOS",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "FILBIEN",
+          "prenom": "Claire",
+          "nom_complet": "Claire FILBIEN",
+          "sexe": "F",
+          "age": 30,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "BULTEL",
+          "prenom": "Loïc",
+          "nom_complet": "Loïc BULTEL",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "SUEL",
+          "prenom": "Julie",
+          "nom_complet": "Julie SUEL",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "MERCIER",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe MERCIER",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "BOITEL",
+          "prenom": "Gaelle",
+          "nom_complet": "Gaelle BOITEL",
+          "sexe": "F",
+          "age": 22,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

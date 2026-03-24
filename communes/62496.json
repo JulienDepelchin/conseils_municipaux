@@ -1,0 +1,131 @@
+{
+  "code_commune": "62496",
+  "commune": "Lefaux",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "MARGUERITTE",
+    "prenom": "Geneviève",
+    "nom_complet": "Geneviève MARGUERITTE",
+    "age": 78,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 222,
+    "votants": 129,
+    "pct_votants": 58.11,
+    "abstentions": 93,
+    "pct_abstentions": 41.89,
+    "exprimes": 117
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Une énergie nouvelle pour notre village",
+      "libelle_abrege_liste": "Une énergie nouvelle pour notre village",
+      "nuance_liste": null,
+      "voix": 117,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "MARGUERITTE",
+        "prenom": "Geneviève",
+        "nom_complet": "Geneviève MARGUERITTE",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "MARGUERITTE",
+          "prenom": "Geneviève",
+          "nom_complet": "Geneviève MARGUERITTE",
+          "sexe": "F",
+          "age": 78,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DESCAMPS",
+          "prenom": "Didier",
+          "nom_complet": "Didier DESCAMPS",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "MIONNET",
+          "prenom": "Priscillia",
+          "nom_complet": "Priscillia MIONNET",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DOUCHET",
+          "prenom": "Pierre",
+          "nom_complet": "Pierre DOUCHET",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "BAILLET",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle BAILLET",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "GUERVILLE",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent GUERVILLE",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BOUTILLIER",
+          "prenom": "Linda",
+          "nom_complet": "Linda BOUTILLIER",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "QUESTIER",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe QUESTIER",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "PERRAULT",
+          "prenom": "Albane",
+          "nom_complet": "Albane PERRAULT",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "GILLOT",
+          "prenom": "Jimmy",
+          "nom_complet": "Jimmy GILLOT",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "ROUZIERE",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle ROUZIERE",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

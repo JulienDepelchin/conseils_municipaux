@@ -1,0 +1,163 @@
+{
+  "code_commune": "59436",
+  "commune": "Noordpeene",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "DEHONDT-BEDAGUE",
+    "prenom": "Thierry",
+    "nom_complet": "Thierry DEHONDT-BEDAGUE",
+    "age": 56,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 626,
+    "votants": 377,
+    "pct_votants": 60.22,
+    "abstentions": 249,
+    "pct_abstentions": 39.78,
+    "exprimes": 307
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "NOORDPEENE ENSEMBLE POUR L'AVENIR",
+      "libelle_abrege_liste": "NEPA",
+      "nuance_liste": null,
+      "voix": 307,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "DEHONDT-BEDAGUE",
+        "prenom": "Thierry",
+        "nom_complet": "Thierry DEHONDT-BEDAGUE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DEHONDT-BEDAGUE",
+          "prenom": "Thierry",
+          "nom_complet": "Thierry DEHONDT-BEDAGUE",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BALZA",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie BALZA",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BALZA",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent BALZA",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BAUDHUIN",
+          "prenom": "Sabrina",
+          "nom_complet": "Sabrina BAUDHUIN",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "BARDOUX",
+          "prenom": "Mathieu",
+          "nom_complet": "Mathieu BARDOUX",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "BOUILLIEZ",
+          "prenom": "Anne-Charlotte",
+          "nom_complet": "Anne-Charlotte BOUILLIEZ",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DECLERCQ",
+          "prenom": "Benoit",
+          "nom_complet": "Benoit DECLERCQ",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "GRUNENWALD",
+          "prenom": "Diane",
+          "nom_complet": "Diane GRUNENWALD",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DECODTS",
+          "prenom": "Alexandre",
+          "nom_complet": "Alexandre DECODTS",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "LUTUN",
+          "prenom": "Delphine",
+          "nom_complet": "Delphine LUTUN",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "MONKERHEY",
+          "prenom": "Emmanuel",
+          "nom_complet": "Emmanuel MONKERHEY",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "OZEEL",
+          "prenom": "Emilie",
+          "nom_complet": "Emilie OZEEL",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "VERHAEGHE",
+          "prenom": "Bernard",
+          "nom_complet": "Bernard VERHAEGHE",
+          "sexe": "M",
+          "age": 75,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "PLANCKEEL",
+          "prenom": "Ludivine",
+          "nom_complet": "Ludivine PLANCKEEL",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "WYART",
+          "prenom": "Cédric",
+          "nom_complet": "Cédric WYART",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

@@ -1,0 +1,295 @@
+{
+  "code_commune": "59131",
+  "commune": "Cappelle-la-Grande",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "GOKEL",
+    "prenom": "Julien",
+    "nom_complet": "Julien GOKEL",
+    "age": 43,
+    "nuance": "LDVG"
+  },
+  "resultats": {
+    "inscrits": 6352,
+    "votants": 3861,
+    "pct_votants": 60.78,
+    "abstentions": 2491,
+    "pct_abstentions": 39.22,
+    "exprimes": 3630
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Pour vous et pour Cappelle",
+      "libelle_abrege_liste": "PVPC",
+      "nuance_liste": "LDVG",
+      "voix": 2922,
+      "pct_voix_exprimes": 80.5,
+      "sieges_cm": 27,
+      "sieges_cc": 2,
+      "nb_elus": 27,
+      "tete_de_liste": {
+        "nom": "GOKEL",
+        "prenom": "Julien",
+        "nom_complet": "Julien GOKEL",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "GOKEL",
+          "prenom": "Julien",
+          "nom_complet": "Julien GOKEL",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "AGNERAY",
+          "prenom": "Sophie",
+          "nom_complet": "Sophie AGNERAY",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DEHEUNYNCK",
+          "prenom": "Bernard",
+          "nom_complet": "Bernard DEHEUNYNCK",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BOUSSEMAERE",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie BOUSSEMAERE",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "CAIGNIEZ",
+          "prenom": "Bernard",
+          "nom_complet": "Bernard CAIGNIEZ",
+          "sexe": "M",
+          "age": 74,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "WEIZMANN",
+          "prenom": "Paulette",
+          "nom_complet": "Paulette WEIZMANN",
+          "sexe": "F",
+          "age": 72,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "VERMEULEN",
+          "prenom": "Thierry",
+          "nom_complet": "Thierry VERMEULEN",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DYCKE-PALMINO",
+          "prenom": "Aurore",
+          "nom_complet": "Aurore DYCKE-PALMINO",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "STEVEN",
+          "prenom": "Thierry",
+          "nom_complet": "Thierry STEVEN",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "WOLOSZYN",
+          "prenom": "Karine",
+          "nom_complet": "Karine WOLOSZYN",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "BERTELOOT",
+          "prenom": "Damien",
+          "nom_complet": "Damien BERTELOOT",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "VANHEE-BAERT",
+          "prenom": "Alison",
+          "nom_complet": "Alison VANHEE-BAERT",
+          "sexe": "F",
+          "age": 32,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "KASPRZYK",
+          "prenom": "Sylvestre",
+          "nom_complet": "Sylvestre KASPRZYK",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "LEROY",
+          "prenom": "Evelyne",
+          "nom_complet": "Evelyne LEROY",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "ALLOO",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric ALLOO",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "LECAT",
+          "prenom": "Marie",
+          "nom_complet": "Marie LECAT",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "BOURY",
+          "prenom": "Arnaud",
+          "nom_complet": "Arnaud BOURY",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "VERNIEUWE-RACOLLIER",
+          "prenom": "Caroline",
+          "nom_complet": "Caroline VERNIEUWE-RACOLLIER",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "LUCHEZ",
+          "prenom": "Benjamin",
+          "nom_complet": "Benjamin LUCHEZ",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "LEGROS",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie LEGROS",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "MANGEOT",
+          "prenom": "Anthony",
+          "nom_complet": "Anthony MANGEOT",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "HAUW",
+          "prenom": "Laëtitia",
+          "nom_complet": "Laëtitia HAUW",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "DECLERCK",
+          "prenom": "Sébastien",
+          "nom_complet": "Sébastien DECLERCK",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "23"
+        },
+        {
+          "nom": "LAVOGIER",
+          "prenom": "Martine",
+          "nom_complet": "Martine LAVOGIER",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "24"
+        },
+        {
+          "nom": "INGELAERE",
+          "prenom": "Théo",
+          "nom_complet": "Théo INGELAERE",
+          "sexe": "M",
+          "age": 24,
+          "rang_liste": "25"
+        },
+        {
+          "nom": "REBBANI-SLIMANI",
+          "prenom": "Sofia",
+          "nom_complet": "Sofia REBBANI-SLIMANI",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "26"
+        },
+        {
+          "nom": "RAMA",
+          "prenom": "Emmanuel",
+          "nom_complet": "Emmanuel RAMA",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "27"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "CAPPELLE HORIZON",
+      "libelle_abrege_liste": "CAPPELLE HORIZON",
+      "nuance_liste": "LDVG",
+      "voix": 708,
+      "pct_voix_exprimes": 19.5,
+      "sieges_cm": 2,
+      "sieges_cc": 0,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "MERLIN",
+        "prenom": "Sandrine",
+        "nom_complet": "Sandrine MERLIN",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "MERLIN",
+          "prenom": "Sandrine",
+          "nom_complet": "Sandrine MERLIN",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "MORGAND",
+          "prenom": "Thierry",
+          "nom_complet": "Thierry MORGAND",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

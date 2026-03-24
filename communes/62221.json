@@ -1,0 +1,131 @@
+{
+  "code_commune": "62221",
+  "commune": "Chelers",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "DUBOIS",
+    "prenom": "David",
+    "nom_complet": "David DUBOIS",
+    "age": 47,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 196,
+    "votants": 144,
+    "pct_votants": 73.47,
+    "abstentions": 52,
+    "pct_abstentions": 26.53,
+    "exprimes": 99
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "CONTINUITÉ ET RENOUVEAU POUR CHELERS",
+      "libelle_abrege_liste": "CONTINUITÉ ET RENOUVEAU POUR CHELERS",
+      "nuance_liste": null,
+      "voix": 99,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "DUBOIS",
+        "prenom": "David",
+        "nom_complet": "David DUBOIS",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DUBOIS",
+          "prenom": "David",
+          "nom_complet": "David DUBOIS",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "PEZÉ",
+          "prenom": "Bernadette",
+          "nom_complet": "Bernadette PEZÉ",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LECLERCQ",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas LECLERCQ",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "HESDIN",
+          "prenom": "Karine",
+          "nom_complet": "Karine HESDIN",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "BLONDEL",
+          "prenom": "Jocelyn",
+          "nom_complet": "Jocelyn BLONDEL",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "PREVOTS",
+          "prenom": "Christine",
+          "nom_complet": "Christine PREVOTS",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "SKORUPKA",
+          "prenom": "Fabrice",
+          "nom_complet": "Fabrice SKORUPKA",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "NEVEU",
+          "prenom": "Amandine",
+          "nom_complet": "Amandine NEVEU",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "LESENNE",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal LESENNE",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "BOUTILLIER",
+          "prenom": "Elise",
+          "nom_complet": "Elise BOUTILLIER",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "TARDIEU",
+          "prenom": "Cédric",
+          "nom_complet": "Cédric TARDIEU",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

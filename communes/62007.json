@@ -1,0 +1,183 @@
+{
+  "code_commune": "62007",
+  "commune": "Acq",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "BARTIER",
+    "prenom": "Alain",
+    "nom_complet": "Alain BARTIER",
+    "age": 61,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 578,
+    "votants": 447,
+    "pct_votants": 77.34,
+    "abstentions": 131,
+    "pct_abstentions": 22.66,
+    "exprimes": 440
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Ensemble, continuons pour Acq",
+      "libelle_abrege_liste": "Ensemble, continuons pour Acq",
+      "nuance_liste": null,
+      "voix": 260,
+      "pct_voix_exprimes": 59.09,
+      "sieges_cm": 12,
+      "sieges_cc": null,
+      "nb_elus": 12,
+      "tete_de_liste": {
+        "nom": "BARTIER",
+        "prenom": "Alain",
+        "nom_complet": "Alain BARTIER",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BARTIER",
+          "prenom": "Alain",
+          "nom_complet": "Alain BARTIER",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "OTENDE",
+          "prenom": "Juliette",
+          "nom_complet": "Juliette OTENDE",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DUHAMEL",
+          "prenom": "Fabien",
+          "nom_complet": "Fabien DUHAMEL",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BLANC",
+          "prenom": "Ingrid",
+          "nom_complet": "Ingrid BLANC",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "BRIET",
+          "prenom": "Cédric",
+          "nom_complet": "Cédric BRIET",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "MANIA",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie MANIA",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BATON",
+          "prenom": "Stéphane",
+          "nom_complet": "Stéphane BATON",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "WAILLY",
+          "prenom": "Céline",
+          "nom_complet": "Céline WAILLY",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "FRANÇOIS",
+          "prenom": "Gervais",
+          "nom_complet": "Gervais FRANÇOIS",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DUGAUGUEZ",
+          "prenom": "Christelle",
+          "nom_complet": "Christelle DUGAUGUEZ",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "CUISINIER",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent CUISINIER",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "PASCAL",
+          "prenom": "Peggy",
+          "nom_complet": "Peggy PASCAL",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "12"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "AGIR POUR ACQ",
+      "libelle_abrege_liste": "AGIR POUR ACQ",
+      "nuance_liste": null,
+      "voix": 180,
+      "pct_voix_exprimes": 40.91,
+      "sieges_cm": 3,
+      "sieges_cc": null,
+      "nb_elus": 3,
+      "tete_de_liste": {
+        "nom": "PRUD'HOMME",
+        "prenom": "Stéphane",
+        "nom_complet": "Stéphane PRUD'HOMME",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "PRUD'HOMME",
+          "prenom": "Stéphane",
+          "nom_complet": "Stéphane PRUD'HOMME",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DESBROSSE",
+          "prenom": "Samantha",
+          "nom_complet": "Samantha DESBROSSE",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DELCAMBRE",
+          "prenom": "Martin",
+          "nom_complet": "Martin DELCAMBRE",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "3"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

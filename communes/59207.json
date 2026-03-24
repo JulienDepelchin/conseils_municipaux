@@ -1,0 +1,279 @@
+{
+  "code_commune": "59207",
+  "commune": "Escautpont",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "KRUSZYNSKI",
+    "prenom": "Raphaël",
+    "nom_complet": "Raphaël KRUSZYNSKI",
+    "age": 37,
+    "nuance": "LDVC"
+  },
+  "resultats": {
+    "inscrits": 3299,
+    "votants": 1731,
+    "pct_votants": 52.47,
+    "abstentions": 1568,
+    "pct_abstentions": 47.53,
+    "exprimes": 1623
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "La confiance retrouvée",
+      "libelle_abrege_liste": "La confiance retrouvée",
+      "nuance_liste": "LDVC",
+      "voix": 1058,
+      "pct_voix_exprimes": 65.19,
+      "sieges_cm": 23,
+      "sieges_cc": 2,
+      "nb_elus": 23,
+      "tete_de_liste": {
+        "nom": "KRUSZYNSKI",
+        "prenom": "Raphaël",
+        "nom_complet": "Raphaël KRUSZYNSKI",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "KRUSZYNSKI",
+          "prenom": "Raphaël",
+          "nom_complet": "Raphaël KRUSZYNSKI",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "PASSET",
+          "prenom": "Monique",
+          "nom_complet": "Monique PASSET",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "FRERE",
+          "prenom": "Jean-Luc",
+          "nom_complet": "Jean-Luc FRERE",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "PLUMECOCQ",
+          "prenom": "Christine",
+          "nom_complet": "Christine PLUMECOCQ",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "RENARD",
+          "prenom": "Michel",
+          "nom_complet": "Michel RENARD",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "D'HAENE",
+          "prenom": "Audrey",
+          "nom_complet": "Audrey D'HAENE",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "LECLERCQ",
+          "prenom": "Benjamin",
+          "nom_complet": "Benjamin LECLERCQ",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LEGRAND",
+          "prenom": "Eveline",
+          "nom_complet": "Eveline LEGRAND",
+          "sexe": "F",
+          "age": 83,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "BULENS",
+          "prenom": "Jean-Luc",
+          "nom_complet": "Jean-Luc BULENS",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "LOTTE",
+          "prenom": "Christiane",
+          "nom_complet": "Christiane LOTTE",
+          "sexe": "F",
+          "age": 80,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "ANSART",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe ANSART",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "RIBEAUCOUP",
+          "prenom": "Corinne",
+          "nom_complet": "Corinne RIBEAUCOUP",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "DEFOSSEZ",
+          "prenom": "Leo",
+          "nom_complet": "Leo DEFOSSEZ",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "PERE-BERNUS",
+          "prenom": "Virginie",
+          "nom_complet": "Virginie PERE-BERNUS",
+          "sexe": "F",
+          "age": 33,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "BALLAND-BAIGUE",
+          "prenom": "Anthony",
+          "nom_complet": "Anthony BALLAND-BAIGUE",
+          "sexe": "M",
+          "age": 29,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "PONCHANT",
+          "prenom": "Sandrine",
+          "nom_complet": "Sandrine PONCHANT",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "DELRIEU",
+          "prenom": "Ludovic",
+          "nom_complet": "Ludovic DELRIEU",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "RUFFIN",
+          "prenom": "Anne",
+          "nom_complet": "Anne RUFFIN",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "DELANNOY",
+          "prenom": "Jason",
+          "nom_complet": "Jason DELANNOY",
+          "sexe": "M",
+          "age": 29,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "LOCOGE",
+          "prenom": "Emilie",
+          "nom_complet": "Emilie LOCOGE",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "MAGNAN",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno MAGNAN",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "CATHELAIN",
+          "prenom": "Vanessa",
+          "nom_complet": "Vanessa CATHELAIN",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "SYLVESTRE",
+          "prenom": "Julien",
+          "nom_complet": "Julien SYLVESTRE",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "23"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "NOUVEAU SOUFFLE POUR ESCAUTPONT",
+      "libelle_abrege_liste": "NOUVEAU SOUFFLE POUR ESCAUTPONT",
+      "nuance_liste": "LDVD",
+      "voix": 565,
+      "pct_voix_exprimes": 34.81,
+      "sieges_cm": 4,
+      "sieges_cc": 0,
+      "nb_elus": 4,
+      "tete_de_liste": {
+        "nom": "LISICKI",
+        "prenom": "Jerome",
+        "nom_complet": "Jerome LISICKI",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LISICKI",
+          "prenom": "Jerome",
+          "nom_complet": "Jerome LISICKI",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "RIZZUTI",
+          "prenom": "Béatrice",
+          "nom_complet": "Béatrice RIZZUTI",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "MANI",
+          "prenom": "Rabah",
+          "nom_complet": "Rabah MANI",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "GAWRONSKI",
+          "prenom": "Florentine",
+          "nom_complet": "Florentine GAWRONSKI",
+          "sexe": "F",
+          "age": 29,
+          "rang_liste": "4"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

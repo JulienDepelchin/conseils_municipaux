@@ -1,0 +1,295 @@
+{
+  "code_commune": "62587",
+  "commune": "Montigny-en-Gohelle",
+  "departement": "Pas-de-Calais",
+  "tour": "T2",
+  "maire": {
+    "nom": "DELLA FRANCA",
+    "prenom": "Marcello",
+    "nom_complet": "Marcello DELLA FRANCA",
+    "age": 57,
+    "nuance": "LUG"
+  },
+  "resultats": {
+    "inscrits": 6386,
+    "votants": 3812,
+    "pct_votants": 59.69,
+    "abstentions": 2574,
+    "pct_abstentions": 40.31,
+    "exprimes": 3747
+  },
+  "listes": [
+    {
+      "num_panneau": "3",
+      "libelle_liste": "MONTIGNY, UNE VILLE POUR TOUS",
+      "libelle_abrege_liste": "MONTIGNY, UNE VILLE POUR TOUS",
+      "nuance_liste": "LUG",
+      "voix": 1991,
+      "pct_voix_exprimes": 53.14,
+      "sieges_cm": 22,
+      "sieges_cc": 4,
+      "nb_elus": 22,
+      "tete_de_liste": {
+        "nom": "DELLA FRANCA",
+        "prenom": "Marcello",
+        "nom_complet": "Marcello DELLA FRANCA",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DELLA FRANCA",
+          "prenom": "Marcello",
+          "nom_complet": "Marcello DELLA FRANCA",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "GIUNTA",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle GIUNTA",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "CARE",
+          "prenom": "François",
+          "nom_complet": "François CARE",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BOCQUET",
+          "prenom": "Brigitte",
+          "nom_complet": "Brigitte BOCQUET",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DOMINIKIEWICZ",
+          "prenom": "Bernard",
+          "nom_complet": "Bernard DOMINIKIEWICZ",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "GOFFART",
+          "prenom": "Cécile",
+          "nom_complet": "Cécile GOFFART",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "SMURAGA",
+          "prenom": "Stanislas",
+          "nom_complet": "Stanislas SMURAGA",
+          "sexe": "M",
+          "age": 77,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "IHDINA",
+          "prenom": "Sihame",
+          "nom_complet": "Sihame IHDINA",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DEROCH",
+          "prenom": "Jean-Paul",
+          "nom_complet": "Jean-Paul DEROCH",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "MACHU",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle MACHU",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "CARUSO",
+          "prenom": "Vincent",
+          "nom_complet": "Vincent CARUSO",
+          "sexe": "M",
+          "age": 78,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "ISLI",
+          "prenom": "Fatima",
+          "nom_complet": "Fatima ISLI",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "ROUSIES",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier ROUSIES",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "LAMBERT",
+          "prenom": "Danièle",
+          "nom_complet": "Danièle LAMBERT",
+          "sexe": "F",
+          "age": 76,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "HERBAUT",
+          "prenom": "Christian",
+          "nom_complet": "Christian HERBAUT",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "MILLEVILLE",
+          "prenom": "Karine",
+          "nom_complet": "Karine MILLEVILLE",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "ANCELIN",
+          "prenom": "Sebastien",
+          "nom_complet": "Sebastien ANCELIN",
+          "sexe": "M",
+          "age": 25,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "BAYART",
+          "prenom": "Aline",
+          "nom_complet": "Aline BAYART",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "LEROY",
+          "prenom": "Georges",
+          "nom_complet": "Georges LEROY",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "BENMIMOUNE",
+          "prenom": "Rekia",
+          "nom_complet": "Rekia BENMIMOUNE",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "AGHRIBI",
+          "prenom": "Jabrane",
+          "nom_complet": "Jabrane AGHRIBI",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "WAGNER",
+          "prenom": "Veronique",
+          "nom_complet": "Veronique WAGNER",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "22"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "EN AVANT POUR MONTIGNY",
+      "libelle_abrege_liste": "EN AVANT POUR MONTIGNY",
+      "nuance_liste": "LRN",
+      "voix": 1756,
+      "pct_voix_exprimes": 46.86,
+      "sieges_cm": 7,
+      "sieges_cc": 1,
+      "nb_elus": 7,
+      "tete_de_liste": {
+        "nom": "CASIER",
+        "prenom": "Odile",
+        "nom_complet": "Odile CASIER",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "CASIER",
+          "prenom": "Odile",
+          "nom_complet": "Odile CASIER",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "JARTE",
+          "prenom": "Ivan",
+          "nom_complet": "Ivan JARTE",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "MILCZYNSKI",
+          "prenom": "Virginie",
+          "nom_complet": "Virginie MILCZYNSKI",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "IDKOWIAK",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier IDKOWIAK",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "TEMPELAERE",
+          "prenom": "Audrey",
+          "nom_complet": "Audrey TEMPELAERE",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "RIGNAUX",
+          "prenom": "Emmanuel",
+          "nom_complet": "Emmanuel RIGNAUX",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "KEDZIORA",
+          "prenom": "Patricia",
+          "nom_complet": "Patricia KEDZIORA",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "7"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

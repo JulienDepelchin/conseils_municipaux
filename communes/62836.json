@@ -1,0 +1,183 @@
+{
+  "code_commune": "62836",
+  "commune": "Vaudricourt",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "JURCZYK",
+    "prenom": "Jean-François",
+    "nom_complet": "Jean-François JURCZYK",
+    "age": 54,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 944,
+    "votants": 736,
+    "pct_votants": 77.97,
+    "abstentions": 208,
+    "pct_abstentions": 22.03,
+    "exprimes": 728
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "CONTINUONS ENSEMBLE",
+      "libelle_abrege_liste": "CONTINUONS ENSEMBLE",
+      "nuance_liste": null,
+      "voix": 523,
+      "pct_voix_exprimes": 71.84,
+      "sieges_cm": 13,
+      "sieges_cc": 1,
+      "nb_elus": 13,
+      "tete_de_liste": {
+        "nom": "JURCZYK",
+        "prenom": "Jean-François",
+        "nom_complet": "Jean-François JURCZYK",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "JURCZYK",
+          "prenom": "Jean-François",
+          "nom_complet": "Jean-François JURCZYK",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LALOYER",
+          "prenom": "Anne",
+          "nom_complet": "Anne LALOYER",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DEFOSSÉ",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent DEFOSSÉ",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BARRAS",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie BARRAS",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "AMALRIC",
+          "prenom": "Mathieu",
+          "nom_complet": "Mathieu AMALRIC",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "TERNOY-BASTIEN",
+          "prenom": "Corinne",
+          "nom_complet": "Corinne TERNOY-BASTIEN",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "GAMART",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick GAMART",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "PHILIPSON",
+          "prenom": "Julie",
+          "nom_complet": "Julie PHILIPSON",
+          "sexe": "F",
+          "age": 20,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "MONCHEAUX",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric MONCHEAUX",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "NAFRÉ",
+          "prenom": "Anne",
+          "nom_complet": "Anne NAFRÉ",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "LECOCQ",
+          "prenom": "Jean-Pierre",
+          "nom_complet": "Jean-Pierre LECOCQ",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "DEDOURS",
+          "prenom": "Marie",
+          "nom_complet": "Marie DEDOURS",
+          "sexe": "F",
+          "age": 25,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "DISSAUX",
+          "prenom": "François-Xavier",
+          "nom_complet": "François-Xavier DISSAUX",
+          "sexe": "M",
+          "age": 34,
+          "rang_liste": "13"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ENSEMBLE, DESSINONS L'AVENIR DE VAUDRICOURT",
+      "libelle_abrege_liste": "ENSEMBLE, DESSINONS L'AVENIR DE VAUDRICOURT",
+      "nuance_liste": null,
+      "voix": 205,
+      "pct_voix_exprimes": 28.16,
+      "sieges_cm": 2,
+      "sieges_cc": 0,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "WALDHOFF",
+        "prenom": "Nicolas",
+        "nom_complet": "Nicolas WALDHOFF",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "WALDHOFF",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas WALDHOFF",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "PETITJEAN",
+          "prenom": "Virginie",
+          "nom_complet": "Virginie PETITJEAN",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

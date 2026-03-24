@@ -1,0 +1,195 @@
+{
+  "code_commune": "62471",
+  "commune": "Bellinghem",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "VASSEUR",
+    "prenom": "Françoise",
+    "nom_complet": "Françoise VASSEUR",
+    "age": 71,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 840,
+    "votants": 543,
+    "pct_votants": 64.64,
+    "abstentions": 297,
+    "pct_abstentions": 35.36,
+    "exprimes": 403
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Continuons pour Bellinghem",
+      "libelle_abrege_liste": "Continuons pour Bellinghem",
+      "nuance_liste": null,
+      "voix": 403,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 19,
+      "sieges_cc": 1,
+      "nb_elus": 19,
+      "tete_de_liste": {
+        "nom": "VASSEUR",
+        "prenom": "Françoise",
+        "nom_complet": "Françoise VASSEUR",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "VASSEUR",
+          "prenom": "Françoise",
+          "nom_complet": "Françoise VASSEUR",
+          "sexe": "F",
+          "age": 71,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "PRUDHOMME",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique PRUDHOMME",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "ARNOUTS",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie ARNOUTS",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BONNIERE",
+          "prenom": "Sébastien",
+          "nom_complet": "Sébastien BONNIERE",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LEPERE",
+          "prenom": "Anne-Sophie",
+          "nom_complet": "Anne-Sophie LEPERE",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "GALLET",
+          "prenom": "Antoine",
+          "nom_complet": "Antoine GALLET",
+          "sexe": "M",
+          "age": 27,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "PRIEM",
+          "prenom": "Amélie",
+          "nom_complet": "Amélie PRIEM",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "BUCAILLE",
+          "prenom": "Thierry",
+          "nom_complet": "Thierry BUCAILLE",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DUPONT",
+          "prenom": "Angélique",
+          "nom_complet": "Angélique DUPONT",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DECOMBLE",
+          "prenom": "Pierre",
+          "nom_complet": "Pierre DECOMBLE",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "CARUYER",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie CARUYER",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "HIE",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe HIE",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "FAUQUEMBERGUE",
+          "prenom": "Fabienne",
+          "nom_complet": "Fabienne FAUQUEMBERGUE",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "DECOBERT",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas DECOBERT",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "COURCOT",
+          "prenom": "Estelle",
+          "nom_complet": "Estelle COURCOT",
+          "sexe": "F",
+          "age": 28,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "HARLEIN",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno HARLEIN",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "DENIS",
+          "prenom": "Eliane",
+          "nom_complet": "Eliane DENIS",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "BOUCHER",
+          "prenom": "Fabien",
+          "nom_complet": "Fabien BOUCHER",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "COMBLE",
+          "prenom": "Adeline",
+          "nom_complet": "Adeline COMBLE",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "19"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

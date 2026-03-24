@@ -1,0 +1,215 @@
+{
+  "code_commune": "59499",
+  "commune": "Rexpoëde",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "CLEENEWERCK",
+    "prenom": "Jean-Luc",
+    "nom_complet": "Jean-Luc CLEENEWERCK",
+    "age": 65,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1518,
+    "votants": 1089,
+    "pct_votants": 71.74,
+    "abstentions": 429,
+    "pct_abstentions": 28.26,
+    "exprimes": 1041
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "Rexpoëde, au coeur de votre quotidien",
+      "libelle_abrege_liste": "RACDVQ",
+      "nuance_liste": null,
+      "voix": 635,
+      "pct_voix_exprimes": 61,
+      "sieges_cm": 16,
+      "sieges_cc": 2,
+      "nb_elus": 16,
+      "tete_de_liste": {
+        "nom": "CLEENEWERCK",
+        "prenom": "Jean-Luc",
+        "nom_complet": "Jean-Luc CLEENEWERCK",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "CLEENEWERCK",
+          "prenom": "Jean-Luc",
+          "nom_complet": "Jean-Luc CLEENEWERCK",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "MONET ÉPOUSE WIEL",
+          "prenom": "Marie-Claude",
+          "nom_complet": "Marie-Claude MONET ÉPOUSE WIEL",
+          "sexe": "F",
+          "age": 70,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BERTHE",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe BERTHE",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DUGOURD",
+          "prenom": "Mélanie",
+          "nom_complet": "Mélanie DUGOURD",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "TERNOY",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe TERNOY",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LEHOUCK ÉPOUSE DELHAVE",
+          "prenom": "Aurore",
+          "nom_complet": "Aurore LEHOUCK ÉPOUSE DELHAVE",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BUTAYE",
+          "prenom": "Jean-Jérôme",
+          "nom_complet": "Jean-Jérôme BUTAYE",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LIPS ÉPOUSE RUBRECHT",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie LIPS ÉPOUSE RUBRECHT",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "MACKE",
+          "prenom": "Julien",
+          "nom_complet": "Julien MACKE",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "LASSEYE ÉPOUSE BERTHE",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle LASSEYE ÉPOUSE BERTHE",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "GRISOLET",
+          "prenom": "David",
+          "nom_complet": "David GRISOLET",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "SAUVAGE MACHADO",
+          "prenom": "Delphine",
+          "nom_complet": "Delphine SAUVAGE MACHADO",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "PERICHART",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick PERICHART",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "VERMERSCH ÉPOUSE BRYGO",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle VERMERSCH ÉPOUSE BRYGO",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "SERGENT",
+          "prenom": "Francis",
+          "nom_complet": "Francis SERGENT",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "GOUVERNEUR ÉPOUSE CARON",
+          "prenom": "Emilie",
+          "nom_complet": "Emilie GOUVERNEUR ÉPOUSE CARON",
+          "sexe": "F",
+          "age": 33,
+          "rang_liste": "16"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "REXPOEDE VERS UN NOUVEL HORIZON",
+      "libelle_abrege_liste": "REXPOEDE VERS UN NOUVEL HORIZON",
+      "nuance_liste": null,
+      "voix": 406,
+      "pct_voix_exprimes": 39,
+      "sieges_cm": 3,
+      "sieges_cc": 0,
+      "nb_elus": 3,
+      "tete_de_liste": {
+        "nom": "SOURIS",
+        "prenom": "Nicolas",
+        "nom_complet": "Nicolas SOURIS",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "SOURIS",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas SOURIS",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "HOUZÉ DE L'AULNOIT",
+          "prenom": "Ludyvine",
+          "nom_complet": "Ludyvine HOUZÉ DE L'AULNOIT",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "RAMBUR",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe RAMBUR",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "3"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

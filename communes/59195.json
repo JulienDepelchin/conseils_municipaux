@@ -1,0 +1,183 @@
+{
+  "code_commune": "59195",
+  "commune": "Englos",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "MORTIER",
+    "prenom": "Franck",
+    "nom_complet": "Franck MORTIER",
+    "age": 57,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 492,
+    "votants": 359,
+    "pct_votants": 72.97,
+    "abstentions": 133,
+    "pct_abstentions": 27.03,
+    "exprimes": 354
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Ensemble autrement pour Englos",
+      "libelle_abrege_liste": "Ensemble autrement pour Englos",
+      "nuance_liste": null,
+      "voix": 194,
+      "pct_voix_exprimes": 54.8,
+      "sieges_cm": 12,
+      "sieges_cc": null,
+      "nb_elus": 12,
+      "tete_de_liste": {
+        "nom": "MORTIER",
+        "prenom": "Franck",
+        "nom_complet": "Franck MORTIER",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "MORTIER",
+          "prenom": "Franck",
+          "nom_complet": "Franck MORTIER",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "CLEMENCEAU",
+          "prenom": "Celine",
+          "nom_complet": "Celine CLEMENCEAU",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "PERIER",
+          "prenom": "Jean Luc",
+          "nom_complet": "Jean Luc PERIER",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DELCENSERIE",
+          "prenom": "Elodie",
+          "nom_complet": "Elodie DELCENSERIE",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DELVILLE",
+          "prenom": "Jean Marc",
+          "nom_complet": "Jean Marc DELVILLE",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DELCROIX",
+          "prenom": "Therese",
+          "nom_complet": "Therese DELCROIX",
+          "sexe": "F",
+          "age": 85,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "HEUGUE",
+          "prenom": "Thierry",
+          "nom_complet": "Thierry HEUGUE",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "HERMAN",
+          "prenom": "Sandrine",
+          "nom_complet": "Sandrine HERMAN",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "VANOVERBERGHE",
+          "prenom": "Fabien",
+          "nom_complet": "Fabien VANOVERBERGHE",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "PLATEL",
+          "prenom": "Stephanie",
+          "nom_complet": "Stephanie PLATEL",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DENIS",
+          "prenom": "David",
+          "nom_complet": "David DENIS",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "GIREAU-GENEAUX",
+          "prenom": "Annie",
+          "nom_complet": "Annie GIREAU-GENEAUX",
+          "sexe": "F",
+          "age": 75,
+          "rang_liste": "12"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "Englos, une ambition commune",
+      "libelle_abrege_liste": "Englos, une ambition commune",
+      "nuance_liste": null,
+      "voix": 160,
+      "pct_voix_exprimes": 45.2,
+      "sieges_cm": 3,
+      "sieges_cc": null,
+      "nb_elus": 3,
+      "tete_de_liste": {
+        "nom": "SIMON",
+        "prenom": "Martine",
+        "nom_complet": "Martine SIMON",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "SIMON",
+          "prenom": "Martine",
+          "nom_complet": "Martine SIMON",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DELAVAL",
+          "prenom": "Jean-Louis",
+          "nom_complet": "Jean-Louis DELAVAL",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "VILLEFERT",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle VILLEFERT",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "3"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

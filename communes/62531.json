@@ -1,0 +1,183 @@
+{
+  "code_commune": "62531",
+  "commune": "Louches",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "DELABASSERUE",
+    "prenom": "Franck",
+    "nom_complet": "Franck DELABASSERUE",
+    "age": 50,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 746,
+    "votants": 555,
+    "pct_votants": 74.4,
+    "abstentions": 191,
+    "pct_abstentions": 25.6,
+    "exprimes": 531
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "LOUCHES, EXPERIENCE ET RENOUVEAU",
+      "libelle_abrege_liste": "LOUCHES, EXPERIENCE ET RENOUVEAU",
+      "nuance_liste": null,
+      "voix": 360,
+      "pct_voix_exprimes": 67.8,
+      "sieges_cm": 13,
+      "sieges_cc": null,
+      "nb_elus": 13,
+      "tete_de_liste": {
+        "nom": "DELABASSERUE",
+        "prenom": "Franck",
+        "nom_complet": "Franck DELABASSERUE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DELABASSERUE",
+          "prenom": "Franck",
+          "nom_complet": "Franck DELABASSERUE",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DRINCQBIER",
+          "prenom": "Fleur",
+          "nom_complet": "Fleur DRINCQBIER",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "TOWMSEND",
+          "prenom": "Théophile",
+          "nom_complet": "Théophile TOWMSEND",
+          "sexe": "M",
+          "age": 26,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "CHRÉTIEN",
+          "prenom": "Julie",
+          "nom_complet": "Julie CHRÉTIEN",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "ADRIANSEN",
+          "prenom": "Antoine",
+          "nom_complet": "Antoine ADRIANSEN",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "HENON",
+          "prenom": "Claudie",
+          "nom_complet": "Claudie HENON",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "LEPARREE",
+          "prenom": "Arnaud",
+          "nom_complet": "Arnaud LEPARREE",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "MARMIN",
+          "prenom": "Brunehilde",
+          "nom_complet": "Brunehilde MARMIN",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DELPLANQUE",
+          "prenom": "Michel",
+          "nom_complet": "Michel DELPLANQUE",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "BÉNÉFICE",
+          "prenom": "Sophie",
+          "nom_complet": "Sophie BÉNÉFICE",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DONJON DE SAINT MARTIN",
+          "prenom": "Emmanuel",
+          "nom_complet": "Emmanuel DONJON DE SAINT MARTIN",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "LAURENT",
+          "prenom": "Audrey",
+          "nom_complet": "Audrey LAURENT",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "DUSAUTOIS",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas DUSAUTOIS",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "13"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "NOTRE VILLAGE, NOTRE PRIORITE",
+      "libelle_abrege_liste": "NOTRE VILLAGE, NOTRE PRIORITE",
+      "nuance_liste": null,
+      "voix": 171,
+      "pct_voix_exprimes": 32.2,
+      "sieges_cm": 2,
+      "sieges_cc": null,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "SCOTTÉ",
+        "prenom": "Patrick",
+        "nom_complet": "Patrick SCOTTÉ",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "SCOTTÉ",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick SCOTTÉ",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "ADRIANSEN",
+          "prenom": "Jennifer",
+          "nom_complet": "Jennifer ADRIANSEN",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

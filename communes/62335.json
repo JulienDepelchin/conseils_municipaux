@@ -1,0 +1,163 @@
+{
+  "code_commune": "62335",
+  "commune": "Fillièvres",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "DOURLENS",
+    "prenom": "Jim",
+    "nom_complet": "Jim DOURLENS",
+    "age": 64,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 348,
+    "votants": 228,
+    "pct_votants": 65.52,
+    "abstentions": 120,
+    "pct_abstentions": 34.48,
+    "exprimes": 148
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "liste menée par Dourlens Jim",
+      "libelle_abrege_liste": "liste menée par Dourlens Jim",
+      "nuance_liste": null,
+      "voix": 148,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "DOURLENS",
+        "prenom": "Jim",
+        "nom_complet": "Jim DOURLENS",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DOURLENS",
+          "prenom": "Jim",
+          "nom_complet": "Jim DOURLENS",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "WISSART",
+          "prenom": "Francine",
+          "nom_complet": "Francine WISSART",
+          "sexe": "F",
+          "age": 77,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "MERCHEZ",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe MERCHEZ",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DOURLENS",
+          "prenom": "Line",
+          "nom_complet": "Line DOURLENS",
+          "sexe": "F",
+          "age": 72,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "AOUMAT",
+          "prenom": "Franck",
+          "nom_complet": "Franck AOUMAT",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DELMOTTE",
+          "prenom": "Lucie",
+          "nom_complet": "Lucie DELMOTTE",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "MESNARD",
+          "prenom": "Arnaud",
+          "nom_complet": "Arnaud MESNARD",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "KOLANO",
+          "prenom": "Nicole",
+          "nom_complet": "Nicole KOLANO",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DOUAY",
+          "prenom": "Régis",
+          "nom_complet": "Régis DOUAY",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "GABANT",
+          "prenom": "Martine",
+          "nom_complet": "Martine GABANT",
+          "sexe": "F",
+          "age": 75,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DELFORGE",
+          "prenom": "Sébastien",
+          "nom_complet": "Sébastien DELFORGE",
+          "sexe": "M",
+          "age": 34,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "MERCHEZ",
+          "prenom": "Julie",
+          "nom_complet": "Julie MERCHEZ",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "CAPENDU",
+          "prenom": "Gauthier",
+          "nom_complet": "Gauthier CAPENDU",
+          "sexe": "M",
+          "age": 30,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "HURET",
+          "prenom": "Valérie",
+          "nom_complet": "Valérie HURET",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "LECOUSTRE",
+          "prenom": "Quentin",
+          "nom_complet": "Quentin LECOUSTRE",
+          "sexe": "M",
+          "age": 30,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "code_commune": "62365",
+  "commune": "Galametz",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "TRAMUSET",
+    "prenom": "Vincent",
+    "nom_complet": "Vincent TRAMUSET",
+    "age": 48,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 159,
+    "votants": 103,
+    "pct_votants": 64.78,
+    "abstentions": 56,
+    "pct_abstentions": 35.22,
+    "exprimes": 67
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Pour les Galamessines et Galamessins",
+      "libelle_abrege_liste": "Pour les Galamessines et Galamessins",
+      "nuance_liste": null,
+      "voix": 67,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "TRAMUSET",
+        "prenom": "Vincent",
+        "nom_complet": "Vincent TRAMUSET",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "TRAMUSET",
+          "prenom": "Vincent",
+          "nom_complet": "Vincent TRAMUSET",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DUPONT",
+          "prenom": "Anne",
+          "nom_complet": "Anne DUPONT",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "ROUSSEL",
+          "prenom": "Vincent",
+          "nom_complet": "Vincent ROUSSEL",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BRODEL",
+          "prenom": "Charlotte",
+          "nom_complet": "Charlotte BRODEL",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "GREMONT",
+          "prenom": "Sebastien",
+          "nom_complet": "Sebastien GREMONT",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "BECQUET",
+          "prenom": "Simone",
+          "nom_complet": "Simone BECQUET",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "TOUPET",
+          "prenom": "Michael",
+          "nom_complet": "Michael TOUPET",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DUBRULLE",
+          "prenom": "Aurore",
+          "nom_complet": "Aurore DUBRULLE",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "BERGER",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe BERGER",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "PREUSS",
+          "prenom": "Monique",
+          "nom_complet": "Monique PREUSS",
+          "sexe": "F",
+          "age": 75,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "LEFEBVRE",
+          "prenom": "Hubert",
+          "nom_complet": "Hubert LEFEBVRE",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

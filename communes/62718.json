@@ -1,0 +1,183 @@
+{
+  "code_commune": "62718",
+  "commune": "Roeux",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "DELABROYE",
+    "prenom": "Fabrice",
+    "nom_complet": "Fabrice DELABROYE",
+    "age": 50,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1043,
+    "votants": 736,
+    "pct_votants": 70.57,
+    "abstentions": 307,
+    "pct_abstentions": 29.43,
+    "exprimes": 718
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "CONTINUONS D'AVANCER POUR ROEUX",
+      "libelle_abrege_liste": "CONTINUONS D'AVANCER POUR ROEUX",
+      "nuance_liste": null,
+      "voix": 372,
+      "pct_voix_exprimes": 51.81,
+      "sieges_cm": 12,
+      "sieges_cc": 1,
+      "nb_elus": 12,
+      "tete_de_liste": {
+        "nom": "DELABROYE",
+        "prenom": "Fabrice",
+        "nom_complet": "Fabrice DELABROYE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DELABROYE",
+          "prenom": "Fabrice",
+          "nom_complet": "Fabrice DELABROYE",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "POUHIER",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie POUHIER",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "CITERNE",
+          "prenom": "Eugène",
+          "nom_complet": "Eugène CITERNE",
+          "sexe": "M",
+          "age": 78,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "GUÉRARDEL",
+          "prenom": "Anne-Marie",
+          "nom_complet": "Anne-Marie GUÉRARDEL",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DE FRESCHI",
+          "prenom": "César",
+          "nom_complet": "César DE FRESCHI",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "PIAU",
+          "prenom": "Sandrine",
+          "nom_complet": "Sandrine PIAU",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "SAENEN",
+          "prenom": "Arnaud",
+          "nom_complet": "Arnaud SAENEN",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "CHAVAIN",
+          "prenom": "Martine",
+          "nom_complet": "Martine CHAVAIN",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "PAJAK",
+          "prenom": "David",
+          "nom_complet": "David PAJAK",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "SARAZIN",
+          "prenom": "Mireille",
+          "nom_complet": "Mireille SARAZIN",
+          "sexe": "F",
+          "age": 71,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "HUDDLESTONNE",
+          "prenom": "David",
+          "nom_complet": "David HUDDLESTONNE",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "DEBRAS",
+          "prenom": "Delphine",
+          "nom_complet": "Delphine DEBRAS",
+          "sexe": "F",
+          "age": 31,
+          "rang_liste": "12"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "Roeuxnouvo",
+      "libelle_abrege_liste": "Roeuxnouvo",
+      "nuance_liste": null,
+      "voix": 346,
+      "pct_voix_exprimes": 48.19,
+      "sieges_cm": 3,
+      "sieges_cc": 0,
+      "nb_elus": 3,
+      "tete_de_liste": {
+        "nom": "LUCIEN",
+        "prenom": "Christian",
+        "nom_complet": "Christian LUCIEN",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LUCIEN",
+          "prenom": "Christian",
+          "nom_complet": "Christian LUCIEN",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "VERNADAL",
+          "prenom": "Virginie",
+          "nom_complet": "Virginie VERNADAL",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DERACHE",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier DERACHE",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "3"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

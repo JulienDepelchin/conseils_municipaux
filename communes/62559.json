@@ -1,0 +1,163 @@
+{
+  "code_commune": "62559",
+  "commune": "Marquion",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "DOLEZ",
+    "prenom": "Anne",
+    "nom_complet": "Anne DOLEZ",
+    "age": 54,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 849,
+    "votants": 421,
+    "pct_votants": 49.59,
+    "abstentions": 428,
+    "pct_abstentions": 50.41,
+    "exprimes": 380
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Bien Vivre Ensemble",
+      "libelle_abrege_liste": "Bien Vivre Ensemble",
+      "nuance_liste": null,
+      "voix": 380,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": 1,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "DOLEZ",
+        "prenom": "Anne",
+        "nom_complet": "Anne DOLEZ",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "DOLEZ",
+          "prenom": "Anne",
+          "nom_complet": "Anne DOLEZ",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "CAPELLE",
+          "prenom": "Franck",
+          "nom_complet": "Franck CAPELLE",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DECOUPIGNY",
+          "prenom": "Nadine",
+          "nom_complet": "Nadine DECOUPIGNY",
+          "sexe": "F",
+          "age": 74,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "ERSENT",
+          "prenom": "Adrien",
+          "nom_complet": "Adrien ERSENT",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "PARMENTIER",
+          "prenom": "Bernadette",
+          "nom_complet": "Bernadette PARMENTIER",
+          "sexe": "F",
+          "age": 70,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "CATTIAUX",
+          "prenom": "David",
+          "nom_complet": "David CATTIAUX",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "LAGRANGE",
+          "prenom": "Bernadette",
+          "nom_complet": "Bernadette LAGRANGE",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "GILLIARD",
+          "prenom": "Jean-Paul",
+          "nom_complet": "Jean-Paul GILLIARD",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "BEAUCHET",
+          "prenom": "Aurélie",
+          "nom_complet": "Aurélie BEAUCHET",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "PERUS",
+          "prenom": "Cédric",
+          "nom_complet": "Cédric PERUS",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DUCROCQ",
+          "prenom": "Amandine",
+          "nom_complet": "Amandine DUCROCQ",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "CHARLES",
+          "prenom": "Damien",
+          "nom_complet": "Damien CHARLES",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "POLOWCZYK",
+          "prenom": "Anne",
+          "nom_complet": "Anne POLOWCZYK",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "ROUSSEL",
+          "prenom": "Gérald",
+          "nom_complet": "Gérald ROUSSEL",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "ZOCCOLO",
+          "prenom": "Lydie",
+          "nom_complet": "Lydie ZOCCOLO",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

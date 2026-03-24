@@ -1,0 +1,131 @@
+{
+  "code_commune": "62348",
+  "commune": "Foufflin-Ricametz",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "SENECHAL",
+    "prenom": "David",
+    "nom_complet": "David SENECHAL",
+    "age": 46,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 118,
+    "votants": 91,
+    "pct_votants": 77.12,
+    "abstentions": 27,
+    "pct_abstentions": 22.88,
+    "exprimes": 76
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "LE NOUVEAU CONSEIL DE FOUFFLIN-RICAMETZ",
+      "libelle_abrege_liste": "LE NOUVEAU CONSEIL DE FOUFFLIN-RICAMETZ",
+      "nuance_liste": null,
+      "voix": 76,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "SENECHAL",
+        "prenom": "David",
+        "nom_complet": "David SENECHAL",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "SENECHAL",
+          "prenom": "David",
+          "nom_complet": "David SENECHAL",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LELOIR",
+          "prenom": "Josette",
+          "nom_complet": "Josette LELOIR",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DURANEL",
+          "prenom": "Bertrand",
+          "nom_complet": "Bertrand DURANEL",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BROQUET",
+          "prenom": "Hélène",
+          "nom_complet": "Hélène BROQUET",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "HERMAN",
+          "prenom": "Thomas",
+          "nom_complet": "Thomas HERMAN",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "THERET",
+          "prenom": "Carine",
+          "nom_complet": "Carine THERET",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DUCAMPS",
+          "prenom": "Tanguy",
+          "nom_complet": "Tanguy DUCAMPS",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "JOLY",
+          "prenom": "Claire",
+          "nom_complet": "Claire JOLY",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DELARUELLE",
+          "prenom": "Jean-Baptiste",
+          "nom_complet": "Jean-Baptiste DELARUELLE",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "PANSIOT",
+          "prenom": "Gaelle",
+          "nom_complet": "Gaelle PANSIOT",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "BLON",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier BLON",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

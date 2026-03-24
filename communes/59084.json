@@ -1,0 +1,215 @@
+{
+  "code_commune": "59084",
+  "commune": "Blaringhem",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "DUQUENOY",
+    "prenom": "Regis",
+    "nom_complet": "Regis DUQUENOY",
+    "age": 68,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1637,
+    "votants": 1137,
+    "pct_votants": 69.46,
+    "abstentions": 500,
+    "pct_abstentions": 30.54,
+    "exprimes": 1091
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Ensemble pour Blaringhem",
+      "libelle_abrege_liste": "EPB",
+      "nuance_liste": null,
+      "voix": 648,
+      "pct_voix_exprimes": 59.4,
+      "sieges_cm": 15,
+      "sieges_cc": 1,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "DUQUENOY",
+        "prenom": "Regis",
+        "nom_complet": "Regis DUQUENOY",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DUQUENOY",
+          "prenom": "Regis",
+          "nom_complet": "Regis DUQUENOY",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "VERRIELE",
+          "prenom": "Magali",
+          "nom_complet": "Magali VERRIELE",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "MORDACQ",
+          "prenom": "Paul Henry",
+          "nom_complet": "Paul Henry MORDACQ",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DESMULIE",
+          "prenom": "Nicole",
+          "nom_complet": "Nicole DESMULIE",
+          "sexe": "F",
+          "age": 72,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DEVAUX",
+          "prenom": "Alain",
+          "nom_complet": "Alain DEVAUX",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DELSART DESMULIE",
+          "prenom": "Carole",
+          "nom_complet": "Carole DELSART DESMULIE",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "LOUVET",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno LOUVET",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "MASSIET",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle MASSIET",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "MAERTEN",
+          "prenom": "Gerard",
+          "nom_complet": "Gerard MAERTEN",
+          "sexe": "M",
+          "age": 77,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "RAMBAUX",
+          "prenom": "Anne Sophie",
+          "nom_complet": "Anne Sophie RAMBAUX",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "GAYMAY",
+          "prenom": "Herve",
+          "nom_complet": "Herve GAYMAY",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "DARQUE",
+          "prenom": "Clementine",
+          "nom_complet": "Clementine DARQUE",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "FABRE",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal FABRE",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "DELAHAYE",
+          "prenom": "Marie",
+          "nom_complet": "Marie DELAHAYE",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "COMYN",
+          "prenom": "Léandre",
+          "nom_complet": "Léandre COMYN",
+          "sexe": "M",
+          "age": 33,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "Ensemble pour demain",
+      "libelle_abrege_liste": "epd",
+      "nuance_liste": null,
+      "voix": 443,
+      "pct_voix_exprimes": 40.6,
+      "sieges_cm": 4,
+      "sieges_cc": 0,
+      "nb_elus": 4,
+      "tete_de_liste": {
+        "nom": "DEVOS",
+        "prenom": "Sébastien",
+        "nom_complet": "Sébastien DEVOS",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DEVOS",
+          "prenom": "Sébastien",
+          "nom_complet": "Sébastien DEVOS",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "ROUSSEY",
+          "prenom": "Louise",
+          "nom_complet": "Louise ROUSSEY",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "CREPIN",
+          "prenom": "Thomas",
+          "nom_complet": "Thomas CREPIN",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LECLERCQ",
+          "prenom": "Sandrine",
+          "nom_complet": "Sandrine LECLERCQ",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "4"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

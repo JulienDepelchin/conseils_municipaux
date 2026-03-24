@@ -1,0 +1,327 @@
+{
+  "code_commune": "59014",
+  "commune": "Anzin",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "BERNARD",
+    "prenom": "Pierre-Michel",
+    "nom_complet": "Pierre-Michel BERNARD",
+    "age": 63,
+    "nuance": "LDVG"
+  },
+  "resultats": {
+    "inscrits": 8634,
+    "votants": 3784,
+    "pct_votants": 43.83,
+    "abstentions": 4850,
+    "pct_abstentions": 56.17,
+    "exprimes": 3664
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "UNIS POUR RÉUSSIR",
+      "libelle_abrege_liste": "UNIS POUR RÉUSSIR",
+      "nuance_liste": "LDVG",
+      "voix": 2552,
+      "pct_voix_exprimes": 69.65,
+      "sieges_cm": 28,
+      "sieges_cc": 5,
+      "nb_elus": 28,
+      "tete_de_liste": {
+        "nom": "BERNARD",
+        "prenom": "Pierre-Michel",
+        "nom_complet": "Pierre-Michel BERNARD",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BERNARD",
+          "prenom": "Pierre-Michel",
+          "nom_complet": "Pierre-Michel BERNARD",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "KHENNOUF",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie KHENNOUF",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DUPONT",
+          "prenom": "Daniel",
+          "nom_complet": "Daniel DUPONT",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DUTRIEUX",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle DUTRIEUX",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "TETTINI",
+          "prenom": "Aldo",
+          "nom_complet": "Aldo TETTINI",
+          "sexe": "M",
+          "age": 75,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "BERNARD",
+          "prenom": "Karine",
+          "nom_complet": "Karine BERNARD",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "SELIDONIO",
+          "prenom": "Onotilio",
+          "nom_complet": "Onotilio SELIDONIO",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LATOUCHE",
+          "prenom": "Tamara",
+          "nom_complet": "Tamara LATOUCHE",
+          "sexe": "F",
+          "age": 32,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "MESSAGER",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick MESSAGER",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "BAEFCOP",
+          "prenom": "Francine",
+          "nom_complet": "Francine BAEFCOP",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "LEVANT",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno LEVANT",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "PODEVIN",
+          "prenom": "Valérie",
+          "nom_complet": "Valérie PODEVIN",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "DEGAUGUE",
+          "prenom": "Cédric",
+          "nom_complet": "Cédric DEGAUGUE",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "DELBOVE",
+          "prenom": "Nicole",
+          "nom_complet": "Nicole DELBOVE",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "LOUTRE",
+          "prenom": "Benoît",
+          "nom_complet": "Benoît LOUTRE",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "CHOQUEZ",
+          "prenom": "Christine",
+          "nom_complet": "Christine CHOQUEZ",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "BENGHENNOU",
+          "prenom": "Amar",
+          "nom_complet": "Amar BENGHENNOU",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "PIREZ",
+          "prenom": "Martine",
+          "nom_complet": "Martine PIREZ",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "GANDAHO",
+          "prenom": "Régis",
+          "nom_complet": "Régis GANDAHO",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "BELMER",
+          "prenom": "Fabienne",
+          "nom_complet": "Fabienne BELMER",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "LECOMPTE",
+          "prenom": "Gauthier",
+          "nom_complet": "Gauthier LECOMPTE",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "DUMONT",
+          "prenom": "Sarah",
+          "nom_complet": "Sarah DUMONT",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "TAMI",
+          "prenom": "Mehdi",
+          "nom_complet": "Mehdi TAMI",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "23"
+        },
+        {
+          "nom": "CHIKH",
+          "prenom": "Bekhta",
+          "nom_complet": "Bekhta CHIKH",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "24"
+        },
+        {
+          "nom": "NACRY",
+          "prenom": "Ludovic",
+          "nom_complet": "Ludovic NACRY",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "25"
+        },
+        {
+          "nom": "TOUATI",
+          "prenom": "Leïla",
+          "nom_complet": "Leïla TOUATI",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "26"
+        },
+        {
+          "nom": "HAMEK",
+          "prenom": "Karim",
+          "nom_complet": "Karim HAMEK",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "27"
+        },
+        {
+          "nom": "THOREZ",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle THOREZ",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "28"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "ANZIN L'ENERGIE CITOYENNE",
+      "libelle_abrege_liste": "ANZIN L'ENERGIE CITOYENNE",
+      "nuance_liste": "LDVG",
+      "voix": 1112,
+      "pct_voix_exprimes": 30.35,
+      "sieges_cm": 5,
+      "sieges_cc": 1,
+      "nb_elus": 5,
+      "tete_de_liste": {
+        "nom": "DORDAIN",
+        "prenom": "Joël",
+        "nom_complet": "Joël DORDAIN",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DORDAIN",
+          "prenom": "Joël",
+          "nom_complet": "Joël DORDAIN",
+          "sexe": "M",
+          "age": 77,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "GONDY",
+          "prenom": "Elisabeth",
+          "nom_complet": "Elisabeth GONDY",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "MACALUSO",
+          "prenom": "Claudio",
+          "nom_complet": "Claudio MACALUSO",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DOLIQUE",
+          "prenom": "Virginie",
+          "nom_complet": "Virginie DOLIQUE",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "JAMJAM",
+          "prenom": "Hamid",
+          "nom_complet": "Hamid JAMJAM",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "5"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

@@ -1,0 +1,295 @@
+{
+  "code_commune": "59457",
+  "commune": "Pérenchies",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "LOUZANI",
+    "prenom": "Karim",
+    "nom_complet": "Karim LOUZANI",
+    "age": 59,
+    "nuance": "LDVC"
+  },
+  "resultats": {
+    "inscrits": 6594,
+    "votants": 3422,
+    "pct_votants": 51.9,
+    "abstentions": 3172,
+    "pct_abstentions": 48.1,
+    "exprimes": 3289
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Pérenchies c'est vous, c'est nous",
+      "libelle_abrege_liste": "Pérenchies c'est vous, c'est nous",
+      "nuance_liste": "LDVC",
+      "voix": 1872,
+      "pct_voix_exprimes": 56.92,
+      "sieges_cm": 23,
+      "sieges_cc": 1,
+      "nb_elus": 23,
+      "tete_de_liste": {
+        "nom": "LOUZANI",
+        "prenom": "Karim",
+        "nom_complet": "Karim LOUZANI",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LOUZANI",
+          "prenom": "Karim",
+          "nom_complet": "Karim LOUZANI",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BALBO",
+          "prenom": "Émilie",
+          "nom_complet": "Émilie BALBO",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DELOBEL",
+          "prenom": "Benoit",
+          "nom_complet": "Benoit DELOBEL",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "VAN DAELE VANLAUWE",
+          "prenom": "Séverine",
+          "nom_complet": "Séverine VAN DAELE VANLAUWE",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "ALSTERS",
+          "prenom": "Valentin",
+          "nom_complet": "Valentin ALSTERS",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "GUILBERT",
+          "prenom": "Hélène",
+          "nom_complet": "Hélène GUILBERT",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "PLATTEEUW",
+          "prenom": "Rudy",
+          "nom_complet": "Rudy PLATTEEUW",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "AMMEUX",
+          "prenom": "Christiane",
+          "nom_complet": "Christiane AMMEUX",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "SAVAETE",
+          "prenom": "Grégory",
+          "nom_complet": "Grégory SAVAETE",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "RODRIGUES",
+          "prenom": "Maria Fernanda",
+          "nom_complet": "Maria Fernanda RODRIGUES",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "FACON",
+          "prenom": "Thierry",
+          "nom_complet": "Thierry FACON",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "LEGRAND",
+          "prenom": "Christiane",
+          "nom_complet": "Christiane LEGRAND",
+          "sexe": "F",
+          "age": 75,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "CABY",
+          "prenom": "Vincent",
+          "nom_complet": "Vincent CABY",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "DUBOIS GALLANT",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie DUBOIS GALLANT",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "PERIN",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier PERIN",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "FLAHAUT",
+          "prenom": "Laëtitia",
+          "nom_complet": "Laëtitia FLAHAUT",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "BRULOIS",
+          "prenom": "Éric",
+          "nom_complet": "Éric BRULOIS",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "RIVOIRE",
+          "prenom": "Laurie",
+          "nom_complet": "Laurie RIVOIRE",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "CARON",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier CARON",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "SCHWERZIG",
+          "prenom": "Audrey",
+          "nom_complet": "Audrey SCHWERZIG",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "LAMOTTE",
+          "prenom": "Jérôme",
+          "nom_complet": "Jérôme LAMOTTE",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "HEU",
+          "prenom": "Élise",
+          "nom_complet": "Élise HEU",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "MEURILLON",
+          "prenom": "Jacques",
+          "nom_complet": "Jacques MEURILLON",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "23"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "ENSEMBLE POUR UNE VILLE A TAILLE HUMAINE",
+      "libelle_abrege_liste": "ENSEMBLE POUR UNE VILLE A TAILLE HUMAINE",
+      "nuance_liste": "LDVG",
+      "voix": 1417,
+      "pct_voix_exprimes": 43.08,
+      "sieges_cm": 6,
+      "sieges_cc": 0,
+      "nb_elus": 6,
+      "tete_de_liste": {
+        "nom": "DELSERT",
+        "prenom": "Jack-Yves",
+        "nom_complet": "Jack-Yves DELSERT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DELSERT",
+          "prenom": "Jack-Yves",
+          "nom_complet": "Jack-Yves DELSERT",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "GRUSON",
+          "prenom": "Carole",
+          "nom_complet": "Carole GRUSON",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DAUCHY",
+          "prenom": "Mathieu",
+          "nom_complet": "Mathieu DAUCHY",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "MARCINIAK",
+          "prenom": "Marie-Pascale",
+          "nom_complet": "Marie-Pascale MARCINIAK",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DURIEU",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe DURIEU",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "VANDENMESSYNCK",
+          "prenom": "Natacha",
+          "nom_complet": "Natacha VANDENMESSYNCK",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "6"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

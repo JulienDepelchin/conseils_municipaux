@@ -1,0 +1,195 @@
+{
+  "code_commune": "59559",
+  "commune": "Sebourg",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "CELLIER",
+    "prenom": "Bruno",
+    "nom_complet": "Bruno CELLIER",
+    "age": 66,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1623,
+    "votants": 802,
+    "pct_votants": 49.41,
+    "abstentions": 821,
+    "pct_abstentions": 50.59,
+    "exprimes": 699
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Sebourg passionnément",
+      "libelle_abrege_liste": "Sebourg passionnément",
+      "nuance_liste": null,
+      "voix": 699,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 19,
+      "sieges_cc": 1,
+      "nb_elus": 19,
+      "tete_de_liste": {
+        "nom": "CELLIER",
+        "prenom": "Bruno",
+        "nom_complet": "Bruno CELLIER",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "CELLIER",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno CELLIER",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DENORME",
+          "prenom": "Christiane",
+          "nom_complet": "Christiane DENORME",
+          "sexe": "F",
+          "age": 71,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LENNE",
+          "prenom": "Didier",
+          "nom_complet": "Didier LENNE",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BAURIN",
+          "prenom": "Martine",
+          "nom_complet": "Martine BAURIN",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "CELLIER",
+          "prenom": "Guillaume",
+          "nom_complet": "Guillaume CELLIER",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DURIEUX",
+          "prenom": "Claudie",
+          "nom_complet": "Claudie DURIEUX",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "MARCHAL",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe MARCHAL",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "AUGAIT",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie AUGAIT",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "ÉLU",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric ÉLU",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "MIROUX",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie MIROUX",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "HALLUIN",
+          "prenom": "Thomas",
+          "nom_complet": "Thomas HALLUIN",
+          "sexe": "M",
+          "age": 27,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "BERNARD",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie BERNARD",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "PICARD",
+          "prenom": "Julien",
+          "nom_complet": "Julien PICARD",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "MORNET",
+          "prenom": "Jennie",
+          "nom_complet": "Jennie MORNET",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "PLACE",
+          "prenom": "Pierre",
+          "nom_complet": "Pierre PLACE",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "SIGNORE",
+          "prenom": "Céline",
+          "nom_complet": "Céline SIGNORE",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "AMEZ",
+          "prenom": "Hubert",
+          "nom_complet": "Hubert AMEZ",
+          "sexe": "M",
+          "age": 33,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "KHANFAR",
+          "prenom": "Sammantha",
+          "nom_complet": "Sammantha KHANFAR",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "VAUTHEROT",
+          "prenom": "Anthony",
+          "nom_complet": "Anthony VAUTHEROT",
+          "sexe": "M",
+          "age": 26,
+          "rang_liste": "19"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

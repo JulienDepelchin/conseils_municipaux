@@ -1,0 +1,131 @@
+{
+  "code_commune": "59655",
+  "commune": "Wemaers-Cappel",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "BARROIS",
+    "prenom": "Laurence",
+    "nom_complet": "Laurence BARROIS",
+    "age": 69,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 160,
+    "votants": 101,
+    "pct_votants": 63.13,
+    "abstentions": 59,
+    "pct_abstentions": 36.88,
+    "exprimes": 81
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "TOUS UNIS POUR NOTRE VILLAGE",
+      "libelle_abrege_liste": "TUPNV",
+      "nuance_liste": null,
+      "voix": 81,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "BARROIS",
+        "prenom": "Laurence",
+        "nom_complet": "Laurence BARROIS",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "BARROIS",
+          "prenom": "Laurence",
+          "nom_complet": "Laurence BARROIS",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LESCORNEZ",
+          "prenom": "Tristan",
+          "nom_complet": "Tristan LESCORNEZ",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DEVOS",
+          "prenom": "Adeline",
+          "nom_complet": "Adeline DEVOS",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LUTTUN",
+          "prenom": "Thierry",
+          "nom_complet": "Thierry LUTTUN",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "SPECENIER",
+          "prenom": "Françoise",
+          "nom_complet": "Françoise SPECENIER",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "WIELS",
+          "prenom": "Bertrand",
+          "nom_complet": "Bertrand WIELS",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "LORIOT",
+          "prenom": "Véronique",
+          "nom_complet": "Véronique LORIOT",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "ROETYNCK",
+          "prenom": "Didier",
+          "nom_complet": "Didier ROETYNCK",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DUFOUR",
+          "prenom": "Claire",
+          "nom_complet": "Claire DUFOUR",
+          "sexe": "F",
+          "age": 32,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "COLPAERT",
+          "prenom": "Julien",
+          "nom_complet": "Julien COLPAERT",
+          "sexe": "M",
+          "age": 24,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DUCATILLON",
+          "prenom": "Lucile",
+          "nom_complet": "Lucile DUCATILLON",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

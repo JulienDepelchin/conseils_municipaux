@@ -1,0 +1,99 @@
+{
+  "code_commune": "59186",
+  "commune": "Eccles",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "LECLERCQ",
+    "prenom": "Pierre-Ange",
+    "nom_complet": "Pierre-Ange LECLERCQ",
+    "age": 54,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 69,
+    "votants": 49,
+    "pct_votants": 71.01,
+    "abstentions": 20,
+    "pct_abstentions": 28.99,
+    "exprimes": 43
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Ensemble pour Eccles",
+      "libelle_abrege_liste": "Ensemble pour Eccles",
+      "nuance_liste": null,
+      "voix": 43,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 7,
+      "sieges_cc": null,
+      "nb_elus": 7,
+      "tete_de_liste": {
+        "nom": "LECLERCQ",
+        "prenom": "Pierre-Ange",
+        "nom_complet": "Pierre-Ange LECLERCQ",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LECLERCQ",
+          "prenom": "Pierre-Ange",
+          "nom_complet": "Pierre-Ange LECLERCQ",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LECLERCQ",
+          "prenom": "Lucie",
+          "nom_complet": "Lucie LECLERCQ",
+          "sexe": "F",
+          "age": 24,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "MIDAVAINE",
+          "prenom": "Romuald",
+          "nom_complet": "Romuald MIDAVAINE",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "MUTELLE",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie MUTELLE",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "VLAMINCK",
+          "prenom": "Eric",
+          "nom_complet": "Eric VLAMINCK",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "MEURANT",
+          "prenom": "Michelle",
+          "nom_complet": "Michelle MEURANT",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "MUTELLE",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier MUTELLE",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "7"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

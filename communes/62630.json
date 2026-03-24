@@ -1,0 +1,131 @@
+{
+  "code_commune": "62630",
+  "commune": "Noyelle-Vion",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "NICOLLE",
+    "prenom": "Gérard",
+    "nom_complet": "Gérard NICOLLE",
+    "age": 74,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 225,
+    "votants": 156,
+    "pct_votants": 69.33,
+    "abstentions": 69,
+    "pct_abstentions": 30.67,
+    "exprimes": 122
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "UNIS Pour Noyelle-Vion",
+      "libelle_abrege_liste": "UNIS Pour Noyelle-Vion",
+      "nuance_liste": null,
+      "voix": 122,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "NICOLLE",
+        "prenom": "Gérard",
+        "nom_complet": "Gérard NICOLLE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "NICOLLE",
+          "prenom": "Gérard",
+          "nom_complet": "Gérard NICOLLE",
+          "sexe": "M",
+          "age": 74,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BRIET",
+          "prenom": "Chantal",
+          "nom_complet": "Chantal BRIET",
+          "sexe": "F",
+          "age": 73,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BELLIARD",
+          "prenom": "Emmanuel",
+          "nom_complet": "Emmanuel BELLIARD",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LEFEBVRE",
+          "prenom": "Myriane",
+          "nom_complet": "Myriane LEFEBVRE",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "CAUET",
+          "prenom": "Jean-Claude",
+          "nom_complet": "Jean-Claude CAUET",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "VAAST",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique VAAST",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "LEFEBVRE",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe LEFEBVRE",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "FUMERY",
+          "prenom": "Brigitte",
+          "nom_complet": "Brigitte FUMERY",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "MARTIN",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier MARTIN",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DUBOIS",
+          "prenom": "Victoire",
+          "nom_complet": "Victoire DUBOIS",
+          "sexe": "F",
+          "age": 30,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DELASSUS",
+          "prenom": "Gaëtan",
+          "nom_complet": "Gaëtan DELASSUS",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

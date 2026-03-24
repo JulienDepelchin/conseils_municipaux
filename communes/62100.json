@@ -1,0 +1,235 @@
+{
+  "code_commune": "62100",
+  "commune": "Beaurainville",
+  "departement": "Pas-de-Calais",
+  "tour": "T2",
+  "maire": {
+    "nom": "CARPENTIER",
+    "prenom": "Marie Pierre",
+    "nom_complet": "Marie Pierre CARPENTIER",
+    "age": 68,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1688,
+    "votants": 1242,
+    "pct_votants": 73.58,
+    "abstentions": 446,
+    "pct_abstentions": 26.42,
+    "exprimes": 1222
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Un nouvel élan pour Beaurainville",
+      "libelle_abrege_liste": "Un nouvel élan pour Beaurainville",
+      "nuance_liste": null,
+      "voix": 512,
+      "pct_voix_exprimes": 41.9,
+      "sieges_cm": 14,
+      "sieges_cc": 4,
+      "nb_elus": 14,
+      "tete_de_liste": {
+        "nom": "CARPENTIER",
+        "prenom": "Marie Pierre",
+        "nom_complet": "Marie Pierre CARPENTIER",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "CARPENTIER",
+          "prenom": "Marie Pierre",
+          "nom_complet": "Marie Pierre CARPENTIER",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "ROUTIER",
+          "prenom": "Guillaume",
+          "nom_complet": "Guillaume ROUTIER",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BOYAVAL",
+          "prenom": "Valérie",
+          "nom_complet": "Valérie BOYAVAL",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "ALEXANDRE",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric ALEXANDRE",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "FERLA",
+          "prenom": "Martine",
+          "nom_complet": "Martine FERLA",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "BROQUET",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique BROQUET",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "HANQUEZ",
+          "prenom": "Sonia",
+          "nom_complet": "Sonia HANQUEZ",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "HERLANGE",
+          "prenom": "Julien",
+          "nom_complet": "Julien HERLANGE",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "LAVIGNON",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie LAVIGNON",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "PICHONNIER",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe PICHONNIER",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "WALLON",
+          "prenom": "Elisabeth",
+          "nom_complet": "Elisabeth WALLON",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "LHERBIER",
+          "prenom": "Yves-Marie",
+          "nom_complet": "Yves-Marie LHERBIER",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "MACQUINGHEN",
+          "prenom": "Mylène",
+          "nom_complet": "Mylène MACQUINGHEN",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "POUILLY",
+          "prenom": "Francis",
+          "nom_complet": "Francis POUILLY",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "14"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "Pour Beaurainville : Vos idées... nos actions",
+      "libelle_abrege_liste": "Pour Beaurainville : Vos idées... nos actions",
+      "nuance_liste": null,
+      "voix": 386,
+      "pct_voix_exprimes": 31.59,
+      "sieges_cm": 3,
+      "sieges_cc": 1,
+      "nb_elus": 3,
+      "tete_de_liste": {
+        "nom": "TETARD",
+        "prenom": "Ghislain",
+        "nom_complet": "Ghislain TETARD",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "TETARD",
+          "prenom": "Ghislain",
+          "nom_complet": "Ghislain TETARD",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "VIDOR",
+          "prenom": "Julie",
+          "nom_complet": "Julie VIDOR",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DACQUIN",
+          "prenom": "Xavier",
+          "nom_complet": "Xavier DACQUIN",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "3"
+        }
+      ],
+      "statut_conseil": "autre"
+    },
+    {
+      "num_panneau": "3",
+      "libelle_liste": "POUR LES BEAURAINVILLOISES ET LES BEAURAINVILLOIS",
+      "libelle_abrege_liste": "POUR LES BEAURAINVILLOISES ET LES BEAURAINVILLOIS",
+      "nuance_liste": null,
+      "voix": 324,
+      "pct_voix_exprimes": 26.51,
+      "sieges_cm": 2,
+      "sieges_cc": 0,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "BARBIER",
+        "prenom": "Alain",
+        "nom_complet": "Alain BARBIER",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BARBIER",
+          "prenom": "Alain",
+          "nom_complet": "Alain BARBIER",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "COQUIDE",
+          "prenom": "Christelle",
+          "nom_complet": "Christelle COQUIDE",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

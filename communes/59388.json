@@ -1,0 +1,215 @@
+{
+  "code_commune": "59388",
+  "commune": "Marquillies",
+  "departement": "Nord",
+  "tour": "T2",
+  "maire": {
+    "nom": "BOCQUET",
+    "prenom": "Eric",
+    "nom_complet": "Eric BOCQUET",
+    "age": 68,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1643,
+    "votants": 1053,
+    "pct_votants": 64.09,
+    "abstentions": 590,
+    "pct_abstentions": 35.91,
+    "exprimes": 1024
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "AGIR ENSEMBLE",
+      "libelle_abrege_liste": "AGIR ENSEMBLE",
+      "nuance_liste": null,
+      "voix": 553,
+      "pct_voix_exprimes": 54,
+      "sieges_cm": 15,
+      "sieges_cc": 1,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "BOCQUET",
+        "prenom": "Eric",
+        "nom_complet": "Eric BOCQUET",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BOCQUET",
+          "prenom": "Eric",
+          "nom_complet": "Eric BOCQUET",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "MORTREUX",
+          "prenom": "Blandine",
+          "nom_complet": "Blandine MORTREUX",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "PAPEGHIN",
+          "prenom": "Pierre",
+          "nom_complet": "Pierre PAPEGHIN",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DELEVALLÉE",
+          "prenom": "Viviane",
+          "nom_complet": "Viviane DELEVALLÉE",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LEFRANCQ",
+          "prenom": "Yves",
+          "nom_complet": "Yves LEFRANCQ",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "MAILLY",
+          "prenom": "Louisette",
+          "nom_complet": "Louisette MAILLY",
+          "sexe": "F",
+          "age": 75,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BUISINE",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent BUISINE",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "CORNILLE",
+          "prenom": "Monique",
+          "nom_complet": "Monique CORNILLE",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "RAULT",
+          "prenom": "Francis",
+          "nom_complet": "Francis RAULT",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "POUCHAIN",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie POUCHAIN",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DEFECHEUREUX",
+          "prenom": "Sébastien",
+          "nom_complet": "Sébastien DEFECHEUREUX",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "DEWAST",
+          "prenom": "Marie-Christine",
+          "nom_complet": "Marie-Christine DEWAST",
+          "sexe": "F",
+          "age": 71,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "DELEFORTRIE",
+          "prenom": "Damien",
+          "nom_complet": "Damien DELEFORTRIE",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "LESAGE",
+          "prenom": "Thérèse",
+          "nom_complet": "Thérèse LESAGE",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "HAVET",
+          "prenom": "Cyril",
+          "nom_complet": "Cyril HAVET",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "3",
+      "libelle_liste": "COEURS DE MARQUILLIES 2026",
+      "libelle_abrege_liste": "COEURS DE MARQUILLIES 2026",
+      "nuance_liste": null,
+      "voix": 471,
+      "pct_voix_exprimes": 46,
+      "sieges_cm": 4,
+      "sieges_cc": 0,
+      "nb_elus": 4,
+      "tete_de_liste": {
+        "nom": "RIBAILLE",
+        "prenom": "Jacques",
+        "nom_complet": "Jacques RIBAILLE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "RIBAILLE",
+          "prenom": "Jacques",
+          "nom_complet": "Jacques RIBAILLE",
+          "sexe": "M",
+          "age": 74,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DELABY",
+          "prenom": "Catherine",
+          "nom_complet": "Catherine DELABY",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "MAURICE",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe MAURICE",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "GILOTEAUX",
+          "prenom": "Séverine",
+          "nom_complet": "Séverine GILOTEAUX",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "4"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

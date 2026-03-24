@@ -1,0 +1,195 @@
+{
+  "code_commune": "59029",
+  "commune": "Auchy-lez-Orchies",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "SCHRYVE",
+    "prenom": "Guy",
+    "nom_complet": "Guy SCHRYVE",
+    "age": 72,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1165,
+    "votants": 635,
+    "pct_votants": 54.51,
+    "abstentions": 530,
+    "pct_abstentions": 45.49,
+    "exprimes": 563
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ACTION ET MODERNITE",
+      "libelle_abrege_liste": "ACTION ET MODERNITE",
+      "nuance_liste": null,
+      "voix": 563,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 19,
+      "sieges_cc": 1,
+      "nb_elus": 19,
+      "tete_de_liste": {
+        "nom": "SCHRYVE",
+        "prenom": "Guy",
+        "nom_complet": "Guy SCHRYVE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "SCHRYVE",
+          "prenom": "Guy",
+          "nom_complet": "Guy SCHRYVE",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "MONTOIS",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique MONTOIS",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "THIBAUT",
+          "prenom": "Jean-Marie",
+          "nom_complet": "Jean-Marie THIBAUT",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "GOUWY",
+          "prenom": "Sophie",
+          "nom_complet": "Sophie GOUWY",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DELCROIX",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent DELCROIX",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "BLERVAQUE-LEMAIRE",
+          "prenom": "Véronique",
+          "nom_complet": "Véronique BLERVAQUE-LEMAIRE",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "MORELLE",
+          "prenom": "Nathanael",
+          "nom_complet": "Nathanael MORELLE",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "VIGIER",
+          "prenom": "Sophie",
+          "nom_complet": "Sophie VIGIER",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "PALSTERMANS",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe PALSTERMANS",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "MADOUX",
+          "prenom": "Anne-Françoise",
+          "nom_complet": "Anne-Françoise MADOUX",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "COUTTENIER",
+          "prenom": "Grégory",
+          "nom_complet": "Grégory COUTTENIER",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "DECARPENTRIES",
+          "prenom": "Angélique",
+          "nom_complet": "Angélique DECARPENTRIES",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "KNIOLA",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno KNIOLA",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "COPPENS",
+          "prenom": "Audrey",
+          "nom_complet": "Audrey COPPENS",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "OBIN",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier OBIN",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "PERUN",
+          "prenom": "Charlotte",
+          "nom_complet": "Charlotte PERUN",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "VANDEPUTTE",
+          "prenom": "Tony",
+          "nom_complet": "Tony VANDEPUTTE",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "MONTURY",
+          "prenom": "Claire",
+          "nom_complet": "Claire MONTURY",
+          "sexe": "F",
+          "age": 22,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "DORCHIES",
+          "prenom": "Claude",
+          "nom_complet": "Claude DORCHIES",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "19"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

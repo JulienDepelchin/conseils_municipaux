@@ -1,0 +1,131 @@
+{
+  "code_commune": "62093",
+  "commune": "Beaulencourt",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "COTTEL",
+    "prenom": "Edith",
+    "nom_complet": "Edith COTTEL",
+    "age": 72,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 166,
+    "votants": 95,
+    "pct_votants": 57.23,
+    "abstentions": 71,
+    "pct_abstentions": 42.77,
+    "exprimes": 85
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ENSEMBLE POUR BEAULENCOURT",
+      "libelle_abrege_liste": "ENSEMBLE POUR BEAULENCOURT",
+      "nuance_liste": null,
+      "voix": 85,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "COTTEL",
+        "prenom": "Edith",
+        "nom_complet": "Edith COTTEL",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "COTTEL",
+          "prenom": "Edith",
+          "nom_complet": "Edith COTTEL",
+          "sexe": "F",
+          "age": 72,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "COPIN",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier COPIN",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BOULET",
+          "prenom": "Marie-José",
+          "nom_complet": "Marie-José BOULET",
+          "sexe": "F",
+          "age": 74,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LUCAS",
+          "prenom": "Léon",
+          "nom_complet": "Léon LUCAS",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DEVIN",
+          "prenom": "Amandine",
+          "nom_complet": "Amandine DEVIN",
+          "sexe": "F",
+          "age": 27,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "SANTERNE",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent SANTERNE",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DHORDAIN COTTEL",
+          "prenom": "Ludivine",
+          "nom_complet": "Ludivine DHORDAIN COTTEL",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "VANDEWALLE",
+          "prenom": "Sébastien",
+          "nom_complet": "Sébastien VANDEWALLE",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "LEROUX",
+          "prenom": "Charlotte",
+          "nom_complet": "Charlotte LEROUX",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "VAQUIÉ",
+          "prenom": "Guy",
+          "nom_complet": "Guy VAQUIÉ",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "OUDOUX",
+          "prenom": "Sandrine",
+          "nom_complet": "Sandrine OUDOUX",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

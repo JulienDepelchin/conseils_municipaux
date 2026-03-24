@@ -1,0 +1,163 @@
+{
+  "code_commune": "59478",
+  "commune": "Quaëdypre",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "JANSSEN-BENNYNCK",
+    "prenom": "Bernard",
+    "nom_complet": "Bernard JANSSEN-BENNYNCK",
+    "age": 67,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 912,
+    "votants": 477,
+    "pct_votants": 52.3,
+    "abstentions": 435,
+    "pct_abstentions": 47.7,
+    "exprimes": 411
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Un nouveau élan pour Quaëdypre",
+      "libelle_abrege_liste": "NEPQ",
+      "nuance_liste": null,
+      "voix": 411,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": 2,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "JANSSEN-BENNYNCK",
+        "prenom": "Bernard",
+        "nom_complet": "Bernard JANSSEN-BENNYNCK",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "JANSSEN-BENNYNCK",
+          "prenom": "Bernard",
+          "nom_complet": "Bernard JANSSEN-BENNYNCK",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "CANDAELE",
+          "prenom": "Julie",
+          "nom_complet": "Julie CANDAELE",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "ROPITAL",
+          "prenom": "Jean-Michel",
+          "nom_complet": "Jean-Michel ROPITAL",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "COLPAERT",
+          "prenom": "Marie-Pierre",
+          "nom_complet": "Marie-Pierre COLPAERT",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DEKEISTER",
+          "prenom": "Jean-Claude",
+          "nom_complet": "Jean-Claude DEKEISTER",
+          "sexe": "M",
+          "age": 76,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "VANHILLE",
+          "prenom": "Lydia",
+          "nom_complet": "Lydia VANHILLE",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "VANDERBEKEN",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric VANDERBEKEN",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DEBOUDT",
+          "prenom": "Myriam",
+          "nom_complet": "Myriam DEBOUDT",
+          "sexe": "F",
+          "age": 71,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DEMEESTER",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas DEMEESTER",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "HAMEZ",
+          "prenom": "Caroline",
+          "nom_complet": "Caroline HAMEZ",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DURANEL",
+          "prenom": "Guillaume",
+          "nom_complet": "Guillaume DURANEL",
+          "sexe": "M",
+          "age": 26,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "HRYCAK",
+          "prenom": "Jennifer",
+          "nom_complet": "Jennifer HRYCAK",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "VANBOCKSTAEL",
+          "prenom": "Théophile",
+          "nom_complet": "Théophile VANBOCKSTAEL",
+          "sexe": "M",
+          "age": 28,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "SODANO",
+          "prenom": "Donatella",
+          "nom_complet": "Donatella SODANO",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "CLEENEWERCK",
+          "prenom": "Clément",
+          "nom_complet": "Clément CLEENEWERCK",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

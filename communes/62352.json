@@ -1,0 +1,131 @@
+{
+  "code_commune": "62352",
+  "commune": "Framecourt",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "GRARE",
+    "prenom": "Jérôme",
+    "nom_complet": "Jérôme GRARE",
+    "age": 54,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 81,
+    "votants": 60,
+    "pct_votants": 74.07,
+    "abstentions": 21,
+    "pct_abstentions": 25.93,
+    "exprimes": 47
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ENSEMBLE POUR FRAMECOURT",
+      "libelle_abrege_liste": "ENSEMBLE POUR FRAMECOURT",
+      "nuance_liste": null,
+      "voix": 47,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "GRARE",
+        "prenom": "Jérôme",
+        "nom_complet": "Jérôme GRARE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "GRARE",
+          "prenom": "Jérôme",
+          "nom_complet": "Jérôme GRARE",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DEGRUGILLIER",
+          "prenom": "Marie-Odile",
+          "nom_complet": "Marie-Odile DEGRUGILLIER",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "PREVOST",
+          "prenom": "Bernard",
+          "nom_complet": "Bernard PREVOST",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "GUERCI",
+          "prenom": "Gaudeline",
+          "nom_complet": "Gaudeline GUERCI",
+          "sexe": "F",
+          "age": 29,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LESAY",
+          "prenom": "Frank",
+          "nom_complet": "Frank LESAY",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "NOTELET",
+          "prenom": "Adeline",
+          "nom_complet": "Adeline NOTELET",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "LOCQUET",
+          "prenom": "Denis",
+          "nom_complet": "Denis LOCQUET",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "RAMON",
+          "prenom": "Lisa",
+          "nom_complet": "Lisa RAMON",
+          "sexe": "F",
+          "age": 22,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "MERGEZ",
+          "prenom": "Luc",
+          "nom_complet": "Luc MERGEZ",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "RAMON",
+          "prenom": "Marie",
+          "nom_complet": "Marie RAMON",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "CATY",
+          "prenom": "Jean-François",
+          "nom_complet": "Jean-François CATY",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

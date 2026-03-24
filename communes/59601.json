@@ -1,0 +1,247 @@
+{
+  "code_commune": "59601",
+  "commune": "Trélon",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "BONGIBAULT",
+    "prenom": "Eric",
+    "nom_complet": "Eric BONGIBAULT",
+    "age": 63,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1790,
+    "votants": 1166,
+    "pct_votants": 65.14,
+    "abstentions": 624,
+    "pct_abstentions": 34.86,
+    "exprimes": 1127
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "TRELON UN NOUVEL HORIZON",
+      "libelle_abrege_liste": "TRELON UN NOUVEL HORIZON",
+      "nuance_liste": null,
+      "voix": 654,
+      "pct_voix_exprimes": 58.03,
+      "sieges_cm": 18,
+      "sieges_cc": 4,
+      "nb_elus": 18,
+      "tete_de_liste": {
+        "nom": "BONGIBAULT",
+        "prenom": "Eric",
+        "nom_complet": "Eric BONGIBAULT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BONGIBAULT",
+          "prenom": "Eric",
+          "nom_complet": "Eric BONGIBAULT",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "HENNART",
+          "prenom": "Fabienne",
+          "nom_complet": "Fabienne HENNART",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "FOSSE",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier FOSSE",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "GRANATA",
+          "prenom": "Alexandra",
+          "nom_complet": "Alexandra GRANATA",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "PAVOT",
+          "prenom": "Luc",
+          "nom_complet": "Luc PAVOT",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DAVOINE",
+          "prenom": "Gwenaelle",
+          "nom_complet": "Gwenaelle DAVOINE",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "CULOT",
+          "prenom": "Sergil",
+          "nom_complet": "Sergil CULOT",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "MOISAN",
+          "prenom": "Severine",
+          "nom_complet": "Severine MOISAN",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "BOUQUEUNIAUX",
+          "prenom": "Denis",
+          "nom_complet": "Denis BOUQUEUNIAUX",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "FONTAINE",
+          "prenom": "Aurelie",
+          "nom_complet": "Aurelie FONTAINE",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DUPONT",
+          "prenom": "William",
+          "nom_complet": "William DUPONT",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "MORONVAL",
+          "prenom": "Noemie",
+          "nom_complet": "Noemie MORONVAL",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "APPLINCOURT",
+          "prenom": "Mickael",
+          "nom_complet": "Mickael APPLINCOURT",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "BODCHON",
+          "prenom": "Stephanie",
+          "nom_complet": "Stephanie BODCHON",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "MARTEL",
+          "prenom": "Regis",
+          "nom_complet": "Regis MARTEL",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "BARON",
+          "prenom": "Ludivine",
+          "nom_complet": "Ludivine BARON",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "VENDEVILLE",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe VENDEVILLE",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "BEVIERE",
+          "prenom": "Caroline",
+          "nom_complet": "Caroline BEVIERE",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "18"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "Ensemble pour Trélon continuons",
+      "libelle_abrege_liste": "Ensemble pour Trélon continuons",
+      "nuance_liste": null,
+      "voix": 473,
+      "pct_voix_exprimes": 41.97,
+      "sieges_cm": 5,
+      "sieges_cc": 1,
+      "nb_elus": 5,
+      "tete_de_liste": {
+        "nom": "REGHEM",
+        "prenom": "Thierry",
+        "nom_complet": "Thierry REGHEM",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "REGHEM",
+          "prenom": "Thierry",
+          "nom_complet": "Thierry REGHEM",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "GRANATA",
+          "prenom": "Ludivine",
+          "nom_complet": "Ludivine GRANATA",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DESTRES",
+          "prenom": "Corentin",
+          "nom_complet": "Corentin DESTRES",
+          "sexe": "M",
+          "age": 32,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "COLLIER",
+          "prenom": "Liliane",
+          "nom_complet": "Liliane COLLIER",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "NOIRIEL",
+          "prenom": "Thierry",
+          "nom_complet": "Thierry NOIRIEL",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "5"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "code_commune": "62374",
+  "commune": "Gomiécourt",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "COPIN",
+    "prenom": "Hervé",
+    "nom_complet": "Hervé COPIN",
+    "age": 59,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 101,
+    "votants": 69,
+    "pct_votants": 68.32,
+    "abstentions": 32,
+    "pct_abstentions": 31.68,
+    "exprimes": 46
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Unis pour Gomiécourt",
+      "libelle_abrege_liste": "Unis pour Gomiécourt",
+      "nuance_liste": null,
+      "voix": 46,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "COPIN",
+        "prenom": "Hervé",
+        "nom_complet": "Hervé COPIN",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "COPIN",
+          "prenom": "Hervé",
+          "nom_complet": "Hervé COPIN",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "PAYEMENT",
+          "prenom": "Priscille",
+          "nom_complet": "Priscille PAYEMENT",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BIZART",
+          "prenom": "Jean-Paul",
+          "nom_complet": "Jean-Paul BIZART",
+          "sexe": "M",
+          "age": 76,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "MERINO",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie MERINO",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "TURPIN",
+          "prenom": "Thierry",
+          "nom_complet": "Thierry TURPIN",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "BRACQUART",
+          "prenom": "Justine",
+          "nom_complet": "Justine BRACQUART",
+          "sexe": "F",
+          "age": 27,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "GRAVE",
+          "prenom": "Mathieu",
+          "nom_complet": "Mathieu GRAVE",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LESTOILLE",
+          "prenom": "Sabine",
+          "nom_complet": "Sabine LESTOILLE",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "CORDIER",
+          "prenom": "Renald",
+          "nom_complet": "Renald CORDIER",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "HENRY",
+          "prenom": "Laetitia",
+          "nom_complet": "Laetitia HENRY",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "HENNUYER",
+          "prenom": "Cédric",
+          "nom_complet": "Cédric HENNUYER",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

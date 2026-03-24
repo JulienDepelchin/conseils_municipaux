@@ -1,0 +1,131 @@
+{
+  "code_commune": "59652",
+  "commune": "Wavrechain-sous-Faulx",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "LEPRETRE",
+    "prenom": "André",
+    "nom_complet": "André LEPRETRE",
+    "age": 74,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 310,
+    "votants": 215,
+    "pct_votants": 69.35,
+    "abstentions": 95,
+    "pct_abstentions": 30.65,
+    "exprimes": 171
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ENTENTE ET COHESION",
+      "libelle_abrege_liste": "ENTENTE ET COHESION",
+      "nuance_liste": null,
+      "voix": 171,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "LEPRETRE",
+        "prenom": "André",
+        "nom_complet": "André LEPRETRE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LEPRETRE",
+          "prenom": "André",
+          "nom_complet": "André LEPRETRE",
+          "sexe": "M",
+          "age": 74,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DUFETEL",
+          "prenom": "Amandine",
+          "nom_complet": "Amandine DUFETEL",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BEROGE",
+          "prenom": "David",
+          "nom_complet": "David BEROGE",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "SAINT VAAST",
+          "prenom": "Catherine",
+          "nom_complet": "Catherine SAINT VAAST",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "AUFEVRE",
+          "prenom": "Vincent",
+          "nom_complet": "Vincent AUFEVRE",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "BOULOGNE",
+          "prenom": "Véronique",
+          "nom_complet": "Véronique BOULOGNE",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BOULET",
+          "prenom": "Christian",
+          "nom_complet": "Christian BOULET",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "GROS",
+          "prenom": "Caroline",
+          "nom_complet": "Caroline GROS",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "BAILLY",
+          "prenom": "Jérôme",
+          "nom_complet": "Jérôme BAILLY",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DUHAMEL",
+          "prenom": "Julie",
+          "nom_complet": "Julie DUHAMEL",
+          "sexe": "F",
+          "age": 31,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "ETUIN",
+          "prenom": "Géry",
+          "nom_complet": "Géry ETUIN",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

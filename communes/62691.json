@@ -1,0 +1,195 @@
+{
+  "code_commune": "62691",
+  "commune": "Saint-Augustin",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "DEHURTEVENT",
+    "prenom": "Benoît",
+    "nom_complet": "Benoît DEHURTEVENT",
+    "age": 44,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 708,
+    "votants": 400,
+    "pct_votants": 56.5,
+    "abstentions": 308,
+    "pct_abstentions": 43.5,
+    "exprimes": 335
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Ensemble pour Saint Augustin",
+      "libelle_abrege_liste": "Ensemble pour Saint Augustin",
+      "nuance_liste": null,
+      "voix": 335,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 19,
+      "sieges_cc": null,
+      "nb_elus": 19,
+      "tete_de_liste": {
+        "nom": "DEHURTEVENT",
+        "prenom": "Benoît",
+        "nom_complet": "Benoît DEHURTEVENT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DEHURTEVENT",
+          "prenom": "Benoît",
+          "nom_complet": "Benoît DEHURTEVENT",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DACQUIN",
+          "prenom": "Catherine",
+          "nom_complet": "Catherine DACQUIN",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "HOCHART",
+          "prenom": "Damien",
+          "nom_complet": "Damien HOCHART",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "MEURIN",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie MEURIN",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "COMPAGNION",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal COMPAGNION",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "ALLOUCHERY",
+          "prenom": "Angelique",
+          "nom_complet": "Angelique ALLOUCHERY",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "CALONNE",
+          "prenom": "Christian",
+          "nom_complet": "Christian CALONNE",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "PAUCHET",
+          "prenom": "Coline",
+          "nom_complet": "Coline PAUCHET",
+          "sexe": "F",
+          "age": 28,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DECOSTER",
+          "prenom": "Rémi",
+          "nom_complet": "Rémi DECOSTER",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "GHYS",
+          "prenom": "Aline",
+          "nom_complet": "Aline GHYS",
+          "sexe": "F",
+          "age": 32,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "GRIOCHE",
+          "prenom": "Vincent",
+          "nom_complet": "Vincent GRIOCHE",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "LEAL",
+          "prenom": "Séverine",
+          "nom_complet": "Séverine LEAL",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "SALON",
+          "prenom": "Matthieu",
+          "nom_complet": "Matthieu SALON",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "MONCHY",
+          "prenom": "Karine",
+          "nom_complet": "Karine MONCHY",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "POTTIER",
+          "prenom": "Stéphane",
+          "nom_complet": "Stéphane POTTIER",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "BERMONT",
+          "prenom": "Pascaline",
+          "nom_complet": "Pascaline BERMONT",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "PAUCHET",
+          "prenom": "Sylvain",
+          "nom_complet": "Sylvain PAUCHET",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "BERTIN",
+          "prenom": "Marie-Odile",
+          "nom_complet": "Marie-Odile BERTIN",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "GOZÉ",
+          "prenom": "Jean-Pierre",
+          "nom_complet": "Jean-Pierre GOZÉ",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "19"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

@@ -1,0 +1,227 @@
+{
+  "code_commune": "59630",
+  "commune": "Wahagnies",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "CUVELIER",
+    "prenom": "Nicolas",
+    "nom_complet": "Nicolas CUVELIER",
+    "age": 50,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 2011,
+    "votants": 819,
+    "pct_votants": 40.73,
+    "abstentions": 1192,
+    "pct_abstentions": 59.27,
+    "exprimes": 708
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "AGIR ENSEMBLE POUR UNE COMMUNE QUI VOUS RESSEMBLE",
+      "libelle_abrege_liste": "AGIR ENSEMBLE POUR UNE COMMUNE QUI VOUS RESSEMBLE",
+      "nuance_liste": null,
+      "voix": 708,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 23,
+      "sieges_cc": 1,
+      "nb_elus": 23,
+      "tete_de_liste": {
+        "nom": "CUVELIER",
+        "prenom": "Nicolas",
+        "nom_complet": "Nicolas CUVELIER",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "CUVELIER",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas CUVELIER",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "CAILLEUX",
+          "prenom": "Marie-Claude",
+          "nom_complet": "Marie-Claude CAILLEUX",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "MONDOT",
+          "prenom": "Benjamin",
+          "nom_complet": "Benjamin MONDOT",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "TAVERNIER",
+          "prenom": "Elodie",
+          "nom_complet": "Elodie TAVERNIER",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DECROOCQ",
+          "prenom": "Jérôme",
+          "nom_complet": "Jérôme DECROOCQ",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "JOLLY",
+          "prenom": "Annie Jeanne Palmyre",
+          "nom_complet": "Annie Jeanne Palmyre JOLLY",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "KIC",
+          "prenom": "Eric",
+          "nom_complet": "Eric KIC",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DELPORTE",
+          "prenom": "Marie",
+          "nom_complet": "Marie DELPORTE",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "JOLLY",
+          "prenom": "André René Patrick",
+          "nom_complet": "André René Patrick JOLLY",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DECROOCQ",
+          "prenom": "Olivia",
+          "nom_complet": "Olivia DECROOCQ",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "LECLERCQ",
+          "prenom": "Hugues Gabriel Louis Jacques",
+          "nom_complet": "Hugues Gabriel Louis Jacques LECLERCQ",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "DANNI",
+          "prenom": "Amandine",
+          "nom_complet": "Amandine DANNI",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "VEREZ",
+          "prenom": "Jean-Claude Henri",
+          "nom_complet": "Jean-Claude Henri VEREZ",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "FOUBERT",
+          "prenom": "Véronique",
+          "nom_complet": "Véronique FOUBERT",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "MATUSZAK",
+          "prenom": "Joël",
+          "nom_complet": "Joël MATUSZAK",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "FAUCHOIS",
+          "prenom": "Sandra",
+          "nom_complet": "Sandra FAUCHOIS",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "FENEUX",
+          "prenom": "Sébastien",
+          "nom_complet": "Sébastien FENEUX",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "SKILJAN",
+          "prenom": "Anaïs",
+          "nom_complet": "Anaïs SKILJAN",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "SKILJAN",
+          "prenom": "Sacha",
+          "nom_complet": "Sacha SKILJAN",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "PIETRASZEWSKI",
+          "prenom": "Céline",
+          "nom_complet": "Céline PIETRASZEWSKI",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "LAMBERT",
+          "prenom": "Ludovic",
+          "nom_complet": "Ludovic LAMBERT",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "DEPOORTERE",
+          "prenom": "Diana",
+          "nom_complet": "Diana DEPOORTERE",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "LE DUC",
+          "prenom": "Kévin",
+          "nom_complet": "Kévin LE DUC",
+          "sexe": "M",
+          "age": 34,
+          "rang_liste": "23"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

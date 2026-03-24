@@ -1,0 +1,315 @@
+{
+  "code_commune": "59205",
+  "commune": "Escaudain",
+  "departement": "Nord",
+  "tour": "T2",
+  "maire": {
+    "nom": "MERCIER DHENNAIN",
+    "prenom": "Catherine",
+    "nom_complet": "Catherine MERCIER DHENNAIN",
+    "age": 58,
+    "nuance": "LDVD"
+  },
+  "resultats": {
+    "inscrits": 6282,
+    "votants": 3209,
+    "pct_votants": 51.08,
+    "abstentions": 3073,
+    "pct_abstentions": 48.92,
+    "exprimes": 3165
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "OBJECTIF ESCAUDAIN",
+      "libelle_abrege_liste": "OBJECTIF ESCAUDAIN",
+      "nuance_liste": "LDVD",
+      "voix": 1671,
+      "pct_voix_exprimes": 52.8,
+      "sieges_cm": 23,
+      "sieges_cc": 4,
+      "nb_elus": 23,
+      "tete_de_liste": {
+        "nom": "MERCIER DHENNAIN",
+        "prenom": "Catherine",
+        "nom_complet": "Catherine MERCIER DHENNAIN",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "MERCIER DHENNAIN",
+          "prenom": "Catherine",
+          "nom_complet": "Catherine MERCIER DHENNAIN",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DUHEM",
+          "prenom": "Christian",
+          "nom_complet": "Christian DUHEM",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "TROIA",
+          "prenom": "Laure",
+          "nom_complet": "Laure TROIA",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "HAMMADI",
+          "prenom": "Abdelkader",
+          "nom_complet": "Abdelkader HAMMADI",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "FONTAINE",
+          "prenom": "Jennifer",
+          "nom_complet": "Jennifer FONTAINE",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "CAVALLARO",
+          "prenom": "Michael",
+          "nom_complet": "Michael CAVALLARO",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DUFOUR",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie DUFOUR",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "ZECCHIN",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal ZECCHIN",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "PETRIOLI",
+          "prenom": "Franca",
+          "nom_complet": "Franca PETRIOLI",
+          "sexe": "F",
+          "age": 70,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "BOURRE",
+          "prenom": "Quentin",
+          "nom_complet": "Quentin BOURRE",
+          "sexe": "M",
+          "age": 28,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "WILLIATE",
+          "prenom": "Karine",
+          "nom_complet": "Karine WILLIATE",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "CREPIN",
+          "prenom": "Jean-Michel",
+          "nom_complet": "Jean-Michel CREPIN",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "GUIDEZ",
+          "prenom": "Zaina",
+          "nom_complet": "Zaina GUIDEZ",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "VOLPE",
+          "prenom": "Michel",
+          "nom_complet": "Michel VOLPE",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "BRANDELET",
+          "prenom": "Christine",
+          "nom_complet": "Christine BRANDELET",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "GILLENS",
+          "prenom": "Gregory",
+          "nom_complet": "Gregory GILLENS",
+          "sexe": "M",
+          "age": 18,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "SENSALE",
+          "prenom": "Rita",
+          "nom_complet": "Rita SENSALE",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "SERRAO",
+          "prenom": "Henri",
+          "nom_complet": "Henri SERRAO",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "VILCOT",
+          "prenom": "Martine",
+          "nom_complet": "Martine VILCOT",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "SERRI",
+          "prenom": "Franck",
+          "nom_complet": "Franck SERRI",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "TAUROZZA",
+          "prenom": "Emilia",
+          "nom_complet": "Emilia TAUROZZA",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "ROMBEAUT",
+          "prenom": "Sylvain",
+          "nom_complet": "Sylvain ROMBEAUT",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "DESCAUDIN",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie DESCAUDIN",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "23"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "ESCAUDAIN AU COEUR - L'HUMAIN D'ABORD",
+      "libelle_abrege_liste": "ESCAUDAIN AU COEUR - L'HUMAIN D'ABORD",
+      "nuance_liste": "LCOM",
+      "voix": 1012,
+      "pct_voix_exprimes": 31.97,
+      "sieges_cm": 4,
+      "sieges_cc": 1,
+      "nb_elus": 4,
+      "tete_de_liste": {
+        "nom": "SALIGOT",
+        "prenom": "Bruno",
+        "nom_complet": "Bruno SALIGOT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "SALIGOT",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno SALIGOT",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "RISBOURG-GUALANDRI",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique RISBOURG-GUALANDRI",
+          "sexe": "F",
+          "age": 70,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "MILLEVILLE",
+          "prenom": "Gilbert",
+          "nom_complet": "Gilbert MILLEVILLE",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "SCHUTT",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie SCHUTT",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "4"
+        }
+      ],
+      "statut_conseil": "autre"
+    },
+    {
+      "num_panneau": "3",
+      "libelle_liste": "ESCAUDAIN POUR TOUS",
+      "libelle_abrege_liste": "ESCAUDAIN POUR TOUS",
+      "nuance_liste": "LDVD",
+      "voix": 482,
+      "pct_voix_exprimes": 15.23,
+      "sieges_cm": 2,
+      "sieges_cc": 0,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "SPECQ",
+        "prenom": "Eric",
+        "nom_complet": "Eric SPECQ",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "SPECQ",
+          "prenom": "Eric",
+          "nom_complet": "Eric SPECQ",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DUHEM",
+          "prenom": "Leila",
+          "nom_complet": "Leila DUHEM",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

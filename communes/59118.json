@@ -1,0 +1,215 @@
+{
+  "code_commune": "59118",
+  "commune": "Busigny",
+  "departement": "Nord",
+  "tour": "T2",
+  "maire": {
+    "nom": "LEBRUN",
+    "prenom": "Christophe",
+    "nom_complet": "Christophe LEBRUN",
+    "age": 58,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1797,
+    "votants": 1183,
+    "pct_votants": 65.83,
+    "abstentions": 614,
+    "pct_abstentions": 34.17,
+    "exprimes": 1153
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "OXYGENE",
+      "libelle_abrege_liste": "OXYGENE",
+      "nuance_liste": null,
+      "voix": 621,
+      "pct_voix_exprimes": 53.86,
+      "sieges_cm": 15,
+      "sieges_cc": 2,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "LEBRUN",
+        "prenom": "Christophe",
+        "nom_complet": "Christophe LEBRUN",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LEBRUN",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe LEBRUN",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "GOMANNE",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique GOMANNE",
+          "sexe": "F",
+          "age": 70,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "GOEMAERE",
+          "prenom": "Julien",
+          "nom_complet": "Julien GOEMAERE",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "SARTIAUX",
+          "prenom": "Emilie",
+          "nom_complet": "Emilie SARTIAUX",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "GRANDJEAN",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe GRANDJEAN",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "GRONIER",
+          "prenom": "Sandrine",
+          "nom_complet": "Sandrine GRONIER",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "WRYK",
+          "prenom": "Julien",
+          "nom_complet": "Julien WRYK",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "BUISSET",
+          "prenom": "Marie-Françoise",
+          "nom_complet": "Marie-Françoise BUISSET",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "CZERYBA",
+          "prenom": "Pierre",
+          "nom_complet": "Pierre CZERYBA",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "GOMANNE",
+          "prenom": "Chloé",
+          "nom_complet": "Chloé GOMANNE",
+          "sexe": "F",
+          "age": 29,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "RENARD",
+          "prenom": "Michel",
+          "nom_complet": "Michel RENARD",
+          "sexe": "M",
+          "age": 75,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "JONET",
+          "prenom": "Yvette",
+          "nom_complet": "Yvette JONET",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "LEFEVRE",
+          "prenom": "David",
+          "nom_complet": "David LEFEVRE",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "ALLU",
+          "prenom": "Stessie",
+          "nom_complet": "Stessie ALLU",
+          "sexe": "F",
+          "age": 30,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "MAQUIN",
+          "prenom": "Corentin",
+          "nom_complet": "Corentin MAQUIN",
+          "sexe": "M",
+          "age": 26,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "UN NOUVEAU SOUFFLE POUR BUSIGNY",
+      "libelle_abrege_liste": "UN NOUVEAU SOUFFLE POUR BUSIGNY",
+      "nuance_liste": null,
+      "voix": 532,
+      "pct_voix_exprimes": 46.14,
+      "sieges_cm": 4,
+      "sieges_cc": 0,
+      "nb_elus": 4,
+      "tete_de_liste": {
+        "nom": "PECQUEUX",
+        "prenom": "Christian",
+        "nom_complet": "Christian PECQUEUX",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "PECQUEUX",
+          "prenom": "Christian",
+          "nom_complet": "Christian PECQUEUX",
+          "sexe": "M",
+          "age": 77,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DUBUS",
+          "prenom": "Fabienne",
+          "nom_complet": "Fabienne DUBUS",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LEMAIRE",
+          "prenom": "William",
+          "nom_complet": "William LEMAIRE",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DESICY",
+          "prenom": "Marie-Thérèse",
+          "nom_complet": "Marie-Thérèse DESICY",
+          "sexe": "F",
+          "age": 74,
+          "rang_liste": "4"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "code_commune": "59004",
+  "commune": "Aix-en-Pévèle",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "DALLOY",
+    "prenom": "Didier",
+    "nom_complet": "Didier DALLOY",
+    "age": 73,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 966,
+    "votants": 568,
+    "pct_votants": 58.8,
+    "abstentions": 398,
+    "pct_abstentions": 41.2,
+    "exprimes": 474
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "AIX EN PEVELE ENGAGEONS NOUS ENSEMBLE",
+      "libelle_abrege_liste": "AIX EN PEVELE ENGAGEONS NOUS ENSEMBLE",
+      "nuance_liste": null,
+      "voix": 474,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": 1,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "DALLOY",
+        "prenom": "Didier",
+        "nom_complet": "Didier DALLOY",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DALLOY",
+          "prenom": "Didier",
+          "nom_complet": "Didier DALLOY",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DUJARDIN",
+          "prenom": "Laetitia",
+          "nom_complet": "Laetitia DUJARDIN",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "MULLIER",
+          "prenom": "Eric",
+          "nom_complet": "Eric MULLIER",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "HARO",
+          "prenom": "Marie",
+          "nom_complet": "Marie HARO",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "TIERCE",
+          "prenom": "Pierre-Marie",
+          "nom_complet": "Pierre-Marie TIERCE",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DE CUBBER",
+          "prenom": "Laurence",
+          "nom_complet": "Laurence DE CUBBER",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "SOHET",
+          "prenom": "Jérémy",
+          "nom_complet": "Jérémy SOHET",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DUPONT",
+          "prenom": "Marie",
+          "nom_complet": "Marie DUPONT",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DEREMEZ",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier DEREMEZ",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "CHEVALIER",
+          "prenom": "Albane",
+          "nom_complet": "Albane CHEVALIER",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "GALLOIS",
+          "prenom": "Christian",
+          "nom_complet": "Christian GALLOIS",
+          "sexe": "M",
+          "age": 74,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "DE CUBBER",
+          "prenom": "Amélie",
+          "nom_complet": "Amélie DE CUBBER",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "DUBOIS",
+          "prenom": "Didier",
+          "nom_complet": "Didier DUBOIS",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "DUFOUR-BAILLET",
+          "prenom": "Élise",
+          "nom_complet": "Élise DUFOUR-BAILLET",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "LECLERCQ",
+          "prenom": "Valéric",
+          "nom_complet": "Valéric LECLERCQ",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

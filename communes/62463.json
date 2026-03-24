@@ -1,0 +1,151 @@
+{
+  "code_commune": "62463",
+  "commune": "Hucqueliers",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "LELEU",
+    "prenom": "Stephane",
+    "nom_complet": "Stephane LELEU",
+    "age": 59,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 389,
+    "votants": 325,
+    "pct_votants": 83.55,
+    "abstentions": 64,
+    "pct_abstentions": 16.45,
+    "exprimes": 305
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "BIEN VIVRE A HUCQUELIERS",
+      "libelle_abrege_liste": "BIEN VIVRE A HUCQUELIERS",
+      "nuance_liste": null,
+      "voix": 178,
+      "pct_voix_exprimes": 58.36,
+      "sieges_cm": 9,
+      "sieges_cc": null,
+      "nb_elus": 9,
+      "tete_de_liste": {
+        "nom": "LELEU",
+        "prenom": "Stephane",
+        "nom_complet": "Stephane LELEU",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LELEU",
+          "prenom": "Stephane",
+          "nom_complet": "Stephane LELEU",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BOUCHEND HOMME",
+          "prenom": "Marine",
+          "nom_complet": "Marine BOUCHEND HOMME",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DELPLANQUE",
+          "prenom": "Gerard",
+          "nom_complet": "Gerard DELPLANQUE",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "MASSIN",
+          "prenom": "Jennifer",
+          "nom_complet": "Jennifer MASSIN",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DEMAREST",
+          "prenom": "Didier",
+          "nom_complet": "Didier DEMAREST",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "HOLUIGUE",
+          "prenom": "Marie",
+          "nom_complet": "Marie HOLUIGUE",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "COUPET",
+          "prenom": "Vincent",
+          "nom_complet": "Vincent COUPET",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "MOREL",
+          "prenom": "Aurianne",
+          "nom_complet": "Aurianne MOREL",
+          "sexe": "F",
+          "age": 30,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "ALLOUCHERIE",
+          "prenom": "Alain",
+          "nom_complet": "Alain ALLOUCHERIE",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "9"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "FIERS D'HUCQUELIERS",
+      "libelle_abrege_liste": "FIERS D'HUCQUELIERS",
+      "nuance_liste": null,
+      "voix": 127,
+      "pct_voix_exprimes": 41.64,
+      "sieges_cm": 2,
+      "sieges_cc": null,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "ROSEUW",
+        "prenom": "Lucas",
+        "nom_complet": "Lucas ROSEUW",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "ROSEUW",
+          "prenom": "Lucas",
+          "nom_complet": "Lucas ROSEUW",
+          "sexe": "M",
+          "age": 28,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DEROLEZ",
+          "prenom": "Martine",
+          "nom_complet": "Martine DEROLEZ",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

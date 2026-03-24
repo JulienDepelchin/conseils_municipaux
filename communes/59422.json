@@ -1,0 +1,183 @@
+{
+  "code_commune": "59422",
+  "commune": "Naves",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "LESNES",
+    "prenom": "Jean-Luc",
+    "nom_complet": "Jean-Luc LESNES",
+    "age": 63,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 497,
+    "votants": 457,
+    "pct_votants": 91.95,
+    "abstentions": 40,
+    "pct_abstentions": 8.05,
+    "exprimes": 450
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "NAVES ENSEMBLE 2026",
+      "libelle_abrege_liste": "NAVES ENSEMBLE 2026",
+      "nuance_liste": null,
+      "voix": 279,
+      "pct_voix_exprimes": 62,
+      "sieges_cm": 12,
+      "sieges_cc": null,
+      "nb_elus": 12,
+      "tete_de_liste": {
+        "nom": "LESNES",
+        "prenom": "Jean-Luc",
+        "nom_complet": "Jean-Luc LESNES",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LESNES",
+          "prenom": "Jean-Luc",
+          "nom_complet": "Jean-Luc LESNES",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "SEMAILLE",
+          "prenom": "Céline",
+          "nom_complet": "Céline SEMAILLE",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DEMOY",
+          "prenom": "Jean-Bernard",
+          "nom_complet": "Jean-Bernard DEMOY",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "FIEVET",
+          "prenom": "Sophie",
+          "nom_complet": "Sophie FIEVET",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LADRIERE",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas LADRIERE",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "BOZION",
+          "prenom": "Margaux",
+          "nom_complet": "Margaux BOZION",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BOUBEGUIRA",
+          "prenom": "Nasser",
+          "nom_complet": "Nasser BOUBEGUIRA",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "GUIDEZ",
+          "prenom": "Céline",
+          "nom_complet": "Céline GUIDEZ",
+          "sexe": "F",
+          "age": 71,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "GOURDIN",
+          "prenom": "Thierry",
+          "nom_complet": "Thierry GOURDIN",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "STANDAERT",
+          "prenom": "Julie",
+          "nom_complet": "Julie STANDAERT",
+          "sexe": "F",
+          "age": 23,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "SOYEZ",
+          "prenom": "Jérome",
+          "nom_complet": "Jérome SOYEZ",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "GRESSIEZ",
+          "prenom": "Emilie",
+          "nom_complet": "Emilie GRESSIEZ",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "12"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Liste d'union et de progres",
+      "libelle_abrege_liste": "Liste d'union et de progres",
+      "nuance_liste": null,
+      "voix": 171,
+      "pct_voix_exprimes": 38,
+      "sieges_cm": 3,
+      "sieges_cc": null,
+      "nb_elus": 3,
+      "tete_de_liste": {
+        "nom": "DHORME",
+        "prenom": "Jean-Pierre",
+        "nom_complet": "Jean-Pierre DHORME",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DHORME",
+          "prenom": "Jean-Pierre",
+          "nom_complet": "Jean-Pierre DHORME",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LEFEBVRE",
+          "prenom": "Coralie",
+          "nom_complet": "Coralie LEFEBVRE",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "CAPLIEZ",
+          "prenom": "Lucien",
+          "nom_complet": "Lucien CAPLIEZ",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "3"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

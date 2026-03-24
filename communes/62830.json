@@ -1,0 +1,131 @@
+{
+  "code_commune": "62830",
+  "commune": "Trescault",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "DAMBRINE",
+    "prenom": "Christophe",
+    "nom_complet": "Christophe DAMBRINE",
+    "age": 58,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 152,
+    "votants": 72,
+    "pct_votants": 47.37,
+    "abstentions": 80,
+    "pct_abstentions": 52.63,
+    "exprimes": 59
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Bien vivre dans un village que l'on aime",
+      "libelle_abrege_liste": "Bien vivre dans un village que l'on aime",
+      "nuance_liste": null,
+      "voix": 59,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "DAMBRINE",
+        "prenom": "Christophe",
+        "nom_complet": "Christophe DAMBRINE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DAMBRINE",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe DAMBRINE",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "RENARD",
+          "prenom": "Marjorie",
+          "nom_complet": "Marjorie RENARD",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "CAPELLE",
+          "prenom": "Jean-Philippe",
+          "nom_complet": "Jean-Philippe CAPELLE",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DELACOURT",
+          "prenom": "Anne-Lyne",
+          "nom_complet": "Anne-Lyne DELACOURT",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "ALMEIDA",
+          "prenom": "Pedro",
+          "nom_complet": "Pedro ALMEIDA",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LOTELLIER",
+          "prenom": "Aurélia",
+          "nom_complet": "Aurélia LOTELLIER",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "POTTRAIN",
+          "prenom": "Stéphane",
+          "nom_complet": "Stéphane POTTRAIN",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DAMBRINE",
+          "prenom": "Ryhanne",
+          "nom_complet": "Ryhanne DAMBRINE",
+          "sexe": "F",
+          "age": 27,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "LOBRY",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas LOBRY",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "MORENO",
+          "prenom": "Odile",
+          "nom_complet": "Odile MORENO",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "PARMENTIER",
+          "prenom": "Blaise",
+          "nom_complet": "Blaise PARMENTIER",
+          "sexe": "M",
+          "age": 31,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

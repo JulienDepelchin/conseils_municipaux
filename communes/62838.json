@@ -1,0 +1,119 @@
+{
+  "code_commune": "62838",
+  "commune": "Vaulx",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "BRUHIER",
+    "prenom": "Claude",
+    "nom_complet": "Claude BRUHIER",
+    "age": 73,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 68,
+    "votants": 61,
+    "pct_votants": 89.71,
+    "abstentions": 7,
+    "pct_abstentions": 10.29,
+    "exprimes": 60
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "Ensemble pour Vaulx",
+      "libelle_abrege_liste": "Ensemble pour Vaulx",
+      "nuance_liste": null,
+      "voix": 36,
+      "pct_voix_exprimes": 60,
+      "sieges_cm": 6,
+      "sieges_cc": null,
+      "nb_elus": 6,
+      "tete_de_liste": {
+        "nom": "BRUHIER",
+        "prenom": "Claude",
+        "nom_complet": "Claude BRUHIER",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BRUHIER",
+          "prenom": "Claude",
+          "nom_complet": "Claude BRUHIER",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "CONDETTE",
+          "prenom": "Christelle",
+          "nom_complet": "Christelle CONDETTE",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BUGNY",
+          "prenom": "Régis",
+          "nom_complet": "Régis BUGNY",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "QUENEL",
+          "prenom": "Yvonnique",
+          "nom_complet": "Yvonnique QUENEL",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "GAMBIER",
+          "prenom": "Christian",
+          "nom_complet": "Christian GAMBIER",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DURETZ",
+          "prenom": "Mauricette",
+          "nom_complet": "Mauricette DURETZ",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "6"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "UN NOUVEAU SOUFFLE POUR VAULX",
+      "libelle_abrege_liste": "UN NOUVEAU SOUFFLE POUR VAULX",
+      "nuance_liste": null,
+      "voix": 24,
+      "pct_voix_exprimes": 40,
+      "sieges_cm": 1,
+      "sieges_cc": null,
+      "nb_elus": 1,
+      "tete_de_liste": {
+        "nom": "BALLART",
+        "prenom": "Diane",
+        "nom_complet": "Diane BALLART",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "BALLART",
+          "prenom": "Diane",
+          "nom_complet": "Diane BALLART",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "1"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

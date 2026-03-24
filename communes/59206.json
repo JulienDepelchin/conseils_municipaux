@@ -1,0 +1,247 @@
+{
+  "code_commune": "59206",
+  "commune": "Escaudoeuvres",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "BOUTEMAN",
+    "prenom": "Thierry",
+    "nom_complet": "Thierry BOUTEMAN",
+    "age": 49,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 2344,
+    "votants": 1566,
+    "pct_votants": 66.81,
+    "abstentions": 778,
+    "pct_abstentions": 33.19,
+    "exprimes": 1532
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "Scaldobrigiennes, Scaldobrigiens ! Continuons d'agir pour demain",
+      "libelle_abrege_liste": "Scaldobrigiennes, Scaldobrigiens ! Continuons d'agir pour demain",
+      "nuance_liste": null,
+      "voix": 1098,
+      "pct_voix_exprimes": 71.67,
+      "sieges_cm": 20,
+      "sieges_cc": 3,
+      "nb_elus": 20,
+      "tete_de_liste": {
+        "nom": "BOUTEMAN",
+        "prenom": "Thierry",
+        "nom_complet": "Thierry BOUTEMAN",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BOUTEMAN",
+          "prenom": "Thierry",
+          "nom_complet": "Thierry BOUTEMAN",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BILBAUT",
+          "prenom": "Agnès",
+          "nom_complet": "Agnès BILBAUT",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "VANESSCHE",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas VANESSCHE",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "SAKALOWSKI",
+          "prenom": "Murielle",
+          "nom_complet": "Murielle SAKALOWSKI",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "POTIRON",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal POTIRON",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "PRINCE",
+          "prenom": "Gwenaëlle",
+          "nom_complet": "Gwenaëlle PRINCE",
+          "sexe": "F",
+          "age": 30,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "CREPIN",
+          "prenom": "Régis",
+          "nom_complet": "Régis CREPIN",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "VÉRIN",
+          "prenom": "Delphine",
+          "nom_complet": "Delphine VÉRIN",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "LERICHE",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent LERICHE",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "MILLIOT",
+          "prenom": "Karine",
+          "nom_complet": "Karine MILLIOT",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DUCATILLION",
+          "prenom": "Loïc",
+          "nom_complet": "Loïc DUCATILLION",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "MAISON",
+          "prenom": "Marie-Claude",
+          "nom_complet": "Marie-Claude MAISON",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "OLIVIER",
+          "prenom": "Michaël",
+          "nom_complet": "Michaël OLIVIER",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "CAUDMONT",
+          "prenom": "Marie-Ange",
+          "nom_complet": "Marie-Ange CAUDMONT",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "LAINE",
+          "prenom": "Rémy",
+          "nom_complet": "Rémy LAINE",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "THUILLIEZ",
+          "prenom": "Peggy",
+          "nom_complet": "Peggy THUILLIEZ",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "LEROY",
+          "prenom": "Alain",
+          "nom_complet": "Alain LEROY",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "SÉGARD",
+          "prenom": "Martine",
+          "nom_complet": "Martine SÉGARD",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "DENIS",
+          "prenom": "Jean-Marc",
+          "nom_complet": "Jean-Marc DENIS",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "DORIGNY",
+          "prenom": "Romane Rachel",
+          "nom_complet": "Romane Rachel DORIGNY",
+          "sexe": "F",
+          "age": 20,
+          "rang_liste": "20"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "UN NOUVEAU SOUFFLE POUR ESCAUDOEUVRES",
+      "libelle_abrege_liste": "UN NOUVEAU SOUFFLE POUR ESCAUDOEUVRES",
+      "nuance_liste": null,
+      "voix": 434,
+      "pct_voix_exprimes": 28.33,
+      "sieges_cm": 3,
+      "sieges_cc": 0,
+      "nb_elus": 3,
+      "tete_de_liste": {
+        "nom": "EGO",
+        "prenom": "Patrice",
+        "nom_complet": "Patrice EGO",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "EGO",
+          "prenom": "Patrice",
+          "nom_complet": "Patrice EGO",
+          "sexe": "M",
+          "age": 74,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "TOUDIC",
+          "prenom": "Beverley",
+          "nom_complet": "Beverley TOUDIC",
+          "sexe": "F",
+          "age": 31,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LECLAIR",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick LECLAIR",
+          "sexe": "M",
+          "age": 77,
+          "rang_liste": "3"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

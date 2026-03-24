@@ -1,0 +1,99 @@
+{
+  "code_commune": "62079",
+  "commune": "Bancourt",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "THIEULOT",
+    "prenom": "Gérard",
+    "nom_complet": "Gérard THIEULOT",
+    "age": 63,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 63,
+    "votants": 50,
+    "pct_votants": 79.37,
+    "abstentions": 13,
+    "pct_abstentions": 20.63,
+    "exprimes": 43
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Ensemble pour Bancourt",
+      "libelle_abrege_liste": "Ensemble pour Bancourt",
+      "nuance_liste": null,
+      "voix": 43,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 7,
+      "sieges_cc": null,
+      "nb_elus": 7,
+      "tete_de_liste": {
+        "nom": "THIEULOT",
+        "prenom": "Gérard",
+        "nom_complet": "Gérard THIEULOT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "THIEULOT",
+          "prenom": "Gérard",
+          "nom_complet": "Gérard THIEULOT",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "PONCHEL",
+          "prenom": "Christelle",
+          "nom_complet": "Christelle PONCHEL",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "ROUSERE",
+          "prenom": "Bernard",
+          "nom_complet": "Bernard ROUSERE",
+          "sexe": "M",
+          "age": 75,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BLAEVOET",
+          "prenom": "Amandine",
+          "nom_complet": "Amandine BLAEVOET",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LEJOSNE-LALIN",
+          "prenom": "Julien",
+          "nom_complet": "Julien LEJOSNE-LALIN",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "COMPAGNON",
+          "prenom": "Angélique",
+          "nom_complet": "Angélique COMPAGNON",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "LAIR",
+          "prenom": "Grégoire",
+          "nom_complet": "Grégoire LAIR",
+          "sexe": "M",
+          "age": 30,
+          "rang_liste": "7"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

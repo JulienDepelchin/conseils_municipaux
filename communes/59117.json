@@ -1,0 +1,163 @@
+{
+  "code_commune": "59117",
+  "commune": "Bugnicourt",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "SALLIO",
+    "prenom": "Michel",
+    "nom_complet": "Michel SALLIO",
+    "age": 67,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 839,
+    "votants": 513,
+    "pct_votants": 61.14,
+    "abstentions": 326,
+    "pct_abstentions": 38.86,
+    "exprimes": 409
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "BUGNICOURT UN VILLAGE QUI NOUS RASSEMBLE",
+      "libelle_abrege_liste": "BUGNICOURT UN VILLAGE QUI NOUS RASSEMBLE",
+      "nuance_liste": null,
+      "voix": 409,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": 1,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "SALLIO",
+        "prenom": "Michel",
+        "nom_complet": "Michel SALLIO",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "SALLIO",
+          "prenom": "Michel",
+          "nom_complet": "Michel SALLIO",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "PHILIPPE",
+          "prenom": "Magalie",
+          "nom_complet": "Magalie PHILIPPE",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "USAI",
+          "prenom": "Thierry",
+          "nom_complet": "Thierry USAI",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "CHARLEZ",
+          "prenom": "Emmanuelle",
+          "nom_complet": "Emmanuelle CHARLEZ",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DUFOUR",
+          "prenom": "Daniel",
+          "nom_complet": "Daniel DUFOUR",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "HAQUETTE",
+          "prenom": "Gaëlle",
+          "nom_complet": "Gaëlle HAQUETTE",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DUCCESCHI",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick DUCCESCHI",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "MICHEL",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie MICHEL",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "MARCHESAN",
+          "prenom": "David",
+          "nom_complet": "David MARCHESAN",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "PIROTTE-BLERVACQ",
+          "prenom": "Lolita",
+          "nom_complet": "Lolita PIROTTE-BLERVACQ",
+          "sexe": "F",
+          "age": 25,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DELBART",
+          "prenom": "Sebastien",
+          "nom_complet": "Sebastien DELBART",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "BRIEUX",
+          "prenom": "Ingrid",
+          "nom_complet": "Ingrid BRIEUX",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "MICHEL",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe MICHEL",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "MASCAUX",
+          "prenom": "Tatiana",
+          "nom_complet": "Tatiana MASCAUX",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "LESNE",
+          "prenom": "Frederic",
+          "nom_complet": "Frederic LESNE",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

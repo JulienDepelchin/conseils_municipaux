@@ -1,0 +1,163 @@
+{
+  "code_commune": "62292",
+  "commune": "Elnes",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "DELATTRE",
+    "prenom": "Jacques",
+    "nom_complet": "Jacques DELATTRE",
+    "age": 71,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 656,
+    "votants": 396,
+    "pct_votants": 60.37,
+    "abstentions": 260,
+    "pct_abstentions": 39.63,
+    "exprimes": 318
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Ensemble continuons pour l'avenir d'Elnes \"soyons solidaires\"",
+      "libelle_abrege_liste": "Ensemble continuons pour l'avenir d'Elnes \"soyons solidaires\"",
+      "nuance_liste": null,
+      "voix": 318,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "DELATTRE",
+        "prenom": "Jacques",
+        "nom_complet": "Jacques DELATTRE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DELATTRE",
+          "prenom": "Jacques",
+          "nom_complet": "Jacques DELATTRE",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DUCROCQ",
+          "prenom": "Emeline",
+          "nom_complet": "Emeline DUCROCQ",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DEGAND",
+          "prenom": "Claudy",
+          "nom_complet": "Claudy DEGAND",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "CROMBET",
+          "prenom": "Roselyne",
+          "nom_complet": "Roselyne CROMBET",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "GASPART",
+          "prenom": "Jean-Pierre",
+          "nom_complet": "Jean-Pierre GASPART",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "PRUVOST",
+          "prenom": "Marielle",
+          "nom_complet": "Marielle PRUVOST",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BERNARD",
+          "prenom": "Jean-Marc",
+          "nom_complet": "Jean-Marc BERNARD",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "COLLET",
+          "prenom": "Sandrine",
+          "nom_complet": "Sandrine COLLET",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "RINCHEVAL",
+          "prenom": "Romain",
+          "nom_complet": "Romain RINCHEVAL",
+          "sexe": "M",
+          "age": 18,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "VASSEUR",
+          "prenom": "Eugénie",
+          "nom_complet": "Eugénie VASSEUR",
+          "sexe": "F",
+          "age": 33,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "MILHAMONT",
+          "prenom": "Jean-Marie",
+          "nom_complet": "Jean-Marie MILHAMONT",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "LEMAITRE",
+          "prenom": "Vanessa",
+          "nom_complet": "Vanessa LEMAITRE",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "VIVIEN",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier VIVIEN",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "CUVELLIER",
+          "prenom": "Doriane",
+          "nom_complet": "Doriane CUVELLIER",
+          "sexe": "F",
+          "age": 30,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "CARDON",
+          "prenom": "Jérémy",
+          "nom_complet": "Jérémy CARDON",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

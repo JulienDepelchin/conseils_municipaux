@@ -1,0 +1,163 @@
+{
+  "code_commune": "59637",
+  "commune": "Wandignies-Hamage",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "SIECZKAREK",
+    "prenom": "Jean-Michel",
+    "nom_complet": "Jean-Michel SIECZKAREK",
+    "age": 71,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 971,
+    "votants": 510,
+    "pct_votants": 52.52,
+    "abstentions": 461,
+    "pct_abstentions": 47.48,
+    "exprimes": 436
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Wandinamageois, l'avenir avec nous",
+      "libelle_abrege_liste": "Wandinamageois, l'avenir avec nous",
+      "nuance_liste": null,
+      "voix": 436,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": 1,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "SIECZKAREK",
+        "prenom": "Jean-Michel",
+        "nom_complet": "Jean-Michel SIECZKAREK",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "SIECZKAREK",
+          "prenom": "Jean-Michel",
+          "nom_complet": "Jean-Michel SIECZKAREK",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BRUYERE",
+          "prenom": "Christine",
+          "nom_complet": "Christine BRUYERE",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "KAZMIERCZAK",
+          "prenom": "Jean-Michel",
+          "nom_complet": "Jean-Michel KAZMIERCZAK",
+          "sexe": "M",
+          "age": 75,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "MANCHE",
+          "prenom": "Séverine",
+          "nom_complet": "Séverine MANCHE",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "PILLOT",
+          "prenom": "Marc",
+          "nom_complet": "Marc PILLOT",
+          "sexe": "M",
+          "age": 77,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "PLUMECOCQ",
+          "prenom": "Priscilla",
+          "nom_complet": "Priscilla PLUMECOCQ",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "FLEURQUIN",
+          "prenom": "Didier",
+          "nom_complet": "Didier FLEURQUIN",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "BRASSART",
+          "prenom": "Marcelle",
+          "nom_complet": "Marcelle BRASSART",
+          "sexe": "F",
+          "age": 76,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DELASSUS",
+          "prenom": "Grégory",
+          "nom_complet": "Grégory DELASSUS",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "RATAJSKI",
+          "prenom": "Audrey",
+          "nom_complet": "Audrey RATAJSKI",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "BOUSSEMAERE",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier BOUSSEMAERE",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "BAERT",
+          "prenom": "Aurore",
+          "nom_complet": "Aurore BAERT",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "RICQUIER",
+          "prenom": "Julien",
+          "nom_complet": "Julien RICQUIER",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "LUPESCOU",
+          "prenom": "Martine",
+          "nom_complet": "Martine LUPESCOU",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "FRISON",
+          "prenom": "Erich",
+          "nom_complet": "Erich FRISON",
+          "sexe": "M",
+          "age": 74,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "code_commune": "62535",
+  "commune": "La Madelaine-sous-Montreuil",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "ROUSSEL",
+    "prenom": "Jean-François",
+    "nom_complet": "Jean-François ROUSSEL",
+    "age": 66,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 134,
+    "votants": 80,
+    "pct_votants": 59.7,
+    "abstentions": 54,
+    "pct_abstentions": 40.3,
+    "exprimes": 71
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ENSEMBLE A LA MADELAINE",
+      "libelle_abrege_liste": "ENSEMBLE A LA MADELAINE",
+      "nuance_liste": null,
+      "voix": 71,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "ROUSSEL",
+        "prenom": "Jean-François",
+        "nom_complet": "Jean-François ROUSSEL",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "ROUSSEL",
+          "prenom": "Jean-François",
+          "nom_complet": "Jean-François ROUSSEL",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "MARTEL",
+          "prenom": "Eliane",
+          "nom_complet": "Eliane MARTEL",
+          "sexe": "F",
+          "age": 76,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "MACREZ",
+          "prenom": "Daniel",
+          "nom_complet": "Daniel MACREZ",
+          "sexe": "M",
+          "age": 78,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "HENO",
+          "prenom": "Delphine",
+          "nom_complet": "Delphine HENO",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DEMAGNY",
+          "prenom": "Jean-Marie",
+          "nom_complet": "Jean-Marie DEMAGNY",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "RINGART",
+          "prenom": "Laurine",
+          "nom_complet": "Laurine RINGART",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "VICART",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe VICART",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "GARRY",
+          "prenom": "Pascale",
+          "nom_complet": "Pascale GARRY",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "MANABRE",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe MANABRE",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "MILLE",
+          "prenom": "Hélène",
+          "nom_complet": "Hélène MILLE",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "CABON",
+          "prenom": "Jean-Marc",
+          "nom_complet": "Jean-Marc CABON",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

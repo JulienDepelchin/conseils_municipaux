@@ -1,0 +1,131 @@
+{
+  "code_commune": "62022",
+  "commune": "Alincthun",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "CHIVET",
+    "prenom": "Dominique",
+    "nom_complet": "Dominique CHIVET",
+    "age": 62,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 249,
+    "votants": 155,
+    "pct_votants": 62.25,
+    "abstentions": 94,
+    "pct_abstentions": 37.75,
+    "exprimes": 133
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ALINCTHUN DEMAIN",
+      "libelle_abrege_liste": "ALINCTHUN DEMAIN",
+      "nuance_liste": null,
+      "voix": 133,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "CHIVET",
+        "prenom": "Dominique",
+        "nom_complet": "Dominique CHIVET",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "CHIVET",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique CHIVET",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "FICHAUX",
+          "prenom": "Brigitte",
+          "nom_complet": "Brigitte FICHAUX",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DELATTRE",
+          "prenom": "Benoît",
+          "nom_complet": "Benoît DELATTRE",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "SIODOS",
+          "prenom": "Dorothée",
+          "nom_complet": "Dorothée SIODOS",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "BEUTIN",
+          "prenom": "Eric",
+          "nom_complet": "Eric BEUTIN",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "HOLUIGUE",
+          "prenom": "Chantal",
+          "nom_complet": "Chantal HOLUIGUE",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "LECLERCQ",
+          "prenom": "Freddy",
+          "nom_complet": "Freddy LECLERCQ",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "PICOUT",
+          "prenom": "Christelle",
+          "nom_complet": "Christelle PICOUT",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "MASSET",
+          "prenom": "Arnaud",
+          "nom_complet": "Arnaud MASSET",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "CROQUELOIS",
+          "prenom": "Perrine",
+          "nom_complet": "Perrine CROQUELOIS",
+          "sexe": "F",
+          "age": 29,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "CALLENS",
+          "prenom": "Serge",
+          "nom_complet": "Serge CALLENS",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

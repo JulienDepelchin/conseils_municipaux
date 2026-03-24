@@ -1,0 +1,279 @@
+{
+  "code_commune": "59329",
+  "commune": "Lambres-lez-Douai",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "SANCHEZ",
+    "prenom": "Caroline",
+    "nom_complet": "Caroline SANCHEZ",
+    "age": 48,
+    "nuance": "LDVC"
+  },
+  "resultats": {
+    "inscrits": 3666,
+    "votants": 2190,
+    "pct_votants": 59.74,
+    "abstentions": 1476,
+    "pct_abstentions": 40.26,
+    "exprimes": 2107
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "LAMBRES LEZ DOUAI, CONTINUONS PLUS LOIN",
+      "libelle_abrege_liste": "LAMBRES LEZ DOUAI, CONTINUONS PLUS LOIN",
+      "nuance_liste": "LDVC",
+      "voix": 1096,
+      "pct_voix_exprimes": 52.02,
+      "sieges_cm": 21,
+      "sieges_cc": 1,
+      "nb_elus": 21,
+      "tete_de_liste": {
+        "nom": "SANCHEZ",
+        "prenom": "Caroline",
+        "nom_complet": "Caroline SANCHEZ",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "SANCHEZ",
+          "prenom": "Caroline",
+          "nom_complet": "Caroline SANCHEZ",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "WOSKALO",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe WOSKALO",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "HOGUET",
+          "prenom": "Marie-José",
+          "nom_complet": "Marie-José HOGUET",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "GUENEZ",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric GUENEZ",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "KRZYKALA",
+          "prenom": "Peggy",
+          "nom_complet": "Peggy KRZYKALA",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "CZUPRYNA",
+          "prenom": "Yaël",
+          "nom_complet": "Yaël CZUPRYNA",
+          "sexe": "M",
+          "age": 26,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "HUREZ-BEAUCHAMPS",
+          "prenom": "Caroline",
+          "nom_complet": "Caroline HUREZ-BEAUCHAMPS",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DESOR",
+          "prenom": "Jean-René",
+          "nom_complet": "Jean-René DESOR",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "JUDE",
+          "prenom": "Elisabeth",
+          "nom_complet": "Elisabeth JUDE",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "SAVARY",
+          "prenom": "Alain",
+          "nom_complet": "Alain SAVARY",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "BOLOGNA",
+          "prenom": "Natacha",
+          "nom_complet": "Natacha BOLOGNA",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "GIDASZEWSKI",
+          "prenom": "Benoit",
+          "nom_complet": "Benoit GIDASZEWSKI",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "CAUVIN",
+          "prenom": "Léa",
+          "nom_complet": "Léa CAUVIN",
+          "sexe": "F",
+          "age": 75,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "CHEVALIER",
+          "prenom": "David",
+          "nom_complet": "David CHEVALIER",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "HAMEG",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie HAMEG",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "DELATTRE",
+          "prenom": "Joël",
+          "nom_complet": "Joël DELATTRE",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "FARINE",
+          "prenom": "Marie-France",
+          "nom_complet": "Marie-France FARINE",
+          "sexe": "F",
+          "age": 72,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "RICHARD",
+          "prenom": "Alexandre",
+          "nom_complet": "Alexandre RICHARD",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "BRILLON VERDIER",
+          "prenom": "Christelle",
+          "nom_complet": "Christelle BRILLON VERDIER",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "HENNEBOIS",
+          "prenom": "Romain",
+          "nom_complet": "Romain HENNEBOIS",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "KINT",
+          "prenom": "Christiane",
+          "nom_complet": "Christiane KINT",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "21"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "LAMBRES POUR DE VRAI",
+      "libelle_abrege_liste": "LAMBRES POUR DE VRAI",
+      "nuance_liste": "LDVC",
+      "voix": 1011,
+      "pct_voix_exprimes": 47.98,
+      "sieges_cm": 6,
+      "sieges_cc": 1,
+      "nb_elus": 6,
+      "tete_de_liste": {
+        "nom": "FRENOY",
+        "prenom": "Quentin",
+        "nom_complet": "Quentin FRENOY",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "FRENOY",
+          "prenom": "Quentin",
+          "nom_complet": "Quentin FRENOY",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "KUJACH",
+          "prenom": "Marie-Claire",
+          "nom_complet": "Marie-Claire KUJACH",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "TEIL",
+          "prenom": "Jérôme",
+          "nom_complet": "Jérôme TEIL",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LAURENT",
+          "prenom": "Véronique",
+          "nom_complet": "Véronique LAURENT",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "SIDOUNI",
+          "prenom": "Mehdi",
+          "nom_complet": "Mehdi SIDOUNI",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DUTERCQ",
+          "prenom": "Audrey",
+          "nom_complet": "Audrey DUTERCQ",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "6"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

@@ -1,0 +1,195 @@
+{
+  "code_commune": "59578",
+  "commune": "Steenbecque",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "DELAIRE",
+    "prenom": "Carole",
+    "nom_complet": "Carole DELAIRE",
+    "age": 65,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1304,
+    "votants": 719,
+    "pct_votants": 55.14,
+    "abstentions": 585,
+    "pct_abstentions": 44.86,
+    "exprimes": 550
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "STEENBECQUE UNIS POUR DEMAIN",
+      "libelle_abrege_liste": "SUPD",
+      "nuance_liste": null,
+      "voix": 550,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 19,
+      "sieges_cc": 1,
+      "nb_elus": 19,
+      "tete_de_liste": {
+        "nom": "DELAIRE",
+        "prenom": "Carole",
+        "nom_complet": "Carole DELAIRE",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "DELAIRE",
+          "prenom": "Carole",
+          "nom_complet": "Carole DELAIRE",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DEWYNTER",
+          "prenom": "Jean-Jacques",
+          "nom_complet": "Jean-Jacques DEWYNTER",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "VANHOOVE",
+          "prenom": "Laurence",
+          "nom_complet": "Laurence VANHOOVE",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DEZ",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe DEZ",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DURIE-LOGEZ",
+          "prenom": "Catherine",
+          "nom_complet": "Catherine DURIE-LOGEZ",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "BAERT",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick BAERT",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BOUILLON",
+          "prenom": "Laurence",
+          "nom_complet": "Laurence BOUILLON",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DESMARETS",
+          "prenom": "Régis",
+          "nom_complet": "Régis DESMARETS",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "CARTON",
+          "prenom": "Justine",
+          "nom_complet": "Justine CARTON",
+          "sexe": "F",
+          "age": 30,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "JACQUET",
+          "prenom": "Emmanuel",
+          "nom_complet": "Emmanuel JACQUET",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DELACRESSONNIÈRE",
+          "prenom": "Sandrine",
+          "nom_complet": "Sandrine DELACRESSONNIÈRE",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "MAEGHT",
+          "prenom": "Vincent",
+          "nom_complet": "Vincent MAEGHT",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "DUTERTE",
+          "prenom": "Anaïs",
+          "nom_complet": "Anaïs DUTERTE",
+          "sexe": "F",
+          "age": 31,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "DAELDYCK",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique DAELDYCK",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "PROVO VALENCOUR",
+          "prenom": "Elisabeth",
+          "nom_complet": "Elisabeth PROVO VALENCOUR",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "LORIOT",
+          "prenom": "Auxence",
+          "nom_complet": "Auxence LORIOT",
+          "sexe": "M",
+          "age": 33,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "VILAIN",
+          "prenom": "Lydie",
+          "nom_complet": "Lydie VILAIN",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "PERLEIN",
+          "prenom": "Bertrand",
+          "nom_complet": "Bertrand PERLEIN",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "REDELBERGER",
+          "prenom": "Aline",
+          "nom_complet": "Aline REDELBERGER",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "19"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

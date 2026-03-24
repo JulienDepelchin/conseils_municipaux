@@ -1,0 +1,163 @@
+{
+  "code_commune": "59019",
+  "commune": "Artres",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "FROMONT",
+    "prenom": "Denis",
+    "nom_complet": "Denis FROMONT",
+    "age": 54,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 735,
+    "votants": 410,
+    "pct_votants": 55.78,
+    "abstentions": 325,
+    "pct_abstentions": 44.22,
+    "exprimes": 355
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ARTRES 2026 CONTINUER ET INNOVER",
+      "libelle_abrege_liste": "ARTRES 2026 CONTINUER ET INNOVER",
+      "nuance_liste": null,
+      "voix": 355,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": 1,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "FROMONT",
+        "prenom": "Denis",
+        "nom_complet": "Denis FROMONT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "FROMONT",
+          "prenom": "Denis",
+          "nom_complet": "Denis FROMONT",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LEDIEU",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle LEDIEU",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BERGAMINI",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick BERGAMINI",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BERLOS",
+          "prenom": "Magali",
+          "nom_complet": "Magali BERLOS",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "FLOQUET",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent FLOQUET",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "JACQUEMIN",
+          "prenom": "Amandine",
+          "nom_complet": "Amandine JACQUEMIN",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "LOCHU",
+          "prenom": "Jean-Paul",
+          "nom_complet": "Jean-Paul LOCHU",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "FLOQUET",
+          "prenom": "Coralie",
+          "nom_complet": "Coralie FLOQUET",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "POUILLE",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe POUILLE",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "RAMEZ",
+          "prenom": "Mélanie",
+          "nom_complet": "Mélanie RAMEZ",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "JOIGNEAUX",
+          "prenom": "Giovanni",
+          "nom_complet": "Giovanni JOIGNEAUX",
+          "sexe": "M",
+          "age": 31,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "HERKENRATH",
+          "prenom": "Lucie",
+          "nom_complet": "Lucie HERKENRATH",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "BERTELOOT",
+          "prenom": "Guillaume",
+          "nom_complet": "Guillaume BERTELOOT",
+          "sexe": "M",
+          "age": 28,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "BARA",
+          "prenom": "Marianick",
+          "nom_complet": "Marianick BARA",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "DAIRE",
+          "prenom": "Marcel",
+          "nom_complet": "Marcel DAIRE",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

@@ -1,0 +1,279 @@
+{
+  "code_commune": "59036",
+  "commune": "Avesnes-sur-Helpe",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "SEGUIN",
+    "prenom": "Sebastien",
+    "nom_complet": "Sebastien SEGUIN",
+    "age": 47,
+    "nuance": "LDVD"
+  },
+  "resultats": {
+    "inscrits": 2832,
+    "votants": 1449,
+    "pct_votants": 51.17,
+    "abstentions": 1383,
+    "pct_abstentions": 48.83,
+    "exprimes": 1389
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Ensemble continuons à bâtir Avesnes",
+      "libelle_abrege_liste": "Ensemble continuons à bâtir Avesnes",
+      "nuance_liste": "LDVD",
+      "voix": 1154,
+      "pct_voix_exprimes": 83.08,
+      "sieges_cm": 25,
+      "sieges_cc": 8,
+      "nb_elus": 25,
+      "tete_de_liste": {
+        "nom": "SEGUIN",
+        "prenom": "Sebastien",
+        "nom_complet": "Sebastien SEGUIN",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "SEGUIN",
+          "prenom": "Sebastien",
+          "nom_complet": "Sebastien SEGUIN",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "WATTEAU",
+          "prenom": "Laurence",
+          "nom_complet": "Laurence WATTEAU",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BOUDJEMA",
+          "prenom": "Benoit",
+          "nom_complet": "Benoit BOUDJEMA",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DELTOUR",
+          "prenom": "Aurelie",
+          "nom_complet": "Aurelie DELTOUR",
+          "sexe": "F",
+          "age": 27,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "VION",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno VION",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DUCARNE",
+          "prenom": "Marie",
+          "nom_complet": "Marie DUCARNE",
+          "sexe": "F",
+          "age": 74,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "ROUSSELLE",
+          "prenom": "Jacky",
+          "nom_complet": "Jacky ROUSSELLE",
+          "sexe": "M",
+          "age": 74,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "GUERRAND",
+          "prenom": "Valentine",
+          "nom_complet": "Valentine GUERRAND",
+          "sexe": "F",
+          "age": 33,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "BORCEUX",
+          "prenom": "Jimmy",
+          "nom_complet": "Jimmy BORCEUX",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "PIECHOTA",
+          "prenom": "Rosa",
+          "nom_complet": "Rosa PIECHOTA",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "VERHILLE",
+          "prenom": "Benjamin",
+          "nom_complet": "Benjamin VERHILLE",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "CATTELOT",
+          "prenom": "Anne Laure",
+          "nom_complet": "Anne Laure CATTELOT",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "TARDIVEL",
+          "prenom": "Pierrick",
+          "nom_complet": "Pierrick TARDIVEL",
+          "sexe": "M",
+          "age": 29,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "OUICI",
+          "prenom": "Mokhtaria",
+          "nom_complet": "Mokhtaria OUICI",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "CAPLIER",
+          "prenom": "Cherif",
+          "nom_complet": "Cherif CAPLIER",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "OUABEL",
+          "prenom": "Romane",
+          "nom_complet": "Romane OUABEL",
+          "sexe": "F",
+          "age": 26,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "DELSAUT",
+          "prenom": "Sebastien",
+          "nom_complet": "Sebastien DELSAUT",
+          "sexe": "M",
+          "age": 33,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "LIBIER",
+          "prenom": "Justine",
+          "nom_complet": "Justine LIBIER",
+          "sexe": "F",
+          "age": 29,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "LALLIER",
+          "prenom": "Stephane",
+          "nom_complet": "Stephane LALLIER",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "NIZET",
+          "prenom": "Noemie",
+          "nom_complet": "Noemie NIZET",
+          "sexe": "F",
+          "age": 20,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "LESCUT",
+          "prenom": "Franck",
+          "nom_complet": "Franck LESCUT",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "BELKHEIR",
+          "prenom": "Annick",
+          "nom_complet": "Annick BELKHEIR",
+          "sexe": "F",
+          "age": 70,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "RECO",
+          "prenom": "Jeremy",
+          "nom_complet": "Jeremy RECO",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "23"
+        },
+        {
+          "nom": "MOREAU",
+          "prenom": "Claudine",
+          "nom_complet": "Claudine MOREAU",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "24"
+        },
+        {
+          "nom": "BELHADJ",
+          "prenom": "Fethy",
+          "nom_complet": "Fethy BELHADJ",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "25"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "Agir pour Avesnes",
+      "libelle_abrege_liste": "Agir pour Avesnes",
+      "nuance_liste": "LDIV",
+      "voix": 235,
+      "pct_voix_exprimes": 16.92,
+      "sieges_cm": 2,
+      "sieges_cc": 0,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "LE FUR",
+        "prenom": "Philippe",
+        "nom_complet": "Philippe LE FUR",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LE FUR",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe LE FUR",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "CHRETIEN",
+          "prenom": "Marianne",
+          "nom_complet": "Marianne CHRETIEN",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

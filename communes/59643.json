@@ -1,0 +1,131 @@
+{
+  "code_commune": "59643",
+  "commune": "Warneton",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "PÉTRONIN",
+    "prenom": "Yvon",
+    "nom_complet": "Yvon PÉTRONIN",
+    "age": 68,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 201,
+    "votants": 112,
+    "pct_votants": 55.72,
+    "abstentions": 89,
+    "pct_abstentions": 44.28,
+    "exprimes": 103
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "A.P.W. Agir pour Warneton",
+      "libelle_abrege_liste": "A.P.W Agir pour Warneton",
+      "nuance_liste": null,
+      "voix": 103,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "PÉTRONIN",
+        "prenom": "Yvon",
+        "nom_complet": "Yvon PÉTRONIN",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "PÉTRONIN",
+          "prenom": "Yvon",
+          "nom_complet": "Yvon PÉTRONIN",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DELEDALLE",
+          "prenom": "Claudie",
+          "nom_complet": "Claudie DELEDALLE",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "PAREZ",
+          "prenom": "Bernard",
+          "nom_complet": "Bernard PAREZ",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LEPOUTRE",
+          "prenom": "Véronique",
+          "nom_complet": "Véronique LEPOUTRE",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "GHESTEM",
+          "prenom": "Francis",
+          "nom_complet": "Francis GHESTEM",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "GOBEYN",
+          "prenom": "Béatrice",
+          "nom_complet": "Béatrice GOBEYN",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DEAN",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas DEAN",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LAMEYSE",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie LAMEYSE",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "MAZURE",
+          "prenom": "Benoît",
+          "nom_complet": "Benoît MAZURE",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "GAUTHIER",
+          "prenom": "Laury",
+          "nom_complet": "Laury GAUTHIER",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "BEGHIN",
+          "prenom": "Rémy",
+          "nom_complet": "Rémy BEGHIN",
+          "sexe": "M",
+          "age": 28,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "code_commune": "59237",
+  "commune": "Flêtre",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "MASQUELIER",
+    "prenom": "Philippe",
+    "nom_complet": "Philippe MASQUELIER",
+    "age": 59,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 729,
+    "votants": 386,
+    "pct_votants": 52.95,
+    "abstentions": 343,
+    "pct_abstentions": 47.05,
+    "exprimes": 343
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ENSEMBLE POURSUIVONS L AVENIR DE FLETRE",
+      "libelle_abrege_liste": "EPAF",
+      "nuance_liste": null,
+      "voix": 343,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "MASQUELIER",
+        "prenom": "Philippe",
+        "nom_complet": "Philippe MASQUELIER",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "MASQUELIER",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe MASQUELIER",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DELATTRE",
+          "prenom": "Aurélie",
+          "nom_complet": "Aurélie DELATTRE",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DE CIECHI",
+          "prenom": "Paul",
+          "nom_complet": "Paul DE CIECHI",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "VAZUT",
+          "prenom": "Valérie",
+          "nom_complet": "Valérie VAZUT",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DEKIOUK",
+          "prenom": "Salim",
+          "nom_complet": "Salim DEKIOUK",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LOMBART",
+          "prenom": "Marie-Bénédicte",
+          "nom_complet": "Marie-Bénédicte LOMBART",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "MAZEPA",
+          "prenom": "Martial",
+          "nom_complet": "Martial MAZEPA",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "BELPALME",
+          "prenom": "Marie-Eve",
+          "nom_complet": "Marie-Eve BELPALME",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "VERBEKE",
+          "prenom": "Sébastien",
+          "nom_complet": "Sébastien VERBEKE",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "BÉCAERT",
+          "prenom": "Aubéri",
+          "nom_complet": "Aubéri BÉCAERT",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "VANHAECKE",
+          "prenom": "Matthieu",
+          "nom_complet": "Matthieu VANHAECKE",
+          "sexe": "M",
+          "age": 33,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "PIPO DE SOUSA",
+          "prenom": "Maria De Lurdes",
+          "nom_complet": "Maria De Lurdes PIPO DE SOUSA",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "VANMERRIS",
+          "prenom": "Benoît",
+          "nom_complet": "Benoît VANMERRIS",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "JUTTEAU",
+          "prenom": "Laure",
+          "nom_complet": "Laure JUTTEAU",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "ALLART",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe ALLART",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

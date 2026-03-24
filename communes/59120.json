@@ -1,0 +1,195 @@
+{
+  "code_commune": "59120",
+  "commune": "Caëstre",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "SCHRICKE",
+    "prenom": "Jean-Luc",
+    "nom_complet": "Jean-Luc SCHRICKE",
+    "age": 66,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 1523,
+    "votants": 777,
+    "pct_votants": 51.02,
+    "abstentions": 746,
+    "pct_abstentions": 48.98,
+    "exprimes": 697
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Au Coeur de CAESTRE",
+      "libelle_abrege_liste": "ACC",
+      "nuance_liste": null,
+      "voix": 697,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 19,
+      "sieges_cc": 1,
+      "nb_elus": 19,
+      "tete_de_liste": {
+        "nom": "SCHRICKE",
+        "prenom": "Jean-Luc",
+        "nom_complet": "Jean-Luc SCHRICKE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "SCHRICKE",
+          "prenom": "Jean-Luc",
+          "nom_complet": "Jean-Luc SCHRICKE",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DEGRAVE",
+          "prenom": "Géraldine",
+          "nom_complet": "Géraldine DEGRAVE",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "GOSSEY",
+          "prenom": "Edouard",
+          "nom_complet": "Edouard GOSSEY",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LEBLANC",
+          "prenom": "Delphine",
+          "nom_complet": "Delphine LEBLANC",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "CRINQUETTE",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe CRINQUETTE",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "VENNIN",
+          "prenom": "Dorothée",
+          "nom_complet": "Dorothée VENNIN",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "CEROUTER",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric CEROUTER",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "ROHART",
+          "prenom": "Kathy",
+          "nom_complet": "Kathy ROHART",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "LOEWENGUTH",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier LOEWENGUTH",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "PARIS",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie PARIS",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "CAROUX",
+          "prenom": "Freddy",
+          "nom_complet": "Freddy CAROUX",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "BARA",
+          "prenom": "Anne",
+          "nom_complet": "Anne BARA",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "VANGRAEFSCHEPE",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas VANGRAEFSCHEPE",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "PIETERSOONE",
+          "prenom": "Odette",
+          "nom_complet": "Odette PIETERSOONE",
+          "sexe": "F",
+          "age": 70,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "PILLOIS",
+          "prenom": "Claude",
+          "nom_complet": "Claude PILLOIS",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "TEMMERMAN",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie TEMMERMAN",
+          "sexe": "F",
+          "age": 29,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "BOULY",
+          "prenom": "Fabrice",
+          "nom_complet": "Fabrice BOULY",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "VANWAELSCAPPEL",
+          "prenom": "Patricia",
+          "nom_complet": "Patricia VANWAELSCAPPEL",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "VANOVERSCHELDE",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent VANOVERSCHELDE",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "19"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

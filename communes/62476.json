@@ -1,0 +1,183 @@
+{
+  "code_commune": "62476",
+  "commune": "Izel-lès-Equerchin",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "LEFEBVRE",
+    "prenom": "Vincent",
+    "nom_complet": "Vincent LEFEBVRE",
+    "age": 48,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 835,
+    "votants": 617,
+    "pct_votants": 73.89,
+    "abstentions": 218,
+    "pct_abstentions": 26.11,
+    "exprimes": 601
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "UN SOUFFLE NOUVEAU POUR IZEL",
+      "libelle_abrege_liste": "UN SOUFFLE NOUVEAU POUR IZEL",
+      "nuance_liste": null,
+      "voix": 357,
+      "pct_voix_exprimes": 59.4,
+      "sieges_cm": 12,
+      "sieges_cc": 1,
+      "nb_elus": 12,
+      "tete_de_liste": {
+        "nom": "LEFEBVRE",
+        "prenom": "Vincent",
+        "nom_complet": "Vincent LEFEBVRE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LEFEBVRE",
+          "prenom": "Vincent",
+          "nom_complet": "Vincent LEFEBVRE",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BACQUET",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle BACQUET",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "PARISOT",
+          "prenom": "Jean-Jacques",
+          "nom_complet": "Jean-Jacques PARISOT",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "PAGE",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie PAGE",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DELABY",
+          "prenom": "Mickaël",
+          "nom_complet": "Mickaël DELABY",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "FROMENTIN",
+          "prenom": "Angélique",
+          "nom_complet": "Angélique FROMENTIN",
+          "sexe": "F",
+          "age": 33,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "PARISOT",
+          "prenom": "Florian",
+          "nom_complet": "Florian PARISOT",
+          "sexe": "M",
+          "age": 24,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "MERVILLE",
+          "prenom": "Fidéline",
+          "nom_complet": "Fidéline MERVILLE",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DEFOSSEZ",
+          "prenom": "Grégory",
+          "nom_complet": "Grégory DEFOSSEZ",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DUMONT",
+          "prenom": "Anne",
+          "nom_complet": "Anne DUMONT",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DELMARLE",
+          "prenom": "Mickaël",
+          "nom_complet": "Mickaël DELMARLE",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "COUPE",
+          "prenom": "Myriam",
+          "nom_complet": "Myriam COUPE",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "12"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "UNIS POUR NOTRE VILLAGE",
+      "libelle_abrege_liste": "UNIS POUR NOTRE VILLAGE",
+      "nuance_liste": null,
+      "voix": 244,
+      "pct_voix_exprimes": 40.6,
+      "sieges_cm": 3,
+      "sieges_cc": 0,
+      "nb_elus": 3,
+      "tete_de_liste": {
+        "nom": "DUBOIS",
+        "prenom": "Corinne",
+        "nom_complet": "Corinne DUBOIS",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "DUBOIS",
+          "prenom": "Corinne",
+          "nom_complet": "Corinne DUBOIS",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "GILLETTE",
+          "prenom": "Eric",
+          "nom_complet": "Eric GILLETTE",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "HERMANT",
+          "prenom": "Marie-Pierre",
+          "nom_complet": "Marie-Pierre HERMANT",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "3"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

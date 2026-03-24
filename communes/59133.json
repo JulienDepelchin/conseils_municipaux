@@ -1,0 +1,163 @@
+{
+  "code_commune": "59133",
+  "commune": "Carnin",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "MARCY",
+    "prenom": "Louis",
+    "nom_complet": "Louis MARCY",
+    "age": 65,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 847,
+    "votants": 493,
+    "pct_votants": 58.21,
+    "abstentions": 354,
+    "pct_abstentions": 41.79,
+    "exprimes": 428
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Vivons Ensemble A Carnin",
+      "libelle_abrege_liste": "Vivons Ensemble A Carnin",
+      "nuance_liste": null,
+      "voix": 428,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": 1,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "MARCY",
+        "prenom": "Louis",
+        "nom_complet": "Louis MARCY",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "MARCY",
+          "prenom": "Louis",
+          "nom_complet": "Louis MARCY",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BLAS",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie BLAS",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "CAILLIEZ",
+          "prenom": "Charles",
+          "nom_complet": "Charles CAILLIEZ",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "MACÉ",
+          "prenom": "Isabelle Anne-Sophie",
+          "nom_complet": "Isabelle Anne-Sophie MACÉ",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DELEURENCE",
+          "prenom": "Pierre",
+          "nom_complet": "Pierre DELEURENCE",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "MULLIER",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique MULLIER",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BAUDIN",
+          "prenom": "Eric",
+          "nom_complet": "Eric BAUDIN",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "VAN LOVEREN",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle VAN LOVEREN",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "WAC",
+          "prenom": "Fred-Eric",
+          "nom_complet": "Fred-Eric WAC",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DUCHEMIN",
+          "prenom": "Isabelle Marguerite-Marie",
+          "nom_complet": "Isabelle Marguerite-Marie DUCHEMIN",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DRANCOURT",
+          "prenom": "Jean-Baptiste",
+          "nom_complet": "Jean-Baptiste DRANCOURT",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "DUMONT",
+          "prenom": "Angelique",
+          "nom_complet": "Angelique DUMONT",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "FONTAINE",
+          "prenom": "Camille",
+          "nom_complet": "Camille FONTAINE",
+          "sexe": "M",
+          "age": 34,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "BOUCHEMA",
+          "prenom": "Hayette",
+          "nom_complet": "Hayette BOUCHEMA",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "VILLIER",
+          "prenom": "Thomas",
+          "nom_complet": "Thomas VILLIER",
+          "sexe": "M",
+          "age": 31,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

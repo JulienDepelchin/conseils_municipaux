@@ -1,0 +1,131 @@
+{
+  "code_commune": "62212",
+  "commune": "Capelle-lès-Hesdin",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "DUVAL",
+    "prenom": "David",
+    "nom_complet": "David DUVAL",
+    "age": 55,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 342,
+    "votants": 223,
+    "pct_votants": 65.2,
+    "abstentions": 119,
+    "pct_abstentions": 34.8,
+    "exprimes": 187
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Liste menée par Mr Duval David",
+      "libelle_abrege_liste": "Liste menée par Mr Duval David",
+      "nuance_liste": null,
+      "voix": 187,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "DUVAL",
+        "prenom": "David",
+        "nom_complet": "David DUVAL",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DUVAL",
+          "prenom": "David",
+          "nom_complet": "David DUVAL",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DEREGNAUCOURT",
+          "prenom": "Valérie",
+          "nom_complet": "Valérie DEREGNAUCOURT",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DHENIN",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe DHENIN",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "CAPRON",
+          "prenom": "Fanny",
+          "nom_complet": "Fanny CAPRON",
+          "sexe": "F",
+          "age": 31,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LAGACHE",
+          "prenom": "Thierry",
+          "nom_complet": "Thierry LAGACHE",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "BETREMIEUX",
+          "prenom": "Marie",
+          "nom_complet": "Marie BETREMIEUX",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BARA",
+          "prenom": "Alain",
+          "nom_complet": "Alain BARA",
+          "sexe": "M",
+          "age": 74,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DAGUIN",
+          "prenom": "Caroline",
+          "nom_complet": "Caroline DAGUIN",
+          "sexe": "F",
+          "age": 28,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "COUSTRE",
+          "prenom": "Jean-Pierre",
+          "nom_complet": "Jean-Pierre COUSTRE",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "CAPRON",
+          "prenom": "Paulina",
+          "nom_complet": "Paulina CAPRON",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "FUSILLIER",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe FUSILLIER",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "code_commune": "62800",
+  "commune": "Souastre",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "ROUCOU",
+    "prenom": "Thierry",
+    "nom_complet": "Thierry ROUCOU",
+    "age": 62,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 278,
+    "votants": 233,
+    "pct_votants": 83.81,
+    "abstentions": 45,
+    "pct_abstentions": 16.19,
+    "exprimes": 222
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "CONTINUER A BIEN VIVRE ENSEMBLE A SOUASTRE",
+      "libelle_abrege_liste": "CONTINUER A BIEN VIVRE ENSEMBLE A SOUASTRE",
+      "nuance_liste": null,
+      "voix": 153,
+      "pct_voix_exprimes": 68.92,
+      "sieges_cm": 10,
+      "sieges_cc": null,
+      "nb_elus": 10,
+      "tete_de_liste": {
+        "nom": "ROUCOU",
+        "prenom": "Thierry",
+        "nom_complet": "Thierry ROUCOU",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "ROUCOU",
+          "prenom": "Thierry",
+          "nom_complet": "Thierry ROUCOU",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "COLLIER",
+          "prenom": "Marie-Cécile",
+          "nom_complet": "Marie-Cécile COLLIER",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LOBEL",
+          "prenom": "Stéphane",
+          "nom_complet": "Stéphane LOBEL",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LEQUETTE",
+          "prenom": "Monique",
+          "nom_complet": "Monique LEQUETTE",
+          "sexe": "F",
+          "age": 71,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LAUVAU",
+          "prenom": "Johann",
+          "nom_complet": "Johann LAUVAU",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "THERY",
+          "prenom": "Nadine",
+          "nom_complet": "Nadine THERY",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BODELET",
+          "prenom": "Jean-Jacques",
+          "nom_complet": "Jean-Jacques BODELET",
+          "sexe": "M",
+          "age": 81,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "BEUGNET",
+          "prenom": "Amélie",
+          "nom_complet": "Amélie BEUGNET",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "JOFFROY",
+          "prenom": "Alexandre",
+          "nom_complet": "Alexandre JOFFROY",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "TETART",
+          "prenom": "Marie",
+          "nom_complet": "Marie TETART",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "10"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Ensemble faisons Vivre Souastre",
+      "libelle_abrege_liste": "Ensemble faisons Vivre Souastre",
+      "nuance_liste": null,
+      "voix": 69,
+      "pct_voix_exprimes": 31.08,
+      "sieges_cm": 1,
+      "sieges_cc": null,
+      "nb_elus": 1,
+      "tete_de_liste": {
+        "nom": "DEBRAY",
+        "prenom": "Christelle",
+        "nom_complet": "Christelle DEBRAY",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "DEBRAY",
+          "prenom": "Christelle",
+          "nom_complet": "Christelle DEBRAY",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "1"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

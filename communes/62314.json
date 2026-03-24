@@ -1,0 +1,131 @@
+{
+  "code_commune": "62314",
+  "commune": "Estrée-Cauchy",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "OPIGEZ",
+    "prenom": "Dorothée",
+    "nom_complet": "Dorothée OPIGEZ",
+    "age": 51,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 283,
+    "votants": 188,
+    "pct_votants": 66.43,
+    "abstentions": 95,
+    "pct_abstentions": 33.57,
+    "exprimes": 179
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "CONTINUONS ENSEMBLE POUR ESTREE-CAUCHY",
+      "libelle_abrege_liste": "CONTINUONS ENSEMBLE POUR ESTREE-CAUCHY",
+      "nuance_liste": null,
+      "voix": 179,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "OPIGEZ",
+        "prenom": "Dorothée",
+        "nom_complet": "Dorothée OPIGEZ",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "OPIGEZ",
+          "prenom": "Dorothée",
+          "nom_complet": "Dorothée OPIGEZ",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "MATHISSART",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric MATHISSART",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BREEMERSCH",
+          "prenom": "Élise",
+          "nom_complet": "Élise BREEMERSCH",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "GRIERE",
+          "prenom": "Etienne",
+          "nom_complet": "Etienne GRIERE",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "BRIDELANCE",
+          "prenom": "Pascaline",
+          "nom_complet": "Pascaline BRIDELANCE",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DALMASSO",
+          "prenom": "Jean-Pierre",
+          "nom_complet": "Jean-Pierre DALMASSO",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BERTELOOT",
+          "prenom": "Colette",
+          "nom_complet": "Colette BERTELOOT",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "VERMEESCHE",
+          "prenom": "Marc",
+          "nom_complet": "Marc VERMEESCHE",
+          "sexe": "M",
+          "age": 29,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "BASSERY",
+          "prenom": "Valérie",
+          "nom_complet": "Valérie BASSERY",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "POMMART",
+          "prenom": "Arnaud",
+          "nom_complet": "Arnaud POMMART",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "EL BOUJJOUFI",
+          "prenom": "Najatte",
+          "nom_complet": "Najatte EL BOUJJOUFI",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

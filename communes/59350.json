@@ -1,0 +1,591 @@
+{
+  "code_commune": "59350",
+  "commune": "Lille",
+  "departement": "Nord",
+  "tour": "T2",
+  "maire": {
+    "nom": "DESLANDES",
+    "prenom": "Arnaud",
+    "nom_complet": "Arnaud DESLANDES",
+    "age": 43,
+    "nuance": "LUG"
+  },
+  "resultats": {
+    "inscrits": 126088,
+    "votants": 65951,
+    "pct_votants": 52.31,
+    "abstentions": 60137,
+    "pct_abstentions": 47.69,
+    "exprimes": 65034
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "TOUT POUR LILLE DEMAIN",
+      "libelle_abrege_liste": "TOUT POUR LILLE DEMAIN",
+      "nuance_liste": "LUG",
+      "voix": 32083,
+      "pct_voix_exprimes": 49.33,
+      "sieges_cm": 47,
+      "sieges_cc": 26,
+      "nb_elus": 47,
+      "tete_de_liste": {
+        "nom": "DESLANDES",
+        "prenom": "Arnaud",
+        "nom_complet": "Arnaud DESLANDES",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DESLANDES",
+          "prenom": "Arnaud",
+          "nom_complet": "Arnaud DESLANDES",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BRUN",
+          "prenom": "Charlotte",
+          "nom_complet": "Charlotte BRUN",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BALY",
+          "prenom": "Stéphane",
+          "nom_complet": "Stéphane BALY",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BALMELLE-DELAUZUN",
+          "prenom": "Faustine",
+          "nom_complet": "Faustine BALMELLE-DELAUZUN",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "CAREMELLE",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier CAREMELLE",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LINKENHELD",
+          "prenom": "Audrey",
+          "nom_complet": "Audrey LINKENHELD",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "AL-DANDACHI",
+          "prenom": "Maroin",
+          "nom_complet": "Maroin AL-DANDACHI",
+          "sexe": "M",
+          "age": 32,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "BADERI",
+          "prenom": "Anissa",
+          "nom_complet": "Anissa BADERI",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "LAROCHE",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric LAROCHE",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "BRESSON",
+          "prenom": "Marie-Pierre",
+          "nom_complet": "Marie-Pierre BRESSON",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "GHERBI",
+          "prenom": "Franck",
+          "nom_complet": "Franck GHERBI",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "OUALI",
+          "prenom": "Nadjah",
+          "nom_complet": "Nadjah OUALI",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "JACQUEMART",
+          "prenom": "Eddie",
+          "nom_complet": "Eddie JACQUEMART",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "HEMBERT",
+          "prenom": "Aneth",
+          "nom_complet": "Aneth HEMBERT",
+          "sexe": "F",
+          "age": 29,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "PILETTE",
+          "prenom": "Julien",
+          "nom_complet": "Julien PILETTE",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "RATELADE",
+          "prenom": "Justine",
+          "nom_complet": "Justine RATELADE",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "POIX",
+          "prenom": "Julien",
+          "nom_complet": "Julien POIX",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "JOLIET",
+          "prenom": "Beverley",
+          "nom_complet": "Beverley JOLIET",
+          "sexe": "F",
+          "age": 27,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "GUIZIOU",
+          "prenom": "Maël",
+          "nom_complet": "Maël GUIZIOU",
+          "sexe": "M",
+          "age": 32,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "BLAS",
+          "prenom": "Delphine",
+          "nom_complet": "Delphine BLAS",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "DENDIEVEL",
+          "prenom": "Stanislas",
+          "nom_complet": "Stanislas DENDIEVEL",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "COLLET",
+          "prenom": "Florence",
+          "nom_complet": "Florence COLLET",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "DAVID-BROCHEN",
+          "prenom": "Martin",
+          "nom_complet": "Martin DAVID-BROCHEN",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "23"
+        },
+        {
+          "nom": "SEDOU",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie SEDOU",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "24"
+        },
+        {
+          "nom": "MARTIN",
+          "prenom": "Valentin",
+          "nom_complet": "Valentin MARTIN",
+          "sexe": "M",
+          "age": 33,
+          "rang_liste": "25"
+        },
+        {
+          "nom": "GOFFARD",
+          "prenom": "Anne",
+          "nom_complet": "Anne GOFFARD",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "26"
+        },
+        {
+          "nom": "QUINCHEZ",
+          "prenom": "Emmanuel",
+          "nom_complet": "Emmanuel QUINCHEZ",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "27"
+        },
+        {
+          "nom": "BAH",
+          "prenom": "Amy",
+          "nom_complet": "Amy BAH",
+          "sexe": "F",
+          "age": 28,
+          "rang_liste": "28"
+        },
+        {
+          "nom": "CHASSIGNET",
+          "prenom": "Mathieu",
+          "nom_complet": "Mathieu CHASSIGNET",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "29"
+        },
+        {
+          "nom": "MARTY-ZAOMI",
+          "prenom": "Souad",
+          "nom_complet": "Souad MARTY-ZAOMI",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "30"
+        },
+        {
+          "nom": "TAISNE",
+          "prenom": "Arnaud",
+          "nom_complet": "Arnaud TAISNE",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "31"
+        },
+        {
+          "nom": "DUVOUX",
+          "prenom": "Marianne",
+          "nom_complet": "Marianne DUVOUX",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "32"
+        },
+        {
+          "nom": "MENAULT",
+          "prenom": "Jean-Claude",
+          "nom_complet": "Jean-Claude MENAULT",
+          "sexe": "M",
+          "age": 76,
+          "rang_liste": "33"
+        },
+        {
+          "nom": "NICOLAS",
+          "prenom": "Julie",
+          "nom_complet": "Julie NICOLAS",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "34"
+        },
+        {
+          "nom": "LUCAS",
+          "prenom": "Ézékiel",
+          "nom_complet": "Ézékiel LUCAS",
+          "sexe": "M",
+          "age": 21,
+          "rang_liste": "35"
+        },
+        {
+          "nom": "NIEDZWIALOWSKA",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie NIEDZWIALOWSKA",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "36"
+        },
+        {
+          "nom": "PERIN",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent PERIN",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "37"
+        },
+        {
+          "nom": "STIEVENARD",
+          "prenom": "Camille",
+          "nom_complet": "Camille STIEVENARD",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "38"
+        },
+        {
+          "nom": "HOEL",
+          "prenom": "Jérémy",
+          "nom_complet": "Jérémy HOEL",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "39"
+        },
+        {
+          "nom": "VERDUGO BEYRIE",
+          "prenom": "Laura",
+          "nom_complet": "Laura VERDUGO BEYRIE",
+          "sexe": "F",
+          "age": 32,
+          "rang_liste": "40"
+        },
+        {
+          "nom": "LEPETIT",
+          "prenom": "Stéphane",
+          "nom_complet": "Stéphane LEPETIT",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "41"
+        },
+        {
+          "nom": "DURVIN KADAK",
+          "prenom": "Agnès",
+          "nom_complet": "Agnès DURVIN KADAK",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "42"
+        },
+        {
+          "nom": "HANOH",
+          "prenom": "Franck",
+          "nom_complet": "Franck HANOH",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "43"
+        },
+        {
+          "nom": "BARGÈS",
+          "prenom": "Manon",
+          "nom_complet": "Manon BARGÈS",
+          "sexe": "F",
+          "age": 32,
+          "rang_liste": "44"
+        },
+        {
+          "nom": "AGOUNI",
+          "prenom": "Hakim",
+          "nom_complet": "Hakim AGOUNI",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "45"
+        },
+        {
+          "nom": "ROUCHET",
+          "prenom": "Margaux",
+          "nom_complet": "Margaux ROUCHET",
+          "sexe": "F",
+          "age": 32,
+          "rang_liste": "46"
+        },
+        {
+          "nom": "HERBUVAUX",
+          "prenom": "Vincent",
+          "nom_complet": "Vincent HERBUVAUX",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "47"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "9",
+      "libelle_liste": "LILLE INSOUMISE, ÉCOLOGISTE ET POPULAIRE",
+      "libelle_abrege_liste": "LILLE INSOUMISE, ÉCOLOGISTE ET POPULAIRE",
+      "nuance_liste": "LFI",
+      "voix": 21916,
+      "pct_voix_exprimes": 33.7,
+      "sieges_cm": 10,
+      "sieges_cc": 6,
+      "nb_elus": 10,
+      "tete_de_liste": {
+        "nom": "ADDOUCHE",
+        "prenom": "Lahouaria",
+        "nom_complet": "Lahouaria ADDOUCHE",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "ADDOUCHE",
+          "prenom": "Lahouaria",
+          "nom_complet": "Lahouaria ADDOUCHE",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "FOURNIER",
+          "prenom": "Lucas",
+          "nom_complet": "Lucas FOURNIER",
+          "sexe": "M",
+          "age": 26,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "GORWA-GHOMARI",
+          "prenom": "Khadija",
+          "nom_complet": "Khadija GORWA-GHOMARI",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "D'ARGY",
+          "prenom": "Roland",
+          "nom_complet": "Roland D'ARGY",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "GARCIA",
+          "prenom": "Julie",
+          "nom_complet": "Julie GARCIA",
+          "sexe": "F",
+          "age": 27,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "KOLEBACKI",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick KOLEBACKI",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BAFOULOULOU",
+          "prenom": "Yousra",
+          "nom_complet": "Yousra BAFOULOULOU",
+          "sexe": "F",
+          "age": 29,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "BENAYAD",
+          "prenom": "Stephan",
+          "nom_complet": "Stephan BENAYAD",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "GUILBERT",
+          "prenom": "Marianne",
+          "nom_complet": "Marianne GUILBERT",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "AÏTOUCHE",
+          "prenom": "Victor",
+          "nom_complet": "Victor AÏTOUCHE",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "10"
+        }
+      ],
+      "statut_conseil": "autre"
+    },
+    {
+      "num_panneau": "7",
+      "libelle_liste": "UNE AUTRE LILLE",
+      "libelle_abrege_liste": "UNE AUTRE LILLE",
+      "nuance_liste": "LRN",
+      "voix": 5841,
+      "pct_voix_exprimes": 8.98,
+      "sieges_cm": 2,
+      "sieges_cc": 1,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "VALET",
+        "prenom": "Matthieu",
+        "nom_complet": "Matthieu VALET",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "VALET",
+          "prenom": "Matthieu",
+          "nom_complet": "Matthieu VALET",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "MACREZ",
+          "prenom": "Ludivine",
+          "nom_complet": "Ludivine MACREZ",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "FAIRE RESPIRER LILLE",
+      "libelle_abrege_liste": "FAIRE RESPIRER LILLE",
+      "nuance_liste": "LUC",
+      "voix": 5194,
+      "pct_voix_exprimes": 7.99,
+      "sieges_cm": 2,
+      "sieges_cc": 1,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "SPILLEBOUT",
+        "prenom": "Violette",
+        "nom_complet": "Violette SPILLEBOUT",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "SPILLEBOUT",
+          "prenom": "Violette",
+          "nom_complet": "Violette SPILLEBOUT",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LESAIN",
+          "prenom": "Bertrand",
+          "nom_complet": "Bertrand LESAIN",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

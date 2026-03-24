@@ -1,0 +1,183 @@
+{
+  "code_commune": "59593",
+  "commune": "Thun-l'Evêque",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "DENOYELLE",
+    "prenom": "Jacques",
+    "nom_complet": "Jacques DENOYELLE",
+    "age": 68,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 656,
+    "votants": 492,
+    "pct_votants": 75,
+    "abstentions": 164,
+    "pct_abstentions": 25,
+    "exprimes": 481
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "AGIR POUR L'AVENIR",
+      "libelle_abrege_liste": "AGIR POUR L'AVENIR",
+      "nuance_liste": null,
+      "voix": 268,
+      "pct_voix_exprimes": 55.72,
+      "sieges_cm": 12,
+      "sieges_cc": null,
+      "nb_elus": 12,
+      "tete_de_liste": {
+        "nom": "DENOYELLE",
+        "prenom": "Jacques",
+        "nom_complet": "Jacques DENOYELLE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DENOYELLE",
+          "prenom": "Jacques",
+          "nom_complet": "Jacques DENOYELLE",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "REGNIER",
+          "prenom": "Florence",
+          "nom_complet": "Florence REGNIER",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "HASDENTEUFEL",
+          "prenom": "Yves-Noël",
+          "nom_complet": "Yves-Noël HASDENTEUFEL",
+          "sexe": "M",
+          "age": 74,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DUBREUCQ",
+          "prenom": "Jennifer",
+          "nom_complet": "Jennifer DUBREUCQ",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "GESTY",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent GESTY",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DHERBÉCOURT",
+          "prenom": "Céline",
+          "nom_complet": "Céline DHERBÉCOURT",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "LEDUC",
+          "prenom": "Jérôme",
+          "nom_complet": "Jérôme LEDUC",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "MARTIN - GRATTEPANCHE",
+          "prenom": "Marie",
+          "nom_complet": "Marie MARTIN - GRATTEPANCHE",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "FOURNIER",
+          "prenom": "Jésone",
+          "nom_complet": "Jésone FOURNIER",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DUFLOT",
+          "prenom": "Pomeline",
+          "nom_complet": "Pomeline DUFLOT",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "LANGLET",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal LANGLET",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "WILLOT - HONORÉ",
+          "prenom": "Anne-Charlotte",
+          "nom_complet": "Anne-Charlotte WILLOT - HONORÉ",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "12"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "UN NOUVEL ÉLAN POUR THUN-L'ÉVÈQUE",
+      "libelle_abrege_liste": "UN NOUVEL ÉLAN POUR THUN-L'ÉVÈQUE",
+      "nuance_liste": null,
+      "voix": 213,
+      "pct_voix_exprimes": 44.28,
+      "sieges_cm": 3,
+      "sieges_cc": null,
+      "nb_elus": 3,
+      "tete_de_liste": {
+        "nom": "HOLIN",
+        "prenom": "Hugues",
+        "nom_complet": "Hugues HOLIN",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "HOLIN",
+          "prenom": "Hugues",
+          "nom_complet": "Hugues HOLIN",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "MOITY",
+          "prenom": "Peggy",
+          "nom_complet": "Peggy MOITY",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "WALLEZ",
+          "prenom": "Ludovic",
+          "nom_complet": "Ludovic WALLEZ",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "3"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

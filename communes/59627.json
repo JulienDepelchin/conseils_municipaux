@@ -1,0 +1,203 @@
+{
+  "code_commune": "59627",
+  "commune": "Villers-Sire-Nicole",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "POURBAIX",
+    "prenom": "Hervé",
+    "nom_complet": "Hervé POURBAIX",
+    "age": 69,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 727,
+    "votants": 568,
+    "pct_votants": 78.13,
+    "abstentions": 159,
+    "pct_abstentions": 21.87,
+    "exprimes": 562
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "Esemble pour l'avenir",
+      "libelle_abrege_liste": "Esemble pour l'avenir",
+      "nuance_liste": null,
+      "voix": 314,
+      "pct_voix_exprimes": 55.87,
+      "sieges_cm": 12,
+      "sieges_cc": 1,
+      "nb_elus": 12,
+      "tete_de_liste": {
+        "nom": "POURBAIX",
+        "prenom": "Hervé",
+        "nom_complet": "Hervé POURBAIX",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "POURBAIX",
+          "prenom": "Hervé",
+          "nom_complet": "Hervé POURBAIX",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DUTOICT",
+          "prenom": "Claudine",
+          "nom_complet": "Claudine DUTOICT",
+          "sexe": "F",
+          "age": 71,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DEWITTE",
+          "prenom": "Alexandre",
+          "nom_complet": "Alexandre DEWITTE",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "APLINCOURT",
+          "prenom": "Sylviane",
+          "nom_complet": "Sylviane APLINCOURT",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "MAGNAN",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier MAGNAN",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "BAKALARZ",
+          "prenom": "Christelle",
+          "nom_complet": "Christelle BAKALARZ",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BERTIN",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique BERTIN",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "BURRINK",
+          "prenom": "Emilie",
+          "nom_complet": "Emilie BURRINK",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "JEUNIAUX",
+          "prenom": "Thierry",
+          "nom_complet": "Thierry JEUNIAUX",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "PHILIPPE",
+          "prenom": "Laurence",
+          "nom_complet": "Laurence PHILIPPE",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DELAUX",
+          "prenom": "Francis",
+          "nom_complet": "Francis DELAUX",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "BOLLUYT",
+          "prenom": "Sandrine",
+          "nom_complet": "Sandrine BOLLUYT",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "12"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "3",
+      "libelle_liste": "\"Osez la 3ème voie\"",
+      "libelle_abrege_liste": "\"Osez la 3ème voie\"",
+      "nuance_liste": null,
+      "voix": 144,
+      "pct_voix_exprimes": 25.62,
+      "sieges_cm": 2,
+      "sieges_cc": 0,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "DUBRAY",
+        "prenom": "Brigitte",
+        "nom_complet": "Brigitte DUBRAY",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "DUBRAY",
+          "prenom": "Brigitte",
+          "nom_complet": "Brigitte DUBRAY",
+          "sexe": "F",
+          "age": 71,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "FAUCONNIER",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe FAUCONNIER",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Villers un village qui nous rassemble",
+      "libelle_abrege_liste": "Villers un village qui nous rassemble",
+      "nuance_liste": null,
+      "voix": 104,
+      "pct_voix_exprimes": 18.51,
+      "sieges_cm": 1,
+      "sieges_cc": 0,
+      "nb_elus": 1,
+      "tete_de_liste": {
+        "nom": "BEAUVOIS",
+        "prenom": "James",
+        "nom_complet": "James BEAUVOIS",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BEAUVOIS",
+          "prenom": "James",
+          "nom_complet": "James BEAUVOIS",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "1"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

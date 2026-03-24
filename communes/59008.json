@@ -1,0 +1,315 @@
+{
+  "code_commune": "59008",
+  "commune": "Aniche",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "BARTOSZEK",
+    "prenom": "Xavier",
+    "nom_complet": "Xavier BARTOSZEK",
+    "age": 39,
+    "nuance": "LDVG"
+  },
+  "resultats": {
+    "inscrits": 6820,
+    "votants": 3595,
+    "pct_votants": 52.71,
+    "abstentions": 3225,
+    "pct_abstentions": 47.29,
+    "exprimes": 3534
+  },
+  "listes": [
+    {
+      "num_panneau": "3",
+      "libelle_liste": "Aniche, Notre Ville dans le coeur et dans l'action",
+      "libelle_abrege_liste": "Aniche, Notre Ville dans le coeur et dans l'action",
+      "nuance_liste": "LDVG",
+      "voix": 2443,
+      "pct_voix_exprimes": 69.13,
+      "sieges_cm": 25,
+      "sieges_cc": 7,
+      "nb_elus": 25,
+      "tete_de_liste": {
+        "nom": "BARTOSZEK",
+        "prenom": "Xavier",
+        "nom_complet": "Xavier BARTOSZEK",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BARTOSZEK",
+          "prenom": "Xavier",
+          "nom_complet": "Xavier BARTOSZEK",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "TANCA",
+          "prenom": "Jessica",
+          "nom_complet": "Jessica TANCA",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "PARIS",
+          "prenom": "David",
+          "nom_complet": "David PARIS",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LERICHE",
+          "prenom": "Catherine",
+          "nom_complet": "Catherine LERICHE",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "CAMBIER",
+          "prenom": "Yannick",
+          "nom_complet": "Yannick CAMBIER",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "STIEVENARD",
+          "prenom": "Mirtille",
+          "nom_complet": "Mirtille STIEVENARD",
+          "sexe": "F",
+          "age": 73,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "HELBECQUE",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent HELBECQUE",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "VALIN",
+          "prenom": "Marie-Thérèse",
+          "nom_complet": "Marie-Thérèse VALIN",
+          "sexe": "F",
+          "age": 70,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DEBEVE",
+          "prenom": "Jean",
+          "nom_complet": "Jean DEBEVE",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DEWITTE-BERDEG",
+          "prenom": "Davina",
+          "nom_complet": "Davina DEWITTE-BERDEG",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "BARTOZEK",
+          "prenom": "Daniel",
+          "nom_complet": "Daniel BARTOZEK",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "TAISNE",
+          "prenom": "Léone",
+          "nom_complet": "Léone TAISNE",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "FACON",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas FACON",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "CHARLON",
+          "prenom": "Christelle",
+          "nom_complet": "Christelle CHARLON",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "LEBRUN",
+          "prenom": "Ludovic",
+          "nom_complet": "Ludovic LEBRUN",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "FOUCAUT",
+          "prenom": "Lydie",
+          "nom_complet": "Lydie FOUCAUT",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "WALRAEVE",
+          "prenom": "Eric",
+          "nom_complet": "Eric WALRAEVE",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "LEFEBVRE",
+          "prenom": "Cathy",
+          "nom_complet": "Cathy LEFEBVRE",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "OMARI",
+          "prenom": "Said",
+          "nom_complet": "Said OMARI",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "BUYSSENS",
+          "prenom": "Virginie",
+          "nom_complet": "Virginie BUYSSENS",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "MASCLET",
+          "prenom": "Michel",
+          "nom_complet": "Michel MASCLET",
+          "sexe": "M",
+          "age": 74,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "HAGARD",
+          "prenom": "Alisson",
+          "nom_complet": "Alisson HAGARD",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "OTTAVIANI",
+          "prenom": "Luc",
+          "nom_complet": "Luc OTTAVIANI",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "23"
+        },
+        {
+          "nom": "TOBI",
+          "prenom": "Samia",
+          "nom_complet": "Samia TOBI",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "24"
+        },
+        {
+          "nom": "DEMARTHE",
+          "prenom": "Benoît",
+          "nom_complet": "Benoît DEMARTHE",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "25"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "Avec vous, pour Aniche",
+      "libelle_abrege_liste": "Avec vous, pour Aniche",
+      "nuance_liste": "LRN",
+      "voix": 708,
+      "pct_voix_exprimes": 20.03,
+      "sieges_cm": 3,
+      "sieges_cc": 0,
+      "nb_elus": 3,
+      "tete_de_liste": {
+        "nom": "CREPIN",
+        "prenom": "Kevin",
+        "nom_complet": "Kevin CREPIN",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "CREPIN",
+          "prenom": "Kevin",
+          "nom_complet": "Kevin CREPIN",
+          "sexe": "M",
+          "age": 32,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "JACQUEMART",
+          "prenom": "Gisèle",
+          "nom_complet": "Gisèle JACQUEMART",
+          "sexe": "F",
+          "age": 71,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DAVRIN",
+          "prenom": "Denis",
+          "nom_complet": "Denis DAVRIN",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "3"
+        }
+      ],
+      "statut_conseil": "autre"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Un nouveau regard sur Aniche",
+      "libelle_abrege_liste": "Un nouveau regard sur Aniche",
+      "nuance_liste": "LDVC",
+      "voix": 383,
+      "pct_voix_exprimes": 10.84,
+      "sieges_cm": 1,
+      "sieges_cc": 0,
+      "nb_elus": 1,
+      "tete_de_liste": {
+        "nom": "STIENNE",
+        "prenom": "Michel",
+        "nom_complet": "Michel STIENNE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "STIENNE",
+          "prenom": "Michel",
+          "nom_complet": "Michel STIENNE",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "1"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

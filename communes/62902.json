@@ -1,0 +1,247 @@
+{
+  "code_commune": "62902",
+  "commune": "Wizernes",
+  "departement": "Pas-de-Calais",
+  "tour": "T2",
+  "maire": {
+    "nom": "LANOY",
+    "prenom": "Dominique",
+    "nom_complet": "Dominique LANOY",
+    "age": 68,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 2670,
+    "votants": 1612,
+    "pct_votants": 60.37,
+    "abstentions": 1058,
+    "pct_abstentions": 39.63,
+    "exprimes": 1558
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "AGIR EN COMMUN POUR WIZERNES",
+      "libelle_abrege_liste": "AGIR EN COMMUN POUR WIZERNES",
+      "nuance_liste": null,
+      "voix": 953,
+      "pct_voix_exprimes": 61.17,
+      "sieges_cm": 19,
+      "sieges_cc": 2,
+      "nb_elus": 19,
+      "tete_de_liste": {
+        "nom": "LANOY",
+        "prenom": "Dominique",
+        "nom_complet": "Dominique LANOY",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LANOY",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique LANOY",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "SOULIEZ-PECRO",
+          "prenom": "Christelle",
+          "nom_complet": "Christelle SOULIEZ-PECRO",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "HERMANT",
+          "prenom": "Clément",
+          "nom_complet": "Clément HERMANT",
+          "sexe": "M",
+          "age": 33,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BOUTOILLE-DARLY",
+          "prenom": "Christine",
+          "nom_complet": "Christine BOUTOILLE-DARLY",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "VERHAEGHE",
+          "prenom": "Jean-Jacques",
+          "nom_complet": "Jean-Jacques VERHAEGHE",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LHERMITTE",
+          "prenom": "Marie-Paule",
+          "nom_complet": "Marie-Paule LHERMITTE",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "GOUDEFROYE",
+          "prenom": "Alexandre",
+          "nom_complet": "Alexandre GOUDEFROYE",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "NIDERT",
+          "prenom": "Nadege",
+          "nom_complet": "Nadege NIDERT",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "HEULLE",
+          "prenom": "William",
+          "nom_complet": "William HEULLE",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "LEFEBVRE",
+          "prenom": "Christine",
+          "nom_complet": "Christine LEFEBVRE",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "VIVIER",
+          "prenom": "David",
+          "nom_complet": "David VIVIER",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "AMBRE-CLETON",
+          "prenom": "Alexandra",
+          "nom_complet": "Alexandra AMBRE-CLETON",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "DEMARTHE",
+          "prenom": "Vincent",
+          "nom_complet": "Vincent DEMARTHE",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "LAMBERT",
+          "prenom": "Martine",
+          "nom_complet": "Martine LAMBERT",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "CARRE",
+          "prenom": "Mickaël",
+          "nom_complet": "Mickaël CARRE",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "LHEUREUX",
+          "prenom": "Sabine",
+          "nom_complet": "Sabine LHEUREUX",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "DANNEL",
+          "prenom": "Jeremy",
+          "nom_complet": "Jeremy DANNEL",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "DENIS",
+          "prenom": "Maryline",
+          "nom_complet": "Maryline DENIS",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "CONSEIL",
+          "prenom": "Jacques",
+          "nom_complet": "Jacques CONSEIL",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "19"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "Un nouveau souffle pour Wizernes",
+      "libelle_abrege_liste": "Un nouveau souffle pour Wizernes",
+      "nuance_liste": null,
+      "voix": 605,
+      "pct_voix_exprimes": 38.83,
+      "sieges_cm": 4,
+      "sieges_cc": 0,
+      "nb_elus": 4,
+      "tete_de_liste": {
+        "nom": "BRUNET",
+        "prenom": "Laurent",
+        "nom_complet": "Laurent BRUNET",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BRUNET",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent BRUNET",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "VASSEUR",
+          "prenom": "Camille",
+          "nom_complet": "Camille VASSEUR",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DIEVAL",
+          "prenom": "Jeremie",
+          "nom_complet": "Jeremie DIEVAL",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DECLERCQ",
+          "prenom": "Ingrid",
+          "nom_complet": "Ingrid DECLERCQ",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "4"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

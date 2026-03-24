@@ -1,0 +1,163 @@
+{
+  "code_commune": "59657",
+  "commune": "West-Cappel",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "LECLAIRE",
+    "prenom": "Patrice",
+    "nom_complet": "Patrice LECLAIRE",
+    "age": 62,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 489,
+    "votants": 285,
+    "pct_votants": 58.28,
+    "abstentions": 204,
+    "pct_abstentions": 41.72,
+    "exprimes": 248
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "notre village notre avenir",
+      "libelle_abrege_liste": "NVNA",
+      "nuance_liste": null,
+      "voix": 248,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "LECLAIRE",
+        "prenom": "Patrice",
+        "nom_complet": "Patrice LECLAIRE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LECLAIRE",
+          "prenom": "Patrice",
+          "nom_complet": "Patrice LECLAIRE",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "ARNOUTS",
+          "prenom": "Séverine",
+          "nom_complet": "Séverine ARNOUTS",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "CARDINAEL",
+          "prenom": "Jean-Michel",
+          "nom_complet": "Jean-Michel CARDINAEL",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "MASSE",
+          "prenom": "Corinne",
+          "nom_complet": "Corinne MASSE",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "GEERAERT",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric GEERAERT",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "CLEP",
+          "prenom": "Sylvia",
+          "nom_complet": "Sylvia CLEP",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "LEFEBVRE",
+          "prenom": "Grégory",
+          "nom_complet": "Grégory LEFEBVRE",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DEZOUTTER",
+          "prenom": "Jennifer",
+          "nom_complet": "Jennifer DEZOUTTER",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "SIX",
+          "prenom": "Rémy",
+          "nom_complet": "Rémy SIX",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DEVULDER",
+          "prenom": "Félicie",
+          "nom_complet": "Félicie DEVULDER",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DECONINCK",
+          "prenom": "Pierre",
+          "nom_complet": "Pierre DECONINCK",
+          "sexe": "M",
+          "age": 21,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "HEENDRICKXEN",
+          "prenom": "Amélie",
+          "nom_complet": "Amélie HEENDRICKXEN",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "LABROY",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe LABROY",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "SORRANT",
+          "prenom": "Francesca",
+          "nom_complet": "Francesca SORRANT",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "ROUBELAT",
+          "prenom": "Evan",
+          "nom_complet": "Evan ROUBELAT",
+          "sexe": "M",
+          "age": 23,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "code_commune": "59669",
+  "commune": "Zuytpeene",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "BELLYNCK",
+    "prenom": "Christian",
+    "nom_complet": "Christian BELLYNCK",
+    "age": 73,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 431,
+    "votants": 258,
+    "pct_votants": 59.86,
+    "abstentions": 173,
+    "pct_abstentions": 40.14,
+    "exprimes": 213
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Racines et renouveau pour Zuytpeene",
+      "libelle_abrege_liste": "RERPZ",
+      "nuance_liste": null,
+      "voix": 213,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "BELLYNCK",
+        "prenom": "Christian",
+        "nom_complet": "Christian BELLYNCK",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BELLYNCK",
+          "prenom": "Christian",
+          "nom_complet": "Christian BELLYNCK",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "FOUBE",
+          "prenom": "Marie",
+          "nom_complet": "Marie FOUBE",
+          "sexe": "F",
+          "age": 27,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BAUDENS",
+          "prenom": "Augustin",
+          "nom_complet": "Augustin BAUDENS",
+          "sexe": "M",
+          "age": 24,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "VERHAEGHE",
+          "prenom": "Charlotte",
+          "nom_complet": "Charlotte VERHAEGHE",
+          "sexe": "F",
+          "age": 30,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DESCAMPS",
+          "prenom": "César",
+          "nom_complet": "César DESCAMPS",
+          "sexe": "M",
+          "age": 25,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "YVOZ",
+          "prenom": "Marie",
+          "nom_complet": "Marie YVOZ",
+          "sexe": "F",
+          "age": 30,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DECODTS",
+          "prenom": "Jérôme",
+          "nom_complet": "Jérôme DECODTS",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "BRIDENNE",
+          "prenom": "Florine",
+          "nom_complet": "Florine BRIDENNE",
+          "sexe": "F",
+          "age": 33,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "VAESKEN",
+          "prenom": "Guillaume",
+          "nom_complet": "Guillaume VAESKEN",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "PREVOST",
+          "prenom": "Lucile",
+          "nom_complet": "Lucile PREVOST",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DESWARTE",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick DESWARTE",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "DECROCK",
+          "prenom": "Magdaléna",
+          "nom_complet": "Magdaléna DECROCK",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "DESMYTTERE",
+          "prenom": "Régis",
+          "nom_complet": "Régis DESMYTTERE",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "LANFRANCHI",
+          "prenom": "Myriam",
+          "nom_complet": "Myriam LANFRANCHI",
+          "sexe": "F",
+          "age": 69,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "BOLLE",
+          "prenom": "François",
+          "nom_complet": "François BOLLE",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

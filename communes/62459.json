@@ -1,0 +1,151 @@
+{
+  "code_commune": "62459",
+  "commune": "Houvin-Houvigneul",
+  "departement": "Pas-de-Calais",
+  "tour": "T2",
+  "maire": {
+    "nom": "JUD",
+    "prenom": "Pierre-Etienne",
+    "nom_complet": "Pierre-Etienne JUD",
+    "age": 40,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 209,
+    "votants": 191,
+    "pct_votants": 91.39,
+    "abstentions": 18,
+    "pct_abstentions": 8.61,
+    "exprimes": 186
+  },
+  "listes": [
+    {
+      "num_panneau": "3",
+      "libelle_liste": "L'harmonie retrouvée, le village embelli",
+      "libelle_abrege_liste": "L'harmonie retrouvée, le village embelli",
+      "nuance_liste": null,
+      "voix": 99,
+      "pct_voix_exprimes": 53.23,
+      "sieges_cm": 9,
+      "sieges_cc": null,
+      "nb_elus": 9,
+      "tete_de_liste": {
+        "nom": "JUD",
+        "prenom": "Pierre-Etienne",
+        "nom_complet": "Pierre-Etienne JUD",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "JUD",
+          "prenom": "Pierre-Etienne",
+          "nom_complet": "Pierre-Etienne JUD",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "PETIT",
+          "prenom": "Corinne",
+          "nom_complet": "Corinne PETIT",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DAMIENS",
+          "prenom": "Arnaud",
+          "nom_complet": "Arnaud DAMIENS",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "CAUDRELIER",
+          "prenom": "Nelly",
+          "nom_complet": "Nelly CAUDRELIER",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "VANNIEUWENHUYSE",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas VANNIEUWENHUYSE",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LEBORGNE",
+          "prenom": "Justine",
+          "nom_complet": "Justine LEBORGNE",
+          "sexe": "F",
+          "age": 23,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BILLION",
+          "prenom": "David",
+          "nom_complet": "David BILLION",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "VALENSI",
+          "prenom": "Honorine",
+          "nom_complet": "Honorine VALENSI",
+          "sexe": "F",
+          "age": 27,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "FOVET",
+          "prenom": "Eugène",
+          "nom_complet": "Eugène FOVET",
+          "sexe": "M",
+          "age": 88,
+          "rang_liste": "9"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "NOTRE ENGAGEMENT : AGIR ENSEMBLE POUR LE VILLAGE",
+      "libelle_abrege_liste": "NOTRE ENGAGEMENT : AGIR ENSEMBLE POUR LE VILLAGE",
+      "nuance_liste": null,
+      "voix": 87,
+      "pct_voix_exprimes": 46.77,
+      "sieges_cm": 2,
+      "sieges_cc": null,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "DEGOUVE",
+        "prenom": "Ludovic",
+        "nom_complet": "Ludovic DEGOUVE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DEGOUVE",
+          "prenom": "Ludovic",
+          "nom_complet": "Ludovic DEGOUVE",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "COMBE",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie COMBE",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "code_commune": "62762",
+  "commune": "Saint-Michel-sous-Bois",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "LECERF",
+    "prenom": "Rene",
+    "nom_complet": "Rene LECERF",
+    "age": 75,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 114,
+    "votants": 89,
+    "pct_votants": 78.07,
+    "abstentions": 25,
+    "pct_abstentions": 21.93,
+    "exprimes": 49
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Toujours SAINT MICHEL",
+      "libelle_abrege_liste": "Toujours SAINT MICHEL",
+      "nuance_liste": null,
+      "voix": 49,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "LECERF",
+        "prenom": "Rene",
+        "nom_complet": "Rene LECERF",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LECERF",
+          "prenom": "Rene",
+          "nom_complet": "Rene LECERF",
+          "sexe": "M",
+          "age": 75,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "CARACOTTE",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle CARACOTTE",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "CARLU",
+          "prenom": "Arnaud",
+          "nom_complet": "Arnaud CARLU",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "FEUTREL",
+          "prenom": "Christiane",
+          "nom_complet": "Christiane FEUTREL",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DOLLE",
+          "prenom": "Mickael",
+          "nom_complet": "Mickael DOLLE",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "HOCHEDE",
+          "prenom": "Aurelie",
+          "nom_complet": "Aurelie HOCHEDE",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "HOCHART",
+          "prenom": "Jerome",
+          "nom_complet": "Jerome HOCHART",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LE MENAGER",
+          "prenom": "Peggy",
+          "nom_complet": "Peggy LE MENAGER",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "PRIEZ",
+          "prenom": "Pierre",
+          "nom_complet": "Pierre PRIEZ",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "MEDELLI",
+          "prenom": "Sandrine",
+          "nom_complet": "Sandrine MEDELLI",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "SANTUNE",
+          "prenom": "Pierre",
+          "nom_complet": "Pierre SANTUNE",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

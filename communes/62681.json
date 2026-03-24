@@ -1,0 +1,163 @@
+{
+  "code_commune": "62681",
+  "commune": "Quiestède",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "TELLIER",
+    "prenom": "Alain",
+    "nom_complet": "Alain TELLIER",
+    "age": 70,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 544,
+    "votants": 372,
+    "pct_votants": 68.38,
+    "abstentions": 172,
+    "pct_abstentions": 31.62,
+    "exprimes": 326
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "QUIESTEDE VIVRE ENSEMBLE",
+      "libelle_abrege_liste": "QUIESTEDE VIVRE ENSEMBLE",
+      "nuance_liste": null,
+      "voix": 326,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "TELLIER",
+        "prenom": "Alain",
+        "nom_complet": "Alain TELLIER",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "TELLIER",
+          "prenom": "Alain",
+          "nom_complet": "Alain TELLIER",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "MUDES",
+          "prenom": "Martine",
+          "nom_complet": "Martine MUDES",
+          "sexe": "F",
+          "age": 70,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "VASSELLE",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent VASSELLE",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BOIN",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie BOIN",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "GUILBERT",
+          "prenom": "Christian",
+          "nom_complet": "Christian GUILBERT",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "BOYAVAL",
+          "prenom": "Patricia",
+          "nom_complet": "Patricia BOYAVAL",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "RÉANT",
+          "prenom": "Pierre",
+          "nom_complet": "Pierre RÉANT",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LECOCQ",
+          "prenom": "Evelyne",
+          "nom_complet": "Evelyne LECOCQ",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "COINON",
+          "prenom": "Fabrice",
+          "nom_complet": "Fabrice COINON",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "HEMBERT",
+          "prenom": "Estelle",
+          "nom_complet": "Estelle HEMBERT",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "COUVEZ",
+          "prenom": "Bernard",
+          "nom_complet": "Bernard COUVEZ",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "SIMON",
+          "prenom": "Pauline",
+          "nom_complet": "Pauline SIMON",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "VANDEN-BERGHE",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno VANDEN-BERGHE",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "LESAGE",
+          "prenom": "Loetitia",
+          "nom_complet": "Loetitia LESAGE",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "DEUX",
+          "prenom": "Cyril",
+          "nom_complet": "Cyril DEUX",
+          "sexe": "M",
+          "age": 33,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

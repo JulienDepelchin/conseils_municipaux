@@ -1,0 +1,131 @@
+{
+  "code_commune": "62085",
+  "commune": "Basseux",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "NOIRET",
+    "prenom": "Pierre-Olivier",
+    "nom_complet": "Pierre-Olivier NOIRET",
+    "age": 52,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 121,
+    "votants": 94,
+    "pct_votants": 77.69,
+    "abstentions": 27,
+    "pct_abstentions": 22.31,
+    "exprimes": 76
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "GARDONS L'AME DE BASSEUX",
+      "libelle_abrege_liste": "GARDONS L'AME DE BASSEUX",
+      "nuance_liste": null,
+      "voix": 76,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "NOIRET",
+        "prenom": "Pierre-Olivier",
+        "nom_complet": "Pierre-Olivier NOIRET",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "NOIRET",
+          "prenom": "Pierre-Olivier",
+          "nom_complet": "Pierre-Olivier NOIRET",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "HENNEQUART",
+          "prenom": "Caroline",
+          "nom_complet": "Caroline HENNEQUART",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "COSTE",
+          "prenom": "Irénée",
+          "nom_complet": "Irénée COSTE",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "WIPRETZ",
+          "prenom": "Marine",
+          "nom_complet": "Marine WIPRETZ",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "BAUDENS",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal BAUDENS",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "BONNARD",
+          "prenom": "Oriane",
+          "nom_complet": "Oriane BONNARD",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DUQUESNE",
+          "prenom": "Dylan",
+          "nom_complet": "Dylan DUQUESNE",
+          "sexe": "M",
+          "age": 27,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "GENTILE",
+          "prenom": "Marine",
+          "nom_complet": "Marine GENTILE",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DEMAILLY",
+          "prenom": "Alain",
+          "nom_complet": "Alain DEMAILLY",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "WUIOT",
+          "prenom": "Fanny",
+          "nom_complet": "Fanny WUIOT",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "PIENTON",
+          "prenom": "Mathieu",
+          "nom_complet": "Mathieu PIENTON",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

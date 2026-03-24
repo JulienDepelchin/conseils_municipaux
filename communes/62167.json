@@ -1,0 +1,131 @@
+{
+  "code_commune": "62167",
+  "commune": "Boursin",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "KIDAD",
+    "prenom": "Claude",
+    "nom_complet": "Claude KIDAD",
+    "age": 75,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 211,
+    "votants": 145,
+    "pct_votants": 68.72,
+    "abstentions": 66,
+    "pct_abstentions": 31.28,
+    "exprimes": 132
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "AGIR POUR BIEN VIVRE A BOURSIN",
+      "libelle_abrege_liste": "Agir pour bien vivre à Boursin",
+      "nuance_liste": null,
+      "voix": 132,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "KIDAD",
+        "prenom": "Claude",
+        "nom_complet": "Claude KIDAD",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "KIDAD",
+          "prenom": "Claude",
+          "nom_complet": "Claude KIDAD",
+          "sexe": "M",
+          "age": 75,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DEL MEDICO",
+          "prenom": "Myriam",
+          "nom_complet": "Myriam DEL MEDICO",
+          "sexe": "F",
+          "age": 70,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "GHYS",
+          "prenom": "Ludovic",
+          "nom_complet": "Ludovic GHYS",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "GUILLAUME",
+          "prenom": "Mélanie",
+          "nom_complet": "Mélanie GUILLAUME",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LAVOISIER",
+          "prenom": "Stéphane",
+          "nom_complet": "Stéphane LAVOISIER",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "VINCENT",
+          "prenom": "Elodie",
+          "nom_complet": "Elodie VINCENT",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DEL MEDICO",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe DEL MEDICO",
+          "sexe": "M",
+          "age": 74,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "RAULT",
+          "prenom": "Anne-Sophie",
+          "nom_complet": "Anne-Sophie RAULT",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DICQUE",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno DICQUE",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "MUSELET",
+          "prenom": "Martine",
+          "nom_complet": "Martine MUSELET",
+          "sexe": "F",
+          "age": 75,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DULOT",
+          "prenom": "Simon",
+          "nom_complet": "Simon DULOT",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

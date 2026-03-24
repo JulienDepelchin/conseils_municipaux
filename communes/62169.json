@@ -1,0 +1,131 @@
+{
+  "code_commune": "62169",
+  "commune": "Bouvelinghem",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "SENECAT",
+    "prenom": "Dominique",
+    "nom_complet": "Dominique SENECAT",
+    "age": 74,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 181,
+    "votants": 137,
+    "pct_votants": 75.69,
+    "abstentions": 44,
+    "pct_abstentions": 24.31,
+    "exprimes": 105
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Ensemble pour Bouvelinghem et ses hameaux",
+      "libelle_abrege_liste": "Ensemble pour Bouvelinghem et ses hameaux",
+      "nuance_liste": null,
+      "voix": 105,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "SENECAT",
+        "prenom": "Dominique",
+        "nom_complet": "Dominique SENECAT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "SENECAT",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique SENECAT",
+          "sexe": "M",
+          "age": 74,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "CARUYER DE BRAY",
+          "prenom": "Brigitte",
+          "nom_complet": "Brigitte CARUYER DE BRAY",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "COTTON",
+          "prenom": "Yann",
+          "nom_complet": "Yann COTTON",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "COULY",
+          "prenom": "Anne",
+          "nom_complet": "Anne COULY",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DEBOVE",
+          "prenom": "Benjamin",
+          "nom_complet": "Benjamin DEBOVE",
+          "sexe": "M",
+          "age": 34,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LEFEBVRE DEJARDIN",
+          "prenom": "Clémence",
+          "nom_complet": "Clémence LEFEBVRE DEJARDIN",
+          "sexe": "F",
+          "age": 31,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "HAVART",
+          "prenom": "Christian",
+          "nom_complet": "Christian HAVART",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "OBERT REBERGUE",
+          "prenom": "Alexandra",
+          "nom_complet": "Alexandra OBERT REBERGUE",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "MANIEZ",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas MANIEZ",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "VERLINGUE",
+          "prenom": "Pauline",
+          "nom_complet": "Pauline VERLINGUE",
+          "sexe": "F",
+          "age": 28,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "RENIEZ",
+          "prenom": "Cédric",
+          "nom_complet": "Cédric RENIEZ",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

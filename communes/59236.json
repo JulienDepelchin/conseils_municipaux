@@ -1,0 +1,151 @@
+{
+  "code_commune": "59236",
+  "commune": "Flesquières",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "JOURNET",
+    "prenom": "Billy",
+    "nom_complet": "Billy JOURNET",
+    "age": 66,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 240,
+    "votants": 200,
+    "pct_votants": 83.33,
+    "abstentions": 40,
+    "pct_abstentions": 16.67,
+    "exprimes": 196
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "ENSEMBLE POUR FLESQUIÈRES",
+      "libelle_abrege_liste": "ENSEMBLE POUR FLESQUIÈRES",
+      "nuance_liste": null,
+      "voix": 120,
+      "pct_voix_exprimes": 61.22,
+      "sieges_cm": 9,
+      "sieges_cc": null,
+      "nb_elus": 9,
+      "tete_de_liste": {
+        "nom": "JOURNET",
+        "prenom": "Billy",
+        "nom_complet": "Billy JOURNET",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "JOURNET",
+          "prenom": "Billy",
+          "nom_complet": "Billy JOURNET",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "ROUSSEZ",
+          "prenom": "Lysiane",
+          "nom_complet": "Lysiane ROUSSEZ",
+          "sexe": "F",
+          "age": 72,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DA CUNHA LOPES",
+          "prenom": "José",
+          "nom_complet": "José DA CUNHA LOPES",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "REMBERT",
+          "prenom": "Christine",
+          "nom_complet": "Christine REMBERT",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "RINGEVAL",
+          "prenom": "Pierre-Luc",
+          "nom_complet": "Pierre-Luc RINGEVAL",
+          "sexe": "M",
+          "age": 32,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DOCO",
+          "prenom": "Priscilla",
+          "nom_complet": "Priscilla DOCO",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DE VALICOURT",
+          "prenom": "Gilles",
+          "nom_complet": "Gilles DE VALICOURT",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DYPRE",
+          "prenom": "Floriane",
+          "nom_complet": "Floriane DYPRE",
+          "sexe": "F",
+          "age": 27,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "MACACLIN",
+          "prenom": "Thibaut",
+          "nom_complet": "Thibaut MACACLIN",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "9"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "UNIS POUR FLESQUIERES",
+      "libelle_abrege_liste": "UNIS POUR FLESQUIERES",
+      "nuance_liste": null,
+      "voix": 76,
+      "pct_voix_exprimes": 38.78,
+      "sieges_cm": 2,
+      "sieges_cc": null,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "LELOIR",
+        "prenom": "Fabien",
+        "nom_complet": "Fabien LELOIR",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LELOIR",
+          "prenom": "Fabien",
+          "nom_complet": "Fabien LELOIR",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "HENNINOT",
+          "prenom": "Audrey",
+          "nom_complet": "Audrey HENNINOT",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

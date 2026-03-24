@@ -1,0 +1,363 @@
+{
+  "code_commune": "59360",
+  "commune": "Loos",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "VOITURIEZ",
+    "prenom": "Anne",
+    "nom_complet": "Anne VOITURIEZ",
+    "age": 70,
+    "nuance": "LDVC"
+  },
+  "resultats": {
+    "inscrits": 13348,
+    "votants": 5881,
+    "pct_votants": 44.06,
+    "abstentions": 7467,
+    "pct_abstentions": 55.94,
+    "exprimes": 5664
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "Choisir Loos",
+      "libelle_abrege_liste": "Choisir Loos",
+      "nuance_liste": "LDVC",
+      "voix": 2945,
+      "pct_voix_exprimes": 52,
+      "sieges_cm": 27,
+      "sieges_cc": 2,
+      "nb_elus": 27,
+      "tete_de_liste": {
+        "nom": "VOITURIEZ",
+        "prenom": "Anne",
+        "nom_complet": "Anne VOITURIEZ",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "VOITURIEZ",
+          "prenom": "Anne",
+          "nom_complet": "Anne VOITURIEZ",
+          "sexe": "F",
+          "age": 70,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "MAERTENS",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe MAERTENS",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BARA",
+          "prenom": "Marie",
+          "nom_complet": "Marie BARA",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BEAUPREZ",
+          "prenom": "Edward",
+          "nom_complet": "Edward BEAUPREZ",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "FAUQUET",
+          "prenom": "Christine",
+          "nom_complet": "Christine FAUQUET",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "WALLYN",
+          "prenom": "Jean-Jacques",
+          "nom_complet": "Jean-Jacques WALLYN",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BALDEYROU",
+          "prenom": "Brigitte",
+          "nom_complet": "Brigitte BALDEYROU",
+          "sexe": "F",
+          "age": 70,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "MONTIGNIES",
+          "prenom": "Matthieu",
+          "nom_complet": "Matthieu MONTIGNIES",
+          "sexe": "M",
+          "age": 32,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "PELLEGRINO",
+          "prenom": "Letizia",
+          "nom_complet": "Letizia PELLEGRINO",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "BEN MOUSA",
+          "prenom": "Iliasse",
+          "nom_complet": "Iliasse BEN MOUSA",
+          "sexe": "M",
+          "age": 30,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "MARTEL",
+          "prenom": "Brigitte",
+          "nom_complet": "Brigitte MARTEL",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "LAMPIN",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe LAMPIN",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "BODIER",
+          "prenom": "Elisabeth",
+          "nom_complet": "Elisabeth BODIER",
+          "sexe": "F",
+          "age": 70,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "ROUSSEL",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique ROUSSEL",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "NEELZ",
+          "prenom": "Christiane",
+          "nom_complet": "Christiane NEELZ",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "DELPLACE",
+          "prenom": "Matthieu",
+          "nom_complet": "Matthieu DELPLACE",
+          "sexe": "M",
+          "age": 35,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "BOULARD",
+          "prenom": "Angélina",
+          "nom_complet": "Angélina BOULARD",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "RUMIN",
+          "prenom": "Hervé",
+          "nom_complet": "Hervé RUMIN",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "SERRURE",
+          "prenom": "Ingrid",
+          "nom_complet": "Ingrid SERRURE",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "DETERPIGNY",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas DETERPIGNY",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "GEERAERT",
+          "prenom": "Fanny",
+          "nom_complet": "Fanny GEERAERT",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "RAY",
+          "prenom": "Benjamin",
+          "nom_complet": "Benjamin RAY",
+          "sexe": "M",
+          "age": 36,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "HAECK",
+          "prenom": "Carine",
+          "nom_complet": "Carine HAECK",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "23"
+        },
+        {
+          "nom": "BRUYENNE",
+          "prenom": "Romain",
+          "nom_complet": "Romain BRUYENNE",
+          "sexe": "M",
+          "age": 33,
+          "rang_liste": "24"
+        },
+        {
+          "nom": "RONDEL",
+          "prenom": "Christelle",
+          "nom_complet": "Christelle RONDEL",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "25"
+        },
+        {
+          "nom": "TALMOUTI",
+          "prenom": "Makki",
+          "nom_complet": "Makki TALMOUTI",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "26"
+        },
+        {
+          "nom": "LEPROVOST",
+          "prenom": "Inès",
+          "nom_complet": "Inès LEPROVOST",
+          "sexe": "F",
+          "age": 20,
+          "rang_liste": "27"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Un Autre Loos Ensemble",
+      "libelle_abrege_liste": "Un Autre Loos Ensemble",
+      "nuance_liste": "LDVG",
+      "voix": 1613,
+      "pct_voix_exprimes": 28.48,
+      "sieges_cm": 5,
+      "sieges_cc": 1,
+      "nb_elus": 5,
+      "tete_de_liste": {
+        "nom": "TRÉCA",
+        "prenom": "Frédéric",
+        "nom_complet": "Frédéric TRÉCA",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "TRÉCA",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric TRÉCA",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "CONSEIL",
+          "prenom": "Valérie",
+          "nom_complet": "Valérie CONSEIL",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BOUSSEMART",
+          "prenom": "Rémi",
+          "nom_complet": "Rémi BOUSSEMART",
+          "sexe": "M",
+          "age": 26,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DHONDT",
+          "prenom": "Cécile",
+          "nom_complet": "Cécile DHONDT",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LECIAK",
+          "prenom": "Rémi",
+          "nom_complet": "Rémi LECIAK",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "5"
+        }
+      ],
+      "statut_conseil": "autre"
+    },
+    {
+      "num_panneau": "3",
+      "libelle_liste": "LOOS POPULAIRE",
+      "libelle_abrege_liste": "LOOS POPULAIRE",
+      "nuance_liste": "LFI",
+      "voix": 1106,
+      "pct_voix_exprimes": 19.53,
+      "sieges_cm": 3,
+      "sieges_cc": 0,
+      "nb_elus": 3,
+      "tete_de_liste": {
+        "nom": "SIERRA",
+        "prenom": "Nicolas",
+        "nom_complet": "Nicolas SIERRA",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "SIERRA",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas SIERRA",
+          "sexe": "M",
+          "age": 33,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "VANWALSCAPPEL",
+          "prenom": "Marion",
+          "nom_complet": "Marion VANWALSCAPPEL",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DUHOUR",
+          "prenom": "Vincent",
+          "nom_complet": "Vincent DUHOUR",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "3"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

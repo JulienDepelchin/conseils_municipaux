@@ -1,0 +1,327 @@
+{
+  "code_commune": "62643",
+  "commune": "Outreau",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "QUIQUET",
+    "prenom": "Dimitri",
+    "nom_complet": "Dimitri QUIQUET",
+    "age": 49,
+    "nuance": "LDVC"
+  },
+  "resultats": {
+    "inscrits": 10458,
+    "votants": 5483,
+    "pct_votants": 52.43,
+    "abstentions": 4975,
+    "pct_abstentions": 47.57,
+    "exprimes": 5264
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "OUTREAU C'EST VOUS",
+      "libelle_abrege_liste": "OUTREAU C'EST VOUS",
+      "nuance_liste": "LDVC",
+      "voix": 2794,
+      "pct_voix_exprimes": 53.08,
+      "sieges_cm": 26,
+      "sieges_cc": 5,
+      "nb_elus": 26,
+      "tete_de_liste": {
+        "nom": "QUIQUET",
+        "prenom": "Dimitri",
+        "nom_complet": "Dimitri QUIQUET",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "QUIQUET",
+          "prenom": "Dimitri",
+          "nom_complet": "Dimitri QUIQUET",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "MALET",
+          "prenom": "Mathilde",
+          "nom_complet": "Mathilde MALET",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LHOUMEAU",
+          "prenom": "Arnaud",
+          "nom_complet": "Arnaud LHOUMEAU",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "PONCHEL",
+          "prenom": "Chantal",
+          "nom_complet": "Chantal PONCHEL",
+          "sexe": "F",
+          "age": 70,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "GOSSELIN",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno GOSSELIN",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DIENG",
+          "prenom": "Lena",
+          "nom_complet": "Lena DIENG",
+          "sexe": "F",
+          "age": 32,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DUCLOY",
+          "prenom": "Didier",
+          "nom_complet": "Didier DUCLOY",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "VANACKERE",
+          "prenom": "Corinne",
+          "nom_complet": "Corinne VANACKERE",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "CHOCHOIS",
+          "prenom": "Alain",
+          "nom_complet": "Alain CHOCHOIS",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "LACROIX",
+          "prenom": "Pauline",
+          "nom_complet": "Pauline LACROIX",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "CHASSOT",
+          "prenom": "Cedric",
+          "nom_complet": "Cedric CHASSOT",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "DUFLOS",
+          "prenom": "Camille",
+          "nom_complet": "Camille DUFLOS",
+          "sexe": "F",
+          "age": 36,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "LEGER",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent LEGER",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "LENNELLE",
+          "prenom": "Margaux",
+          "nom_complet": "Margaux LENNELLE",
+          "sexe": "F",
+          "age": 26,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "LEBON",
+          "prenom": "Jeremy",
+          "nom_complet": "Jeremy LEBON",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "BRACQBIEN",
+          "prenom": "Maelle",
+          "nom_complet": "Maelle BRACQBIEN",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "LASSALLE",
+          "prenom": "Yannick",
+          "nom_complet": "Yannick LASSALLE",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "PARMENTIER",
+          "prenom": "Nadege",
+          "nom_complet": "Nadege PARMENTIER",
+          "sexe": "F",
+          "age": 38,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "DEFIEZ",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier DEFIEZ",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "LIVENAIS",
+          "prenom": "Jessie",
+          "nom_complet": "Jessie LIVENAIS",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "BOUTOILLE",
+          "prenom": "Fabien",
+          "nom_complet": "Fabien BOUTOILLE",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "PANNEQUIN",
+          "prenom": "Ludivine",
+          "nom_complet": "Ludivine PANNEQUIN",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "SAELENS",
+          "prenom": "Georges",
+          "nom_complet": "Georges SAELENS",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "23"
+        },
+        {
+          "nom": "ADAM",
+          "prenom": "Annabelle",
+          "nom_complet": "Annabelle ADAM",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "24"
+        },
+        {
+          "nom": "PAINSET",
+          "prenom": "David",
+          "nom_complet": "David PAINSET",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "25"
+        },
+        {
+          "nom": "BOUCHEZ",
+          "prenom": "Marie",
+          "nom_complet": "Marie BOUCHEZ",
+          "sexe": "F",
+          "age": 19,
+          "rang_liste": "26"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "AGIR POUR OUTREAU",
+      "libelle_abrege_liste": "AGIR POUR OUTREAU",
+      "nuance_liste": "LUG",
+      "voix": 2470,
+      "pct_voix_exprimes": 46.92,
+      "sieges_cm": 7,
+      "sieges_cc": 1,
+      "nb_elus": 7,
+      "tete_de_liste": {
+        "nom": "CHOCHOIS",
+        "prenom": "Sébastien",
+        "nom_complet": "Sébastien CHOCHOIS",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "CHOCHOIS",
+          "prenom": "Sébastien",
+          "nom_complet": "Sébastien CHOCHOIS",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LEROUGE",
+          "prenom": "Nadine",
+          "nom_complet": "Nadine LEROUGE",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "MERLIN",
+          "prenom": "Jonathan",
+          "nom_complet": "Jonathan MERLIN",
+          "sexe": "M",
+          "age": 33,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DELETOILLE",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie DELETOILLE",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DELATTRE",
+          "prenom": "Cédric",
+          "nom_complet": "Cédric DELATTRE",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "LEROUGE",
+          "prenom": "Angéline",
+          "nom_complet": "Angéline LEROUGE",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "ROBERT",
+          "prenom": "David",
+          "nom_complet": "David ROBERT",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "7"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

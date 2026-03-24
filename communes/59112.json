@@ -1,0 +1,347 @@
+{
+  "code_commune": "59112",
+  "commune": "Bruay-sur-l'Escaut",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "DUHAMEL",
+    "prenom": "Sylvia",
+    "nom_complet": "Sylvia DUHAMEL",
+    "age": 62,
+    "nuance": "LDVC"
+  },
+  "resultats": {
+    "inscrits": 8755,
+    "votants": 3587,
+    "pct_votants": 40.97,
+    "abstentions": 5168,
+    "pct_abstentions": 59.03,
+    "exprimes": 3475
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "CONTINUONS ENSEMBLE",
+      "libelle_abrege_liste": "CONTINUONS ENSEMBLE",
+      "nuance_liste": "LDVC",
+      "voix": 2731,
+      "pct_voix_exprimes": 78.59,
+      "sieges_cm": 30,
+      "sieges_cc": 5,
+      "nb_elus": 30,
+      "tete_de_liste": {
+        "nom": "DUHAMEL",
+        "prenom": "Sylvia",
+        "nom_complet": "Sylvia DUHAMEL",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "DUHAMEL",
+          "prenom": "Sylvia",
+          "nom_complet": "Sylvia DUHAMEL",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LEMAIRE",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal LEMAIRE",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "CARRE",
+          "prenom": "Danyla",
+          "nom_complet": "Danyla CARRE",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "WALCZAK",
+          "prenom": "Sylvain",
+          "nom_complet": "Sylvain WALCZAK",
+          "sexe": "M",
+          "age": 47,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LUDOVISI",
+          "prenom": "Brigitte",
+          "nom_complet": "Brigitte LUDOVISI",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DRUESNE",
+          "prenom": "Patrick",
+          "nom_complet": "Patrick DRUESNE",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DUPUIS",
+          "prenom": "Michèle",
+          "nom_complet": "Michèle DUPUIS",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "BIGAILLON",
+          "prenom": "Laurent",
+          "nom_complet": "Laurent BIGAILLON",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "GILBERT",
+          "prenom": "Stephanie",
+          "nom_complet": "Stephanie GILBERT",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "PRUVOST",
+          "prenom": "Jérémy",
+          "nom_complet": "Jérémy PRUVOST",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "GILSON",
+          "prenom": "Emmanuelle",
+          "nom_complet": "Emmanuelle GILSON",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "LEMAY",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric LEMAY",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "BELABDLI",
+          "prenom": "Angélique",
+          "nom_complet": "Angélique BELABDLI",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "MOULIN",
+          "prenom": "Jérôme",
+          "nom_complet": "Jérôme MOULIN",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "MENDOLA",
+          "prenom": "Nunziata",
+          "nom_complet": "Nunziata MENDOLA",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "LEGRAND",
+          "prenom": "Francis",
+          "nom_complet": "Francis LEGRAND",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "BIGAILLON",
+          "prenom": "Valérie",
+          "nom_complet": "Valérie BIGAILLON",
+          "sexe": "F",
+          "age": 59,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "GUIDEZ-EL HILAL",
+          "prenom": "Slimane",
+          "nom_complet": "Slimane GUIDEZ-EL HILAL",
+          "sexe": "M",
+          "age": 33,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "DEVELAY",
+          "prenom": "Cathy",
+          "nom_complet": "Cathy DEVELAY",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "DELCOURT",
+          "prenom": "Benjamin",
+          "nom_complet": "Benjamin DELCOURT",
+          "sexe": "M",
+          "age": 38,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "DELGARDE",
+          "prenom": "Marie-Tiphaine",
+          "nom_complet": "Marie-Tiphaine DELGARDE",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "TOPARELLI",
+          "prenom": "Michel",
+          "nom_complet": "Michel TOPARELLI",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "FLOCH",
+          "prenom": "Laura",
+          "nom_complet": "Laura FLOCH",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "23"
+        },
+        {
+          "nom": "GOSTIAUX",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe GOSTIAUX",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "24"
+        },
+        {
+          "nom": "HALIPRE",
+          "prenom": "Stéphanie",
+          "nom_complet": "Stéphanie HALIPRE",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "25"
+        },
+        {
+          "nom": "LEJOSNE",
+          "prenom": "Anthony",
+          "nom_complet": "Anthony LEJOSNE",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "26"
+        },
+        {
+          "nom": "GOUBET",
+          "prenom": "Claire",
+          "nom_complet": "Claire GOUBET",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "27"
+        },
+        {
+          "nom": "SAVARY",
+          "prenom": "Jean-Pierre",
+          "nom_complet": "Jean-Pierre SAVARY",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "28"
+        },
+        {
+          "nom": "ARENA",
+          "prenom": "Véronique",
+          "nom_complet": "Véronique ARENA",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "29"
+        },
+        {
+          "nom": "RICHEZ",
+          "prenom": "Régis",
+          "nom_complet": "Régis RICHEZ",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "30"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "BRUAY AUJOURD'HUI ET DEMAIN",
+      "libelle_abrege_liste": "BRUAY AUJOURD'HUI ET DEMAIN",
+      "nuance_liste": "LDVG",
+      "voix": 465,
+      "pct_voix_exprimes": 13.38,
+      "sieges_cm": 2,
+      "sieges_cc": 0,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "MUSY",
+        "prenom": "Frédéric",
+        "nom_complet": "Frédéric MUSY",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "MUSY",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric MUSY",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "BOSQUET",
+          "prenom": "Estelle",
+          "nom_complet": "Estelle BOSQUET",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    },
+    {
+      "num_panneau": "3",
+      "libelle_liste": "Lutte ouvrière - Le camp des travailleurs",
+      "libelle_abrege_liste": "Lutte ouvrière - Le camp des travailleurs",
+      "nuance_liste": "LEXG",
+      "voix": 279,
+      "pct_voix_exprimes": 8.03,
+      "sieges_cm": 1,
+      "sieges_cc": 0,
+      "nb_elus": 1,
+      "tete_de_liste": {
+        "nom": "MOZDZIERZ",
+        "prenom": "Dimitri",
+        "nom_complet": "Dimitri MOZDZIERZ",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "MOZDZIERZ",
+          "prenom": "Dimitri",
+          "nom_complet": "Dimitri MOZDZIERZ",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "1"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

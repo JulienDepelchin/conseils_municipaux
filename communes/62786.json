@@ -1,0 +1,131 @@
+{
+  "code_commune": "62786",
+  "commune": "Selles",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "PIERRU",
+    "prenom": "Christian",
+    "nom_complet": "Christian PIERRU",
+    "age": 67,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 239,
+    "votants": 159,
+    "pct_votants": 66.53,
+    "abstentions": 80,
+    "pct_abstentions": 33.47,
+    "exprimes": 132
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "SELLOISES, SELLOIS ENSEMBLE",
+      "libelle_abrege_liste": "SELLOISES, SELLOIS ENSEMBLE",
+      "nuance_liste": null,
+      "voix": 132,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "PIERRU",
+        "prenom": "Christian",
+        "nom_complet": "Christian PIERRU",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "PIERRU",
+          "prenom": "Christian",
+          "nom_complet": "Christian PIERRU",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "FOURRIER",
+          "prenom": "Fabienne",
+          "nom_complet": "Fabienne FOURRIER",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LEROY",
+          "prenom": "Jean-Claude",
+          "nom_complet": "Jean-Claude LEROY",
+          "sexe": "M",
+          "age": 69,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DAMIENS",
+          "prenom": "Sandrine",
+          "nom_complet": "Sandrine DAMIENS",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "CLABAUT",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe CLABAUT",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "VIDOR",
+          "prenom": "Nicole",
+          "nom_complet": "Nicole VIDOR",
+          "sexe": "F",
+          "age": 75,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "CHOCHOY",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno CHOCHOY",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "MOREAU",
+          "prenom": "Eloise",
+          "nom_complet": "Eloise MOREAU",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "CYS",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas CYS",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "GILLET",
+          "prenom": "Margaux",
+          "nom_complet": "Margaux GILLET",
+          "sexe": "F",
+          "age": 31,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DELANNOY",
+          "prenom": "Stéphane",
+          "nom_complet": "Stéphane DELANNOY",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

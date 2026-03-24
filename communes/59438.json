@@ -1,0 +1,163 @@
+{
+  "code_commune": "59438",
+  "commune": "Noyelles-sur-Escaut",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "OUENNOURE",
+    "prenom": "Jean-Jacques",
+    "nom_complet": "Jean-Jacques OUENNOURE",
+    "age": 68,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 612,
+    "votants": 410,
+    "pct_votants": 66.99,
+    "abstentions": 202,
+    "pct_abstentions": 33.01,
+    "exprimes": 365
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "NOYELLES TOUJOURS PLUS BELLE",
+      "libelle_abrege_liste": "NOYELLES TOUJOURS PLUS BELLE",
+      "nuance_liste": null,
+      "voix": 365,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "OUENNOURE",
+        "prenom": "Jean-Jacques",
+        "nom_complet": "Jean-Jacques OUENNOURE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "OUENNOURE",
+          "prenom": "Jean-Jacques",
+          "nom_complet": "Jean-Jacques OUENNOURE",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "VAILLANT",
+          "prenom": "Valérie",
+          "nom_complet": "Valérie VAILLANT",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "CAPIEZ",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric CAPIEZ",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "AGOSTINI",
+          "prenom": "Laurie",
+          "nom_complet": "Laurie AGOSTINI",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LOYEZ",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe LOYEZ",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DESOIGNIES",
+          "prenom": "Marie Pierre",
+          "nom_complet": "Marie Pierre DESOIGNIES",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BAUDUIN",
+          "prenom": "Regis",
+          "nom_complet": "Regis BAUDUIN",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DUBLING",
+          "prenom": "Laëtitia",
+          "nom_complet": "Laëtitia DUBLING",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DELEAU",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe DELEAU",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "MAILLART",
+          "prenom": "Faustine",
+          "nom_complet": "Faustine MAILLART",
+          "sexe": "F",
+          "age": 27,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "PARMENTIER",
+          "prenom": "Robert",
+          "nom_complet": "Robert PARMENTIER",
+          "sexe": "M",
+          "age": 74,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "NOEL",
+          "prenom": "Aurélie",
+          "nom_complet": "Aurélie NOEL",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "LEROY",
+          "prenom": "Christian",
+          "nom_complet": "Christian LEROY",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "PAILLAT",
+          "prenom": "Odile",
+          "nom_complet": "Odile PAILLAT",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "SAGOT",
+          "prenom": "Fabien",
+          "nom_complet": "Fabien SAGOT",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

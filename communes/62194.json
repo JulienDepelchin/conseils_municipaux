@@ -1,0 +1,295 @@
+{
+  "code_commune": "62194",
+  "commune": "Calonne-Ricouart",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "IDZIAK",
+    "prenom": "Ludovic",
+    "nom_complet": "Ludovic IDZIAK",
+    "age": 51,
+    "nuance": "LDVG"
+  },
+  "resultats": {
+    "inscrits": 4333,
+    "votants": 2359,
+    "pct_votants": 54.44,
+    "abstentions": 1974,
+    "pct_abstentions": 45.56,
+    "exprimes": 2277
+  },
+  "listes": [
+    {
+      "num_panneau": "2",
+      "libelle_liste": "CALONNE-RICOUART AVANCE, AVEC VOUS, POUR VOUS !",
+      "libelle_abrege_liste": "CALONNE-RICOUART AVANCE, AVEC VOUS, POUR VOUS !",
+      "nuance_liste": "LDVG",
+      "voix": 1750,
+      "pct_voix_exprimes": 76.86,
+      "sieges_cm": 26,
+      "sieges_cc": 2,
+      "nb_elus": 26,
+      "tete_de_liste": {
+        "nom": "IDZIAK",
+        "prenom": "Ludovic",
+        "nom_complet": "Ludovic IDZIAK",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "IDZIAK",
+          "prenom": "Ludovic",
+          "nom_complet": "Ludovic IDZIAK",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "CARINCOTTE",
+          "prenom": "Annie",
+          "nom_complet": "Annie CARINCOTTE",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "AROLD",
+          "prenom": "Didier",
+          "nom_complet": "Didier AROLD",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "CREPIEUX",
+          "prenom": "Claudette",
+          "nom_complet": "Claudette CREPIEUX",
+          "sexe": "F",
+          "age": 70,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "KMIECZAK",
+          "prenom": "Joël",
+          "nom_complet": "Joël KMIECZAK",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DELPORTE",
+          "prenom": "Delphine",
+          "nom_complet": "Delphine DELPORTE",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "BOUTTIER",
+          "prenom": "Yves",
+          "nom_complet": "Yves BOUTTIER",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DEPIN",
+          "prenom": "Michaële",
+          "nom_complet": "Michaële DEPIN",
+          "sexe": "F",
+          "age": 70,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "COFFIN",
+          "prenom": "Maurice",
+          "nom_complet": "Maurice COFFIN",
+          "sexe": "M",
+          "age": 78,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "TIRS",
+          "prenom": "Aurélie",
+          "nom_complet": "Aurélie TIRS",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "RICART",
+          "prenom": "Jonathan",
+          "nom_complet": "Jonathan RICART",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "DUCHATEAU",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie DUCHATEAU",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "LAMBERT",
+          "prenom": "Jean-Luc",
+          "nom_complet": "Jean-Luc LAMBERT",
+          "sexe": "M",
+          "age": 77,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "DANTAN",
+          "prenom": "Jacqueline",
+          "nom_complet": "Jacqueline DANTAN",
+          "sexe": "F",
+          "age": 77,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "GARNAULT",
+          "prenom": "Jean-Paul",
+          "nom_complet": "Jean-Paul GARNAULT",
+          "sexe": "M",
+          "age": 68,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "LEPORCQ",
+          "prenom": "Corinne",
+          "nom_complet": "Corinne LEPORCQ",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "BEDNAREK",
+          "prenom": "David",
+          "nom_complet": "David BEDNAREK",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "VASSEUR",
+          "prenom": "Caroline",
+          "nom_complet": "Caroline VASSEUR",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "PEZÉ",
+          "prenom": "Jean-Pierre",
+          "nom_complet": "Jean-Pierre PEZÉ",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "HERSIN",
+          "prenom": "Sandrine",
+          "nom_complet": "Sandrine HERSIN",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "DEFOSSEZ",
+          "prenom": "Gaël",
+          "nom_complet": "Gaël DEFOSSEZ",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "WAGON",
+          "prenom": "Natacha",
+          "nom_complet": "Natacha WAGON",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "LEFEBVRE",
+          "prenom": "Ludovic",
+          "nom_complet": "Ludovic LEFEBVRE",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "23"
+        },
+        {
+          "nom": "MORIEUX",
+          "prenom": "Cindy",
+          "nom_complet": "Cindy MORIEUX",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "24"
+        },
+        {
+          "nom": "BART",
+          "prenom": "Jean",
+          "nom_complet": "Jean BART",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "25"
+        },
+        {
+          "nom": "CORDIER",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie CORDIER",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "26"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "LE RENOUVEAU CALONNOIS",
+      "libelle_abrege_liste": "LE RENOUVEAU CALONNOIS",
+      "nuance_liste": "LDIV",
+      "voix": 527,
+      "pct_voix_exprimes": 23.14,
+      "sieges_cm": 3,
+      "sieges_cc": 0,
+      "nb_elus": 3,
+      "tete_de_liste": {
+        "nom": "FOURMEAUX",
+        "prenom": "Didier",
+        "nom_complet": "Didier FOURMEAUX",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "FOURMEAUX",
+          "prenom": "Didier",
+          "nom_complet": "Didier FOURMEAUX",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "GUILLOT (CHAUSSIEZ)",
+          "prenom": "Laetitia Helene",
+          "nom_complet": "Laetitia Helene GUILLOT (CHAUSSIEZ)",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "GORNIKOWSKI",
+          "prenom": "Dominique Stanislas",
+          "nom_complet": "Dominique Stanislas GORNIKOWSKI",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "3"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "code_commune": "62296",
+  "commune": "Enquin-sur-Baillons",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "LELEU",
+    "prenom": "Pierre-André",
+    "nom_complet": "Pierre-André LELEU",
+    "age": 72,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 197,
+    "votants": 146,
+    "pct_votants": 74.11,
+    "abstentions": 51,
+    "pct_abstentions": 25.89,
+    "exprimes": 104
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Ensemble pour Enquin",
+      "libelle_abrege_liste": "Ensemble pour Enquin",
+      "nuance_liste": null,
+      "voix": 104,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "LELEU",
+        "prenom": "Pierre-André",
+        "nom_complet": "Pierre-André LELEU",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "LELEU",
+          "prenom": "Pierre-André",
+          "nom_complet": "Pierre-André LELEU",
+          "sexe": "M",
+          "age": 72,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DRAIN",
+          "prenom": "Blandine",
+          "nom_complet": "Blandine DRAIN",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "LEFEBVRE",
+          "prenom": "Vincent",
+          "nom_complet": "Vincent LEFEBVRE",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "JOYEZ",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie JOYEZ",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "LELEU",
+          "prenom": "Tony",
+          "nom_complet": "Tony LELEU",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DEBOVE",
+          "prenom": "Delphine",
+          "nom_complet": "Delphine DEBOVE",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "SENESCHAL",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe SENESCHAL",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LECLERCQ MERITANI",
+          "prenom": "Véronique",
+          "nom_complet": "Véronique LECLERCQ MERITANI",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "DESCHARLES",
+          "prenom": "Jérémy",
+          "nom_complet": "Jérémy DESCHARLES",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "SEILLIER",
+          "prenom": "Louisa",
+          "nom_complet": "Louisa SEILLIER",
+          "sexe": "F",
+          "age": 32,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "PETA",
+          "prenom": "Franck",
+          "nom_complet": "Franck PETA",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

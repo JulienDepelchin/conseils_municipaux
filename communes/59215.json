@@ -1,0 +1,163 @@
+{
+  "code_commune": "59215",
+  "commune": "Estreux",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "MORELLE",
+    "prenom": "Hugues",
+    "nom_complet": "Hugues MORELLE",
+    "age": 57,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 754,
+    "votants": 491,
+    "pct_votants": 65.12,
+    "abstentions": 263,
+    "pct_abstentions": 34.88,
+    "exprimes": 454
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "UNIS pour un ESTREUX DYNAMIQUE",
+      "libelle_abrege_liste": "UNIS pour un ESTREUX DYNAMIQUE",
+      "nuance_liste": null,
+      "voix": 454,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "MORELLE",
+        "prenom": "Hugues",
+        "nom_complet": "Hugues MORELLE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "MORELLE",
+          "prenom": "Hugues",
+          "nom_complet": "Hugues MORELLE",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DI MUZIO",
+          "prenom": "Anne-Marie",
+          "nom_complet": "Anne-Marie DI MUZIO",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "MARCAILLE",
+          "prenom": "Vincent",
+          "nom_complet": "Vincent MARCAILLE",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "HEGO",
+          "prenom": "Véronique",
+          "nom_complet": "Véronique HEGO",
+          "sexe": "F",
+          "age": 48,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DZIK",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric DZIK",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "MARATIER",
+          "prenom": "Audrey",
+          "nom_complet": "Audrey MARATIER",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "CARÉ",
+          "prenom": "Bruno",
+          "nom_complet": "Bruno CARÉ",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DEGARDIN",
+          "prenom": "Anne-Clary",
+          "nom_complet": "Anne-Clary DEGARDIN",
+          "sexe": "F",
+          "age": 62,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "MIELCZAREK",
+          "prenom": "Maxime",
+          "nom_complet": "Maxime MIELCZAREK",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "SANTINELLI",
+          "prenom": "Valérie",
+          "nom_complet": "Valérie SANTINELLI",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "CARDOT",
+          "prenom": "Julien",
+          "nom_complet": "Julien CARDOT",
+          "sexe": "M",
+          "age": 43,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "CARTIGNY",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie CARTIGNY",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "POTTIER",
+          "prenom": "Florent",
+          "nom_complet": "Florent POTTIER",
+          "sexe": "M",
+          "age": 31,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "LEJEUNE",
+          "prenom": "Véronique",
+          "nom_complet": "Véronique LEJEUNE",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "DELATTRE",
+          "prenom": "Jean-Marc",
+          "nom_complet": "Jean-Marc DELATTRE",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

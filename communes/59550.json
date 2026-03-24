@@ -1,0 +1,247 @@
+{
+  "code_commune": "59550",
+  "commune": "Salomé",
+  "departement": "Nord",
+  "tour": "T2",
+  "maire": {
+    "nom": "DELAUTRE",
+    "prenom": "Vincent",
+    "nom_complet": "Vincent DELAUTRE",
+    "age": 56,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 2449,
+    "votants": 1527,
+    "pct_votants": 62.35,
+    "abstentions": 922,
+    "pct_abstentions": 37.65,
+    "exprimes": 1492
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "UNIS POUR SALOMÉ",
+      "libelle_abrege_liste": "UNIS POUR SALOMÉ",
+      "nuance_liste": null,
+      "voix": 803,
+      "pct_voix_exprimes": 53.82,
+      "sieges_cm": 18,
+      "sieges_cc": 1,
+      "nb_elus": 18,
+      "tete_de_liste": {
+        "nom": "DELAUTRE",
+        "prenom": "Vincent",
+        "nom_complet": "Vincent DELAUTRE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DELAUTRE",
+          "prenom": "Vincent",
+          "nom_complet": "Vincent DELAUTRE",
+          "sexe": "M",
+          "age": 56,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "VINCENT",
+          "prenom": "Vaiana",
+          "nom_complet": "Vaiana VINCENT",
+          "sexe": "F",
+          "age": 41,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DUCHEMIN",
+          "prenom": "Julien",
+          "nom_complet": "Julien DUCHEMIN",
+          "sexe": "M",
+          "age": 33,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "BASTIEN",
+          "prenom": "Angélique",
+          "nom_complet": "Angélique BASTIEN",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "WALLART",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric WALLART",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "CHAUSSOY",
+          "prenom": "Céline",
+          "nom_complet": "Céline CHAUSSOY",
+          "sexe": "F",
+          "age": 39,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "DELCOURT",
+          "prenom": "Michel",
+          "nom_complet": "Michel DELCOURT",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "DEVROË",
+          "prenom": "Justine",
+          "nom_complet": "Justine DEVROË",
+          "sexe": "F",
+          "age": 31,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "HANNOTEL",
+          "prenom": "Geoffrey",
+          "nom_complet": "Geoffrey HANNOTEL",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "HOCQ",
+          "prenom": "Mandy",
+          "nom_complet": "Mandy HOCQ",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "GARIN",
+          "prenom": "Bernard",
+          "nom_complet": "Bernard GARIN",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "MOYEUX",
+          "prenom": "Angélique",
+          "nom_complet": "Angélique MOYEUX",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "PIFARELY",
+          "prenom": "Alyx",
+          "nom_complet": "Alyx PIFARELY",
+          "sexe": "M",
+          "age": 33,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "MARCHAND",
+          "prenom": "Sophie",
+          "nom_complet": "Sophie MARCHAND",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "RYELANDT",
+          "prenom": "Roger",
+          "nom_complet": "Roger RYELANDT",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "PARQUET",
+          "prenom": "Dalila",
+          "nom_complet": "Dalila PARQUET",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "LEMAY",
+          "prenom": "Fabien",
+          "nom_complet": "Fabien LEMAY",
+          "sexe": "M",
+          "age": 39,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "CAPELLE",
+          "prenom": "Louise",
+          "nom_complet": "Louise CAPELLE",
+          "sexe": "F",
+          "age": 29,
+          "rang_liste": "18"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "4",
+      "libelle_liste": "SALOMÉ NOTRE VILLAGE: RURALITÉ ET MODERNITÉ",
+      "libelle_abrege_liste": "SALOMÉ NOTRE VILLAGE: RURALITÉ ET MODERNITÉ",
+      "nuance_liste": null,
+      "voix": 689,
+      "pct_voix_exprimes": 46.18,
+      "sieges_cm": 5,
+      "sieges_cc": 0,
+      "nb_elus": 5,
+      "tete_de_liste": {
+        "nom": "CANESSE",
+        "prenom": "Pierre",
+        "nom_complet": "Pierre CANESSE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "CANESSE",
+          "prenom": "Pierre",
+          "nom_complet": "Pierre CANESSE",
+          "sexe": "M",
+          "age": 77,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "PART",
+          "prenom": "Murielle",
+          "nom_complet": "Murielle PART",
+          "sexe": "F",
+          "age": 66,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "GAVORY",
+          "prenom": "Gauthier",
+          "nom_complet": "Gauthier GAVORY",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "LAVOISY",
+          "prenom": "Angélique",
+          "nom_complet": "Angélique LAVOISY",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "DEVAUX",
+          "prenom": "Hervé",
+          "nom_complet": "Hervé DEVAUX",
+          "sexe": "M",
+          "age": 58,
+          "rang_liste": "5"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

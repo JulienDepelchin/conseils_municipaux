@@ -1,0 +1,163 @@
+{
+  "code_commune": "59254",
+  "commune": "Fressain",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "SILVAIN",
+    "prenom": "Eric",
+    "nom_complet": "Eric SILVAIN",
+    "age": 46,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 703,
+    "votants": 440,
+    "pct_votants": 62.59,
+    "abstentions": 263,
+    "pct_abstentions": 37.41,
+    "exprimes": 391
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "BIEN VIVRE A FRESSAIN",
+      "libelle_abrege_liste": "BIEN VIVRE A FRESSAIN",
+      "nuance_liste": null,
+      "voix": 391,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "SILVAIN",
+        "prenom": "Eric",
+        "nom_complet": "Eric SILVAIN",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "SILVAIN",
+          "prenom": "Eric",
+          "nom_complet": "Eric SILVAIN",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LASNE",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie LASNE",
+          "sexe": "F",
+          "age": 64,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BEAUVOIS",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe BEAUVOIS",
+          "sexe": "M",
+          "age": 57,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "CUVILLIEZ POLLART",
+          "prenom": "Sandrine",
+          "nom_complet": "Sandrine CUVILLIEZ POLLART",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "FRANCOIS",
+          "prenom": "Sebastien",
+          "nom_complet": "Sebastien FRANCOIS",
+          "sexe": "M",
+          "age": 46,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "BIGET",
+          "prenom": "Delphine",
+          "nom_complet": "Delphine BIGET",
+          "sexe": "F",
+          "age": 46,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "PYPE",
+          "prenom": "Frederic",
+          "nom_complet": "Frederic PYPE",
+          "sexe": "M",
+          "age": 63,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "LAISNE",
+          "prenom": "Genevieve",
+          "nom_complet": "Genevieve LAISNE",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "LANDAS",
+          "prenom": "Romain",
+          "nom_complet": "Romain LANDAS",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "FAUQUEUX",
+          "prenom": "Cindy",
+          "nom_complet": "Cindy FAUQUEUX",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "FONDER",
+          "prenom": "Michael",
+          "nom_complet": "Michael FONDER",
+          "sexe": "M",
+          "age": 50,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "LECOMTE",
+          "prenom": "Priscilla",
+          "nom_complet": "Priscilla LECOMTE",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "FIEVET",
+          "prenom": "Thierry",
+          "nom_complet": "Thierry FIEVET",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "PLATH",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie PLATH",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "LECIGNE",
+          "prenom": "Marc",
+          "nom_complet": "Marc LECIGNE",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

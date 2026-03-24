@@ -1,0 +1,347 @@
+{
+  "code_commune": "59324",
+  "commune": "Jeumont",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "SAINT-HUILE",
+    "prenom": "Benjamin",
+    "nom_complet": "Benjamin SAINT-HUILE",
+    "age": 42,
+    "nuance": "LDVG"
+  },
+  "resultats": {
+    "inscrits": 6830,
+    "votants": 3171,
+    "pct_votants": 46.43,
+    "abstentions": 3659,
+    "pct_abstentions": 53.57,
+    "exprimes": 3107
+  },
+  "listes": [
+    {
+      "num_panneau": "3",
+      "libelle_liste": "JEUMONT, S'INVESTIR ENSEMBLE",
+      "libelle_abrege_liste": "JEUMONT, S'INVESTIR ENSEMBLE",
+      "nuance_liste": "LDVG",
+      "voix": 2204,
+      "pct_voix_exprimes": 70.94,
+      "sieges_cm": 29,
+      "sieges_cc": 6,
+      "nb_elus": 29,
+      "tete_de_liste": {
+        "nom": "SAINT-HUILE",
+        "prenom": "Benjamin",
+        "nom_complet": "Benjamin SAINT-HUILE",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "SAINT-HUILE",
+          "prenom": "Benjamin",
+          "nom_complet": "Benjamin SAINT-HUILE",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DELHORS",
+          "prenom": "Anne",
+          "nom_complet": "Anne DELHORS",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "BEAUQUEL",
+          "prenom": "Arnaud",
+          "nom_complet": "Arnaud BEAUQUEL",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "DEVILLERS",
+          "prenom": "Sylvie",
+          "nom_complet": "Sylvie DEVILLERS",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "MOTHY",
+          "prenom": "Henri",
+          "nom_complet": "Henri MOTHY",
+          "sexe": "M",
+          "age": 71,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "ARDID",
+          "prenom": "Claire",
+          "nom_complet": "Claire ARDID",
+          "sexe": "F",
+          "age": 42,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "YAHIATENE",
+          "prenom": "Karim",
+          "nom_complet": "Karim YAHIATENE",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "ARBIA",
+          "prenom": "Karima",
+          "nom_complet": "Karima ARBIA",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "GALAND",
+          "prenom": "Didier",
+          "nom_complet": "Didier GALAND",
+          "sexe": "M",
+          "age": 61,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "KHENTACHE",
+          "prenom": "Luisa",
+          "nom_complet": "Luisa KHENTACHE",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "MAURAGE",
+          "prenom": "Lionel",
+          "nom_complet": "Lionel MAURAGE",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "MORESCHI",
+          "prenom": "Marina",
+          "nom_complet": "Marina MORESCHI",
+          "sexe": "F",
+          "age": 65,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "PIRÉ",
+          "prenom": "Cyril",
+          "nom_complet": "Cyril PIRÉ",
+          "sexe": "M",
+          "age": 48,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "BOUCHER",
+          "prenom": "Caroline",
+          "nom_complet": "Caroline BOUCHER",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "TENRET",
+          "prenom": "Damien",
+          "nom_complet": "Damien TENRET",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "HASSAINI",
+          "prenom": "Isabelle",
+          "nom_complet": "Isabelle HASSAINI",
+          "sexe": "F",
+          "age": 63,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "ABDELLI",
+          "prenom": "Abderrazak",
+          "nom_complet": "Abderrazak ABDELLI",
+          "sexe": "M",
+          "age": 59,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "SOUVART",
+          "prenom": "Marie-Yolande",
+          "nom_complet": "Marie-Yolande SOUVART",
+          "sexe": "F",
+          "age": 72,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "ERIBON",
+          "prenom": "Freddy",
+          "nom_complet": "Freddy ERIBON",
+          "sexe": "M",
+          "age": 51,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "TERTAG",
+          "prenom": "Malika",
+          "nom_complet": "Malika TERTAG",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "FRERE",
+          "prenom": "Alexandre",
+          "nom_complet": "Alexandre FRERE",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "GUCCIONE",
+          "prenom": "Patricia",
+          "nom_complet": "Patricia GUCCIONE",
+          "sexe": "F",
+          "age": 70,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "BRAVIN",
+          "prenom": "Anthony",
+          "nom_complet": "Anthony BRAVIN",
+          "sexe": "M",
+          "age": 37,
+          "rang_liste": "23"
+        },
+        {
+          "nom": "ERBICELLA",
+          "prenom": "Virginie",
+          "nom_complet": "Virginie ERBICELLA",
+          "sexe": "F",
+          "age": 47,
+          "rang_liste": "24"
+        },
+        {
+          "nom": "BRICOUT",
+          "prenom": "Daniel",
+          "nom_complet": "Daniel BRICOUT",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "25"
+        },
+        {
+          "nom": "LEPORCQ",
+          "prenom": "Cathy",
+          "nom_complet": "Cathy LEPORCQ",
+          "sexe": "F",
+          "age": 37,
+          "rang_liste": "26"
+        },
+        {
+          "nom": "LELIEVRE",
+          "prenom": "Jonathan",
+          "nom_complet": "Jonathan LELIEVRE",
+          "sexe": "M",
+          "age": 40,
+          "rang_liste": "27"
+        },
+        {
+          "nom": "MEERT",
+          "prenom": "Laurine",
+          "nom_complet": "Laurine MEERT",
+          "sexe": "F",
+          "age": 21,
+          "rang_liste": "28"
+        },
+        {
+          "nom": "CREPIN",
+          "prenom": "Jonathan",
+          "nom_complet": "Jonathan CREPIN",
+          "sexe": "M",
+          "age": 41,
+          "rang_liste": "29"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "1",
+      "libelle_liste": "Ici c'est Jeumont",
+      "libelle_abrege_liste": "ici c'est Jeumont",
+      "nuance_liste": "LDIV",
+      "voix": 473,
+      "pct_voix_exprimes": 15.22,
+      "sieges_cm": 2,
+      "sieges_cc": 0,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "BIAIS",
+        "prenom": "Philippe",
+        "nom_complet": "Philippe BIAIS",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BIAIS",
+          "prenom": "Philippe",
+          "nom_complet": "Philippe BIAIS",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "KRUG",
+          "prenom": "Valerie",
+          "nom_complet": "Valerie KRUG",
+          "sexe": "F",
+          "age": 51,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "Parole aux Jeumontois",
+      "libelle_abrege_liste": "Parole aux Jeumontois",
+      "nuance_liste": "LDIV",
+      "voix": 430,
+      "pct_voix_exprimes": 13.84,
+      "sieges_cm": 2,
+      "sieges_cc": 0,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "DELVAUX",
+        "prenom": "Laetitia",
+        "nom_complet": "Laetitia DELVAUX",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "DELVAUX",
+          "prenom": "Laetitia",
+          "nom_complet": "Laetitia DELVAUX",
+          "sexe": "F",
+          "age": 44,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DEMEURE",
+          "prenom": "Marc",
+          "nom_complet": "Marc DEMEURE",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "code_commune": "59534",
+  "commune": "Saint-Hilaire-sur-Helpe",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "DOSEN",
+    "prenom": "Nicolas",
+    "nom_complet": "Nicolas DOSEN",
+    "age": 60,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 570,
+    "votants": 298,
+    "pct_votants": 52.28,
+    "abstentions": 272,
+    "pct_abstentions": 47.72,
+    "exprimes": 258
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "SAINT HILAIRE DEMAIN",
+      "libelle_abrege_liste": "SAINT HILAIRE DEMAIN",
+      "nuance_liste": null,
+      "voix": 258,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 15,
+      "sieges_cc": null,
+      "nb_elus": 15,
+      "tete_de_liste": {
+        "nom": "DOSEN",
+        "prenom": "Nicolas",
+        "nom_complet": "Nicolas DOSEN",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "DOSEN",
+          "prenom": "Nicolas",
+          "nom_complet": "Nicolas DOSEN",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "CORNU",
+          "prenom": "Sandrine",
+          "nom_complet": "Sandrine CORNU",
+          "sexe": "F",
+          "age": 54,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "SYMOND",
+          "prenom": "Stephane",
+          "nom_complet": "Stephane SYMOND",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "MENUT",
+          "prenom": "Anne-Marie",
+          "nom_complet": "Anne-Marie MENUT",
+          "sexe": "F",
+          "age": 70,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "FLAMENT",
+          "prenom": "Jean-Pierre",
+          "nom_complet": "Jean-Pierre FLAMENT",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "DELVALEE",
+          "prenom": "Line",
+          "nom_complet": "Line DELVALEE",
+          "sexe": "F",
+          "age": 55,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "HURBIN",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier HURBIN",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "BEAUDOUX",
+          "prenom": "Marie-France",
+          "nom_complet": "Marie-France BEAUDOUX",
+          "sexe": "F",
+          "age": 77,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "HARPIN",
+          "prenom": "Serge",
+          "nom_complet": "Serge HARPIN",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "CARION",
+          "prenom": "Annie",
+          "nom_complet": "Annie CARION",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "RIVIERE",
+          "prenom": "Thierry",
+          "nom_complet": "Thierry RIVIERE",
+          "sexe": "M",
+          "age": 60,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "BAILLON",
+          "prenom": "Ingrid",
+          "nom_complet": "Ingrid BAILLON",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "LARUELLE",
+          "prenom": "Pascal",
+          "nom_complet": "Pascal LARUELLE",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "MARION",
+          "prenom": "Alessia",
+          "nom_complet": "Alessia MARION",
+          "sexe": "F",
+          "age": 30,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "MARTINEZ",
+          "prenom": "Christophe",
+          "nom_complet": "Christophe MARTINEZ",
+          "sexe": "M",
+          "age": 49,
+          "rang_liste": "15"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "code_commune": "62855",
+  "commune": "Villers-au-Flos",
+  "departement": "Pas-de-Calais",
+  "tour": "T1",
+  "maire": {
+    "nom": "CARTON",
+    "prenom": "Jean-Bernard",
+    "nom_complet": "Jean-Bernard CARTON",
+    "age": 66,
+    "nuance": null
+  },
+  "resultats": {
+    "inscrits": 175,
+    "votants": 111,
+    "pct_votants": 63.43,
+    "abstentions": 64,
+    "pct_abstentions": 36.57,
+    "exprimes": 92
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "UNE ÉQUIPE SOUDÉE POUR VILLERS",
+      "libelle_abrege_liste": "UNE ÉQUIPE SOUDÉE POUR VILLERS",
+      "nuance_liste": null,
+      "voix": 92,
+      "pct_voix_exprimes": 100,
+      "sieges_cm": 11,
+      "sieges_cc": null,
+      "nb_elus": 11,
+      "tete_de_liste": {
+        "nom": "CARTON",
+        "prenom": "Jean-Bernard",
+        "nom_complet": "Jean-Bernard CARTON",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "CARTON",
+          "prenom": "Jean-Bernard",
+          "nom_complet": "Jean-Bernard CARTON",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "CHOQUET",
+          "prenom": "Adélaïde",
+          "nom_complet": "Adélaïde CHOQUET",
+          "sexe": "F",
+          "age": 35,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "DEMERVAL",
+          "prenom": "Fernand",
+          "nom_complet": "Fernand DEMERVAL",
+          "sexe": "M",
+          "age": 77,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "GAY",
+          "prenom": "Pauline",
+          "nom_complet": "Pauline GAY",
+          "sexe": "F",
+          "age": 30,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "CHOPIN",
+          "prenom": "Hervé",
+          "nom_complet": "Hervé CHOPIN",
+          "sexe": "M",
+          "age": 33,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "PLYWACZYK",
+          "prenom": "Vanessa",
+          "nom_complet": "Vanessa PLYWACZYK",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "SAILLIOT",
+          "prenom": "Michel",
+          "nom_complet": "Michel SAILLIOT",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "FLORIN",
+          "prenom": "Christel",
+          "nom_complet": "Christel FLORIN",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "BOURSIN",
+          "prenom": "Olivier",
+          "nom_complet": "Olivier BOURSIN",
+          "sexe": "M",
+          "age": 55,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "DEGAND",
+          "prenom": "Coralie",
+          "nom_complet": "Coralie DEGAND",
+          "sexe": "F",
+          "age": 34,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DELIVEYNE",
+          "prenom": "Georges",
+          "nom_complet": "Georges DELIVEYNE",
+          "sexe": "M",
+          "age": 64,
+          "rang_liste": "11"
+        }
+      ],
+      "statut_conseil": "majorite"
+    }
+  ]
+}

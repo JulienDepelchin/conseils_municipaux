@@ -1,0 +1,361 @@
+{
+  "code_commune": "59139",
+  "commune": "Caudry",
+  "departement": "Nord",
+  "tour": "T1",
+  "maire": {
+    "nom": "BRICOUT",
+    "prenom": "Frédéric",
+    "nom_complet": "Frédéric BRICOUT",
+    "age": 54,
+    "nuance": "LDVC"
+  },
+  "resultats": {
+    "inscrits": 9961,
+    "votants": 5680,
+    "pct_votants": 57.02,
+    "abstentions": 4281,
+    "pct_abstentions": 42.98,
+    "exprimes": 5565
+  },
+  "listes": [
+    {
+      "num_panneau": "1",
+      "libelle_liste": "ENSEMBLE POUR CAUDRY",
+      "libelle_abrege_liste": "ENSEMBLE POUR CAUDRY",
+      "nuance_liste": "LDVC",
+      "voix": 3482,
+      "pct_voix_exprimes": 62.57,
+      "sieges_cm": 28,
+      "sieges_cc": 13,
+      "nb_elus": 28,
+      "tete_de_liste": {
+        "nom": "BRICOUT",
+        "prenom": "Frédéric",
+        "nom_complet": "Frédéric BRICOUT",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "BRICOUT",
+          "prenom": "Frédéric",
+          "nom_complet": "Frédéric BRICOUT",
+          "sexe": "M",
+          "age": 54,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "MÉRY-DUEZ",
+          "prenom": "Anne-Sophie",
+          "nom_complet": "Anne-Sophie MÉRY-DUEZ",
+          "sexe": "F",
+          "age": 68,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "POULAIN",
+          "prenom": "Bernard",
+          "nom_complet": "Bernard POULAIN",
+          "sexe": "M",
+          "age": 70,
+          "rang_liste": "3"
+        },
+        {
+          "nom": "TRIOUX",
+          "prenom": "Sandrine",
+          "nom_complet": "Sandrine TRIOUX",
+          "sexe": "F",
+          "age": 61,
+          "rang_liste": "4"
+        },
+        {
+          "nom": "BONIFACE",
+          "prenom": "Didier",
+          "nom_complet": "Didier BONIFACE",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "5"
+        },
+        {
+          "nom": "THUILLEZ",
+          "prenom": "Martine",
+          "nom_complet": "Martine THUILLEZ",
+          "sexe": "F",
+          "age": 71,
+          "rang_liste": "6"
+        },
+        {
+          "nom": "RIQUET",
+          "prenom": "Alain",
+          "nom_complet": "Alain RIQUET",
+          "sexe": "M",
+          "age": 73,
+          "rang_liste": "7"
+        },
+        {
+          "nom": "MATON",
+          "prenom": "Audrey",
+          "nom_complet": "Audrey MATON",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "8"
+        },
+        {
+          "nom": "HISBERGUE",
+          "prenom": "Antoine",
+          "nom_complet": "Antoine HISBERGUE",
+          "sexe": "M",
+          "age": 45,
+          "rang_liste": "9"
+        },
+        {
+          "nom": "CAILLAUX",
+          "prenom": "Céline",
+          "nom_complet": "Céline CAILLAUX",
+          "sexe": "F",
+          "age": 43,
+          "rang_liste": "10"
+        },
+        {
+          "nom": "DEVIENNE",
+          "prenom": "Marc",
+          "nom_complet": "Marc DEVIENNE",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "11"
+        },
+        {
+          "nom": "DENIZON",
+          "prenom": "Violenne",
+          "nom_complet": "Violenne DENIZON",
+          "sexe": "F",
+          "age": 49,
+          "rang_liste": "12"
+        },
+        {
+          "nom": "CHMIELEWSKI",
+          "prenom": "Dominique",
+          "nom_complet": "Dominique CHMIELEWSKI",
+          "sexe": "M",
+          "age": 67,
+          "rang_liste": "13"
+        },
+        {
+          "nom": "NAVEZ",
+          "prenom": "Patricia",
+          "nom_complet": "Patricia NAVEZ",
+          "sexe": "F",
+          "age": 57,
+          "rang_liste": "14"
+        },
+        {
+          "nom": "BAUDOUX",
+          "prenom": "Aurélien",
+          "nom_complet": "Aurélien BAUDOUX",
+          "sexe": "M",
+          "age": 31,
+          "rang_liste": "15"
+        },
+        {
+          "nom": "CHATELAIN",
+          "prenom": "Nathalie",
+          "nom_complet": "Nathalie CHATELAIN",
+          "sexe": "F",
+          "age": 60,
+          "rang_liste": "16"
+        },
+        {
+          "nom": "MARIN",
+          "prenom": "Yves",
+          "nom_complet": "Yves MARIN",
+          "sexe": "M",
+          "age": 62,
+          "rang_liste": "17"
+        },
+        {
+          "nom": "DEMADE",
+          "prenom": "Betty",
+          "nom_complet": "Betty DEMADE",
+          "sexe": "F",
+          "age": 53,
+          "rang_liste": "18"
+        },
+        {
+          "nom": "BRULANT",
+          "prenom": "Damien",
+          "nom_complet": "Damien BRULANT",
+          "sexe": "M",
+          "age": 42,
+          "rang_liste": "19"
+        },
+        {
+          "nom": "LEMAIRE",
+          "prenom": "Maria",
+          "nom_complet": "Maria LEMAIRE",
+          "sexe": "F",
+          "age": 56,
+          "rang_liste": "20"
+        },
+        {
+          "nom": "DECALION",
+          "prenom": "Ismaël",
+          "nom_complet": "Ismaël DECALION",
+          "sexe": "M",
+          "age": 53,
+          "rang_liste": "21"
+        },
+        {
+          "nom": "LESECQUE",
+          "prenom": "Aurélia",
+          "nom_complet": "Aurélia LESECQUE",
+          "sexe": "F",
+          "age": 45,
+          "rang_liste": "22"
+        },
+        {
+          "nom": "ROUSSEAU",
+          "prenom": "Jérémy",
+          "nom_complet": "Jérémy ROUSSEAU",
+          "sexe": "M",
+          "age": 44,
+          "rang_liste": "23"
+        },
+        {
+          "nom": "LECOU",
+          "prenom": "Karine",
+          "nom_complet": "Karine LECOU",
+          "sexe": "F",
+          "age": 58,
+          "rang_liste": "24"
+        },
+        {
+          "nom": "LEFEBVRE",
+          "prenom": "Jérôme",
+          "nom_complet": "Jérôme LEFEBVRE",
+          "sexe": "M",
+          "age": 52,
+          "rang_liste": "25"
+        },
+        {
+          "nom": "DHAUSSY",
+          "prenom": "Bérengère",
+          "nom_complet": "Bérengère DHAUSSY",
+          "sexe": "F",
+          "age": 40,
+          "rang_liste": "26"
+        },
+        {
+          "nom": "CATENNE",
+          "prenom": "Patrice",
+          "nom_complet": "Patrice CATENNE",
+          "sexe": "M",
+          "age": 66,
+          "rang_liste": "27"
+        },
+        {
+          "nom": "DRON",
+          "prenom": "Francine",
+          "nom_complet": "Francine DRON",
+          "sexe": "F",
+          "age": 67,
+          "rang_liste": "28"
+        }
+      ],
+      "statut_conseil": "majorite"
+    },
+    {
+      "num_panneau": "4",
+      "libelle_liste": "Rassemblement pour Caudry",
+      "libelle_abrege_liste": "Rassemblement pour caudry",
+      "nuance_liste": "LRN",
+      "voix": 1226,
+      "pct_voix_exprimes": 22.03,
+      "sieges_cm": 3,
+      "sieges_cc": 1,
+      "nb_elus": 3,
+      "tete_de_liste": {
+        "nom": "DISDIER",
+        "prenom": "Mélanie",
+        "nom_complet": "Mélanie DISDIER",
+        "sexe": "F"
+      },
+      "elus": [
+        {
+          "nom": "DISDIER",
+          "prenom": "Mélanie",
+          "nom_complet": "Mélanie DISDIER",
+          "sexe": "F",
+          "age": 52,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "DHAUSSY",
+          "prenom": "Brandon",
+          "nom_complet": "Brandon DHAUSSY",
+          "sexe": "M",
+          "age": 27,
+          "rang_liste": "2"
+        },
+        {
+          "nom": "FROMONT",
+          "prenom": "Virginie",
+          "nom_complet": "Virginie FROMONT",
+          "sexe": "F",
+          "age": 50,
+          "rang_liste": "3"
+        }
+      ],
+      "statut_conseil": "autre"
+    },
+    {
+      "num_panneau": "2",
+      "libelle_liste": "AIMEZ CAUDRY",
+      "libelle_abrege_liste": "AIMEZ CAUDRY",
+      "nuance_liste": "LDVC",
+      "voix": 640,
+      "pct_voix_exprimes": 11.5,
+      "sieges_cm": 2,
+      "sieges_cc": 1,
+      "nb_elus": 2,
+      "tete_de_liste": {
+        "nom": "COLLIN",
+        "prenom": "Denis",
+        "nom_complet": "Denis COLLIN",
+        "sexe": "M"
+      },
+      "elus": [
+        {
+          "nom": "COLLIN",
+          "prenom": "Denis",
+          "nom_complet": "Denis COLLIN",
+          "sexe": "M",
+          "age": 65,
+          "rang_liste": "1"
+        },
+        {
+          "nom": "LEFEBVRE",
+          "prenom": "Brigitte",
+          "nom_complet": "Brigitte LEFEBVRE",
+          "sexe": "F",
+          "age": 71,
+          "rang_liste": "2"
+        }
+      ],
+      "statut_conseil": "autre"
+    },
+    {
+      "num_panneau": "3",
+      "libelle_liste": "Caudry à venir",
+      "libelle_abrege_liste": "Caudry à venir",
+      "nuance_liste": "LDVG",
+      "voix": 217,
+      "pct_voix_exprimes": 3.9,
+      "sieges_cm": 0,
+      "sieges_cc": 0,
+      "nb_elus": 0,
+      "tete_de_liste": null,
+      "elus": [],
+      "statut_conseil": "sans_elu"
+    }
+  ]
+}
